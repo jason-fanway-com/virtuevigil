@@ -11,6 +11,7 @@ const path = require('path');
 
 // === Config ===
 const SITE_URL = 'https://virtuevigil.com';
+const BUILD_VERSION = 'v1.4.0';
 const SRC = path.join(__dirname, 'src');
 const DIST = path.join(__dirname, 'dist');
 
@@ -50,10 +51,22 @@ function posterHTML(r, size) {
     const alt = esc(r.title) + ' poster';
     if (size === 'thumb') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-thumb" loading="lazy">`;
     if (size === 'card') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-card" loading="lazy">`;
+    if (size === 'featured') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-featured" loading="lazy">`;
     return `<img src="${r.poster}" alt="${alt}" class="poster-img" loading="lazy">`;
   }
-  // Fallback to emoji
-  return r.poster || '';
+  // Styled letter placeholder fallback
+  const initial = (r.title || '?').charAt(0).toUpperCase();
+  const icon = r.type === 'film' ? 'fa-film' : 'fa-tv';
+  if (size === 'thumb') {
+    return `<div class="poster-placeholder poster-placeholder-sm"><span class="poster-initial">${initial}</span><i class="fas ${icon} poster-type-icon"></i></div>`;
+  }
+  if (size === 'card') {
+    return `<div class="poster-placeholder poster-placeholder-md"><span class="poster-initial">${initial}</span><i class="fas ${icon} poster-type-icon"></i></div>`;
+  }
+  if (size === 'featured') {
+    return `<div class="poster-placeholder poster-placeholder-lg"><span class="poster-initial">${initial}</span><i class="fas ${icon} poster-type-icon"></i></div>`;
+  }
+  return `<div class="poster-placeholder"><span class="poster-initial">${initial}</span></div>`;
 }
 
 function mkdirp(dir) {
@@ -168,6 +181,7 @@ function siteHeader(activePage) {
           <span class="brand"><span>V</span>irtue<span>V</span>igil</span>
           <span class="tagline">Guarding Values. Exposing Agendas.</span>
         </div>
+        <span class="version-tag">${BUILD_VERSION}</span>
       </a>
       <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
         <i class="fas fa-bars"></i>
@@ -458,17 +472,24 @@ function buildHomepage() {
       <!-- FEATURED REVIEW -->
       <article class="featured-review" id="latest-review" itemscope itemtype="https://schema.org/Review">
         <div class="featured-header">
-          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
-            <span class="verdict-badge ${vc}"><i class="fas fa-${verdictIcon(vc)}"></i> ${esc(featured.verdict)}</span>
-            ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
-          </div>
-          <h2 class="review-title" itemprop="name">${esc(featured.title)}</h2>
-          <p class="review-subtitle" itemprop="description">${esc(featured.summary.overall.split('\n')[0].substring(0, 160))}...</p>
-          <div class="featured-meta">
-            <span><i class="fas fa-${featured.type === 'film' ? 'film' : 'tv'}"></i> ${featured.type === 'film' ? 'Film' : 'Series'} &middot; ${esc(featured.platform)}</span>
-            <span><i class="fas fa-calendar"></i> <time datetime="${featured.date}" itemprop="datePublished">${formatDate(featured.date)}</time></span>
-            <span><i class="fas fa-user-edit"></i> Analyzed by <span itemprop="author">${esc(featured.author)}</span></span>
-            <span><i class="fas fa-clock"></i> ${esc(featured.readTime)} read</span>
+          <div class="featured-header-layout">
+            <div class="featured-header-text">
+              <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
+                <span class="verdict-badge ${vc}"><i class="fas fa-${verdictIcon(vc)}"></i> ${esc(featured.verdict)}</span>
+                ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
+              </div>
+              <h2 class="review-title" itemprop="name">${esc(featured.title)}</h2>
+              <p class="review-subtitle" itemprop="description">${esc(featured.summary.overall.split('\n')[0].substring(0, 160))}...</p>
+              <div class="featured-meta">
+                <span><i class="fas fa-${featured.type === 'film' ? 'film' : 'tv'}"></i> ${featured.type === 'film' ? 'Film' : 'Series'} &middot; ${esc(featured.platform)}</span>
+                <span><i class="fas fa-calendar"></i> <time datetime="${featured.date}" itemprop="datePublished">${formatDate(featured.date)}</time></span>
+                <span><i class="fas fa-user-edit"></i> Analyzed by <span itemprop="author">${esc(featured.author)}</span></span>
+                <span><i class="fas fa-clock"></i> ${esc(featured.readTime)} read</span>
+              </div>
+            </div>
+            <div class="featured-poster-wrap">
+              ${posterHTML(featured, 'featured')}
+            </div>
           </div>
         </div>
 
@@ -596,17 +617,24 @@ function buildReviewPage(r) {
 
       <article class="featured-review" itemscope itemtype="https://schema.org/Review">
         <div class="featured-header">
-          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
-            <span class="verdict-badge ${vc}"><i class="fas fa-${verdictIcon(vc)}"></i> ${esc(r.verdict)}</span>
-            ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
-          </div>
-          <h2 class="review-title" itemprop="name">${esc(r.title)}</h2>
-          <p class="review-subtitle" itemprop="description">${esc(r.summary.overall.split('\n')[0].substring(0, 200))}</p>
-          <div class="featured-meta">
-            <span><i class="fas fa-${r.type === 'film' ? 'film' : 'tv'}"></i> ${r.type === 'film' ? 'Film' : 'Series'} &middot; ${esc(r.platform)}</span>
-            <span><i class="fas fa-calendar"></i> <time datetime="${r.date}" itemprop="datePublished">${formatDate(r.date)}</time></span>
-            <span><i class="fas fa-user-edit"></i> Analyzed by <span itemprop="author">${esc(r.author)}</span></span>
-            <span><i class="fas fa-clock"></i> ${esc(r.readTime)} read</span>
+          <div class="featured-header-layout">
+            <div class="featured-header-text">
+              <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
+                <span class="verdict-badge ${vc}"><i class="fas fa-${verdictIcon(vc)}"></i> ${esc(r.verdict)}</span>
+                ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
+              </div>
+              <h2 class="review-title" itemprop="name">${esc(r.title)}</h2>
+              <p class="review-subtitle" itemprop="description">${esc(r.summary.overall.split('\n')[0].substring(0, 200))}</p>
+              <div class="featured-meta">
+                <span><i class="fas fa-${r.type === 'film' ? 'film' : 'tv'}"></i> ${r.type === 'film' ? 'Film' : 'Series'} &middot; ${esc(r.platform)}</span>
+                <span><i class="fas fa-calendar"></i> <time datetime="${r.date}" itemprop="datePublished">${formatDate(r.date)}</time></span>
+                <span><i class="fas fa-user-edit"></i> Analyzed by <span itemprop="author">${esc(r.author)}</span></span>
+                <span><i class="fas fa-clock"></i> ${esc(r.readTime)} read</span>
+              </div>
+            </div>
+            <div class="featured-poster-wrap">
+              ${posterHTML(r, 'featured')}
+            </div>
           </div>
         </div>
 
@@ -1107,7 +1135,7 @@ function breadcrumbLD(items) {
 // ============================================
 
 function build() {
-  console.log('VirtueVigil Static Builder');
+  console.log(`VirtueVigil Static Builder ${BUILD_VERSION}`);
   console.log('=========================\n');
 
   // Clean dist

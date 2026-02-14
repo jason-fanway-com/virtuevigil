@@ -787,6 +787,78 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
   color: var(--text-muted);
 }
 
+/* --- Version Tag --- */
+.version-tag {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 2px 8px;
+  border-radius: 3px;
+  letter-spacing: 0.5px;
+  margin-left: 6px;
+  align-self: center;
+}
+
+/* --- Poster Placeholders (when no real poster URL) --- */
+.poster-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-card) 100%);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  position: relative;
+}
+.poster-placeholder .poster-initial {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  color: var(--gold);
+  line-height: 1;
+}
+.poster-placeholder .poster-type-icon {
+  color: var(--text-muted);
+  opacity: 0.5;
+  margin-top: 4px;
+}
+.poster-placeholder-sm .poster-initial { font-size: 1.6rem; }
+.poster-placeholder-sm .poster-type-icon { font-size: 0.6rem; }
+.poster-placeholder-md .poster-initial { font-size: 2.4rem; }
+.poster-placeholder-md .poster-type-icon { font-size: 0.8rem; }
+.poster-placeholder-lg .poster-initial { font-size: 4rem; }
+.poster-placeholder-lg .poster-type-icon { font-size: 1.2rem; margin-top: 8px; }
+
+/* --- Featured Review Poster Layout --- */
+.featured-header-layout {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+}
+.featured-header-text { flex: 1; min-width: 0; }
+.featured-poster-wrap {
+  flex: 0 0 160px;
+  height: 230px;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  border: 2px solid var(--border-gold);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3), 0 0 20px rgba(201,168,76,0.08);
+  margin-top: 10px;
+}
+.featured-poster-wrap .poster-img.poster-featured {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.featured-poster-wrap .poster-placeholder {
+  border: none;
+  border-radius: 0;
+}
+
 /* --- Breadcrumbs --- */
 .breadcrumb {
   font-size: 0.8rem;
@@ -977,6 +1049,8 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
   .hero-content h1 { font-size: 1.8rem; }
   .featured-header { padding: 30px 20px 24px; }
   .featured-header .review-title { font-size: 1.5rem; }
+  .featured-header-layout { flex-direction: column-reverse; gap: 16px; }
+  .featured-poster-wrap { flex: none; width: 120px; height: 170px; margin-top: 0; }
   .score-panel { padding: 16px 20px; grid-template-columns: 1fr 1fr; }
   .featured-body { padding: 20px; }
   .review-card-inner { flex-direction: column; }
@@ -984,6 +1058,7 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
   .spokesperson { flex-direction: column; text-align: center; }
   .footer-grid { grid-template-columns: 1fr; }
   .footer-bottom { flex-direction: column; text-align: center; }
+  .version-tag { display: none; }
 }
 
 /* --- Animations --- */
