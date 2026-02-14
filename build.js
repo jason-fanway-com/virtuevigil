@@ -11,7 +11,7 @@ const path = require('path');
 
 // === Config ===
 const SITE_URL = 'https://virtuevigil.com';
-const BUILD_VERSION = 'v1.6.0';
+const BUILD_VERSION = 'v1.6.1';
 const SRC = path.join(__dirname, 'src');
 const DIST = path.join(__dirname, 'dist');
 
@@ -49,22 +49,22 @@ function verdictIcon(vc) {
 function posterHTML(r, size) {
   if (r.poster && r.poster.startsWith('http')) {
     const alt = esc(r.title) + ' poster';
-    if (size === 'thumb') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-thumb" loading="lazy">`;
-    if (size === 'card') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-card" loading="lazy">`;
-    if (size === 'featured') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-featured" loading="lazy">`;
+    if (size === 'thumb') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-thumb" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
+    if (size === 'card') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-card" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
+    if (size === 'featured') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-featured" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
     return `<img src="${r.poster}" alt="${alt}" class="poster-img" loading="lazy">`;
   }
   // Styled letter placeholder fallback
   const initial = (r.title || '?').charAt(0).toUpperCase();
   const icon = r.type === 'film' ? 'fa-film' : 'fa-tv';
   if (size === 'thumb') {
-    return `<div class="poster-placeholder poster-placeholder-sm"><span class="poster-initial">${initial}</span><i class="fas ${icon} poster-type-icon"></i></div>`;
+    return `<div class="poster-placeholder poster-placeholder-sm" style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(135deg,#14141c,#1a1a26);border-radius:4px;"><span class="poster-initial" style="font-size:1.6rem;font-weight:700;color:#c9a84c;">${initial}</span><i class="fas ${icon} poster-type-icon" style="color:#6a6a75;opacity:0.5;font-size:0.6rem;margin-top:4px;"></i></div>`;
   }
   if (size === 'card') {
-    return `<div class="poster-placeholder poster-placeholder-md"><span class="poster-initial">${initial}</span><i class="fas ${icon} poster-type-icon"></i></div>`;
+    return `<div class="poster-placeholder poster-placeholder-md" style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(135deg,#14141c,#1a1a26);border-radius:6px;"><span class="poster-initial" style="font-size:2.4rem;font-weight:700;color:#c9a84c;">${initial}</span><i class="fas ${icon} poster-type-icon" style="color:#6a6a75;opacity:0.5;font-size:0.8rem;margin-top:4px;"></i></div>`;
   }
   if (size === 'featured') {
-    return `<div class="poster-placeholder poster-placeholder-lg"><span class="poster-initial">${initial}</span><i class="fas ${icon} poster-type-icon"></i></div>`;
+    return `<div class="poster-placeholder poster-placeholder-lg" style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(135deg,#14141c,#1a1a26);border-radius:0;"><span class="poster-initial" style="font-size:4rem;font-weight:700;color:#c9a84c;font-family:'Cinzel',Georgia,serif;">${initial}</span><i class="fas ${icon} poster-type-icon" style="color:#6a6a75;opacity:0.5;font-size:1.2rem;margin-top:8px;"></i></div>`;
   }
   return `<div class="poster-placeholder"><span class="poster-initial">${initial}</span></div>`;
 }
@@ -472,8 +472,8 @@ function buildHomepage() {
       <!-- FEATURED REVIEW -->
       <article class="featured-review" id="latest-review" itemscope itemtype="https://schema.org/Review">
         <div class="featured-header">
-          <div class="featured-header-layout">
-            <div class="featured-header-text">
+          <div class="featured-header-layout" style="display:flex;gap:28px;align-items:flex-start;">
+            <div class="featured-header-text" style="flex:1;min-width:0;">
               <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
                 <span class="verdict-badge ${vc}"><i class="fas fa-${verdictIcon(vc)}"></i> ${esc(featured.verdict)}</span>
                 ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
@@ -487,7 +487,7 @@ function buildHomepage() {
                 <span><i class="fas fa-clock"></i> ${esc(featured.readTime)} read</span>
               </div>
             </div>
-            <div class="featured-poster-wrap">
+            <div class="featured-poster-wrap" style="flex:0 0 160px;width:160px;height:230px;border-radius:10px;overflow:hidden;border:2px solid rgba(201,168,76,0.3);">
               ${posterHTML(featured, 'featured')}
             </div>
           </div>
@@ -600,7 +600,7 @@ function buildReviewPage(r) {
     { name: r.title, url: canonical }
   ]);
 
-  return `${htmlHead({ title, description: desc, keywords: kw, canonical, ogType: 'article', ogImage, structuredData, breadcrumbs: reviewBreadcrumbs })}
+  return `${htmlHead({ title, description: desc, keywords: kw, canonical, ogType: 'article', ogImage, structuredData, breadcrumbs: reviewBreadcrumbs, extraHead: '<style>.review-detail::before{display:none!important;content:none!important;}</style>' })}
 <body>
   ${topBanner()}
   ${siteHeader('index')}
@@ -615,10 +615,10 @@ function buildReviewPage(r) {
         <span>${esc(r.title)}</span>
       </nav>
 
-      <article class="featured-review review-detail" itemscope itemtype="https://schema.org/Review">
+      <article class="featured-review review-detail" style="position:relative;" itemscope itemtype="https://schema.org/Review">
         <div class="featured-header">
-          <div class="featured-header-layout">
-            <div class="featured-header-text">
+          <div class="featured-header-layout" style="display:flex;gap:28px;align-items:flex-start;">
+            <div class="featured-header-text" style="flex:1;min-width:0;">
               <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
                 <span class="verdict-badge ${vc}"><i class="fas fa-${verdictIcon(vc)}"></i> ${esc(r.verdict)}</span>
                 ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
@@ -632,7 +632,7 @@ function buildReviewPage(r) {
                 <span><i class="fas fa-clock"></i> ${esc(r.readTime)} read</span>
               </div>
             </div>
-            <div class="featured-poster-wrap">
+            <div class="featured-poster-wrap" style="flex:0 0 160px;width:160px;height:230px;border-radius:10px;overflow:hidden;border:2px solid rgba(201,168,76,0.3);">
               ${posterHTML(r, 'featured')}
             </div>
           </div>

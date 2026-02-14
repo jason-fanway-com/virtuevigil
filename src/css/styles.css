@@ -409,7 +409,8 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 }
 /* Hide "LATEST REVIEW" badge on individual review pages */
 .featured-review.review-detail::before {
-  display: none;
+  display: none !important;
+  content: '' !important;
 }
 .featured-header {
   position: relative;
