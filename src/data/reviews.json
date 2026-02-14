@@ -1,0 +1,386 @@
+[
+  {
+    "id": "independence-day-2026",
+    "slug": "independence-day",
+    "title": "Independence day",
+    "year": 2026,
+    "type": "film",
+    "platform": "varies by distributor and rental platforms",
+    "genre": "",
+    "date": "2026-02-11",
+    "author": "Debra Ducane",
+    "readTime": "8 min",
+    "poster": "🎬",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 1,
+    "tradScore": 6,
+    "authIndex": 88,
+    "scoreMargin": "+5 TRAD",
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "No late-story ideological reversal or bait-and-switch messaging is present.",
+      "viewerSentiment": null
+    },
+    "summary": {
+      "overall": "Independence Day is built on a traditional moral structure centered on individual courage, earned leadership, and collective survival through merit and sacrifice. The narrative elevates flawed but capable individuals who grow into responsibility under pressure. Authority is portrayed as legitimate when it is competent and accountable, particularly through the President’s transition from political figure to wartime leader and David Levinson’s intellectual heroism. The story’s moral center is clear: survival depends on responsibility, ingenuity, and cooperation across nations without dissolving individual identity or accountability.\n\nThe film’s unity theme is nationalistic but not ideological. Differences between characters exist, but they are resolved through shared purpose rather than identity-based moral hierarchy. The storytelling rewards competence and sacrifice consistently. Any gestures toward social framing are minor and organic to character background rather than didactic messaging. The film ultimately reinforces traditional disaster-movie values: family protection, earned redemption, and leadership through action rather than rhetoric.",
+      "adultInsight": "For adult viewers, the film functions as a competence narrative. Redemption arcs, especially the alcoholic pilot’s return to purpose, reinforce consequence-based morality. Leadership is legitimized through sacrifice and decision-making under pressure rather than institutional authority alone.",
+      "parentalGuidance": "Parents should expect large-scale destruction imagery and war themes, but the moral framework is stable and clear. The story emphasizes bravery, responsibility, reconciliation between family members, and cooperation during crisis."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Redemption Through Sacrifice",
+        "category": "TRAD",
+        "location": "Climactic alien ship attack",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Earned Leadership",
+        "category": "TRAD",
+        "location": "President flying combat mission",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Individual Merit Saves Collective",
+        "category": "TRAD",
+        "location": "Virus plan created by David Levinson",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Family Reconciliation",
+        "category": "TRAD",
+        "location": "David and his father throughout narrative",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Global Unity Against External Threat",
+        "category": "TRAD",
+        "location": "Final coordinated world attack",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Identity Reference for Character Texture",
+        "category": "WOKE",
+        "location": "Background dialogue and character framing moments",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Consequence-Based Heroism",
+        "category": "TRAD",
+        "location": "Military losses and strategic retreat sequences",
+        "authenticity": "Natural"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Independence day Woke? Traditional Values Rating | VirtueVigil",
+      "metaDescription": "Is Independence day woke? VirtueVigil's analysis: Woke Score 1, Traditional 6, Authenticity 88%. Full trope audit and family guidance.",
+      "keywords": "is independence day woke, independence day review, independence day traditional score, independence day family review, independence day ideology"
+    }
+  },
+  {
+    "id": "nightbitch-2026",
+    "slug": "nightbitch",
+    "title": "Nightbitch",
+    "year": 2026,
+    "type": "film",
+    "platform": "Hulu",
+    "genre": "Drama",
+    "date": "2026-02-08",
+    "author": "Debra Ducane",
+    "readTime": "8 min",
+    "poster": "🎬",
+    "verdict": "WOKE",
+    "wokeScore": 14,
+    "tradScore": 0,
+    "authIndex": 28,
+    "scoreMargin": "+14 WOKE",
+    "wokeTrap": {
+      "present": true,
+      "degree": "High",
+      "explanation": "The first instance of explicit ideological messaging occurs after approximately 55% of runtime. The film deliberately establishes emotional investment through relatable maternal struggle before introducing its systemic critique. The shift from personal to political is architecturally embedded, not organic to the story's natural progression.",
+      "viewerSentiment": "Viewers who connected with the grounded first half will feel the narrative pivot as a betrayal of the story's initial promise."
+    },
+    "summary": {
+      "overall": "Nightbitch opens as a character study of maternal exhaustion — a woman losing her identity in the repetitive isolation of full-time parenthood. The performances are grounded. The frustration feels earned. For roughly the first half of the film, this appears to be a genuine exploration of a universal experience.\n\nThen the ideological framing takes over. What begins as personal struggle becomes systemic accusation. The husband evolves from an imperfect partner into a symbol of patriarchal indifference. The supernatural elements — the literal transformation — shift from metaphor to manifesto. By the final act, the story stops asking the audience to empathize and starts demanding they agree.",
+      "adultInsight": "The film invests significant screen time building emotional credibility before its ideological pivot. Adult viewers who commit to the first hour expecting a character drama will find the second half increasingly prescriptive. The narrative hijacking is deliberate and the time-investment cost is real.",
+      "parentalGuidance": "Not suitable for family viewing. The film normalizes resentment toward the nuclear family structure, presents paternal absence as inherent rather than individual, and frames traditional motherhood as a form of psychological imprisonment. These are presented as conclusions, not perspectives."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Subversion of Traditional Motherhood",
+        "category": "WOKE",
+        "location": "Acts II–III",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Patriarchal Indifference Trope",
+        "category": "WOKE",
+        "location": "Throughout",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Identity Liberation Arc",
+        "category": "WOKE",
+        "location": "Final Act",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Institutional Critique via Metaphor",
+        "category": "WOKE",
+        "location": "Acts II–III",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Female Rage as Liberation",
+        "category": "WOKE",
+        "location": "Climax",
+        "authenticity": "Forced"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Nightbitch Woke? Woke Score & Ideology Analysis | VirtueVigil",
+      "metaDescription": "Is Nightbitch woke? VirtueVigil's analysis: Woke Score 14, Traditional Score 0, Authenticity Index 28%. Woke Trap detected. Full trope audit and family guidance inside.",
+      "keywords": "is nightbitch woke, nightbitch review, nightbitch woke score, nightbitch ideology, nightbitch family review, nightbitch woke trap"
+    }
+  },
+  {
+    "id": "the-last-of-us-s2-2026",
+    "slug": "the-last-of-us-s2",
+    "title": "The Last of Us — Season 2",
+    "year": 2026,
+    "type": "series",
+    "platform": "HBO",
+    "genre": "Drama",
+    "date": "2026-02-03",
+    "author": "Debra Ducane",
+    "readTime": "10 min",
+    "poster": "📺",
+    "verdict": "WOKE",
+    "wokeScore": 11,
+    "tradScore": 3,
+    "authIndex": 35,
+    "scoreMargin": "+8 WOKE",
+    "wokeTrap": {
+      "present": true,
+      "degree": "High",
+      "explanation": "Season 1 earned enormous trust through grounded storytelling and earned emotional beats. Season 2 leverages that trust to introduce ideological reframing that would not have survived scrutiny if presented upfront. The bait-and-switch is architecturally precise.",
+      "viewerSentiment": "Viewers invested in Season 1's narrative integrity will experience Season 2's ideological pivot as a fundamental breach of storytelling trust."
+    },
+    "summary": {
+      "overall": "Season 1 earned enormous trust through grounded storytelling and earned emotional beats. Season 2 leverages that trust to introduce ideological reframing that would not have survived scrutiny if presented upfront. The bait-and-switch is architecturally precise. What made the first season compelling — moral complexity, survival-driven choices, earned relationships — is gradually replaced by identity-driven narrative restructuring.",
+      "adultInsight": "The season retains enough production quality and performer commitment to mask its ideological shifts. Adult viewers should note that narrative decisions increasingly serve messaging over story logic. Characters begin making choices that serve thematic instruction rather than their established psychology.",
+      "parentalGuidance": "Contains graphic violence, strong language, and mature themes throughout. Beyond content concerns, the season introduces identity frameworks that may require contextual conversation with older teens."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Identity-Based Moral Authority",
+        "category": "WOKE",
+        "location": "Episodes 3-7",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Narrative Trust Exploitation",
+        "category": "WOKE",
+        "location": "Season Arc",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Survival & Sacrifice",
+        "category": "TRAD",
+        "location": "Episodes 1-2",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Moral Relativism as Resolution",
+        "category": "WOKE",
+        "location": "Finale",
+        "authenticity": "Forced"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is The Last of Us Season 2 Woke? Woke Trap Alert | VirtueVigil",
+      "metaDescription": "Is The Last of Us Season 2 woke? VirtueVigil's verdict: Woke Trap detected. Woke Score 11, Traditional 3, Authenticity 35%. See the full analysis and family guide.",
+      "keywords": "is the last of us season 2 woke, last of us s2 review, last of us woke trap, last of us ideology, HBO woke shows"
+    }
+  },
+  {
+    "id": "snow-white-2025",
+    "slug": "snow-white-2025",
+    "title": "Snow White (2025)",
+    "year": 2025,
+    "type": "film",
+    "platform": "Disney",
+    "genre": "Fantasy",
+    "date": "2026-01-28",
+    "author": "Debra Ducane",
+    "readTime": "7 min",
+    "poster": "🎬",
+    "verdict": "WOKE",
+    "wokeScore": 18,
+    "tradScore": 1,
+    "authIndex": 15,
+    "scoreMargin": "+17 WOKE",
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "This is not a Woke Trap — the ideological rewrite is visible from the first scene. The worldview is upfront, which means viewers can opt out immediately. Transparency noted.",
+      "viewerSentiment": null
+    },
+    "summary": {
+      "overall": "This is not a Woke Trap — the ideological rewrite is visible from the first scene. The original fairy tale structure is dismantled and rebuilt around contemporary progressive messaging. The worldview is upfront, which means viewers can opt out immediately. Transparency noted. However, the density of ideological restructuring is among the highest we have recorded.",
+      "adultInsight": "The film is less a reimagining and more a replacement. Adult viewers expecting any fidelity to the source material will find none. The storytelling serves its messaging rather than its narrative. Production values cannot compensate for the absence of authentic story logic.",
+      "parentalGuidance": "Not recommended for children. The film actively deconstructs the fairy tale framework children may already know and replaces it with messaging about power structures, gender roles, and institutional critique. The original moral framework is not updated — it is rejected."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Complete Source Material Deconstruction",
+        "category": "WOKE",
+        "location": "Throughout",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Rejection of Traditional Femininity",
+        "category": "WOKE",
+        "location": "Throughout",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Power Structure Critique",
+        "category": "WOKE",
+        "location": "Acts II-III",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Institutional Moral Authority",
+        "category": "WOKE",
+        "location": "Climax",
+        "authenticity": "Forced"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Snow White 2025 Woke? Disney Remake Review | VirtueVigil",
+      "metaDescription": "Is Disney's Snow White 2025 woke? VirtueVigil's analysis: Woke Score 18, Traditional 1, Authenticity 15%. Full trope audit and parental guidance inside.",
+      "keywords": "is snow white 2025 woke, snow white remake review, disney snow white woke, snow white ideology, snow white family review"
+    }
+  },
+  {
+    "id": "severance-s2-2026",
+    "slug": "severance-s2",
+    "title": "Severance — Season 2",
+    "year": 2026,
+    "type": "series",
+    "platform": "Apple TV+",
+    "genre": "Thriller",
+    "date": "2026-01-22",
+    "author": "Debra Ducane",
+    "readTime": "9 min",
+    "poster": "📺",
+    "verdict": "MIXED",
+    "wokeScore": 6,
+    "tradScore": 4,
+    "authIndex": 72,
+    "scoreMargin": "+2 WOKE",
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "No Woke Trap detected. Ideological themes are structurally embedded from the outset and are transparent to the viewer.",
+      "viewerSentiment": null
+    },
+    "summary": {
+      "overall": "The anti-corporate themes are structurally embedded and largely organic to the world-building. Some ideological markers are present but remain secondary to genuine narrative ambition. The series respects its audience enough to present themes rather than sermons. This is how ideological content can exist without manipulation — the worldview is visible from the start.",
+      "adultInsight": "Severance remains one of the more intellectually honest series on streaming. Its anti-corporate commentary is earned through world-building rather than imposed through dialogue. The storytelling is ambitious, the mystery compelling, and the thematic content is presented with enough nuance to permit audience interpretation rather than demanding agreement.",
+      "parentalGuidance": "Not appropriate for younger viewers due to psychological themes, violence, and complex moral territory. For older teens, the series could prompt valuable conversation about corporate ethics, identity, and personal agency — themes presented with enough balance to serve as discussion material rather than instruction."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Anti-Corporate Institutional Critique",
+        "category": "WOKE",
+        "location": "Throughout",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Personal Agency & Resistance",
+        "category": "TRAD",
+        "location": "Throughout",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Identity Autonomy",
+        "category": "WOKE",
+        "location": "Season Arc",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Loyalty & Sacrifice",
+        "category": "TRAD",
+        "location": "Episodes 5-8",
+        "authenticity": "Natural"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Severance Season 2 Woke? Content Analysis | VirtueVigil",
+      "metaDescription": "Is Severance Season 2 woke? VirtueVigil rates it MIXED. Woke Score 6, Traditional 4, Authenticity 72%. No Woke Trap. See our full analysis.",
+      "keywords": "is severance season 2 woke, severance review, severance ideology, apple tv woke shows, severance family review"
+    }
+  },
+  {
+    "id": "1923-s2-2026",
+    "slug": "1923-s2",
+    "title": "1923 — Season 2",
+    "year": 2026,
+    "type": "series",
+    "platform": "Paramount+",
+    "genre": "Western",
+    "date": "2026-01-15",
+    "author": "Debra Ducane",
+    "readTime": "6 min",
+    "poster": "📺",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2,
+    "tradScore": 10,
+    "authIndex": 88,
+    "scoreMargin": "+8 TRAD",
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "No Woke Trap detected. Content consistently reflects traditional values throughout.",
+      "viewerSentiment": null
+    },
+    "summary": {
+      "overall": "Continues the Yellowstone universe's commitment to depicting traditional American values — land stewardship, family loyalty, personal sacrifice — without apology. Characters are defined by their choices and virtues, not by demographic categories. A reliable family watch for adult audiences. This is storytelling that trusts its narrative rather than subordinating it to messaging.",
+      "adultInsight": "1923 Season 2 delivers what its audience expects: competent historical drama grounded in consequence-based storytelling. Characters earn their moral authority through action rather than identity. The series does not lecture. It tells a story, and the values are embedded in the telling.",
+      "parentalGuidance": "Appropriate for mature teens with parental context. Contains period-appropriate violence, some language, and mature themes related to survival, loss, and duty. The moral framework is clear and consistently applied — actions have consequences, loyalty is tested, and sacrifice is meaningful."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Land & Family Stewardship",
+        "category": "TRAD",
+        "location": "Throughout",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Consequence-Based Morality",
+        "category": "TRAD",
+        "location": "Throughout",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Individual Virtue Over Group Identity",
+        "category": "TRAD",
+        "location": "Throughout",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Earned Moral Authority",
+        "category": "TRAD",
+        "location": "Season Arc",
+        "authenticity": "Natural"
+      }
+    ],
+    "seo": {
+      "titleTag": "1923 Season 2 Review: Traditional Values Rating | VirtueVigil",
+      "metaDescription": "1923 Season 2 rated TRADITIONAL by VirtueVigil. Woke Score 2, Traditional 10, Authenticity 88%. Family-friendly for adults. Full review inside.",
+      "keywords": "is 1923 season 2 woke, 1923 review, yellowstone universe review, traditional values shows, conservative TV shows, 1923 family review"
+    }
+  }
+]
