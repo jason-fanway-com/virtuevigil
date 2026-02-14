@@ -11,7 +11,8 @@ const path = require('path');
 
 // === Config ===
 const SITE_URL = 'https://virtuevigil.com';
-const BUILD_VERSION = 'v1.4.0';
+const BUILD_VERSION = 'v1.5.0';
+const OMDB_API_KEY = process.env.OMDB_API_KEY || '';
 const SRC = path.join(__dirname, 'src');
 const DIST = path.join(__dirname, 'dist');
 
@@ -93,6 +94,60 @@ function writePage(relPath, html) {
   mkdirp(path.dirname(fullPath));
   fs.writeFileSync(fullPath, html);
   console.log(`  ${relPath}`);
+}
+
+// === OMDB Poster Auto-Fetch ===
+function fetchJSON(url) {
+  return new Promise((resolve, reject) => {
+    const https = require('https');
+    https.get(url, res => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try { resolve(JSON.parse(data)); }
+        catch (e) { reject(e); }
+      });
+    }).on('error', reject);
+  });
+}
+
+async function fetchPostersFromOMDB() {
+  if (!OMDB_API_KEY) {
+    console.log('  No OMDB_API_KEY set — skipping poster fetch');
+    return;
+  }
+
+  let updated = 0;
+  for (const r of reviews) {
+    // Skip if already has a real poster URL
+    if (r.poster && r.poster.startsWith('http')) continue;
+
+    // Clean title for search (remove "— Season X" suffixes)
+    let searchTitle = r.title.replace(/\s*[—–-]\s*Season\s*\d+/i, '').trim();
+    const mediaType = r.type === 'film' ? 'movie' : 'series';
+
+    try {
+      const url = `https://www.omdbapi.com/?apikey=${OMDB_API_KEY}&t=${encodeURIComponent(searchTitle)}&type=${mediaType}`;
+      const data = await fetchJSON(url);
+
+      if (data.Response === 'True' && data.Poster && data.Poster !== 'N/A') {
+        r.poster = data.Poster;
+        updated++;
+        console.log(`  ✓ ${r.title} → poster found`);
+      } else {
+        console.log(`  ✗ ${r.title} → no poster (${data.Error || 'N/A'})`);
+      }
+    } catch (err) {
+      console.log(`  ✗ ${r.title} → fetch error: ${err.message}`);
+    }
+  }
+
+  if (updated > 0) {
+    // Save updated posters back to reviews.json so they persist
+    const reviewsPath = path.join(SRC, 'data/reviews.json');
+    fs.writeFileSync(reviewsPath, JSON.stringify(reviews, null, 2));
+    console.log(`  Updated ${updated} poster(s) in reviews.json`);
+  }
 }
 
 // Build category data
@@ -615,7 +670,7 @@ function buildReviewPage(r) {
         <span>${esc(r.title)}</span>
       </nav>
 
-      <article class="featured-review" itemscope itemtype="https://schema.org/Review">
+      <article class="featured-review review-detail" itemscope itemtype="https://schema.org/Review">
         <div class="featured-header">
           <div class="featured-header-layout">
             <div class="featured-header-text">
@@ -1134,16 +1189,20 @@ function breadcrumbLD(items) {
 // MAIN BUILD
 // ============================================
 
-function build() {
+async function build() {
   console.log(`VirtueVigil Static Builder ${BUILD_VERSION}`);
   console.log('=========================\n');
+
+  // --- Auto-fetch posters ---
+  console.log('Checking posters:');
+  await fetchPostersFromOMDB();
 
   // Clean dist
   if (fs.existsSync(DIST)) fs.rmSync(DIST, { recursive: true });
   mkdirp(DIST);
 
   // --- Pages ---
-  console.log('Building pages:');
+  console.log('\nBuilding pages:');
   writePage('index.html', buildHomepage());
   writePage('about.html', buildAboutPage());
   writePage('methodology.html', buildMethodologyPage());

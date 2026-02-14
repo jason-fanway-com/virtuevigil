@@ -407,6 +407,10 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
   letter-spacing: 1.5px;
   z-index: 2;
 }
+/* Hide "LATEST REVIEW" badge on individual review pages */
+.featured-review.review-detail::before {
+  display: none;
+}
 .featured-header {
   position: relative;
   background: linear-gradient(135deg, #1a1a26 0%, #22222f 100%);
