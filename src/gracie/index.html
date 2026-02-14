@@ -343,24 +343,24 @@
 
         <div class="form-section poster-section">
           <h3><i class="fas fa-image"></i> Movie Poster</h3>
-          <div class="poster-search-bar">
-            <input type="text" id="pip_posterSearch" placeholder="Search TMDB for poster..." onkeydown="if(event.key==='Enter')searchPoster()">
-            <button class="btn btn-outline" onclick="searchPoster()" id="btnPosterSearch"><i class="fas fa-search"></i> Search</button>
+          <div style="display:flex;gap:8px;align-items:flex-end;margin-bottom:12px;">
+            <div style="flex:1;">
+              <label>Poster URL</label>
+              <input type="text" id="pip_posterUrl" class="poster-url-input" placeholder="Paste poster image URL from IMDB..." onchange="updatePosterPreview()">
+            </div>
+            <button class="btn btn-outline" onclick="openIMDBForNew()" id="btnPosterSearch" style="padding:8px 14px;font-size:0.82rem;white-space:nowrap;"><i class="fas fa-external-link-alt"></i> Find on IMDB</button>
           </div>
           <div id="posterResults" class="poster-results" style="display:none;"></div>
           <div id="posterPreview" class="poster-preview" style="display:none;">
             <img id="posterPreviewImg" src="" alt="Selected poster">
             <div class="poster-info">
               <p id="posterPreviewTitle"></p>
-              <label>Poster URL (editable)</label>
-              <input type="text" id="pip_posterUrl" class="poster-url-input" placeholder="https://image.tmdb.org/t/p/w500/..." onchange="updatePosterPreview()">
               <div style="margin-top:8px;display:flex;gap:8px;">
-                <button class="btn btn-outline" onclick="searchPoster()" style="padding:6px 12px;font-size:0.8rem;"><i class="fas fa-redo"></i> Re-search</button>
                 <button class="btn btn-outline" onclick="clearPoster()" style="padding:6px 12px;font-size:0.8rem;color:var(--red);border-color:var(--red);"><i class="fas fa-times"></i> Remove</button>
               </div>
             </div>
           </div>
-          <div class="hint">Uses OMDB (free API key required in Settings, instant signup at omdbapi.com). You can also paste any image URL directly.</div>
+          <div class="hint">Go to IMDB, find the title, right-click the poster image &rarr; "Copy Image Address", then paste the URL above.</div>
         </div>
 
         <div class="form-section">
@@ -584,12 +584,7 @@
         </div>
         <div class="hint" style="margin-top:-12px;margin-bottom:16px;">Required for AI review generation and X post generation. Your key is stored locally in this browser.</div>
 
-        <div class="setting-row">
-          <label>OMDB API Key</label>
-          <input type="password" id="set_omdbKey" placeholder="Your OMDB API key">
-          <div class="status-dot disconnected" id="dot_omdb"></div>
-        </div>
-        <div class="hint" style="margin-top:-12px;margin-bottom:16px;">Free instant key at <a href="https://www.omdbapi.com/apikey.aspx" target="_blank" rel="noopener">omdbapi.com/apikey.aspx</a>. Enter your email, they send the key immediately. Used to auto-fetch movie/TV posters.</div>
+        <!-- OMDB removed — poster URLs are pasted manually from IMDB -->
 
         <div class="setting-row">
           <label>OpenAI Model</label>
@@ -859,7 +854,7 @@ function loadSettings() {
   if (s.openaiKey) document.getElementById('set_openaiKey').value = s.openaiKey;
   if (s.openaiModel) document.getElementById('set_openaiModel').value = s.openaiModel;
   if (s.maxScriptChars) document.getElementById('set_maxScriptChars').value = s.maxScriptChars;
-  if (s.omdbKey) document.getElementById('set_omdbKey').value = s.omdbKey;
+  // omdbKey removed — poster URLs pasted manually from IMDB
   if (s.ghToken) document.getElementById('set_ghToken').value = s.ghToken;
   if (s.ghRepo) document.getElementById('set_ghRepo').value = s.ghRepo;
   if (s.ghBranch) document.getElementById('set_ghBranch').value = s.ghBranch;
@@ -874,7 +869,7 @@ function saveSettings() {
     openaiKey: document.getElementById('set_openaiKey').value.trim(),
     openaiModel: document.getElementById('set_openaiModel').value,
     maxScriptChars: document.getElementById('set_maxScriptChars').value || '60000',
-    omdbKey: document.getElementById('set_omdbKey').value.trim(),
+    // omdbKey removed
     ghToken: document.getElementById('set_ghToken').value.trim(),
     ghRepo: document.getElementById('set_ghRepo').value.trim(),
     ghBranch: document.getElementById('set_ghBranch').value.trim() || 'main',
@@ -890,7 +885,6 @@ function saveSettings() {
 function updateStatusDots() {
   const s = getSettings();
   document.getElementById('dot_openai').className = 'status-dot ' + (s.openaiKey ? 'connected' : 'disconnected');
-  document.getElementById('dot_omdb').className = 'status-dot ' + (s.omdbKey ? 'connected' : 'disconnected');
   document.getElementById('dot_github').className = 'status-dot ' + (s.ghToken && s.ghRepo ? 'connected' : 'disconnected');
 }
 
@@ -969,8 +963,7 @@ function renderExistingList() {
           ${hasPoster ? `<img src="${r.poster}" alt="" id="existPosterThumb_${idx}" style="width:50px;height:70px;object-fit:cover;border-radius:4px;border:1px solid var(--border);">` : `<div id="existPosterThumb_${idx}"></div>`}
         </div>
         <div style="display:flex;gap:8px;margin-bottom:8px;">
-          <input type="text" id="existSearch_${idx}" placeholder="Search OMDB for poster..." style="flex:1;" onkeydown="if(event.key==='Enter'){event.preventDefault();searchExistingPoster(${idx});}">
-          <button class="btn btn-outline" onclick="event.stopPropagation();searchExistingPoster(${idx})" style="padding:8px 14px;font-size:0.82rem;"><i class="fas fa-search"></i></button>
+          <button class="btn btn-outline" onclick="event.stopPropagation();openIMDB(${idx})" style="padding:8px 14px;font-size:0.82rem;"><i class="fas fa-external-link-alt"></i> Find on IMDB</button>
         </div>
         <div id="existResults_${idx}" style="display:none;" class="poster-results"></div>
       </div>
@@ -1003,71 +996,13 @@ function updateExistingPoster(idx) {
   showToast('Poster updated for "' + reviewsData[idx].title + '". Save to GitHub to publish.');
 }
 
-async function searchExistingPoster(idx) {
-  const s = getSettings();
-  if (!s.omdbKey) {
-    showToast('Add your OMDB API key in Settings first.', true);
-    return;
-  }
-
-  let query = document.getElementById('existSearch_' + idx).value.trim();
-  if (!query) query = reviewsData[idx].title;
-  if (!query) return;
-
-  const type = reviewsData[idx].type === 'series' ? 'series' : 'movie';
-
-  try {
-    let url = `https://www.omdbapi.com/?apikey=${s.omdbKey}&s=${encodeURIComponent(query)}&type=${type}`;
-    const resp = await fetch(url);
-    const data = await resp.json();
-
-    const resultsEl = document.getElementById('existResults_' + idx);
-    if (data.Response === 'False' || !data.Search) {
-      // Retry without type filter
-      const retryResp = await fetch(`https://www.omdbapi.com/?apikey=${s.omdbKey}&s=${encodeURIComponent(query)}`);
-      const retryData = await retryResp.json();
-      if (retryData.Response === 'True' && retryData.Search) {
-        renderExistingPosterResults(retryData.Search, resultsEl, idx);
-        return;
-      }
-      resultsEl.style.display = 'block';
-      resultsEl.innerHTML = '<p style="color:var(--muted);font-size:0.82rem;grid-column:1/-1;">No results. Try a different search.</p>';
-      return;
-    }
-    renderExistingPosterResults(data.Search, resultsEl, idx);
-  } catch (e) {
-    showToast('Search failed: ' + e.message, true);
-  }
+function openIMDB(idx) {
+  const title = reviewsData[idx] ? reviewsData[idx].title : '';
+  if (!title) { showToast('No title to search for.', true); return; }
+  window.open('https://www.imdb.com/find/?q=' + encodeURIComponent(title), '_blank');
 }
 
-function renderExistingPosterResults(results, el, idx) {
-  const withPosters = results.filter(r => r.Poster && r.Poster !== 'N/A').slice(0, 6);
-  if (!withPosters.length) {
-    el.style.display = 'block';
-    el.innerHTML = '<p style="color:var(--muted);font-size:0.82rem;grid-column:1/-1;">No poster images found.</p>';
-    return;
-  }
-  el.style.display = 'grid';
-  el.innerHTML = withPosters.map(r => {
-    const posterUrl = r.Poster;
-    const name = r.Title || '';
-    const yr = r.Year || '';
-    return `<div class="poster-result" onclick="event.stopPropagation();pickExistingPoster(${idx}, '${posterUrl.replace(/'/g, "\\'")}', this)">
-      <img src="${posterUrl}" alt="${name}" loading="lazy">
-      <div class="poster-label">${name} (${yr})</div>
-    </div>`;
-  }).join('');
-}
-
-function pickExistingPoster(idx, url, el) {
-  document.getElementById('existPoster_' + idx).value = url;
-  updateExistingPoster(idx);
-  document.getElementById('existResults_' + idx).style.display = 'none';
-  // Re-render the list item's thumbnail
-  renderExistingList();
-  // Re-open the panel we were editing
-  setTimeout(() => togglePosterEdit(idx), 50);
-}
+// OMDB search/render functions removed — using manual IMDB paste workflow
 
 async function saveAllToGitHub() {
   const s = getSettings();
@@ -1792,101 +1727,13 @@ function copyAllXPosts() {
   navigator.clipboard.writeText(posts.join('\n\n---\n\n')).then(() => showToast('All 4 posts copied!'));
 }
 
-// ========== POSTER SEARCH (OMDB) ==========
+// ========== POSTER (IMDB Manual) ==========
 let selectedPosterUrl = '';
 
-async function searchPoster() {
-  const s = getSettings();
-  if (!s.omdbKey) {
-    showToast('Add your OMDB API key in Settings first. Free instant key at omdbapi.com/apikey.aspx', true);
-    return;
-  }
-
-  // Use poster search input, or fall back to title field
-  let query = document.getElementById('pip_posterSearch').value.trim();
-  if (!query) query = document.getElementById('pip_title').value.trim();
-  if (!query) { showToast('Enter a title to search for.', true); return; }
-
-  const type = document.getElementById('pip_type').value;
-  const omdbType = type === 'series' ? 'series' : 'movie';
-  const year = document.getElementById('pip_year').value;
-
-  const btn = document.getElementById('btnPosterSearch');
-  btn.disabled = true;
-  btn.innerHTML = '<span class="spinner"></span>';
-
-  try {
-    // OMDB search endpoint returns multiple results
-    let url = `https://www.omdbapi.com/?apikey=${s.omdbKey}&s=${encodeURIComponent(query)}&type=${omdbType}`;
-    if (year) url += `&y=${year}`;
-
-    const resp = await fetch(url);
-    if (!resp.ok) throw new Error('OMDB API error: ' + resp.status);
-    const data = await resp.json();
-
-    const resultsEl = document.getElementById('posterResults');
-    if (data.Response === 'False' || !data.Search) {
-      // Try without year filter if no results
-      if (year) {
-        const retryUrl = `https://www.omdbapi.com/?apikey=${s.omdbKey}&s=${encodeURIComponent(query)}&type=${omdbType}`;
-        const retryResp = await fetch(retryUrl);
-        const retryData = await retryResp.json();
-        if (retryData.Response === 'True' && retryData.Search) {
-          renderPosterResults(retryData.Search, resultsEl);
-          return;
-        }
-      }
-      resultsEl.style.display = 'block';
-      resultsEl.innerHTML = '<p style="color:var(--muted);font-size:0.85rem;grid-column:1/-1;">No results found. Try a different search term.</p>';
-      return;
-    }
-
-    renderPosterResults(data.Search, resultsEl);
-
-  } catch (e) {
-    showToast('Poster search failed: ' + e.message, true);
-  } finally {
-    btn.disabled = false;
-    btn.innerHTML = '<i class="fas fa-search"></i> Search';
-  }
-}
-
-function renderPosterResults(results, resultsEl) {
-  // Filter to those with poster images (not "N/A")
-  const withPosters = results.filter(r => r.Poster && r.Poster !== 'N/A').slice(0, 8);
-  if (withPosters.length === 0) {
-    resultsEl.style.display = 'block';
-    resultsEl.innerHTML = '<p style="color:var(--muted);font-size:0.85rem;grid-column:1/-1;">Results found but none have poster images.</p>';
-    return;
-  }
-
-  resultsEl.style.display = 'grid';
-  resultsEl.innerHTML = withPosters.map(r => {
-    const posterUrl = r.Poster;
-    const name = r.Title || 'Untitled';
-    const releaseYear = r.Year || '';
-    return `<div class="poster-result" onclick="selectPoster('${posterUrl.replace(/'/g, "\\'")}', '${name.replace(/'/g, "\\'")} (${releaseYear})')">
-      <img src="${posterUrl}" alt="${name}" loading="lazy">
-      <div class="poster-label">${name} ${releaseYear ? '(' + releaseYear + ')' : ''}</div>
-    </div>`;
-  }).join('');
-}
-
-function selectPoster(url, label) {
-  selectedPosterUrl = url;
-  document.getElementById('pip_posterUrl').value = url;
-
-  // Show preview
-  const previewEl = document.getElementById('posterPreview');
-  previewEl.style.display = 'flex';
-  document.getElementById('posterPreviewImg').src = url;
-  document.getElementById('posterPreviewTitle').textContent = label || '';
-
-  // Hide search results
-  document.getElementById('posterResults').style.display = 'none';
-
-  // Highlight selected
-  document.querySelectorAll('.poster-result').forEach(el => el.classList.remove('selected'));
+function openIMDBForNew() {
+  let query = document.getElementById('pip_title').value.trim();
+  if (!query) { showToast('Enter a title first.', true); return; }
+  window.open('https://www.imdb.com/find/?q=' + encodeURIComponent(query), '_blank');
 }
 
 function updatePosterPreview() {
@@ -1905,13 +1752,7 @@ function clearPoster() {
   document.getElementById('posterResults').style.display = 'none';
 }
 
-// Auto-fill poster search input from title
-document.getElementById('pip_title')?.addEventListener('blur', function() {
-  const searchInput = document.getElementById('pip_posterSearch');
-  if (!searchInput.value.trim()) {
-    searchInput.value = this.value.trim();
-  }
-});
+// Poster search removed — using manual IMDB paste workflow
 
 // ========== START NEW REVIEW ==========
 function startNewReview() {
@@ -1922,7 +1763,6 @@ function startNewReview() {
   document.getElementById('pip_title').value = '';
   document.getElementById('pip_platform').value = '';
   document.getElementById('pip_reviewPaste').value = '';
-  document.getElementById('pip_posterSearch').value = '';
   document.getElementById('pip_posterUrl').value = '';
   document.getElementById('posterPreview').style.display = 'none';
   document.getElementById('posterResults').style.display = 'none';
