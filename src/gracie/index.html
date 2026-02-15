@@ -253,6 +253,91 @@
     .poster-preview .poster-info p { font-size: 0.82rem; color: var(--text2); margin-bottom: 8px; }
     .poster-url-input { width: 100%; margin-top: 8px; font-size: 0.8rem; }
 
+    /* Comment moderation cards */
+    .mod-comment {
+      background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 16px; margin-bottom: 10px; transition: all 0.2s;
+    }
+    .mod-comment.is-hidden { border-left: 3px solid var(--red); opacity: 0.7; }
+    .mod-comment .mc-header {
+      display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; gap: 8px; flex-wrap: wrap;
+    }
+    .mod-comment .mc-user {
+      display: flex; align-items: center; gap: 8px;
+    }
+    .mod-comment .mc-avatar {
+      width: 28px; height: 28px; border-radius: 50%; object-fit: cover; border: 1px solid var(--border);
+    }
+    .mod-comment .mc-name { font-weight: 600; font-size: 0.88rem; }
+    .mod-comment .mc-email { font-size: 0.75rem; color: var(--muted); }
+    .mod-comment .mc-meta {
+      font-size: 0.75rem; color: var(--muted); display: flex; gap: 12px; align-items: center;
+    }
+    .mod-comment .mc-review-tag {
+      background: rgba(201,168,76,0.15); color: var(--gold); padding: 2px 8px;
+      border-radius: 3px; font-size: 0.7rem; font-weight: 600;
+    }
+    .mod-comment .mc-hidden-tag {
+      background: rgba(196,64,64,0.15); color: var(--red); padding: 2px 8px;
+      border-radius: 3px; font-size: 0.7rem; font-weight: 600;
+    }
+    .mod-comment .mc-body {
+      font-size: 0.88rem; color: var(--text); line-height: 1.6; margin-bottom: 10px;
+      padding: 8px 0; border-top: 1px solid var(--border);
+    }
+    .mod-comment .mc-actions {
+      display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+    }
+    .mod-comment .mc-actions button {
+      padding: 5px 12px; font-size: 0.78rem; border-radius: var(--radius);
+      cursor: pointer; border: 1px solid var(--border); background: none; color: var(--text2);
+      display: inline-flex; align-items: center; gap: 4px; transition: all 0.2s;
+    }
+    .mod-comment .mc-actions button:hover { border-color: var(--gold); color: var(--gold); }
+    .mod-comment .mc-actions button.mc-hide { color: var(--amber); border-color: var(--amber); }
+    .mod-comment .mc-actions button.mc-show { color: var(--green); border-color: var(--green); }
+    .mod-comment .mc-actions button.mc-delete { color: var(--red); border-color: var(--red); }
+    .mod-comment .mc-votes {
+      font-size: 0.78rem; color: var(--muted); margin-left: auto;
+    }
+
+    /* --- User Cards --- */
+    .user-card {
+      display: flex; align-items: center; gap: 14px; padding: 14px 18px;
+      background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius);
+      transition: border-color 0.2s;
+    }
+    .user-card:hover { border-color: rgba(201,168,76,0.25); }
+    .user-card .uc-avatar {
+      width: 40px; height: 40px; min-width: 40px; border-radius: 50%;
+      object-fit: cover; border: 2px solid var(--border); background: var(--card);
+    }
+    .user-card .uc-avatar-placeholder {
+      width: 40px; height: 40px; min-width: 40px; border-radius: 50%;
+      background: var(--card); border: 2px solid var(--border);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; font-weight: 700; color: var(--gold);
+    }
+    .user-card .uc-info { flex: 1; min-width: 0; }
+    .user-card .uc-name { font-weight: 600; font-size: 0.9rem; color: var(--text); }
+    .user-card .uc-email { font-size: 0.78rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .user-card .uc-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 3px; }
+    .user-card .uc-badge {
+      font-size: 0.68rem; padding: 2px 8px; border-radius: 3px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .uc-badge.google { background: rgba(66,133,244,0.15); color: #6ea8f0; }
+    .uc-badge.email-provider { background: rgba(76,175,80,0.15); color: #6dca70; }
+    .uc-badge.unconfirmed { background: rgba(232,160,48,0.15); color: var(--amber); }
+    .user-card .uc-stats {
+      text-align: right; flex-shrink: 0; min-width: 100px;
+    }
+    .user-card .uc-stat-line {
+      font-size: 0.78rem; color: var(--text2); white-space: nowrap;
+    }
+    .user-card .uc-stat-line i { width: 16px; text-align: center; margin-right: 4px; }
+    .user-card .uc-stat-line .uc-stat-num { font-weight: 700; font-family: var(--mono); color: var(--gold); }
+
     @media (max-width: 768px) {
       .form-row, .form-row.triple, .form-row.quad { grid-template-columns: 1fr; }
       .actions { flex-direction: column; }
@@ -287,6 +372,8 @@
       <div class="admin-tab active" onclick="switchTab('pipeline')"><i class="fas fa-rocket"></i> Review Pipeline</div>
       <div class="admin-tab" onclick="switchTab('existing')"><i class="fas fa-list"></i> Existing Reviews</div>
       <div class="admin-tab" onclick="switchTab('manual')"><i class="fas fa-pen-fancy"></i> Manual Entry</div>
+      <div class="admin-tab" onclick="switchTab('comments')"><i class="fas fa-comments"></i> Comments</div>
+      <div class="admin-tab" onclick="switchTab('users')"><i class="fas fa-users"></i> Users</div>
       <div class="admin-tab" onclick="switchTab('settings')"><i class="fas fa-cog"></i> Settings</div>
     </div>
 
@@ -572,6 +659,124 @@
     </div>
 
     <!-- =============================================
+         TAB: COMMENTS MODERATION
+         ============================================= -->
+    <div class="tab-content" id="tab-comments">
+      <div class="form-section">
+        <h3><i class="fas fa-comments"></i> Comment Moderation</h3>
+        <p style="color:var(--text2);font-size:0.85rem;margin-bottom:16px;">
+          Manage user comments across all reviews. Hide or delete inappropriate content.
+        </p>
+
+        <div id="commentsNotConfigured" style="display:none;">
+          <div style="background:rgba(196,64,64,0.1);border:1px solid var(--red);border-radius:var(--radius);padding:20px;text-align:center;">
+            <i class="fas fa-exclamation-triangle" style="color:var(--red);font-size:1.4rem;margin-bottom:8px;"></i>
+            <p style="color:var(--red);font-weight:600;">Supabase not configured</p>
+            <p style="color:var(--text2);font-size:0.82rem;margin-top:4px;">Go to Settings and enter your Supabase URL, Anon Key, and Service Role Key to manage comments.</p>
+          </div>
+        </div>
+
+        <div id="commentsConfigured" style="display:none;">
+          <div style="display:flex;gap:12px;margin-bottom:16px;align-items:flex-end;flex-wrap:wrap;">
+            <div style="flex:1;min-width:200px;">
+              <label>Filter by Review</label>
+              <select id="mod_filterReview" onchange="loadModComments()">
+                <option value="">All Reviews</option>
+              </select>
+            </div>
+            <div style="flex:0;">
+              <label>Status</label>
+              <select id="mod_filterStatus" onchange="loadModComments()">
+                <option value="all">All</option>
+                <option value="visible">Visible</option>
+                <option value="hidden">Hidden</option>
+              </select>
+            </div>
+            <button class="btn btn-outline" onclick="loadModComments()" style="padding:8px 14px;"><i class="fas fa-sync-alt"></i> Refresh</button>
+          </div>
+
+          <div id="mod_stats" style="display:flex;gap:16px;margin-bottom:16px;flex-wrap:wrap;">
+            <div style="background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 16px;flex:1;text-align:center;min-width:100px;">
+              <div style="font-size:1.4rem;font-weight:700;color:var(--gold);" id="mod_totalCount">-</div>
+              <div style="font-size:0.75rem;color:var(--muted);">Total</div>
+            </div>
+            <div style="background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 16px;flex:1;text-align:center;min-width:100px;">
+              <div style="font-size:1.4rem;font-weight:700;color:var(--green);" id="mod_visibleCount">-</div>
+              <div style="font-size:0.75rem;color:var(--muted);">Visible</div>
+            </div>
+            <div style="background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 16px;flex:1;text-align:center;min-width:100px;">
+              <div style="font-size:1.4rem;font-weight:700;color:var(--red);" id="mod_hiddenCount">-</div>
+              <div style="font-size:0.75rem;color:var(--muted);">Hidden</div>
+            </div>
+          </div>
+
+          <div id="mod_commentsList"></div>
+          <div id="mod_loading" style="text-align:center;padding:40px;display:none;"><span class="spinner"></span> Loading comments...</div>
+          <div id="mod_empty" style="text-align:center;padding:40px;color:var(--muted);display:none;"><i class="fas fa-inbox" style="font-size:2rem;margin-bottom:8px;display:block;"></i> No comments found.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- =============================================
+         TAB: USERS
+         ============================================= -->
+    <div class="tab-content" id="tab-users">
+      <div class="form-section">
+        <h3><i class="fas fa-users"></i> Subscriber Management</h3>
+        <p style="color:var(--text2);font-size:0.85rem;margin-bottom:16px;">
+          View all registered users. Data is pulled from Supabase Auth.
+        </p>
+
+        <div id="usersNotConfigured" style="display:none;">
+          <div style="background:rgba(196,64,64,0.1);border:1px solid var(--red);border-radius:var(--radius);padding:20px;text-align:center;">
+            <i class="fas fa-exclamation-triangle" style="color:var(--red);font-size:1.4rem;margin-bottom:8px;"></i>
+            <p style="color:var(--red);font-weight:600;">Supabase not configured</p>
+            <p style="color:var(--text2);font-size:0.82rem;margin-top:4px;">Go to Settings and enter your Supabase URL, Anon Key, and Service Role Key to view users.</p>
+          </div>
+        </div>
+
+        <div id="usersConfigured" style="display:none;">
+          <!-- Stats row -->
+          <div style="display:flex;gap:16px;margin-bottom:20px;flex-wrap:wrap;">
+            <div style="background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 16px;flex:1;text-align:center;min-width:120px;">
+              <div style="font-size:1.8rem;font-weight:700;color:var(--gold);" id="users_totalCount">-</div>
+              <div style="font-size:0.75rem;color:var(--muted);">Total Users</div>
+            </div>
+            <div style="background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 16px;flex:1;text-align:center;min-width:120px;">
+              <div style="font-size:1.8rem;font-weight:700;color:var(--blue);" id="users_googleCount">-</div>
+              <div style="font-size:0.75rem;color:var(--muted);">Google Sign-In</div>
+            </div>
+            <div style="background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 16px;flex:1;text-align:center;min-width:120px;">
+              <div style="font-size:1.8rem;font-weight:700;color:var(--green);" id="users_emailCount">-</div>
+              <div style="font-size:0.75rem;color:var(--muted);">Email Sign-Up</div>
+            </div>
+            <div style="background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 16px;flex:1;text-align:center;min-width:120px;">
+              <div style="font-size:1.8rem;font-weight:700;color:var(--amber);" id="users_commentCount">-</div>
+              <div style="font-size:0.75rem;color:var(--muted);">Total Comments</div>
+            </div>
+          </div>
+
+          <!-- Controls -->
+          <div style="display:flex;gap:12px;margin-bottom:16px;align-items:center;flex-wrap:wrap;">
+            <input type="text" id="users_search" placeholder="Search by name or email..." style="flex:1;min-width:200px;" oninput="filterUsersList()">
+            <select id="users_sortBy" onchange="sortAndRenderUsers()" style="width:auto;">
+              <option value="newest">Newest First</option>
+              <option value="oldest">Oldest First</option>
+              <option value="name">Name A–Z</option>
+              <option value="comments">Most Comments</option>
+            </select>
+            <button class="btn btn-outline" onclick="loadUsers()" style="padding:8px 14px;"><i class="fas fa-sync-alt"></i> Refresh</button>
+          </div>
+
+          <!-- User list -->
+          <div id="users_list" style="display:flex;flex-direction:column;gap:8px;"></div>
+          <div id="users_loading" style="text-align:center;padding:40px;display:none;"><span class="spinner"></span> Loading users...</div>
+          <div id="users_empty" style="text-align:center;padding:40px;color:var(--muted);display:none;"><i class="fas fa-user-slash" style="font-size:2rem;margin-bottom:8px;display:block;"></i> No users found.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- =============================================
          TAB: SETTINGS
          ============================================= -->
     <div class="tab-content" id="tab-settings">
@@ -599,6 +804,29 @@
           <input type="number" id="set_maxScriptChars" value="60000" min="5000" max="400000">
         </div>
         <div class="hint" style="margin-top:-12px;margin-bottom:16px;">Scripts longer than this are auto-trimmed before sending to OpenAI. Default 60,000 (~15K tokens). Increase if your OpenAI plan allows higher TPM. Full scripts can be 200K-400K for paid tiers.</div>
+      </div>
+
+      <div class="form-section">
+        <h3><i class="fas fa-database"></i> Supabase (Auth &amp; Comments)</h3>
+        <div class="setting-row">
+          <label>Supabase URL</label>
+          <input type="text" id="set_supabaseUrl" placeholder="https://xxxxx.supabase.co">
+          <div class="status-dot disconnected" id="dot_supabase"></div>
+        </div>
+        <div class="setting-row">
+          <label>Anon Key</label>
+          <input type="password" id="set_supabaseAnonKey" placeholder="eyJ...">
+        </div>
+        <div class="setting-row">
+          <label>Service Role Key</label>
+          <input type="password" id="set_supabaseServiceKey" placeholder="eyJ... (for admin operations)">
+        </div>
+        <div class="hint" style="margin-top:-12px;margin-bottom:16px;">The Service Role Key bypasses RLS and is required for comment moderation. Never expose it in client-side code. It is only stored in this browser's localStorage.</div>
+        <div class="actions" style="margin-top:8px;margin-bottom:0;">
+          <button class="btn btn-outline" onclick="testSupabase()"><i class="fas fa-vial"></i> Test Supabase Connection</button>
+          <button class="btn btn-outline" onclick="pushSupabaseToSite()"><i class="fas fa-upload"></i> Push Config to Site</button>
+        </div>
+        <div class="hint" style="margin-top:8px;margin-bottom:16px;">"Push Config to Site" saves the Supabase URL and Anon Key to localStorage so auth and comments work on the live site in this browser.</div>
       </div>
 
       <div class="form-section">
@@ -861,6 +1089,9 @@ function loadSettings() {
   if (s.ghFilePath) document.getElementById('set_ghFilePath').value = s.ghFilePath;
   if (s.xHandle) document.getElementById('set_xHandle').value = s.xHandle;
   if (s.siteUrl) document.getElementById('set_siteUrl').value = s.siteUrl;
+  if (s.supabaseUrl) document.getElementById('set_supabaseUrl').value = s.supabaseUrl;
+  if (s.supabaseAnonKey) document.getElementById('set_supabaseAnonKey').value = s.supabaseAnonKey;
+  if (s.supabaseServiceKey) document.getElementById('set_supabaseServiceKey').value = s.supabaseServiceKey;
   updateStatusDots();
 }
 
@@ -875,7 +1106,10 @@ function saveSettings() {
     ghBranch: document.getElementById('set_ghBranch').value.trim() || 'main',
     ghFilePath: document.getElementById('set_ghFilePath').value.trim() || 'src/data/reviews.json',
     xHandle: document.getElementById('set_xHandle').value.trim(),
-    siteUrl: document.getElementById('set_siteUrl').value.trim()
+    siteUrl: document.getElementById('set_siteUrl').value.trim(),
+    supabaseUrl: document.getElementById('set_supabaseUrl').value.trim(),
+    supabaseAnonKey: document.getElementById('set_supabaseAnonKey').value.trim(),
+    supabaseServiceKey: document.getElementById('set_supabaseServiceKey').value.trim()
   };
   localStorage.setItem('vv_settings', JSON.stringify(s));
   updateStatusDots();
@@ -886,6 +1120,7 @@ function updateStatusDots() {
   const s = getSettings();
   document.getElementById('dot_openai').className = 'status-dot ' + (s.openaiKey ? 'connected' : 'disconnected');
   document.getElementById('dot_github').className = 'status-dot ' + (s.ghToken && s.ghRepo ? 'connected' : 'disconnected');
+  document.getElementById('dot_supabase').className = 'status-dot ' + (s.supabaseUrl && s.supabaseAnonKey ? 'connected' : 'disconnected');
 }
 
 async function testOpenAI() {
@@ -919,6 +1154,8 @@ function switchTab(name) {
   event.currentTarget.classList.add('active');
   document.getElementById('tab-' + name).classList.add('active');
   if (name === 'existing') renderExistingList();
+  if (name === 'comments') initCommentsTab();
+  if (name === 'users') initUsersTab();
 }
 
 // ========== LOAD REVIEWS ==========
@@ -1797,6 +2034,403 @@ function showToast(msg, isError) {
   t.style.display = 'block';
   setTimeout(() => t.style.display = 'none', 4000);
 }
+
+// ========== SUPABASE ADMIN ==========
+let modSupabase = null;
+
+function getModSupabase() {
+  if (modSupabase) return modSupabase;
+  const s = getSettings();
+  if (!s.supabaseUrl || !s.supabaseServiceKey) return null;
+  if (typeof window.supabase === 'undefined' || !window.supabase.createClient) return null;
+  modSupabase = window.supabase.createClient(s.supabaseUrl, s.supabaseServiceKey);
+  return modSupabase;
+}
+
+async function testSupabase() {
+  const s = getSettings();
+  if (!s.supabaseUrl || !s.supabaseAnonKey) {
+    showToast('Enter Supabase URL and Anon Key first.', true);
+    return;
+  }
+  try {
+    const resp = await fetch(s.supabaseUrl + '/rest/v1/', {
+      headers: { 'apikey': s.supabaseAnonKey }
+    });
+    if (resp.ok) showToast('Supabase connection successful!');
+    else showToast('Supabase error: ' + resp.status, true);
+  } catch (e) {
+    showToast('Connection failed: ' + e.message, true);
+  }
+}
+
+function pushSupabaseToSite() {
+  const s = getSettings();
+  if (!s.supabaseUrl || !s.supabaseAnonKey) {
+    showToast('Enter Supabase URL and Anon Key first.', true);
+    return;
+  }
+  localStorage.setItem('vv_supabase_url', s.supabaseUrl);
+  localStorage.setItem('vv_supabase_anon_key', s.supabaseAnonKey);
+  showToast('Supabase config pushed to site localStorage. Auth and comments will now work in this browser.');
+}
+
+// ========== COMMENT MODERATION ==========
+let modComments = [];
+
+function initCommentsTab() {
+  const s = getSettings();
+  const notConfigured = document.getElementById('commentsNotConfigured');
+  const configured = document.getElementById('commentsConfigured');
+  if (!s.supabaseUrl || !s.supabaseServiceKey) {
+    notConfigured.style.display = 'block';
+    configured.style.display = 'none';
+    return;
+  }
+  notConfigured.style.display = 'none';
+  configured.style.display = 'block';
+
+  // Populate review filter dropdown from reviewsData
+  const filterEl = document.getElementById('mod_filterReview');
+  const currentVal = filterEl.value;
+  filterEl.innerHTML = '<option value="">All Reviews</option>';
+  reviewsData.forEach(r => {
+    filterEl.innerHTML += '<option value="' + r.slug + '">' + r.title + '</option>';
+  });
+  filterEl.value = currentVal;
+
+  loadModComments();
+}
+
+async function loadModComments() {
+  const sb = getModSupabase();
+  if (!sb) { showToast('Supabase not configured.', true); return; }
+
+  const listEl = document.getElementById('mod_commentsList');
+  const loadingEl = document.getElementById('mod_loading');
+  const emptyEl = document.getElementById('mod_empty');
+
+  listEl.innerHTML = '';
+  loadingEl.style.display = 'block';
+  emptyEl.style.display = 'none';
+
+  const filterSlug = document.getElementById('mod_filterReview').value;
+  const filterStatus = document.getElementById('mod_filterStatus').value;
+
+  try {
+    let query = sb
+      .from('comments')
+      .select('*, profiles(display_name, avatar_url, email:id)')
+      .order('created_at', { ascending: false })
+      .limit(200);
+
+    if (filterSlug) query = query.eq('review_slug', filterSlug);
+    if (filterStatus === 'visible') query = query.eq('is_hidden', false);
+    if (filterStatus === 'hidden') query = query.eq('is_hidden', true);
+
+    const { data, error } = await query;
+
+    loadingEl.style.display = 'none';
+
+    if (error) {
+      listEl.innerHTML = '<p style="color:var(--red);">Error loading comments: ' + error.message + '</p>';
+      return;
+    }
+
+    modComments = data || [];
+
+    // Also get user emails for display
+    const userIds = [...new Set(modComments.map(c => c.user_id))];
+    let emailMap = {};
+    if (userIds.length > 0) {
+      // Use service role to get auth users
+      try {
+        const emailResp = await fetch(getSettings().supabaseUrl + '/auth/v1/admin/users?per_page=1000', {
+          headers: {
+            'apikey': getSettings().supabaseServiceKey,
+            'Authorization': 'Bearer ' + getSettings().supabaseServiceKey
+          }
+        });
+        if (emailResp.ok) {
+          const emailData = await emailResp.json();
+          (emailData.users || []).forEach(u => { emailMap[u.id] = u.email; });
+        }
+      } catch (e) { /* email lookup is optional */ }
+    }
+
+    // Get vote counts
+    let votesMap = {};
+    if (modComments.length > 0) {
+      const commentIds = modComments.map(c => c.id);
+      const { data: votes } = await sb
+        .from('votes')
+        .select('comment_id, vote_type');
+      if (votes) {
+        votes.forEach(v => {
+          if (!votesMap[v.comment_id]) votesMap[v.comment_id] = { up: 0, down: 0 };
+          if (v.vote_type === 'up') votesMap[v.comment_id].up++;
+          else votesMap[v.comment_id].down++;
+        });
+      }
+    }
+
+    // Update stats
+    const totalAll = modComments.length;
+    const visibleAll = modComments.filter(c => !c.is_hidden).length;
+    document.getElementById('mod_totalCount').textContent = totalAll;
+    document.getElementById('mod_visibleCount').textContent = visibleAll;
+    document.getElementById('mod_hiddenCount').textContent = totalAll - visibleAll;
+
+    if (modComments.length === 0) {
+      emptyEl.style.display = 'block';
+      return;
+    }
+
+    listEl.innerHTML = modComments.map(c => {
+      const profile = c.profiles || {};
+      const displayName = profile.display_name || 'Unknown User';
+      const avatarUrl = profile.avatar_url || '';
+      const email = emailMap[c.user_id] || '';
+      const votes = votesMap[c.id] || { up: 0, down: 0 };
+      const net = votes.up - votes.down;
+      const time = new Date(c.created_at).toLocaleString();
+      const hidden = c.is_hidden;
+
+      return '<div class="mod-comment' + (hidden ? ' is-hidden' : '') + '" id="mc_' + c.id + '">'
+        + '<div class="mc-header">'
+        + '<div class="mc-user">'
+        + (avatarUrl ? '<img class="mc-avatar" src="' + avatarUrl + '" alt="">' : '<div class="mc-avatar" style="background:var(--card);display:flex;align-items:center;justify-content:center;font-size:0.7rem;color:var(--gold);font-weight:700;">' + displayName.charAt(0).toUpperCase() + '</div>')
+        + '<div><span class="mc-name">' + displayName + '</span>'
+        + (email ? '<br><span class="mc-email">' + email + '</span>' : '')
+        + '</div></div>'
+        + '<div class="mc-meta">'
+        + '<span class="mc-review-tag">' + (c.review_slug || '') + '</span>'
+        + (hidden ? '<span class="mc-hidden-tag"><i class="fas fa-eye-slash"></i> Hidden</span>' : '')
+        + '<span>' + time + '</span>'
+        + '</div></div>'
+        + '<div class="mc-body">' + escapeHtml(c.content) + '</div>'
+        + '<div class="mc-actions">'
+        + (hidden
+          ? '<button class="mc-show" onclick="modShowComment(\'' + c.id + '\')"><i class="fas fa-eye"></i> Show</button>'
+          : '<button class="mc-hide" onclick="modHideComment(\'' + c.id + '\')"><i class="fas fa-eye-slash"></i> Hide</button>')
+        + '<button class="mc-delete" onclick="modDeleteComment(\'' + c.id + '\')"><i class="fas fa-trash"></i> Delete</button>'
+        + '<span class="mc-votes"><i class="fas fa-arrow-up" style="color:var(--green);"></i> ' + votes.up + ' <i class="fas fa-arrow-down" style="color:var(--red);margin-left:6px;"></i> ' + votes.down + ' (net: ' + net + ')</span>'
+        + '</div></div>';
+    }).join('');
+
+  } catch (e) {
+    loadingEl.style.display = 'none';
+    listEl.innerHTML = '<p style="color:var(--red);">Error: ' + e.message + '</p>';
+  }
+}
+
+function escapeHtml(str) {
+  return String(str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+async function modHideComment(id) {
+  const sb = getModSupabase();
+  if (!sb) return;
+  const { error } = await sb.from('comments').update({ is_hidden: true }).eq('id', id);
+  if (error) { showToast('Failed to hide comment: ' + error.message, true); return; }
+  showToast('Comment hidden.');
+  loadModComments();
+}
+
+async function modShowComment(id) {
+  const sb = getModSupabase();
+  if (!sb) return;
+  const { error } = await sb.from('comments').update({ is_hidden: false }).eq('id', id);
+  if (error) { showToast('Failed to show comment: ' + error.message, true); return; }
+  showToast('Comment restored.');
+  loadModComments();
+}
+
+async function modDeleteComment(id) {
+  if (!confirm('Permanently delete this comment? This cannot be undone.')) return;
+  const sb = getModSupabase();
+  if (!sb) return;
+  // Delete votes first, then comment
+  await sb.from('votes').delete().eq('comment_id', id);
+  const { error } = await sb.from('comments').delete().eq('id', id);
+  if (error) { showToast('Failed to delete comment: ' + error.message, true); return; }
+  showToast('Comment permanently deleted.');
+  loadModComments();
+}
+
+// ========== USER MANAGEMENT ==========
+let allUsers = [];
+let userCommentCounts = {};
+
+function initUsersTab() {
+  const s = getSettings();
+  const notConfigured = document.getElementById('usersNotConfigured');
+  const configured = document.getElementById('usersConfigured');
+  if (!s.supabaseUrl || !s.supabaseServiceKey) {
+    notConfigured.style.display = 'block';
+    configured.style.display = 'none';
+    return;
+  }
+  notConfigured.style.display = 'none';
+  configured.style.display = 'block';
+  loadUsers();
+}
+
+async function loadUsers() {
+  const s = getSettings();
+  const sb = getModSupabase();
+  if (!sb) { showToast('Supabase not configured.', true); return; }
+
+  const listEl = document.getElementById('users_list');
+  const loadingEl = document.getElementById('users_loading');
+  const emptyEl = document.getElementById('users_empty');
+
+  listEl.innerHTML = '';
+  loadingEl.style.display = 'block';
+  emptyEl.style.display = 'none';
+
+  try {
+    // Fetch all auth users via admin API
+    const resp = await fetch(s.supabaseUrl + '/auth/v1/admin/users?per_page=1000', {
+      headers: {
+        'apikey': s.supabaseServiceKey,
+        'Authorization': 'Bearer ' + s.supabaseServiceKey
+      }
+    });
+
+    if (!resp.ok) {
+      loadingEl.style.display = 'none';
+      listEl.innerHTML = '<p style="color:var(--red);">Failed to fetch users (HTTP ' + resp.status + '). Make sure the Service Role Key is correct.</p>';
+      return;
+    }
+
+    const data = await resp.json();
+    const authUsers = data.users || [];
+
+    // Fetch profiles for display names and avatars
+    const { data: profiles } = await sb.from('profiles').select('id, display_name, avatar_url');
+    const profileMap = {};
+    (profiles || []).forEach(p => { profileMap[p.id] = p; });
+
+    // Fetch comment counts per user
+    const { data: comments } = await sb.from('comments').select('user_id');
+    userCommentCounts = {};
+    let totalComments = 0;
+    (comments || []).forEach(c => {
+      userCommentCounts[c.user_id] = (userCommentCounts[c.user_id] || 0) + 1;
+      totalComments++;
+    });
+
+    // Merge auth users with profiles
+    allUsers = authUsers.map(u => {
+      const profile = profileMap[u.id] || {};
+      const provider = (u.app_metadata && u.app_metadata.provider) || 'email';
+      const isConfirmed = !!u.email_confirmed_at;
+      return {
+        id: u.id,
+        email: u.email || '',
+        display_name: profile.display_name || u.user_metadata?.full_name || u.user_metadata?.name || '',
+        avatar_url: profile.avatar_url || u.user_metadata?.avatar_url || '',
+        provider: provider,
+        confirmed: isConfirmed,
+        created_at: u.created_at,
+        last_sign_in: u.last_sign_in_at,
+        comment_count: userCommentCounts[u.id] || 0
+      };
+    });
+
+    loadingEl.style.display = 'none';
+
+    // Update stat cards
+    const googleCount = allUsers.filter(u => u.provider === 'google').length;
+    const emailCount = allUsers.filter(u => u.provider === 'email').length;
+    document.getElementById('users_totalCount').textContent = allUsers.length;
+    document.getElementById('users_googleCount').textContent = googleCount;
+    document.getElementById('users_emailCount').textContent = emailCount;
+    document.getElementById('users_commentCount').textContent = totalComments;
+
+    sortAndRenderUsers();
+
+  } catch (e) {
+    loadingEl.style.display = 'none';
+    listEl.innerHTML = '<p style="color:var(--red);">Error: ' + e.message + '</p>';
+  }
+}
+
+function sortAndRenderUsers() {
+  const sortBy = document.getElementById('users_sortBy').value;
+  let sorted = [...allUsers];
+
+  if (sortBy === 'newest') sorted.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+  else if (sortBy === 'oldest') sorted.sort((a, b) => new Date(a.created_at) - new Date(b.created_at));
+  else if (sortBy === 'name') sorted.sort((a, b) => (a.display_name || a.email).localeCompare(b.display_name || b.email));
+  else if (sortBy === 'comments') sorted.sort((a, b) => b.comment_count - a.comment_count);
+
+  renderUsersList(sorted);
+}
+
+function filterUsersList() {
+  const query = (document.getElementById('users_search').value || '').toLowerCase().trim();
+  let filtered = allUsers;
+  if (query) {
+    filtered = allUsers.filter(u =>
+      (u.display_name || '').toLowerCase().includes(query) ||
+      (u.email || '').toLowerCase().includes(query)
+    );
+  }
+
+  const sortBy = document.getElementById('users_sortBy').value;
+  if (sortBy === 'newest') filtered.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+  else if (sortBy === 'oldest') filtered.sort((a, b) => new Date(a.created_at) - new Date(b.created_at));
+  else if (sortBy === 'name') filtered.sort((a, b) => (a.display_name || a.email).localeCompare(b.display_name || b.email));
+  else if (sortBy === 'comments') filtered.sort((a, b) => b.comment_count - a.comment_count);
+
+  renderUsersList(filtered);
+}
+
+function renderUsersList(users) {
+  const listEl = document.getElementById('users_list');
+  const emptyEl = document.getElementById('users_empty');
+
+  if (!users.length) {
+    listEl.innerHTML = '';
+    emptyEl.style.display = 'block';
+    return;
+  }
+
+  emptyEl.style.display = 'none';
+
+  listEl.innerHTML = users.map(u => {
+    const name = escapeHtml(u.display_name || 'No Display Name');
+    const email = escapeHtml(u.email);
+    const initial = (u.display_name || u.email || '?').charAt(0).toUpperCase();
+    const joined = new Date(u.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    const lastSeen = u.last_sign_in ? new Date(u.last_sign_in).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : 'Never';
+    const providerBadge = u.provider === 'google'
+      ? '<span class="uc-badge google"><i class="fab fa-google"></i> Google</span>'
+      : '<span class="uc-badge email-provider"><i class="fas fa-envelope"></i> Email</span>';
+    const confirmedBadge = !u.confirmed ? '<span class="uc-badge unconfirmed">Unconfirmed</span>' : '';
+    const avatarHtml = u.avatar_url
+      ? '<img class="uc-avatar" src="' + escapeHtml(u.avatar_url) + '" alt="" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\';">' +
+        '<div class="uc-avatar-placeholder" style="display:none;">' + initial + '</div>'
+      : '<div class="uc-avatar-placeholder">' + initial + '</div>';
+
+    return '<div class="user-card">'
+      + avatarHtml
+      + '<div class="uc-info">'
+      + '<div class="uc-name">' + name + '</div>'
+      + '<div class="uc-email">' + email + '</div>'
+      + '<div class="uc-badges">' + providerBadge + confirmedBadge + '</div>'
+      + '</div>'
+      + '<div class="uc-stats">'
+      + '<div class="uc-stat-line"><i class="fas fa-calendar"></i> Joined ' + joined + '</div>'
+      + '<div class="uc-stat-line"><i class="fas fa-clock"></i> Last seen ' + lastSeen + '</div>'
+      + '<div class="uc-stat-line"><i class="fas fa-comment"></i> <span class="uc-stat-num">' + u.comment_count + '</span> comment' + (u.comment_count !== 1 ? 's' : '') + '</div>'
+      + '</div>'
+      + '</div>';
+  }).join('');
+}
 </script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </body>
 </html>
