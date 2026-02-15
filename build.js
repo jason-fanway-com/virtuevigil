@@ -167,7 +167,7 @@ function htmlHead({ title, description, keywords, canonical, ogType, ogImage, st
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script>
     window.SUPABASE_URL = 'https://fdxvflryvctvstxdbdtm.supabase.co';
-    window.SUPABASE_ANON_KEY = 'sb_publishable_sLwiGeuKX9jNopaeK3Wbqg_gvKcAuhq';
+    window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZkeHZmbHJ5dmN0dnN0eGRiZHRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExMjQ3MjEsImV4cCI6MjA4NjcwMDcyMX0.wn80dndvXLUU6qMzJW1DBuz0d6cPMu4iEO3UA6QnF4E';
   </script>
 </head>`;
 }
@@ -1367,7 +1367,7 @@ function buildAuthCallbackPage() {
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script>
     window.SUPABASE_URL = 'https://fdxvflryvctvstxdbdtm.supabase.co';
-    window.SUPABASE_ANON_KEY = 'sb_publishable_sLwiGeuKX9jNopaeK3Wbqg_gvKcAuhq';
+    window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZkeHZmbHJ5dmN0dnN0eGRiZHRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExMjQ3MjEsImV4cCI6MjA4NjcwMDcyMX0.wn80dndvXLUU6qMzJW1DBuz0d6cPMu4iEO3UA6QnF4E';
   </script>
   <script>
     (async function() {
