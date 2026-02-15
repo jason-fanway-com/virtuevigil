@@ -11,7 +11,7 @@ const path = require('path');
 
 // === Config ===
 const SITE_URL = 'https://virtuevigil.com';
-const BUILD_VERSION = 'v1.6.1';
+const BUILD_VERSION = 'v1.7.0';
 const SRC = path.join(__dirname, 'src');
 const DIST = path.join(__dirname, 'dist');
 
@@ -67,6 +67,14 @@ function posterHTML(r, size) {
     return `<div class="poster-placeholder poster-placeholder-lg" style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(135deg,#14141c,#1a1a26);border-radius:0;"><span class="poster-initial" style="font-size:4rem;font-weight:700;color:#c9a84c;font-family:'Cinzel',Georgia,serif;">${initial}</span><i class="fas ${icon} poster-type-icon" style="color:#6a6a75;opacity:0.5;font-size:1.2rem;margin-top:8px;"></i></div>`;
   }
   return `<div class="poster-placeholder"><span class="poster-initial">${initial}</span></div>`;
+}
+
+function pageScripts(extras) {
+  const base = `  <script src="/js/main.js"></script>
+  <script src="/js/supabase-config.js"></script>
+  <script src="/js/auth.js"></script>`;
+  if (!extras) return base;
+  return base + '\n' + extras.map(s => `  <script src="${s}"></script>`).join('\n');
 }
 
 function mkdirp(dir) {
@@ -155,6 +163,12 @@ function htmlHead({ title, description, keywords, canonical, ogType, ogImage, st
   <link rel="stylesheet" href="/css/styles.css">
   <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
   ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script>
+    window.SUPABASE_URL = 'https://fdxvflryvctvstxdbdtm.supabase.co';
+    window.SUPABASE_ANON_KEY = 'sb_publishable_sLwiGeuKX9jNopaeK3Wbqg_gvKcAuhq';
+  </script>
 </head>`;
 }
 
@@ -188,10 +202,52 @@ function siteHeader(activePage) {
       </button>
       <nav class="main-nav" role="navigation" aria-label="Main navigation">
         ${navItems.map(n => `<a href="${n.href}"${n.page === activePage ? ' class="active"' : ''}>${n.label}</a>`).join('\n        ')}
-        <a href="/#subscribe" class="nav-cta">Subscribe</a>
+        <a href="/subscribe/" class="nav-cta">Subscribe</a>
       </nav>
+      <div class="auth-container">
+        <button id="vv-login-btn" class="btn-login">Sign In</button>
+        <div id="vv-user-area" class="user-area" style="display:none;">
+          <img id="vv-user-avatar" class="avatar-sm" src="" alt="Avatar">
+          <span id="vv-user-name" class="user-name"></span>
+          <div id="vv-dropdown-menu" class="dropdown-menu">
+            <a href="/account/"><i class="fas fa-user"></i> My Profile</a>
+            <button id="vv-logout-btn"><i class="fas fa-sign-out-alt"></i> Sign Out</button>
+          </div>
+        </div>
+      </div>
     </div>
-  </header>`;
+  </header>
+
+  <!-- Auth Modal -->
+  <div id="vv-auth-modal" class="modal-overlay">
+    <div class="modal-content auth-modal">
+      <button id="vv-auth-modal-close" class="modal-close" aria-label="Close">&times;</button>
+      <h2>Join VirtueVigil</h2>
+      <p class="auth-subtitle">Subscribe to comment on reviews and join the community.</p>
+
+      <button id="vv-google-login" class="btn-oauth btn-google">
+        <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92a5.06 5.06 0 01-2.2 3.32v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.1z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+        Continue with Google
+      </button>
+
+      <div class="auth-divider"><span>or use email</span></div>
+
+      <form id="vv-email-form">
+        <input type="hidden" id="vv-auth-mode-signup" value="">
+        <input type="email" id="vv-auth-email" placeholder="Email address" required autocomplete="email">
+        <input type="password" id="vv-auth-password" placeholder="Password (min 6 characters)" required minlength="6" autocomplete="current-password">
+        <button type="submit" class="btn-auth-submit">Sign In</button>
+      </form>
+
+      <div class="auth-links">
+        <a href="#" id="vv-auth-mode-toggle"><span id="vv-auth-mode-text">Don't have an account? Sign up</span></a>
+        <a href="#" id="vv-forgot-password">Forgot password?</a>
+      </div>
+
+      <div id="vv-auth-error" class="auth-msg error" style="display:none;"></div>
+      <div id="vv-auth-success" class="auth-msg success" style="display:none;"></div>
+    </div>
+  </div>`;
 }
 
 function sidebarHTML() {
@@ -236,11 +292,8 @@ function sidebarHTML() {
       <div class="sidebar-section" id="subscribe">
         <div class="sidebar-newsletter">
           <h4>The Vigil Report</h4>
-          <p>Weekly reviews and Woke Trap alerts delivered to your inbox.</p>
-          <form>
-            <input type="email" placeholder="Your email address" aria-label="Email address for newsletter">
-            <button type="submit">Subscribe</button>
-          </form>
+          <p>Subscribe to comment on reviews and get weekly Woke Trap alerts.</p>
+          <a href="/subscribe/" class="sidebar-subscribe-btn"><i class="fas fa-user-plus"></i> Subscribe Free</a>
         </div>
       </div>
 
@@ -552,7 +605,7 @@ function buildHomepage() {
   </div>
 
   ${fullFooter()}
-  <script src="/js/main.js"></script>
+${pageScripts()}
 </body>
 </html>`;
 }
@@ -649,6 +702,36 @@ function buildReviewPage(r) {
         </div>
       </article>
 
+      <!-- Comments Section -->
+      <div class="comments-section" data-slug="${esc(r.slug)}">
+        <div class="comments-header">
+          <h3><i class="fas fa-comments"></i> Community Discussion <span id="vv-comment-count" class="comment-count">0</span></h3>
+        </div>
+
+        <div id="comment-subscribe-prompt" class="subscribe-prompt">
+          <div class="subscribe-prompt-inner">
+            <i class="fas fa-lock"></i>
+            <div>
+              <p><strong>Subscribe to comment.</strong></p>
+              <p>Join the VirtueVigil community to share your perspective on this review.</p>
+            </div>
+            <a href="/subscribe/" class="btn-subscribe-cta">Sign In / Subscribe</a>
+          </div>
+        </div>
+
+        <div id="comment-form-container" style="display:none;">
+          <form id="vv-comment-form" class="comment-form">
+            <textarea id="vv-comment-input" placeholder="Share your thoughts on this review..." maxlength="2000" rows="4"></textarea>
+            <div class="comment-form-footer">
+              <span id="vv-char-count" class="char-count">0 / 2000</span>
+              <button type="submit" class="btn-post-comment">Post Comment</button>
+            </div>
+          </form>
+        </div>
+
+        <div id="vv-comments-list" class="comments-list"></div>
+      </div>
+
       <!-- Previous / Next -->
       <div style="display:flex;justify-content:space-between;margin:30px 0;gap:16px;flex-wrap:wrap;">
         ${prev ? `<a href="/reviews/${prev.slug}/" style="color:var(--gold);font-weight:600;font-size:0.9rem;"><i class="fas fa-arrow-left"></i> ${esc(prev.title)}</a>` : '<span></span>'}
@@ -658,7 +741,7 @@ function buildReviewPage(r) {
   </div>
 
   ${fullFooter()}
-  <script src="/js/main.js"></script>
+${pageScripts(['/js/comments.js'])}
 </body>
 </html>`;
 }
@@ -739,7 +822,7 @@ function buildCategoryPage(name, slug, categoryReviews) {
   </div>
 
   ${fullFooter()}
-  <script src="/js/main.js"></script>
+${pageScripts()}
 </body>
 </html>`;
 }
@@ -854,7 +937,7 @@ function buildAboutPage() {
   </article>
 
   ${simpleFooter()}
-  <script src="/js/main.js"></script>
+${pageScripts()}
 </body>
 </html>`;
 }
@@ -952,7 +1035,7 @@ function buildMethodologyPage() {
   </article>
 
   ${simpleFooter()}
-  <script src="/js/main.js"></script>
+${pageScripts()}
 </body>
 </html>`;
 }
@@ -1054,7 +1137,7 @@ function buildWokeTrapPage() {
   </article>
 
   ${simpleFooter()}
-  <script src="/js/main.js"></script>
+${pageScripts()}
 </body>
 </html>`;
 }
@@ -1131,6 +1214,189 @@ function breadcrumbLD(items) {
 
 
 // ============================================
+// SUBSCRIBER PAGES
+// ============================================
+
+function buildSubscribePage() {
+  return `${htmlHead({
+    title: 'Subscribe — VirtueVigil',
+    description: 'Join VirtueVigil to comment on reviews and join the community. Free subscription.',
+    canonical: `${SITE_URL}/subscribe/`,
+  })}
+<body>
+  ${topBanner()}
+  ${siteHeader('index')}
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>Join <span class="text-gold">VirtueVigil</span></h1>
+      <p>Subscribe to comment on reviews and join the community. It&rsquo;s free.</p>
+    </div>
+  </section>
+
+  <div class="subscribe-page">
+    <div class="subscribe-card">
+      <div class="subscribe-benefits">
+        <h3>Subscriber Benefits</h3>
+        <div class="benefit"><i class="fas fa-comments" style="color:var(--gold);"></i> Comment on reviews</div>
+        <div class="benefit"><i class="fas fa-arrow-up" style="color:var(--gold);"></i> Upvote and downvote comments</div>
+        <div class="benefit"><i class="fas fa-bell" style="color:var(--gold);"></i> Weekly Vigil Report emails</div>
+        <div class="benefit"><i class="fas fa-star" style="color:var(--gold);"></i> Early access to new features</div>
+      </div>
+
+      <div class="subscribe-form-area">
+        <button id="vv-sub-google" class="btn-oauth btn-google">
+          <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92a5.06 5.06 0 01-2.2 3.32v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.1z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+          Continue with Google
+        </button>
+
+        <div class="auth-divider"><span>or use email</span></div>
+
+        <form id="vv-sub-email-form">
+          <input type="hidden" id="vv-sub-mode-signup" checked value="1">
+          <input type="email" id="vv-sub-email" placeholder="Email address" required autocomplete="email">
+          <input type="password" id="vv-sub-password" placeholder="Create a password (min 6 characters)" required minlength="6" autocomplete="new-password">
+          <button type="submit" class="btn-auth-submit">Create Account</button>
+        </form>
+
+        <p class="auth-footer-text">Already have an account? <a href="#" onclick="document.getElementById('vv-sub-mode-signup').value='';this.closest('form')||document.getElementById('vv-sub-email-form').querySelector('button').textContent='Sign In';return false;">Sign in</a></p>
+
+        <div id="vv-sub-error" class="auth-msg error" style="display:none;"></div>
+        <div id="vv-sub-success" class="auth-msg success" style="display:none;"></div>
+      </div>
+    </div>
+  </div>
+
+  ${simpleFooter()}
+${pageScripts()}
+</body>
+</html>`;
+}
+
+
+function buildAccountPage() {
+  return `${htmlHead({
+    title: 'My Account — VirtueVigil',
+    description: 'Manage your VirtueVigil profile, avatar, and account settings.',
+    canonical: `${SITE_URL}/account/`,
+  })}
+<body>
+  ${topBanner()}
+  ${siteHeader('index')}
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>My <span class="text-gold">Account</span></h1>
+      <p>Manage your profile and account settings.</p>
+    </div>
+  </section>
+
+  <div class="account-page">
+    <div id="vv-auth-required" class="auth-required-card" style="display:none;">
+      <i class="fas fa-lock" style="font-size:2rem;color:var(--gold);margin-bottom:16px;"></i>
+      <h3>Sign in required</h3>
+      <p>Please <a href="/subscribe/">sign in or create an account</a> to view your profile.</p>
+    </div>
+
+    <div id="vv-profile-section" class="profile-section" style="display:none;">
+      <div id="vv-acct-status" class="acct-status" style="display:none;"></div>
+
+      <form id="vv-acct-form" class="profile-form">
+        <div class="profile-avatar-area">
+          <img id="vv-acct-avatar" class="avatar-lg" src="" alt="Your avatar">
+          <div class="avatar-actions">
+            <button id="vv-acct-avatar-btn" type="button" class="btn-outline-sm"><i class="fas fa-camera"></i> Change Avatar</button>
+            <input type="file" id="vv-acct-avatar-input" accept="image/png,image/jpeg,image/gif,image/webp" style="display:none;">
+            <span id="vv-acct-provider" class="provider-badge"></span>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="vv-acct-name">Display Name</label>
+          <input type="text" id="vv-acct-name" maxlength="100" placeholder="How others see you">
+        </div>
+
+        <div class="form-group">
+          <label for="vv-acct-email">Email</label>
+          <input type="email" id="vv-acct-email" disabled>
+          <span class="hint">Email cannot be changed</span>
+        </div>
+
+        <button type="submit" class="btn-save-profile">Save Changes</button>
+      </form>
+
+      <div id="vv-acct-password-section" class="password-section" style="display:none;">
+        <h3>Change Password</h3>
+        <div class="form-group">
+          <label for="vv-acct-new-pwd">New Password</label>
+          <input type="password" id="vv-acct-new-pwd" minlength="6" placeholder="Min 6 characters">
+        </div>
+        <div class="form-group">
+          <label for="vv-acct-confirm-pwd">Confirm Password</label>
+          <input type="password" id="vv-acct-confirm-pwd" minlength="6" placeholder="Repeat new password">
+        </div>
+        <button id="vv-acct-pwd-btn" type="button" class="btn-outline-sm">Update Password</button>
+      </div>
+
+      <div class="account-actions">
+        <button id="vv-acct-signout" class="btn-signout"><i class="fas fa-sign-out-alt"></i> Sign Out</button>
+      </div>
+    </div>
+  </div>
+
+  ${simpleFooter()}
+${pageScripts(['/js/account.js'])}
+</body>
+</html>`;
+}
+
+
+function buildAuthCallbackPage() {
+  return `${htmlHead({
+    title: 'Signing in... — VirtueVigil',
+    description: 'Processing your sign-in.',
+  })}
+<body style="background:var(--bg-primary,#0d0d12);color:var(--text-primary,#e8e6e1);font-family:'Inter',sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;">
+  <div style="text-align:center;max-width:400px;padding:40px;">
+    <div style="font-size:2rem;color:#c9a84c;margin-bottom:16px;"><i class="fas fa-spinner fa-spin"></i></div>
+    <h2 style="margin-bottom:8px;">Signing you in...</h2>
+    <p style="color:#a0a0a8;font-size:0.9rem;">Please wait while we complete your sign-in.</p>
+    <p id="auth-cb-error" style="color:#c44040;display:none;margin-top:16px;"></p>
+  </div>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script>
+    window.SUPABASE_URL = 'https://fdxvflryvctvstxdbdtm.supabase.co';
+    window.SUPABASE_ANON_KEY = 'sb_publishable_sLwiGeuKX9jNopaeK3Wbqg_gvKcAuhq';
+  </script>
+  <script>
+    (async function() {
+      try {
+        var url = window.SUPABASE_URL || localStorage.getItem('vv_supabase_url') || '';
+        var key = window.SUPABASE_ANON_KEY || localStorage.getItem('vv_supabase_anon_key') || '';
+        if (!url || !key) throw new Error('Supabase not configured');
+        var sb = window.supabase.createClient(url, key);
+        var hash = window.location.hash;
+        if (hash) {
+          // Supabase returns tokens in the URL hash after OAuth
+          await sb.auth.getSession();
+        }
+        // Give it a moment to process
+        setTimeout(function() {
+          window.location.href = '/account/';
+        }, 1500);
+      } catch(e) {
+        document.getElementById('auth-cb-error').textContent = 'Sign-in failed: ' + e.message;
+        document.getElementById('auth-cb-error').style.display = 'block';
+      }
+    })();
+  </script>
+</body>
+</html>`;
+}
+
+
+// ============================================
 // MAIN BUILD
 // ============================================
 
@@ -1148,6 +1414,12 @@ function build() {
   writePage('about.html', buildAboutPage());
   writePage('methodology.html', buildMethodologyPage());
   writePage('woke-trap.html', buildWokeTrapPage());
+
+  // --- Subscriber pages ---
+  console.log('\nBuilding subscriber pages:');
+  writePage('subscribe/index.html', buildSubscribePage());
+  writePage('account/index.html', buildAccountPage());
+  writePage('auth/callback/index.html', buildAuthCallbackPage());
 
   // --- Review pages ---
   console.log('\nBuilding review pages:');
@@ -1201,12 +1473,15 @@ function build() {
   console.log('  data/');
 
   // --- Summary ---
-  const totalPages = 4 + reviews.length + Object.keys(catMap).length;
+  const subscriberPages = 3; // subscribe, account, auth/callback
+  const staticPages = 4; // index, about, methodology, woke-trap
+  const totalPages = staticPages + subscriberPages + reviews.length + Object.keys(catMap).length;
   console.log(`\n=========================`);
   console.log(`Build complete!`);
   console.log(`  ${reviews.length} reviews`);
   console.log(`  ${Object.keys(catMap).length} category pages`);
-  console.log(`  4 static pages`);
+  console.log(`  ${staticPages} static pages`);
+  console.log(`  ${subscriberPages} subscriber pages`);
   console.log(`  ${totalPages} total pages`);
   console.log(`  + sitemap.xml, robots.txt`);
   console.log(`\nOutput: ${DIST}`);

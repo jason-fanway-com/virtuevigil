@@ -1,0 +1,36 @@
+# ============================================
+# VirtueVigil — Supabase Keep-Alive
+# Pings the Supabase database every 5 days
+# to prevent the free tier from pausing
+# after 7 days of inactivity.
+# ============================================
+
+name: Supabase Keep-Alive
+
+on:
+  schedule:
+    # Run every 5 days at 06:00 UTC
+    - cron: '0 6 */5 * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+        run: |
+          echo "Pinging Supabase to prevent free tier pause..."
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" \
+            "${SUPABASE_URL}/rest/v1/profiles?select=id&limit=1" \
+            -H "apikey: ${SUPABASE_ANON_KEY}" \
+            -H "Authorization: Bearer ${SUPABASE_ANON_KEY}")
+          echo "Response code: $RESPONSE"
+          if [ "$RESPONSE" -ge 200 ] && [ "$RESPONSE" -lt 300 ]; then
+            echo "Supabase is alive and responding."
+          else
+            echo "Warning: Supabase returned $RESPONSE"
+            exit 1
+          fi
