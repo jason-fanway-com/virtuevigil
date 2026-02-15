@@ -1,5 +1,209 @@
 [
   {
+    "id": "now-you-see-me-now-you-don-t-2025",
+    "slug": "now-you-see-me-now-you-don-t",
+    "title": "Now You See Me: Now You Don't",
+    "year": 2025,
+    "type": "film",
+    "platform": "",
+    "genre": "Drama",
+    "date": "2026-02-15",
+    "author": "Debra Ducane",
+    "readTime": "8 min",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "verdict": "WOKE",
+    "wokeScore": 18,
+    "tradScore": 7,
+    "authIndex": 50,
+    "scoreMargin": "+11 WOKE",
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "the ideological notes appear early and often, not as a late-runtime bait-and-switch.",
+      "viewerSentiment": null
+    },
+    "summary": {
+      "overall": "This transcript is a glossy, crowd-pleasing heist fantasy that repeatedly moralizes theft as “justice” and uses modern political talking points as applause lines. The movie’s core “feel-good” engine is not merely clever magic, it is redistribution, anti-elite resentment, and climate scolding dressed up as spectacle.\n\nWhat to watch out for:\n  •  Robin Hood theft is treated as virtuous rather than sinful or corrosive. The script repeatedly frames stealing as “closing the wealth gap” and “fair redistribution,” which is textbook System-justified crime.\n  •  Climate messaging shows up as a sermon, not a backdrop. It is delivered directly at “rich” villains, with “Mother Earth” language and private-jet guilt.\n  •  Corporate evil is painted as a monolith: “crypto bros,” “pension theft,” “blood diamonds,” “warlords,” “state media,” “Interpol owes me,” all stacked to condition the audience toward “institutions and markets are inherently dirty.”\n  •  On the traditional side, there is a real, emotionally grounded through-line: loyalty, sacrifice, and moral clarity. The story does not fully abandon right-and-wrong. It just insists that the “right” way is vigilante redistribution.",
+      "adultInsight": "Practical guidance for conservatives\n  •  If you dislike films that cheer vigilante economics and turn “closing the wealth gap” into a heroic catchphrase, this one is going to feel like a sugar-rush lecture disguised as a magic show.\n  •  If you can tolerate the messaging as background noise, the strongest “traditional” threads to latch onto are sacrifice (Thaddeus), loyalty, craft tradition, and clear condemnation of murderous corruption.",
+      "parentalGuidance": "Parent note: the dialogue includes aggressive insults and coarse language, plus celebratory framing of criminality as moral activism. If you are trying to teach kids that ends do not justify means, this movie fights you.\n\nFor parents: the movie is training viewers to clap when a mob is induced to participate in humiliation and redistribution. That is not “justice.” That is crowd manipulation presented as righteousness, which is ironically the darkest magic trick in the script."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Climate Guilt Propaganda",
+        "id": "WOKE-010",
+        "category": "WOKE",
+        "location": "Early, opening performance (about 5 to 10% of runtime)",
+        "authenticity": "Moderately forced"
+      },
+      {
+        "trope": "The Evil Capitalist",
+        "id": "WOKE-014",
+        "category": "WOKE",
+        "location": "Early, the “crypto bro” target (about 10 to 15%)",
+        "authenticity": "Somewhat natural"
+      },
+      {
+        "trope": "The Redeemed Criminal (Systemic)",
+        "id": "WOKE-019",
+        "category": "WOKE",
+        "location": "Same sequence (about 12 to 18%)",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "The Redeemed Criminal (Systemic)",
+        "id": "WOKE-019",
+        "category": "WOKE",
+        "location": "Same sequence (about 12 to 20%)",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "Institutional Evil",
+        "id": "WOKE-004",
+        "category": "WOKE",
+        "location": "Early-to-mid (about 15 to 25%)",
+        "authenticity": "Fairly natural"
+      },
+      {
+        "trope": "Infallible Youth",
+        "id": "WOKE-016",
+        "category": "WOKE",
+        "location": "Kids introduced (about 20 to 30%)",
+        "authenticity": "Semi-forced"
+      },
+      {
+        "trope": "The Evil Capitalist",
+        "id": "WOKE-014",
+        "category": "WOKE",
+        "location": "Antwerp setup (about 30 to 45%)",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "The Girl Boss",
+        "id": "WOKE-003",
+        "category": "WOKE",
+        "location": "Veronika boardroom and gala (about 35 to 55%)",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Sexual Liberation as Empowerment",
+        "id": "WOKE-022",
+        "category": "WOKE",
+        "location": "Gala flirting power game (about 45 to 55%)",
+        "authenticity": "Somewhat forced"
+      },
+      {
+        "trope": "Climate Guilt Propaganda",
+        "id": "WOKE-010",
+        "category": "WOKE",
+        "location": "Auction disruption (about 50 to 60%)",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "The Fourth-Wall Troll",
+        "id": "WOKE-021",
+        "category": "WOKE",
+        "location": "Same disruption (about 50 to 60%)",
+        "authenticity": "Borderline"
+      },
+      {
+        "trope": "Chosen Family over Bio-Kin",
+        "id": "WOKE-005",
+        "category": "WOKE",
+        "location": "Backstory reveal (about 55 to 70%)",
+        "authenticity": "Mostly natural"
+      },
+      {
+        "trope": "The Wise Elder",
+        "id": "TRADITIONAL-033",
+        "category": "TRAD",
+        "location": "Chateau reveal (about 60 to 75%)",
+        "authenticity": "Natural and strong"
+      },
+      {
+        "trope": "Heritage over Innovation",
+        "id": "TRADITIONAL-046",
+        "category": "TRAD",
+        "location": "Chateau puzzles and history (about 65 to 80%)",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Institutional Evil",
+        "id": "WOKE-004",
+        "category": "WOKE",
+        "location": "Villain power over police (about 70 to 80%)",
+        "authenticity": "Somewhat natural"
+      },
+      {
+        "trope": "The Self-Sacrificing Hero",
+        "id": "TRADITIONAL-026",
+        "category": "TRAD",
+        "location": "Thaddeus death (about 75 to 85%)",
+        "authenticity": "Natural and emotionally earned"
+      },
+      {
+        "trope": "Objective Good vs. Evil",
+        "id": "TRADITIONAL-039",
+        "category": "TRAD",
+        "location": "After the war-crimes evidence and murder reveals (about 75 to 90%)",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "The Girl Boss",
+        "id": "WOKE-003",
+        "category": "WOKE",
+        "location": "Abu Dhabi trap (about 80 to 90%)",
+        "authenticity": "Natural villainy"
+      },
+      {
+        "trope": "Industry and Perseverance",
+        "id": "TRADITIONAL-041",
+        "category": "TRAD",
+        "location": "Burial box escape (about 85 to 92%)",
+        "authenticity": "Natural and satisfying"
+      },
+      {
+        "trope": "The Victimhood Meritocracy",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "location": "“female magicians” identity beat (about 85 to 95%)",
+        "authenticity": "Forced"
+      },
+      {
+        "trope": "The Redeemed Criminal (Systemic)",
+        "id": "WOKE-019",
+        "category": "WOKE",
+        "location": "Finale moral resolution (about 92 to 98%)",
+        "authenticity": "Mixed"
+      },
+      {
+        "trope": "Justice Restored",
+        "id": "TRADITIONAL-047",
+        "category": "TRAD",
+        "location": "Finale (about 92 to 98%)",
+        "authenticity": "Somewhat earned"
+      },
+      {
+        "trope": "The Meritocratic Triumph",
+        "id": "TRADITIONAL-032",
+        "category": "TRAD",
+        "location": "Throughout, especially the chateau and performance planning (about 60 to 98%)",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "The Evil Capitalist",
+        "id": "WOKE-014",
+        "category": "WOKE",
+        "location": "Final villain framing (about 90 to 98%)",
+        "authenticity": "Overbuilt"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Now You See Me: Now You Don't Woke? Woke Score | VirtueVigil",
+      "metaDescription": "Is Now You See Me: Now You Don't woke? VirtueVigil's analysis: Woke Score 18, Traditional 7, Authenticity 50%. Full trope audit and family guidance.",
+      "keywords": "is now you see me: now you don't woke, now you see me: now you don't review, now you see me: now you don't woke score, now you see me: now you don't family review, now you see me: now you don't ideology"
+    }
+  },
+  {
     "id": "independence-day-2026",
     "slug": "independence-day",
     "title": "Independence day",
