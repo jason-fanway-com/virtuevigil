@@ -35,8 +35,8 @@ function shortDate(d) {
 function verdictClass(v) {
   if (!v) return 'mixed';
   const lv = v.toUpperCase();
-  if (lv === 'WOKE') return 'woke';
-  if (lv === 'TRADITIONAL') return 'traditional';
+  if (lv.includes('WOKE')) return 'woke';
+  if (lv.includes('TRADITIONAL')) return 'traditional';
   return 'mixed';
 }
 

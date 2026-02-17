@@ -13,9 +13,9 @@
     "poster": "/images/posters/i-can-only-imagine-2.jpg",
     "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 0,
-    "tradScore": 35,
-    "authIndex": 0.7,
-    "scoreMargin": 7,
+    "tradScore": 8,
+    "authIndex": 0.95,
+    "scoreMargin": 8,
     "wokeTrap": "none",
     "woke_trap_assessment": {
       "isWokeTrap": false,
