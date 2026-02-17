@@ -47,7 +47,7 @@ function verdictIcon(vc) {
 }
 
 function posterHTML(r, size) {
-  if (r.poster && r.poster.startsWith('http')) {
+  if (r.poster && (r.poster.startsWith('http') || r.poster.startsWith('/'))) {
     const alt = esc(r.title) + ' poster';
     if (size === 'thumb') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-thumb" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
     if (size === 'card') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-card" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
