@@ -435,6 +435,119 @@ function overallParagraphs(r) {
   return r.summary.overall.split('\n').filter(p => p.trim()).map(p => `<p>${esc(p)}</p>`).join('\n          ');
 }
 
+function spoilerAlertBanner(r) {
+  if (r.spoiler_alert === false) return '';
+  return `
+          <div class="spoiler-alert">
+            <span class="spoiler-alert-icon">⚠️</span>
+            <span class="spoiler-alert-text">SPOILER ALERT: This review contains detailed plot analysis and may reveal key story elements.</span>
+          </div>`;
+}
+
+function wokeTrapAssessment(r) {
+  if (!r.woke_trap_assessment) return '';
+  const wta = r.woke_trap_assessment;
+  if (wta.is_trap) {
+    const pct = wta.pct_runtime ? `${wta.pct_runtime}%` : 'a significant portion';
+    return `
+          <div class="woke-trap-assessment is-trap">
+            <div class="wta-header">🚨 WOKE TRAP WARNING</div>
+            <p>This film draws you in for ${esc(pct)} of its runtime with traditional or neutral content before springing its woke agenda. Know before you go!</p>
+            ${wta.explanation ? `<p class="wta-explanation">${esc(wta.explanation)}</p>` : ''}
+          </div>`;
+  } else {
+    return `
+          <div class="woke-trap-assessment is-clear">
+            <div class="wta-header">✅ NOT A WOKE TRAP</div>
+            ${wta.explanation ? `<p class="wta-explanation">${esc(wta.explanation)}</p>` : ''}
+          </div>`;
+  }
+}
+
+function creativeTeamSummary(r) {
+  if (!r.creative_team) return '';
+  const ct = r.creative_team;
+  let html = `
+          <div class="creative-team-summary">
+            <div class="cts-header">Creative Team</div>
+            <div class="cts-grid">`;
+  if (ct.director) html += `<div class="cts-item"><span class="cts-role">Director</span><span class="cts-name">${esc(ct.director.name)}</span></div>`;
+  if (ct.writer) html += `<div class="cts-item"><span class="cts-role">Writer</span><span class="cts-name">${esc(ct.writer.name)}</span></div>`;
+  if (ct.lead_producer) html += `<div class="cts-item"><span class="cts-role">Lead Producer</span><span class="cts-name">${esc(ct.lead_producer.name)}${ct.lead_producer.company ? ' (' + esc(ct.lead_producer.company) + ')' : ''}</span></div>`;
+  if (ct.composer) html += `<div class="cts-item"><span class="cts-role">Composer</span><span class="cts-name">${esc(ct.composer.name)}</span></div>`;
+  if (ct.top_cast && ct.top_cast.length) {
+    html += `<div class="cts-item cts-cast"><span class="cts-role">Top Cast</span><div class="cts-cast-list">`;
+    ct.top_cast.forEach(c => { html += `<span class="cts-cast-member">${esc(c.name)} <em>as ${esc(c.role)}</em></span>`; });
+    html += `</div></div>`;
+  }
+  html += `</div>`;
+
+  // Badges row
+  html += `<div class="cts-badges">`;
+  if (ct.prediction) {
+    const predClass = ct.prediction.verdict === 'WOKE' ? 'woke' : (ct.prediction.verdict === 'TRADITIONAL' ? 'trad' : 'mixed');
+    html += `<span class="prediction-badge ${predClass}">PRE-VIEWING PREDICTION: ${esc(ct.prediction.verdict)} (${esc(ct.prediction.confidence)})</span>`;
+  }
+  if (r.fidelity_casting) {
+    const fidClass = r.fidelity_casting.score === 'FAITHFUL' ? 'faithful' : (r.fidelity_casting.score === 'ENHANCED' ? 'enhanced' : 'revisionist');
+    html += `<span class="fidelity-badge ${fidClass}">FIDELITY CASTING: ${esc(r.fidelity_casting.score)}</span>`;
+  }
+  html += `</div>`;
+
+  html += `</div>`;
+  return html;
+}
+
+function creativeTeamFull(r) {
+  if (!r.creative_team) return '';
+  const ct = r.creative_team;
+  let html = `
+          <div class="creative-team-full">
+            <div class="section-label" style="margin-top:28px;">Creative Team Deep Dive</div>`;
+
+  if (ct.director && ct.director.profile) {
+    html += `
+            <div class="ctf-profile">
+              <h4><i class="fas fa-video" style="color:var(--gold);"></i> Director: ${esc(ct.director.name)}</h4>
+              ${ct.director.ideology ? `<span class="ctf-ideology-tag">${esc(ct.director.ideology)}</span>` : ''}
+              <p>${esc(ct.director.profile)}</p>
+            </div>`;
+  }
+
+  if (ct.writer && ct.writer.profile) {
+    html += `
+            <div class="ctf-profile">
+              <h4><i class="fas fa-pen-fancy" style="color:var(--gold);"></i> Writer: ${esc(ct.writer.name)}</h4>
+              <p>${esc(ct.writer.profile)}</p>
+            </div>`;
+  }
+
+  if (ct.producers && ct.producers.length) {
+    html += `<div class="ctf-profile"><h4><i class="fas fa-user-tie" style="color:var(--gold);"></i> Producers</h4><ul>`;
+    ct.producers.forEach(p => { html += `<li><strong>${esc(p.name)}</strong>${p.company ? ' (' + esc(p.company) + ')' : ''}${p.profile ? ' — ' + esc(p.profile) : ''}</li>`; });
+    html += `</ul></div>`;
+  }
+
+  if (ct.full_cast && ct.full_cast.length) {
+    html += `<div class="ctf-profile"><h4><i class="fas fa-users" style="color:var(--gold);"></i> Full Cast</h4><div class="ctf-cast-grid">`;
+    ct.full_cast.forEach(c => { html += `<div class="ctf-cast-item"><strong>${esc(c.name)}</strong> <span>as ${esc(c.role)}</span></div>`; });
+    html += `</div></div>`;
+  }
+
+  if (r.fidelity_casting && r.fidelity_casting.detailed_analysis) {
+    const fidClass = r.fidelity_casting.score === 'FAITHFUL' ? 'faithful' : (r.fidelity_casting.score === 'ENHANCED' ? 'enhanced' : 'revisionist');
+    html += `
+            <div class="ctf-profile ctf-fidelity">
+              <h4><i class="fas fa-theater-masks" style="color:var(--gold);"></i> Fidelity Casting Analysis <span class="fidelity-badge ${fidClass}">${esc(r.fidelity_casting.score)}</span></h4>
+              ${r.fidelity_casting.summary ? `<p><strong>${esc(r.fidelity_casting.summary)}</strong></p>` : ''}
+              <p>${esc(r.fidelity_casting.detailed_analysis)}</p>
+            </div>`;
+  }
+
+  html += `</div>`;
+  return html;
+}
+
 // ============================================
 // PAGE BUILDERS
 // ============================================
@@ -694,11 +807,15 @@ function buildReviewPage(r) {
         ${scorePanel(r)}
 
         <div class="featured-body" itemprop="reviewBody">
+          ${spoilerAlertBanner(r)}
+          ${wokeTrapAssessment(r)}
+          ${creativeTeamSummary(r)}
           <div class="section-label">Overall Perspective</div>
           ${overallParagraphs(r)}
-          ${insightGrid(r)}
           ${wokeTrapAlert(r)}
           ${tropeTable(r)}
+          ${creativeTeamFull(r)}
+          ${insightGrid(r)}
         </div>
       </article>
 
