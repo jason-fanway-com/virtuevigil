@@ -35,6 +35,8 @@ function shortDate(d) {
 function verdictClass(v) {
   if (!v) return 'mixed';
   const lv = v.toUpperCase();
+  // "Mixed/Traditional Lean" should be mixed, not traditional
+  if (lv.startsWith('MIXED')) return 'mixed';
   if (lv.includes('WOKE')) return 'woke';
   if (lv.includes('TRADITIONAL')) return 'traditional';
   return 'mixed';
@@ -261,10 +263,12 @@ function sidebarHTML() {
         ${recent.map(r => {
           const vc = verdictClass(r.verdict);
           const hasTrap = r.wokeTrap && r.wokeTrap.present;
+          const margin = typeof r.scoreMargin === 'number' ? r.scoreMargin : parseFloat(String(r.scoreMargin)) || Math.abs((r.tradScore || 0) - (r.wokeScore || 0));
           let badge = r.verdict;
           if (hasTrap) badge = 'WOKE TRAP';
-          else if (vc === 'woke') badge = `WOKE +${r.wokeScore - r.tradScore}`;
-          else if (vc === 'traditional') badge = `TRAD +${r.tradScore - r.wokeScore}`;
+          else if (vc === 'woke') badge = `WOKE +${Math.round(margin)}`;
+          else if (vc === 'traditional') badge = `TRAD +${Math.round(margin)}`;
+          else if (vc === 'mixed') badge = `MIXED +${Math.round(margin)}`;
           return `
         <a href="/reviews/${r.slug}/" class="recent-review">
           <div class="thumb">${posterHTML(r, 'thumb')}</div>
