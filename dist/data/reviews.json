@@ -14,7 +14,7 @@
     "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 0,
     "tradScore": 8,
-    "authIndex": 0.95,
+    "authIndex": 95,
     "scoreMargin": 8,
     "wokeTrap": "none",
     "woke_trap_assessment": {
@@ -210,7 +210,7 @@
     "verdict": "Mixed/Traditional Lean",
     "wokeScore": 3,
     "tradScore": 5,
-    "authIndex": 0.75,
+    "authIndex": 75,
     "scoreMargin": 2,
     "wokeTrap": false,
     "woke_trap_assessment": {
