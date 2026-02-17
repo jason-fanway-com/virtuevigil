@@ -6,349 +6,356 @@ const reviews = JSON.parse(fs.readFileSync(reviewsPath, 'utf8'));
 
 const newReviews = [
   {
-    "id": "crime-101-2026",
-    "slug": "crime-101-2026",
-    "title": "Crime 101",
-    "year": 2026,
-    "type": "film",
-    "platform": "Theatrical",
-    "genre": "Crime, Thriller",
-    "date": "2026-02-17",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "14 min",
-    "poster": "/images/posters/crime-101-2026.jpg",
-    "verdict": "MIXED",
-    "wokeScore": 6,
-    "tradScore": 8,
-    "authIndex": 72,
-    "scoreMargin": "+2 TRAD",
-    "wokeTrap": {
-      "present": false,
-      "degree": null,
-      "explanation": "Crime 101 is not hiding an ideological agenda behind genre packaging. This is a straightforward crime thriller that wears its Michael Mann influences on its sleeve. The social commentary is present but secondary to the heist mechanics and character dynamics. Conservative viewers who enjoy a well-crafted crime film will not feel ambushed.",
-      "viewerSentiment": null
+    id: "mercy-2026",
+    slug: "mercy-2026",
+    title: "Mercy",
+    year: 2026,
+    type: "film",
+    platform: "Theatrical",
+    genre: "Sci-Fi, Thriller",
+    date: "2026-02-17",
+    author: "VirtueVigil Editorial Team",
+    readTime: "14 min",
+    poster: "/images/posters/mercy-2026.jpg",
+    verdict: "MIXED",
+    wokeScore: 5,
+    tradScore: 8,
+    authIndex: 72,
+    scoreMargin: "+3 TRAD",
+    wokeTrap: {
+      present: false,
+      degree: null,
+      explanation: "Mercy is not hiding an ideological agenda behind a genre shell. What it is hiding, and badly, is a muddled stance on surveillance and AI-driven justice. The film sets up a dystopian system that strips away civil liberties and then proceeds to celebrate that same system's tools as the hero's salvation. This is not progressive ideology smuggled into entertainment. It is corporate incoherence from Amazon MGM Studios.",
+      viewerSentiment: null
     },
-    "woke_trap_assessment": {
-      "is_trap": false,
-      "explanation": "Crime 101 is not hiding an ideological agenda behind genre packaging. This is a straightforward crime thriller that wears its Michael Mann influences on its sleeve. The social commentary is present but secondary to the heist mechanics and character dynamics."
+    woke_trap_assessment: {
+      is_trap: false,
+      explanation: "Mercy is not hiding an ideological agenda behind a genre shell. The film sets up a dystopian system that strips away civil liberties and then proceeds to celebrate that same system's tools as the hero's salvation. This is corporate incoherence from Amazon MGM Studios, not progressive ideology smuggled into entertainment."
     },
-    "creative_team": {
-      "director": {
-        "name": "Bart Layton",
-        "ideology": "NEUTRAL",
-        "profile": "English filmmaker who made his name in documentaries before crossing into narrative features. His work is defined by a fascination with deception, identity, and the blurry line between truth and performance. He is not a political filmmaker. Three films, all centered on theft, deception, and consequences. No consistent political agenda."
+    creative_team: {
+      director: {
+        name: "Timur Bekmambetov",
+        ideology: "NEUTRAL",
+        profile: "Kazakh-born Russian filmmaker who built his career on genre spectacle and technological innovation. Not an ideologue. His interests are spectacle and technology-driven storytelling. Pioneered the screenlife genre with Searching and Unfriended."
       },
-      "writer": {
-        "name": "Bart Layton (with Peter Straughan contributions)",
-        "profile": "Layton adapted Don Winslow's novella with contributions from Peter Straughan (Tinker Tailor Soldier Spy, Our Brand Is Crisis). The screenplay adds the workplace sexism subplot and the police corruption elements."
+      writer: {
+        name: "Marco van Belle",
+        profile: "Debut feature screenplay. No prior credits of note. No public political profile."
       },
-      "lead_producer": {
-        "name": "Tim Bevan & Eric Fellner",
-        "company": "Working Title Films"
+      lead_producer: {
+        name: "Charles Roven",
+        company: "Atlas Entertainment"
       },
-      "composer": {
-        "name": "Blanck Mass (Benjamin John Power)"
+      composer: {
+        name: "Ramin Djawadi"
       },
-      "top_cast": [
-        { "name": "Chris Hemsworth", "role": "Mike / James Davis" },
-        { "name": "Mark Ruffalo", "role": "Det. Lou Lubesnick" },
-        { "name": "Halle Berry", "role": "Sharon Combs" },
-        { "name": "Barry Keoghan", "role": "Ormon" },
-        { "name": "Nick Nolte", "role": "Money" }
+      top_cast: [
+        { name: "Chris Pratt", role: "Det. Christopher 'Chris' Raven" },
+        { name: "Rebecca Ferguson", role: "Judge Maddox (AI)" },
+        { name: "Kali Reis", role: "Jacqueline 'Jaq' Diallo" },
+        { name: "Annabelle Wallis", role: "Nicole Raven" },
+        { name: "Chris Sullivan", role: "Robert 'Rob' Nelson" }
       ],
-      "prediction": {
-        "verdict": "TRADITIONAL-LEANING",
-        "confidence": "moderate"
-      },
-      "producers": [
-        { "name": "Tim Bevan & Eric Fellner", "company": "Working Title Films", "profile": "Britain's leading prestige house. Output ranges from romantic comedies to war films to crime thrillers. Ideologically mixed." },
-        { "name": "Dimitri Doganis", "company": "Raw TV", "profile": "Layton's producing partner. Background in documentary and reality television. No political signal." },
-        { "name": "Shane Salerno", "company": "The Story Factory", "profile": "Literary manager and producer. Represents Don Winslow. No consistent ideological signal." },
-        { "name": "Chris Hemsworth & Ben Grayson", "profile": "Hemsworth produces through his banner. His production choices suggest an affinity for action and genre material rather than political projects." }
-      ],
-      "full_cast": [
-        { "name": "Chris Hemsworth", "role": "Mike / James Davis" },
-        { "name": "Mark Ruffalo", "role": "Det. Lou Lubesnick" },
-        { "name": "Halle Berry", "role": "Sharon Combs" },
-        { "name": "Barry Keoghan", "role": "Ormon" },
-        { "name": "Monica Barbaro", "role": "Maya" },
-        { "name": "Corey Hawkins", "role": "Det. Tillman" },
-        { "name": "Jennifer Jason Leigh", "role": "Angie" },
-        { "name": "Nick Nolte", "role": "Money" },
-        { "name": "Tate Donovan", "role": "Steven Monroe" },
-        { "name": "Devon Bostick", "role": "Devon" },
-        { "name": "Payman Maadi", "role": "Sammy Kassem" },
-        { "name": "Babak Tafti", "role": "Ali" },
-        { "name": "Deborah Hedwall", "role": "Anne" },
-        { "name": "Paul Adelstein", "role": "Mark" },
-        { "name": "Drew Powell", "role": "Det. Townsend" },
-        { "name": "Matthew Del Negro", "role": "Police Captain Stewart" },
-        { "name": "Andra Nechita", "role": "Adrienne" },
-        { "name": "John Douglas", "role": "Grant" }
-      ]
+      prediction: {
+        verdict: "MIXED",
+        confidence: "moderate"
+      }
     },
-    "fidelity_casting": {
-      "score": "ADJUSTED",
-      "summary": "Sharon's race change from the source novella is the primary casting alteration, though it does not materially damage the story.",
-      "detailed_analysis": "The primary casting question involves Halle Berry as Sharon Combs. In Winslow's novella, Sharon's race is not specified as central to her character. Casting Berry adds a dimension of racial representation without the film explicitly engaging with it. Mike Davis (Chris Hemsworth) tracks with the source material. Det. Lou Lubesnick (Mark Ruffalo) fits the rumpled, dogged character. The casting works dramatically even if it reflects industry diversity priorities."
+    fidelity_casting: {
+      score: "N/A",
+      summary: "Original near-future setting with no historical or source material to assess.",
+      detailed_analysis: "Mercy is set in a fictional near-future and is based on an original screenplay. There is no historical period, literary source, or real-world figure to assess for casting fidelity. The cast is ethnically diverse in a way that reflects contemporary Los Angeles demographics without calling attention to itself."
     },
-    "summary": {
-      "overall": "Bart Layton's \"Crime 101\" is the kind of movie Hollywood used to make all the time and rarely bothers with anymore. A slick, sun-bleached Los Angeles crime thriller about professionals on both sides of the law, built on competence, tension, and the quiet rhythms of people who are very good at what they do. It owes a massive debt to Michael Mann. The night driving sequences look like outtakes from \"Heat\" and \"Collateral,\" and the central triangle of thief, cop, and reluctant accomplice echoes Mann's fascination with men (and women) defined by their work. The good news is that the debt is mostly paid off. This is a genuinely entertaining film.\n\nChris Hemsworth plays Mike Davis, a jewel thief who plans his scores with surgical precision and refuses to hurt anyone. He targets jewelry stores along the 101 highway, uses detailed intelligence on his targets' families to ensure compliance, and then vanishes. Hemsworth plays him quiet and controlled, miles away from his Thor persona. It works. There is something compelling about watching a physically imposing man exercise restraint rather than force. Mark Ruffalo's Detective Lou Lubesnick is the rumpled, dogged investigator who suspects a single thief is responsible for a string of unsolved robberies but can't get his department to care. And Halle Berry plays Sharon Combs, an insurance broker who has spent decades being passed over, patronized, and sidelined by her firm, and who ultimately agrees to help Mike with one last score.\n\nThe film's strongest material involves the heist mechanics and the cat-and-mouse between Mike and Lou. Layton comes from documentaries (The Imposter, American Animals) and he brings that instinct for grounded detail to the crime sequences. The opening diamond interception is tense and efficient. A car chase midway through the film is legitimately startling because it looks and feels real rather than CGI-glossy. Barry Keoghan's Ormon, a volatile young biker hired by Mike's fence to intercept his next job, provides the wild-card menace that the plot needs. Keoghan is doing his usual unhinged thing and it fits, even if the character is a bit one-note. Nick Nolte shows up as Money, the aging fence, looking rough and sounding rougher. He has maybe ten minutes of screen time and steals every one of them.\n\nWhere the film stumbles slightly is in its social commentary, which is sincere but occasionally heavy-handed. Sharon's workplace subplot hits every beat you expect it to. Her boss is a smirking corporate villain who hands her clients to younger women, cites her age as a liability, and generally behaves like a walking HR violation. When Sharon finally tells him off and quits, it is satisfying on a visceral level, but the setup is so stacked that the moment feels manufactured rather than earned. The film wants us to understand that Sharon turns to crime because \"the system\" failed her. That framing is recognizable as the progressive narrative of institutional failure driving individual transgression. A more traditional reading would note that Sharon makes a choice, a criminal one, and the film never fully grapples with the moral weight of that decision because it is too busy validating her grievance.\n\nSimilarly, the film frames Mike's criminality through a lens of economic disadvantage. He grew up in poverty, cycled through foster homes, and turned to theft because legitimate paths were closed to him. This backstory contextualizes his crimes rather than condemning them. The film is not interested in holding Mike morally accountable in any serious way. He is the cool protagonist, and we are meant to root for him. There is a long tradition of this in crime cinema, from Cary Grant to Steve McQueen to the Ocean's franchise. But Crime 101 adds the progressive garnish of systemic explanation, as if liking a charming thief isn't enough and we also need to understand that society made him this way.\n\nLou's subplot involves police corruption. He is suspended for refusing to help cover up the shooting of another suspect. The department is portrayed as more interested in optics than justice. Lou is the lone honest cop swimming against an institutional tide. This is a familiar trope that plays differently depending on your political lens. Conservatives might read it as a condemnation of bureaucratic rot. Progressives might read it as a critique of policing itself. The film is vague enough to support both readings, which is either admirably balanced or noncommittal, depending on your taste.\n\nBut here is the thing: for all its social commentary, the film's emotional engine runs on entirely traditional fuel. Mike is defined by self-reliance, discipline, and a personal code of honor. He abhors violence. He plans meticulously. He takes pride in his craft. These are fundamentally masculine virtues presented without irony or apology. Lou is a dogged professional who believes in doing the right thing even when his institution does not support him. That is individual moral conviction over institutional pressure, which is about as conservative a value as you can find. The relationship between Mike and Maya, while underdeveloped, is presented as genuinely romantic. Mike's inability to open up is treated as a flaw he needs to overcome, not a strength. The film's ending, in which Mike sends Maya a childhood photo asking for a second chance, is a small, human gesture that argues for vulnerability and connection over isolation. And the final resolution, where Lou lets Mike walk but ensures Sharon gets a fresh start, operates on a code of personal honor rather than institutional justice. Lou doesn't follow the rules. He follows his conscience. That is an old-fashioned moral framework dressed in modern clothes.\n\nConservative viewers should find more to enjoy here than to bristle at. The social commentary is present but it never overwhelms the genre pleasures. This is a film about competent people doing interesting things, shot beautifully, scored with driving electronic music, and anchored by three performers who take the material seriously. It is not trying to lecture you. It is trying to entertain you, and mostly succeeding. The woke elements are real but they sit alongside, rather than on top of, a fundamentally traditional crime narrative. Layton respects the genre too much to subordinate it entirely to a message.",
-      "adultInsight": "Conservative viewers should approach Crime 101 as what it primarily is: a well-crafted genre thriller in the tradition of Heat, Thief, and the better Ocean's films. Bart Layton is not Steve McQueen. He is not using the crime genre as a vehicle for racial critique or institutional deconstruction. He is making a crime movie with the tools and sensibilities of contemporary Hollywood, which means some progressive seasoning is baked in. But it never overwhelms the dish. The workplace sexism subplot is the most overtly woke element, and even there, Berry's performance and the genre context soften the lecture. What conservative viewers will appreciate is the film's genuine respect for competence, self-reliance, personal honor, and masculine virtue.",
-      "parentalGuidance": "Crime 101 is rated R for language throughout, some violence, and sexual material/nudity. Common Sense Media recommends age 15+. Violence includes a high-speed car chase with a vehicle flipping, a shooting in a hotel suite, and a character beaten to death. Barry Keoghan's Ormon is menacing and physically threatening, including a scene where he violently interrogates Sharon. Strong language is used throughout with frequent f-words. Brief nudity and some sexual material. Not appropriate for children under 13. For teenagers 15 and older, this is a solid conversation starter about moral complexity in storytelling and whether a film can celebrate a character's skills without endorsing their choices."
+    summary: {
+      overall: "Timur Bekmambetov's Mercy arrives with a killer premise and proceeds to do almost nothing interesting with it. An LAPD detective wakes up strapped to an execution chair, put on trial by an AI judge for murdering his wife, and given 90 minutes to prove he didn't do it. That's a great hook. A ticking clock. A man against a machine. Life and death. It should work. For stretches, it almost does. And then you start thinking about what the movie is actually saying, and the whole thing falls apart like wet cardboard.\n\nChris Pratt plays Detective Chris Raven, a cop who championed the Mercy Court system. This is a near-future Los Angeles where AI judges handle capital cases with brutal efficiency. Eighteen defendants before Raven. All eighteen executed. The system is framed early on as a response to rampant urban crime, with tent cities and red zones choking major cities. If you squint, you can see the bones of a genuinely conservative premise here. Law and order has collapsed. Traditional institutions have failed. Something drastic had to be done.\n\nBecause here's the thing. The movie wants you to feel uneasy about AI judges executing people without a jury of their peers. It wants you to worry about a system that bypasses due process. Those are concerns that conservatives and libertarians should share deeply. The right to a fair trial, the presumption of innocence, the dangers of unchecked government power. These are bedrock American principles. And Mercy, to its credit, does put a human face on what happens when those principles get traded away for efficiency.\n\nBut then the movie undercuts its own argument. Raven solves the case using the exact surveillance apparatus the film supposedly critiques. Judge Maddox gives him access to everyone's private emails, texts, social media accounts, doorbell cameras, parking lot footage, and phone records. The film treats this total surveillance as thrilling and useful. At no point does the screenplay pause to consider that maybe this is exactly the problem.\n\nRebecca Ferguson is easily the best thing here. Her Judge Maddox walks a fascinating line between cold algorithmic logic and something almost approaching empathy. Pratt, meanwhile, is stuck in a chair for most of the runtime. He's committed, and he sells the desperation well enough, but this is not the role that plays to his strengths. Kali Reis brings genuine toughness as Raven's partner Jaq, providing the film's most visceral energy.\n\nThe late reveal that Jaq is actually the story's true villain, having tampered with evidence in the Mercy Court's very first case, is the screenplay's strongest swing. The idea that the system was corrupt from day one, compromised by the very humans it was meant to replace, is a genuinely compelling twist that conservative viewers will appreciate. Human fallibility cannot be engineered away.\n\nWhere conservative viewers will find real satisfaction is in the film's family dynamics. Raven's desperate fight to survive is driven by his love for his daughter Britt. The father-daughter bond is the emotional engine that keeps the movie running when the plot mechanics sputter. That is as traditional as it gets.\n\nBut Mercy can't commit to its own convictions. The ending has Raven essentially making peace with the AI system. After everything the film just showed us, it reads like a shrug. An innocent man was executed. Eighteen people were denied a fair trial. A cop planted evidence. And the takeaway is well, nobody's perfect. That is not thoughtful. That is lazy. Worse, coming from an Amazon production, it feels like corporate hedging.\n\nFor conservative viewers, Mercy is a frustrating near-miss. The ingredients for a genuinely provocative film about government overreach, the limits of technology, and the irreplaceable value of human judgment are all here. The family-centered emotional core works. The critique of institutional corruption has real teeth. But the film lacks the courage of its own convictions, and its unexamined celebration of total surveillance is a problem that goes deeper than bad screenwriting.",
+      adultInsight: "Conservative adults should approach Mercy as a flawed but occasionally interesting thought experiment about the limits of technology in dispensing justice. The film's strongest conservative credentials are structural rather than intentional. The entire plot demonstrates what happens when due process is abandoned. The constitutional protections that conservatives champion, the right to counsel, trial by jury, the presumption of innocence, are all absent in the Mercy Court, and the results are exactly as catastrophic as you'd predict. Chris Pratt brings an everyman quality to Raven that conservative audiences will appreciate. The bigger concern is what the film normalizes without examining. Total surveillance is presented as a feature, not a bug. Amazon's fingerprints are on every frame. Watch it as a conversation starter about AI, due process, and the surveillance state. Just don't expect the film itself to have good answers.",
+      parentalGuidance: "Violence: Moderate to heavy. A woman is stabbed to death in fragmented flashback. An explosion kills multiple SWAT team members. A man crashes a truck loaded with explosives into a building. A physical fight in the climax. The execution mechanism (lethal sonic pulse) is described rather than graphically depicted. Sexual Content: Minimal. An affair is discussed but not shown. No nudity. Language: Moderate profanity consistent with a crime thriller. Substance Use: Raven's alcoholism is a significant plot element depicted honestly. Scary/Intense: The ticking-clock execution premise creates sustained tension. A teenager is kidnapped. The concept of being tried and executed by a machine may disturb younger viewers. Age Recommendation: 13 and up with parental engagement."
     },
-    "tropeAudit": [
-      { "trope": "Redeemed Criminal Systemic", "id": "WOKE-019", "category": "WOKE", "location": "Throughout -- Mike's criminality contextualized through poverty and foster care", "authenticity": "Mixed" },
-      { "trope": "The Girl Boss", "id": "WOKE-003", "category": "WOKE", "location": "Sharon's workplace subplot -- crime framed as liberation from sexism", "authenticity": "Mixed" },
-      { "trope": "Institutional Evil", "id": "WOKE-004", "category": "WOKE", "location": "Lou's police subplot -- LAPD portrayed as institutionally corrupt", "authenticity": "Mixed" },
-      { "trope": "The Bigoted Traditionalist", "id": "WOKE-008", "category": "WOKE", "location": "Sharon's workplace -- boss as cartoonish corporate misogynist", "authenticity": "Low" },
-      { "trope": "The Victimhood Meritocracy", "id": "WOKE-009", "category": "WOKE", "location": "Throughout -- all three protagonists positioned as victims of systems", "authenticity": "Mixed" },
-      { "trope": "Race-Conscious Casting", "id": "WOKE-022", "category": "WOKE", "location": "Throughout -- Sharon's race changed from source novella", "authenticity": "N/A" },
-      { "trope": "Industry and Perseverance", "id": "TRADITIONAL-041", "category": "TRAD", "location": "Throughout -- Mike's meticulous preparation and professional excellence", "authenticity": "Natural" },
-      { "trope": "The Self-Sacrificing Hero", "id": "TRADITIONAL-026", "category": "TRAD", "location": "Climax -- Mike kills Ormon to save Lou, sacrifices his score", "authenticity": "Natural" },
-      { "trope": "Masculine Competence", "id": "TRADITIONAL-035", "category": "TRAD", "location": "Throughout -- Mike and Lou defined by skill in their domains", "authenticity": "Natural" },
-      { "trope": "Personal Honor Code", "id": "TRADITIONAL-029", "category": "TRAD", "location": "Throughout -- Mike's strict no-violence code drives the narrative", "authenticity": "Natural" },
-      { "trope": "Romantic Vulnerability", "id": "TRADITIONAL-032", "category": "TRAD", "location": "Mike and Maya's subplot -- emotional openness as growth", "authenticity": "Natural" },
-      { "trope": "Defense of the Innocent", "id": "TRADITIONAL-045", "category": "TRAD", "location": "Climax -- Mike breaks his code to protect others", "authenticity": "Natural" },
-      { "trope": "Earned Redemption", "id": "TRADITIONAL-040", "category": "TRAD", "location": "Final act -- each character earns resolution through sacrifice", "authenticity": "Natural" },
-      { "trope": "Loyalty and Brotherhood", "id": "TRADITIONAL-042", "category": "TRAD", "location": "Climax and resolution -- thief-cop mutual respect", "authenticity": "Natural" }
+    tropeAudit: [
+      { trope: "Surveillance Normalization", id: "WOKE-022", category: "WOKE", location: "Throughout -- Raven given unrestricted access to private data presented as legitimate justice tool", authenticity: "N/A" },
+      { trope: "Techno-Utopianism", id: "WOKE-015", category: "WOKE", location: "Final act -- Raven reconciles with AI system despite its catastrophic failures", authenticity: "N/A" },
+      { trope: "Institutional Evil (Inverted)", id: "WOKE-004", category: "WOKE", location: "Throughout -- LAPD and Mercy Court shown as corrupt or corruptible", authenticity: "N/A" },
+      { trope: "The Girl Boss", id: "WOKE-003", category: "WOKE", location: "Throughout -- Jaq operates as highly competent field officer and mastermind", authenticity: "N/A" },
+      { trope: "Dystopian Urban Decay as Moral Backdrop", id: "WOKE-017", category: "WOKE", location: "Opening act -- LA depicted as overrun with tent cities and red zones", authenticity: "N/A" },
+      { trope: "Defense of the Innocent", id: "TRADITIONAL-045", category: "TRAD", location: "Final act -- Raven fights to protect kidnapped daughter Britt", authenticity: "N/A" },
+      { trope: "Due Process and Rule of Law", id: "TRADITIONAL-044", category: "TRAD", location: "Throughout -- entire premise critiques abandonment of constitutional safeguards", authenticity: "N/A" },
+      { trope: "The Self-Sacrificing Hero", id: "TRADITIONAL-026", category: "TRAD", location: "Final act -- Raven willing to die rather than allow daughter to be killed", authenticity: "N/A" },
+      { trope: "Industry and Perseverance", id: "TRADITIONAL-041", category: "TRAD", location: "Throughout -- Raven grinds through impossible odds with detective instincts", authenticity: "N/A" },
+      { trope: "Personal Responsibility and Redemption", id: "TRADITIONAL-031", category: "TRAD", location: "Mid-film -- Raven confronts alcoholism and owns his failures", authenticity: "N/A" },
+      { trope: "Mercy Over Vengeance", id: "TRADITIONAL-028", category: "TRAD", location: "Climax -- Raven chooses not to kill Rob, breaking cycle of violence", authenticity: "N/A" },
+      { trope: "Skepticism of Government Power", id: "TRADITIONAL-033", category: "TRAD", location: "Throughout -- Mercy Court represents unchecked government authority", authenticity: "N/A" },
+      { trope: "Family as Anchor", id: "TRADITIONAL-047", category: "TRAD", location: "Throughout -- Raven motivated by love for daughter and regret over wife", authenticity: "N/A" }
     ],
-    "seo": {
-      "titleTag": "Is Crime 101 (2026) Woke? Bart Layton Film Review | VirtueVigil",
-      "metaDescription": "Is Crime 101 woke? VirtueVigil's analysis: Woke Score 6, Traditional 8, Fidelity Casting ADJUSTED. Full creative team deep dive, trope audit, and family guidance.",
-      "keywords": "is crime 101 woke, crime 101 2026 review, crime 101 movie review conservative, crime 101 chris hemsworth, crime 101 woke score"
-    },
-    "spoiler_alert": true
+    seo: {
+      titleTag: "Is Mercy (2026) Woke? Chris Pratt AI Thriller Review | VirtueVigil",
+      metaDescription: "Is Mercy woke? VirtueVigil's analysis: Woke Score 5, Traditional 8, Fidelity Casting N/A. Full creative team deep dive, trope audit, and family guidance."
+    }
   },
   {
-    "id": "send-help-2026",
-    "slug": "send-help-2026",
-    "title": "Send Help",
-    "year": 2026,
-    "type": "film",
-    "platform": "Theatrical",
-    "genre": "Horror, Thriller, Comedy",
-    "date": "2026-02-17",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "12 min",
-    "poster": "/images/posters/send-help-2026.jpg",
-    "verdict": "MIXED",
-    "wokeScore": 6,
-    "tradScore": 7,
-    "authIndex": 70,
-    "scoreMargin": "+1 TRAD",
-    "wokeTrap": {
-      "present": false,
-      "degree": null,
-      "explanation": "Despite surface-level eat the rich and anti-corporate framing, the film actually subverts the class warfare narrative. The downtrodden worker who overthrows her entitled boss doesn't become a hero. She becomes a monster. Sam Raimi is not interested in lecturing anyone.",
-      "viewerSentiment": null
+    id: "dracula-a-love-tale-2025",
+    slug: "dracula-a-love-tale-2025",
+    title: "Dracula: A Love Tale",
+    year: 2025,
+    type: "film",
+    platform: "Theatrical",
+    genre: "Gothic Romance, Horror",
+    date: "2026-02-17",
+    author: "VirtueVigil Editorial Team",
+    readTime: "16 min",
+    poster: "/images/posters/dracula-a-love-tale-2025.jpg",
+    verdict: "TRADITIONAL",
+    wokeScore: 3,
+    tradScore: 12,
+    authIndex: 85,
+    scoreMargin: "+9 TRAD",
+    wokeTrap: {
+      present: false,
+      degree: null,
+      explanation: "This film is exactly what it advertises: a Gothic romance built on eternal love, sacrifice, and faith. Luc Besson has no interest in modern identity politics here. There are no diversity lectures, no institutional grievance arcs, no revisionist history. Conservative viewers can go into this one with their guard down.",
+      viewerSentiment: null
     },
-    "woke_trap_assessment": {
-      "is_trap": false,
-      "explanation": "Despite surface-level eat the rich and anti-corporate framing, the film subverts the class warfare narrative. The downtrodden worker who overthrows her entitled boss becomes a monster, not a hero. Raimi is interested in entertainment, not lectures."
+    woke_trap_assessment: {
+      is_trap: false,
+      explanation: "This film is exactly what it advertises: a Gothic romance built on eternal love, sacrifice, and faith. Luc Besson has no interest in modern identity politics here."
     },
-    "creative_team": {
-      "director": {
-        "name": "Sam Raimi",
-        "ideology": "NEUTRAL",
-        "profile": "One of the most durable genre directors in American cinema. He has been making movies since the early 1980s and his ideological footprint across four decades is remarkably light. He is a craftsman, not an activist. His heroes tend to be ordinary people with strong moral instincts."
+    creative_team: {
+      director: {
+        name: "Luc Besson",
+        ideology: "NEUTRAL",
+        profile: "French populist entertainer. Four decades of stylish, crowd-pleasing films. Not an ideologue. His interests are spectacle, romance, action, and style."
       },
-      "writer": {
-        "name": "Mark Swift & Damian Shannon",
-        "profile": "Horror/genre writing duo. Credits include Freddy vs. Jason (2003) and Friday the 13th reboot (2009). Genre professionals with no political track record."
+      writer: {
+        name: "Luc Besson",
+        profile: "Sole credited writer. Adapted Stoker's novel freely, restructuring the narrative around the love story."
       },
-      "lead_producer": {
-        "name": "Sam Raimi",
-        "company": "Raimi Productions"
+      lead_producer: {
+        name: "Virginie Besson-Silla",
+        company: "EuropaCorp / Luc Besson Production"
       },
-      "composer": {
-        "name": "Danny Elfman"
+      composer: {
+        name: "Danny Elfman"
       },
-      "top_cast": [
-        { "name": "Rachel McAdams", "role": "Linda Liddle" },
-        { "name": "Dylan O'Brien", "role": "Bradley Preston" },
-        { "name": "Dennis Haysbert", "role": "Franklin" }
+      top_cast: [
+        { name: "Caleb Landry Jones", role: "Dracula / Prince Vlad" },
+        { name: "Christoph Waltz", role: "The Priest" },
+        { name: "Zoe Bleu", role: "Elisabeta / Mina Murray" },
+        { name: "Matilda De Angelis", role: "Maria" },
+        { name: "Ewens Abid", role: "Jonathan Harker" }
       ],
-      "prediction": {
-        "verdict": "MIXED",
-        "confidence": "moderate"
-      },
-      "producers": [
-        { "name": "Sam Raimi", "company": "Raimi Productions", "profile": "As producer of his own film, the creative vision is unified. No external ideological pressures detectable." },
-        { "name": "Zainab Azizi", "profile": "Producer with credits alongside Raimi. No ideological signal detectable." }
-      ],
-      "full_cast": [
-        { "name": "Rachel McAdams", "role": "Linda Liddle" },
-        { "name": "Dylan O'Brien", "role": "Bradley Preston" },
-        { "name": "Edyll Ismail", "role": "Zuri" },
-        { "name": "Xavier Samuel", "role": "Donovan Murphy" },
-        { "name": "Chris Pang", "role": "Chase" },
-        { "name": "Dennis Haysbert", "role": "Franklin" },
-        { "name": "Thaneth Warakulnukroh", "role": "Boat Captain" },
-        { "name": "Emma Raimi", "role": "River" },
-        { "name": "Kristy Best", "role": "Polly Perera" },
-        { "name": "Bruce Campbell", "role": "Bradley's Father (photographs only)" }
-      ]
+      prediction: {
+        verdict: "TRADITIONAL",
+        confidence: "high"
+      }
     },
-    "fidelity_casting": {
-      "score": "N/A",
-      "summary": "Original contemporary fiction with no historical or source material to assess.",
-      "detailed_analysis": "Send Help is an original contemporary fiction. There is no historical event, literary source, or established IP to assess fidelity against. The casting is straightforward and unremarkable from an ideological standpoint."
+    fidelity_casting: {
+      score: "FAITHFUL",
+      summary: "Cast aligns with source material's European setting and period. No conspicuous diversity insertions.",
+      detailed_analysis: "The casting is straightforward and appropriate. The film is set in 15th-century Wallachia and 1889 Paris. The cast is overwhelmingly European. Caleb Landry Jones brings the right energy for Besson's romantic interpretation. Christoph Waltz's European background suits the Vatican vampire hunter. Jonathan Harker cast with French-Algerian actor Ewens Abid is a minor note but not a political choice."
     },
-    "summary": {
-      "overall": "Sam Raimi has been making gloriously unhinged movies for over forty years. From the cabin in the Tennessee woods to the streets of Manhattan to the multiverse itself, the guy has one consistent gear: controlled chaos delivered with a grin. \"Send Help\" is the purest distillation of Raimi's sensibilities since \"Drag Me to Hell.\" It's mean, funny, gory, and surprisingly well-acted. It also happens to contain just enough cultural subtext to warrant a closer look from conservative viewers who are tired of Hollywood using genre films as Trojan horses for progressive messaging.\n\nThe good news? This is not that kind of movie. Not really.\n\nThe setup is simple and effective. Linda Liddle, played by Rachel McAdams, is a brilliant but socially awkward corporate strategist who just got passed over for a promotion by her new boss, Bradley Preston, a nepo-baby CEO played with obnoxious precision by Dylan O'Brien. Bradley gives the VP slot to his fraternity buddy Donovan instead. When a business trip goes wrong and their private jet crashes in the Gulf of Thailand, only Linda and Bradley survive. Stranded on a deserted island with a man who treated her like furniture, Linda discovers that her obsessive fandom of the TV show \"Survivor\" has actually prepared her for this moment. She can fish. She can build shelter. She can hunt wild boar with a homemade spear. Bradley, meanwhile, can barely stand up on his busted leg.\n\nSo far, you might think you know where this is going. Plucky underdog proves her worth, arrogant boss learns humility, they share a moment of mutual respect, rescue arrives, roll credits. That would be the safe version. Raimi has zero interest in the safe version.\n\nWhat actually happens is that Linda gradually reveals herself to be something far more disturbing than a meek office worker finally standing up for herself. She deliberately avoids signaling a passing boat. She poisons Bradley with octopus toxin and stages a fake castration to punish him for trying to escape. When Bradley's fiancee Zuri arrives with a rescue boat, Linda murders both Zuri and the boat captain by pushing them off a cliff. When Bradley discovers Zuri's body, the two engage in a brutal fight that ends with Linda beating Bradley to death with a golf club inside a luxury beach house she'd known about the entire time.\n\nThe film's epilogue is its cruelest joke. One year later, Linda is a wealthy celebrity. She's written a best-selling survival memoir claiming to be the sole plane crash survivor. She drives off to a celebrity golf tournament with her pet cockatiel named \"Sweetie,\" singing along to Blondie's \"One Way or Another.\" She got everything she wanted, and the world is none the wiser.\n\nNow, here's where the ideological picture gets interesting for conservative viewers. On the surface, the film absolutely traffics in class resentment. Bradley is every lazy critique of corporate America personified: a rich kid who inherited his power, promotes his buddies over qualified workers, and treats the little people with open contempt. The \"boys' club\" dynamic is painted in broad strokes. But Raimi, whether intentionally or not, does something that undercuts the progressive reading completely. The oppressed worker who seizes power from the entitled elite doesn't use that power wisely or justly. She uses it to dominate, manipulate, and ultimately murder. Linda isn't a hero reclaiming what's rightfully hers. She's a psychopath who found the right circumstances to let her mask drop. The film even tells you this directly: Linda confesses that she let her abusive husband drink himself into a fatal car crash. She was never the innocent victim. She was always capable of this.\n\nThat's actually a deeply conservative insight wrapped in genre packaging. Power doesn't corrupt because corporations are evil. Power corrupts because human nature is fallen. Linda doesn't become a monster because capitalism failed her. She was always this person. The island just gave her permission.\n\nThe craft on display is top-tier. McAdams is genuinely phenomenal, toggling between pathetic, charming, and terrifying, sometimes within the same scene. O'Brien makes Bradley detestable enough that you initially root for Linda, which is essential for the later gut-punch. Danny Elfman's score is playful and dark in equal measure. Bill Pope's cinematography makes the island look beautiful and menacing at the same time. And Raimi himself is clearly having the time of his life.\n\nFor a January release horror-thriller, \"Send Help\" is shockingly good. It's also refreshingly free of the identity-politics baggage that weighs down so much of modern Hollywood. There's no DEI casting checkbox. No diversity lectures. No hamfisted representation moments. It's two people on an island trying to outlast each other, and the film trusts that premise to carry the full two hours. It does.",
-      "adultInsight": "Conservative adult viewers should approach Send Help as a really good time at the movies. This is an original, well-crafted genre film with zero identity politics. There are no diversity speeches, no representation checkboxes, no lectures about systemic anything. The film's eat the rich surface reading is real but shallow. It argues, through Linda's arc, that power simply migrates to whoever is willing to do the most damage to get it. That's not a progressive message. It's a deeply cynical one, and cynicism about human nature has always been more compatible with conservative realism than progressive utopianism. Hollywood needs more films like this and fewer franchise installments with DEI consultants.",
-      "parentalGuidance": "This is an R-rated film and the rating is well-earned. Parents should exercise significant caution. Violence is extensive and graphic: a plane crash with passengers sucked from the fuselage, a boar hunted and killed with blood spraying, a staged castration scene, characters pushed off a cliff, eye-gouging, stabbing, choking, and a character beaten to death with a golf club. Approximately 25 f-words and frequent profanity. Brief partial nudity. The film's darkest element for younger viewers is its moral nihilism: the protagonist is a murderer who faces no consequences and profits from her crimes. 17+ only. For older teenagers who see it, parents should discuss how stories manipulate our sympathies and at what point we stop rooting for a character."
+    summary: {
+      overall: "Luc Besson's Dracula: A Love Tale is a strange, kitschy, deeply sincere movie. And that sincerity is precisely what saves it.\n\nThe French director, best known for stylish action fare like Leon: The Professional and La Femme Nikita, has made a Dracula film that is barely a horror film at all. What drew him was the love story. A man loses his wife. He is cursed with immortality. He spends four hundred years searching for her reincarnation. That premise, stripped of all the Gothic window dressing, is as traditional as storytelling gets. And Besson plays it completely straight.\n\nCaleb Landry Jones carries the film. He plays Dracula as a figure of romantic tragedy rather than menace. The performance is earnest to the point of vulnerability. Whether he is storming a battlefield in 15th-century Wallachia, wandering centuries of exile in elaborate costumes, or dancing a Louis XIV two-step in a Parisian ballroom, Jones commits fully. There is no winking at the audience. No ironic distance.\n\nThe film opens in 1480 with Prince Vlad and his wife Elisabeta in a passionate relationship cut short by Ottoman invasion. After Elisabeta is murdered, Vlad loses himself to grief and rage. He stabs the kingdom's orthodox priest with a crucifix, denounces God, and is cursed with eternal life. This is not presented as a triumph. It is presented as damnation. The film never loses sight of the fact that Vlad's rebellion against the divine is the source of his suffering, not his liberation.\n\nThe film's climax is where Besson earns his keep. Dracula is confronted by the priest, who urges him to repent lest he condemn Mina to eternal damnation. And Dracula chooses sacrifice. He allows himself to be staked. He disintegrates in Mina's arms after declaring his love. This is not the ending of a modern deconstructionist vampire film. This is the ending of a film that believes in redemption, that believes love requires sacrifice, that believes rebellion against God has consequences.\n\nVisually, the film draws on Flemish painting and chiaroscuro techniques. 550 costumes were created. Sets were built from scratch. Danny Elfman's score weaves three main themes around a music box motif. The craftsmanship is real, even when the execution tips into camp.\n\nAnd it does tip into camp. Dracula creates a perfume that makes him irresistible to women, a subplot that carries uncomfortable implications. CG gargoyles serve as his henchmen. A sequence involving nuns is played for laughs in a way that will raise eyebrows. Besson has never been accused of subtlety.\n\nBut the silliness is honest. Besson is not trying to deconstruct Dracula. He is not trying to make a statement about colonialism or toxic masculinity. He is trying to tell a love story about a man who waited four centuries for the woman he lost. And when the film works, which is more often than the 52% Rotten Tomatoes score suggests, it works because it leans into tradition rather than running from it.\n\nConservative viewers looking for a film that respects its source material, centers romantic devotion and sacrifice, treats faith as a serious moral force, and avoids modern ideological baggage will find Dracula: A Love Tale a pleasant surprise. It is not a masterpiece. But it is a film that believes in something. In a landscape of hollow franchise content and message-first filmmaking, that counts for more than it should have to.",
+      adultInsight: "Conservative adult viewers can approach Dracula: A Love Tale as a rare mainstream release that actually operates within a traditional moral framework. The film is not perfect. It is frequently campy, occasionally silly, and the perfume subplot has uncomfortable consent implications. But the moral architecture is sound. Sin has consequences. Rebellion against God produces suffering. Love requires sacrifice. Repentance is possible. These are not incidental themes. They are the load-bearing walls of the entire story. The fact that the audience score (81%) so dramatically outpaces the critical score (52%) on Rotten Tomatoes tells you something. Enjoy the spectacle. Bring your sense of humor for the sillier moments. And appreciate a film that, for all its imperfections, believes in something worth believing in.",
+      parentalGuidance: "Rated R. Violence: Moderate. Opening battle with medieval combat, bear trap explosions, and severed heads. A woman is murdered. The climactic castle siege involves combat. Gore is restrained for a Dracula film. Sexual Content: Primary concern. Opens with an intense love scene. The perfume subplot involves women losing agency. A comic sequence with nuns involves sexual aggression. Romantic content is passionate throughout. Language: Mild for an R-rated film. Substance: Blood drinking is central to vampire mythology but presented as Gothic necessity. Scary/Disturbing: CG gargoyles, aged Dracula makeup requiring 6-7 hours of application creates unsettling visuals. Age Recommendation: Not appropriate for children under 14. For teens 14-17, this could be an excellent gateway to Bram Stoker's novel."
     },
-    "tropeAudit": [
-      { "trope": "The Girl Boss", "id": "WOKE-003", "category": "WOKE", "location": "Throughout -- Linda transforms from meek employee to dominant survivor, initially framed as empowerment", "authenticity": "Mixed" },
-      { "trope": "Anti-Corporate Satire / Eat the Rich", "id": "WOKE-012", "category": "WOKE", "location": "Acts one and two -- corporate world portrayed as shallow, nepotistic, and cruel", "authenticity": "Mixed" },
-      { "trope": "The Bigoted Traditionalist", "id": "WOKE-008", "category": "WOKE", "location": "First act -- Bradley and Donovan represent fraternity-to-boardroom boys' club", "authenticity": "Mixed" },
-      { "trope": "Moral Relativism", "id": "WOKE-023", "category": "WOKE", "location": "Epilogue -- Linda escapes justice entirely, no moral reckoning", "authenticity": "Mixed" },
-      { "trope": "The Predatory Male", "id": "WOKE-022", "category": "WOKE", "location": "Mid-film -- Bradley coded as sexual predator in the workplace", "authenticity": "Mixed" },
-      { "trope": "Industry and Perseverance / Self-Reliance", "id": "TRADITIONAL-041", "category": "TRAD", "location": "Throughout island sequences -- survival through competence and physical labor", "authenticity": "Natural" },
-      { "trope": "Consequences of Moral Failure", "id": "TRADITIONAL-050", "category": "TRAD", "location": "Multiple instances -- bad behavior punished with brutal efficiency", "authenticity": "Natural" },
-      { "trope": "The Entitled Are Exposed", "id": "TRADITIONAL-028", "category": "TRAD", "location": "Throughout Bradley's island arc -- stripped of infrastructure, revealed as helpless", "authenticity": "Natural" },
-      { "trope": "Human Nature Is Fallen", "id": "TRADITIONAL-047", "category": "TRAD", "location": "Third act revelations -- Linda was always capable of evil, the island gave permission", "authenticity": "Natural" },
-      { "trope": "Original Storytelling / Genre Craftsmanship", "id": "TRADITIONAL-038", "category": "TRAD", "location": "The entire film -- original R-rated mid-budget genre film with no franchise attachments", "authenticity": "Natural" }
+    tropeAudit: [
+      { trope: "Uncomfortable Consent Framing", id: "WOKE-030", category: "WOKE", location: "Second act -- Dracula's perfume removes women's agency, functions as supernatural roofie", authenticity: "Not from Stoker. A Besson invention." },
+      { trope: "Anti-Religious Framing (Temporary)", id: "WOKE-011", category: "WOKE", location: "Opening act -- Vlad stabs priest and denounces God, but framed as catastrophic sin", authenticity: "Loosely inspired by historical Vlad and Coppola's 1992 adaptation" },
+      { trope: "Sexualized Comedy", id: "WOKE-022", category: "WOKE", location: "Second act -- nuns become sexually aggressive under perfume influence", authenticity: "Pure Besson invention" },
+      { trope: "Eternal Devotion", id: "TRADITIONAL-027", category: "TRAD", location: "Entire film -- 400-year quest to find reincarnation of wife", authenticity: "Draws from Stoker and Coppola's 1992 adaptation" },
+      { trope: "The Self-Sacrificing Hero", id: "TRADITIONAL-026", category: "TRAD", location: "Final act -- Dracula allows himself to be staked to save Mina from damnation", authenticity: "Departure from Stoker, closer to Coppola" },
+      { trope: "Faith as Moral Architecture", id: "TRADITIONAL-043", category: "TRAD", location: "Throughout -- rebellion against God produces suffering, repentance produces redemption", authenticity: "Amplified from Stoker's Christian symbolism" },
+      { trope: "Traditional Femininity", id: "TRADITIONAL-036", category: "TRAD", location: "Throughout -- Elisabeta/Mina defined through romantic love and devotion", authenticity: "Consistent with Stoker" },
+      { trope: "Craftsmanship and Industry", id: "TRADITIONAL-041", category: "TRAD", location: "Production level -- 550 handmade costumes, practical armor, sets built from scratch", authenticity: "Documented production choices" },
+      { trope: "Defense of the Innocent", id: "TRADITIONAL-045", category: "TRAD", location: "Final act -- priest's siege to rescue Mina framed as righteous", authenticity: "Consistent with Stoker" },
+      { trope: "Classical Source Fidelity", id: "TRADITIONAL-047", category: "TRAD", location: "Entire film -- core narrative beats preserved from Stoker with moral core intact", authenticity: "Besson acknowledges Stoker as source" },
+      { trope: "Romantic Commitment", id: "TRADITIONAL-028", category: "TRAD", location: "Throughout -- permanent, all-consuming romantic devotion presented as highest value", authenticity: "Romantic amplification of Stoker" },
+      { trope: "Consequences of Sin", id: "TRADITIONAL-033", category: "TRAD", location: "Entire arc -- rejection of God produces curse, resolved only through sacrifice", authenticity: "Amplified from Stoker" },
+      { trope: "Male Protector", id: "TRADITIONAL-051", category: "TRAD", location: "Opening battle and throughout -- every major male defined by protective instinct", authenticity: "Consistent with Stoker and historical setting" },
+      { trope: "Honor and Duty", id: "TRADITIONAL-025", category: "TRAD", location: "Priest's arc -- principled man of faith doing difficult work without cynicism", authenticity: "Van Helsing figure preserved from Stoker" },
+      { trope: "Beauty and Aesthetics", id: "TRADITIONAL-039", category: "TRAD", location: "Throughout -- Flemish painting inspiration, lavish production design", authenticity: "Documented production choices" }
     ],
-    "seo": {
-      "titleTag": "Is Send Help (2026) Woke? Sam Raimi Film Review | VirtueVigil",
-      "metaDescription": "Is Send Help woke? VirtueVigil's analysis: Woke Score 6, Traditional 7. Sam Raimi's horror-thriller subverts the eat-the-rich narrative. Full trope audit and family guidance.",
-      "keywords": "is send help woke, send help 2026 review, send help sam raimi woke, send help movie review conservative, send help rachel mcadams"
-    },
-    "spoiler_alert": true
+    seo: {
+      titleTag: "Is Dracula: A Love Tale (2025) Woke? Luc Besson Film Review | VirtueVigil",
+      metaDescription: "Is Dracula woke? VirtueVigil's analysis: Woke Score 3, Traditional 12, Fidelity Casting FAITHFUL. Full creative team deep dive, trope audit, and family guidance."
+    }
   },
   {
-    "id": "avatar-fire-and-ash-2025",
-    "slug": "avatar-fire-and-ash-2025",
-    "title": "Avatar: Fire and Ash",
-    "year": 2025,
-    "type": "film",
-    "platform": "Theatrical",
-    "genre": "Science Fiction, Action, Adventure",
-    "date": "2026-02-17",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "16 min",
-    "poster": "/images/posters/avatar-fire-and-ash-2025.jpg",
-    "verdict": "WOKE",
-    "wokeScore": 9,
-    "tradScore": 8,
-    "authIndex": 68,
-    "scoreMargin": "+1 WOKE",
-    "wokeTrap": {
-      "present": false,
-      "degree": null,
-      "explanation": "The Avatar franchise has never hidden its ideological cards. Since 2009, James Cameron has openly described these films as political, environmentalist, and anti-colonialist. Fire and Ash continues that tradition without subterfuge. Conservative viewers will not be ambushed.",
-      "viewerSentiment": null
+    id: "zootopia-2-2025",
+    slug: "zootopia-2-2025",
+    title: "Zootopia 2",
+    year: 2025,
+    type: "film",
+    platform: "Theatrical",
+    genre: "Animation, Comedy",
+    date: "2026-02-17",
+    author: "VirtueVigil Editorial Team",
+    readTime: "18 min",
+    poster: "/images/posters/zootopia-2-2025.jpg",
+    verdict: "WOKE",
+    wokeScore: 9,
+    tradScore: 8,
+    authIndex: 78,
+    scoreMargin: "-1 WOKE",
+    wokeTrap: {
+      present: false,
+      degree: null,
+      explanation: "Zootopia 2 does not disguise its ideological agenda. Like its predecessor, the entire premise is built around prejudice allegory. Conservative viewers won't be blindsided. The film's traditional elements are genuinely strong and coexist openly with the progressive messaging rather than being used as bait-and-switch material.",
+      viewerSentiment: null
     },
-    "woke_trap_assessment": {
-      "is_trap": false,
-      "explanation": "The Avatar franchise has never hidden its ideological cards. Since 2009, James Cameron has openly described these films as political, environmentalist, and anti-colonialist. Fire and Ash continues that tradition without subterfuge."
+    woke_trap_assessment: {
+      is_trap: false,
+      explanation: "Zootopia 2 does not disguise its ideological agenda. The entire premise is built around prejudice allegory. The traditional elements coexist openly with progressive messaging."
     },
-    "creative_team": {
-      "director": {
-        "name": "James Cameron",
-        "ideology": "MODERATELY WOKE",
-        "profile": "The most commercially successful director in film history. Committed environmentalist who runs sustainability businesses. His ideological signature is consistently anti-corporate, anti-military-industrial, pro-environment, but he simultaneously celebrates traditional family structures, maternal devotion, warrior courage, and self-sacrifice."
+    creative_team: {
+      director: {
+        name: "Jared Bush & Byron Howard",
+        ideology: "MODERATELY WOKE",
+        profile: "Disney Animation veterans. Bush's writing consistently returns to themes of prejudice, exclusion, and community division. Howard is a more traditional storyteller whose solo efforts are straightforward crowd-pleasers."
       },
-      "writer": {
-        "name": "James Cameron, Rick Jaffa & Amanda Silver",
-        "profile": "Cameron co-wrote with Jaffa & Silver (Rise/Dawn of the Planet of the Apes, Avatar sequels). Story by Josh Friedman and Shane Salerno. The environmental and anti-colonial themes are Cameron's core creative vision."
+      writer: {
+        name: "Jared Bush",
+        profile: "Sole screenplay credit. Writer of Zootopia, Moana, and Encanto. Progressive themes delivered through traditional emotional frameworks."
       },
-      "lead_producer": {
-        "name": "James Cameron & Jon Landau",
-        "company": "Lightstorm Entertainment"
+      lead_producer: {
+        name: "Yvett Merino",
+        company: "Walt Disney Animation Studios"
       },
-      "composer": {
-        "name": "Simon Franglen"
+      composer: {
+        name: "Michael Giacchino"
       },
-      "top_cast": [
-        { "name": "Sam Worthington", "role": "Jake Sully" },
-        { "name": "Zoe Saldana", "role": "Neytiri" },
-        { "name": "Oona Chaplin", "role": "Varang" },
-        { "name": "Sigourney Weaver", "role": "Kiri" },
-        { "name": "Stephen Lang", "role": "Colonel Quaritch" }
+      top_cast: [
+        { name: "Ginnifer Goodwin", role: "Judy Hopps" },
+        { name: "Jason Bateman", role: "Nick Wilde" },
+        { name: "Ke Huy Quan", role: "Gary De'Snake" },
+        { name: "Fortune Feimster", role: "Nibbles Maplestick" },
+        { name: "Andy Samberg", role: "Pawbert Lynxley" }
       ],
-      "prediction": {
-        "verdict": "WOKE",
-        "confidence": "high"
-      },
-      "producers": [
-        { "name": "James Cameron", "company": "Lightstorm Entertainment", "profile": "Total creative control. The ideological signal is Cameron's." },
-        { "name": "Jon Landau", "company": "Lightstorm Entertainment", "profile": "Cameron's producing partner since Titanic. Passed away in July 2024 during post-production. Logistics and production executive, not a creative voice." }
-      ],
-      "full_cast": [
-        { "name": "Sam Worthington", "role": "Jake Sully" },
-        { "name": "Zoe Saldana", "role": "Neytiri" },
-        { "name": "Sigourney Weaver", "role": "Kiri / Dr. Grace Augustine (spirit)" },
-        { "name": "Stephen Lang", "role": "Colonel Miles Quaritch" },
-        { "name": "Kate Winslet", "role": "Ronal" },
-        { "name": "Oona Chaplin", "role": "Varang" },
-        { "name": "Cliff Curtis", "role": "Tonowari" },
-        { "name": "Britain Dalton", "role": "Lo'ak" },
-        { "name": "Jack Champion", "role": "Spider (Miles Socorro)" },
-        { "name": "Trinity Jo-Li Bliss", "role": "Tuktirey (Tuk)" },
-        { "name": "Bailey Bass", "role": "Tsireya" },
-        { "name": "Filip Geljo", "role": "Aonung" },
-        { "name": "Duane Evans Jr.", "role": "Rotxo" },
-        { "name": "CCH Pounder", "role": "Mo'at" },
-        { "name": "Joel David Moore", "role": "Dr. Norm Spellman" },
-        { "name": "Edie Falco", "role": "General Frances Ardmore" },
-        { "name": "Brendan Cowell", "role": "Captain Mick Scoresby" },
-        { "name": "Jemaine Clement", "role": "Dr. Ian Garvin" },
-        { "name": "Giovanni Ribisi", "role": "Parker Selfridge" },
-        { "name": "David Thewlis", "role": "Peylak" },
-        { "name": "Dileep Rao", "role": "Dr. Max Patel" }
-      ]
+      prediction: {
+        verdict: "WOKE",
+        confidence: "high"
+      }
     },
-    "fidelity_casting": {
-      "score": "N/A",
-      "summary": "Original science fiction world with no historical source material to assess against.",
-      "detailed_analysis": "Avatar is an original fictional universe. There is no historical or literary source material against which to assess casting fidelity. The Na'vi are alien beings performed through motion capture. The human characters are original creations. Fidelity casting analysis does not meaningfully apply."
+    fidelity_casting: {
+      score: "N/A",
+      summary: "Animated film with anthropomorphic animal characters. Voice casting carries no fidelity signal.",
+      detailed_analysis: "This is a fully animated film with anthropomorphic animal characters. Traditional fidelity casting metrics do not apply. The voice cast is diverse and largely reflects standard Hollywood casting practices for animated features."
     },
-    "summary": {
-      "overall": "James Cameron's \"Avatar: Fire and Ash\" is a three-hour-and-seventeen-minute spectacle that will make your eyeballs very happy while occasionally making your brain very tired. The third trip to Pandora cost somewhere north of $350 million, grossed $1.46 billion, and delivers exactly the experience you'd expect from the director who essentially invented the modern blockbuster. It is visually staggering. It is narratively familiar. And it is ideologically committed to the same anti-colonial, environmentalist worldview that has powered this franchise since day one.\n\nThe story picks up weeks after the death of Neteyam, the eldest Sully son, killed in the climax of The Way of Water. The family is broken by grief. Lo'ak narrates the opening with genuine emotional weight, wrestling with guilt over his brother's death. Neytiri has hardened into something frightening. Zoe Saldana described her own character as having become a \"full-blown racist\" toward humans, and that's not an exaggeration. The woman who once saw the good in Jake Sully now wants Spider, the human boy her family adopted, gone. She's abandoned Eywa's teachings. She's consumed by rage. It's the most interesting character work in the film, and to Cameron's credit, the movie doesn't frame her hatred as righteous. It frames it as destructive. That's a surprisingly nuanced choice.\n\nThe big new addition is the Mangkwan clan, volcano-dwelling Na'vi who rejected Eywa after a volcanic eruption destroyed their homeland. Led by the charismatic and terrifying Varang, played with real physical presence by Oona Chaplin, the Mangkwan are hedonistic, violent, and willing to collaborate with the human RDA forces. They're fascinating on paper. A Na'vi tribe that lost faith in their deity, turned to nihilism, and allied with the colonizers out of pure survival instinct. There's a genuinely interesting moral question buried in there about what happens when the gods fail you. Unfortunately, Cameron doesn't really dig into it. The Mangkwan are mostly just space orcs.\n\nThe colonialism allegory remains the franchise's central architecture, and it's as unsubtle as ever. The RDA is back doing what the RDA always does: strip-mining Pandora, hunting Tulkun whales for profit, and generally embodying every critique of Western corporate imperialism you've ever read. The film's most pointed new wrinkle is the discovery that Spider, having been infused with Pandoran mycelia by Kiri, can now breathe Pandora's atmosphere. The RDA immediately recognizes this could be reverse-engineered, making the planet habitable for all humans. It's Cameron's clearest statement yet: colonization isn't about resources anymore. It's about replacement.\n\nBut here's where it gets interesting for our purposes. Strip away the environmental messaging and the anti-colonial framework, and what's actually driving this movie? Family. Fatherhood. Sacrifice. Faith.\n\nJake Sully's arc in this film is fundamentally about fatherhood. He's trying to reconnect with Lo'ak after Neteyam's death. He's trying to hold his family together while Neytiri spirals. When the Mangkwan capture his children, he doesn't hesitate to surrender himself. The emotional climax of the film isn't the battle. It's the moment Jake decides not to kill Spider, and Neytiri finally accepts the human boy as family. That's a story about mercy, about the expansion of the family unit, about a father's protective love overcoming fear.\n\nKiri's storyline is overtly spiritual. She learns she was \"sired by Eywa,\" essentially the daughter of God in the Pandoran cosmology. She struggles to connect with her divine parent. She pleads for Eywa's intervention in the final battle, and Eywa answers. The Pandoran wildlife rises up to defend the Na'vi. Whatever you think of Cameron's pantheistic nature-worship, the narrative structure is unmistakable: a young woman of faith calls upon a higher power in humanity's darkest hour, and that higher power delivers.\n\nSpider's arc is the most emotionally complex in the film. A human boy caught between two worlds, rejected by Neytiri, used as a lab rat by the RDA, and torn between his adoptive Na'vi family and his biological father Quaritch. The film's resolution, Spider being initiated into the Na'vi people at the spirit trees, is essentially a conversion and adoption narrative. He chooses his family. He chooses his faith. He is welcomed in.\n\nThe warrior ethos is celebrated without reservation. Jake re-bonds with the apex predator Toruk, rallies the Na'vi clans, and leads them into battle. Ronal, pregnant and mortally wounded, fights to her last breath. The film treats martial courage and the willingness to defend your people as unambiguous goods.\n\nWhere the film earns its woke score is in the systemic framing. The RDA isn't a rogue operation. It's institutional evil. The military-industrial complex is the villain, always. The Tulkun whale hunt is an obvious environmental parable. Cameron's sympathies are never in doubt. Nature good. Corporation bad. Indigenous wisdom superior. Western technology destructive.\n\nTechnically, the film is extraordinary. The volcanic Mangkwan homeland is unlike anything seen in the previous films. The underwater sequences continue to push boundaries. The final battle is massive, chaotic, and genuinely thrilling. Cameron remains the best spectacle filmmaker alive, full stop.\n\nConservative viewers should know what they're getting. This is an anti-colonial, environmentalist, spiritually pantheistic blockbuster. It has been from the start. But it's also a movie about a father protecting his family, a young woman's faith, a boy choosing where he belongs, warriors defending their homeland, and mercy triumphing over vengeance. The woke scaffolding is impossible to miss. The traditional foundation is what makes the building stand.",
-      "adultInsight": "Conservative adult viewers approaching Avatar: Fire and Ash should understand that they are walking into the third act of a franchise whose ideological commitments have been transparent since 2009. The anti-colonial allegory is the architecture. The environmentalism is the theology. What's worth knowing is that this installment's traditional elements are stronger than in either predecessor. The fatherhood narrative is genuine and emotionally powerful. Neytiri's arc from hatred to acceptance is about mercy overcoming vengeance. The warrior ethos is celebrated without apology. Cameron is not trying to trick you. He's a sincere environmentalist who also sincerely believes in family, sacrifice, and courage.",
-      "parentalGuidance": "Violence is intense and sustained: burning ships, brutal combat, characters shot and killed on screen. Ronal dies in combat during childbirth, an emotionally intense scene. A whale hunt sequence shows intelligent beings killed for profit. Minimal sexual content beyond standard Na'vi body design. Mild language. The Mangkwan are described as hedonists with scenes suggesting ritualistic intoxication. Not recommended for children under 10. Ages 10-12 with parental discretion. Ages 13+ appropriate for most teens. Discussion topics include Spider's identity and conversion narrative, Neytiri's arc from hatred to acceptance, and how filmmakers use allegory to advance arguments."
+    summary: {
+      overall: "Disney's Zootopia 2 arrives nine years after the original and picks up almost immediately where that film left off. Judy Hopps and Nick Wilde are partners at the ZPD. Their relationship is rocky. Chief Bogo is threatening to split them up. Then a pit viper named Gary De'Snake shows up in a city that hasn't seen a reptile in a century, and suddenly our heroes have a real case on their hands.\n\nThe surface-level movie is terrific. The animation is gorgeous, the voice performances are sharp, and the buddy cop dynamic between Goodwin and Bateman still crackles with genuine chemistry. Ke Huy Quan brings warmth and energy to Gary. The action sequences are well-staged, the pacing mostly holds across 108 minutes, and it pulled in $1.83 billion at the box office for a reason.\n\nWhat Zootopia 2 is saying, once you strip away the fur and scales, is a fairly explicit allegory about systemic exclusion, historical erasure, and colonialism. The reptiles were driven out by the Lynxley family, who stole a reptile inventor's work, framed her for murder, and used the resulting fear to exile an entire population. Their original district was literally buried under Tundratown.\n\nThe Lynxley family functions as oligarch villains, rich, powerful, and willing to kill to protect their stolen legacy. The message is clear: wealth built on injustice will fight to preserve that injustice.\n\nFor all its progressive messaging, Zootopia 2 has a surprisingly strong traditional backbone. The film is fundamentally a law enforcement story. Judy and Nick are cops and heroes, presented as brave, self-sacrificing, and ultimately right. The partnership between them is built on loyalty, sacrifice, and earned trust. Nick literally falls off a weather wall to protect Judy.\n\nThe film's resolution involves truth and justice, not revolution. The heroes expose a lie, present evidence, and allow the legal system to work. The Lynxleys are arrested. This is reform within the system, not destruction of it.\n\nFamily runs through everything. Gary's entire motivation is clearing his great-grandmother's name and bringing his family home. Judy's parents and grandmother appear, grounding her in a loving, traditional family unit. Grandma Hopps prays for Judy's safety daily.\n\nThe film's deeper theme is that differences between groups are real but not insurmountable. The sequel acknowledges that predators and prey, mammals and reptiles, are genuinely different. The argument is that common ground can be found through conversation and good faith rather than fear and propaganda.\n\nZootopia 2 is a woke film. The systemic exclusion allegory, the colonialism parallel, the wealthy families built on stolen history narrative are progressive frameworks baked into the story. But the traditional elements are not window dressing. The respect for law enforcement, the value of partnership and loyalty, the family bonds, the faith in institutional reform over revolution: these carry real emotional weight. Conservative families will find plenty to discuss and some things to push back on, but also a film that respects its cop heroes, celebrates loyalty and sacrifice, and argues that truth and justice can prevail within the system.",
+      adultInsight: "Conservative adult viewers should approach Zootopia 2 with clear eyes and some genuine appreciation. This is a film that wears its progressive politics openly through its systemic exclusion allegory and colonialism parallel. But it actually respects its audience more than most contemporary Disney output. The differences are real but not insurmountable message is a genuine improvement over the first film's softer anyone can be anything thesis. The law enforcement heroes are treated with respect. The resolution trusts institutional reform over revolutionary destruction. The family elements are sincere, not ironic. Watch it with your kids. Talk about it afterward. Ask them what they think the reptile story is really about. The conversation is more valuable than either uncritical acceptance or blanket rejection.",
+      parentalGuidance: "Violence: Moderate for a PG animated film. The Lynxley family orders deaths and fights the heroes. A character is injected with snake venom and nearly dies. Nick falls off a weather wall. Chief Bogo is accidentally bitten by a venomous snake fang. Sexual Content: Minimal but present. A sheep's shaved wool resembles a bra. Judy's grandmother tells her to come home and make babies. Nibbles makes threesome jokes framed as teamwork. Language: Very mild. Substance Use: A gala scene features cocktail glasses, one character shown blackout drunk. LGBTQ+ Content: Directors confirmed antelope neighbors Bucky and Pronk are a gay couple with minimal screen time. Scary/Intense: Weather wall climax is intense, Pawbert betrayal may frighten younger viewers. Age Recommendation: 7 and up. Children under 7 may find venom scenes too intense."
     },
-    "tropeAudit": [
-      { "trope": "Institutional Evil", "id": "WOKE-004", "category": "WOKE", "location": "Throughout -- RDA as full-spectrum colonial enterprise", "authenticity": "Mixed" },
-      { "trope": "Anti-Western Revisionism", "id": "WOKE-020", "category": "WOKE", "location": "Throughout -- franchise structured as allegory of Western colonialism", "authenticity": "Mixed" },
-      { "trope": "Globalist Utopia / Environmental Pantheism", "id": "WOKE-017", "category": "WOKE", "location": "Kiri's communion with Eywa; wildlife intervention in final battle", "authenticity": "Mixed" },
-      { "trope": "The Colonialist Villain", "id": "WOKE-024", "category": "WOKE", "location": "RDA whale hunts and Bridgehead City operations", "authenticity": "Mixed" },
-      { "trope": "The Girl Boss", "id": "WOKE-003", "category": "WOKE", "location": "Throughout -- every faction led or decisively influenced by a woman", "authenticity": "Mixed" },
-      { "trope": "The Marginalized Savant", "id": "WOKE-001", "category": "WOKE", "location": "Throughout -- Kiri's neurodivergent-coded difference is actually transcendent power", "authenticity": "Mixed" },
-      { "trope": "Redeemed Criminal Systemic", "id": "WOKE-019", "category": "WOKE", "location": "Mangkwan backstory -- villainy framed as product of trauma and divine abandonment", "authenticity": "Mixed" },
-      { "trope": "Infallible Youth", "id": "WOKE-016", "category": "WOKE", "location": "Lo'ak's leadership and Kiri's spiritual authority exceed adult capabilities", "authenticity": "Mixed" },
-      { "trope": "The Bigoted Traditionalist", "id": "WOKE-008", "category": "WOKE", "location": "Neytiri's hatred of humans and Tulkun pacifism treated as obstacles", "authenticity": "Mixed" },
-      { "trope": "Defense of the Innocent", "id": "TRADITIONAL-045", "category": "TRAD", "location": "Throughout -- parental protection as highest moral imperative", "authenticity": "Natural" },
-      { "trope": "The Self-Sacrificing Hero", "id": "TRADITIONAL-026", "category": "TRAD", "location": "Jake's surrender, Ronal's death in childbirth, Quaritch's fall", "authenticity": "Natural" },
-      { "trope": "Industry and Perseverance", "id": "TRADITIONAL-041", "category": "TRAD", "location": "Jake rallying the clans; Lo'ak's persistence with the Tulkun", "authenticity": "Natural" },
-      { "trope": "Faith in Adversity", "id": "TRADITIONAL-043", "category": "TRAD", "location": "Kiri's faith in Eywa; spirit tree ceremony as baptism and communion", "authenticity": "Natural" },
-      { "trope": "Traditional Femininity", "id": "TRADITIONAL-036", "category": "TRAD", "location": "Neytiri's maternal grief, Ronal's death giving birth, Neytiri adopting Pril", "authenticity": "Natural" },
-      { "trope": "Restored Home", "id": "TRADITIONAL-048", "category": "TRAD", "location": "Final act -- family restored, Spider initiated, invaders repelled", "authenticity": "Natural" },
-      { "trope": "Wise Elder", "id": "TRADITIONAL-033", "category": "TRAD", "location": "Mo'at's counsel; Tulkun elder council", "authenticity": "Natural" },
-      { "trope": "Warrior Ethos", "id": "TRADITIONAL-028", "category": "TRAD", "location": "Final battle -- Jake's Toruk bond, clan rally, combat celebrated", "authenticity": "Natural" }
+    tropeAudit: [
+      { trope: "Institutional Evil / Systemic Exclusion", id: "WOKE-004", category: "WOKE", location: "Throughout -- reptile population exiled through institutional manipulation by Lynxley family", authenticity: "N/A" },
+      { trope: "Anti-Western Revisionism / Historical Erasure", id: "WOKE-020", category: "WOKE", location: "Mid-film -- Zootopia's founding narrative revealed as fabricated lie", authenticity: "N/A" },
+      { trope: "The Colonialist Villain", id: "WOKE-024", category: "WOKE", location: "Throughout -- Lynxley family represents generational wealth built on theft and displacement", authenticity: "N/A" },
+      { trope: "Globalist Utopia / Multicultural Integration", id: "WOKE-017", category: "WOKE", location: "Resolution -- reptiles officially reintegrated into Zootopia", authenticity: "N/A" },
+      { trope: "The Victimhood Meritocracy", id: "WOKE-009", category: "WOKE", location: "Throughout -- Gary feared on sight despite innocence, victimhood as moral authority", authenticity: "N/A" },
+      { trope: "The Marginalized Savant", id: "WOKE-001", category: "WOKE", location: "Mid-film -- Agnes De'Snake revealed as true genius behind weather walls", authenticity: "N/A" },
+      { trope: "Therapy Culture Advocacy", id: "WOKE-022", category: "WOKE", location: "Early film -- Partners in Crisis therapy validated as correct", authenticity: "N/A" },
+      { trope: "Coded LGBTQ+ Representation", id: "WOKE-016", category: "WOKE", location: "Background -- confirmed gay couple Bucky and Pronk, Nibbles' suggestive jokes", authenticity: "N/A" },
+      { trope: "The Bigoted Traditionalist", id: "WOKE-008", category: "WOKE", location: "Throughout -- anti-reptile citizens presented as victims of propaganda", authenticity: "N/A" },
+      { trope: "Defense of the Innocent / Law Enforcement Heroes", id: "TRADITIONAL-045", category: "TRAD", location: "Throughout -- Judy and Nick as genuinely heroic police officers", authenticity: "N/A" },
+      { trope: "Industry and Perseverance", id: "TRADITIONAL-041", category: "TRAD", location: "Throughout -- every major character succeeds through relentless determination", authenticity: "N/A" },
+      { trope: "The Self-Sacrificing Hero", id: "TRADITIONAL-026", category: "TRAD", location: "Climax -- Nick falls off weather wall to save Judy", authenticity: "N/A" },
+      { trope: "Partnership and Loyalty", id: "TRADITIONAL-047", category: "TRAD", location: "Throughout -- central theme of Judy and Nick's tested and strengthened bond", authenticity: "N/A" },
+      { trope: "Restored Home / Homecoming", id: "TRADITIONAL-048", category: "TRAD", location: "Resolution -- every displaced character returns home, broken relationships mended", authenticity: "N/A" },
+      { trope: "Faith in Adversity", id: "TRADITIONAL-043", category: "TRAD", location: "Brief -- Grandma Hopps prays daily for Judy's safety without mockery", authenticity: "N/A" },
+      { trope: "Truth and Justice Prevail", id: "TRADITIONAL-050", category: "TRAD", location: "Resolution -- heroes expose fraud through evidence, legal system delivers justice", authenticity: "N/A" },
+      { trope: "Traditional Family", id: "TRADITIONAL-036", category: "TRAD", location: "Throughout -- Hopps and De'Snake families presented with warmth and respect", authenticity: "N/A" }
     ],
-    "seo": {
-      "titleTag": "Is Avatar: Fire and Ash (2025) Woke? James Cameron Film Review | VirtueVigil",
-      "metaDescription": "Is Avatar Fire and Ash woke? VirtueVigil's analysis: Woke Score 9, Traditional 8. Cameron's anti-colonial spectacle with surprisingly strong traditional bones. Full trope audit.",
-      "keywords": "is avatar fire and ash woke, avatar 3 woke review, avatar fire and ash conservative review, avatar fire and ash woke score, james cameron avatar politics"
+    seo: {
+      titleTag: "Is Zootopia 2 (2025) Woke? Disney Animated Film Review | VirtueVigil",
+      metaDescription: "Is Zootopia 2 woke? VirtueVigil's analysis: Woke Score 9, Traditional 8, $1.83B box office. Full trope audit, creative team deep dive, and family guidance."
+    }
+  },
+  {
+    id: "hurry-up-tomorrow-2025",
+    slug: "hurry-up-tomorrow-2025",
+    title: "Hurry Up Tomorrow",
+    year: 2025,
+    type: "film",
+    platform: "Theatrical",
+    genre: "Psychological Thriller, Drama",
+    date: "2026-02-17",
+    author: "VirtueVigil Editorial Team",
+    readTime: "12 min",
+    poster: "/images/posters/hurry-up-tomorrow-2025.jpg",
+    verdict: "NEUTRAL",
+    wokeScore: 4,
+    tradScore: 5,
+    authIndex: 65,
+    scoreMargin: "+1 TRAD",
+    wokeTrap: {
+      present: false,
+      degree: null,
+      explanation: "This film is not hiding an ideological agenda behind entertainment. It barely has an agenda at all. What it has is a pop star who wanted to make a movie about himself and got a $15 million budget to do it. Conservative viewers are far more likely to be bored than offended.",
+      viewerSentiment: null
     },
-    "spoiler_alert": true
+    woke_trap_assessment: {
+      is_trap: false,
+      explanation: "This film is not hiding an ideological agenda. It barely has an agenda at all. A pop star's vanity project about his own feelings. Conservative viewers are more likely to be bored than offended."
+    },
+    creative_team: {
+      director: {
+        name: "Trey Edward Shults",
+        ideology: "NEUTRAL",
+        profile: "Texas-born independent filmmaker drawn to emotional extremity, family dynamics, and formal experimentation. Not an ideological filmmaker."
+      },
+      writer: {
+        name: "Trey Edward Shults, Abel Tesfaye, Reza Fahim",
+        profile: "Co-written vanity project. Tesfaye's artistic persona centers on hedonism, drug use, and toxic relationships. No clear ideological direction."
+      },
+      lead_producer: {
+        name: "Abel Tesfaye",
+        company: "Manic Phase"
+      },
+      composer: {
+        name: "Abel Tesfaye & Daniel Lopatin (Oneohtrix Point Never)"
+      },
+      top_cast: [
+        { name: "Abel Tesfaye", role: "Abel (fictionalized self)" },
+        { name: "Jenna Ortega", role: "Anima" },
+        { name: "Barry Keoghan", role: "Lee" },
+        { name: "Riley Keough", role: "Girl on Voicemail (voice)" },
+        { name: "Metro Boomin", role: "Himself" }
+      ],
+      prediction: {
+        verdict: "NEUTRAL",
+        confidence: "high"
+      }
+    },
+    fidelity_casting: {
+      score: "N/A",
+      summary: "Original contemporary story. No source material fidelity to assess.",
+      detailed_analysis: "This is an original contemporary story with no historical or literary source material. The lead plays a fictionalized version of himself. Supporting cast assembled based on acting talent and availability."
+    },
+    summary: {
+      overall: "Hurry Up Tomorrow is a vanity project. It is perhaps the most unambiguous vanity project to receive a wide theatrical release in recent memory. Abel Tesfaye, known to the world as The Weeknd, plays a lightly fictionalized version of himself. He co-wrote the script. He co-produced the film. He co-composed the score. The entire apparatus of cinema has been marshaled in service of one man's feelings about being famous and sad.\n\nThe plot: Abel is a superstar struggling with depression, insomnia, and the aftermath of a breakup. His voice gives out during a concert. His manager Lee pushes him to keep performing. A mysterious young woman named Anima burns down a house and drives to LA to attend his concert. They meet backstage. They spend a night together. Then Anima knocks Abel unconscious with a champagne bottle, ties him to a bed, and demands that he confront his psychological demons. She kills Lee when he shows up. She douses Abel in gasoline. He sings. She releases him and sets the room on fire. He walks through a hallway and ends up backstage before another concert, staring at his reflection.\n\nDirector Trey Edward Shults brings real visual craft to the proceedings. Chayse Irvin's cinematography, shot on a mix of 35mm, 16mm, and Super 8 film, gives the movie a textured, dreamy quality. The score by Tesfaye and Daniel Lopatin pulses with atmospheric menace. On a pure sensory level, the film occasionally works. As storytelling, it is a disaster.\n\nThe central problem is Abel Tesfaye himself. Playing a version of yourself requires either self-awareness or charisma. Tesfaye has neither here. He mopes and stares. The film asks us to care deeply about the inner torment of a man whose torment consists of being extremely rich, extremely famous, and bad at relationships.\n\nJenna Ortega tries. Anima is a borderline impossible role: fan, stalker, therapist, killer, and symbolic catalyst all crammed into one underwritten character. Ortega brings genuine intensity to several scenes but the script gives her nothing beyond mysterious damaged woman who exists to fix a man.\n\nBarry Keoghan is the film's secret weapon. His Lee is manic, manipulative, and oddly affectionate. When Anima stabs Lee in the neck, the movie loses its pulse along with him.\n\nFrom a values perspective, this film is largely ideologically inert. It does not push progressive social messaging. The entire film operates within a framework of celebrity suffering as the ultimate human experience. Abel's depression is treated with the gravity of a war documentary. His inability to maintain relationships is presented as existential tragedy rather than the predictable consequence of hedonism and emotional selfishness. The film never suggests that Abel's lifestyle choices might be the cause of his suffering rather than a response to it.\n\nThe film bombed. $7.8 million worldwide against a $15 million budget. Critics savaged it. Five Golden Raspberry nominations. Conservative viewers will find nothing to be outraged about and very little to be entertained by. The Weeknd wanted to make a movie about how hard it is to be The Weeknd. He succeeded. That is both the film's achievement and its epitaph.",
+      adultInsight: "Conservative adult viewers should know upfront that this film is not going to challenge their values. It is going to challenge their patience. The film is a 105-minute exercise in celebrity navel-gazing, wrapped in gorgeous cinematography and a throbbing electronic score, but hollow at the center. If you do watch it, the most interesting exercise is reading against the grain. The film refuses to hold Abel accountable for his choices, but the evidence is everywhere on screen. The voice loss, the failed relationships, the emotional emptiness, the drugs. A conservative viewer can see what the filmmakers cannot articulate: that a life organized around self-gratification produces exactly the misery depicted here. Skip it unless you are specifically interested in contemporary celebrity culture as a subject of study.",
+      parentalGuidance: "Violence: Moderate to strong. A character is stabbed to death with blood shown. The protagonist is knocked unconscious with a bottle, tied to a bed, and doused in gasoline. A house and hotel room are set on fire. Sexual Content: Mild to moderate. An implied sexual encounter. Suggestive party behavior. No explicit nudity. Language: Strong. Frequent profanity including a particularly vile voicemail. Substance Use: Significant. Drug use shown during party scenes without moral commentary. Disturbing Content: Kidnapping and psychological manipulation sequences. Nihilistic tone offers no reassurance. Age Recommendation: Not appropriate for viewers under 16."
+    },
+    tropeAudit: [
+      { trope: "Therapeutic Determinism", id: "WOKE-022", category: "WOKE", location: "Throughout -- destructive behavior framed as symptoms of trauma rather than choices", authenticity: "Based on real events" },
+      { trope: "The Disposable Male (Inverted)", id: "WOKE-011", category: "WOKE", location: "70 minutes in -- Lee stabbed to death, functions purely as plot mechanism", authenticity: "N/A" },
+      { trope: "Female Violence Without Consequence", id: "WOKE-015", category: "WOKE", location: "Final third -- Anima commits arson, assault, kidnapping, murder without accountability", authenticity: "N/A" },
+      { trope: "Celebrity Victimhood", id: "WOKE-009", category: "WOKE", location: "Throughout -- fame and wealth pressures treated as profound suffering", authenticity: "Based on real events" },
+      { trope: "Consequences of Hedonism", id: "TRADITIONAL-039", category: "TRAD", location: "Throughout -- drug use, hedonism, and emotional unavailability leave Abel hollow", authenticity: "Grounded in documented celebrity excess" },
+      { trope: "Industry and Perseverance", id: "TRADITIONAL-041", category: "TRAD", location: "Concert sequences -- the show must go on ethos", authenticity: "Authentic to entertainment industry" },
+      { trope: "Cycle of Destruction", id: "TRADITIONAL-027", category: "TRAD", location: "Final scene -- Abel walks from burning room directly to another concert stage", authenticity: "Meta-textual authenticity" },
+      { trope: "The Mirror", id: "TRADITIONAL-044", category: "TRAD", location: "Final shot -- Abel stares at reflection, unchanged despite ordeal", authenticity: "N/A" }
+    ],
+    seo: {
+      titleTag: "Is Hurry Up Tomorrow (2025) Woke? The Weeknd Film Review | VirtueVigil",
+      metaDescription: "Is Hurry Up Tomorrow woke? VirtueVigil's analysis: Woke Score 4, Traditional 5. The Weeknd's vanity project reviewed with full trope audit and family guidance."
+    }
   }
 ];
 
 // Deduplicate by slug
 const existingSlugs = new Set(reviews.map(r => r.slug));
 const toAdd = newReviews.filter(r => !existingSlugs.has(r.slug));
+const updated = [...toAdd, ...reviews];
 
-// Remove any existing entries with same slugs (for re-runs)
-const filtered = reviews.filter(r => !newReviews.some(n => n.slug === r.slug));
-
-// Add new reviews to front
-const final = [...newReviews, ...filtered];
-
-fs.writeFileSync(reviewsPath, JSON.stringify(final, null, 2));
-console.log(`Added ${newReviews.length} reviews. Total: ${final.length}`);
+fs.writeFileSync(reviewsPath, JSON.stringify(updated, null, 2));
+console.log(`Added ${toAdd.length} new reviews. Total: ${updated.length}`);
