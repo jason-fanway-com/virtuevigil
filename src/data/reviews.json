@@ -1,25 +1,26 @@
 [
   {
-    "id": "i-can-only-imagine-2",
+    "id": 11,
     "slug": "i-can-only-imagine-2",
     "title": "I Can Only Imagine 2",
     "year": 2026,
     "type": "film",
-    "platform": "Theatrical",
-    "genre": "Drama, Faith, Music",
+    "platform": "theatrical",
+    "genre": "Drama/Faith",
     "date": "2026-02-17",
     "author": "VirtueVigil Editorial Team",
-    "readTime": "10 min",
+    "readTime": "12 min",
     "poster": "/images/posters/i-can-only-imagine-2.jpg",
     "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 0,
     "tradScore": 35,
-    "authIndex": 0.5,
+    "authIndex": 0.7,
     "scoreMargin": 7,
-    "wokeTrap": false,
+    "wokeTrap": "none",
     "woke_trap_assessment": {
-      "is_trap": false,
-      "explanation": "This film is exactly what it advertises. A sincere faith-based sequel about a Christian rock band learning to trust God through hardship. No bait and switch. No third-act pivot into progressive messaging."
+      "isWokeTrap": false,
+      "verdict": "NOT A WOKE TRAP",
+      "explanation": "This film is exactly what it advertises. There is no hidden progressive messaging, no bait-and-switch, no ideological subtext waiting to ambush conservative audiences. The Erwin Brothers have built their entire career on sincere faith-based storytelling, and this sequel is consistent with everything they have ever made. What you see in the trailer is what you get in the theater."
     },
     "creative_team": {
       "cast": [
@@ -111,81 +112,94 @@
     },
     "fidelity_casting": {
       "score": "FAITHFUL",
-      "summary": "Based on real people. Casting matches the real individuals faithfully. No race swaps, no gender changes, no historical incongruities.",
-      "detailed_analysis": "Bart Millard, Shannon Millard, Tim Timmons, and MercyMe are all real. John Michael Finley reprises his role from the first film. The ensemble cast reflects what a real Christian rock band touring world actually looks like."
+      "fcs_numeric": 0,
+      "assessments": [
+        {
+          "character": "All major characters",
+          "actor": null,
+          "description": "Based on real people (Bart Millard, Tim Timmons, MercyMe)",
+          "historically_plausible": true,
+          "prevalence": "Accurate",
+          "notes": "Casting matches the real individuals faithfully. No race swaps, gender changes, or historical incongruities."
+        }
+      ],
+      "overall_assessment": "Faithful adaptation of real people's stories. No fidelity concerns."
     },
     "summary": {
-      "overall": "The first \"I Can Only Imagine\" was a bonafide miracle at the box office. Eighty-three million dollars on a budget that most Marvel movies spend on catering. Eight years later the Erwin Brothers are back with a sequel, and the question hanging over it is simple: can they do it again?\n\nShort answer: not quite. But that's okay. This is still one of the safest bets for conservative families hitting theaters in 2026.\n\nThe film picks up with Bart Millard (John Michael Finley) stuck in a creative rut. MercyMe is still touring, still packing arenas, but Bart hasn't written anything close to the song that made him famous. His oldest son Sam (Sammy Dell) has been diagnosed with type 1 diabetes, and Bart's response is to wrap the kid in bubble wrap and smother him with worry. Meanwhile Milo Ventimiglia shows up as Tim Timmons, a real-life musician who opens for MercyMe and whose cancer diagnosis becomes the emotional gut punch of the whole movie. Dennis Quaid pops back in through flashbacks as Bart's deceased father Arthur, connecting this story to the redemption arc of the original.\n\nThe structure jumps around in time more than it needs to. There are stretches where the filmmakers can't seem to decide if this is Bart's story, Tim's story, or Sam's story. The concert sequences run long and occasionally feel like extended music videos for songs you can already stream. And yeah, Sam's diabetes subplot sometimes leans into melodrama that overstates how scary the condition is for a teenager who's managing it. Though to be fair, the film is showing us Bart's fear, not Sam's reality. Any parent who's watched their kid get a serious diagnosis will recognize that irrational protectiveness.\n\nOn the woke spectrum, this film is spotless. Zero. Nothing. Not a trace. There's no identity politics wedged into the narrative. The cast is diverse the way a real touring band's crew would be diverse. Nobody is checking boxes. Nobody is delivering speeches about representation. The film's worldview is unapologetically, unashamedly Christian. Prayer works here. Faith isn't deconstructed or treated with ironic distance. It's presented as the answer, full stop.\n\nWhere the movie genuinely shines is in how it handles suffering. Lesser faith films treat hardship as a speed bump on the way to a happy ending. This one lets the pain sit. Tim Timmons' cancer is not wrapped up in a neat bow. The film earns its tears instead of demanding them. Bart's arc from control freak to trusting father mirrors the spiritual message without beating you over the head with it. The marriage between Bart and Shannon (Sophie Skelton) is portrayed as genuinely loving but under real strain. That's so much more compelling than the perfect-marriage fantasy you get from most Christian films.\n\nIt's not as emotionally devastating as the original. It doesn't have that singular song-origin moment that made the first film unforgettable. But it's honest. And in 2026 that counts for a lot.",
-      "adultInsight": "Conservative adult viewers will find nothing to worry about here. The Erwin Brothers have a perfect track record of delivering sincere, faith-first content, and this sequel is no exception. The craft criticisms are real: the pacing drags in spots, the time-jumping structure can be disorienting, and it doesn't reach the emotional heights of the original. But the spiritual core is genuine, the performances are committed, and the treatment of suffering as a pathway to deeper faith rather than a reason to abandon it is refreshingly mature for the genre. This is one of the increasingly rare wide-release films that conservative families can attend without any ideological anxiety whatsoever.",
-      "parentalGuidance": "This is an easy recommendation for families. No violence, no sexual content, no language concerns. The emotional intensity comes from a child's diabetes diagnosis, a friend's cancer journey, and the fear of losing people you love. Sensitive younger children may find the hospital scenes and discussions of mortality upsetting, but for most kids 8 and up this is perfectly appropriate. The film provides excellent conversation starters about trusting God through hardship, dealing with illness in the family, and the difference between protecting someone and controlling them."
+      "overall": "The original \"I Can Only Imagine\" was a genuine phenomenon in faith-based cinema, pulling in $83 million on a shoestring budget and proving that audiences hungry for sincere Christian storytelling would show up in droves. The sequel arrives eight years later with a bigger cast, including Milo Ventimiglia and Dennis Quaid returning in flashbacks, and a story that promises to explore what happens after the hit song, after the fame, after the mountaintop moment. Does it deliver? Mostly yes, though with enough caveats that conservative audiences should go in with clear eyes about what they're getting.\n\nThe film follows Bart Millard (John Michael Finley) at a crossroads in his career with MercyMe. He hasn't written a chart-topping song since the titular hymn, his oldest son Sam (Sammy Dell) is struggling with type 1 diabetes, and the father-son relationship is fraying under the weight of Bart's protectiveness. Milo Ventimiglia joins the story as Tim Timmons, a real-life musician who becomes an opening act for MercyMe, and whose own cancer diagnosis provides the film's emotional gut punch. The structure jumps around in time more than it needs to, sometimes feeling like the filmmakers couldn't decide which story they wanted to tell. But the core of it, a father learning to let go and trust God with his son's future, is as traditional as storytelling gets.\n\nOn the woke spectrum, this film is remarkably clean. There is no identity politics shoehorned into the narrative. No lectures about systemic injustice. The cast is diverse in the organic way that a touring band and its entourage might be, with Tamiko Robinson Steele appearing naturally in the ensemble. No box-checking, just people. The film's worldview is unapologetically Christian, with prayer presented as genuine and effective rather than performative. Faith is not deconstructed, questioned ironically, or used as a setup for a progressive punchline. This is an increasingly rare quality in mainstream cinema and deserves recognition.\n\nThat said, the film has real craft weaknesses that have nothing to do with ideology. The concert sequences run long and sometimes feel like extended music videos. The time-jumping structure can be disorienting. Dennis Quaid's flashback appearances as Bart's deceased father Arthur, while emotionally resonant, sometimes feel grafted onto a story that has moved beyond them. And Sam's diabetes subplot, while well-intentioned, occasionally veers into melodrama. To be fair, the film may be showing Bart's anxiety rather than the actual medical reality. For a father watching his kid get diagnosed, the fear is always bigger than the facts. But the emotional register sometimes tips past honest worry into territory that undercuts the story's credibility. These are craft issues, not culture war issues, and they keep the film from reaching the emotional heights of the original.\n\nWhere the film truly shines is in its treatment of suffering as a pathway to deeper faith rather than a reason to abandon it. Tim Timmons' cancer diagnosis is handled with genuine tenderness and without the saccharine resolution that plagues lesser faith-based films. The film earns its tears. Bart's journey from control freak to trusting father mirrors the spiritual arc the film is advocating, and it works because Finley plays it with enough stubbornness and flawed humanity to feel real. The marriage between Bart and Shannon (Sophie Skelton) is portrayed as genuinely loving but under real strain, which is far more compelling than the perfect-marriage fantasy some Christian films default to.\n\nConservative viewers can approach this one with confidence. It is exactly what it appears to be: a sincere, faith-driven sequel that celebrates family, perseverance through suffering, and trust in God's plan. It does not lecture. It does not subvert. It is not as polished or emotionally devastating as the original, but it is honest, and in 2026 that counts for a lot. This is one of the few wide-release films this year that conservative families can attend without any ideological anxiety whatsoever. Take your church group. Bring tissues.",
+      "adultInsight": "Adult conservative viewers, this is a safe harbor. In a cinematic landscape where even animated children's films carry progressive messaging, \"I Can Only Imagine 2\" is refreshingly free of ideological baggage. There is nothing here to decode, debunk, or defend against. The film is sincere Christian storytelling made by committed Christians.\n\nThat said, manage your expectations on craft. This is not the original. The first film had the advantage of a singular, powerful origin story with a devastating emotional payoff. The sequel is working with lower-stakes material, a creative block, a medical diagnosis, a friendship, and the structure strains under the weight of multiple storylines competing for attention. It's a good film, not a great one.\n\nWhere it succeeds, it succeeds honestly. Tim Timmons' cancer journey is handled without cheap sentimentality. The marriage portrayal is refreshingly real. And the central question, can you trust God when you can't control the outcome, is one that resonates beyond the screen. If you're going through something similar, this film might hit harder than you expect.\n\nThe Erwin Brothers continue to prove that there is a massive audience for faith-based cinema that doesn't apologize for itself. Conservative adults should support this kind of filmmaking with their wallets, not because the film is perfect, but because its existence in wide release matters.",
+      "parentalGuidance": "**Content Warnings:**\n\n- **Violence:** Minimal. No physical violence depicted. Some emotional intensity in medical scenes.\n- **Sexual Content:** None. The marriage is portrayed as loving with no sexual content.\n- **Language:** Clean. No profanity.\n- **Substance Use:** None depicted.\n- **Scary/Intense:** The diabetes medical scenes and cancer diagnosis carry emotional weight that may distress younger or sensitive viewers. A character's serious illness is discussed frankly.\n\n**Age Recommendations:**\n\n- **Under 8:** May not engage with the story. Medical themes could be confusing or frightening without context.\n- **Ages 8-12:** Appropriate with parental presence. The illness themes provide opportunities for conversation about faith during hard times.\n- **Ages 13+:** Fully appropriate. Teenagers dealing with their own questions about faith, suffering, and family will find relatable material here.\n\n**Discussion Guidance for Parents:**\n\nThis film provides natural entry points for some of the most important conversations a Christian family can have. Why does God allow suffering? What does it look like to trust Him when the diagnosis is bad? How do you protect your kids without suffocating them? Bart's journey from fear-driven control to faith-driven surrender is a powerful model, and his failures along the way make it honest rather than preachy.\n\nFor families dealing with chronic illness, this film will hit close to home. Sam's diabetes and Bart's anxiety about it are portrayed with enough realism to validate the experience while pointing toward hope. Parents should be prepared for emotional responses, especially from kids who know what it's like to live with a medical condition.\n\nThe Tim Timmons storyline offers a chance to talk about mortality, calling, and what it means to keep serving when the cost is high. These aren't easy conversations, but the film handles them with enough grace to make them approachable.\n\nTake your family. Talk afterward. That's what this film is built for."
     },
     "tropeAudit": [
       {
-        "trope": "Faith in Adversity",
         "id": "TRADITIONAL-043",
-        "category": "TRADITIONAL",
-        "location": "Throughout the film",
-        "authenticity": "Organic. Based on real events in real people's lives."
+        "name": "Faith in Adversity",
+        "category": "traditional",
+        "severity": 5,
+        "scene": "Bart's faith is tested by creative drought, his son's illness, and his friend's cancer diagnosis. Prayer is shown as genuine and effective. Faith is the resolution mechanism for every major conflict in the story.",
+        "verdict": "Authentically traditional. This is the defining trope of the film."
       },
       {
-        "trope": "Defense of the Innocent",
         "id": "TRADITIONAL-045",
-        "category": "TRADITIONAL",
-        "location": "Throughout the film",
-        "authenticity": "Organic. Based on Bart Millard's real experience."
+        "name": "Defense of the Innocent",
+        "category": "traditional",
+        "severity": 4,
+        "scene": "Bart's protectiveness over Sam's type 1 diabetes diagnosis drives the emotional core of the film. The father-son dynamic is built around a parent desperate to shield his child from suffering.",
+        "verdict": "Authentically traditional. Parental devotion presented without irony."
       },
       {
-        "trope": "Self-Sacrificing Hero",
         "id": "TRADITIONAL-026",
-        "category": "TRADITIONAL",
-        "location": "Throughout the film",
-        "authenticity": "Organic. Based on Tim Timmons' actual life."
+        "name": "The Self-Sacrificing Hero",
+        "category": "traditional",
+        "severity": 3,
+        "scene": "Tim Timmons continues touring, performing, and ministering despite his cancer diagnosis. He sacrifices comfort and safety to keep serving his calling.",
+        "verdict": "Authentically traditional. Self-sacrifice in service of faith and community."
       },
       {
-        "trope": "Industry and Perseverance",
         "id": "TRADITIONAL-041",
-        "category": "TRADITIONAL",
-        "location": "Throughout the film",
-        "authenticity": "Organic."
+        "name": "Industry and Perseverance",
+        "category": "traditional",
+        "severity": 3,
+        "scene": "Bart pushes through a brutal creative block. MercyMe continues to tour and minister despite personal struggles piling up. The band shows up, does the work, and serves their audience even when it would be easier to stop.",
+        "verdict": "Authentically traditional. Work ethic presented as a virtue."
       },
       {
-        "trope": "Sacred Institution of Marriage",
         "id": "TRADITIONAL-044",
-        "category": "TRADITIONAL",
-        "location": "Throughout the film",
-        "authenticity": "Organic."
+        "name": "Sacred Institution of Marriage",
+        "category": "traditional",
+        "severity": 3,
+        "scene": "Bart and Shannon's marriage comes under real strain from Sam's diagnosis, Bart's creative frustrations, and the pressures of life on the road. The marriage bends but does not break.",
+        "verdict": "Authentically traditional. Marriage tested and affirmed."
       },
       {
-        "trope": "Traditional Femininity",
         "id": "TRADITIONAL-036",
-        "category": "TRADITIONAL",
-        "location": "Throughout the film",
-        "authenticity": "Organic."
+        "name": "Traditional Femininity",
+        "category": "traditional",
+        "severity": 2,
+        "scene": "Shannon (Sophie Skelton) serves as supportive wife and mother navigating the family crisis alongside Bart. Her role is primarily relational: wife, mother, emotional anchor.",
+        "verdict": "Quietly traditional. Shannon embodies the supportive spouse archetype."
       },
       {
-        "trope": "Wise Elder",
         "id": "TRADITIONAL-033",
-        "category": "TRADITIONAL",
-        "location": "Throughout the film",
-        "authenticity": "Organic."
+        "name": "Wise Elder",
+        "category": "traditional",
+        "severity": 2,
+        "scene": "Dennis Quaid's flashback appearances as Arthur, Bart's deceased father, provide guidance and emotional grounding from beyond the grave. Arthur's legacy, including his past abuse and redemption from the first film, echoes as lessons for Bart's own fathering.",
+        "verdict": "Quietly traditional. The elder's legacy shapes the living, even after death."
       },
       {
-        "trope": "Restored Home",
         "id": "TRADITIONAL-048",
-        "category": "TRADITIONAL",
-        "location": "Throughout the film",
-        "authenticity": "Organic."
+        "name": "Restored Home",
+        "category": "traditional",
+        "severity": 2,
+        "scene": "The narrative arc drives toward family restoration through faith. Bart learns to loosen his grip, trust God with Sam's health, and repair his relationship with his son. The family unit, strained by crisis, emerges stronger.",
+        "verdict": "Authentically traditional. The restored home is the film's emotional resolution."
       }
     ],
     "seo": {
-      "titleTag": "Is I Can Only Imagine 2 Woke? | VirtueVigil Review",
-      "metaDescription": "VirtueVigil scores I Can Only Imagine 2 using weighted trope analysis. VVWS +7, Strongly Traditional. Zero woke content. Full creative team scorecard and parental guidance.",
-      "keywords": [
-        "is i can only imagine 2 woke",
-        "i can only imagine 2 review",
-        "i can only imagine 2 conservative review",
-        "virtuevigil"
-      ]
+      "title": "Is I Can Only Imagine 2 Woke? | VirtueVigil Review",
+      "description": "VirtueVigil reviews I Can Only Imagine 2 (2026) for woke content. VVWS Score: +8 Strongly Traditional. Full trope analysis and creative team deep dive.",
+      "keywords": "I Can Only Imagine 2, woke, review, faith movie, Erwin Brothers, VirtueVigil"
     },
     "spoiler_alert": true
   },
