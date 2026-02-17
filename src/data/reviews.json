@@ -1,5 +1,245 @@
 [
   {
+    "id": "scream-7",
+    "slug": "scream-7",
+    "title": "Scream 7",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Horror, Mystery, Slasher",
+    "date": "2026-02-17",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "12 min",
+    "poster": null,
+    "verdict": "MIXED (Traditional Lean)",
+    "wokeScore": 4.375,
+    "tradScore": 20.56,
+    "authIndex": 0.75,
+    "scoreMargin": 2,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Possible low probability woke trap. The franchise has progressive meta-commentary DNA but the motherhood/family premise is traditional at its core."
+    },
+    "creative_team": {
+      "cast": [
+        {
+          "actor": "Neve Campbell",
+          "role": "Sidney Prescott"
+        },
+        {
+          "actor": "Courteney Cox",
+          "role": "Gale Weathers"
+        },
+        {
+          "actor": "Isabel May",
+          "role": "Tatum"
+        },
+        {
+          "actor": "Jasmin Savoy Brown",
+          "role": "Mindy Meeks-Martin"
+        },
+        {
+          "actor": "Mason Gooding",
+          "role": "Chad Meeks-Martin"
+        },
+        {
+          "actor": "Joel McHale",
+          "role": "Mark Evans"
+        },
+        {
+          "actor": "Mckenna Grace",
+          "role": "TBD"
+        },
+        {
+          "actor": "Anna Camp",
+          "role": "TBD"
+        },
+        {
+          "actor": "Jimmy Tatro",
+          "role": "TBD"
+        },
+        {
+          "actor": "Celeste O'Connor",
+          "role": "TBD"
+        },
+        {
+          "actor": "Mark Consuelos",
+          "role": "TBD"
+        },
+        {
+          "actor": "Matthew Lillard",
+          "role": "Stu Macher"
+        },
+        {
+          "actor": "Scott Foley",
+          "role": "Roman Bridger"
+        },
+        {
+          "actor": "David Arquette",
+          "role": "Dewey Riley"
+        }
+      ],
+      "director": {
+        "name": "Kevin Williamson",
+        "filmography": [
+          {
+            "title": "Scream",
+            "year": 1996,
+            "themes": "Genre-defining slasher; conservative moral framework as postmodern horror"
+          },
+          {
+            "title": "Scream 2",
+            "year": 1997,
+            "themes": "Meta-commentary expanded; moral core maintained"
+          },
+          {
+            "title": "I Know What You Did Last Summer",
+            "year": 1997,
+            "themes": "Guilt-and-punishment slasher; traditional moral logic"
+          },
+          {
+            "title": "Dawson's Creek (creator)",
+            "year": 1998,
+            "themes": "Culturally liberal; earnest about family and relationships"
+          },
+          {
+            "title": "The Faculty",
+            "year": 1998,
+            "themes": "Conformity vs individuality allegory"
+          },
+          {
+            "title": "The Vampire Diaries (creator)",
+            "year": 2009,
+            "themes": "Supernatural romance; traditional structures, progressive casting over time"
+          },
+          {
+            "title": "Scream 7",
+            "year": 2026,
+            "themes": "First directorial outing in franchise"
+          }
+        ],
+        "ideological_tendency": "MIXED",
+        "ideological_notes": "Horror work runs on conservative moral logic. TV work trends culturally liberal. Openly gay writer in traditionally conservative genres. Strength is emotional sincerity over political messaging.",
+        "consistency": "Split between horror (traditional) and TV (liberal)"
+      },
+      "producers": [
+        {
+          "name": "Paul Neinstein",
+          "company": "Spyglass Media",
+          "ideological_signal": "NEUTRAL",
+          "notes": "Studio fired Barrera over political speech — anti-woke corporate decision."
+        },
+        {
+          "name": "William Sherak",
+          "company": "Project X Entertainment",
+          "ideological_signal": "NEUTRAL",
+          "notes": "Franchise producer."
+        }
+      ],
+      "writer": {
+        "name": "Kevin Williamson & Guy Busick (screenplay); James Vanderbilt & Guy Busick (story)",
+        "sole_credit": false,
+        "ideological_signal": "MIXED",
+        "notes": "Williamson leans traditional in horror. Busick and Vanderbilt wrote the more progressive recent entries. The collaboration creates genuine creative tension."
+      },
+      "composer": {
+        "name": "TBD",
+        "ideological_signal": "NEUTRAL",
+        "notes": "Brian Tyler scored the previous two entries."
+      },
+      "prediction_indicator": {
+        "director_signal": "MIXED",
+        "producer_signal": "NEUTRAL",
+        "cast_signal": "MIXED",
+        "composer_signal": "NEUTRAL",
+        "pre_viewing_prediction": "MIXED with TRADITIONAL LEAN (+1 to +4)",
+        "actual_verdict": "TBD (pre-release)",
+        "prediction_accurate": null,
+        "reasoning": "Williamson's directorial control should moderate progressive meta-commentary. Motherhood premise is inherently traditional. But Busick's co-writing credit means progressive elements will persist. The franchise's DNA is genuinely split."
+      }
+    },
+    "fidelity_casting": {
+      "score": "N/A",
+      "summary": "Original franchise - no source material to assess fidelity against.",
+      "detailed_analysis": "Scream is an original IP with no prior source material."
+    },
+    "summary": {
+      "overall": "Kevin Williamson returns to direct the franchise he created, with Neve Campbell back as Sidney Prescott after sitting out the sixth installment. The plot centers on Sidney's daughter Tatum (Isabel May) being targeted by a new Ghostface, positioning motherhood and family defense as the central dramatic engine. Williamson co-wrote with Guy Busick (who penned the more progressive recent entries), creating a creative tension between traditional and progressive impulses. The returning cast is massive: Courteney Cox, David Arquette (likely flashback), Matthew Lillard, Scott Foley, Jasmin Savoy Brown. Joel McHale plays Sidney's husband, grounding the story in a nuclear family under siege. Pre-release signals suggest a course correction toward emotional sincerity over meta-commentary, but Busick's involvement means progressive elements will persist. Conservative horror fans should find the traditional core stronger than expected, though Mindy's meta-commentary will likely carry some progressive seasoning.",
+      "adultInsight": "Conservative adult viewers should approach Scream 7 with context. The franchise's last two entries leaned into progressive meta-commentary that alienated traditional horror fans. Williamson's return as director signals a potential course correction. His horror work has always operated on conservative moral logic even when his cultural politics are liberal. The motherhood premise is genuinely traditional. The Barrera firing and franchise reset suggest a studio prioritizing IP legacy over progressive star power. But temper expectations: Guy Busick co-wrote this, and his fingerprints will be on the meta-commentary. This is likely a film where the emotional core is traditional and the intellectual wrapper is progressive. For horror-tolerant conservatives, that trade may be worth it.",
+      "parentalGuidance": "This is emphatically not a children's movie. Rated R for graphic slasher violence, strong language, and likely some sexual content. A teenager is the killer's primary target. Characters audiences care about will die on screen. The violence is intense, sustained, and realistic within the genre. Minimum age 16, recommended 17+. For mature teens who can handle the content, the franchise raises interesting questions about moral frameworks in horror (the 'rules' that punish transgression), generational conflict, and how meta-commentary shapes audience expectations."
+    },
+    "tropeAudit": [
+      {
+        "trope": "The Fourth-Wall Troll",
+        "id": "WOKE-012",
+        "category": "WOKE",
+        "location": "Pre-release prediction",
+        "authenticity": "Neutral. Meta-commentary is the franchise's DNA, but the progressive edge is a recent addition."
+      },
+      {
+        "trope": "Infallible Youth",
+        "id": "WOKE-006",
+        "category": "WOKE",
+        "location": "Pre-release prediction",
+        "authenticity": "Natural. Genre convention as much as ideology."
+      },
+      {
+        "trope": "Tokenized Representation",
+        "id": "WOKE-002",
+        "category": "WOKE",
+        "location": "Pre-release prediction",
+        "authenticity": "Natural. Franchise has always cast broadly."
+      },
+      {
+        "trope": "Defense of the Innocent",
+        "id": "TRADITIONAL-045",
+        "category": "TRADITIONAL",
+        "location": "Pre-release prediction",
+        "authenticity": "Organic. The franchise's most traditional premise yet."
+      },
+      {
+        "trope": "Industry and Perseverance",
+        "id": "TRADITIONAL-041",
+        "category": "TRADITIONAL",
+        "location": "Pre-release prediction",
+        "authenticity": "Organic. Seven films of established character."
+      },
+      {
+        "trope": "Self-Sacrificing Hero",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Pre-release prediction",
+        "authenticity": "Natural. Established franchise pattern."
+      },
+      {
+        "trope": "Sacred Institution of Marriage",
+        "id": "TRADITIONAL-044",
+        "category": "TRADITIONAL",
+        "location": "Pre-release prediction",
+        "authenticity": "Natural. Organic character progression for Sidney."
+      },
+      {
+        "trope": "Wise Elder",
+        "id": "TRADITIONAL-033",
+        "category": "TRADITIONAL",
+        "location": "Pre-release prediction",
+        "authenticity": "Natural."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Scream 7 Woke? | VirtueVigil Review",
+      "metaDescription": "VirtueVigil scores Scream 7 using weighted trope analysis. VVWS +2, Mixed with traditional lean. Full creative team scorecard and parental guidance.",
+      "keywords": [
+        "is scream 7 woke",
+        "scream 7 review",
+        "scream 7 conservative review",
+        "virtuevigil scream 7"
+      ]
+    },
+    "spoiler_alert": true
+  },
+  {
     "id": "blitz-2024",
     "slug": "blitz-2024",
     "title": "Blitz",
