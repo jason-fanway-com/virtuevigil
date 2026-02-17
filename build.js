@@ -436,7 +436,7 @@ function overallParagraphs(r) {
 }
 
 function spoilerAlertBanner(r) {
-  if (r.spoiler_alert === false) return '';
+  if (r.spoiler_alert !== true) return '';
   return `
           <div class="spoiler-alert">
             <span class="spoiler-alert-icon">⚠️</span>

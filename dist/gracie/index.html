@@ -540,6 +540,15 @@
           <label style="margin-top:12px;">Woke Trap Explanation</label>
           <textarea id="edit_trapExplain" rows="2" placeholder="Where the bait-and-switch occurs..."></textarea>
 
+          <!-- Spoiler Alert Toggle -->
+          <div style="margin-top:16px;padding:12px 16px;background:rgba(232,160,48,0.08);border:1px solid rgba(232,160,48,0.2);border-radius:6px;display:flex;align-items:center;gap:12px;">
+            <label style="margin:0;white-space:nowrap;">⚠️ Spoiler Alert</label>
+            <select id="edit_spoiler_alert" style="width:auto;">
+              <option value="true">Yes — contains spoilers</option>
+              <option value="false">No — spoiler-free</option>
+            </select>
+          </div>
+
           <!-- NEW: Woke Trap Assessment (v2) -->
           <div style="margin-top:20px;padding:16px;background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.2);border-radius:6px;">
             <h4 style="color:#c9a84c;margin:0 0 12px;font-size:0.9rem;">🎯 Woke Trap Assessment (New)</h4>
@@ -1740,6 +1749,7 @@ function populateEditFields(r) {
   document.getElementById('edit_trad').value = r.tradScore || 0;
   document.getElementById('edit_auth').value = r.authIndex || 0;
   document.getElementById('edit_verdict').value = r.verdict || 'MIXED';
+  document.getElementById('edit_spoiler_alert').value = r.spoiler_alert === false ? 'false' : 'true';
   document.getElementById('edit_trap').value = r.wokeTrap?.present ? 'true' : 'false';
   document.getElementById('edit_trapDegree').value = r.wokeTrap?.degree || '';
   document.getElementById('edit_trapExplain').value = r.wokeTrap?.explanation || '';
@@ -1876,8 +1886,8 @@ function buildFinalJSON() {
     reviewObj.fidelity_casting = { score: fcScore, summary: document.getElementById('edit_fc_summary').value.trim() || null, detailed_analysis: document.getElementById('edit_fc_detail').value.trim() || null };
   }
 
-  // Spoiler alert always true for new reviews
-  reviewObj.spoiler_alert = true;
+  // Spoiler alert
+  reviewObj.spoiler_alert = document.getElementById('edit_spoiler_alert').value === 'true';
 
   pipelineState.finalReview = reviewObj;
   document.getElementById('jsonOutput').textContent = JSON.stringify(reviewObj, null, 2);
