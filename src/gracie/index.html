@@ -540,6 +540,66 @@
           <label style="margin-top:12px;">Woke Trap Explanation</label>
           <textarea id="edit_trapExplain" rows="2" placeholder="Where the bait-and-switch occurs..."></textarea>
 
+          <!-- NEW: Woke Trap Assessment (v2) -->
+          <div style="margin-top:20px;padding:16px;background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.2);border-radius:6px;">
+            <h4 style="color:#c9a84c;margin:0 0 12px;font-size:0.9rem;">🎯 Woke Trap Assessment (New)</h4>
+            <div class="form-row">
+              <div>
+                <label>Is Woke Trap?</label>
+                <select id="edit_wta_isTrap"><option value="false">No</option><option value="true">Yes</option></select>
+              </div>
+              <div>
+                <label>% Runtime Before Trap</label>
+                <input type="number" id="edit_wta_pct" placeholder="e.g. 60" min="0" max="100">
+              </div>
+            </div>
+            <label style="margin-top:8px;">Assessment Explanation</label>
+            <textarea id="edit_wta_explanation" rows="2" placeholder="Why this is or isn't a woke trap..."></textarea>
+          </div>
+
+          <!-- NEW: Creative Team -->
+          <div style="margin-top:20px;padding:16px;background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.2);border-radius:6px;">
+            <h4 style="color:#c9a84c;margin:0 0 12px;font-size:0.9rem;">🎬 Creative Team</h4>
+            <div class="form-row">
+              <div><label>Director Name</label><input type="text" id="edit_ct_director" placeholder="e.g. Steve McQueen"></div>
+              <div><label>Director Ideology</label><input type="text" id="edit_ct_directorIdeology" placeholder="e.g. Strongly Woke"></div>
+            </div>
+            <label style="margin-top:8px;">Director Profile</label>
+            <textarea id="edit_ct_directorProfile" rows="2" placeholder="Director background and track record..."></textarea>
+            <div class="form-row" style="margin-top:8px;">
+              <div><label>Writer Name</label><input type="text" id="edit_ct_writer" placeholder="e.g. John Smith"></div>
+              <div><label>Lead Producer</label><input type="text" id="edit_ct_producer" placeholder="e.g. Tim Bevan"></div>
+            </div>
+            <div class="form-row" style="margin-top:8px;">
+              <div><label>Producer Company</label><input type="text" id="edit_ct_producerCompany" placeholder="e.g. Working Title Films"></div>
+              <div><label>Composer</label><input type="text" id="edit_ct_composer" placeholder="e.g. Hans Zimmer"></div>
+            </div>
+            <label style="margin-top:8px;">Top Cast (JSON array)</label>
+            <textarea id="edit_ct_topCast" rows="2" style="font-family:var(--mono);font-size:0.78rem;" placeholder='[{"name":"Actor","role":"Character"}]'></textarea>
+            <label style="margin-top:8px;">Full Cast (JSON array)</label>
+            <textarea id="edit_ct_fullCast" rows="2" style="font-family:var(--mono);font-size:0.78rem;" placeholder='[{"name":"Actor","role":"Character"}]'></textarea>
+            <label style="margin-top:8px;">Producers (JSON array)</label>
+            <textarea id="edit_ct_producers" rows="2" style="font-family:var(--mono);font-size:0.78rem;" placeholder='[{"name":"Name","company":"Co","profile":"..."}]'></textarea>
+            <div class="form-row" style="margin-top:8px;">
+              <div><label>Prediction Verdict</label><select id="edit_ct_predVerdict"><option value="">—</option><option value="WOKE">WOKE</option><option value="TRADITIONAL">TRADITIONAL</option><option value="MIXED">MIXED</option></select></div>
+              <div><label>Prediction Confidence</label><select id="edit_ct_predConf"><option value="">—</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select></div>
+            </div>
+            <label style="margin-top:8px;">Prediction Explanation</label>
+            <textarea id="edit_ct_predExplain" rows="2" placeholder="Why we predicted this verdict..."></textarea>
+          </div>
+
+          <!-- NEW: Fidelity Casting -->
+          <div style="margin-top:20px;padding:16px;background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.2);border-radius:6px;">
+            <h4 style="color:#c9a84c;margin:0 0 12px;font-size:0.9rem;">🎭 Fidelity Casting</h4>
+            <div class="form-row">
+              <div><label>Score</label><select id="edit_fc_score"><option value="">—</option><option value="FAITHFUL">FAITHFUL</option><option value="ENHANCED">ENHANCED</option><option value="REVISIONIST">REVISIONIST</option></select></div>
+            </div>
+            <label style="margin-top:8px;">Summary</label>
+            <textarea id="edit_fc_summary" rows="2" placeholder="Short fidelity casting summary..."></textarea>
+            <label style="margin-top:8px;">Detailed Analysis</label>
+            <textarea id="edit_fc_detail" rows="3" placeholder="Full fidelity casting analysis..."></textarea>
+          </div>
+
           <label style="margin-top:12px;">Overall Perspective</label>
           <div class="prose-editor" contenteditable="true" id="edit_overall"></div>
           <div class="hint">Edit directly. Use Enter for paragraphs.</div>
@@ -1687,6 +1747,35 @@ function populateEditFields(r) {
   document.getElementById('edit_adult').value = r.adultInsight || '';
   document.getElementById('edit_parent').value = r.parentalGuidance || '';
   document.getElementById('edit_tropes').value = JSON.stringify(r.tropeAudit || [], null, 2);
+
+  // NEW fields
+  if (r.woke_trap_assessment) {
+    document.getElementById('edit_wta_isTrap').value = r.woke_trap_assessment.is_trap ? 'true' : 'false';
+    document.getElementById('edit_wta_pct').value = r.woke_trap_assessment.pct_runtime || '';
+    document.getElementById('edit_wta_explanation').value = r.woke_trap_assessment.explanation || '';
+  }
+  if (r.creative_team) {
+    document.getElementById('edit_ct_director').value = r.creative_team.director?.name || '';
+    document.getElementById('edit_ct_directorIdeology').value = r.creative_team.director?.ideology || '';
+    document.getElementById('edit_ct_directorProfile').value = r.creative_team.director?.profile || '';
+    document.getElementById('edit_ct_writer').value = r.creative_team.writer?.name || '';
+    document.getElementById('edit_ct_producer').value = r.creative_team.lead_producer?.name || '';
+    document.getElementById('edit_ct_producerCompany').value = r.creative_team.lead_producer?.company || '';
+    document.getElementById('edit_ct_composer').value = r.creative_team.composer?.name || '';
+    document.getElementById('edit_ct_topCast').value = JSON.stringify(r.creative_team.top_cast || [], null, 2);
+    document.getElementById('edit_ct_fullCast').value = JSON.stringify(r.creative_team.full_cast || [], null, 2);
+    document.getElementById('edit_ct_producers').value = JSON.stringify(r.creative_team.producers || [], null, 2);
+    if (r.creative_team.prediction) {
+      document.getElementById('edit_ct_predVerdict').value = r.creative_team.prediction.verdict || '';
+      document.getElementById('edit_ct_predConf').value = r.creative_team.prediction.confidence || '';
+      document.getElementById('edit_ct_predExplain').value = r.creative_team.prediction.explanation || '';
+    }
+  }
+  if (r.fidelity_casting) {
+    document.getElementById('edit_fc_score').value = r.fidelity_casting.score || '';
+    document.getElementById('edit_fc_summary').value = r.fidelity_casting.summary || '';
+    document.getElementById('edit_fc_detail').value = r.fidelity_casting.detailed_analysis || '';
+  }
 }
 
 // Update poster thumbnail when URL changes in edit
@@ -1757,6 +1846,38 @@ function buildFinalJSON() {
     tropeAudit,
     seo: { titleTag: seoTitle, metaDescription: seoDesc, keywords: seoKeys }
   };
+
+  // NEW: Woke Trap Assessment (v2)
+  const wtaIsTrap = document.getElementById('edit_wta_isTrap').value === 'true';
+  const wtaPct = document.getElementById('edit_wta_pct').value ? parseInt(document.getElementById('edit_wta_pct').value) : null;
+  const wtaExpl = document.getElementById('edit_wta_explanation').value.trim();
+  if (wtaExpl || wtaIsTrap) {
+    reviewObj.woke_trap_assessment = { is_trap: wtaIsTrap, pct_runtime: wtaPct, explanation: wtaExpl || null };
+  }
+
+  // NEW: Creative Team
+  const ctDir = document.getElementById('edit_ct_director').value.trim();
+  if (ctDir) {
+    reviewObj.creative_team = {
+      director: { name: ctDir, ideology: document.getElementById('edit_ct_directorIdeology').value.trim() || null, profile: document.getElementById('edit_ct_directorProfile').value.trim() || null },
+      writer: { name: document.getElementById('edit_ct_writer').value.trim() || null },
+      lead_producer: { name: document.getElementById('edit_ct_producer').value.trim() || null, company: document.getElementById('edit_ct_producerCompany').value.trim() || null },
+      composer: document.getElementById('edit_ct_composer').value.trim() ? { name: document.getElementById('edit_ct_composer').value.trim() } : null,
+      top_cast: (function(){ try { return JSON.parse(document.getElementById('edit_ct_topCast').value); } catch(e) { return []; } })(),
+      full_cast: (function(){ try { return JSON.parse(document.getElementById('edit_ct_fullCast').value); } catch(e) { return []; } })(),
+      producers: (function(){ try { return JSON.parse(document.getElementById('edit_ct_producers').value); } catch(e) { return []; } })(),
+      prediction: document.getElementById('edit_ct_predVerdict').value ? { verdict: document.getElementById('edit_ct_predVerdict').value, confidence: document.getElementById('edit_ct_predConf').value || 'medium', explanation: document.getElementById('edit_ct_predExplain').value.trim() || null } : null
+    };
+  }
+
+  // NEW: Fidelity Casting
+  const fcScore = document.getElementById('edit_fc_score').value;
+  if (fcScore) {
+    reviewObj.fidelity_casting = { score: fcScore, summary: document.getElementById('edit_fc_summary').value.trim() || null, detailed_analysis: document.getElementById('edit_fc_detail').value.trim() || null };
+  }
+
+  // Spoiler alert always true for new reviews
+  reviewObj.spoiler_alert = true;
 
   pipelineState.finalReview = reviewObj;
   document.getElementById('jsonOutput').textContent = JSON.stringify(reviewObj, null, 2);
