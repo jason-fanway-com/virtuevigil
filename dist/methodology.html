@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Methodology — VirtueVigil</title>
+  <meta name="description" content="How VirtueVigil analyzes entertainment content using density-based scoring, trope auditing, and the Vigil-Schema analytical framework.">
+  <meta name="keywords" content="VirtueVigil methodology, media analysis, woke score, traditional score, authenticity index, trope audit, Vigil-Schema">
+  <meta name="author" content="VirtueVigil">
+  <meta name="robots" content="index, follow">
+
+  <meta property="og:title" content="Our Methodology — VirtueVigil">
+  <meta property="og:description" content="How VirtueVigil analyzes entertainment content using density-based scoring, trope auditing, and the Vigil-Schema analytical framework.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://virtuevigil.com/methodology.html">
+  <meta property="og:image" content="https://virtuevigil.com/images/og-default.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:site_name" content="VirtueVigil">
+  <meta property="og:locale" content="en_US">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@virtuevigil">
+  <meta name="twitter:title" content="Our Methodology — VirtueVigil">
+  <meta name="twitter:description" content="How VirtueVigil analyzes entertainment content using density-based scoring, trope auditing, and the Vigil-Schema analytical framework.">
+  <meta name="twitter:image" content="https://virtuevigil.com/images/og-default.png">
+
+  
+  
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
+  <link rel="canonical" href="https://virtuevigil.com/methodology.html">
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script>
+    window.SUPABASE_URL = 'https://fdxvflryvctvstxdbdtm.supabase.co';
+    window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZkeHZmbHJ5dmN0dnN0eGRiZHRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExMjQ3MjEsImV4cCI6MjA4NjcwMDcyMX0.wn80dndvXLUU6qMzJW1DBuz0d6cPMu4iEO3UA6QnF4E';
+  </script>
+</head>
+<body>
+  
+  <header class="site-header" role="banner">
+    <div class="header-inner">
+      <a href="/" class="logo-link" aria-label="VirtueVigil Home">
+        <img src="/images/logo.svg" alt="VirtueVigil Logo" width="48" height="48">
+        <div class="logo-text">
+          <span class="brand"><span>V</span>irtue<span>V</span>igil</span>
+          <span class="tagline">Guarding Values. Exposing Agendas.</span>
+        </div>
+        <span class="version-tag">v1.7.0</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <i class="fas fa-bars"></i>
+      </button>
+      <nav class="main-nav" role="navigation" aria-label="Main navigation">
+        <a href="/">Reviews</a>
+        <a href="/woke-trap.html">What Is a Woke Trap?</a>
+        <a href="/methodology.html" class="active">Methodology</a>
+        <a href="/about.html">About</a>
+        <a href="/subscribe/" class="nav-cta">Subscribe</a>
+      </nav>
+      <div class="auth-container">
+        <button id="vv-login-btn" class="btn-login">Sign In</button>
+        <div id="vv-user-area" class="user-area" style="display:none;">
+          <img id="vv-user-avatar" class="avatar-sm" src="" alt="Avatar">
+          <span id="vv-user-name" class="user-name"></span>
+          <div id="vv-dropdown-menu" class="dropdown-menu">
+            <a href="/account/"><i class="fas fa-user"></i> My Profile</a>
+            <button id="vv-logout-btn"><i class="fas fa-sign-out-alt"></i> Sign Out</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Auth Modal -->
+  <div id="vv-auth-modal" class="modal-overlay">
+    <div class="modal-content auth-modal">
+      <button id="vv-auth-modal-close" class="modal-close" aria-label="Close">&times;</button>
+      <h2>Join VirtueVigil</h2>
+      <p class="auth-subtitle">Subscribe to comment on reviews and join the community.</p>
+
+      <button id="vv-google-login" class="btn-oauth btn-google">
+        <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92a5.06 5.06 0 01-2.2 3.32v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.1z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+        Continue with Google
+      </button>
+
+      <div class="auth-divider"><span>or use email</span></div>
+
+      <form id="vv-email-form">
+        <input type="hidden" id="vv-auth-mode-signup" value="">
+        <input type="email" id="vv-auth-email" placeholder="Email address" required autocomplete="email">
+        <input type="password" id="vv-auth-password" placeholder="Password (min 6 characters)" required minlength="6" autocomplete="current-password">
+        <button type="submit" class="btn-auth-submit">Sign In</button>
+      </form>
+
+      <div class="auth-links">
+        <a href="#" id="vv-auth-mode-toggle"><span id="vv-auth-mode-text">Don't have an account? Sign up</span></a>
+        <a href="#" id="vv-forgot-password">Forgot password?</a>
+      </div>
+
+      <div id="vv-auth-error" class="auth-msg error" style="display:none;"></div>
+      <div id="vv-auth-success" class="auth-msg success" style="display:none;"></div>
+    </div>
+  </div>
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>Our <span class="text-gold">Methodology</span></h1>
+      <p>How VirtueVigil classifies content &mdash; the scoring system, trope auditing, and the analytical framework behind every review.</p>
+    </div>
+  </section>
+
+  <article class="content-article">
+    <h2>The Vigil-Schema</h2>
+    <p>Every VirtueVigil review is generated through a structured analytical pipeline we call the <strong>Vigil-Schema</strong>. This framework ensures consistency, objectivity in measurement, and transparency in how classifications are determined.</p>
+    <p>The system operates on a principle of <strong>density-based scoring</strong> &mdash; counting verified instances of specific narrative tropes rather than relying on subjective impression. Every trope identified is logged, categorized, and mapped against an authenticity standard.</p>
+
+    <h2>The Three Core Scores</h2>
+    <div class="about-grid" style="margin-bottom:20px;">
+      <div class="about-card" style="border-left:4px solid var(--accent-red);">
+        <h3 style="color:var(--accent-red);"><i class="fas fa-arrow-up"></i> WOKE Score</h3>
+        <p>+1 point for every verified instance of a WOKE trope. This includes group categorization over individual agency, subversion of traditional structures (nuclear family, religious institutions, national identity), identity-based moral authority, and systemic framing of personal conflict.</p>
+      </div>
+      <div class="about-card" style="border-left:4px solid var(--accent-green);">
+        <h3 style="color:var(--accent-green);"><i class="fas fa-arrow-up"></i> TRADITIONAL Score</h3>
+        <p>+1 point for every verified instance of a TRADITIONAL trope. This includes individual virtue and responsibility, respect for family and faith, meritocratic outcomes, earned moral authority, and consequence-based storytelling.</p>
+      </div>
+    </div>
+    <div class="about-card" style="border-left:4px solid var(--accent-amber);margin-bottom:30px;">
+      <h3 style="color:var(--accent-amber);"><i class="fas fa-percentage"></i> Authenticity Index</h3>
+      <p>A percentage reflecting how much of the content feels &ldquo;Natural&rdquo; versus &ldquo;Forced.&rdquo; This measures whether ideological elements emerge organically from the story&rsquo;s internal logic or are externally imposed upon it. A high authenticity index means the messaging &mdash; regardless of direction &mdash; is integrated naturally. A low index indicates didactic or preachy delivery.</p>
+    </div>
+
+    <h2>The Score Margin</h2>
+    <p>The Score Margin is the net difference between the WOKE and TRADITIONAL scores. A margin of +14 WOKE means there were 14 more verified WOKE trope instances than TRADITIONAL ones. This provides a single, scannable indicator of overall ideological direction.</p>
+
+    <h2>The Trope Audit Log</h2>
+    <p>Every review includes a Trope Audit Log &mdash; a detailed record of each identified trope instance. For each trope, the following fields are documented:</p>
+    <ul>
+      <li><strong>Category</strong> &mdash; WOKE or TRADITIONAL classification</li>
+      <li><strong>Trope Name</strong> &mdash; A standardized identifier (e.g., &ldquo;Subversion of Traditional Motherhood&rdquo;)</li>
+      <li><strong>Location</strong> &mdash; Where in the narrative the trope appears (act, scene, or timestamp)</li>
+      <li><strong>Script Context</strong> &mdash; Relevant dialogue or scene description</li>
+      <li><strong>Moral Impact</strong> &mdash; How the trope affects the story&rsquo;s moral framework</li>
+      <li><strong>Authenticity Verdict</strong> &mdash; Whether the instance is FORCED or NATURAL</li>
+    </ul>
+    <p>This granular logging ensures that every classification can be challenged, verified, and discussed on the basis of specific evidence rather than general impression.</p>
+
+    <h2>Woke Trap Detection</h2>
+    <p>The system includes specific logic for Woke Trap detection. If the first explicit WOKE trope instance occurs after approximately 50% of the content&rsquo;s runtime or token count, the Woke Trap flag is set to YES. The system then records:</p>
+    <ul>
+      <li>The degree of the trap (Low, Medium, or High)</li>
+      <li>An editorial explanation of where the bait-and-switch occurred</li>
+      <li>A viewer sentiment commentary describing the likely feeling of betrayal</li>
+    </ul>
+
+    <h2>Three Perspective Summaries</h2>
+    <p>Every review concludes with three distinct perspective summaries, each designed for a different audience:</p>
+    <div class="about-grid">
+      <div class="about-card">
+        <h3><i class="fas fa-eye" style="color:var(--accent-blue);"></i> Overall Perspective</h3>
+        <p>A sentinel-style overview of the content&rsquo;s ideological density. This is the flagship analysis &mdash; what VirtueVigil&rsquo;s assessment is and why.</p>
+      </div>
+      <div class="about-card">
+        <h3><i class="fas fa-user-tie" style="color:var(--accent-blue);"></i> Adult Viewer Insight</h3>
+        <p>An analysis of narrative quality, time-investment value, and where the content prioritizes messaging over storytelling. For adult viewers making their own viewing decisions.</p>
+      </div>
+    </div>
+    <div class="about-card" style="margin-bottom:30px;">
+      <h3><i class="fas fa-child" style="color:var(--accent-amber);"></i> Parental Guidance</h3>
+      <p>Specific, actionable advice for parents selecting content for children and teens. Identifies themes that may conflict with traditional family values, including gender identity presentation, authority subversion, and moral relativism.</p>
+    </div>
+
+    <h2>Community Governance</h2>
+    <p>VirtueVigil is building a Community Weighted Score system where members can vote on whether an AI-identified trope was actually FORCED or NATURAL. This crowdsourced layer adds human judgment to our automated analysis, creating a more robust and accountable classification system.</p>
+
+    <div class="highlight-box">
+      <p>Our methodology is transparent by design. Every score can be traced to specific evidence. Every classification can be debated on its merits.</p>
+    </div>
+
+    <div style="text-align:center;margin-top:40px;">
+      <a href="/" class="hero-cta">See It In Action <i class="fas fa-arrow-right"></i></a>
+    </div>
+  </article>
+
+  
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-bottom">
+        <p>&copy; 2026 VirtueVigil. All rights reserved. Guarding Values. Exposing Agendas.</p>
+        <p>
+          <a href="/">Reviews</a> &middot;
+          <a href="/woke-trap.html">Woke Trap</a> &middot;
+          <a href="/methodology.html">Methodology</a> &middot;
+          <a href="/about.html">About</a>
+        </p>
+      </div>
+    </div>
+  </footer>
+  <script src="/js/main.js"></script>
+  <script src="/js/supabase-config.js"></script>
+  <script src="/js/auth.js"></script>
+</body>
+</html>
