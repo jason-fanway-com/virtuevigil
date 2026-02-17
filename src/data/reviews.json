@@ -1,5 +1,611 @@
 [
   {
+    "id": "blue-moon",
+    "slug": "blue-moon",
+    "title": "Blue Moon",
+    "year": 2025,
+    "type": "film",
+    "platform": "Sony Pictures Classics",
+    "genre": "Drama, Biography, Music",
+    "date": "2026-02-17",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "14 min",
+    "poster": "/images/posters/blue-moon.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 13.25,
+    "tradScore": 18,
+    "authIndex": 90,
+    "scoreMargin": 4.75,
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "Blue Moon is not a bait-and-switch. The marketing makes clear this is a biographical drama about Lorenz Hart, a gay Jewish songwriter who drank himself to death. You know what you're walking into. There's no hidden agenda beyond what the trailer promises.",
+      "viewerSentiment": null
+    },
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Blue Moon is not a bait-and-switch. The marketing makes clear this is a biographical drama about Lorenz Hart, a gay Jewish songwriter who drank himself to death. You know what you're walking into."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Richard Linklater",
+        "ideology": "NEUTRAL",
+        "profile": "Twenty-two films spanning anarchic indie, mainstream comedy, anti-corporate expose, small-town Texas sympathy, and philosophical romance. One explicitly progressive outlier (Fast Food Nation) in a sea of humanist, character-driven work. Linklater is not a filmmaker with an ideological mission. He follows stories that interest him."
+      },
+      "writer": {
+        "name": "Robert Kaplow",
+        "profile": "Literary novelist. No political body of work. His published novels include Alessandra in Between (1994) and Me and Orson Welles (2003), which Linklater adapted into a film in 2008. The screenplay is inspired by the real letters of Elizabeth Weiland to Lorenz Hart."
+      },
+      "lead_producer": {
+        "name": "Mike Blizzard",
+        "company": "Wild Atlantic Pictures"
+      },
+      "composer": {
+        "name": "Graham Reynolds"
+      },
+      "top_cast": [
+        {
+          "name": "Ethan Hawke",
+          "role": "Lorenz Hart"
+        },
+        {
+          "name": "Andrew Scott",
+          "role": "Richard Rodgers"
+        },
+        {
+          "name": "Margaret Qualley",
+          "role": "Elizabeth Weiland"
+        },
+        {
+          "name": "Bobby Cannavale",
+          "role": "Eddie"
+        },
+        {
+          "name": "Jonah Lees",
+          "role": "Morty Rifkin"
+        }
+      ],
+      "prediction": {
+        "verdict": "MIXED",
+        "confidence": "moderate"
+      },
+      "producers": [
+        {
+          "name": "Mike Blizzard",
+          "company": "Wild Atlantic Pictures",
+          "profile": "Irish producer. His involvement reflects the film's Irish production base (shot in Dublin's Troy Studios). No significant ideological signal."
+        },
+        {
+          "name": "John Sloss",
+          "company": "Cinetic Media",
+          "profile": "Major independent film producer, sales agent, and entertainment lawyer. Slate tends toward prestige indie cinema. Business-driven figure who backs commercially viable independent projects."
+        },
+        {
+          "name": "Richard Linklater",
+          "profile": "See director profile. As producer on his own film, his editorial control is significant but his ideological signal is neutral."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Ethan Hawke",
+          "role": "Lorenz Hart"
+        },
+        {
+          "name": "Margaret Qualley",
+          "role": "Elizabeth Weiland"
+        },
+        {
+          "name": "Bobby Cannavale",
+          "role": "Eddie"
+        },
+        {
+          "name": "Andrew Scott",
+          "role": "Richard Rodgers"
+        },
+        {
+          "name": "Jonah Lees",
+          "role": "Morty Rifkin"
+        },
+        {
+          "name": "Simon Delaney",
+          "role": "Oscar Hammerstein II"
+        },
+        {
+          "name": "Patrick Kennedy",
+          "role": "E. B. White"
+        },
+        {
+          "name": "Cillian Sullivan",
+          "role": "Stephen Sondheim"
+        },
+        {
+          "name": "David Rawle",
+          "role": "George Roy Hill"
+        },
+        {
+          "name": "John Doran",
+          "role": "Weegee"
+        },
+        {
+          "name": "Anne Brogan",
+          "role": "Frieda Hart"
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "ENHANCED",
+      "summary": "Hawke is tall and handsome playing a short, physically unattractive man. Faithful in every other respect.",
+      "detailed_analysis": "The real Lorenz Hart was approximately 5'0\" tall, physically slight, and described by contemporaries as unattractive. Ethan Hawke is 5'10\", conventionally handsome, and possesses rugged charisma that Hart never had. Hart's physical unattractiveness was central to his self-image and his difficulty in romantic relationships. However, Hawke compensates through performance, playing Hart as physically diminished, hunched, desperate. This is standard Hollywood biographical casting (attractive actors playing less attractive subjects) and doesn't carry ideological weight. The rest of the cast is appropriately matched. The cast is overwhelmingly white, which accurately reflects the demographics of a 1943 Broadway restaurant."
+    },
+    "summary": {
+      "overall": "Richard Linklater's Blue Moon is a 100-minute hangout movie set in one restaurant on one night, and it works because Ethan Hawke refuses to let you look away.\n\nThe setup is simple. It's March 31, 1943. Lorenz Hart, once half of the most celebrated songwriting duo in Broadway history, has slipped out of the opening night of Oklahoma!, the blockbuster musical his ex-partner Richard Rodgers wrote with a new collaborator. Hart ends up at Sardi's, where the post-show celebration is being set up. Over the course of the evening, he drinks, holds court, flirts, lies, confesses, and watches everything he built walk out the door.\n\nHart's sexuality sits at the center of this movie and there's no dancing around it. He calls himself \"omnisexual,\" flirts with a flower delivery boy, and carries a torch for Elizabeth Weiland (Margaret Qualley), a 20-year-old Yale art student with whom he's had months of correspondence and one unconsummated weekend. The film treats Hart's closeted existence with empathy and without any winking modern editorializing. This is how it was. He loved who he loved, and 1943 America had no room for it. Conservative viewers who can't tolerate that subject matter should skip this one entirely. No judgment. But there it is.\n\nHere's where things get interesting for our audience: the movie doesn't let Hart off the hook. Not even close. Hart is a drunk. A narcissist. A man who blew up his own partnership because he couldn't show up sober and on time. The film makes this crystal clear. When Rodgers (Andrew Scott, superb in a Silver Bear-winning performance) pulls Hart aside to suggest a collaboration on a revival of A Connecticut Yankee, you can see the wariness in Scott's eyes. He's offering an olive branch to a man who's set fire to every olive branch he's ever been given.\n\nThe movie doesn't blame society for all of that. Yes, being closeted in 1943 was a form of slow torture. The film acknowledges that honestly. But Hart's alcoholism, his self-pity, his inability to match Rodgers' discipline... the film lays those at his feet. He had talent that Hammerstein could only dream of, and he poured it down the drain. Seven months after this evening, he collapsed drunk in the street and died a few days later. The film ends with that fact, unadorned. No redemption arc. No last-minute sobriety. Vice has consequences. Full stop.\n\nThere's something genuinely conservative buried in Hart's lament about Oklahoma! He sees it as the death of sophistication in musical theater, the triumph of earnest Americana over wit. Whether Linklater agrees or not is beside the point. The film gives Hart's position real weight. You feel the loss of a particular tradition, a particular style, being steamrolled by the culture.\n\nBobby Cannavale plays Eddie, the bartender at Sardi's, and he's the film's quiet conscience. He tries not to serve Hart liquor. He listens. He and Hart bond over a shared love of Casablanca. It's a small, warm performance that grounds the film when Hawke's pyrotechnics threaten to overwhelm it.\n\nThe historical cameos are a delight. Patrick Kennedy shows up as E. B. White, and there's a lovely scene where Hart invents the name \"Stuart\" for a mouse that keeps visiting his apartment. White jots something in his notebook. If you know your children's literature, you smile. Young Stephen Sondheim appears as Hammerstein's protege. George Roy Hill (future director of Butch Cassidy and the Sundance Kid) gets Hart's autograph. Weegee lurks around with his camera. The film creates a tapestry of mid-century American culture that treats its legacy with genuine reverence.\n\nIs this a woke movie? It depends on how strict your definition is. The progressive elements are real: Hart's queerness is presented sympathetically, his closeted suffering is framed as unjust, and the film's emotional architecture demands you feel for a gay man who couldn't live openly. But the traditional elements are just as real: personal responsibility for one's choices, consequences of vice and addiction, reverence for artistic craft and cultural heritage, and a character study that holds its subject accountable rather than canonizing him. These two currents run side by side and the film never resolves the tension between them. That's actually what makes it good.\n\nYou will not feel lectured. That alone sets Blue Moon apart from most prestige cinema in 2025.",
+      "adultInsight": "Adult conservative viewers have a real decision to make with Blue Moon, and it's worth being honest about the terms. If frank depictions of homosexuality are a hard line for you, skip this one. The film's protagonist is a gay man, his sexuality is central to the story, and the movie asks you to feel his pain. It does not apologize for this. For those who can engage, there's something genuinely worthwhile here. Linklater is not lecturing you. He's showing you a man who had extraordinary gifts and wasted them. The moral framework of the film is deeply traditional even when the subject matter is not. Pay attention to the Hart-Rodgers dynamic. Rodgers is everything Hart is not: disciplined, reliable, productive. He shows up. He does the work. He builds something that lasts. Hart, for all his superior talent, can't manage any of that. The contrast is a quiet argument for the traditional virtues of discipline and perseverance over raw genius. Talent without character is just potential, and potential has an expiration date.",
+      "parentalGuidance": "No violence. Mild sexual content (flirtation, discussion of sexuality, no nudity or sex scenes). Moderate adult language. Heavy thematic presence of alcoholism as the film's central destructive force. Hart drinks throughout and the film ends with his death from alcoholism. Emotional intensity from Hart's desperation and rejection scenes. Minimum age 14, recommended 16+. The content is entirely adult in theme (sexuality, alcoholism, depression, artistic failure, death) but not in graphic depiction. Younger teens won't connect with the Broadway history or the dialogue-heavy format."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Normalization of Non-Traditional Sexuality",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "location": "Throughout -- Hart's homosexuality and bisexuality form the emotional core",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "The Sympathetic Outsider",
+        "id": "WOKE-015",
+        "category": "WOKE",
+        "location": "Throughout -- Hart framed as brilliant outsider on every axis",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Institutional Evil (Implied)",
+        "id": "WOKE-004",
+        "category": "WOKE",
+        "location": "Background throughout -- mid-century America's treatment of gay men",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Consequences of Vice",
+        "id": "TRAD-038",
+        "category": "TRADITIONAL",
+        "location": "Throughout and closing text -- Hart's alcoholism destroys everything",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Personal Accountability",
+        "id": "TRAD-048",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- Hart held responsible for sabotaging his own talent",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Industry and Perseverance / Artistic Discipline",
+        "id": "TRAD-041",
+        "category": "TRADITIONAL",
+        "location": "Hart's lament about Oklahoma!; the Hart-Rodgers dynamic",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Wise Elder / Respect for Legacy",
+        "id": "TRAD-033",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- historical cameos and reverence for Broadway's golden age",
+        "authenticity": "Organic"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Blue Moon (2025) Woke? Richard Linklater Film Review | VirtueVigil",
+      "metaDescription": "Is Blue Moon woke? VirtueVigil's analysis: Woke Score 13.25, Traditional 18, Fidelity Casting ENHANCED. Full creative team deep dive, trope audit, and family guidance.",
+      "keywords": "is blue moon woke, blue moon 2025 review, blue moon linklater woke, blue moon movie review conservative, blue moon ethan hawke, blue moon lorenz hart"
+    },
+    "spoiler_alert": true
+  },
+  {
+    "id": "eternity",
+    "slug": "eternity",
+    "title": "Eternity",
+    "year": 2025,
+    "type": "film",
+    "platform": "A24 / Apple Original Films",
+    "genre": "Romantic Comedy, Fantasy",
+    "date": "2026-02-17",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "12 min",
+    "poster": "/images/posters/eternity.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 3,
+    "tradScore": 5,
+    "authIndex": 75,
+    "scoreMargin": 2,
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "The progressive elements show up in the world-building (identity-themed afterlife paradises, a godless cosmology) and they're visible from the first twenty minutes. Nothing is hidden or saved for a third-act surprise. The film's emotional thesis, that lifelong marital commitment trumps youthful passion, is genuinely and surprisingly traditional.",
+      "viewerSentiment": null
+    },
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The progressive elements show up in the world-building and are visible from the first twenty minutes. Nothing is hidden. The film's emotional thesis, that lifelong marital commitment trumps youthful passion, is genuinely traditional."
+    },
+    "creative_team": {
+      "director": {
+        "name": "David Freyne",
+        "ideology": "MODERATE PROGRESSIVE",
+        "profile": "Irish director with a small but ideologically legible filmography. Previous films include The Cured (2017, zombie reintegration metaphor) and Dating Amber (2020, explicitly queer-themed). Gravitates toward stories about people choosing authenticity. In Eternity it leads to a conservative conclusion: authentic love equals the long marriage."
+      },
+      "writer": {
+        "name": "Pat Cunnane & David Freyne",
+        "profile": "Pat Cunnane was President Barack Obama's Senior Writer and Deputy Director of Messaging at the White House for six years. After the 2016 election, he transitioned to screenwriting. The screenplay appeared on the 2022 Black List. Freyne came on as co-writer and director. Having two creative filters typically moderates extreme positions."
+      },
+      "lead_producer": {
+        "name": "Tim White & Trevor White",
+        "company": "Star Thrower Entertainment"
+      },
+      "composer": {
+        "name": "David Fleming"
+      },
+      "top_cast": [
+        {
+          "name": "Elizabeth Olsen",
+          "role": "Joan"
+        },
+        {
+          "name": "Miles Teller",
+          "role": "Larry Cutler"
+        },
+        {
+          "name": "Callum Turner",
+          "role": "Luke"
+        },
+        {
+          "name": "Da'Vine Joy Randolph",
+          "role": "Anna"
+        },
+        {
+          "name": "John Early",
+          "role": "Ryan"
+        }
+      ],
+      "prediction": {
+        "verdict": "MIXED",
+        "confidence": "medium"
+      },
+      "producers": [
+        {
+          "name": "Tim White & Trevor White",
+          "company": "Star Thrower Entertainment",
+          "profile": "Quality-driven indie production house. Credits include King Richard, The Post, Wind River. Follows talent and material rather than ideology. Genuinely mixed slate."
+        },
+        {
+          "name": "Pat Cunnane",
+          "profile": "See writer profile. Former Obama White House Senior Writer turned screenwriter."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Miles Teller",
+          "role": "Larry Cutler"
+        },
+        {
+          "name": "Elizabeth Olsen",
+          "role": "Joan"
+        },
+        {
+          "name": "Callum Turner",
+          "role": "Luke"
+        },
+        {
+          "name": "Da'Vine Joy Randolph",
+          "role": "Anna"
+        },
+        {
+          "name": "John Early",
+          "role": "Ryan"
+        },
+        {
+          "name": "Olga Merediz",
+          "role": "Karen"
+        },
+        {
+          "name": "Barry Primus",
+          "role": "Old Larry Cutler"
+        },
+        {
+          "name": "Betty Buckley",
+          "role": "Old Joan"
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "N/A",
+      "summary": "Original screenplay, no source material to compare against.",
+      "detailed_analysis": "Eternity is an original screenplay with no source material, historical record, or established canon to deviate from. The cast is appropriate for the roles as written. No race-swaps, gender-swaps, or historically incongruous choices because there is no history or source to compare against."
+    },
+    "summary": {
+      "overall": "A24 and Apple Original Films team up for Eternity, a high-concept romantic comedy set in the afterlife where newly deceased souls have one week to decide which themed paradise they'll inhabit forever. The premise is whimsical and the execution polished, with Elizabeth Olsen, Miles Teller, and Callum Turner forming a love triangle that stretches across life and death. Director David Freyne works from a script he co-wrote with Pat Cunnane, a former Senior Writer and Deputy Director of Messaging in the Obama White House. The result is a film that's smarter than it needs to be and more ideologically loaded than it first appears.\n\nHere's the setup. Larry (Teller) dies choking on a pretzel at a family gender reveal party. That opening image is a culturally loaded one and it sets the tone. He wakes up as a young man on a train and quickly discovers he's in the afterlife. An Afterlife Coordinator named Anna (Da'Vine Joy Randolph) explains the rules: pick your themed eternity, and the decision is final. The options include paradises like Queer World, Man-free World, Nudist World, Weimar World (100% free of Nazis), and Smokers World. If you try to escape your chosen eternity, you get banished to the Void, a place of infinite darkness. Larry decides to wait at the Junction, a purgatory-like hub, for his wife Joan.\n\nJoan (Olsen) arrives soon after, having succumbed to the terminal cancer she and Larry had been hiding from their family. Their reunion should be the happy ending of a lifelong love story. But things get complicated when Luke (Turner), Joan's first husband who died in the Korean War 67 years earlier, shows up. He has been waiting at the Junction for Joan this entire time. Joan has to choose: the man she grew old with, or the one who never got the chance to grow old at all.\n\nThe inclusion of Queer World and Man-free World as casual afterlife options tells you exactly where this film's sympathies lie on the cultural spectrum. These details get laughs, and they're meant to, but they also normalize a progressive worldview where identity categories are eternal organizing principles. The afterlife bureaucracy is staffed by Randolph and John Early, both of whom bring warmth and genuine humor but also serve as mouthpieces for a therapeutic, self-actualization framework. The film's afterlife is essentially a progressive utopia. Everyone gets exactly the eternity they want. No moral judgment. No consequences. No God. That last absence is worth sitting with for a moment: this is an entire film about the afterlife with zero religious content whatsoever.\n\nAnd yet. The emotional core of this film is deeply traditional, almost in spite of itself. Larry is not the flashier option. He's the husband who showed up every day, who weathered the boring middle years, who was steady rather than exciting. Teller plays Larry with a rumpled decency that's genuinely affecting. The film's best scenes are the quiet moments where Larry and Joan remember the mundane beauty of their long marriage: arguing about nothing, raising kids, growing old together.\n\nThe film's most powerful traditional moment comes when Larry tells Joan to go be with Luke. He sacrifices his own eternal happiness because he wants her to be happy. That's genuine self-sacrifice, and the film treats it with the weight it deserves. Larry doesn't scheme or fight. He lets go. And that letting go is precisely what makes Joan realize what she has. She chooses Larry not because Luke disappoints her, but because she watches her memories and understands that the accumulated weight of a life together matters more than the passionate romance of a love cut short.\n\nConservative viewers should know that the film's worldview is secular and gently progressive. The afterlife-as-shopping-mall conceit will irritate anyone who takes eternal life seriously as a theological matter. But the argument that long-married love is worth choosing again, even in eternity, will resonate with traditional-values viewers more than the film's creators probably intended. This is a profoundly conservative message hiding inside progressive packaging. Joan risks the Void to get back to Larry. Larry stays at the Junction rather than pick any paradise without her. That's not self-actualization. That's covenant. The film just doesn't have the theological vocabulary to say so.",
+      "adultInsight": "Conservative adult viewers should approach Eternity as a genuinely charming romantic comedy with progressive set dressing and a surprisingly traditional payoff. The secular afterlife cosmology will bother viewers who take eternal life seriously as a theological matter. Pat Cunnane's background as an Obama political operative is worth knowing. That said, the film's emotional argument is one of the most traditional statements about marriage in recent mainstream cinema. Joan literally risks eternal oblivion to return to her husband. Larry gives up paradise to wait for her. When a film written by an Obama speechwriter concludes that marriage is worth choosing forever, that says something about the enduring power of the institution.",
+      "parentalGuidance": "No violence. No sexual content beyond one chaste kiss. Mild language. No significant substance use. The concept of the Void (infinite darkness as punishment) may unsettle younger viewers. The film deals with death, terminal illness, and grief, but with a light touch. Complete absence of religious or spiritual dimension. Minimum age 10, recommended 13+. Strong family values content (marriage as the film's thesis, self-sacrifice, commitment over passion)."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Secular Erasure",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "location": "Throughout -- entire afterlife constructed without reference to God, faith, or divine judgment",
+        "authenticity": "Emphasized"
+      },
+      {
+        "trope": "Globalist Utopia",
+        "id": "WOKE-015",
+        "category": "WOKE",
+        "location": "First act -- identity-themed Eternities including Queer World, Man-free World",
+        "authenticity": "Emphasized"
+      },
+      {
+        "trope": "Tokenized Representation",
+        "id": "WOKE-002",
+        "category": "WOKE",
+        "location": "Throughout -- diverse casting of afterlife coordinators",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Sacred Institution of Marriage",
+        "id": "TRADITIONAL-044",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- Joan chooses Larry, the 65-year marriage, over passionate first love",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Industry and Perseverance",
+        "id": "TRADITIONAL-041",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- Larry defined by steady daily devotion over 65 years",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Self-Sacrificing Hero",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Late second act -- Larry tells Joan to spend eternity with Luke",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Wise Elder",
+        "id": "TRADITIONAL-033",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- Anna chose service at the Junction over paradise",
+        "authenticity": "Natural"
+      },
+      {
+        "trope": "Gender Complementarity",
+        "id": "TRADITIONAL-050",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- Larry and Joan's complementary differences create a complete unit",
+        "authenticity": "Natural"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Eternity (2025) Woke? A24 Film Review | VirtueVigil",
+      "metaDescription": "Is Eternity woke? VirtueVigil's analysis: Woke Score 3, Traditional 5. A24's afterlife rom-com has progressive set dressing but a deeply traditional heart. Full review.",
+      "keywords": "is eternity woke, eternity 2025 review, eternity a24 woke, eternity movie review conservative, eternity elizabeth olsen miles teller"
+    },
+    "spoiler_alert": true
+  },
+  {
+    "id": "solo-mio",
+    "slug": "solo-mio",
+    "title": "Solo Mio",
+    "year": 2026,
+    "type": "film",
+    "platform": "Angel Studios",
+    "genre": "Romantic Comedy",
+    "date": "2026-02-17",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "11 min",
+    "poster": "/images/posters/solo-mio.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 1,
+    "tradScore": 9,
+    "authIndex": 95,
+    "scoreMargin": 8,
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "Solo Mio is exactly what it looks like from the trailer: a clean, old-fashioned romantic comedy distributed by Angel Studios and starring Kevin James. There are no hidden progressive lectures, no subversive messaging, and no bait-and-switch. Conservative audiences can walk in relaxed.",
+      "viewerSentiment": null
+    },
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Solo Mio is exactly what it looks like from the trailer: a clean, old-fashioned romantic comedy distributed by Angel Studios. No hidden progressive lectures, no bait-and-switch."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Chuck & Dan Kinnane",
+        "ideology": "TRADITIONAL",
+        "profile": "Catholic filmmakers from a tight-knit family. Their filmography is small but consistent: family-friendly, clean, and oriented toward mainstream entertainment with traditional values. They are Kevin James's primary directorial collaborators."
+      },
+      "writer": {
+        "name": "Kevin James, Patrick Kinnane, John Kinnane",
+        "profile": "Kevin James is a practicing Catholic who has spoken about his faith influencing his career choices. He co-wrote the screenplay and stars. The Kinnane brothers serve as co-writers within the family collective."
+      },
+      "lead_producer": {
+        "name": "Jeffrey Greenstein",
+        "company": "A Higher Standard"
+      },
+      "composer": {
+        "name": "Joy Ngiaw"
+      },
+      "top_cast": [
+        {
+          "name": "Kevin James",
+          "role": "Matt Taylor"
+        },
+        {
+          "name": "Nicole Grimaudo",
+          "role": "Gia"
+        },
+        {
+          "name": "Jonathan Roumie",
+          "role": "Neil"
+        },
+        {
+          "name": "Alyson Hannigan",
+          "role": "Meghan"
+        },
+        {
+          "name": "Kim Coates",
+          "role": "Julian"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL",
+        "confidence": "high"
+      },
+      "producers": [
+        {
+          "name": "Jeffrey Greenstein",
+          "company": "A Higher Standard",
+          "profile": "Former President of Millennium Media. Founded A Higher Standard to develop commercial action and comedy projects. Involvement appears commercial rather than ideological."
+        },
+        {
+          "name": "Mark Fasano",
+          "company": "Nickel City Pictures",
+          "profile": "Credits include Marlowe (2022) and various genre projects. Focused on commercial viability."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Kevin James",
+          "role": "Matt Taylor"
+        },
+        {
+          "name": "Nicole Grimaudo",
+          "role": "Gia"
+        },
+        {
+          "name": "Alyson Hannigan",
+          "role": "Meghan"
+        },
+        {
+          "name": "Kim Coates",
+          "role": "Julian"
+        },
+        {
+          "name": "Jonathan Roumie",
+          "role": "Neil"
+        },
+        {
+          "name": "Julee Cerda",
+          "role": "Donna"
+        },
+        {
+          "name": "Julie Ann Emery",
+          "role": "Heather"
+        },
+        {
+          "name": "Alessandro Carbonara",
+          "role": "Marcello"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "role": "Himself"
+        },
+        {
+          "name": "Ed Sheeran",
+          "role": "Himself"
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "N/A",
+      "summary": "Original screenplay, no source material to compare against.",
+      "detailed_analysis": "Solo Mio is an original screenplay with no source material, historical record, or established canon to deviate from. The casting is conventional and unremarkable in terms of fidelity considerations. Kevin James plays a middle-aged American schoolteacher; Nicole Grimaudo, an Italian actress, plays an Italian cafe owner. No changes to flag."
+    },
+    "summary": {
+      "overall": "There's a moment early in Solo Mio where Kevin James, freshly abandoned at the altar in Rome, sits alone at a restaurant table set for two. He stares at Heather's empty chair, then quietly asks the waiter to take it away. It's a small beat, played without fanfare. And it tells you everything you need to know about what kind of movie this is. Not flashy. Not trying to reinvent anything. Just honest.\n\nThe setup is straightforward. Matt Taylor, a middle-aged elementary school teacher, flies to Italy for his dream wedding. His fiancee Heather leaves him a note saying she's not ready, vanishes, and Matt is stuck with a non-refundable honeymoon tour package for couples. So he goes alone. That's the premise, and it's about as high-concept as the film gets.\n\nWhat follows is genuinely pleasant. Not groundbreaking, not award-worthy, just pleasant in the way that good rom-coms used to be before the genre decided it needed to be either raunchy or ideologically charged to matter. Matt stumbles through couples' activities solo, gradually befriending two married couples on the tour. Julian and Donna (Kim Coates and Julee Cerda) are loud, bickering, and secretly struggling. Neil and Meghan (Jonathan Roumie and Alyson Hannigan) are quieter, dealing with their own unspoken tensions. The film uses these couples as mirrors for Matt's own questions about love, commitment, and what it means to actually show up for another person.\n\nThe romantic interest, Gia, is played by Italian actress Nicole Grimaudo with warmth and understated charm. She runs a cafe in Rome and takes Matt on a tour of the city after sensing his sadness. Their connection builds slowly, without the manufactured sexual tension that defines most modern rom-coms. There's actually a moment where the film winks at the audience's expectation of a bedroom scene and then deliberately sidesteps it. That's not just restraint. That's a statement.\n\nThe Kevin James factor is worth addressing head-on. If you know him primarily from Paul Blart: Mall Cop or Grown Ups, this will surprise you. James co-wrote this script, and you can feel his fingerprints on it. Matt is not a buffoon stumbling into slapstick gags. He's a regular guy processing real heartbreak with a mix of self-deprecating humor and quiet dignity. There's genuine emotional vulnerability here that James hasn't shown before.\n\nJonathan Roumie, best known as Jesus in The Chosen, plays against type as Neil, one half of the married couple on the tour. He's funny, slightly neurotic, and endearingly normal. It's a smart casting choice because it lets Roumie show range while also signaling to faith-based audiences that this film is in their lane.\n\nThe thematic core of Solo Mio is deeply traditional. Marriage is presented as desirable, worth pursuing, and worth fighting for. Matt's journey isn't about finding himself or learning he doesn't need anyone. It's about a man who believed in marriage, got his heart broken, and then discovered that the capacity to love again is itself a kind of courage. The mid-credits scene showing Matt and Gia's eventual wedding, attended by the two couples who helped him in Rome, is pure fairy-tale resolution. Family and commitment win.\n\nIf we're being fair about weaknesses, the film is thin. At 96 minutes, it doesn't have time to develop anyone beyond sketch depth. Heather's sudden reappearance at the hotel is a plot contrivance. Gia's connection to Andrea Bocelli feels like a convenient celebrity cameo rather than organic storytelling. But by rom-com standards, this is exactly what the genre is supposed to do. You're supposed to know they'll end up together. The pleasure is in the journey, not the destination. And the journey here is warm, funny, shot beautifully in Rome, and mercifully free of the cynicism that has poisoned the genre for the last fifteen years.\n\nConservative viewers, this one is for you. Not because it preaches at you, but because it doesn't. It just tells a love story the way love stories used to be told. Clean. Hopeful. Old-fashioned in the best possible sense.",
+      "adultInsight": "This film is classified TRADITIONAL with a composite score of positive eight. It is one of the most unambiguously traditional mainstream releases of 2026 so far. The marriage-affirming thesis, the chaste romance, the celebration of community and masculine emotional resilience, and the complete absence of progressive messaging make this an easy recommendation for conservative audiences. The only caveat is quality, not ideology. Solo Mio is a pleasant film, not a great one. But if you're looking for a date-night movie that you can enjoy without bracing for a lecture, or a film you can watch with your kids without reaching for the remote, Solo Mio delivers exactly that.",
+      "parentalGuidance": "No violence. No sexual content (rated PG, no sex scenes, no nudity, no innuendo beyond mild flirtation). Minimal language. Social drinking (wine with dinner in Italy), no intoxication or drug use. The most intense moment is the emotional devastation of being left at the altar, handled with sensitivity. Minimum age 8, recommended 10+. Younger children may find the romantic plot uninteresting rather than inappropriate. Families can watch this together without awkward fast-forwarding."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Infallible Youth",
+        "id": "WOKE-016",
+        "category": "WOKE",
+        "location": "Early scenes -- Matt's classroom, children portrayed as uniformly adoring",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Sanctity of Marriage",
+        "id": "TRADITIONAL-044",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- marriage as the alpha and omega of the story",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Industry and Perseverance",
+        "id": "TRADITIONAL-041",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- Matt shows emotional perseverance after heartbreak",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Traditional Femininity",
+        "id": "TRADITIONAL-036",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- Gia is warm, nurturing, grounded, runs a family cafe",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Defense of the Innocent",
+        "id": "TRADITIONAL-045",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- married couples adopt Matt into their group",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "The Self-Sacrificing Hero",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Matt sells engagement ring to pursue new future with Gia",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Restored Home",
+        "id": "TRADITIONAL-048",
+        "category": "TRADITIONAL",
+        "location": "Mid-credits scene -- Matt and Gia marry, community in attendance",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Chaste Romance",
+        "id": "TRADITIONAL-039",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- romance develops without sex, film winks at this choice",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Healthy Masculinity",
+        "id": "TRADITIONAL-035",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- Matt processes heartbreak with dignity and resilience",
+        "authenticity": "Organic"
+      },
+      {
+        "trope": "Community and Belonging",
+        "id": "TRADITIONAL-042",
+        "category": "TRADITIONAL",
+        "location": "Throughout -- organic community forms through shared meals and conversation",
+        "authenticity": "Organic"
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Solo Mio (2026) Woke? Kevin James Rom-Com Review | VirtueVigil",
+      "metaDescription": "Is Solo Mio woke? VirtueVigil's analysis: Woke Score 1, Traditional 9. Angel Studios' clean romantic comedy is one of the most traditional mainstream releases of 2026.",
+      "keywords": "is solo mio woke, solo mio 2026 review, solo mio kevin james woke, solo mio movie review conservative, solo mio angel studios"
+    },
+    "spoiler_alert": true
+  },
+  {
     "id": 11,
     "slug": "i-can-only-imagine-2",
     "title": "I Can Only Imagine 2",
