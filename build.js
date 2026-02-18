@@ -256,6 +256,23 @@ function siteHeader(activePage) {
     </div>
   </header>
 
+  <div class="site-search-bar" role="search" aria-label="Search reviews">
+    <div class="site-search-inner">
+      <i class="fas fa-search site-search-icon"></i>
+      <input
+        type="text"
+        class="site-search-input"
+        id="site-search-input"
+        placeholder="Search titles..."
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Search reviews"
+      >
+      <kbd class="site-search-kbd">⌘K</kbd>
+    </div>
+    <div class="site-search-results" id="site-search-results" hidden></div>
+  </div>
+
   <!-- Auth Modal -->
   <div id="vv-auth-modal" class="modal-overlay">
     <div class="modal-content auth-modal">
@@ -724,7 +741,6 @@ function buildHomepage() {
     </div>
   </section>
 
-  ${siteSearch()}
 
   <!-- Main Layout -->
   <div class="page-layout">
@@ -1002,7 +1018,6 @@ function buildCategoryPage(name, slug, categoryReviews) {
     </div>
   </section>
 
-  ${siteSearch()}
 
   <div class="page-layout">
     ${sidebarHTML()}

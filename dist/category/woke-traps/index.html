@@ -210,6 +210,23 @@
     </div>
   </header>
 
+  <div class="site-search-bar" role="search" aria-label="Search reviews">
+    <div class="site-search-inner">
+      <i class="fas fa-search site-search-icon"></i>
+      <input
+        type="text"
+        class="site-search-input"
+        id="site-search-input"
+        placeholder="Search titles..."
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Search reviews"
+      >
+      <kbd class="site-search-kbd">⌘K</kbd>
+    </div>
+    <div class="site-search-results" id="site-search-results" hidden></div>
+  </div>
+
   <!-- Auth Modal -->
   <div id="vv-auth-modal" class="modal-overlay">
     <div class="modal-content auth-modal">
@@ -248,23 +265,6 @@
     </div>
   </section>
 
-  
-  <div class="site-search-bar" role="search">
-    <div class="site-search-inner">
-      <i class="fas fa-search site-search-icon"></i>
-      <input
-        type="text"
-        class="site-search-input"
-        id="site-search-input"
-        placeholder="Search titles..."
-        autocomplete="off"
-        spellcheck="false"
-        aria-label="Search reviews"
-      >
-      <span class="site-search-hint">Press <kbd>⌘K</kbd> anytime</span>
-    </div>
-    <div class="site-search-results" id="site-search-results" hidden></div>
-  </div>
 
   <div class="page-layout">
     
