@@ -357,7 +357,7 @@ function sidebarHTML() {
       <div class="sidebar-section">
         <h3>Follow Us</h3>
         <div class="social-links" style="justify-content:center;">
-          <a href="https://youtube.com/@virtuevigil" aria-label="YouTube" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+          <a href="https://www.youtube.com/channel/UCF3CiKkQZcFAMxu2V4tVEIw" aria-label="YouTube" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
           <a href="https://instagram.com/virtuevigil" aria-label="Instagram" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
           <a href="https://facebook.com/virtuevigil" aria-label="Facebook" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a>
           <a href="https://tiktok.com/@virtuevigil" aria-label="TikTok" target="_blank" rel="noopener"><i class="fab fa-tiktok"></i></a>
@@ -378,7 +378,7 @@ function fullFooter() {
           </div>
           <p>Values-based classification of modern film and television. Clarity before consumption.</p>
           <div class="social-links">
-            <a href="https://youtube.com/@virtuevigil" aria-label="YouTube" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.youtube.com/channel/UCF3CiKkQZcFAMxu2V4tVEIw" aria-label="YouTube" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
             <a href="https://instagram.com/virtuevigil" aria-label="Instagram" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
             <a href="https://facebook.com/virtuevigil" aria-label="Facebook" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a>
             <a href="https://tiktok.com/@virtuevigil" aria-label="TikTok" target="_blank" rel="noopener"><i class="fab fa-tiktok"></i></a>
@@ -399,7 +399,7 @@ function fullFooter() {
         </div>
         <div class="footer-col">
           <h4>Connect</h4>
-          <a href="https://youtube.com/@virtuevigil" target="_blank" rel="noopener">YouTube Channel</a>
+          <a href="https://www.youtube.com/channel/UCF3CiKkQZcFAMxu2V4tVEIw" target="_blank" rel="noopener">YouTube Channel</a>
           <a href="https://instagram.com/virtuevigil" target="_blank" rel="noopener">Instagram</a>
           <a href="https://facebook.com/virtuevigil" target="_blank" rel="noopener">Facebook Page</a>
           <a href="https://tiktok.com/@virtuevigil" target="_blank" rel="noopener">TikTok</a>
@@ -681,7 +681,7 @@ function buildHomepage() {
       "name": "VirtueVigil",
       "logo": { "@type": "ImageObject", "url": `${SITE_URL}/images/logo.svg` },
       "sameAs": [
-        "https://youtube.com/@virtuevigil",
+        "https://www.youtube.com/channel/UCF3CiKkQZcFAMxu2V4tVEIw",
         "https://instagram.com/virtuevigil",
         "https://facebook.com/virtuevigil",
         "https://tiktok.com/@virtuevigil"
@@ -1068,7 +1068,7 @@ function buildAboutPage() {
     "url": SITE_URL,
     "logo": `${SITE_URL}/images/logo.svg`,
     "sameAs": [
-      "https://youtube.com/@virtuevigil",
+      "https://www.youtube.com/channel/UCF3CiKkQZcFAMxu2V4tVEIw",
       "https://instagram.com/virtuevigil",
       "https://facebook.com/virtuevigil",
       "https://tiktok.com/@virtuevigil"
@@ -1152,7 +1152,7 @@ function buildAboutPage() {
     <h2>Connect With Us</h2>
     <p>VirtueVigil is growing across platforms. Follow us for reviews, Woke Trap alerts, and explainer content:</p>
     <div class="social-links" style="margin:20px 0;gap:16px;">
-      <a href="https://youtube.com/@virtuevigil" target="_blank" rel="noopener" style="width:auto;padding:10px 20px;font-size:0.9rem;gap:8px;display:inline-flex;"><i class="fab fa-youtube"></i> YouTube</a>
+      <a href="https://www.youtube.com/channel/UCF3CiKkQZcFAMxu2V4tVEIw" target="_blank" rel="noopener" style="width:auto;padding:10px 20px;font-size:0.9rem;gap:8px;display:inline-flex;"><i class="fab fa-youtube"></i> YouTube</a>
       <a href="https://instagram.com/virtuevigil" target="_blank" rel="noopener" style="width:auto;padding:10px 20px;font-size:0.9rem;gap:8px;display:inline-flex;"><i class="fab fa-instagram"></i> Instagram</a>
       <a href="https://facebook.com/virtuevigil" target="_blank" rel="noopener" style="width:auto;padding:10px 20px;font-size:0.9rem;gap:8px;display:inline-flex;"><i class="fab fa-facebook-f"></i> Facebook</a>
       <a href="https://tiktok.com/@virtuevigil" target="_blank" rel="noopener" style="width:auto;padding:10px 20px;font-size:0.9rem;gap:8px;display:inline-flex;"><i class="fab fa-tiktok"></i> TikTok</a>
