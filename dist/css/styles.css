@@ -1456,6 +1456,10 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
   transition: border-color 0.2s, box-shadow 0.2s, width 0.2s;
   cursor: text;
 }
+.site-search-inner:hover {
+  border-color: var(--gold);
+  box-shadow: 0 0 0 2px rgba(201,168,76,0.15), 0 4px 20px rgba(0,0,0,0.4);
+}
 .site-search-bar:focus-within .site-search-inner {
   border-color: var(--gold);
   box-shadow: 0 0 0 2px rgba(201,168,76,0.15), 0 4px 20px rgba(0,0,0,0.4);
