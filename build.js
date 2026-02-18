@@ -221,10 +221,12 @@ function siteHeader(activePage) {
       <nav class="main-nav" role="navigation" aria-label="Main navigation">
         ${navItems.map(n => `<a href="${n.href}"${n.page === activePage ? ' class="active"' : ''}>${n.label}</a>`).join('\n        ')}
         <a href="/subscribe/" class="nav-cta">Subscribe</a>
-        <button class="search-toggle" aria-label="Search reviews" title="Search">
+      </nav>
+      <div class="header-utils">
+        <button class="search-toggle" aria-label="Search reviews" title="Search (⌘K)">
           <i class="fas fa-search"></i>
         </button>
-      </nav>
+      </div>
       <div class="auth-container">
         <button id="vv-login-btn" class="btn-login">Sign In</button>
         <div id="vv-user-area" class="user-area" style="display:none;">

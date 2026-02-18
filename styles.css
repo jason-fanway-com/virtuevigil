@@ -1437,8 +1437,9 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 /* ============================================
    Search
    ============================================ */
-.search-toggle { background:none; border:none; color:var(--text-secondary); cursor:pointer; padding:8px; font-size:1rem; transition:color 0.2s; }
-.search-toggle:hover { color:var(--gold); }
+.header-utils { display:flex; align-items:center; gap:8px; margin-right:8px; }
+.search-toggle { background:none; border:1px solid var(--border); border-radius:var(--radius); color:var(--text-secondary); cursor:pointer; padding:7px 10px; font-size:0.88rem; transition:all 0.2s; display:flex; align-items:center; gap:6px; }
+.search-toggle:hover { color:var(--gold); border-color:var(--border-gold); background:rgba(201,168,76,0.06); }
 .search-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.7); z-index:1000; align-items:flex-start; justify-content:center; padding-top:80px; }
 .search-overlay.active { display:flex; }
 .search-modal { background:var(--bg-card); border:1px solid var(--border-gold); border-radius:var(--radius-lg); width:100%; max-width:620px; max-height:80vh; display:flex; flex-direction:column; overflow:hidden; box-shadow:0 8px 40px rgba(0,0,0,0.6); }

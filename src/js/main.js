@@ -102,6 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // --- Search ---
+document.addEventListener('DOMContentLoaded', function() {
 (function() {
   const searchToggle = document.querySelector('.search-toggle');
   const searchOverlay = document.querySelector('.search-overlay');
@@ -190,3 +191,4 @@ document.addEventListener('DOMContentLoaded', () => {
     searchInput.addEventListener('input', () => renderResults(searchInput.value));
   }
 })();
+}); // end DOMContentLoaded for search
