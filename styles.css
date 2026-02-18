@@ -503,6 +503,14 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 .featured-body {
   padding: 30px 36px;
 }
+.featured-body .md-table { width:100%; border-collapse:collapse; margin:16px 0; font-size:0.88rem; }
+.featured-body .md-table th, .featured-body .md-table td { padding:8px 12px; border:1px solid var(--border); text-align:left; }
+.featured-body .md-table th { background:var(--bg-secondary); color:var(--gold); font-weight:600; }
+.featured-body .md-table tr:nth-child(even) { background:var(--bg-secondary); }
+.featured-body .md-heading { color:var(--text-primary); margin:20px 0 8px; }
+.featured-body h3.md-heading { font-size:1rem; color:var(--gold); text-transform:uppercase; letter-spacing:1px; }
+.featured-body ul { padding-left:20px; margin:10px 0; }
+.featured-body ul li { margin:4px 0; color:var(--text-secondary); }
 .featured-body .section-label {
   font-family: var(--font-heading);
   font-size: 0.78rem;

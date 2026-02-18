@@ -435,8 +435,62 @@ function tropeTable(r) {
           </table>`;
 }
 
+function mdToHtml(text) {
+  if (!text) return '';
+  const lines = text.split('\n');
+  const out = [];
+  let inTable = false, inUl = false;
+  for (let i = 0; i < lines.length; i++) {
+    let line = lines[i];
+    // Skip table separator rows
+    if (/^\s*\|[\s\-:]+\|/.test(line)) { inTable = true; continue; }
+    // Table rows
+    if (/^\s*\|/.test(line)) {
+      if (!inTable) { out.push('<table class="md-table">'); inTable = true; }
+      const cells = line.split('|').filter(c => c.trim() !== '');
+      const isHeader = lines[i+1] && /^\s*\|[\s\-:]+\|/.test(lines[i+1]);
+      const tag = isHeader ? 'th' : 'td';
+      out.push('<tr>' + cells.map(c => `<${tag}>${mdInline(c.trim())}</${tag}>`).join('') + '</tr>');
+      continue;
+    }
+    if (inTable) { out.push('</table>'); inTable = false; }
+    // Headings
+    if (/^#{1,6}\s/.test(line)) {
+      const lvl = line.match(/^(#+)/)[1].length;
+      const h = Math.min(lvl + 2, 6);
+      out.push(`<h${h} class="md-heading">${mdInline(line.replace(/^#+\s*/, ''))}</h${h}>`);
+      continue;
+    }
+    // HR
+    if (/^---+$/.test(line.trim())) { out.push('<hr>'); continue; }
+    // Bullet
+    if (/^[\*\-]\s/.test(line)) {
+      if (!inUl) { out.push('<ul>'); inUl = true; }
+      out.push('<li>' + mdInline(line.replace(/^[\*\-]\s+/, '')) + '</li>');
+      continue;
+    }
+    if (inUl) { out.push('</ul>'); inUl = false; }
+    // Empty line = paragraph break
+    if (!line.trim()) { continue; }
+    out.push(`<p>${mdInline(line)}</p>`);
+  }
+  if (inTable) out.push('</table>');
+  if (inUl) out.push('</ul>');
+  return out.join('\n');
+}
+
+function mdInline(text) {
+  return text
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/`(.+?)`/g, '<code>$1</code>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+}
+
 function overallParagraphs(r) {
-  return r.summary.overall.split('\n').filter(p => p.trim()).map(p => `<p>${esc(p)}</p>`).join('\n          ');
+  return mdToHtml(r.summary.overall);
 }
 
 function spoilerAlertBanner(r) {
