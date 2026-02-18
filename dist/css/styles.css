@@ -1053,7 +1053,8 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 /* --- Responsive --- */
 @media (max-width: 1024px) {
   .page-layout { flex-direction: column; }
-  .sidebar { position: static; flex: none; width: 100%; max-height: none; }
+  .sidebar { position: static; flex: none; width: 100%; max-height: none; order: 2; }
+  .main-content { order: 1; }
   .hero-inner { flex-direction: column; text-align: center; }
   .hero-content .subtitle { margin-left: auto; margin-right: auto; }
   .hero-image { flex: none !important; width: 100%; max-width: 560px; }
@@ -1063,6 +1064,8 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 }
 @media (max-width: 768px) {
   :root { --sidebar-width: 100%; --header-height: 60px; }
+  .logo-text .tagline { display: none; }
+  .top-banner { font-size: 0.75rem; padding: 5px 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .nav-toggle { display: block; }
   .main-nav {
     display: none;
