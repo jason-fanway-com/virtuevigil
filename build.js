@@ -190,6 +190,26 @@ function htmlHead({ title, description, keywords, canonical, ogType, ogImage, st
 </head>`;
 }
 
+function siteSearch() {
+  return `
+  <div class="site-search-bar" role="search">
+    <div class="site-search-inner">
+      <i class="fas fa-search site-search-icon"></i>
+      <input
+        type="text"
+        class="site-search-input"
+        id="site-search-input"
+        placeholder="Search titles..."
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Search reviews"
+      >
+      <span class="site-search-hint">Press <kbd>⌘K</kbd> anytime</span>
+    </div>
+    <div class="site-search-results" id="site-search-results" hidden></div>
+  </div>`;
+}
+
 function topBanner() {
   return `
   <div class="top-banner">
@@ -222,11 +242,6 @@ function siteHeader(activePage) {
         ${navItems.map(n => `<a href="${n.href}"${n.page === activePage ? ' class="active"' : ''}>${n.label}</a>`).join('\n        ')}
         <a href="/subscribe/" class="nav-cta">Subscribe</a>
       </nav>
-      <div class="header-utils">
-        <button class="search-toggle" aria-label="Search reviews" title="Search (⌘K)">
-          <i class="fas fa-search"></i>
-        </button>
-      </div>
       <div class="auth-container">
         <button id="vv-login-btn" class="btn-login">Sign In</button>
         <div id="vv-user-area" class="user-area" style="display:none;">
@@ -849,6 +864,7 @@ function buildReviewPage(r) {
 <body>
   ${topBanner()}
   ${siteHeader('index')}
+  ${siteSearch()}
 
   <div class="page-layout">
     ${sidebarHTML()}

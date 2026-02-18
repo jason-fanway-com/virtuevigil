@@ -104,11 +104,8 @@ document.addEventListener('DOMContentLoaded', () => {
 // --- Search ---
 document.addEventListener('DOMContentLoaded', function() {
 (function() {
-  const searchToggle = document.querySelector('.search-toggle');
-  const searchOverlay = document.querySelector('.search-overlay');
-  const searchInput = searchOverlay && searchOverlay.querySelector('.search-input');
-  const searchResults = searchOverlay && document.getElementById('search-results');
-  const searchClose = searchOverlay && searchOverlay.querySelector('.search-close');
+  const searchInput = document.getElementById('site-search-input');
+  const searchResults = document.getElementById('site-search-results');
   let searchIndex = null;
 
   function loadIndex() {
@@ -125,12 +122,11 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function renderResults(query) {
-    if (!searchIndex) return;
+    if (!searchResults) return;
     const q = query.toLowerCase().trim();
-    if (!q) {
-      searchResults.innerHTML = '<p class="search-hint">Start typing to search all reviews...</p>';
-      return;
-    }
+    if (!q) { searchResults.hidden = true; searchResults.innerHTML = ''; return; }
+    if (!searchIndex) return;
+
     const matches = searchIndex.filter(r =>
       r.title.toLowerCase().includes(q) ||
       (r.verdict && r.verdict.toLowerCase().includes(q)) ||
@@ -139,56 +135,46 @@ document.addEventListener('DOMContentLoaded', function() {
       (r.type && r.type.toLowerCase().includes(q))
     ).slice(0, 8);
 
+    searchResults.hidden = false;
     if (!matches.length) {
-      searchResults.innerHTML = '<p class="search-no-results">No reviews found. Try a different search.</p>';
+      searchResults.innerHTML = '<p class="site-search-noresults">No reviews found for "' + query + '"</p>';
       return;
     }
 
     searchResults.innerHTML = matches.map(r => {
       const vc = verdictClass(r.verdict);
       const posterHtml = r.poster
-        ? `<img src="${r.poster}" alt="${r.title}" class="search-result-poster">`
-        : `<div class="search-result-poster search-poster-placeholder">${r.title.charAt(0)}</div>`;
-      return `<a href="/reviews/${r.slug}/" class="search-result-item">
+        ? `<img src="${r.poster}" alt="${r.title}" class="site-search-result-poster">`
+        : `<div class="site-search-poster-placeholder">${r.title.charAt(0)}</div>`;
+      return `<a href="/reviews/${r.slug}/" class="site-search-result-item">
         ${posterHtml}
         <div class="search-result-info">
-          <div class="search-result-title">${r.title}</div>
-          <div class="search-result-meta">${r.year} &middot; ${r.platform}</div>
-          <span class="verdict-badge ${vc} search-verdict">${r.verdict}</span>
+          <div class="site-search-result-title">${r.title}</div>
+          <div class="site-search-result-meta">${r.year} &middot; ${r.platform}</div>
+          <span class="verdict-badge ${vc}" style="font-size:0.7rem;padding:2px 8px;">${r.verdict}</span>
         </div>
       </a>`;
     }).join('');
   }
 
-  if (searchToggle) {
-    searchToggle.addEventListener('click', () => {
-      searchOverlay.classList.add('active');
-      loadIndex().then(() => {
-        searchInput && searchInput.focus();
-      });
+  if (searchInput) {
+    searchInput.addEventListener('focus', () => {
+      loadIndex();
     });
-  }
-
-  if (searchClose) {
-    searchClose.addEventListener('click', () => searchOverlay.classList.remove('active'));
-  }
-
-  if (searchOverlay) {
-    searchOverlay.addEventListener('click', e => {
-      if (e.target === searchOverlay) searchOverlay.classList.remove('active');
-    });
-    document.addEventListener('keydown', e => {
-      if (e.key === 'Escape') searchOverlay.classList.remove('active');
-      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-        e.preventDefault();
-        searchOverlay.classList.add('active');
-        loadIndex().then(() => searchInput && searchInput.focus());
+    searchInput.addEventListener('input', () => renderResults(searchInput.value));
+    document.addEventListener('click', e => {
+      if (!e.target.closest('.site-search-bar')) {
+        if (searchResults) { searchResults.hidden = true; }
       }
     });
-  }
-
-  if (searchInput) {
-    searchInput.addEventListener('input', () => renderResults(searchInput.value));
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && searchResults) { searchResults.hidden = true; searchInput.blur(); }
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        searchInput.focus();
+        loadIndex();
+      }
+    });
   }
 })();
 }); // end DOMContentLoaded for search
