@@ -120,6 +120,9 @@
         <a href="/methodology.html">Methodology</a>
         <a href="/about.html">About</a>
         <a href="/subscribe/" class="nav-cta">Subscribe</a>
+        <button class="search-toggle" aria-label="Search reviews" title="Search">
+          <i class="fas fa-search"></i>
+        </button>
       </nav>
       <div class="auth-container">
         <button id="vv-login-btn" class="btn-login">Sign In</button>
@@ -506,6 +509,18 @@
       </div>
     </div>
   </footer>
+<div class="search-overlay" id="search-overlay">
+  <div class="search-modal">
+    <div class="search-header">
+      <i class="fas fa-search search-icon-sm"></i>
+      <input type="text" class="search-input" placeholder="Search reviews... (e.g. 'woke', 'horror', 'Netflix')" autocomplete="off" spellcheck="false">
+      <button class="search-close"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="search-results" id="search-results">
+      <p class="search-hint">Start typing to search all reviews...</p>
+    </div>
+  </div>
+</div>
   <script src="/js/main.js"></script>
   <script src="/js/supabase-config.js"></script>
   <script src="/js/auth.js"></script>

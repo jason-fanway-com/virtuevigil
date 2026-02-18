@@ -71,12 +71,28 @@ function posterHTML(r, size) {
   return `<div class="poster-placeholder"><span class="poster-initial">${initial}</span></div>`;
 }
 
+function searchOverlayHTML() {
+  return `<div class="search-overlay" id="search-overlay">
+  <div class="search-modal">
+    <div class="search-header">
+      <i class="fas fa-search search-icon-sm"></i>
+      <input type="text" class="search-input" placeholder="Search reviews... (e.g. 'woke', 'horror', 'Netflix')" autocomplete="off" spellcheck="false">
+      <button class="search-close"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="search-results" id="search-results">
+      <p class="search-hint">Start typing to search all reviews...</p>
+    </div>
+  </div>
+</div>`;
+}
+
 function pageScripts(extras) {
+  const overlay = searchOverlayHTML();
   const base = `  <script src="/js/main.js"></script>
   <script src="/js/supabase-config.js"></script>
   <script src="/js/auth.js"></script>`;
-  if (!extras) return base;
-  return base + '\n' + extras.map(s => `  <script src="${s}"></script>`).join('\n');
+  if (!extras) return overlay + '\n' + base;
+  return overlay + '\n' + base + '\n' + extras.map(s => `  <script src="${s}"></script>`).join('\n');
 }
 
 function mkdirp(dir) {
@@ -205,6 +221,9 @@ function siteHeader(activePage) {
       <nav class="main-nav" role="navigation" aria-label="Main navigation">
         ${navItems.map(n => `<a href="${n.href}"${n.page === activePage ? ' class="active"' : ''}>${n.label}</a>`).join('\n        ')}
         <a href="/subscribe/" class="nav-cta">Subscribe</a>
+        <button class="search-toggle" aria-label="Search reviews" title="Search">
+          <i class="fas fa-search"></i>
+        </button>
       </nav>
       <div class="auth-container">
         <button id="vv-login-btn" class="btn-login">Sign In</button>
@@ -1629,6 +1648,25 @@ function build() {
       writePage(`category/${slug}/index.html`, buildCategoryPage(name, slug, catRevs));
     }
   });
+
+  // --- Search Index ---
+  console.log('\nGenerating search index:');
+  const searchIndex = reviews.map(r => ({
+    slug: r.slug,
+    title: r.title,
+    verdict: r.verdict,
+    platform: r.platform,
+    genre: r.genre,
+    year: r.year,
+    type: r.type,
+    wokeScore: r.wokeScore,
+    tradScore: r.tradScore,
+    poster: r.poster || null,
+  }));
+  const searchIndexJson = JSON.stringify(searchIndex, null, 2);
+  fs.writeFileSync(path.join(DIST, 'search-index.json'), searchIndexJson);
+  fs.writeFileSync(path.join(SRC, 'data', 'search-index.json'), searchIndexJson);
+  console.log(`  search-index.json (${searchIndex.length} entries)`);
 
   // --- SEO files ---
   console.log('\nGenerating SEO files:');

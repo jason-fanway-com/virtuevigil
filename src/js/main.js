@@ -98,20 +98,95 @@ document.addEventListener('DOMContentLoaded', () => {
     lastScroll = currentScroll;
   }, { passive: true });
 
-  // --- Search overlay (basic) ---
+  console.log('VirtueVigil initialized.');
+});
+
+// --- Search ---
+(function() {
   const searchToggle = document.querySelector('.search-toggle');
   const searchOverlay = document.querySelector('.search-overlay');
-  if (searchToggle && searchOverlay) {
+  const searchInput = searchOverlay && searchOverlay.querySelector('.search-input');
+  const searchResults = searchOverlay && document.getElementById('search-results');
+  const searchClose = searchOverlay && searchOverlay.querySelector('.search-close');
+  let searchIndex = null;
+
+  function loadIndex() {
+    if (searchIndex) return Promise.resolve();
+    return fetch('/search-index.json').then(r => r.json()).then(data => { searchIndex = data; });
+  }
+
+  function verdictClass(v) {
+    if (!v) return 'mixed';
+    const lv = v.toUpperCase();
+    if (lv.includes('WOKE')) return 'woke';
+    if (lv.includes('TRADITIONAL')) return 'traditional';
+    return 'mixed';
+  }
+
+  function renderResults(query) {
+    if (!searchIndex) return;
+    const q = query.toLowerCase().trim();
+    if (!q) {
+      searchResults.innerHTML = '<p class="search-hint">Start typing to search all reviews...</p>';
+      return;
+    }
+    const matches = searchIndex.filter(r =>
+      r.title.toLowerCase().includes(q) ||
+      (r.verdict && r.verdict.toLowerCase().includes(q)) ||
+      (r.platform && r.platform.toLowerCase().includes(q)) ||
+      (r.genre && r.genre.toLowerCase().includes(q)) ||
+      (r.type && r.type.toLowerCase().includes(q))
+    ).slice(0, 8);
+
+    if (!matches.length) {
+      searchResults.innerHTML = '<p class="search-no-results">No reviews found. Try a different search.</p>';
+      return;
+    }
+
+    searchResults.innerHTML = matches.map(r => {
+      const vc = verdictClass(r.verdict);
+      const posterHtml = r.poster
+        ? `<img src="${r.poster}" alt="${r.title}" class="search-result-poster">`
+        : `<div class="search-result-poster search-poster-placeholder">${r.title.charAt(0)}</div>`;
+      return `<a href="/reviews/${r.slug}/" class="search-result-item">
+        ${posterHtml}
+        <div class="search-result-info">
+          <div class="search-result-title">${r.title}</div>
+          <div class="search-result-meta">${r.year} &middot; ${r.platform}</div>
+          <span class="verdict-badge ${vc} search-verdict">${r.verdict}</span>
+        </div>
+      </a>`;
+    }).join('');
+  }
+
+  if (searchToggle) {
     searchToggle.addEventListener('click', () => {
-      searchOverlay.classList.toggle('active');
-      if (searchOverlay.classList.contains('active')) {
-        searchOverlay.querySelector('input')?.focus();
-      }
-    });
-    searchOverlay.addEventListener('click', (e) => {
-      if (e.target === searchOverlay) searchOverlay.classList.remove('active');
+      searchOverlay.classList.add('active');
+      loadIndex().then(() => {
+        searchInput && searchInput.focus();
+      });
     });
   }
 
-  console.log('VirtueVigil initialized.');
-});
+  if (searchClose) {
+    searchClose.addEventListener('click', () => searchOverlay.classList.remove('active'));
+  }
+
+  if (searchOverlay) {
+    searchOverlay.addEventListener('click', e => {
+      if (e.target === searchOverlay) searchOverlay.classList.remove('active');
+    });
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') searchOverlay.classList.remove('active');
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        searchOverlay.classList.add('active');
+        loadIndex().then(() => searchInput && searchInput.focus());
+      }
+    });
+  }
+
+  if (searchInput) {
+    searchInput.addEventListener('input', () => renderResults(searchInput.value));
+  }
+})();
