@@ -425,8 +425,20 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 .featured-header .review-subtitle {
   color: var(--text-secondary);
   font-size: 1rem;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
 }
+.review-scroll-cue {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  color: var(--gold);
+  text-decoration: none;
+  margin-bottom: 16px;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+.review-scroll-cue:hover { opacity: 1; }
 .featured-meta {
   display: flex;
   flex-wrap: wrap;
