@@ -1079,9 +1079,10 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
     box-shadow: var(--shadow);
   }
   .main-nav.open { display: flex; }
-  .hero { padding: 40px 0 30px; }
+  .hero { padding: 120px 0 30px; }
   .hero-image { max-width: 100% !important; }
   .hero-content h1 { font-size: 1.8rem; }
+  .site-search-bar { right: 12px; width: 200px; }
   .featured-header { padding: 30px 20px 24px; }
   .featured-header .review-title { font-size: 1.5rem; }
   .featured-header-layout { flex-direction: column-reverse; gap: 16px; }
