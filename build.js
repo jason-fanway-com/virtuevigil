@@ -724,6 +724,8 @@ function buildHomepage() {
     </div>
   </section>
 
+  ${siteSearch()}
+
   <!-- Main Layout -->
   <div class="page-layout">
     ${sidebarHTML()}
@@ -864,7 +866,6 @@ function buildReviewPage(r) {
 <body>
   ${topBanner()}
   ${siteHeader('index')}
-  ${siteSearch()}
 
   <div class="page-layout">
     ${sidebarHTML()}
@@ -1000,6 +1001,8 @@ function buildCategoryPage(name, slug, categoryReviews) {
       <p>${categoryReviews.length} review${categoryReviews.length !== 1 ? 's' : ''} in this category.</p>
     </div>
   </section>
+
+  ${siteSearch()}
 
   <div class="page-layout">
     ${sidebarHTML()}
