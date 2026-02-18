@@ -408,7 +408,8 @@ function fullFooter() {
       </div>
       <div class="footer-bottom">
         <p>&copy; ${new Date().getFullYear()} VirtueVigil. All rights reserved. Guarding Values. Exposing Agendas.</p>
-        <p><a href="#">Privacy Policy</a> &middot; <a href="#">Terms of Use</a></p>
+        <p><a href="/privacy-policy">Privacy Policy</a> &middot; <a href="/terms-of-use">Terms of Use</a></p>
+        <p style="margin-top:8px;"><a href="https://fazier.com" target="_blank" rel="noopener" style="opacity:0.5;font-size:0.72rem;color:inherit;">Featured on Fazier</a></p>
       </div>
     </div>
   </footer>`;
