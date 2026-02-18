@@ -11,7 +11,7 @@ const path = require('path');
 
 // === Config ===
 const SITE_URL = 'https://virtuevigil.com';
-const BUILD_VERSION = 'v1.7.0';
+const BUILD_VERSION = 'v1.7.1';
 const SRC = path.join(__dirname, 'src');
 const DIST = path.join(__dirname, 'dist');
 
@@ -88,9 +88,9 @@ function searchOverlayHTML() {
 
 function pageScripts(extras) {
   const overlay = searchOverlayHTML();
-  const base = `  <script src="/js/main.js"></script>
-  <script src="/js/supabase-config.js"></script>
-  <script src="/js/auth.js"></script>`;
+  const base = `  <script src="/js/main.js?v=${BUILD_VERSION}"></script>
+  <script src="/js/supabase-config.js?v=${BUILD_VERSION}"></script>
+  <script src="/js/auth.js?v=${BUILD_VERSION}"></script>`;
   if (!extras) return overlay + '\n' + base;
   return overlay + '\n' + base + '\n' + extras.map(s => `  <script src="${s}"></script>`).join('\n');
 }
@@ -178,7 +178,7 @@ function htmlHead({ title, description, keywords, canonical, ogType, ogImage, st
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/styles.css?v=${BUILD_VERSION}">
   <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
   ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
 
