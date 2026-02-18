@@ -1708,6 +1708,7 @@ function build() {
   console.log('\nGenerating SEO files:');
   writePage('sitemap.xml', buildSitemap(catMap));
   writePage('robots.txt', buildRobotsTxt());
+  writePage('google83e3dd426b7b57d1.html', 'google-site-verification: google83e3dd426b7b57d1.html');
 
   // --- Copy static assets ---
   console.log('\nCopying assets:');
