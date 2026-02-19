@@ -1,5 +1,230 @@
 [
   {
+    "id": "marty-supreme-2025",
+    "slug": "marty-supreme-2025",
+    "title": "Marty Supreme",
+    "year": 2025,
+    "type": "film",
+    "platform": "Theatrical (A24 / Central Pictures)",
+    "genre": "Drama",
+    "date": "2026-02-19",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "20 min",
+    "poster": "/images/posters/marty-supreme-2025.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 4,
+    "tradScore": 7,
+    "authIndex": 63,
+    "scoreMargin": "+3 TRAD",
+    "wokeTrap": {
+      "present": true,
+      "degree": "partial",
+      "explanation": "The marketing presents this as a conventional prestige sports drama. A driven young man, a dream nobody respects, an era of big American ambition. The trailer looks like Whiplash crossed with Goodfellas. What you actually get is a Safdie portrait of a man whose greatness is inseparable from his selfishness, a hustler who robs his uncle at gunpoint, manipulates multiple women simultaneously, steals jewelry from a woman who helped him, and treats every human relationship as a resource to extract. The film admires Marty's drive while showing the real cost it extracts from everyone in his orbit. Conservative viewers expecting a clean underdog triumph will find something considerably more morally complicated.",
+      "viewerSentiment": "Audiences expecting a traditional sports underdog story will find a thornier portrait of masculine ambition. The film is not anti-masculine but it refuses to sanitize the damage that single-minded drive inflicts on people who love you."
+    },
+    "woke_trap_assessment": {
+      "is_trap": true,
+      "explanation": "Partial woke trap. Not political in the progressive sense, but the film's moral architecture is more complex than the marketing suggests. Critics describe it as 'a nightmare version of the American dream.' Safdie is not making a conventional sports hero story. He is making a portrait of obsession that illuminates the 1950s masculine ideal by depicting its costs as well as its glories."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Josh Safdie",
+        "ideology": "NEUTRAL (morally complex, apolitical)",
+        "profile": "One of contemporary cinema's most vital voices, working with brother Benny since Daddy Longlegs (2009). Their partnership produced Good Time (2017) and Uncut Gems (2019), two of the decade's defining American films about driven, self-destructive men in chaotic environments. Marty Supreme is Josh's first solo directorial effort in almost 20 years. The Safdies are not political filmmakers. They are interested in men who want things too badly, in the specific texture of American ambition, and in the way New York City both enables and destroys its most ferocious strivers. No progressive agenda. No conservative agenda. An unflinching eye for human contradiction."
+      },
+      "writer": {
+        "name": "Josh Safdie & Ronald Bronstein",
+        "profile": "Safdie and Bronstein have collaborated on every major Safdie project. Bronstein is both creative partner and editor, and his contributions to the screenplay structure are inseparable from Safdie's. The script is based on Marty Reisman's 1974 memoir 'The Money Player.' Safdie was given the memoir in 2018 and immediately saw the central contradiction that drives the film: a man who could have been the greatest at something the world does not care about. The screenplay takes significant liberties with the memoir but preserves its essential truth about Reisman's character."
+      },
+      "lead_producer": {
+        "name": "Josh Safdie, Ronald Bronstein & Eli Bush",
+        "company": "Central Pictures"
+      },
+      "composer": {
+        "name": "Daniel Lopatin (Oneohtrix Point Never)"
+      },
+      "top_cast": [
+        {
+          "name": "Timothee Chalamet",
+          "role": "Marty Mauser"
+        },
+        {
+          "name": "Gwyneth Paltrow",
+          "role": "Kay Stone"
+        },
+        {
+          "name": "Odessa A'zion",
+          "role": "Rachel Mizler"
+        },
+        {
+          "name": "Kevin O'Leary",
+          "role": "Milton Rockwell"
+        },
+        {
+          "name": "Tyler Okonma",
+          "role": "Dion"
+        }
+      ],
+      "prediction": {
+        "verdict": "MIXED (slight traditional lean)",
+        "confidence": "high"
+      },
+      "producers": [
+        {
+          "name": "Josh Safdie, Ronald Bronstein & Eli Bush",
+          "company": "Central Pictures",
+          "profile": "The Safdie creative unit. Eli Bush has produced every major Safdie project. Central Pictures is their production vehicle. Total creative control. No external ideological pressure on the content."
+        },
+        {
+          "name": "Anthony Katagas",
+          "company": "Independent",
+          "profile": "Longtime Safdie collaborator. Executive produced Uncut Gems. No independent ideological signal."
+        },
+        {
+          "name": "Timothee Chalamet",
+          "company": "Independent",
+          "profile": "Chalamet co-produced the film in addition to starring in it. His involvement signals genuine creative investment. He trained extensively in table tennis for the role and has spoken about the character's Jewish New York working-class milieu with evident affection."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Timothee Chalamet",
+          "role": "Marty Mauser"
+        },
+        {
+          "name": "Gwyneth Paltrow",
+          "role": "Kay Stone"
+        },
+        {
+          "name": "Odessa A'zion",
+          "role": "Rachel Mizler"
+        },
+        {
+          "name": "Kevin O'Leary",
+          "role": "Milton Rockwell"
+        },
+        {
+          "name": "Tyler Okonma",
+          "role": "Dion"
+        },
+        {
+          "name": "Abel Ferrara",
+          "role": "Ezra Mishkin"
+        },
+        {
+          "name": "Fran Drescher",
+          "role": "Bela Kletzki's manager"
+        },
+        {
+          "name": "Larry Ratso Sloman",
+          "role": "Murray"
+        },
+        {
+          "name": "Lukas Gage",
+          "role": "Wally"
+        },
+        {
+          "name": "Mike Faist",
+          "role": "Lloyd"
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "FAITHFUL",
+      "summary": "Marty Supreme is loosely based on the memoir of Marty Reisman, a Jewish American table tennis champion from New York. The film's casting is appropriate and consistent with the source material's milieu. No race-swapping, no anachronistic diversity insertions, no ideological casting interference. Timothee Chalamet is an inspired choice to play the real Reisman's combination of physical elegance and moral recklessness.",
+      "detailed_analysis": "Marty Reisman (1927-2012) was a Jewish American from the Lower East Side of Manhattan, known as 'The Needle' for his defensive style. The film fictionalizes his name as Marty Mauser and takes significant liberties with his life story, but the milieu (Lower East Side Jewish working-class New York of the early 1950s) is faithfully reproduced. Timothee Chalamet (French-American) brings the right physical elegance and nervous energy for the character. His Jewish American identity is not emphasized racially but culturally through dialogue, community, and setting. The supporting cast populates a recognizable Jewish New York of the period without ideological distortion. Kevin O'Leary (Shark Tank's 'Mr. Wonderful') as the pen magnate Milton Rockwell is an inspired piece of casting that brings genuine capitalist menace. Gwyneth Paltrow as faded actress Kay Stone plays against her contemporary reputation effectively. No significant fidelity concerns."
+    },
+    "summary": {
+      "overall": "A spoiler warning is necessary here: Marty Supreme is not the movie its marketing suggests it is. If you are expecting a conventional sports underdog triumph, a Rocky for ping pong, you will be blindsided by what Josh Safdie has actually made. This is a portrait of a man eating himself alive in pursuit of a dream that the world has decided does not matter. It is extraordinary cinema. It is also a profoundly unsettling experience that does not resolve in the way you expect.\n\nMarty Mauser (Timothee Chalamet) works in his uncle Murray's shoe shop in 1952 New York City. He is also, by any objective measure, the second-best table tennis player in the world. He wants to be the best. He wants to make ping pong matter in America. He wants his name on merchandise. He wants people to care. The film opens on this gap between what Marty is and what the world is willing to see him as, and it lives in that gap for 150 minutes.\n\nChalamet is astonishing. He trained rigorously for the role and the table tennis sequences are filmed with the same kinetic intensity Safdie brought to Uncut Gems, but it is the performance between the matches that earns the film its Oscar nominations. Marty is charismatic and impossible. He lights up every room he enters and treats every person in it as a resource to be extracted. He robs his uncle at gunpoint to fund his London trip. He carries on a long affair with his married childhood friend Rachel while pursuing other women with the same focus he brings to ping pong. He steals jewelry from a woman who helped him. He assaults a man on second-hand information. The film asks you to love this person and to see, clearly and without filter, what he costs the people who love him.\n\nThis is not a new project for Safdie. Howard Ratner in Uncut Gems is a template for this kind of protagonist: the American striver whose gifts and compulsions are the same thing. But Marty Supreme is a more melancholy film than Uncut Gems precisely because it is set in an era of American ascendancy. The 1950s are not chosen accidentally. This is the America of the great masculine dream, of hustle and ambition and the belief that talent plus relentlessness equals success. Marty has talent. He has relentlessness. And the world still will not give him what he wants, because table tennis is not baseball, and Marty is Jewish, and the Harlem Globetrotters tour wants him as a novelty act, not a champion.\n\nDarius Khondji's 35mm cinematography is among the most beautiful work in recent American cinema. The London sequences feel like a different kind of film, shot with the cool elegance of a 1950s British picture. The New York material is grainier, warmer, more chaotic. Jack Fisk's production design is meticulous without being suffocating. Daniel Lopatin's score weaves jazz idioms with electronic unease in a way that underlines the film's central thesis: this is a period piece that does not romanticize its period.\n\nGwyneth Paltrow gives the film's best supporting performance as Kay Stone, a former actress whose career has been financed and diminished by her wealthy husband. Her scenes with Chalamet have an erotic charge that is partly about attraction and partly about two people who recognize in each other the same particular hunger for attention and respect. When she gives Marty a valuable necklace from her own collection to pay his fine, it is one of those movie moments that carries multiple meanings simultaneously. It is an act of genuine generosity. It is also a transaction. The film understands both things at once.\n\nOdessa A'zion as Rachel is the film's most sympathetic character and its most damaged. Rachel loves Marty with the specific exhausting love of someone who knows exactly who they are dealing with and cannot stop anyway. The scene where Marty discovers she faked her injury to manipulate him is devastating not because of what Marty does, which is to walk out, but because of what Rachel does next. She tells her husband the baby is not Marty's. Ira throws her out. Rachel made her choice and paid for it. The film treats this consequence as real.\n\nThe antisemitism subplot, represented by an unnamed farmer who has taken in Marty's charge (a dog named Moses), is handled without the heavy hand you might expect. The farmer is overtly antisemitic. The film does not editorialize or underline the scene. It just shows what it was like to be Jewish in rural 1950s America and moves on. This restraint is characteristic of Safdie's moral approach throughout.\n\nThe match against Koto Endo, the deaf Japanese champion using the new sponge racket, is the film's fulcrum. Marty loses. He loses because Endo is playing a different game than the one Marty has mastered, and the film uses this to articulate something true about talent and time: you can be the best at what you do and still be made obsolete by someone who figured out a better way to do it. The sponge racket is presented as an innovation that invalidated decades of technique. Marty's genius is real. His era is ending before it began.\n\nThe refusal to throw the Tokyo exhibition match is Marty's most admirable moment and the film frames it clearly as admirable. Milton Rockwell tells him he is already a vaudeville performer. Marty rejects this framing, refuses the money, and loses the exhibition along with the financial support. This is the film's clearest articulation of traditional masculine honor: the refusal to perform falseness for money even when the honest path costs you everything. It is also the decision that costs him the most.\n\nThe ending does not provide the catharsis that conventional sports narratives promise. Whether Marty achieves the championship, what he sacrifices to get there, and what it means to win something that the world still will not care about is left with a deliberate ambiguity that will frustrate audiences expecting a triumph. This is intentional. Safdie is not interested in the moment of victory. He is interested in what it costs to want victory this badly for this long.\n\nConservative viewers will find in Marty Supreme something genuine to engage with. The film treats masculine ambition as real and admirable even while showing its costs. Marty refuses to compromise his integrity in the one area where it matters to him. The period detail is impeccable. The 1950s setting is neither nostalgic nor condemnatory. It is treated as a historical environment with its specific virtues and limitations. The film takes seriously the idea that wanting to be the best at something is a legitimate purpose for a life even if the world does not agree. That is not a progressive value. It is an ancient one.",
+      "adultInsight": "Marty Supreme is not a comfortable film and it is not trying to be. Conservative adult viewers who approach it expecting a conventional sports hero narrative will be adjusting their expectations by the end of the first act. Safdie is not interested in heroes. He is interested in people who burn with specific intensity and what that burning costs.\n\nWhat the film gets right about masculine ambition is more interesting than what it gets wrong. Marty's refusal to throw the Tokyo exhibition is framed without irony as the correct choice. His grinding poverty while pursuing excellence is treated with dignity rather than as evidence of systemic failure. The Jewish New York milieu is depicted with affection and specificity. The film respects its 1950s setting without either romanticizing or condemning it.\n\nWhat the film critiques is not masculine ambition per se but the specific way Marty allows that ambition to hollow out his relationships with everyone who loves him. Rachel, Murray, Dion, Wally: the film shows what Marty's focus costs each of them without turning this into a progressive sermon. The cost is presented as real and as Marty's responsibility. That is a traditional moral framework operating under a complicated exterior.\n\nThe film is a legitimate contender for the best American film of the year. Chalamet's Golden Globe win is deserved. See it for the craft and be prepared for a film that does not give you what you think you want. That is what the best films do.",
+      "parentalGuidance": "Marty Supreme is rated R. The content is consistent with Safdie's previous films.\n\nViolence: Moderate. Marty threatens a coworker at gunpoint (the gunpoint scene is tense and disturbing even without discharge). He assaults a man in an impulsive rage. A gas station is set on fire during a chaotic escape sequence. The violence is realistic rather than glamorized.\n\nSexual Content: Moderate. Marty's affair with Rachel is depicted with some physical intimacy. His seduction of Kay Stone in London is suggested rather than explicit. The film does not exploit sexuality.\n\nLanguage: Strong throughout, consistent with period New York slang and Safdie's characteristic dialogue style.\n\nAntisemitism: Depicted without apology in the farming sequence. This is historically accurate and handled with restraint, but parents should be prepared to discuss the historical context.\n\nSubstance Use: Period-appropriate drinking. No significant drug content.\n\nLength and Pace: 150 minutes with a demanding pace. Not suitable for children or viewers who need conventional narrative resolution.\n\nAge Recommendation: Not appropriate for viewers under 15. For mature teenagers, this is an excellent conversation starter about the relationship between ambition and responsibility, the difference between integrity in one area and character across a whole life, and what the specific texture of American opportunity looked like in the 1950s."
+    },
+    "tropeAudit": [
+      {
+        "trope": "The Flawed Masculine Ideal",
+        "id": "WOKE-019m",
+        "category": "WOKE",
+        "location": "Throughout \u2014 the film uses the 1950s setting to examine what the masculine dream actually cost the people living inside it; 'nightmare version of the American dream' per critical consensus",
+        "authenticity": "Mixed. The critique of masculine obsession as destructive to relationships is present but not preachy. Safdie does not lecture. He shows."
+      },
+      {
+        "trope": "Antisemitism as Historical Indictment",
+        "id": "WOKE-020",
+        "category": "WOKE",
+        "location": "Farming sequence \u2014 unnamed antisemitic farmer depicted without editorial comment; represents the routine hostility Jewish Americans faced outside urban centers",
+        "authenticity": "Authentic. The scene is historically grounded and handled with restraint. The antisemitism is shown as real, not amplified for modern effect."
+      },
+      {
+        "trope": "Structural Critique (Sports as Class Metaphor)",
+        "id": "WOKE-012",
+        "category": "WOKE",
+        "location": "Throughout \u2014 Marty's exclusion from mainstream American sports culture linked to his class background, ethnicity, and the institutionalized preference for more 'American' sports",
+        "authenticity": "Mixed. The structural disadvantages Marty faces are historically real. The film's framing as class critique is the modern editorial addition to Reisman's memoir."
+      },
+      {
+        "trope": "Female Manipulation Framing",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "location": "Rachel's faked injury \u2014 the woman who loves Marty fakes domestic abuse to get his attention; but crucially, the film shows this as her genuine desperation, not villainy",
+        "authenticity": "Mixed. Rachel's deception is shown in full context of Marty's neglect. The film does not simplify the moral calculus."
+      },
+      {
+        "trope": "Industry and Perseverance",
+        "id": "TRADITIONAL-041",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 Marty practices obsessively, travels to London despite having no money, hustles at bowling alleys to pay fines, refuses to stop",
+        "authenticity": "Authentic. His commitment to his craft is absolute and the film treats this commitment with genuine admiration despite showing its costs."
+      },
+      {
+        "trope": "Masculine Honor Code",
+        "id": "TRADITIONAL-028",
+        "category": "TRADITIONAL",
+        "location": "Tokyo refusal \u2014 Marty declines Rockwell's offer to throw the exhibition match; loses the financial backing but keeps the one thing that matters to him: the integrity of his performance",
+        "authenticity": "Authentic. The clearest traditional value in the film. 'I will not pretend to be less than I am for money' is expressed without irony and treated as admirable."
+      },
+      {
+        "trope": "Period Craftsmanship",
+        "id": "TRADITIONAL-039",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 35mm cinematography, Jack Fisk production design, period-accurate New York and London settings; commitment to practical filmmaking over digital convenience",
+        "authenticity": "Authentic. Khondji's 35mm work is among the year's finest. The period is treated with respect for its specific texture."
+      },
+      {
+        "trope": "Consequences of Selfishness",
+        "id": "TRADITIONAL-033",
+        "category": "TRADITIONAL",
+        "location": "Rachel's arc; Murray's betrayal; Dion's discarded novelty balls \u2014 every person Marty uses for resources is shown paying a real price; the costs are not hidden",
+        "authenticity": "Authentic. Safdie does not let Marty's charm excuse his behavior. Every piece of collateral damage is made visible."
+      },
+      {
+        "trope": "American Ambition Honored",
+        "id": "TRADITIONAL-044",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 the film takes seriously that wanting to be the best in the world at something is a worthy purpose; never condescends to Marty's dream",
+        "authenticity": "Authentic. The film treats ping pong mastery as intrinsically valuable regardless of commercial recognition. This is a traditional understanding of excellence."
+      },
+      {
+        "trope": "Working-Class Milieu Respected",
+        "id": "TRADITIONAL-035",
+        "category": "TRADITIONAL",
+        "location": "Lower East Side New York setting, shoe shop, run-down hotels, hustling for bus fare \u2014 the working-class Jewish New York world is depicted with specificity and affection",
+        "authenticity": "Authentic. Based on Reisman's actual background. The film does not condescend to its characters for being poor or for working in unglamorous settings."
+      },
+      {
+        "trope": "The Cost of Obsession",
+        "id": "TRADITIONAL-027",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 Rachel leaves, Murray is robbed, Dion discards the novelty balls; the film presents obsession as genuinely admirable and genuinely destructive simultaneously",
+        "authenticity": "Authentic. This is the oldest theme in sports cinema and literature. Great talent exacts great cost. The film does not simplify either side."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Marty Supreme Woke? Josh Safdie Film Review | VirtueVigil",
+      "metaDescription": "Is Marty Supreme (2025) woke? VirtueVigil's verdict: MIXED (+3 Traditional). Safdie's portrait of a 1950s ping pong hustler honors masculine ambition while showing its costs. Chalamet. Full review.",
+      "keywords": "is marty supreme woke, marty supreme 2025 review conservative, marty supreme safdie woke, timothee chalamet marty supreme, marty supreme 1950s american dream, marty supreme ping pong film"
+    }
+  },
+  {
     "id": "companion-2025",
     "slug": "companion-2025",
     "title": "Companion",
