@@ -928,7 +928,7 @@ function buildReviewPage(r) {
                 ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
               </div>
               <h2 class="review-title" itemprop="name">${esc(r.title)}</h2>
-              <p class="review-subtitle" itemprop="description">${(() => { const first = r.summary.overall.split('\n').find(p => p.trim()) || ''; if (first.length <= 300) return esc(first); const cut = first.lastIndexOf('. ', 300); return esc(cut > 80 ? first.substring(0, cut + 1) : first.substring(0, 300)) + '&hellip;'; })()}</p>
+              <p class="review-subtitle" itemprop="description">${esc(firstParagraph(r.summary.overall, 300))}</p>
               <a href="#review-body" class="review-scroll-cue"><i class="fas fa-chevron-down"></i> Full analysis below</a>
               <div class="featured-meta">
                 <span><i class="fas fa-${r.type === 'film' ? 'film' : 'tv'}"></i> ${r.type === 'film' ? 'Film' : 'Series'} &middot; ${esc(r.platform)}</span>
