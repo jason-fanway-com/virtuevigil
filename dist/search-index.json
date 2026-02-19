@@ -216,6 +216,54 @@
     "poster": "/images/posters/the-penguin-2024.jpg"
   },
   {
+    "slug": "nosferatu-2024",
+    "title": "Nosferatu",
+    "verdict": "TRAD",
+    "platform": "Theatrical (Focus Features / Universal Pictures)",
+    "genre": "Gothic Horror, Mystery, Fantasy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 9,
+    "poster": "/images/posters/nosferatu-2024.jpg"
+  },
+  {
+    "slug": "the-brutalist-2024",
+    "title": "The Brutalist",
+    "verdict": "WOKE",
+    "platform": "Theatrical (A24 / Focus Features UK)",
+    "genre": "Epic Drama, Historical",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 9,
+    "tradScore": 6,
+    "poster": "/images/posters/the-brutalist-2024.jpg"
+  },
+  {
+    "slug": "a-real-pain-2024",
+    "title": "A Real Pain",
+    "verdict": "MIXED",
+    "platform": "Theatrical (Searchlight Pictures)",
+    "genre": "Comedy-Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 5,
+    "tradScore": 7,
+    "poster": "/images/posters/a-real-pain-2024.jpg"
+  },
+  {
+    "slug": "alien-romulus-2024",
+    "title": "Alien: Romulus",
+    "verdict": "MIXED",
+    "platform": "Theatrical (20th Century Studios)",
+    "genre": "Horror, Sci-Fi, Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 5,
+    "tradScore": 8,
+    "poster": "/images/posters/alien-romulus-2024.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
