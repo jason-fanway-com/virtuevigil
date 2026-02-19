@@ -637,7 +637,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://virtuevigil.com/category/sci-fi,-thriller/</loc>
+    <loc>https://virtuevigil.com/category/sci-fi-&-fantasy/</loc>
     <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -650,12 +650,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/horror/</loc>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/category/sci-fi-&-fantasy/</loc>
     <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
