@@ -456,6 +456,42 @@
     "poster": "/images/posters/immaculate-2024.jpg"
   },
   {
+    "slug": "abigail-2024",
+    "title": "Abigail",
+    "verdict": "MIXED",
+    "platform": "Theatrical (Universal Pictures)",
+    "genre": "Vampire Horror, Comedy, Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 6,
+    "poster": "/images/posters/abigail-2024.jpg"
+  },
+  {
+    "slug": "the-ministry-of-ungentlemanly-warfare-2024",
+    "title": "The Ministry of Ungentlemanly Warfare",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Lionsgate)",
+    "genre": "War, Action, Historical Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 11,
+    "poster": "/images/posters/the-ministry-of-ungentlemanly-warfare-2024.jpg"
+  },
+  {
+    "slug": "lisa-frankenstein-2024",
+    "title": "Lisa Frankenstein",
+    "verdict": "WOKE",
+    "platform": "Theatrical (Focus Features)",
+    "genre": "Romantic Horror Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 7,
+    "tradScore": 2,
+    "poster": "/images/posters/lisa-frankenstein-2024.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
