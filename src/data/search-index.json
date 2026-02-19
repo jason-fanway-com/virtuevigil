@@ -1,5 +1,17 @@
 [
   {
+    "slug": "crime-101-2026",
+    "title": "Crime 101 (2026)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 19,
+    "poster": "/images/posters/crime-101-2026.jpg"
+  },
+  {
     "slug": "wuthering-heights",
     "title": "Wuthering Heights (2026)",
     "verdict": "WOKE TRAP",
@@ -586,18 +598,6 @@
     "wokeScore": 4,
     "tradScore": 5,
     "poster": "/images/posters/hurry-up-tomorrow-2025.jpg"
-  },
-  {
-    "slug": "crime-101-2026",
-    "title": "Crime 101",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Crime, Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 6,
-    "tradScore": 8,
-    "poster": "/images/posters/crime-101-2026.jpg"
   },
   {
     "slug": "send-help-2026",
