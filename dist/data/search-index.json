@@ -72,6 +72,54 @@
     "poster": "/images/posters/goat-2026.jpg"
   },
   {
+    "slug": "gladiator-ii-2024",
+    "title": "Gladiator II (2024)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 11,
+    "tradScore": 24,
+    "poster": "/images/posters/gladiator-ii-2024.jpg"
+  },
+  {
+    "slug": "moana-2-2024",
+    "title": "Moana 2 (2024)",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Animation",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 13,
+    "tradScore": 17,
+    "poster": "/images/posters/moana-2-2024.jpg"
+  },
+  {
+    "slug": "inside-out-2-2024",
+    "title": "Inside Out 2 (2024)",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Animation",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 14,
+    "tradScore": 19,
+    "poster": "/images/posters/inside-out-2-2024.jpg"
+  },
+  {
+    "slug": "twisters-2024",
+    "title": "Twisters (2024)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 7,
+    "tradScore": 26,
+    "poster": "/images/posters/twisters-2024.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
