@@ -12,6 +12,18 @@
     "poster": "/images/posters/wuthering-heights.jpg"
   },
   {
+    "slug": "goat-2026",
+    "title": "GOAT (2026)",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Animation / Sports Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 37,
+    "tradScore": 41,
+    "poster": "/images/posters/goat-2026.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
@@ -610,18 +622,6 @@
     "wokeScore": 9,
     "tradScore": 8,
     "poster": "/images/posters/avatar-fire-and-ash-2025.jpg"
-  },
-  {
-    "slug": "goat-2026",
-    "title": "GOAT",
-    "verdict": "CAUTION",
-    "platform": "Theatrical",
-    "genre": "Animation, Sports, Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 5,
-    "tradScore": 8,
-    "poster": "/images/posters/goat.jpg"
   },
   {
     "slug": "predator-badlands-2025",
