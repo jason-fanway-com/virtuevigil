@@ -1,5 +1,17 @@
 [
   {
+    "slug": "novocaine-2025",
+    "title": "Novocaine",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Paramount Pictures)",
+    "genre": "Action",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 8,
+    "poster": "/images/posters/novocaine-2025.jpg"
+  },
+  {
     "slug": "mickey-17-2025",
     "title": "Mickey 17",
     "verdict": "WOKE",
