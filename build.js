@@ -128,7 +128,9 @@ function getCategories() {
   let trapCount = 0;
   reviews.forEach(r => {
     if (r.genre) cats[r.genre] = (cats[r.genre] || 0) + 1;
-    if (r.type) types[r.type] = (types[r.type] || 0) + 1;
+    // Normalise: treat both 'series' and 'tv' as series
+    if (r.type === 'film') types.film++;
+    else if (r.type === 'series' || r.type === 'tv') types.series++;
     if (r.wokeTrap && r.wokeTrap.present) trapCount++;
   });
   return { genres: cats, types, trapCount };
@@ -459,11 +461,11 @@ function insightGrid(r) {
           <div class="insight-grid">
             <div class="insight-card">
               <h4><i class="fas fa-user-tie" style="color:var(--accent-blue);"></i> Adult Viewer Insight</h4>
-              <p>${esc(r.summary.adultInsight)}</p>
+              <p>${esc(stripInlineMarkdown(r.summary.adultInsight))}</p>
             </div>
             <div class="insight-card">
               <h4><i class="fas fa-child" style="color:var(--accent-amber);"></i> Parental Guidance</h4>
-              <p>${esc(r.summary.parentalGuidance)}</p>
+              <p>${esc(stripInlineMarkdown(r.summary.parentalGuidance))}</p>
             </div>
           </div>`;
 }
@@ -473,7 +475,7 @@ function wokeTrapAlert(r) {
   return `
           <div class="woke-trap-alert">
             <h4><i class="fas fa-exclamation-circle"></i> Woke Trap Warning</h4>
-            <p><strong>Trap Present:</strong> Yes &mdash; <strong>Degree: ${esc(r.wokeTrap.degree)}.</strong> ${esc(r.wokeTrap.explanation)}</p>
+            <p><strong>Trap Present:</strong> Yes &mdash; <strong>Degree: ${esc(r.wokeTrap.degree)}.</strong> ${esc(stripInlineMarkdown(r.wokeTrap.explanation))}</p>
           </div>`;
 }
 
@@ -555,11 +557,24 @@ function overallParagraphs(r) {
   return mdToHtml(r.summary.overall);
 }
 
-// Extract first real paragraph (skip markdown headings) for subtitles/excerpts
+// Strip inline markdown markers for plain-text contexts (excerpts, insight panels)
+function stripInlineMarkdown(text) {
+  if (!text) return '';
+  return text
+    .replace(/\*\*\*(.+?)\*\*\*/g, '$1')
+    .replace(/\*\*(.+?)\*\*/g, '$1')
+    .replace(/\*(.+?)\*/g, '$1')
+    .replace(/`(.+?)`/g, '$1')
+    .replace(/^---+$/gm, '')
+    .replace(/^#{1,6}\s+/gm, '')
+    .trim();
+}
+
+// Extract first real paragraph (skip markdown headings/HRs) for subtitles/excerpts
 function firstParagraph(text, maxLen) {
   if (!text) return '';
-  const first = text.split('\n').find(p => p.trim() && !p.trim().startsWith('#')) || '';
-  const clean = first.trim();
+  const first = text.split('\n').find(p => p.trim() && !p.trim().startsWith('#') && !/^---+$/.test(p.trim())) || '';
+  const clean = stripInlineMarkdown(first.trim());
   if (!maxLen || clean.length <= maxLen) return clean;
   const cut = clean.lastIndexOf('. ', maxLen);
   return (cut > 80 ? clean.substring(0, cut + 1) : clean.substring(0, maxLen)) + '\u2026';
@@ -590,13 +605,13 @@ function wokeTrapAssessment(r) {
           <div class="woke-trap-assessment is-trap">
             <div class="wta-header">🚨 WOKE TRAP WARNING</div>
             <p>This film draws you in for ${esc(pct)} of its runtime with traditional or neutral content before springing its woke agenda. Know before you go!</p>
-            ${wta.explanation ? `<p class="wta-explanation">${esc(wta.explanation)}</p>` : ''}
+            ${wta.explanation ? `<p class="wta-explanation">${esc(stripInlineMarkdown(wta.explanation))}</p>` : ''}
           </div>`;
   } else {
     return `
           <div class="woke-trap-assessment is-clear">
             <div class="wta-header">✅ NOT A WOKE TRAP</div>
-            ${wta.explanation ? `<p class="wta-explanation">${esc(wta.explanation)}</p>` : ''}
+            ${wta.explanation ? `<p class="wta-explanation">${esc(stripInlineMarkdown(wta.explanation))}</p>` : ''}
           </div>`;
   }
 }
@@ -1688,9 +1703,9 @@ function build() {
   console.log('\nBuilding category pages:');
   const catMap = {};
 
-  // By type
+  // By type (normalise: treat both 'series' and 'tv' as series)
   catMap['Films'] = { slug: 'films', reviews: reviews.filter(r => r.type === 'film') };
-  catMap['Series'] = { slug: 'series', reviews: reviews.filter(r => r.type === 'series') };
+  catMap['Series'] = { slug: 'series', reviews: reviews.filter(r => r.type === 'series' || r.type === 'tv') };
 
   // Woke traps
   const trapReviews = reviews.filter(r => r.wokeTrap && r.wokeTrap.present);

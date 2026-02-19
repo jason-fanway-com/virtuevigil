@@ -565,7 +565,7 @@
   },
   {
     "slug": "ready-or-not-2",
-    "title": "⚠️ PRE-RELEASE PREVIEW",
+    "title": "Ready or Not 2",
     "verdict": "PREDICTED: CAUTION",
     "platform": "Theatrical",
     "genre": "Drama",
@@ -577,7 +577,7 @@
   },
   {
     "slug": "reminders-of-him",
-    "title": "⚠️ PRE-RELEASE PREVIEW",
+    "title": "Reminders of Him",
     "verdict": "PREDICTED: MIXED",
     "platform": "Theatrical",
     "genre": "Drama",
@@ -589,7 +589,7 @@
   },
   {
     "slug": "they-will-kill-you",
-    "title": "⚠️ PRE-RELEASE PREVIEW",
+    "title": "They Will Kill You",
     "verdict": "PREDICTED: MIXED",
     "platform": "Theatrical",
     "genre": "Thriller",
@@ -601,7 +601,7 @@
   },
   {
     "slug": "one-piece-s2",
-    "title": "⚠️ PRE-RELEASE PREVIEW",
+    "title": "One Piece — Season 2",
     "verdict": "PREDICTED: TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Action",
@@ -613,7 +613,7 @@
   },
   {
     "slug": "outlander-s8",
-    "title": "⚠️ PRE-RELEASE PREVIEW",
+    "title": "Outlander — Season 8",
     "verdict": "PREDICTED: TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Drama",
@@ -625,7 +625,7 @@
   },
   {
     "slug": "ted-s2",
-    "title": "⚠️ PRE-RELEASE PREVIEW",
+    "title": "Ted — Season 2",
     "verdict": "PREDICTED: TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Drama",
@@ -637,7 +637,7 @@
   },
   {
     "slug": "youngblood-2026",
-    "title": "⚠️ PRE-RELEASE PREVIEW",
+    "title": "Youngblood (2026)",
     "verdict": "PREDICTED: MIXED",
     "platform": "Theatrical",
     "genre": "Drama",
@@ -649,7 +649,7 @@
   },
   {
     "slug": "scarpetta",
-    "title": "⚠️ PRE-RELEASE PREVIEW",
+    "title": "Scarpetta",
     "verdict": "PREDICTED: CAUTION",
     "platform": "Theatrical",
     "genre": "Thriller",
@@ -1018,54 +1018,6 @@
     "wokeScore": 7,
     "tradScore": 5,
     "poster": "/images/posters/thunderbolts.jpg"
-  },
-  {
-    "slug": "dracula-a-love-tale-2025",
-    "title": "Dracula: A Love Tale",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Gothic Romance, Horror",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 3,
-    "tradScore": 12,
-    "poster": "/images/posters/dracula-a-love-tale-2025.jpg"
-  },
-  {
-    "slug": "hurry-up-tomorrow-2025",
-    "title": "Hurry Up Tomorrow",
-    "verdict": "NEUTRAL",
-    "platform": "Theatrical",
-    "genre": "Psychological Thriller, Drama",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 4,
-    "tradScore": 5,
-    "poster": "/images/posters/hurry-up-tomorrow-2025.jpg"
-  },
-  {
-    "slug": "avatar-fire-and-ash-2025",
-    "title": "Avatar: Fire and Ash",
-    "verdict": "WOKE",
-    "platform": "Theatrical",
-    "genre": "Science Fiction, Action, Adventure",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 9,
-    "tradScore": 8,
-    "poster": "/images/posters/avatar-fire-and-ash-2025.jpg"
-  },
-  {
-    "slug": "predator-badlands-2025",
-    "title": "Predator: Badlands",
-    "verdict": "WOKE",
-    "platform": "Theatrical",
-    "genre": "Sci-Fi, Action, Adventure",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 9,
-    "tradScore": 5,
-    "poster": "/images/posters/predator-badlands.jpg"
   },
   {
     "slug": "blue-moon",
