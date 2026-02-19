@@ -36,6 +36,18 @@
     "poster": "/images/posters/crime-101-2026.jpg"
   },
   {
+    "slug": "send-help-2026",
+    "title": "Send Help (2026)",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Horror, Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 15,
+    "tradScore": 22,
+    "poster": "/images/posters/send-help-2026.jpg"
+  },
+  {
     "slug": "wuthering-heights",
     "title": "Wuthering Heights (2026)",
     "verdict": "WOKE TRAP",
@@ -598,18 +610,6 @@
     "wokeScore": 4,
     "tradScore": 5,
     "poster": "/images/posters/hurry-up-tomorrow-2025.jpg"
-  },
-  {
-    "slug": "send-help-2026",
-    "title": "Send Help",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Horror, Thriller, Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 6,
-    "tradScore": 7,
-    "poster": "/images/posters/send-help-2026.jpg"
   },
   {
     "slug": "avatar-fire-and-ash-2025",
