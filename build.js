@@ -555,6 +555,23 @@ function overallParagraphs(r) {
   return mdToHtml(r.summary.overall);
 }
 
+// Extract first real paragraph (skip markdown headings) for subtitles/excerpts
+function firstParagraph(text, maxLen) {
+  if (!text) return '';
+  const first = text.split('\n').find(p => p.trim() && !p.trim().startsWith('#')) || '';
+  const clean = first.trim();
+  if (!maxLen || clean.length <= maxLen) return clean;
+  const cut = clean.lastIndexOf('. ', maxLen);
+  return (cut > 80 ? clean.substring(0, cut + 1) : clean.substring(0, maxLen)) + '\u2026';
+}
+
+// Strip markdown for plain-text contexts (JSON-LD reviewBody etc.)
+function plainText(text, maxLen) {
+  if (!text) return '';
+  const stripped = text.replace(/^#{1,6}\s+.+$/gm, '').replace(/\*\*?([^*]+)\*\*?/g, '$1').trim();
+  return maxLen ? stripped.substring(0, maxLen) : stripped;
+}
+
 function spoilerAlertBanner(r) {
   if (r.spoiler_alert !== true) return '';
   return `
@@ -766,7 +783,7 @@ function buildHomepage() {
                 ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
               </div>
               <h2 class="review-title" itemprop="name">${esc(featured.title)}</h2>
-              <p class="review-subtitle" itemprop="description">${esc(featured.summary.overall.split('\n')[0].substring(0, 160))}...</p>
+              <p class="review-subtitle" itemprop="description">${esc(firstParagraph(featured.summary.overall, 160))}&hellip;</p>
               <div class="featured-meta">
                 <span><i class="fas fa-${featured.type === 'film' ? 'film' : 'tv'}"></i> ${featured.type === 'film' ? 'Film' : 'Series'} &middot; ${esc(featured.platform)}</span>
                 <span><i class="fas fa-calendar"></i> <time datetime="${featured.date}" itemprop="datePublished">${formatDate(featured.date)}</time></span>
@@ -801,7 +818,7 @@ function buildHomepage() {
       ${moreReviews.map(r => {
         const rvc = verdictClass(r.verdict);
         const rTrap = r.wokeTrap && r.wokeTrap.present;
-        const excerpt = r.summary.overall.split('\n')[0].substring(0, 250);
+        const excerpt = firstParagraph(r.summary.overall, 250);
         return `
       <article class="review-card">
         <div class="review-card-inner">
@@ -861,7 +878,7 @@ function buildReviewPage(r) {
     "name": r.title,
     "author": { "@type": "Person", "name": r.author },
     "datePublished": r.date,
-    "reviewBody": r.summary.overall.substring(0, 500),
+    "reviewBody": plainText(r.summary.overall, 500),
     "publisher": { "@type": "Organization", "name": "VirtueVigil" },
     "itemReviewed": Object.assign({
       "@type": r.type === 'film' ? "Movie" : "TVSeries",
@@ -1035,7 +1052,7 @@ function buildCategoryPage(name, slug, categoryReviews) {
       ${categoryReviews.map(r => {
         const rvc = verdictClass(r.verdict);
         const rTrap = r.wokeTrap && r.wokeTrap.present;
-        const excerpt = r.summary.overall.split('\n')[0].substring(0, 250);
+        const excerpt = firstParagraph(r.summary.overall, 250);
         return `
       <article class="review-card">
         <div class="review-card-inner">

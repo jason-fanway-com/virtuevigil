@@ -12,6 +12,18 @@
     "poster": "/images/posters/mercy-2026.jpg"
   },
   {
+    "slug": "zootopia-2-2025",
+    "title": "Zootopia 2 (2025)",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Animation / Buddy Cop Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 91,
+    "tradScore": 53,
+    "poster": "/images/posters/zootopia-2-2025.jpg"
+  },
+  {
     "slug": "crime-101-2026",
     "title": "Crime 101 (2026)",
     "verdict": "TRADITIONAL",
@@ -574,18 +586,6 @@
     "wokeScore": 3,
     "tradScore": 12,
     "poster": "/images/posters/dracula-a-love-tale-2025.jpg"
-  },
-  {
-    "slug": "zootopia-2-2025",
-    "title": "Zootopia 2",
-    "verdict": "WOKE",
-    "platform": "Theatrical",
-    "genre": "Animation, Comedy",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 9,
-    "tradScore": 8,
-    "poster": "/images/posters/zootopia-2-2025.jpg"
   },
   {
     "slug": "hurry-up-tomorrow-2025",

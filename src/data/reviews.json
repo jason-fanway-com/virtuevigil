@@ -3608,208 +3608,482 @@
   {
     "id": "zootopia-2-2025",
     "slug": "zootopia-2-2025",
-    "title": "Zootopia 2",
+    "title": "Zootopia 2 (2025)",
     "year": 2025,
     "type": "film",
     "platform": "Theatrical",
-    "genre": "Animation, Comedy",
-    "date": "2026-02-17",
+    "genre": "Animation / Buddy Cop Comedy",
+    "date": "2026-02-19",
     "author": "VirtueVigil Editorial Team",
-    "readTime": "18 min",
+    "readTime": "16 min",
     "poster": "/images/posters/zootopia-2-2025.jpg",
     "verdict": "WOKE",
-    "wokeScore": 9,
-    "tradScore": 8,
-    "authIndex": 78,
-    "scoreMargin": "-1 WOKE",
+    "wokeScore": 91,
+    "tradScore": 53,
+    "authIndex": 70,
+    "scoreMargin": "-38 WOKE",
+    "preRelease": false,
     "wokeTrap": {
       "present": false,
       "degree": null,
-      "explanation": "Zootopia 2 does not disguise its ideological agenda. Like its predecessor, the entire premise is built around prejudice allegory. Conservative viewers won't be blindsided. The film's traditional elements are genuinely strong and coexist openly with the progressive messaging rather than being used as bait-and-switch material.",
+      "explanation": "**NOT A WOKE TRAP.** Zootopia 2 does not disguise its agenda. The franchise was built on prejudice allegory from the very first frame of the original film in 2016. Nobody who saw Zootopia is walking into the sequel expecting a neutral police procedural. The progressive messaging is baked into the premise, announced by the marketing, and confirmed by the directors in every press interview. Conservative families know what this is. The question is not whether the ideology is there but how much of it there is and whether the traditional elements can hold their own. Answer to both: quite a bit, and yes they can. This is not a trap. It is a known quantity.",
       "viewerSentiment": null
     },
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "Zootopia 2 does not disguise its ideological agenda. The entire premise is built around prejudice allegory. The traditional elements coexist openly with progressive messaging."
+      "explanation": "Zootopia 2 wears its ideology openly. The prejudice allegory that defined the first film is expanded into systemic exclusion and historical revisionism in the sequel. There is no bait-and-switch. Conservative families know what they are getting. The traditional law enforcement heroism, sacrifice, family warmth, and institutional reform themes coexist openly with the progressive messaging rather than being used to lure viewers in before the film pivots."
     },
     "creative_team": {
       "director": {
         "name": "Jared Bush & Byron Howard",
-        "ideology": "MODERATELY WOKE",
-        "profile": "Disney Animation veterans. Bush's writing consistently returns to themes of prejudice, exclusion, and community division. Howard is a more traditional storyteller whose solo efforts are straightforward crowd-pleasers."
+        "ideology": "Moderately Progressive",
+        "profile": "Disney Animation veterans. Bush writes every project through a lens of prejudice, exclusion, and institutional failure. Howard is a more crowd-pleasing traditional storyteller whose influence is visible in the film's energy and pacing. Together they produced a film that is ideologically progressive but still broadly entertaining."
       },
       "writer": {
         "name": "Jared Bush",
-        "profile": "Sole screenplay credit. Writer of Zootopia, Moana, and Encanto. Progressive themes delivered through traditional emotional frameworks."
+        "profile": "Sole screenplay credit. Also wrote Zootopia (2016), Moana (2016), and Encanto (2021). Progressive themes consistently delivered through emotionally resonant, family-friendly storytelling frameworks."
       },
       "lead_producer": {
         "name": "Yvett Merino",
         "company": "Walt Disney Animation Studios"
       },
       "composer": {
-        "name": "Michael Giacchino"
+        "name": "Michael Giacchino",
+        "profile": "Works across the full ideological spectrum. No political signal. Up, Inside Out, The Batman, Spider-Man films, Star Trek reboot trilogy, Jurassic World. Reliable craftsman who follows good directors. Score for Zootopia 2 is warm and adventure-driven with callbacks to the original film's sound."
       },
       "top_cast": [
         {
-          "name": "Ginnifer Goodwin",
+          "actor": "Ginnifer Goodwin",
           "role": "Judy Hopps"
         },
         {
-          "name": "Jason Bateman",
+          "actor": "Jason Bateman",
           "role": "Nick Wilde"
         },
         {
-          "name": "Ke Huy Quan",
+          "actor": "Ke Huy Quan",
           "role": "Gary De'Snake"
-        },
-        {
-          "name": "Fortune Feimster",
-          "role": "Nibbles Maplestick"
-        },
-        {
-          "name": "Andy Samberg",
-          "role": "Pawbert Lynxley"
         }
       ],
       "prediction": {
         "verdict": "WOKE",
         "confidence": "high"
-      }
+      },
+      "producers": [
+        {
+          "name": "Yvett Merino",
+          "company": "Walt Disney Animation Studios",
+          "signal": "Studio producer. Career is entirely within Disney Animation. No independent ideological signal beyond the studio's general progressive orientation."
+        },
+        {
+          "name": "Walt Disney Animation Studios",
+          "company": "Disney",
+          "signal": "Moderately Progressive. The studio that produced Encanto, Strange World, and Raya and the Last Dragon. Progressive themes are part of the institutional DNA but are delivered with varying degrees of subtlety depending on the project."
+        }
+      ],
+      "full_cast": [
+        {
+          "actor": "Ginnifer Goodwin",
+          "role": "Judy Hopps (rabbit, ZPD officer)"
+        },
+        {
+          "actor": "Jason Bateman",
+          "role": "Nick Wilde (red fox, ZPD officer)"
+        },
+        {
+          "actor": "Ke Huy Quan",
+          "role": "Gary De'Snake (pit viper, pursued fugitive)"
+        },
+        {
+          "actor": "Fortune Feimster",
+          "role": "Nibbles Maplestick (beaver, conspiracy theorist podcaster)"
+        },
+        {
+          "actor": "Andy Samberg",
+          "role": "Pawbert Lynxley (Canada lynx, youngest Lynxley son)"
+        },
+        {
+          "actor": "David Strathairn",
+          "role": "Milton Lynxley (Canada lynx, oligarch patriarch)"
+        },
+        {
+          "actor": "Idris Elba",
+          "role": "Chief Bogo (African buffalo, ZPD chief)"
+        },
+        {
+          "actor": "Shakira",
+          "role": "Gazelle (Thomson's gazelle, pop star)"
+        },
+        {
+          "actor": "Patrick Warburton",
+          "role": "Mayor Brian Winddancer (stallion)"
+        },
+        {
+          "actor": "Quinta Brunson",
+          "role": "Dr. Fuzzbee (quokka, psychotherapist)"
+        },
+        {
+          "actor": "Danny Trejo",
+          "role": "Jesus (plumed basilisk, reptile community leader)"
+        },
+        {
+          "actor": "Nate Torrence",
+          "role": "Benjamin Clawhauser (cheetah, ZPD receptionist)"
+        },
+        {
+          "actor": "Bonnie Hunt",
+          "role": "Bonnie Hopps (rabbit, Judy's mother)"
+        },
+        {
+          "actor": "Don Lake",
+          "role": "Stu Hopps (rabbit, Judy's father)"
+        },
+        {
+          "actor": "Jenny Slate",
+          "role": "Dawn Bellwether (sheep, imprisoned former mayor)"
+        },
+        {
+          "actor": "Michelle Gomez",
+          "role": "Captain Fern Hoggbottom (razorback, T.U.S.K. commander)"
+        },
+        {
+          "actor": "Macaulay Culkin",
+          "role": "Cattrick Lynxley (Canada lynx, older son)"
+        },
+        {
+          "actor": "Brenda Song",
+          "role": "Kitty Lynxley (Canada lynx, sharp-tongued daughter)"
+        },
+        {
+          "actor": "John Leguizamo",
+          "role": "Antony Snootley (giant anteater, smuggler)"
+        },
+        {
+          "actor": "Alan Tudyk",
+          "role": "Duke Weaselton / French raccoon chef / other cameos"
+        },
+        {
+          "actor": "Maurice LaMarche",
+          "role": "Mr. Big (arctic shrew, crime boss)"
+        },
+        {
+          "actor": "Raymond S. Persi",
+          "role": "Flash Slothmore (three-toed sloth, DMV worker)"
+        },
+        {
+          "actor": "Tommy Chong",
+          "role": "Yax (yak, naturist club owner)"
+        },
+        {
+          "actor": "Wilmer Valderrama",
+          "role": "Higgins (hippopotamus, ZPD officer) [recast]"
+        }
+      ]
     },
     "fidelity_casting": {
-      "score": "N/A",
-      "summary": "Animated film with anthropomorphic animal characters. Voice casting carries no fidelity signal.",
-      "detailed_analysis": "This is a fully animated film with anthropomorphic animal characters. Traditional fidelity casting metrics do not apply. The voice cast is diverse and largely reflects standard Hollywood casting practices for animated features."
+      "score": "FAITHFUL",
+      "summary": "Animated sequel with anthropomorphic animal characters. All returning voice actors from the original Zootopia (2016) reprise their roles. One minor recast: Higgins (hippo officer) voiced by Wilmer Valderrama instead of Raymond S. Persi. New characters are original to this film with no source material to compare against.",
+      "detailed_analysis": "Zootopia 2 is a sequel to an animated film featuring anthropomorphic animal characters. Traditional race-based fidelity casting metrics do not apply in the same manner as live-action adaptations of source material with human characters.\n\nReturning characters and voice actors:\n- **Ginnifer Goodwin** returns as Judy Hopps: FAITHFUL\n- **Jason Bateman** returns as Nick Wilde: FAITHFUL\n- **Idris Elba** returns as Chief Bogo: FAITHFUL\n- **Shakira** returns as Gazelle: FAITHFUL\n- **Nate Torrence** returns as Clawhauser: FAITHFUL\n- **Bonnie Hunt** returns as Bonnie Hopps: FAITHFUL\n- **Don Lake** returns as Stu Hopps: FAITHFUL\n- **Jenny Slate** returns as Dawn Bellwether: FAITHFUL\n- **Alan Tudyk** returns as Duke Weaselton: FAITHFUL\n- **Tommy Chong** returns as Yax: FAITHFUL\n- **Raymond S. Persi** returns as Flash Slothmore: FAITHFUL\n- **Maurice LaMarche** replaces John DiMaggio as Mr. Big: MINOR DEVIATION\n- **Wilmer Valderrama** replaces Raymond S. Persi as Higgins: MINOR DEVIATION\n- **Tiny Lister** appears posthumously as Finnick through unused recordings from the original film: FAITHFUL\n\nAll major lead characters are voiced by their original actors. New characters (Gary De'Snake, Nibbles Maplestick, Pawbert Lynxley, Milton Lynxley, Mayor Winddancer, Dr. Fuzzbee, Jesus, Captain Hoggbottom, the Lynxley siblings) are original to this film with no prior casting to compare against.\n\n**FIDELITY CASTING SCORE: FAITHFUL.** The sequel correctly maintains its established cast. Two minor support role recasts do not constitute a fidelity concern. As an animated franchise sequel rather than a live-action adaptation of source material, this scoring category has limited applicability."
     },
     "summary": {
-      "overall": "Disney's Zootopia 2 arrives nine years after the original and picks up almost immediately where that film left off. Judy Hopps and Nick Wilde are partners at the ZPD. Their relationship is rocky. Chief Bogo is threatening to split them up. Then a pit viper named Gary De'Snake shows up in a city that hasn't seen a reptile in a century, and suddenly our heroes have a real case on their hands.\n\nThe surface-level movie is terrific. The animation is gorgeous, the voice performances are sharp, and the buddy cop dynamic between Goodwin and Bateman still crackles with genuine chemistry. Ke Huy Quan brings warmth and energy to Gary. The action sequences are well-staged, the pacing mostly holds across 108 minutes, and it pulled in $1.83 billion at the box office for a reason.\n\nWhat Zootopia 2 is saying, once you strip away the fur and scales, is a fairly explicit allegory about systemic exclusion, historical erasure, and colonialism. The reptiles were driven out by the Lynxley family, who stole a reptile inventor's work, framed her for murder, and used the resulting fear to exile an entire population. Their original district was literally buried under Tundratown.\n\nThe Lynxley family functions as oligarch villains, rich, powerful, and willing to kill to protect their stolen legacy. The message is clear: wealth built on injustice will fight to preserve that injustice.\n\nFor all its progressive messaging, Zootopia 2 has a surprisingly strong traditional backbone. The film is fundamentally a law enforcement story. Judy and Nick are cops and heroes, presented as brave, self-sacrificing, and ultimately right. The partnership between them is built on loyalty, sacrifice, and earned trust. Nick literally falls off a weather wall to protect Judy.\n\nThe film's resolution involves truth and justice, not revolution. The heroes expose a lie, present evidence, and allow the legal system to work. The Lynxleys are arrested. This is reform within the system, not destruction of it.\n\nFamily runs through everything. Gary's entire motivation is clearing his great-grandmother's name and bringing his family home. Judy's parents and grandmother appear, grounding her in a loving, traditional family unit. Grandma Hopps prays for Judy's safety daily.\n\nThe film's deeper theme is that differences between groups are real but not insurmountable. The sequel acknowledges that predators and prey, mammals and reptiles, are genuinely different. The argument is that common ground can be found through conversation and good faith rather than fear and propaganda.\n\nZootopia 2 is a woke film. The systemic exclusion allegory, the colonialism parallel, the wealthy families built on stolen history narrative are progressive frameworks baked into the story. But the traditional elements are not window dressing. The respect for law enforcement, the value of partnership and loyalty, the family bonds, the faith in institutional reform over revolution: these carry real emotional weight. Conservative families will find plenty to discuss and some things to push back on, but also a film that respects its cop heroes, celebrates loyalty and sacrifice, and argues that truth and justice can prevail within the system.",
-      "adultInsight": "Conservative adult viewers should approach Zootopia 2 with clear eyes and some genuine appreciation. This is a film that wears its progressive politics openly through its systemic exclusion allegory and colonialism parallel. But it actually respects its audience more than most contemporary Disney output. The differences are real but not insurmountable message is a genuine improvement over the first film's softer anyone can be anything thesis. The law enforcement heroes are treated with respect. The resolution trusts institutional reform over revolutionary destruction. The family elements are sincere, not ironic. Watch it with your kids. Talk about it afterward. Ask them what they think the reptile story is really about. The conversation is more valuable than either uncritical acceptance or blanket rejection.",
-      "parentalGuidance": "Violence: Moderate for a PG animated film. The Lynxley family orders deaths and fights the heroes. A character is injected with snake venom and nearly dies. Nick falls off a weather wall. Chief Bogo is accidentally bitten by a venomous snake fang. Sexual Content: Minimal but present. A sheep's shaved wool resembles a bra. Judy's grandmother tells her to come home and make babies. Nibbles makes threesome jokes framed as teamwork. Language: Very mild. Substance Use: A gala scene features cocktail glasses, one character shown blackout drunk. LGBTQ+ Content: Directors confirmed antelope neighbors Bucky and Pronk are a gay couple with minimal screen time. Scary/Intense: Weather wall climax is intense, Pawbert betrayal may frighten younger viewers. Age Recommendation: 7 and up. Children under 7 may find venom scenes too intense."
+      "overall": "### Opening Hook\n\nZootopia 2 is exactly what it looks like. It is a Disney animated buddy cop sequel with gorgeous animation, sharp voice performances, a cracking mystery plot, and a progressive allegory that does not hide behind the fur. The franchise was never pretending to be neutral. The original Zootopia was described by its own directors as being about racism, sexism, and governing through fear. The sequel turns the dial up. This time the allegory is systemic exclusion, historical revisionism, and wealth built on theft and oppression. Nobody who paid attention to the first film should be surprised by a word of it.\n\nWhat they might be surprised by is how well the movie still works as a movie.\n\n### Plot Summary\n\nThe story picks up one week after Judy Hopps and Nick Wilde become official ZPD partners. The partnership is a mess. Judy is type-A and relentless. Nick is sarcastic and untrusting. Chief Bogo is already threatening to split them up. Their supervisor ships them to a quokka psychotherapist named Dr. Fuzzbee, who runs a program called Partners in Crisis. This is probably the most groan-inducing scene in the film, and the Federalist was not wrong to call it therapist slop. The mandatory couples counseling framing is modern progressive culture imported wholesale into a fictional animal city. It does not feel organic to Zootopia's world. It feels like a message.\n\nFrom there the film picks up momentum fast. At the Zootennial Gala, a pit viper named Gary De'Snake shows up in a city that hasn't seen a reptile in a century. Gary steals an antique journal belonging to Milton Lynxley, patriarch of Zootopia's most powerful dynastic family. Judy corners Gary, who tells her the journal contains evidence to prove his family's innocence of something old and terrible. Before she can decide what to do with that, Gary accidentally bites Chief Bogo with his venom. The Lynxleys frame Judy and Nick for the incident. Our heroes go from cops to fugitives inside of thirty minutes.\n\nThe investigation takes them to Marsh Market, a hidden district where reptiles have lived underground for decades. There they meet Jesus, a plumed basilisk played by Danny Trejo with exactly the voice casting you would expect and exactly the presence the film needs. They piece together the truth: Gary's great-grandmother Agnes De'Snake was the architect who designed Zootopia's weather walls. Ebenezer Lynxley stole her work, framed her for murder, and used the resulting anti-reptile hysteria to exile an entire population and bury their original district under Tundratown.\n\nThe villain reveal is Pawbert Lynxley, the seemingly sympathetic youngest son who has been helping Judy and Gary. He injects Judy with snake venom, throws Gary into the snow, and steals the antivenom to impress his father. Nick fights Pawbert on the weather wall, throws the antivenom to Gary, and falls. He and Judy survive. Pawbert barely survives. The Lynxleys are arrested. Agnes gets her name back. The reptiles come home.\n\n### Trope Analysis \u2014 VVWS Weighted Scoring\n\n#### Woke Tropes\n\n| Trope | Severity (1-5) | Authenticity | Centrality | Weighted Score |\n|---|---|---|---|---|\n| Institutional Evil / Systemic Exclusion (reptile exile via manufactured fear and legal corruption; defining plot engine) | 5 | Emphasized (1.25) | Defining (2.0) | **37.5** |\n| Anti-Western Revisionism / Historical Erasure (Zootopia's founding myth exposed as a lie; great inventor's legacy stolen by wealthy patriarch) | 4 | Emphasized (1.25) | Central (1.5) | **22.5** |\n| The Colonialist Villain (Lynxley family as old money built on theft and displacement of a minority population) | 4 | Emphasized (1.25) | Central (1.5) | **15.0** |\n| Therapy Culture Normalized (mandatory Partners in Crisis couples counseling treated as productive and correct) | 3 | Injected (1.5) | Supporting (1.0) | **4.5** |\n| The Marginalized Savant (Agnes De'Snake as the true inventor whose work was stolen by a white-coded power family) | 3 | Natural (0.75) | Supporting (1.0) | **4.5** |\n| Victimhood as Moral Authority (Gary feared on sight by an entire city; innocence is the source of his moral standing) | 3 | Natural (0.75) | Supporting (1.0) | **4.5** |\n| Globalist Utopia (reptile reintegration as triumphant resolution; multicultural unity as the happy ending) | 3 | Natural (0.75) | Supporting (1.0) | **2.25** |\n| Coded LGBTQ+ Representation (Bucky and Pronk confirmed gay couple by directors; background only) | 1 | Emphasized (1.25) | Background (0.5) | **0.6** |\n| **WOKE TOTAL** | | | | **91.35** |\n\n#### Traditional Tropes\n\n| Trope | Severity (1-5) | Authenticity | Centrality | Weighted Score |\n|---|---|---|---|---|\n| Defense of the Innocent / Law Enforcement Heroes (Judy and Nick as brave, self-sacrificing cops throughout; law enforcement treated with full heroic dignity) | 5 | Organic (0.5) | Defining (2.0) | **10.0** |\n| Partnership and Loyalty (the entire film is about building and preserving a worthy partnership; earned trust as the emotional core) | 5 | Organic (0.5) | Defining (2.0) | **10.0** |\n| Truth and Justice Prevail via Institutions (heroes expose fraud through evidence; legal system arrests the villains; reform within the system, not destruction of it) | 4 | Organic (0.5) | Central (1.5) | **9.0** |\n| The Self-Sacrificing Hero (Nick falls off the weather wall to save Judy; physical sacrifice to protect a partner at personal cost) | 4 | Organic (0.5) | Central (1.5) | **9.0** |\n| Industry and Perseverance (Judy grinds through the case relentlessly; Nick overcomes deep personal distrust; neither quits) | 4 | Organic (0.5) | Central (1.5) | **6.0** |\n| Homecoming / Restored Community (reptiles return to their district; Gary reunites with his family; broken communities mended) | 3 | Natural (0.75) | Supporting (1.0) | **4.5** |\n| Traditional Family (Hopps family portrayed with warmth and genuine love; Gary's family is the motivation for everything he does) | 3 | Organic (0.5) | Supporting (1.0) | **3.0** |\n| Faith in Adversity (Grandma Hopps prays daily for Judy's safety; presented without mockery or irony) | 2 | Organic (0.5) | Background (0.5) | **1.5** |\n| **TRAD TOTAL** | | | | **53.0** |\n\n**Composite:** TRAD 53.0 - WOKE 91.35 = **-38.35 (WOKE)**\n**Confidence:** HIGH. Multiple detailed plot sources available. Trope calls are clear and well-anchored. Variance: \u00b10.5.\n\n### Director / Creative Team Ideological Track Record\n\n**Jared Bush** is the chief creative force on both Zootopia films. He has been at Disney Animation since 2011. His writing credits tell a clear and consistent story: Zootopia (prejudice allegory), Moana (indigenous identity and anti-colonialist myth), Encanto (multi-generational family trauma and institutional expectations). Every project foregrounds a marginalized community finding its voice against a system that has diminished it. Bush is not hiding this pattern. He speaks openly in press about wanting his films to say something about the world.\n\nWhat separates Bush from a pure ideological filmmaker is craft. He writes emotionally effective stories. The prejudice allegory in Zootopia worked because it was embedded in a genuinely fun buddy cop movie. Encanto worked because the family dynamics were real regardless of the social message. Zootopia 2 follows the same template: the colonialism parallel is explicit, but it is also embedded in a tightly plotted mystery with real stakes and real characters. You can disagree with the thesis and still admire the execution.\n\n**Byron Howard** directed Bolt (2008) and Tangled (2010) before Zootopia. His solo work is conventional crowd-pleasing Disney. Tangled is one of the most traditionally constructed Disney princess films of the modern era: a resourceful heroine, a charming rogue with a good heart, a clear villain, a romantic resolution. Howard is not an ideological filmmaker by default. He is a craftsman who makes energetic, accessible stories. His co-direction of Zootopia 2 is visible in the film's pacing and action sequences, which are the most traditionally crowd-pleasing elements.\n\n**Yvett Merino** as lead producer is a Disney Animation lifer. She produced Strange World (2022) and Wish (2023), two of the studio's more aggressively progressive recent films. Her involvement does not moderate the ideological signal; it confirms it.\n\n**Michael Giacchino** carries no political signal. He composes for blockbusters across the ideological spectrum. The Zootopia 2 score is warm, propulsive, and callbacks-rich. It serves the film without editorializing.\n\n**PRE-VIEWING PREDICTION:** Bush's writing pattern gave a near-certain woke lean. Howard's co-direction suggested the traditional elements would be stronger than a solo Bush project. Prediction: WOKE with meaningful traditional resistance. Prediction confirmed.\n\n### Adult Viewer Insight\n\nConservative adults should go into this film clear-eyed, which means going in knowing two things simultaneously.\n\nFirst, this is a genuinely progressive film. The systemic exclusion allegory is explicit. The wealthy founding family built their dynasty on theft and propaganda. Historical truth was buried to preserve their power. The marginalized community has a hidden genius whose work was stolen. These are standard progressive frameworks and they are the load-bearing structure of the plot. They are not subtle. Bush has spoken about them openly.\n\nSecond, the traditional elements are real. Not window dressing. Not bait. Real.\n\nJudy Hopps and Nick Wilde are police officers and they are heroes. The film does not equivocate about this. They are brave, loyal, and willing to sacrifice themselves for each other and for justice. The entire resolution of the film is achieved through evidence gathering and legal process. The Lynxleys are arrested by the system they corrupted. The film trusts that the system, when fed the truth, can correct itself. That is a classically conservative position. It is reform within institutions, not tear-it-down radicalism.\n\nThe partnership between Judy and Nick is the heart of the film and it is built on earned trust, demonstrated sacrifice, and loyalty through adversity. These are traditional values. Nick tells Judy he loves her at the end of the film. Not as a political statement. As two partners who came through something genuinely hard together.\n\nThe Hopps family is warm, loving, and present. Grandma Hopps prays. This gets a brief, gentle scene that plays it completely straight. Nobody mocks it.\n\nWatch it knowing what it is. Talk about it afterward. The conversation about why the film frames its story the way it does is worth having with your kids.\n\n---\n\n*Review by VirtueVigil Editorial Team*",
+      "adultInsight": "Conservative adults should go in clear-eyed and know two things. First, this is a genuinely progressive film. The systemic exclusion allegory is explicit. The wealthy founding family built their dynasty on theft and propaganda. Historical truth was buried to preserve their power. These frameworks are load-bearing, not incidental. Second, the traditional elements are real. Judy and Nick are heroic cops treated with full heroic dignity. The resolution comes through evidence and legal process. The system, when given the truth, corrects itself. That is a classically conservative institutional position. The partnership is built on earned trust and sacrifice. The Hopps family is warm and present. Grandma Hopps prays in a brief scene that plays it completely straight. Watch it knowing what it is. Talk about it afterward.",
+      "parentalGuidance": "**Ages 7+** (primary sweet spot: 7-12)\n\n**Content Warnings:**\n- **Violence:** Moderate for PG animation. Character injected with snake venom and nearly dies. Nick falls off a weather wall. Chief Bogo bitten by venomous fang. Combat sequences in the climax. Criminals order assassinations discussed.\n- **Sexual Content:** None explicit. Background confirmed gay couple (Bucky and Pronk antelope neighbors from the original film) with minimal screen time and no display of affection. One joke by Nibbles about teamwork that has a double meaning adults will catch and kids won't.\n- **Language:** Clean. Nothing notable.\n- **Substance Use:** Gala scene features cocktail glasses. One background character appears intoxicated.\n- **Scary/Intense Content:** Pawbert's betrayal sequence is intense and involves deliberate poisoning of Judy. Weather wall climax has genuine peril. The Lynxley family ordering deaths may disturb younger viewers. The venom injection scene is the most intense moment.\n\n**Ideological Content:**\n- Progressive Messaging: Heavy. Systemic exclusion allegory, colonialist villain family, historical revisionism theme, therapy culture normalization.\n- Faith Content: Minimal but positive. Grandma Hopps prays for Judy's safety. Presented without mockery.\n- Family Values: Strong. Judy's family is loving and supportive. Gary's entire arc is about restoring his family's honor and coming home.\n\n**Age Recommendations:**\n- Minimum Age: 6 (for the story; some peril)\n- Recommended Age: 7+\n- Primary Audience: 7-12\n- Adult/Teen: Enjoyable but messaging more visible at older ages\n\n**Family Discussion Starters:**\n1. The film says the Lynxley family built their power by stealing someone else's work and covering it up. Do you think families can really pass down guilt for what their ancestors did?\n2. Judy and Nick fight a lot at first but become genuine partners by the end. What did they have to learn to make that work?\n3. The reptiles lived hidden underground for generations because of something one snake did long ago. Does that seem fair? What would be the right way to fix it?\n4. Grandma Hopps prays every day for Judy's safety. What role does faith play in your own family when things get scary?\n5. The film uses therapy as a way to help Judy and Nick work through their issues. What do you think about that as an approach?\n\n*Not recommended for children under 6 due to venom sequence and climactic peril intensity.*\n\n---\n\n*VirtueVigil Editorial Team*\n*Review Date: February 2026*"
     },
     "tropeAudit": [
       {
         "trope": "Institutional Evil / Systemic Exclusion",
         "id": "WOKE-004",
         "category": "WOKE",
-        "location": "Throughout -- reptile population exiled through institutional manipulation by Lynxley family",
-        "authenticity": "N/A"
+        "severity": 5,
+        "authenticity": "Emphasized",
+        "authenticityModifier": 1.25,
+        "centrality": "Defining",
+        "centralityModifier": 2.0,
+        "baseWeight": 3.0,
+        "weightedScore": 37.5,
+        "location": "Throughout \u2014 the entire plot is the exposure of a century-long systemic exclusion of reptiles from Zootopia",
+        "scene": "The investigation reveals reptiles were exiled through manufactured fear following a frame-up of Agnes De'Snake. Their district was physically buried under Tundratown. The Lynxley family has enforced the lie for generations.",
+        "context": "The franchise is built on prejudice allegory. Expanding from individual bias in the original to systemic exclusion in the sequel is an escalation but not an injection \u2014 it fits the world's established rules. Scored as Emphasized rather than Injected because the franchise was purpose-built for this kind of messaging.",
+        "impact": "This is the plot. It is impossible to discuss the film without this trope. It shapes every character motivation and every scene.",
+        "verdict": "Clear and intentional. The most woke-weighted element of the entire film.",
+        "authenticity_assessment": "Organic to the franchise's established allegorical framework but amplified significantly beyond the individual-prejudice lens of the original."
       },
       {
         "trope": "Anti-Western Revisionism / Historical Erasure",
         "id": "WOKE-020",
         "category": "WOKE",
-        "location": "Mid-film -- Zootopia's founding narrative revealed as fabricated lie",
-        "authenticity": "N/A"
+        "severity": 4,
+        "authenticity": "Emphasized",
+        "authenticityModifier": 1.25,
+        "centrality": "Central",
+        "centralityModifier": 1.5,
+        "baseWeight": 3.0,
+        "weightedScore": 22.5,
+        "location": "Mid-film through resolution \u2014 Zootopia's founding narrative revealed as fabricated",
+        "scene": "Agnes De'Snake designed the weather walls. Ebenezer Lynxley stole the patent, framed her for murder, and used the anti-reptile hysteria to exile an entire population. The city's founding story is a lie. Agnes is retroactively credited as Zootopia's true founder.",
+        "context": "Fits the systemic exclusion allegory. The reveal is the emotional centerpiece of the film.",
+        "impact": "Shapes the resolution and the moral of the entire story. Moderate-high impact on the viewer's take-away.",
+        "verdict": "Deliberate and central.",
+        "authenticity_assessment": "Fits the narrative's own established world but applies a modern progressive revisionism framework to the fictional history."
       },
       {
         "trope": "The Colonialist Villain",
         "id": "WOKE-024",
         "category": "WOKE",
-        "location": "Throughout -- Lynxley family represents generational wealth built on theft and displacement",
-        "authenticity": "N/A"
+        "severity": 4,
+        "authenticity": "Emphasized",
+        "authenticityModifier": 1.25,
+        "centrality": "Central",
+        "centralityModifier": 1.5,
+        "baseWeight": 2.0,
+        "weightedScore": 15.0,
+        "location": "Throughout \u2014 the Lynxley family is the primary villain group",
+        "scene": "Milton Lynxley is an oligarch patriarch who orders the deaths of anyone who might expose his family's stolen legacy. His children are complicit. The family is explicitly coded as old-money aristocracy built on theft and displacement.",
+        "context": "Functions as the Succession-style dynastic villain family that reviewers noted. The coding is not subtle.",
+        "impact": "Major. The Lynxley family is the villain engine of the entire film.",
+        "verdict": "Clear and intentional progressive framing of inherited wealth and power.",
+        "authenticity_assessment": "Fits the film's internal logic but the explicit wealth-built-on-stolen-labor framing is ideologically motivated."
       },
       {
-        "trope": "Globalist Utopia / Multicultural Integration",
-        "id": "WOKE-017",
+        "trope": "Therapy Culture Normalized",
+        "id": "WOKE-022",
         "category": "WOKE",
-        "location": "Resolution -- reptiles officially reintegrated into Zootopia",
-        "authenticity": "N/A"
-      },
-      {
-        "trope": "The Victimhood Meritocracy",
-        "id": "WOKE-009",
-        "category": "WOKE",
-        "location": "Throughout -- Gary feared on sight despite innocence, victimhood as moral authority",
-        "authenticity": "N/A"
+        "severity": 3,
+        "authenticity": "Injected",
+        "authenticityModifier": 1.5,
+        "centrality": "Supporting",
+        "centralityModifier": 1.0,
+        "baseWeight": 1.0,
+        "weightedScore": 4.5,
+        "location": "Early film \u2014 Partners in Crisis therapy session with Dr. Fuzzbee",
+        "scene": "Chief Bogo mandates partners therapy with Dr. Fuzzbee, a quokka psychotherapist. The session is played as a legitimate and helpful intervention. Judy and Nick's eventual emotional openness about their respective childhood baggage is framed as the key to their breakthrough as partners.",
+        "context": "This is the most clearly injected element in the film. The therapy-as-solution framework and the centering of childhood trauma as the obstacle to adult partnership are contemporary progressive therapeutic culture, not organic to Zootopia's world-building.",
+        "impact": "Notable. Sets up the emotional resolution of the film's relationship arc. Not defining but meaningfully present.",
+        "verdict": "Injected. Feels like a message about the value of therapy rather than something that emerged from the story's needs.",
+        "authenticity_assessment": "Clearly imported from contemporary therapeutic culture. The Federalist critique is not wrong here."
       },
       {
         "trope": "The Marginalized Savant",
         "id": "WOKE-001",
         "category": "WOKE",
-        "location": "Mid-film -- Agnes De'Snake revealed as true genius behind weather walls",
-        "authenticity": "N/A"
+        "severity": 3,
+        "authenticity": "Natural",
+        "authenticityModifier": 0.75,
+        "centrality": "Supporting",
+        "centralityModifier": 1.0,
+        "baseWeight": 2.0,
+        "weightedScore": 4.5,
+        "location": "Mid-film \u2014 Agnes De'Snake revealed as true architect of Zootopia's weather walls",
+        "scene": "The journal reveals that Agnes, a female reptile from the exiled community, was the engineering genius behind Zootopia's climate control system. Ebenezer Lynxley stole the credit, framed her, and built his dynasty on her intellectual property.",
+        "context": "The marginalized genius whose work was stolen is a common progressive narrative. Here it fits the plot's mystery structure \u2014 the reveal has genuine story function, not just ideological function.",
+        "impact": "Important to the moral weight of the climax. The emotional payoff of Agnes being credited depends on this reveal.",
+        "verdict": "Present and intentional but not gratuitous. The trope serves the story as well as the message.",
+        "authenticity_assessment": "Natural. The trope fits the narrative's detective-story structure even as it carries ideological freight."
       },
       {
-        "trope": "Therapy Culture Advocacy",
-        "id": "WOKE-022",
+        "trope": "Victimhood as Moral Authority",
+        "id": "WOKE-009",
         "category": "WOKE",
-        "location": "Early film -- Partners in Crisis therapy validated as correct",
-        "authenticity": "N/A"
+        "severity": 3,
+        "authenticity": "Natural",
+        "authenticityModifier": 0.75,
+        "centrality": "Supporting",
+        "centralityModifier": 1.0,
+        "baseWeight": 2.0,
+        "weightedScore": 4.5,
+        "location": "Throughout \u2014 Gary is feared on sight by Zootopians who have never seen a snake",
+        "scene": "Gary is treated as dangerous and criminal purely because of what he is. His moral authority in the narrative derives partly from this innocence-under-suspicion dynamic.",
+        "context": "Inherent to the franchise's prejudice allegory. The original Zootopia built the same dynamic with foxes and wolves.",
+        "impact": "Moderate. Shapes Gary's character but does not dominate.",
+        "verdict": "Part of the franchise's DNA. Scored as Natural because Zootopia was always about this.",
+        "authenticity_assessment": "Natural to the franchise's established allegorical framework."
+      },
+      {
+        "trope": "Globalist Utopia / Multicultural Integration",
+        "id": "WOKE-017",
+        "category": "WOKE",
+        "severity": 3,
+        "authenticity": "Natural",
+        "authenticityModifier": 0.75,
+        "centrality": "Supporting",
+        "centralityModifier": 1.0,
+        "baseWeight": 1.0,
+        "weightedScore": 2.25,
+        "location": "Resolution \u2014 reptiles officially reintegrated into Zootopia society",
+        "scene": "The film ends with reptiles welcomed back to their restored district. The city celebrates. The multicultural integration that Zootopia aspired to in the first film is extended to a new community.",
+        "context": "The logical story conclusion given the franchise's stated premise. Not injected here.",
+        "impact": "Low-moderate. It is the expected ending given everything that came before.",
+        "verdict": "Present but organic to the story's resolution logic.",
+        "authenticity_assessment": "Natural. This is where the story had to go."
       },
       {
         "trope": "Coded LGBTQ+ Representation",
         "id": "WOKE-016",
         "category": "WOKE",
-        "location": "Background -- confirmed gay couple Bucky and Pronk, Nibbles' suggestive jokes",
-        "authenticity": "N/A"
-      },
-      {
-        "trope": "The Bigoted Traditionalist",
-        "id": "WOKE-008",
-        "category": "WOKE",
-        "location": "Throughout -- anti-reptile citizens presented as victims of propaganda",
-        "authenticity": "N/A"
+        "severity": 1,
+        "authenticity": "Emphasized",
+        "authenticityModifier": 1.25,
+        "centrality": "Background",
+        "centralityModifier": 0.5,
+        "baseWeight": 1.0,
+        "weightedScore": 0.625,
+        "location": "Background \u2014 Bucky and Pronk Oryx-Antlerson reappear as confirmed gay couple",
+        "scene": "The bickering antelope neighbors from the original film reappear briefly. Directors Jared Bush and Byron Howard confirmed in press that Bucky and Pronk are a gay couple. On screen their interaction is background only.",
+        "context": "Disney's confirmed-but-deniable LGBTQ+ representation approach. The directors confirm it; the film keeps it subtle enough to be cut in international markets.",
+        "impact": "Minimal on screen. More significant as a confirmed creative intent.",
+        "verdict": "Present. Background only. Scored accordingly.",
+        "authenticity_assessment": "Emphasized by director confirmation. The on-screen presence is Background."
       },
       {
         "trope": "Defense of the Innocent / Law Enforcement Heroes",
-        "id": "TRADITIONAL-045",
+        "id": "TRAD-045",
         "category": "TRAD",
-        "location": "Throughout -- Judy and Nick as genuinely heroic police officers",
-        "authenticity": "N/A"
-      },
-      {
-        "trope": "Industry and Perseverance",
-        "id": "TRADITIONAL-041",
-        "category": "TRAD",
-        "location": "Throughout -- every major character succeeds through relentless determination",
-        "authenticity": "N/A"
-      },
-      {
-        "trope": "The Self-Sacrificing Hero",
-        "id": "TRADITIONAL-026",
-        "category": "TRAD",
-        "location": "Climax -- Nick falls off weather wall to save Judy",
-        "authenticity": "N/A"
+        "severity": 5,
+        "authenticity": "Organic",
+        "authenticityModifier": 0.5,
+        "centrality": "Defining",
+        "centralityModifier": 2.0,
+        "baseWeight": 2.0,
+        "weightedScore": 10.0,
+        "location": "Throughout \u2014 Judy and Nick as the heroes of the film",
+        "scene": "Judy and Nick are ZPD police officers. They are portrayed as brave, skilled, morally serious, and worthy of audience identification throughout. They risk their lives and freedom to pursue justice for a marginalized community. Law enforcement is the mechanism through which justice is achieved.",
+        "context": "This is the genre. The film is a police procedural. The framing of police officers as heroes is not incidental \u2014 it is the story's core.",
+        "impact": "Defining. You cannot tell the story of Zootopia 2 without affirming the heroism of its police protagonists.",
+        "verdict": "Strong traditional signal. A film built around progressive messaging that nevertheless centers heroic police officers is doing something more nuanced than pure ideology.",
+        "authenticity_assessment": "Organic. The genre and the franchise require heroic law enforcement. This is not compensatory window dressing."
       },
       {
         "trope": "Partnership and Loyalty",
-        "id": "TRADITIONAL-047",
+        "id": "TRAD-047",
         "category": "TRAD",
-        "location": "Throughout -- central theme of Judy and Nick's tested and strengthened bond",
-        "authenticity": "N/A"
+        "severity": 5,
+        "authenticity": "Organic",
+        "authenticityModifier": 0.5,
+        "centrality": "Defining",
+        "centralityModifier": 2.0,
+        "baseWeight": 2.0,
+        "weightedScore": 10.0,
+        "location": "Throughout \u2014 the entire film is about Judy and Nick building and preserving their partnership",
+        "scene": "From the opening conflict through Dr. Fuzzbee's office to the weather wall climax, every major story beat tests and deepens the Judy-Nick partnership. Nick tells Judy he loves her before her neighbors interrupt. The repaired carrot pen is the film's emotional capstone.",
+        "context": "The sequel's core emotional project. Loyalty through adversity, trust built through shared sacrifice.",
+        "impact": "Defining. This is the heart of the film.",
+        "verdict": "The most powerful traditional element in the entire film. Genuinely earned and emotionally effective.",
+        "authenticity_assessment": "Organic. This is what the sequel was built to deliver."
       },
       {
-        "trope": "Restored Home / Homecoming",
-        "id": "TRADITIONAL-048",
+        "trope": "Truth and Justice Prevail via Institutions",
+        "id": "TRAD-050",
         "category": "TRAD",
-        "location": "Resolution -- every displaced character returns home, broken relationships mended",
-        "authenticity": "N/A"
+        "severity": 4,
+        "authenticity": "Organic",
+        "authenticityModifier": 0.5,
+        "centrality": "Central",
+        "centralityModifier": 1.5,
+        "baseWeight": 3.0,
+        "weightedScore": 9.0,
+        "location": "Resolution \u2014 evidence exposure leads to Lynxley arrests and legal vindication",
+        "scene": "Judy and Nick gather Agnes's original patent as evidence. The Lynxleys are arrested through the legal system they corrupted. Judy and Nick are cleared of all charges. The resolution is institutional \u2014 the system, given the truth, corrects itself.",
+        "context": "This is a classically conservative resolution. The heroes do not tear down Zootopia's institutions. They use those institutions to expose and punish the criminals who corrupted them. Reform within the system.",
+        "impact": "Central to the moral of the film. Significant traditional counterweight to the institutional evil framing.",
+        "verdict": "A genuine and meaningful traditional element. Progressive films that trust institutional reform over revolution are rare.",
+        "authenticity_assessment": "Organic to the genre and the franchise's established rules about how Zootopia works."
       },
       {
-        "trope": "Faith in Adversity",
-        "id": "TRADITIONAL-043",
+        "trope": "The Self-Sacrificing Hero",
+        "id": "TRAD-026",
         "category": "TRAD",
-        "location": "Brief -- Grandma Hopps prays daily for Judy's safety without mockery",
-        "authenticity": "N/A"
+        "severity": 4,
+        "authenticity": "Organic",
+        "authenticityModifier": 0.5,
+        "centrality": "Central",
+        "centralityModifier": 1.5,
+        "baseWeight": 3.0,
+        "weightedScore": 9.0,
+        "location": "Climax \u2014 Nick falls off the weather wall to save Judy",
+        "scene": "Nick throws the antivenom to Gary to cure Judy, then falls from the wall. He survives, but the choice to sacrifice himself physically for his partner is made without hesitation.",
+        "context": "Classic hero sacrifice. Emotionally effective and dramatically earned after a film spent building their partnership.",
+        "impact": "High emotional impact. The film's single most dramatic moment.",
+        "verdict": "Strong traditional signal delivered with full cinematic weight.",
+        "authenticity_assessment": "Organic. Emerges naturally from the story's partnership arc."
       },
       {
-        "trope": "Truth and Justice Prevail",
-        "id": "TRADITIONAL-050",
+        "trope": "Industry and Perseverance",
+        "id": "TRAD-041",
         "category": "TRAD",
-        "location": "Resolution -- heroes expose fraud through evidence, legal system delivers justice",
-        "authenticity": "N/A"
+        "severity": 4,
+        "authenticity": "Organic",
+        "authenticityModifier": 0.5,
+        "centrality": "Central",
+        "centralityModifier": 1.5,
+        "baseWeight": 2.0,
+        "weightedScore": 6.0,
+        "location": "Throughout \u2014 Judy and Nick grind through the investigation",
+        "scene": "Judy refuses to quit on the case when every institution is against her. Nick overcomes his deep personal distrust to stay by her side. Gary endures a century of inherited exile to bring his family's name back. Nobody waits to be saved.",
+        "context": "The franchise's default value system. Characters earn their outcomes through relentless effort.",
+        "impact": "Moderate. Shapes the tone of every investigative sequence.",
+        "verdict": "Consistent traditional signal throughout.",
+        "authenticity_assessment": "Organic to the genre and the characters."
+      },
+      {
+        "trope": "Homecoming / Restored Community",
+        "id": "TRAD-048",
+        "category": "TRAD",
+        "severity": 3,
+        "authenticity": "Natural",
+        "authenticityModifier": 0.75,
+        "centrality": "Supporting",
+        "centralityModifier": 1.0,
+        "baseWeight": 2.0,
+        "weightedScore": 4.5,
+        "location": "Resolution \u2014 Gary reunites with his family, reptiles return to their district",
+        "scene": "Gary is reunited with his family. The reptile community returns to their buried district, which is restored. Every broken relationship in the film is mended. The emphasis on going home and reuniting families is traditional in its emotional framework.",
+        "context": "The homecoming motif is one of the oldest structures in storytelling and carries strong traditional resonance regardless of the progressive allegory surrounding it.",
+        "impact": "Moderate emotional payoff. The family reunion is genuinely moving.",
+        "verdict": "Traditional in its emotional register even within a progressive plot framework.",
+        "authenticity_assessment": "Natural. Fits the story and carries genuine traditional warmth."
       },
       {
         "trope": "Traditional Family",
-        "id": "TRADITIONAL-036",
+        "id": "TRAD-036",
         "category": "TRAD",
-        "location": "Throughout -- Hopps and De'Snake families presented with warmth and respect",
-        "authenticity": "N/A"
+        "severity": 3,
+        "authenticity": "Organic",
+        "authenticityModifier": 0.5,
+        "centrality": "Supporting",
+        "centralityModifier": 1.0,
+        "baseWeight": 2.0,
+        "weightedScore": 3.0,
+        "location": "Throughout \u2014 Hopps family and De'Snake family both portrayed with warmth",
+        "scene": "Judy's parents Stu and Bonnie Hopps are present and loving. Grandma Hopps appears. Gary's motivation is entirely family-driven \u2014 clearing his great-grandmother's name and bringing his people home. Neither family is the villain.",
+        "context": "The franchise has consistently used the Hopps family as warm, supportive, occasionally overprotective but ultimately loving. This continues in the sequel.",
+        "impact": "Moderate. Grounds the emotional warmth of both protagonists in family love rather than purely individual achievement.",
+        "verdict": "Consistent traditional element. Not the most prominent but genuinely present.",
+        "authenticity_assessment": "Organic to the characters and the franchise."
+      },
+      {
+        "trope": "Faith in Adversity",
+        "id": "TRAD-043",
+        "category": "TRAD",
+        "severity": 2,
+        "authenticity": "Organic",
+        "authenticityModifier": 0.5,
+        "centrality": "Background",
+        "centralityModifier": 0.5,
+        "baseWeight": 3.0,
+        "weightedScore": 1.5,
+        "location": "Brief scene \u2014 Grandma Hopps prays daily for Judy's safety",
+        "scene": "A brief moment shows Grandma Hopps in prayer for Judy. It is played straight, without mockery or irony. Faith as a natural part of family life.",
+        "context": "Small but notable. Prayer played straight in a modern Disney film is not to be taken for granted.",
+        "impact": "Low. A brief scene but a clean one.",
+        "verdict": "Small traditional signal. Appreciated for its straightforwardness.",
+        "authenticity_assessment": "Organic to the character and played without agenda."
       }
     ],
     "seo": {
-      "titleTag": "Is Zootopia 2 (2025) Woke? Disney Animated Film Review | VirtueVigil",
-      "metaDescription": "Is Zootopia 2 woke? VirtueVigil's analysis: Woke Score 9, Traditional 8, $1.83B box office. Full trope audit, creative team deep dive, and family guidance."
+      "titleTag": "Is Zootopia 2 (2025) Woke? | VirtueVigil Review",
+      "metaDescription": "Is Zootopia 2 woke? VirtueVigil full analysis: Woke 91 / Traditional 53 (VVWS). Systemic exclusion allegory, colonialist villains, and therapy culture vs. heroic cops, sacrifice, and institutional trust. Full trope audit + family guide.",
+      "keywords": "is Zootopia 2 woke, Zootopia 2 2025 review, Zootopia 2 conservative review, Zootopia 2 parents guide, Zootopia 2 woke score, Jared Bush Disney ideology, Zootopia sequel colonialism, virtuevigil Zootopia 2"
     }
   },
   {
