@@ -312,6 +312,54 @@
     "poster": "/images/posters/longlegs-2024.jpg"
   },
   {
+    "slug": "challengers-2024",
+    "title": "Challengers",
+    "verdict": "WOKE",
+    "platform": "Theatrical (Amazon MGM Studios)",
+    "genre": "Romantic Drama, Sports Film",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 7,
+    "tradScore": 3,
+    "poster": "/images/posters/challengers-2024.jpg"
+  },
+  {
+    "slug": "hit-man-2024",
+    "title": "Hit Man",
+    "verdict": "MIXED",
+    "platform": "Netflix",
+    "genre": "Romantic Crime Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 4,
+    "poster": "/images/posters/hit-man-2024.jpg"
+  },
+  {
+    "slug": "kinds-of-kindness-2024",
+    "title": "Kinds of Kindness",
+    "verdict": "WOKE",
+    "platform": "Theatrical (Searchlight Pictures)",
+    "genre": "Black Comedy, Drama, Anthology",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 9,
+    "tradScore": 2,
+    "poster": "/images/posters/kinds-of-kindness-2024.jpg"
+  },
+  {
+    "slug": "the-fall-guy-2024",
+    "title": "The Fall Guy",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Universal Pictures)",
+    "genre": "Action Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 8,
+    "poster": "/images/posters/the-fall-guy-2024.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
