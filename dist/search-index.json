@@ -408,6 +408,54 @@
     "poster": "/images/posters/thelma-2024.jpg"
   },
   {
+    "slug": "civil-war-2024",
+    "title": "Civil War",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Amazon Prime Video",
+    "genre": "Action, Drama, War, Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 22,
+    "tradScore": 18,
+    "poster": "/images/posters/civil-war-2024.jpg"
+  },
+  {
+    "slug": "monkey-man-2024",
+    "title": "Monkey Man",
+    "verdict": "WOKE",
+    "platform": "Theatrical / Peacock",
+    "genre": "Action, Thriller, Revenge",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 28,
+    "tradScore": 14,
+    "poster": "/images/posters/monkey-man-2024.jpg"
+  },
+  {
+    "slug": "love-lies-bleeding-2024",
+    "title": "Love Lies Bleeding",
+    "verdict": "WOKE",
+    "platform": "Theatrical / MGM+",
+    "genre": "Neo-noir, Crime Thriller, Romance",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 26,
+    "tradScore": 9,
+    "poster": "/images/posters/love-lies-bleeding-2024.jpg"
+  },
+  {
+    "slug": "immaculate-2024",
+    "title": "Immaculate",
+    "verdict": "WOKE",
+    "platform": "Theatrical / Hulu",
+    "genre": "Horror, Religious Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 29,
+    "tradScore": 8,
+    "poster": "/images/posters/immaculate-2024.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
