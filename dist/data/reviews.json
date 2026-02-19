@@ -1,5 +1,272 @@
 [
   {
+    "id": "crime-101",
+    "slug": "crime-101",
+    "title": "Crime 101",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical (Working Title / Universal)",
+    "genre": "Crime, Thriller, Drama",
+    "date": "2026-02-19",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "17 min",
+    "poster": "/images/posters/crime-101.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 6,
+    "tradScore": 8,
+    "authIndex": 62,
+    "scoreMargin": "+2 TRAD",
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "Crime 101 is not hiding an ideological agenda behind genre packaging. This is a straightforward crime thriller that wears its Michael Mann influences on its sleeve. The social commentary is present but secondary to the heist mechanics and character dynamics. Conservative viewers who enjoy a well-crafted crime film will not feel ambushed. The film is more interested in being cool than being preachy.",
+      "viewerSentiment": null
+    },
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "No bait-and-switch. The progressive elements (workplace sexism subplot, poverty backstory for the protagonist, police corruption) are present throughout but never crowd out the genre pleasures. Conservative viewers know what they are getting from the trailer and will get it."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Bart Layton",
+        "ideology": "NEUTRAL",
+        "profile": "English filmmaker who made his name in documentaries (The Imposter, American Animals) before crossing into narrative features. His work is defined by a fascination with deception, identity, and the blurry line between truth and performance. He is not a political filmmaker. Three films, all centered on theft, deception, and consequences. No consistent political agenda. His documentary background lends his work a grounded quality that works against heavy-handed messaging."
+      },
+      "writer": {
+        "name": "Bart Layton (with Peter Straughan contributions); adapted from Don Winslow's novella",
+        "profile": "Layton adapted Don Winslow's lean novella with contributions from Peter Straughan (Tinker Tailor Soldier Spy, Our Brand Is Crisis). The screenplay adds the workplace sexism subplot and the police corruption elements. These additions carry the film's woke signals. Winslow is personally progressive on social media but his crime fiction is apolitical, operating in the tradition of Richard Stark's Parker novels."
+      },
+      "lead_producer": {
+        "name": "Tim Bevan & Eric Fellner",
+        "company": "Working Title Films"
+      },
+      "composer": {
+        "name": "Blanck Mass (Benjamin John Power)"
+      },
+      "top_cast": [
+        {
+          "name": "Chris Hemsworth",
+          "role": "Mike / James Davis"
+        },
+        {
+          "name": "Mark Ruffalo",
+          "role": "Det. Lou Lubesnick"
+        },
+        {
+          "name": "Halle Berry",
+          "role": "Sharon Combs"
+        },
+        {
+          "name": "Barry Keoghan",
+          "role": "Ormon"
+        },
+        {
+          "name": "Nick Nolte",
+          "role": "Money"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL-LEANING",
+        "confidence": "moderate"
+      },
+      "producers": [
+        {
+          "name": "Tim Bevan & Eric Fellner",
+          "company": "Working Title Films",
+          "profile": "Britain's leading prestige house. Output ranges from Four Weddings and a Funeral to Atonement to Les Miserables. Ideologically mixed. They produce what sells and what wins awards."
+        },
+        {
+          "name": "Dimitri Doganis",
+          "company": "Raw TV",
+          "profile": "Layton's producing partner. Background in documentary and reality television. No political signal."
+        },
+        {
+          "name": "Shane Salerno",
+          "company": "The Story Factory",
+          "profile": "Literary manager and producer, represents Don Winslow. No consistent ideological signal. Previous credits include Savages (2012) and Avatar sequels."
+        },
+        {
+          "name": "Chris Hemsworth & Ben Grayson",
+          "company": "Hemsworth's production banner",
+          "profile": "Hemsworth's production choices (Extraction franchise, Furiosa) suggest genre and action material rather than political projects."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Chris Hemsworth",
+          "role": "Mike / James Davis"
+        },
+        {
+          "name": "Mark Ruffalo",
+          "role": "Det. Lou Lubesnick"
+        },
+        {
+          "name": "Halle Berry",
+          "role": "Sharon Combs"
+        },
+        {
+          "name": "Barry Keoghan",
+          "role": "Ormon"
+        },
+        {
+          "name": "Monica Barbaro",
+          "role": "Maya"
+        },
+        {
+          "name": "Corey Hawkins",
+          "role": "Det. Tillman"
+        },
+        {
+          "name": "Jennifer Jason Leigh",
+          "role": "Angie"
+        },
+        {
+          "name": "Nick Nolte",
+          "role": "Money"
+        },
+        {
+          "name": "Tate Donovan",
+          "role": "Steven Monroe"
+        },
+        {
+          "name": "Devon Bostick",
+          "role": "Devon"
+        },
+        {
+          "name": "Payman Maadi",
+          "role": "Sammy Kassem"
+        },
+        {
+          "name": "Babak Tafti",
+          "role": "Ali"
+        },
+        {
+          "name": "Paul Adelstein",
+          "role": "Mark"
+        },
+        {
+          "name": "Matthew Del Negro",
+          "role": "Police Captain Stewart"
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "ADJUSTED",
+      "summary": "Sharon Combs's race is not specified in Winslow's source novella. Casting Halle Berry adds racial representation without the film engaging with race as a narrative element. The discrimination Sharon faces is framed entirely through gender and age, not race. The primary casting is faithful; this is one targeted diversity adjustment.",
+      "detailed_analysis": "Mike Davis (Chris Hemsworth): faithful to source. The character is physically imposing and magnetically private. Hemsworth goes quiet and internal, playing against his Thor persona effectively. Det. Lou Lubesnick (Mark Ruffalo): Ruffalo's rumpled, dogged energy fits the working-class detective perfectly. Sharon Combs (Halle Berry): Berry's casting changes the character's racial identity. The film does not address race in her storyline. Berry's performance is the strongest in the film. Ormon (Barry Keoghan): casting on-brand and dramatically appropriate. Money (Nick Nolte): inspired choice. Looks and sounds like a man who has spent decades in the criminal underworld. The casting works throughout; the Berry choice is the primary diversity adjustment."
+    },
+    "summary": {
+      "overall": "Bart Layton's Crime 101 is the kind of movie Hollywood used to make all the time and rarely bothers with anymore. A slick, sun-bleached Los Angeles crime thriller about professionals on both sides of the law, built on competence, tension, and the quiet rhythms of people who are very good at what they do. It owes a massive debt to Michael Mann. The night driving sequences look like outtakes from Heat and Collateral, and the central triangle of thief, cop, and reluctant accomplice echoes Mann's fascination with men and women defined by their work. The good news is that the debt is mostly paid off.\n\nChris Hemsworth plays Mike Davis, a jewel thief who plans his scores with surgical precision and refuses to hurt anyone. He targets jewelry stores along the 101 highway, uses detailed intelligence on his targets to ensure compliance, and then vanishes. Hemsworth plays him quiet and controlled, miles away from his Thor persona. It works. There is something compelling about watching a physically imposing man exercise restraint rather than force. Mark Ruffalo's Detective Lou Lubesnick is the rumpled, dogged investigator who suspects a single thief is responsible for a string of unsolved robberies but cannot get his department to care. And Halle Berry plays Sharon Combs, an insurance broker who has spent decades being passed over, patronized, and sidelined by her firm, and who ultimately agrees to help Mike with one last score.\n\nThe film's strongest material involves the heist mechanics and the cat-and-mouse between Mike and Lou. Layton comes from documentaries and he brings that instinct for grounded detail to the crime sequences. The opening diamond interception is tense and efficient. A car chase midway through the film is legitimately startling because it looks and feels real rather than CGI-glossy. Barry Keoghan's Ormon, a volatile young biker hired to intercept Mike's next job, provides the wild-card menace the plot needs. Nick Nolte shows up as Money, the aging fence, looking rough and sounding rougher. Maybe ten minutes of screen time and he steals every one of them.\n\nWhere the film stumbles is in its social commentary, which is sincere but occasionally heavy-handed. Sharon's workplace subplot hits every beat you expect. Her boss is a smirking corporate villain who hands her clients to younger women, cites her age as a liability, and generally behaves like a walking HR violation. When Sharon finally tells him off and quits, it is satisfying on a visceral level, but the setup is so stacked that the moment feels manufactured rather than earned. The film wants us to understand that Sharon turns to crime because the system failed her. That framing is recognizable as the progressive narrative of institutional failure driving individual transgression.\n\nSimilarly, the film frames Mike's criminality through economic disadvantage. He grew up in poverty, cycled through foster homes, and turned to theft because legitimate paths were closed to him. The film is not interested in holding Mike morally accountable in any serious way. He is the cool protagonist and we are meant to root for him. There is a long tradition of this in crime cinema, from Cary Grant to Steve McQueen to the Ocean's franchise. But Crime 101 adds the progressive garnish of systemic explanation, as if liking a charming thief is not enough and we also need to understand that society made him this way.\n\nLou's subplot involves police corruption. He is suspended for refusing to help cover up a shooting. His department is more interested in optics than justice. This is a familiar trope that plays differently depending on your political lens. Conservatives might read it as a condemnation of bureaucratic rot. Progressives might read it as a critique of policing. The film is vague enough to support both readings, which is either admirably balanced or noncommittal, depending on your taste.\n\nBut here is the thing. For all its social commentary, the film's emotional engine runs on entirely traditional fuel. Mike is defined by self-reliance, discipline, and a personal code of honor. He abhors violence. He plans meticulously. He takes pride in his craft. These are fundamentally masculine virtues presented without irony or apology. Lou is a dogged professional who believes in doing the right thing even when his institution does not support him. Individual moral conviction over institutional pressure. That is about as conservative a value as you can find.\n\nThe climax earns its weight. Mike kills Ormon to save Lou's life, sacrificing his score to protect a man who was trying to arrest him. Lou lets Mike walk and frames Ormon for the robberies, sacrificing his strict adherence to the law for a deeper sense of justice. Both men lose something. Both men earn something. The resolution rewards personal agency and sacrifice over systemic solutions, and the final image of Mike reaching out to Maya with a childhood photo is small and human and unexpectedly moving. Conservative viewers should find more to enjoy here than to bristle at.\n\nThis is a solid night at the movies for adults who enjoy crime fiction. The woke elements are real but they sit alongside, rather than on top of, a fundamentally traditional crime narrative.",
+      "adultInsight": "Bart Layton is not Steve McQueen. He is not using the crime genre as a vehicle for racial critique or institutional deconstruction. He is making a crime movie with the tools and sensibilities of contemporary Hollywood, which means some progressive seasoning is baked in. It never overwhelms the dish.\n\nThe workplace sexism subplot is the most overtly woke element, and even there, Berry's performance and the genre context soften the lecture. Sharon's boss is a strawman, but the scene where she quits is genuinely satisfying on dramatic terms regardless of your politics. Mike's poverty backstory is a familiar progressive flourish, but the film is far more interested in his competence and code than in his victimhood. And Lou's police corruption subplot is ambiguous enough to read as a conservative critique of bureaucratic incompetence rather than a progressive indictment of policing.\n\nWhat conservative viewers will appreciate is the film's genuine respect for competence, self-reliance, personal honor, and masculine virtue. Mike is cool because he is disciplined and skilled, not because he is transgressive. Lou is admirable because he follows his conscience against institutional pressure. The resolution rewards personal agency and sacrifice over systemic solutions. These are traditional values presented without irony in a glossy, entertaining package.\n\nThe film runs 140 minutes and the pace occasionally lags in the romantic subplot, but the heist sequences and the climactic hotel confrontation deliver genuine thrills. Hemsworth and Ruffalo are both working at a high level. Berry may be the best thing in the movie.",
+      "parentalGuidance": "Crime 101 is rated R for language throughout, some violence, and sexual material.\n\nViolence: Several intense sequences including a high-speed car chase with a vehicle flipping, a shooting in a hotel suite where a character is wounded, and a killing in the climax. The violence is realistic rather than stylized. Barry Keoghan's Ormon is menacing throughout, including a scene where he violently interrogates Sharon.\n\nSexual Content: Mike and Maya's relationship includes some sexual material and brief nudity. Nothing graphic or prolonged.\n\nLanguage: Strong language throughout, consistent with the crime genre. Frequent profanity.\n\nSubstance Use: Minimal. Some social drinking.\n\nThematic Content: The film depicts crime sympathetically. Mike is a thief the audience roots for. Lou ultimately bends the law to achieve what he considers justice. Sharon turns to crime after workplace discrimination. Parents should be prepared to discuss the difference between a film presenting sympathetic criminals for entertainment purposes and actual moral endorsement of criminal behavior.\n\nAge Recommendations: Not appropriate for children under 13. For teenagers 15 and older, this is a solid conversation starter about moral complexity in storytelling and whether a film can celebrate a character's skills without endorsing their choices. The film's resolution, in which nobody gets everything they want and everyone sacrifices something, offers a more nuanced moral outcome than most heist films."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Redeemed Criminal (Systemic)",
+        "id": "WOKE-019",
+        "category": "WOKE",
+        "location": "Throughout \u2014 Mike Davis's criminality contextualized through impoverished childhood, foster care system, and lack of legitimate opportunity",
+        "authenticity": "Mixed. The charming thief is a time-honored genre archetype. The systemic-poverty backstory is the contemporary editorial addition substituting for personal accountability."
+      },
+      {
+        "trope": "The Girl Boss",
+        "id": "WOKE-003",
+        "category": "WOKE",
+        "location": "Sharon's workplace subplot, 30-80 min \u2014 systematic passing-over, patronizing male superiors, cathartic quit speech, crime as liberation",
+        "authenticity": "Mixed. Berry's performance grounds the character but the writing stacks the deck with a cartoonish boss. Crime-as-liberation framing is the editorial amplification."
+      },
+      {
+        "trope": "Institutional Evil",
+        "id": "WOKE-004",
+        "category": "WOKE",
+        "location": "Lou's police subplot throughout \u2014 LAPD portrayed as institutionally corrupt, suspended for refusing to participate in cover-up of police shooting",
+        "authenticity": "Mixed. Police corruption is real. The framing as systemic rather than individual, plus the police shooting cover-up specifically, adds contemporary political charge."
+      },
+      {
+        "trope": "The Bigoted Traditionalist",
+        "id": "WOKE-008",
+        "category": "WOKE",
+        "location": "Sharon's workplace scenes \u2014 her boss cites her age as a liability, transfers clients to younger women, represents patriarchal corporate culture",
+        "authenticity": "Low. The character is too cartoonishly villainous to feel grounded."
+      },
+      {
+        "trope": "Victimhood Meritocracy",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "location": "Throughout \u2014 all three protagonists positioned as victims of systems that failed them; heist framed as justice rather than crime",
+        "authenticity": "Mixed. Each individual grievance is plausible. The cumulative pattern of all three sharing systemic-victim templates is the editorial choice."
+      },
+      {
+        "trope": "Race-Conscious Casting",
+        "id": "WOKE-022",
+        "category": "WOKE",
+        "location": "Throughout \u2014 Sharon Combs played by Halle Berry (race unspecified in source); det. partner played by Corey Hawkins",
+        "authenticity": "Borderline. The casting reflects industry trends without creating ideological distortion. Berry's race is not used as a narrative element."
+      },
+      {
+        "trope": "Industry and Perseverance",
+        "id": "TRADITIONAL-041",
+        "category": "TRADITIONAL",
+        "location": "Throughout Mike's heist preparation \u2014 meticulous planning, discipline, professional excellence, contempt for shortcuts",
+        "authenticity": "Authentic. The film celebrates craft and mastery. Mike is compelling because he is genuinely good at what he does and works hard at it."
+      },
+      {
+        "trope": "The Self-Sacrificing Hero",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Climax \u2014 Mike kills Ormon to save Lou's life and lets himself escape empty-handed; Lou frames Ormon and lets Mike walk, sacrificing his strict adherence to the law",
+        "authenticity": "Authentic. Mutual sacrifice operating on a code of personal honor that transcends legal categories. The emotional core of the film."
+      },
+      {
+        "trope": "Masculine Competence",
+        "id": "TRADITIONAL-035",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 Mike's planning, Lou's deductive work, even Ormon's savage effectiveness presented as respectable demonstrations of skill",
+        "authenticity": "Authentic to the genre's DNA. The film takes unironic pleasure in watching men who are good at their jobs."
+      },
+      {
+        "trope": "Personal Honor Code",
+        "id": "TRADITIONAL-029",
+        "category": "TRADITIONAL",
+        "location": "Throughout, particularly Mike's refusal of violence \u2014 no violence, meticulous planning, no collateral damage; code more important than any score",
+        "authenticity": "Authentic. Deeply rooted in the crime genre tradition from Le Samourai to Heat. Individual moral agency at its purest."
+      },
+      {
+        "trope": "Romantic Vulnerability",
+        "id": "TRADITIONAL-032",
+        "category": "TRADITIONAL",
+        "location": "Mike and Maya subplot \u2014 film treats his emotional isolation as a genuine failing, not a cool affectation; childhood photo as a gesture of growth",
+        "authenticity": "Authentic. The film honors vulnerability within a masculine framework without feminizing the protagonist."
+      },
+      {
+        "trope": "Defense of the Innocent",
+        "id": "TRADITIONAL-045",
+        "category": "TRADITIONAL",
+        "location": "Climax \u2014 Mike's only lethal act in the film is to protect Monroe and Lou from Ormon; breaks his own no-violence code to defend others",
+        "authenticity": "Authentic. The single act of violence is defensive, protective, and sacrificial. Reinforces that violence when necessary should protect the innocent."
+      },
+      {
+        "trope": "Earned Redemption",
+        "id": "TRADITIONAL-040",
+        "category": "TRADITIONAL",
+        "location": "Final act \u2014 each character earns their resolution through action and sacrifice rather than institutional process or external validation",
+        "authenticity": "Authentic. Nobody gets a free pass. Outcomes are proportional to risk and sacrifice."
+      },
+      {
+        "trope": "Loyalty and Brotherhood",
+        "id": "TRADITIONAL-042",
+        "category": "TRADITIONAL",
+        "location": "Climax and resolution \u2014 Mike-Lou adversarial bond becomes mutual respect; Mike leaves his car, Lou frames Ormon; bond forged through shared danger",
+        "authenticity": "Authentic. The Heat coffee-shop scene casts a long shadow over this genre and this film honors it well."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Crime 101 Woke? Chris Hemsworth Heist Film Review | VirtueVigil",
+      "metaDescription": "Is Crime 101 woke? VirtueVigil's verdict: MIXED (+2 Traditional). Chris Hemsworth heist thriller has workplace sexism subplot but strong traditional honor code and masculine competence. Full analysis.",
+      "keywords": "is crime 101 woke, crime 101 review conservative, crime 101 chris hemsworth woke, crime 101 halle berry, crime 101 bart layton review, crime thriller woke"
+    }
+  },
+  {
     "id": "predator-badlands",
     "slug": "predator-badlands",
     "title": "Predator: Badlands",

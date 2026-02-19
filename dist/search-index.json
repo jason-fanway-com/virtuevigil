@@ -1,5 +1,17 @@
 [
   {
+    "slug": "crime-101",
+    "title": "Crime 101",
+    "verdict": "MIXED",
+    "platform": "Theatrical (Working Title / Universal)",
+    "genre": "Crime, Thriller, Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6,
+    "tradScore": 8,
+    "poster": "/images/posters/crime-101.jpg"
+  },
+  {
     "slug": "predator-badlands",
     "title": "Predator: Badlands",
     "verdict": "WOKE",
