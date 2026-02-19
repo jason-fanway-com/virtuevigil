@@ -264,6 +264,54 @@
     "poster": "/images/posters/alien-romulus-2024.jpg"
   },
   {
+    "slug": "dune-part-two-2024",
+    "title": "Dune: Part Two",
+    "verdict": "WOKE",
+    "platform": "Theatrical / Max",
+    "genre": "Sci-Fi, Epic, Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 13,
+    "tradScore": 9,
+    "poster": "/images/posters/dune-part-two-2024.jpg"
+  },
+  {
+    "slug": "kingdom-of-the-planet-of-the-apes-2024",
+    "title": "Kingdom of the Planet of the Apes",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Disney+",
+    "genre": "Sci-Fi, Action, Adventure",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 13,
+    "poster": "/images/posters/kingdom-of-the-planet-of-the-apes-2024.jpg"
+  },
+  {
+    "slug": "deadpool-wolverine-2024",
+    "title": "Deadpool & Wolverine",
+    "verdict": "WOKE",
+    "platform": "Theatrical / Disney+",
+    "genre": "Superhero, Action-Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 11,
+    "tradScore": 8,
+    "poster": "/images/posters/deadpool-wolverine-2024.jpg"
+  },
+  {
+    "slug": "longlegs-2024",
+    "title": "Longlegs",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Shudder / Peacock",
+    "genre": "Horror, Thriller, Occult",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 6,
+    "tradScore": 11,
+    "poster": "/images/posters/longlegs-2024.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
