@@ -1,5 +1,17 @@
 [
   {
+    "slug": "melania-2026",
+    "title": "Melania",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Amazon MGM Studios)",
+    "genre": "Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 8,
+    "poster": "/images/posters/melania-2026.jpg"
+  },
+  {
     "slug": "marty-supreme-2025",
     "title": "Marty Supreme",
     "verdict": "MIXED",
