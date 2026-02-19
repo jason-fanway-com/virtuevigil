@@ -120,6 +120,54 @@
     "poster": "/images/posters/twisters-2024.jpg"
   },
   {
+    "slug": "white-lotus-s3",
+    "title": "The White Lotus — Season 3",
+    "verdict": "WOKE TRAP",
+    "platform": "HBO",
+    "genre": "Drama, Satire, Dark Comedy",
+    "year": 2025,
+    "type": "series",
+    "wokeScore": 16,
+    "tradScore": 9,
+    "poster": "/images/posters/white-lotus-s3.jpg"
+  },
+  {
+    "slug": "black-mirror-s7",
+    "title": "Black Mirror — Season 7",
+    "verdict": "MIXED",
+    "platform": "Netflix",
+    "genre": "Sci-Fi, Anthology, Dystopian",
+    "year": 2025,
+    "type": "series",
+    "wokeScore": 9,
+    "tradScore": 8,
+    "poster": "/images/posters/black-mirror-s7.jpg"
+  },
+  {
+    "slug": "andor-s2",
+    "title": "Andor — Season 2",
+    "verdict": "WOKE",
+    "platform": "Disney+",
+    "genre": "Sci-Fi, Drama, Political Thriller",
+    "year": 2025,
+    "type": "series",
+    "wokeScore": 15,
+    "tradScore": 10,
+    "poster": "/images/posters/andor-s2.jpg"
+  },
+  {
+    "slug": "the-penguin-2024",
+    "title": "The Penguin",
+    "verdict": "TRADITIONAL",
+    "platform": "HBO",
+    "genre": "Crime Drama, Superhero",
+    "year": 2024,
+    "type": "series",
+    "wokeScore": 9,
+    "tradScore": 14,
+    "poster": "/images/posters/the-penguin-2024.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
