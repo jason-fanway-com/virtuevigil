@@ -1,5 +1,17 @@
 [
   {
+    "slug": "wuthering-heights",
+    "title": "Wuthering Heights",
+    "verdict": "MIXED",
+    "platform": "Theatrical (MRC / Universal)",
+    "genre": "Drama, Romance, Period",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 7,
+    "tradScore": 5,
+    "poster": "/images/posters/wuthering-heights.jpg"
+  },
+  {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
     "verdict": "WOKE TRAP",
