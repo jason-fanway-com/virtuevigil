@@ -1,5 +1,17 @@
 [
   {
+    "slug": "dracula",
+    "title": "Dracula: A Love Tale",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (EuropaCorp / TF1 Films Production)",
+    "genre": "Gothic Romance, Horror, Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 12,
+    "poster": "/images/posters/dracula.jpg"
+  },
+  {
     "slug": "avatar-fire-and-ash",
     "title": "Avatar: Fire and Ash",
     "verdict": "WOKE",

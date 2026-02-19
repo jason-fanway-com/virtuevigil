@@ -1,5 +1,249 @@
 [
   {
+    "id": "dracula",
+    "slug": "dracula",
+    "title": "Dracula: A Love Tale",
+    "year": 2025,
+    "type": "film",
+    "platform": "Theatrical (EuropaCorp / TF1 Films Production)",
+    "genre": "Gothic Romance, Horror, Drama",
+    "date": "2026-02-19",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "19 min",
+    "poster": "/images/posters/dracula.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 3,
+    "tradScore": 12,
+    "authIndex": 78,
+    "scoreMargin": "+9 TRAD",
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "This film is exactly what it advertises: a Gothic romance built on eternal love, sacrifice, and faith. Luc Besson has no interest in modern identity politics here. No diversity lectures, no institutional grievance arcs, no revisionist history. The film's few questionable elements (a perfume subplot that borders on uncomfortable, a protagonist who denounces God early on) are resolved within the story's own moral framework. Dracula's rebellion against God is not celebrated. It is the curse that drives the entire tragedy.",
+      "viewerSentiment": null
+    },
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "No bait-and-switch. Besson delivers a sincere Gothic love story with a traditional moral architecture: sin has consequences, rebellion against God produces suffering, repentance and sacrifice produce redemption. Conservative viewers can go in with their guard down."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Luc Besson",
+        "ideology": "NEUTRAL",
+        "profile": "French populist entertainer with no consistent political agenda. His films favor spectacle, romance, action, and style over ideology. He has occasionally stumbled into progressive-coded territory (Lucy's female empowerment angle) but these are genre choices, not political commitments. His default mode is romantic spectacle with stylish action. After four decades making crowd-pleasers from La Femme Nikita to The Fifth Element to the Taken franchise, he is a showman, not a thinker."
+      },
+      "writer": {
+        "name": "Luc Besson (adapted from Bram Stoker's novel)",
+        "profile": "Sole credited writer. Besson adapted Stoker freely, relocating the action to Paris, adding original subplots (the perfume, the Florence sequences), and restructuring around the love story. His choices consistently favor romance and spectacle over horror. The theological framework (sin, curse, redemption through sacrifice) is preserved and in some ways strengthened compared to Stoker's original."
+      },
+      "lead_producer": {
+        "name": "Virginie Besson-Silla",
+        "company": "EuropaCorp / Luc Besson Production"
+      },
+      "composer": {
+        "name": "Danny Elfman"
+      },
+      "top_cast": [
+        {
+          "name": "Caleb Landry Jones",
+          "role": "Dracula / Prince Vlad"
+        },
+        {
+          "name": "Christoph Waltz",
+          "role": "The Priest (Van Helsing figure)"
+        },
+        {
+          "name": "Zoe Bleu",
+          "role": "Elisabeta / Mina Murray"
+        },
+        {
+          "name": "Matilda De Angelis",
+          "role": "Maria (Lucy figure)"
+        },
+        {
+          "name": "Guillaume de Tonquedec",
+          "role": "Dumont (Seward figure)"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL",
+        "confidence": "high"
+      },
+      "producers": [
+        {
+          "name": "Virginie Besson-Silla",
+          "company": "EuropaCorp",
+          "profile": "Luc Besson's longtime producing partner. Has produced nearly all of his recent films. No independent ideological signal. Business partner and creative collaborator who enables Besson's vision."
+        },
+        {
+          "name": "EuropaCorp / TF1 Films Production",
+          "company": "EuropaCorp",
+          "profile": "Besson's production and distribution company. Responsible for a vast catalog of French and international genre films (Taken, Transporter, Taxi franchise, Lucy). Commercial entertainment company with no political agenda beyond profitability."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Caleb Landry Jones",
+          "role": "Dracula / Prince Vlad"
+        },
+        {
+          "name": "Christoph Waltz",
+          "role": "The Priest"
+        },
+        {
+          "name": "Zoe Bleu",
+          "role": "Elisabeta / Mina Murray"
+        },
+        {
+          "name": "Guillaume de Tonquedec",
+          "role": "Dumont"
+        },
+        {
+          "name": "Matilda De Angelis",
+          "role": "Maria"
+        },
+        {
+          "name": "Ewens Abid",
+          "role": "Jonathan Harker"
+        },
+        {
+          "name": "Bertrand-Xavier Corbi",
+          "role": "Captain Targol"
+        },
+        {
+          "name": "David Shields",
+          "role": "Henry Spencer"
+        },
+        {
+          "name": "Haymon Maria Buttinger",
+          "role": "Cardinal"
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "FAITHFUL",
+      "summary": "The casting is straightforward and appropriate. Set in 15th-century Wallachia and 1889 Paris, the cast is overwhelmingly European. No conspicuous diversity insertions or anachronistic casting choices. One minor note: Jonathan Harker is played by French-Algerian actor Ewens Abid, whereas Harker is English in Stoker's novel. This does not appear to be a political choice; Besson frequently casts from the French acting pool regardless of character nationality.",
+      "detailed_analysis": "Caleb Landry Jones (Dracula): American actor in a Wallachian role. Jones brings the right energy for Besson's romantic interpretation. Besson wrote the role specifically for Jones after Dogman. Christoph Waltz (The Priest): Austrian actor as Vatican vampire hunter. Gravitas and wit. His European background suits the role perfectly. Zoe Bleu (Elisabeta/Mina): American actress (daughter of Virginia Madsen) in a dual romantic role. Young, classically beautiful, and relatively unknown. Her dual role demands romantic presence more than dramatic range. Matilda De Angelis (Maria): Italian actress in a European Gothic film. Entirely appropriate. Overall: no fidelity concerns. The cast serves the story without ideological interference."
+    },
+    "summary": {
+      "overall": "Luc Besson's Dracula: A Love Tale is a strange, kitschy, deeply sincere movie. And that sincerity is precisely what saves it.\n\nThe French director, best known for stylish action fare like Leon: The Professional and La Femme Nikita, has made a Dracula film that is barely a horror film at all. He has said openly that he is not a fan of horror and has no particular affinity for vampire mythology. What drew him was the love story. A man loses his wife. He is cursed with immortality. He spends four hundred years searching for her reincarnation. That premise, stripped of all the Gothic window dressing, is as traditional as storytelling gets. And Besson plays it completely straight.\n\nCaleb Landry Jones carries the film. This is not a surprise if you saw him in Besson's Dogman, where his off-kilter intensity elevated a messy script into something genuinely compelling. Here he plays Dracula as a figure of romantic tragedy rather than menace. The performance is earnest to the point of vulnerability. Whether he is storming a battlefield in 15th-century Wallachia, wandering centuries of exile in elaborate costumes, or dancing a Louis XIV two-step in a Parisian ballroom, Jones commits fully. There is no winking at the audience. No ironic distance. He is playing a man destroyed by love, and he means every frame of it.\n\nThe film opens in 1480 with Prince Vlad and his wife Elisabeta in a passionate relationship cut short by Ottoman invasion. After Elisabeta is murdered, Vlad loses himself to grief and rage. He stabs the kingdom's orthodox priest with a crucifix, denounces God, and is cursed with eternal life. He becomes Dracula. This is not presented as a triumph. It is presented as damnation. The film never loses sight of the fact that Vlad's rebellion against the divine is the source of his suffering, not his liberation. That moral clarity matters and it is the thread that holds everything together.\n\nFour hundred years later, in 1889 Paris, Dracula discovers that Jonathan Harker's fiancee Mina is the reincarnation of Elisabeta. What follows is a lavish, overwrought, occasionally ridiculous romantic pursuit set against the backdrop of the centenary of the French Revolution. Christoph Waltz shows up as a Vatican-sanctioned vampire hunter priest, delivering his lines with trademark sardonic precision. Matilda De Angelis plays Maria, one of Dracula's vampiric followers, with effective menace. The supporting cast fills out period roles without fuss.\n\nThe film's climax is where Besson earns his keep. Dracula is confronted by the priest, who urges him to repent lest he condemn Mina to eternal damnation. And Dracula chooses sacrifice. He allows himself to be staked. He disintegrates in Mina's arms after declaring his love. This is not the ending of a modern deconstructionist vampire film. This is the ending of a film that believes in redemption, that believes love requires sacrifice, that believes rebellion against God has consequences. The theological framework is not sophisticated, but it is present and it is sincere. In an era when most blockbusters treat faith as irrelevant or as an object of mockery, Dracula: A Love Tale treats it as the architecture of its entire story.\n\nVisually, the film draws on Flemish painting and chiaroscuro techniques. The production design is extravagant. 550 costumes were created. Sets were built from scratch. The armor was crafted by the same artisan who worked on Besson's Joan of Arc and by the team behind Game of Thrones. Danny Elfman's score weaves three main themes around a music box motif. The craftsmanship is real, even when the execution tips into camp.\n\nAnd it does tip into camp. There is no getting around the fact that some of this film is genuinely silly. Dracula creates a perfume in 18th-century Florence that makes him irresistible to women, a subplot that plays for comedy but carries uncomfortable implications. CG gargoyles serve as his henchmen. A sequence involving nuns is played for laughs in a way that will raise eyebrows. Besson has never been accused of subtlety, and he is not about to start now.\n\nBut the silliness is honest. Besson is not trying to deconstruct Dracula. He is not trying to make a statement about colonialism or toxic masculinity or systemic anything. He is trying to tell a love story about a man who waited four centuries for the woman he lost. And when the film works, which is more often than the 52% Rotten Tomatoes score suggests, it works because it leans into tradition rather than running from it.\n\nConservative viewers looking for a film that respects its source material, centers romantic devotion and sacrifice, treats faith as a serious moral force, and avoids modern ideological baggage will find Dracula: A Love Tale a pleasant surprise. It is not a masterpiece. It is too kitschy for that, too uneven, too willing to indulge Besson's more eccentric impulses. But it is a film that believes in something. In a landscape of hollow franchise content and message-first filmmaking, that counts for more than it should have to.",
+      "adultInsight": "Conservative adult viewers can approach Dracula: A Love Tale as a rare mainstream release that actually operates within a traditional moral framework. The film is not perfect. It is frequently campy, occasionally silly, and the perfume subplot has uncomfortable consent implications that the film does not adequately address. But the moral architecture is sound. Sin has consequences. Rebellion against God produces suffering. Love requires sacrifice. Repentance is possible. These are not incidental themes. They are the load-bearing walls of the entire story.\n\nBesson is not a conservative filmmaker. He is not trying to make a statement about faith or traditional values. He is trying to tell a love story and make a beautiful movie. But his instincts as a romantic storyteller led him to traditional moral structures because those structures work. They have always worked. The fact that the audience score (81%) so dramatically outpaces the critical score (52%) on Rotten Tomatoes tells you something. Critics found the film kitschy and derivative. Audiences found it sincere and moving. That gap often indicates a film that connects with ordinary viewers on values that professional critics have been trained to dismiss.\n\nThe film also offers a useful counterpoint: not every adaptation of classic Western literature needs to be deconstructed, subverted, or reimagined for modern audiences. Besson treats Stoker's novel with genuine affection. He takes liberties with the plot, but he preserves the moral core. Dracula is a villain who earns sympathy but is ultimately destroyed. Good triumphs. Love costs something. God is real and His authority has consequences. In 2026, that is a genuinely countercultural set of premises for a major theatrical release.",
+      "parentalGuidance": "Rated R. The primary parental concern is sexual content rather than horror violence.\n\nViolence: Moderate. The opening battle sequence is intense, with medieval combat and severed heads (35 prosthetic severed heads were created for this sequence). A woman is murdered. The climactic castle siege involves combat. But overall the gore is restrained for a Dracula film. Besson deliberately minimized horror elements.\n\nSexual Content: Main concern. The film opens with an intense love scene between Vlad and Elisabeta. The perfume subplot involves women becoming uncontrollably attracted to Dracula, including a comic sequence with nuns that involves sexual aggression. Romantic content is passionate throughout. The consent implications of the perfume are not adequately addressed.\n\nLanguage: Mild for an R-rated film.\n\nScary Content: CG gargoyles serve as Dracula's henchmen. The aged Dracula makeup (6-7 hours of application) is genuinely unsettling. Atmospheric castle sequences may disturb younger viewers.\n\nAge Recommendations: Not appropriate for children under 14. For teens 14-17, this can be an excellent gateway to Bram Stoker's novel and conversations about Gothic literature, the moral structure of classic horror, and the difference between romantic devotion and obsessive control.\n\nDiscussion Guidance: (1) Why does the film treat Vlad's rejection of God as the source of his curse rather than his liberation? (2) Is Dracula's 400-year pursuit romantic devotion or obsessive control? (3) The perfume subplot removes women's ability to choose. Why does the film treat this mostly as comedy? (4) How does Dracula's sacrifice compare to other stories about sacrificial love? These conversations will be more valuable than the film itself."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Uncomfortable Consent Framing",
+        "id": "WOKE-030",
+        "category": "WOKE",
+        "location": "Second act, Florence and Paris sequences \u2014 Dracula creates a supernatural perfume that removes women's ability to consent; played mostly for comedy",
+        "authenticity": "Not from Stoker. A Besson invention. The film resolves it correctly (Dracula ultimately destroys the perfume) but does not adequately interrogate the implications."
+      },
+      {
+        "trope": "Anti-Religious Framing (Temporary)",
+        "id": "WOKE-011",
+        "category": "WOKE",
+        "location": "Opening act \u2014 Vlad stabs the orthodox priest with a crucifix and denounces God after Elisabeta's death",
+        "authenticity": "Not woke in context. This act of blasphemy is the inciting sin that curses Vlad for 400 years. The film's moral logic requires that rebellion against God produces suffering. The arc ends in repentance and sacrifice."
+      },
+      {
+        "trope": "Sexualized Comedy",
+        "id": "WOKE-022b",
+        "category": "WOKE",
+        "location": "Second act \u2014 nuns become sexually aggressive under Dracula's perfume influence, played entirely for laughs",
+        "authenticity": "Pure Besson invention. Juvenile more than ideological. Tasteless but not subversive."
+      },
+      {
+        "trope": "Eternal Devotion",
+        "id": "TRADITIONAL-027",
+        "category": "TRADITIONAL",
+        "location": "Entire film \u2014 Dracula's 400-year quest to find the reincarnation of his wife; every choice driven by devotion to one woman",
+        "authenticity": "Authentic. Besson said explicitly he wanted to tell a love story about a man who waits four centuries for his wife's reincarnation. Draws from Coppola's 1992 framing and from the romantic undercurrents in Stoker's novel."
+      },
+      {
+        "trope": "The Self-Sacrificing Hero",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Final act \u2014 Dracula chooses to be staked rather than condemn Mina to damnation; disintegrates in her arms after declaring his love",
+        "authenticity": "Authentic. The moral climax. Four centuries of selfish desire yield to selfless love. The sacrifice is unambiguous and Christ-resonant in structure."
+      },
+      {
+        "trope": "Faith as Moral Architecture",
+        "id": "TRADITIONAL-043",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 entire plot operates within a theological framework; God's curse is real; priest represents divine authority; Dracula's final choice framed as repentance",
+        "authenticity": "Authentic. Amplified from Stoker, who embedded Christian moral logic throughout the novel. Besson makes it the central moral axis rather than decorative symbolism."
+      },
+      {
+        "trope": "Traditional Femininity",
+        "id": "TRADITIONAL-036",
+        "category": "TRADITIONAL",
+        "location": "Throughout Elisabeta/Mina scenes \u2014 both versions of the character defined through romantic devotion; Mina's final request to be turned is an act of romantic commitment",
+        "authenticity": "Consistent with Stoker's characterization of Mina, though Besson simplifies her considerably."
+      },
+      {
+        "trope": "Craftsmanship and Industry",
+        "id": "TRADITIONAL-041",
+        "category": "TRADITIONAL",
+        "location": "Production level throughout \u2014 550 handmade costumes, practical armor by Terry English, sets built from scratch, 200 prosthetic makeups",
+        "authenticity": "Authentic. In an era of lazy CGI, Besson's commitment to practical craftsmanship is notable and visible. The artisan lineage is verifiable."
+      },
+      {
+        "trope": "Defense of the Innocent",
+        "id": "TRADITIONAL-045",
+        "category": "TRADITIONAL",
+        "location": "Final act \u2014 the priest and his associates lay siege to Dracula's castle to rescue Mina; mission framed as righteous",
+        "authenticity": "Authentic. Consistent with Stoker's novel, where Van Helsing and the heroes are unambiguously righteous. The priest is not a fanatic or a fool."
+      },
+      {
+        "trope": "Classical Source Fidelity",
+        "id": "TRADITIONAL-047",
+        "category": "TRADITIONAL",
+        "location": "Entire film \u2014 Harker imprisoned in the castle, vampire pursuing Mina, Van Helsing-figure leading the counter-attack, final confrontation with moral resolution",
+        "authenticity": "Faithful in spirit. Besson treats Stoker's novel as a foundation rather than as material to subvert. Core moral beats preserved: Dracula is destroyed, good triumphs, love costs something."
+      },
+      {
+        "trope": "Romantic Commitment",
+        "id": "TRADITIONAL-028",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 Dracula does not move on, does not find someone new, waits four centuries for one woman; the 81% audience score vs 52% critic score reflects this resonance",
+        "authenticity": "Authentic. A romantic amplification of Stoker's Gothic romanticism. The film's insistence on permanent, all-consuming devotion is countercultural in a disposable-relationship era."
+      },
+      {
+        "trope": "Consequences of Sin",
+        "id": "TRADITIONAL-033",
+        "category": "TRADITIONAL",
+        "location": "Entire narrative arc \u2014 Vlad's rejection of God produces his curse; curse produces centuries of suffering; resolved only through repentance and self-sacrifice",
+        "authenticity": "Authentic. One of the clearest sin-consequence-redemption arcs in recent blockbuster filmmaking. The moral cause-and-effect is clear and unbroken."
+      },
+      {
+        "trope": "Male Protector",
+        "id": "TRADITIONAL-051",
+        "category": "TRADITIONAL",
+        "location": "Opening battle and final sacrifice \u2014 Vlad rides to war to protect kingdom and wife; priest takes up arms to protect Mina; Harker attempts to return to save his fiancee",
+        "authenticity": "Authentic. Every major male character defined by protective instinct toward women or the innocent. Presented without irony or subversion."
+      },
+      {
+        "trope": "Honor and Duty",
+        "id": "TRADITIONAL-025",
+        "category": "TRADITIONAL",
+        "location": "The priest's arc throughout \u2014 Vatican-sanctioned vampire hunter who confronts Dracula not out of hatred but out of duty to God and concern for Mina's soul",
+        "authenticity": "Authentic. The priest could easily have been written as a zealot or hypocrite. Instead he is written as a competent, principled man of faith. Consistent with Van Helsing in Stoker."
+      },
+      {
+        "trope": "Beauty and Aesthetics",
+        "id": "TRADITIONAL-039",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 Flemish painting inspiration, lavish costumes, handcrafted sets, Elfman's lush orchestral score, deliberate visual beauty without irony",
+        "authenticity": "Authentic. The Flemish painting influence is intentional and visible. The pursuit of beauty as an end in itself is a traditional artistic value that Besson honors."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Dracula: A Love Tale Woke? Luc Besson Film Review | VirtueVigil",
+      "metaDescription": "Is Dracula: A Love Tale (2025) woke? VirtueVigil's verdict: TRADITIONAL (+9). Luc Besson's Gothic romance features genuine faith, sacrifice, and consequences of sin. Full analysis.",
+      "keywords": "is dracula a love tale woke, dracula 2025 review conservative, dracula a love tale luc besson, caleb landry jones dracula, dracula woke traditional, luc besson dracula review"
+    }
+  },
+  {
     "id": "avatar-fire-and-ash",
     "slug": "avatar-fire-and-ash",
     "title": "Avatar: Fire and Ash",
