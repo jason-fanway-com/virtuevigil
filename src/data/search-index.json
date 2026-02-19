@@ -1,5 +1,17 @@
 [
   {
+    "slug": "predator-badlands",
+    "title": "Predator: Badlands",
+    "verdict": "WOKE",
+    "platform": "Theatrical (20th Century Studios / Disney)",
+    "genre": "Sci-Fi, Action, Adventure",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 9,
+    "tradScore": 5,
+    "poster": "/images/posters/predator-badlands.jpg"
+  },
+  {
     "slug": "mercy-2026",
     "title": "Mercy (2026)",
     "verdict": "MIXED",
