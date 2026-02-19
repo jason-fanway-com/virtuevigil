@@ -1,5 +1,17 @@
 [
   {
+    "slug": "mercy-2026",
+    "title": "Mercy (2026)",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi, Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5,
+    "tradScore": 8,
+    "poster": "/images/posters/mercy-2026.jpg"
+  },
+  {
     "slug": "crime-101-2026",
     "title": "Crime 101 (2026)",
     "verdict": "TRADITIONAL",
@@ -550,18 +562,6 @@
     "wokeScore": 7,
     "tradScore": 5,
     "poster": "/images/posters/thunderbolts.jpg"
-  },
-  {
-    "slug": "mercy-2026",
-    "title": "Mercy",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Sci-Fi, Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 5,
-    "tradScore": 8,
-    "poster": "/images/posters/mercy-2026.jpg"
   },
   {
     "slug": "dracula-a-love-tale-2025",
