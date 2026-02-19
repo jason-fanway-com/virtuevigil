@@ -1,5 +1,17 @@
 [
   {
+    "slug": "iron-lung-2026",
+    "title": "Iron Lung",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Markiplier Studios)",
+    "genre": "Horror",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 7,
+    "poster": "/images/posters/iron-lung-2026.jpg"
+  },
+  {
     "slug": "melania-2026",
     "title": "Melania",
     "verdict": "TRADITIONAL",
