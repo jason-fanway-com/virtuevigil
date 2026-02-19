@@ -1,5 +1,17 @@
 [
   {
+    "slug": "hurry-up-tomorrow",
+    "title": "Hurry Up Tomorrow",
+    "verdict": "MIXED",
+    "platform": "Theatrical (Lionsgate)",
+    "genre": "Psychological Thriller, Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 5,
+    "poster": "/images/posters/hurry-up-tomorrow.jpg"
+  },
+  {
     "slug": "dracula",
     "title": "Dracula: A Love Tale",
     "verdict": "TRADITIONAL",
