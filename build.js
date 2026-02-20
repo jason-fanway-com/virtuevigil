@@ -692,7 +692,7 @@ function creativeTeamFull(r) {
             <div class="ctf-profile ctf-fidelity">
               <h4><i class="fas fa-theater-masks" style="color:var(--gold);"></i> Fidelity Casting Analysis <span class="fidelity-badge ${fidClass}">${esc(r.fidelity_casting.score)}</span></h4>
               ${r.fidelity_casting.summary ? `<p><strong>${esc(r.fidelity_casting.summary)}</strong></p>` : ''}
-              <p>${esc(r.fidelity_casting.detailed_analysis)}</p>
+              <div class="fidelity-analysis">${mdToHtml(r.fidelity_casting.detailed_analysis)}</div>
             </div>`;
   }
 
