@@ -1100,6 +1100,33 @@ ${pageScripts()}
 }
 
 
+function build404Page() {
+  return `${htmlHead({
+    title: 'Page Not Found | VirtueVigil',
+    description: 'The page you are looking for does not exist. Browse VirtueVigil reviews and cultural analysis.',
+    canonical: `${SITE_URL}/404.html`,
+  })}
+<body>
+  ${siteHeader('')}
+
+  <section class="page-hero" style="min-height:60vh;display:flex;align-items:center;justify-content:center;text-align:center;">
+    <div class="container">
+      <div style="font-size:5rem;margin-bottom:16px;">🔍</div>
+      <h1 style="font-size:2.5rem;">Page Not Found</h1>
+      <p style="color:var(--text-secondary);font-size:1.1rem;max-width:480px;margin:16px auto 32px;">That page doesn't exist — it may have been moved, renamed, or never existed in the first place.</p>
+      <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+        <a href="/" class="btn-primary">← Back to Home</a>
+        <a href="/category/films/" class="btn-secondary">Browse Film Reviews</a>
+      </div>
+    </div>
+  </section>
+
+  ${fullFooter()}
+  ${pageScripts()}
+</body>
+</html>`;
+}
+
 function buildAboutPage() {
   const structuredData = {
     "@context": "https://schema.org",
@@ -1686,6 +1713,7 @@ function build() {
   writePage('about.html', buildAboutPage());
   writePage('methodology.html', buildMethodologyPage());
   writePage('woke-trap.html', buildWokeTrapPage());
+  writePage('404.html', build404Page());
 
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
@@ -1766,7 +1794,7 @@ function build() {
 
   // --- Summary ---
   const subscriberPages = 3; // subscribe, account, auth/callback
-  const staticPages = 4; // index, about, methodology, woke-trap
+  const staticPages = 5; // index, about, methodology, woke-trap, 404
   const totalPages = staticPages + subscriberPages + reviews.length + Object.keys(catMap).length;
   console.log(`\n=========================`);
   console.log(`Build complete!`);
