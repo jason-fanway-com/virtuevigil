@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-running-man-2025",
+    "title": "The Running Man",
+    "verdict": "MIXED",
+    "platform": "Theatrical (Paramount Pictures)",
+    "genre": "Action",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 5,
+    "tradScore": 5,
+    "poster": "/images/posters/the-running-man-2025.jpg"
+  },
+  {
     "slug": "warfare-2025",
     "title": "Warfare",
     "verdict": "TRADITIONAL",

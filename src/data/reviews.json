@@ -1,5 +1,233 @@
 [
   {
+    "id": "the-running-man-2025",
+    "slug": "the-running-man-2025",
+    "title": "The Running Man",
+    "year": 2025,
+    "type": "film",
+    "platform": "Theatrical (Paramount Pictures)",
+    "genre": "Action",
+    "date": "2026-02-20",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "17 min",
+    "poster": "/images/posters/the-running-man-2025.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 5,
+    "tradScore": 5,
+    "authIndex": 51,
+    "scoreMargin": "0 NEUTRAL",
+    "wokeTrap": {
+      "present": true,
+      "degree": "partial",
+      "explanation": "The trailers sell a slick, stylish action movie with Glen Powell at his most charismatic. They do not foreground the anti-media satire's specific ideological framing: Ben Richards is wrongly convicted for refusing orders to shoot refugees, which is a 2025 update to King's original novel that adds a specific political charge. Conservative viewers who come for the action and stay for the anti-media satire will find the satire cuts in more than one direction. The film's strongest indictment is of entertainment media as a tool of state control and mass distraction, which conservatives can and should claim. The specific details around immigration politics are where the progressive framing is most visible.",
+      "viewerSentiment": "Conservative viewers who enjoy action films and are curious about the anti-media satire angle will find a genuinely balanced target for that satire \u2014 mainstream entertainment media, not their political side specifically. The refugee framing is the most pointed progressive element."
+    },
+    "woke_trap_assessment": {
+      "is_trap": true,
+      "explanation": "Partial woke trap. The marketing sold a pure action movie. The film delivers a dystopian media satire with specific progressive framing choices (refugee backstory, class-based conscription) that are absent from the trailer. The satire itself, however, lands on both sides of the political aisle since the argument that entertainment media exists to pacify and control populations is as much a conservative concern as a progressive one."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Edgar Wright",
+        "ideology": "NEUTRAL (commercial genre stylist, British)",
+        "profile": "British director whose career has been defined by stylistic innovation applied to beloved genres: Shaun of the Dead (zombie comedy), Hot Fuzz (action thriller), Scott Pilgrim vs. the World (video game romance), Baby Driver (crime musical), Last Night in Soho (psychological horror). Wright is a craftsman and an enthusiast rather than a political filmmaker. His only consistent political gesture is Hot Fuzz's anti-conformist critique of British 'community standards,' which reads as conservative libertarian as easily as progressive. He has no discernible American political agenda. The Running Man's ideological content is more attributable to Stephen King's source material and Bacall's screenplay contributions than to Wright's directorial choices."
+      },
+      "writer": {
+        "name": "Edgar Wright & Michael Bacall",
+        "profile": "Bacall co-wrote 21 Jump Street, Scott Pilgrim vs. the World, and Project X. His background is in genre comedy with sharp writing. The decision to update King's 'rioters' to 'refugees' in Richards' backstory is the screenplay's most politically specific choice. Whether this reflects Bacall's politics or a calculation about contemporary audience sympathies is not public knowledge. The adaptation otherwise follows King's structural logic: working class man, rigged system, individual triumph over corrupt media, truth revealed."
+      },
+      "lead_producer": {
+        "name": "Edgar Wright & Nira Park",
+        "company": "Complete Fiction / Paramount"
+      },
+      "composer": {
+        "name": "Nathan Barr & Steven Price"
+      },
+      "top_cast": [
+        {
+          "name": "Glen Powell",
+          "role": "Ben Richards"
+        },
+        {
+          "name": "Josh Brolin",
+          "role": "Damon Killian"
+        },
+        {
+          "name": "Emilia Jones",
+          "role": "Amber Mendez"
+        },
+        {
+          "name": "Lee Pace",
+          "role": "Evan McCready (The Host)"
+        },
+        {
+          "name": "Daniel Ezra",
+          "role": "Harold Weiss"
+        },
+        {
+          "name": "Michael Pena",
+          "role": "Chuck Wilson"
+        }
+      ],
+      "prediction": {
+        "verdict": "MIXED",
+        "confidence": "moderate"
+      },
+      "producers": [
+        {
+          "name": "Nira Park",
+          "company": "Complete Fiction",
+          "profile": "Wright's longtime producing partner, on every major Edgar Wright project since Spaced. Her role is enabling Wright's creative vision, not injecting independent political content. No independent ideological signal."
+        },
+        {
+          "name": "Paramount Pictures",
+          "company": "Paramount",
+          "profile": "Major Hollywood studio with no strong ideological direction relative to its peers. Distributed both Top Gun: Maverick and Mission: Impossible films alongside more progressive projects. Commercial decisions drive their slate."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Glen Powell",
+          "role": "Ben Richards"
+        },
+        {
+          "name": "Josh Brolin",
+          "role": "Damon Killian"
+        },
+        {
+          "name": "Emilia Jones",
+          "role": "Amber Mendez"
+        },
+        {
+          "name": "Lee Pace",
+          "role": "Evan McCready / The Host"
+        },
+        {
+          "name": "Daniel Ezra",
+          "role": "Harold Weiss"
+        },
+        {
+          "name": "Michael Pena",
+          "role": "Chuck Wilson"
+        },
+        {
+          "name": "Karl Glusman",
+          "role": "Laughlin"
+        },
+        {
+          "name": "Billy Magnussen",
+          "role": "Subzero"
+        },
+        {
+          "name": "Justin Hartley",
+          "role": "Dynamo"
+        },
+        {
+          "name": "Pilou Asbaek",
+          "role": "Fireball"
+        },
+        {
+          "name": "Joel Kinnaman",
+          "role": "Captain Freedom"
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "ADJUSTED",
+      "summary": "Stephen King's 1982 novel depicts Ben Richards as a physically slight, nearly cadaverous young man from a working-class background. Glen Powell is the opposite: a physically imposing, movie-star charismatic Texan. This is the most significant casting departure from the source material, though it mirrors the Schwarzenegger 1987 adaptation's same logic of making Richards a traditional action hero rather than King's drawn, desperate everyman. The character of Amber Mendez comes from the 1987 film, not the novel. The updating of rival contestants and supporting cast reflects standard contemporary industry practice.",
+      "detailed_analysis": "Ben Richards (Glen Powell): King's Richards is thin, haunted, driven by desperate love for his sick daughter. Powell plays Richards as confident, charismatic, and athletically capable from the start. The adaptation prioritizes star power over literary fidelity for the protagonist, which is an honest commercial choice. Damon Killian (Josh Brolin): King's Killian is a smooth TV professional who views Richards as entertainment product. Brolin plays him as a more overtly menacing villain. The spirit is preserved, the tone is darker. Amber Mendez (Emilia Jones): Not in the novel. She carries over from the 1987 film as Richards' love interest and reluctant ally. The 2025 version makes her an active participant and resource rather than a pure hostage. Stalkers/Contestants: Updated from the novel with new characters. No significant ideological casting concerns. The diverse ensemble reflects contemporary studio norms without ideological purpose."
+    },
+    "summary": {
+      "overall": "This review discusses the full plot including the ending.\n\nEdgar Wright's The Running Man arrives in 2025 with the gleam of a great idea and the slight slippage of a film that is very good at being fun without quite delivering the classic it aims for. Glen Powell is a natural star in the mode of Tom Cruise and Cary Grant, a man for whom physical competence and easy charisma are the same quality expressed in different registers. The film knows this and uses him expertly. Josh Brolin as Killian brings menace with a professional gloss. Emilia Jones as Amber Mendez holds her own as an action co-lead. The film looks spectacular and moves quickly for its first ninety minutes. Then the second half wobbles, and the wobble is revealing about what the film actually is and is not.\n\nBen Richards (Powell) is a soldier framed for crimes he did not commit. Specifically, he refused orders to shoot at refugees and was subsequently blamed for the massacre that followed. He is sentenced and entered into The Running Man, a television program in which convicted criminals are hunted by elite Stalkers in an elaborate arena for the entertainment of a pacified citizenry. If he survives thirty days, he goes free. No one survives. The show is rigged.\n\nThe premise comes from Stephen King's 1982 novel, written as Richard Bachman during the bleakest period of Reagan-era dystopian anxiety. King's novel depicts a broken, desperate man whose love for his sick daughter drives him past the limits of ordinary courage. Wright's film gives us a version of this premise filtered through the sensibility of the director who made Baby Driver, which means the aesthetics are extraordinary and the emotional register is somewhat cooler. This is not necessarily a criticism. Wright's cinema has always been about the pleasure of watching competent people do things at the edge of their capability. The Running Man provides ample opportunity for this.\n\nThe Stalkers are the film's best invention. Billy Magnussen as Subzero, Joel Kinnaman as Captain Freedom, Justin Hartley as Dynamo, and Pilou Asbaek as Fireball are each given distinctive visual design and combat specialization. The arena sequences involving them are the film's most purely enjoyable passages: Wright staging action with his characteristic precision, Powell demonstrating the same quality of physical commitment he brought to Top Gun: Maverick. The sequence where Richards improvises a weapon from arena materials to take down Subzero is the film's highlight.\n\nThe satire targets are where things get ideologically interesting. The Running Man is an anti-media film. It argues that entertainment television exists to pacify the population, provide emotional catharsis for class resentment, and prevent genuine political engagement with the conditions of ordinary working people's lives. The game show draws its contestants by lottery from the working poor. The winners are celebrated as heroes but secretly eliminated. The audience believes in a freedom that does not exist. Killian maintains the show's ratings through manufactured narrative and editorial control of which violence reaches screens.\n\nHere is the thing that conservative viewers should know: this critique lands on both sides of contemporary American culture. The argument that powerful media institutions manipulate working-class audiences through emotional programming and manufactured outrage is not a progressive argument in 2025. It is an argument that has been central to conservative media criticism for a generation. Tucker Carlson and Rush Limbaugh spent decades making versions of this case about mainstream media. The Running Man's satire, adapted faithfully from King's 1982 novel, accidentally describes concerns that are as alive in conservative circles as progressive ones.\n\nWhere the film's progressive framing is most visible is in the refugee backstory. King's 1982 Richards refused to fire on rioters driven by hunger and desperation. The 2025 film updates this to refugees, a specific contemporary political flashpoint. The righteousness of Richards' refusal is unambiguous in both versions, but the contemporary update gives the backstory a more pointed charge in the current political environment. This is the screenplay's most deliberately political choice.\n\nThe second half's structural problem is the revelation that the game is rigged and the attempt to expose it. This section involves Amber discovering a hidden resistance broadcast, Richards and Amber transmitting evidence of the rigged games, and the population turning against Killian as the truth emerges. The tonal shift from kinetic action to conspiracy thriller is handled less confidently than the arena sequences. The resolution feels slightly rushed. Killian's demise is appropriately satisfying without being particularly inventive.\n\nWhat Wright gets right, and what the film shares with all of his best work, is the genuine pleasure of watching a man who is very good at a very difficult thing. Ben Richards wins not through superhuman ability but through determination, improvisation, and an absolute refusal to accept the rigged rules of a rigged game. This is an individualist triumph over a corrupt system, rendered in the most slickly entertaining possible terms. The truth is exposed. The system is embarrassed. The man with nothing to lose but his integrity walks out alive. These are traditional story values expressed through a progressive anti-authoritarian framework. The contradiction is not resolved, because King never resolved it either.",
+      "adultInsight": "Conservative adult viewers will find The Running Man more ideologically complex than either its marketing or its progressive critics suggest. The anti-media satire is real and its targets include the same media institutions conservatives have been criticizing for years. The argument that entertainment exists to pacify working populations and prevent genuine political engagement is as relevant to concerns about mainstream broadcast media as to the game show genre.\n\nThe refugee backstory is the film's most pointed progressive framing choice and the one most worth noting. The original King novel uses rioters driven by food insecurity, which maps less specifically onto contemporary political flashpoints. The 2025 update is deliberate.\n\nGlen Powell is a conservative cultural figure in the sense that matters most: he chose Top Gun: Maverick at a moment when his contemporaries were avoiding military-adjacent projects. His presence in this film does not transform it into a conservative film, but it adds a layer of cultural credibility that conservative audiences can appreciate.\n\nThe film is fun. It is well-made. Wright's action craft is genuinely impressive even when the screenplay wobbles in the third act. If you enjoy action films and can engage with the satire's mixed political targets, this is a good night at the movies.",
+      "parentalGuidance": "The Running Man is rated R. The content is consistent with the action genre.\n\nViolence: Substantial. Arena combat, Stalker attacks, and gladiatorial sequences are frequent and stylized. Characters die on screen throughout. The violence is heightened and genre-appropriate rather than realistic or gratuitous, but it is persistent.\n\nSexual Content: Mild. Ben and Amber's developing relationship involves some physical intimacy. Nothing explicit.\n\nLanguage: Strong throughout, consistent with the genre.\n\nThematic Content: The film's core premise, a government that executes political prisoners for entertainment under the pretense of justice, is dystopian but not presented as realistic commentary. The refugee-backstory framing gives the film a specific contemporary political element.\n\nAge Recommendation: Not appropriate for viewers under 15. For mature teenagers 15+, the film offers an interesting discussion point about media and political manipulation. The dystopian premise has significant classroom value as a conversation about how entertainment functions politically.\n\nDiscussion Points: The show exists to entertain the public and distract from genuine political problems. Do any current media formats serve this function? Who benefits from audiences being emotionally invested in entertainment rather than politics? Is the refugee backstory a reasonable update to King's original, or does it make a statement about contemporary immigration debates the film doesn't earn?"
+    },
+    "tropeAudit": [
+      {
+        "trope": "Media as Oppressor",
+        "id": "WOKE-004",
+        "category": "WOKE",
+        "location": "Throughout \u2014 The Running Man show as tool of state control; the media corporation and government are co-conspirators in manufacturing consent through entertainment",
+        "authenticity": "Organic to King's 1982 novel. The anti-media critique is the novel's entire thesis and is faithfully preserved. The target is entertainment media and corporate power, not specifically conservative politics."
+      },
+      {
+        "trope": "Class-Based Conscription",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "location": "The lottery system throughout \u2014 working poor disproportionately drafted into a death game while upper classes watch safely; Richards comes from the underclass",
+        "authenticity": "Organic to King. His original novel was explicitly about class warfare. The film preserves this framework faithfully."
+      },
+      {
+        "trope": "Refugee Framing",
+        "id": "WOKE-020",
+        "category": "WOKE",
+        "location": "Richards' backstory \u2014 imprisoned for refusing orders to shoot at refugees; the contemporary update of King's 'rioters' to 'refugees' is the screenplay's most politically specific choice",
+        "authenticity": "Forced. King's 1982 novel uses rioters driven by food insecurity. Updating to refugees in 2025 is a deliberate political choice that maps the backstory onto contemporary immigration debates."
+      },
+      {
+        "trope": "Institutional Corruption Exposed",
+        "id": "WOKE-012",
+        "category": "WOKE",
+        "location": "Second and third acts \u2014 the game's true nature (rigged, no winners) is exposed; the government-corporate media collusion is revealed to the public",
+        "authenticity": "Organic to King. Both conservative and progressive audiences can claim this target: the corrupt institution can be read as corporate media or as government overreach depending on your lens."
+      },
+      {
+        "trope": "Sympathetic Progressive Framing",
+        "id": "WOKE-022",
+        "category": "WOKE",
+        "location": "The show's audience initially complicit in cheering for murder; when the truth is revealed they turn on the system; the masses are portrayed as manipulated rather than genuinely bloodthirsty",
+        "authenticity": "Mixed. The redemption of the audience from manipulated accomplices to righteous rejectors of the system is a progressive narrative of mass awakening."
+      },
+      {
+        "trope": "Individual Courage Against Corrupt System",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Ben Richards throughout \u2014 one man's refusal to accept a rigged game, to perform on cue, to die on schedule; he wins through determination and individual will",
+        "authenticity": "Authentic. This is King's traditional individualist hero framework, shared by conservative libertarianism and progressive anti-authoritarianism alike."
+      },
+      {
+        "trope": "Truth Prevails",
+        "id": "TRADITIONAL-044",
+        "category": "TRADITIONAL",
+        "location": "Climax \u2014 Amber and Richards broadcast evidence of the rigged games; public turns against Killian; the lie cannot survive exposure",
+        "authenticity": "Authentic. Truth destroying a comfortable lie is as traditional a moral as storytelling offers."
+      },
+      {
+        "trope": "Romantic Fidelity and Partnership",
+        "id": "TRADITIONAL-027",
+        "category": "TRADITIONAL",
+        "location": "Ben and Amber throughout \u2014 she begins as coerced accomplice, becomes genuine partner; their relationship is built on shared danger and mutual respect",
+        "authenticity": "Authentic. The romance is earned through shared adversity rather than manufactured chemistry. A traditional narrative development."
+      },
+      {
+        "trope": "Masculine Competence",
+        "id": "TRADITIONAL-035",
+        "category": "TRADITIONAL",
+        "location": "Every arena sequence \u2014 Richards wins through superior improvisation, physical courage, and refusal to accept the rules of a rigged game",
+        "authenticity": "Authentic. Glen Powell brings genuine physical commitment. The film celebrates masculine competence without apology."
+      },
+      {
+        "trope": "Justice Over Rules",
+        "id": "TRADITIONAL-041",
+        "category": "TRADITIONAL",
+        "location": "Richards' original crime and his survival strategy \u2014 he broke military rules by refusing an unjust order; he breaks game show rules to expose the truth; both violations are framed as morally correct",
+        "authenticity": "Mixed. The film distinguishes between legal rules and justice, which is traditional in its respect for natural law over positive law."
+      },
+      {
+        "trope": "Anti-Authoritarian Heroism",
+        "id": "TRADITIONAL-028",
+        "category": "TRADITIONAL",
+        "location": "Throughout \u2014 Richards refuses to be executed on schedule, to perform on cue, to die for ratings; his insurgency is against a specific government-corporate collusion",
+        "authenticity": "Organic to King's novel. Conservative viewers who reject government overreach can claim this hero as readily as progressives can."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is The Running Man (2025) Woke? Edgar Wright Glen Powell Review | VirtueVigil",
+      "metaDescription": "Is The Running Man (2025) woke? VirtueVigil's verdict: MIXED (neutral). Edgar Wright's slick anti-media action film has progressive framing but conservative-claimable satire targets. Glen Powell. Full review.",
+      "keywords": "is the running man 2025 woke, running man 2025 review conservative, edgar wright glen powell woke, running man 2025 political, running man stephen king adaptation conservative, running man 2025 anti media"
+    }
+  },
+  {
     "id": "warfare-2025",
     "slug": "warfare-2025",
     "title": "Warfare",
