@@ -1,5 +1,17 @@
 [
   {
+    "slug": "warfare-2025",
+    "title": "Warfare",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (A24)",
+    "genre": "Action",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 9,
+    "poster": "/images/posters/warfare-2025.jpg"
+  },
+  {
     "slug": "paddington-in-peru-2024",
     "title": "Paddington in Peru",
     "verdict": "TRADITIONAL",
