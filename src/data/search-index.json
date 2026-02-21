@@ -1,5 +1,41 @@
 [
   {
+    "slug": "wicked-for-good-2025",
+    "title": "Wicked: For Good",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Musical",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 5,
+    "poster": "/images/posters/wicked-for-good-2025.jpg"
+  },
+  {
+    "slug": "one-battle-after-another-2025",
+    "title": "One Battle After Another",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Action",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 10,
+    "tradScore": 6,
+    "poster": "/images/posters/one-battle-after-another-2025.jpg"
+  },
+  {
+    "slug": "the-conjuring-last-rites-2025",
+    "title": "The Conjuring: Last Rites",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 10,
+    "poster": "/images/posters/the-conjuring-last-rites-2025.jpg"
+  },
+  {
     "slug": "the-running-man-2025",
     "title": "The Running Man",
     "verdict": "MIXED",

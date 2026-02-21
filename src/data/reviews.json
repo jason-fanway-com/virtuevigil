@@ -1,5 +1,588 @@
 [
   {
+    "id": "wicked-for-good-2025",
+    "slug": "wicked-for-good-2025",
+    "title": "Wicked: For Good",
+    "year": 2025,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Musical",
+    "date": "2026-02-21",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "12 min",
+    "poster": "/images/posters/wicked-for-good-2025.jpg",
+    "verdict": "WOKE",
+    "wokeScore": 8,
+    "tradScore": 5,
+    "authIndex": 62,
+    "scoreMargin": "-3 WOKE",
+    "spoiler_alert": true,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "If you saw Part One and read our review, nothing in For Good will surprise you. The ideological framework carries over completely. Jon M. Chu has not hidden his intentions at any point. Conservative viewers who enjoyed Part One while tolerating the politics will find the same bargain here."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Jon M. Chu",
+        "ideology": "PROGRESSIVE - compared Wizard to Trump in interviews",
+        "profile": "Taiwanese-American filmmaker whose career runs from dance films (Step Up) through cultural milestone projects (Crazy Rich Asians, In the Heights). Technically gifted with strong sense of spectacle. Openly progressive in interviews."
+      },
+      "writer": {
+        "name": "Winnie Holzman and Dana Fox",
+        "profile": "Holzman wrote the original Broadway libretto. Fox co-wrote the screenplay adaptation. Ideological content is inherited from the musical."
+      },
+      "lead_producer": {
+        "name": "Marc Platt",
+        "company": "Marc Platt Productions / Universal"
+      },
+      "composer": {
+        "name": "John Powell and Stephen Schwartz"
+      },
+      "top_cast": [
+        {
+          "actor": "Cynthia Erivo",
+          "role": "Elphaba / Wicked Witch of the West"
+        },
+        {
+          "actor": "Ariana Grande",
+          "role": "Glinda the Good"
+        },
+        {
+          "actor": "Jonathan Bailey",
+          "role": "Fiyero / The Scarecrow"
+        },
+        {
+          "actor": "Ethan Slater",
+          "role": "Boq / The Tin Man"
+        },
+        {
+          "actor": "Michelle Yeoh",
+          "role": "Madame Morrible"
+        },
+        {
+          "actor": "Jeff Goldblum",
+          "role": "The Wizard of Oz"
+        },
+        {
+          "actor": "Marissa Bode",
+          "role": "Nessarose"
+        },
+        {
+          "actor": "Bowen Yang",
+          "role": "Pfannee"
+        },
+        {
+          "actor": "Colman Domingo",
+          "role": "Cowardly Lion (voice)"
+        }
+      ],
+      "prediction": {
+        "verdict": "WOKE",
+        "confidence": "high"
+      }
+    },
+    "fidelity_casting": {
+      "score": "ENHANCED",
+      "summary": "Faithful to Broadway tradition but not to the original novel. Cynthia Erivo as a Black Elphaba foregrounds race as a deliberate interpretive choice.",
+      "detailed_analysis": "The casting is consistent with the Broadway production, where many Elphabas have been women of color. But the novel by Gregory Maguire describes Elphaba with green skin and no racial dimension. The film explicitly foregrounds race. Erivo is exceptional regardless of framing. Grande is perfectly cast as Glinda. Jonathan Bailey brings swashbuckling energy to Fiyero. Jeff Goldblum's quirkier take on the Wizard is a tonal departure from the stage version but works as commentary on how charm masks evil."
+    },
+    "summary": {
+      "overall": "Wicked: For Good picks up where Part One left off, and the question facing conservative viewers is essentially the same: are you willing to sit through two and a half hours of progressive allegory in exchange for genuinely spectacular filmmaking? Because the filmmaking is spectacular. And the allegory is relentless.\n\nCynthia Erivo delivers the performance of her career. Her \"No Good Deed\" is a vocal and dramatic achievement that ranks among the best musical performances committed to film this decade. Ariana Grande steps up significantly, selling Glinda's transition from complicity to moral reckoning with real anguish. Jonathan Bailey brings swashbuckling energy and genuine chemistry with Erivo.\n\nThe race allegory becomes more explicit. Elphaba, a Black woman playing a character persecuted for her skin, is now a full-blown fugitive from a fascist regime. The anti-authority framework reaches its conclusion: the Wizard is revealed as Elphaba's father, Morrible engineers a tornado that kills Nessarose, the Gale Force brutalizes Fiyero, and citizens are whipped into a mob frenzy. The queer coding in the \"For Good\" duet is staged with romantic intensity that goes well beyond platonic friendship.\n\nNessarose's arc introduces genuine moral complexity. She becomes a petty tyrant, enslaving Boq and refusing to let anyone leave Munchkinland. The film doesn't excuse her. Power corrupts, even well-meaning people.\n\nThe ending is worth noting: Elphaba fakes her death and leaves Oz forever, while Glinda stays to rebuild. The principled person must disappear. The compromiser gets to repair the damage. You can read this as tragic, realistic, or as a progressive fantasy about opting out of a broken system. All readings are valid.\n\n$527 million worldwide against $150 million is a clear commercial success, though noticeably less than Part One. For Good is the better film of the two, but lacks Part One's novelty and showstopper moment.\n\nBottom line: well-made, emotionally powerful, and thoroughly progressive. The performances are outstanding, the music is excellent, the spectacle is real, and the ideology is baked into every frame.",
+      "adultInsight": "Conservative adult viewers who enjoyed Part One will find more of what they liked and more of what concerned them. The performances are stronger, the emotional stakes higher, and the music better deployed. The political content is also more concentrated. Enjoy the spectacular filmmaking, appreciate the extraordinary vocal performances, and recognize that the progressive framework is inseparable from the story. If you made your peace with Part One, this is the more rewarding of the two films.",
+      "parentalGuidance": "Violence: Moderate. Fiyero beaten by guards (implied, not shown). Tornado kills Nessarose. Language: Clean, no profanity. Sexual Content: Minimal. Brief kiss, implied love scene. Scary Content: Mob scenes may frighten younger viewers. \"No Good Deed\" is emotionally intense. Age 8+ for musical content, 10+ for full appreciation. Discussion Guidance: Rich material for family discussions about standing up for what's right, the cost of moral compromise, and recognizing messages in stories."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Race Allegory / Persecution Metaphor",
+        "id": "WOKE-025",
+        "category": "WOKE",
+        "location": "Throughout - Black actress hunted by white-coded fascist state for challenging power",
+        "authenticity": "Inherited from musical, amplified by casting choice"
+      },
+      {
+        "trope": "Anti-Authority / Systemic Corruption",
+        "id": "WOKE-004",
+        "category": "WOKE",
+        "location": "Throughout - every institution in Oz is corrupt: military, government, media, education",
+        "authenticity": "Organic to source material"
+      },
+      {
+        "trope": "Queer Coding / LGBTQ+ Subtext",
+        "id": "WOKE-013",
+        "category": "WOKE",
+        "location": "Multiple scenes, especially 'For Good' duet staged with romantic intensity",
+        "authenticity": "Present in source material, amplified by directorial choices"
+      },
+      {
+        "trope": "Weaponized Public Opinion",
+        "id": "WOKE-008",
+        "category": "WOKE",
+        "location": "Second half - citizens whipped into frenzy against Elphaba through propaganda",
+        "authenticity": "Directly from the musical"
+      },
+      {
+        "trope": "Feminist Liberation Narrative",
+        "id": "WOKE-017",
+        "category": "WOKE",
+        "location": "Throughout - both women make identity-defining choices independent of men",
+        "authenticity": "Faithful to the musical"
+      },
+      {
+        "trope": "Victimhood Framing",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "location": "Third act - Elphaba surrenders, concluding that fighting the system is futile",
+        "authenticity": "Directly from the musical"
+      },
+      {
+        "trope": "Director's Political Framing",
+        "id": "WOKE-020",
+        "category": "WOKE",
+        "location": "External - Chu compared Wizard to political figures in press interviews",
+        "authenticity": "External to the film"
+      },
+      {
+        "trope": "Redemption Through Love",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Throughout - Fiyero sacrifices everything for Elphaba, traditional love story played straight",
+        "authenticity": "Faithful to the musical"
+      },
+      {
+        "trope": "Power Corrupts",
+        "id": "TRADITIONAL-050",
+        "category": "TRADITIONAL",
+        "location": "Nessarose and Wizard arcs - both undone by their own choices with power",
+        "authenticity": "Faithful to the musical and Oz mythology"
+      },
+      {
+        "trope": "Female Friendship / Loyalty",
+        "id": "TRADITIONAL-033",
+        "category": "TRADITIONAL",
+        "location": "Throughout, climaxing in 'For Good' - loyalty transcends political differences",
+        "authenticity": "Core of the musical since 2003"
+      },
+      {
+        "trope": "Sacrifice for the Greater Good",
+        "id": "TRADITIONAL-047",
+        "category": "TRADITIONAL",
+        "location": "Final act - Elphaba fakes death, sacrifices identity so Glinda can rebuild",
+        "authenticity": "Faithful to the musical"
+      },
+      {
+        "trope": "Consequences of Moral Compromise",
+        "id": "TRADITIONAL-040",
+        "category": "TRADITIONAL",
+        "location": "Glinda's arc - years of complicity with Wizard's regime haunt her",
+        "authenticity": "Faithful to the musical"
+      }
+    ],
+    "seo": {
+      "metaTitle": "Is Wicked: For Good Woke? | VirtueVigil Review",
+      "metaDescription": "Our Woke Score analysis of Wicked: For Good (2025). The sequel amplifies Part One's progressive allegory while delivering spectacular filmmaking and powerhouse performances.",
+      "keywords": [
+        "wicked for good woke",
+        "wicked 2 review conservative",
+        "is wicked for good political",
+        "wicked sequel woke score",
+        "wicked part two review",
+        "cynthia erivo elphaba",
+        "ariana grande glinda"
+      ]
+    }
+  },
+  {
+    "id": "one-battle-after-another-2025",
+    "slug": "one-battle-after-another-2025",
+    "title": "One Battle After Another",
+    "year": 2025,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action",
+    "date": "2026-02-21",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "14 min",
+    "poster": "/images/posters/one-battle-after-another-2025.jpg",
+    "verdict": "WOKE",
+    "wokeScore": 10,
+    "tradScore": 6,
+    "authIndex": 55,
+    "scoreMargin": "-4 WOKE",
+    "spoiler_alert": true,
+    "woke_trap_assessment": {
+      "is_trap": true,
+      "pct_runtime": 15,
+      "explanation": "PARTIAL WOKE TRAP. The trailer sells car chases, gunfights, and Leonardo DiCaprio doing his thing. Those elements are genuinely there. But beneath the surface-level thrills, Paul Thomas Anderson has constructed a deeply political film about immigration, race, white supremacy, and state violence. The action movie veneer gets conservative viewers in the door. The progressive politics are what they find once seated."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Paul Thomas Anderson",
+        "ideology": "PROGRESSIVE - most politically explicit work to date",
+        "profile": "One of the most acclaimed American filmmakers working today. Career spans Hard Eight through There Will Be Blood through Phantom Thread. His films have always carried political undertones, but One Battle After Another is his most overtly progressive work. Described it as emerging from 'the feeling in the air' in America."
+      },
+      "writer": {
+        "name": "Paul Thomas Anderson",
+        "profile": "Sole credit. Inspired by Thomas Pynchon's 1990 novel Vineland, combined with two original story ideas. Political dimensions drawn from both Pynchon's anarchic distrust of government and Anderson's response to current events."
+      },
+      "lead_producer": {
+        "name": "Adam Somner and Sara Murphy",
+        "company": "Ghoulardi Film Company / Warner Bros."
+      },
+      "composer": {
+        "name": "Jonny Greenwood"
+      },
+      "top_cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "role": "Bob Ferguson / Pat Calhoun"
+        },
+        {
+          "actor": "Sean Penn",
+          "role": "Col. Steven Lockjaw"
+        },
+        {
+          "actor": "Benicio del Toro",
+          "role": "Sergio St. Carlos"
+        },
+        {
+          "actor": "Regina Hall",
+          "role": "Deandra"
+        },
+        {
+          "actor": "Teyana Taylor",
+          "role": "Perfidia Beverly Hills"
+        },
+        {
+          "actor": "Chase Infiniti",
+          "role": "Willa Ferguson"
+        },
+        {
+          "actor": "Wood Harris",
+          "role": "Laredo"
+        },
+        {
+          "actor": "Alana Haim",
+          "role": "Mae West"
+        },
+        {
+          "actor": "Tony Goldwyn",
+          "role": "Virgil Throckmorton"
+        },
+        {
+          "actor": "Eric Schweig",
+          "role": "Avanti"
+        }
+      ],
+      "prediction": {
+        "verdict": "WOKE",
+        "confidence": "high"
+      }
+    },
+    "fidelity_casting": {
+      "score": "ENHANCED",
+      "summary": "Loosely inspired by Pynchon's Vineland with significant original material. No strict source fidelity to assess.",
+      "detailed_analysis": "Anderson drew inspiration from Vineland but created largely original characters. The casting is diverse by design: the French 75 is a multiracial revolutionary group, the protagonist's partner and daughter are Black, and the community of Baktan Cross is explicitly multicultural. None of this contradicts the source material because the source material was only a starting point. Chase Infiniti was discovered through a six-month audition process and is the film's genuine revelation."
+    },
+    "summary": {
+      "overall": "Paul Thomas Anderson makes movies for people who love movies. That has always been true. And One Battle After Another might be his most entertaining work, period. It is also his most politically explicit, which creates a strange experience for conservative viewers who appreciate craft but bristle at being lectured.\n\nLeonardo DiCaprio is terrific as a washed-up revolutionary turned paranoid stoner living off the grid with his teenage daughter Willa. He is funny, pathetic, and deeply loving in a way he cannot articulate because his brain is swimming in THC. Sean Penn is genuinely terrifying as Colonel Lockjaw, a corrupt military officer who built his career on anti-immigration operations and murders revolutionary group members without trial. Chase Infiniti, in her film debut, is the revelation. She carries the emotional heart of the film with a naturalism that would be impressive from a veteran actress.\n\nThe action sequences are outstanding, shot in VistaVision with startling depth and clarity. The car chase through Baktan Cross and the final highway confrontation are beautifully staged.\n\nBut the politics are relentless. The film opens with revolutionaries breaking detained immigrants out of a real facility. Immigration enforcement is presented as state violence. The Christmas Adventurers Club, a white supremacist secret society, represents organized, institutional racism. A sanctuary city is raided by military forces using immigration operations as cover. Conservative viewers who hold different views on immigration will find their positions coded as villainous throughout.\n\nThere are moments of genuine moral complexity. Perfidia, Willa's mother, is a revolutionary who is also a terrible person. She abandons her child, murders a guard, betrays her comrades. The bounty hunter Avanti refuses to harm a child and dies protecting her.\n\n$208 million worldwide against a $130-175 million budget. 13 Oscar nominations, 4 Golden Globes. But the American public did not turn out in the numbers Warner Bros. hoped for.\n\nBottom line: brilliantly made, performances outstanding across the board, and politics unrelentingly progressive. If you can hold two thoughts at once, there is a great movie here.",
+      "adultInsight": "Conservative adult viewers will admire the craft and resist the ideology. The performances are outstanding. The action is exhilarating. The filmmaking is masterful. And the politics are unrelentingly progressive. The father-daughter emotional core will move you regardless of where you stand on immigration. Watch it because it is a genuinely great film, and recognize it as political art from a specific perspective.",
+      "parentalGuidance": "Rated R. Significant violence: multiple shootings, car crashes, explosions, a teenager shoots a man in self-defense. Moderate sexual content: implied encounters, crude dialogue. Strong language throughout. Heavy substance use: protagonist is a habitual marijuana user. Intense scenes: school dance raid, kidnapping, highway confrontation. Age 15+ minimum. Older teenagers may benefit from guided viewing to discuss political content critically."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Immigration Allegory / Pro-Immigration Framing",
+        "id": "WOKE-025",
+        "category": "WOKE",
+        "location": "Throughout - opens with jailbreak at real detention facility, sanctuary city raided by military",
+        "authenticity": "Organic to story, derived from Pynchon and Anderson's original material"
+      },
+      {
+        "trope": "Institutional Evil / Corrupt Military",
+        "id": "WOKE-004",
+        "category": "WOKE",
+        "location": "Throughout - Colonel builds career through anti-immigration operations and extrajudicial killings",
+        "authenticity": "Organic, derived from Pynchon's distrust of government"
+      },
+      {
+        "trope": "White Supremacy as Institutional Power",
+        "id": "WOKE-008",
+        "category": "WOKE",
+        "location": "Second half - Christmas Adventurers Club: wealthy, organized white supremacist secret society",
+        "authenticity": "Original to Anderson's screenplay"
+      },
+      {
+        "trope": "Sanctuary City as Moral Good",
+        "id": "WOKE-012",
+        "category": "WOKE",
+        "location": "First half - Baktan Cross presented as thriving community destroyed by military raids",
+        "authenticity": "Original to Anderson's screenplay"
+      },
+      {
+        "trope": "Revolutionary Heroes",
+        "id": "WOKE-003",
+        "category": "WOKE",
+        "location": "Throughout - far-left French 75 are the film's heroes despite violent methods",
+        "authenticity": "Derived from Pynchon's Vineland"
+      },
+      {
+        "trope": "Interracial Relationships as Threat to Power",
+        "id": "WOKE-017",
+        "category": "WOKE",
+        "location": "Second half - Lockjaw's relationship with Black woman used to destroy him by white supremacists",
+        "authenticity": "Original to Anderson"
+      },
+      {
+        "trope": "Militarized Police State",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "location": "Middle - troops raid sanctuary city with armored vehicles, storm school dance",
+        "authenticity": "Anderson's original material"
+      },
+      {
+        "trope": "Director's Political Framing",
+        "id": "WOKE-020",
+        "category": "WOKE",
+        "location": "External - Anderson discussed film as response to 'the feeling in the air' in America",
+        "authenticity": "External"
+      },
+      {
+        "trope": "Father's Love / Protective Parent",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Throughout - Bob's entire motivation is protecting Willa, tearful reunion at end",
+        "authenticity": "Derived from Vineland's central relationship"
+      },
+      {
+        "trope": "Defense of the Innocent",
+        "id": "TRADITIONAL-045",
+        "category": "TRADITIONAL",
+        "location": "Multiple scenes - Sergio evacuates people, Avanti dies protecting Willa, Bob crosses state for daughter",
+        "authenticity": "Organic to the story"
+      },
+      {
+        "trope": "Consequences of Betrayal",
+        "id": "TRADITIONAL-050",
+        "category": "TRADITIONAL",
+        "location": "Perfidia's arc - abandons family, betrays comrades, spends sixteen years in exile",
+        "authenticity": "Anderson's original material"
+      },
+      {
+        "trope": "Community / Chosen Family",
+        "id": "TRADITIONAL-033",
+        "category": "TRADITIONAL",
+        "location": "First half - Baktan Cross functions as genuine community with mutual aid",
+        "authenticity": "Original to Anderson"
+      },
+      {
+        "trope": "Villain's Downfall",
+        "id": "TRADITIONAL-047",
+        "category": "TRADITIONAL",
+        "location": "Final act - Lockjaw killed by the white supremacist institution he tried to join",
+        "authenticity": "Original to Anderson"
+      },
+      {
+        "trope": "Coming of Age / Independence",
+        "id": "TRADITIONAL-040",
+        "category": "TRADITIONAL",
+        "location": "Willa's arc - sheltered teenager to young woman who survives and chooses her own path",
+        "authenticity": "Derived from Vineland"
+      }
+    ],
+    "seo": {
+      "metaTitle": "Is One Battle After Another Woke? | VirtueVigil Review",
+      "metaDescription": "Our Woke Score analysis of One Battle After Another (2025). PTA's most politically explicit film wraps progressive politics in spectacular action filmmaking.",
+      "keywords": [
+        "one battle after another woke",
+        "one battle after another conservative review",
+        "paul thomas anderson political",
+        "OBAA woke score",
+        "one battle after another immigration",
+        "leonardo dicaprio one battle"
+      ]
+    }
+  },
+  {
+    "id": "the-conjuring-last-rites-2025",
+    "slug": "the-conjuring-last-rites-2025",
+    "title": "The Conjuring: Last Rites",
+    "year": 2025,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Horror",
+    "date": "2026-02-21",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "13 min",
+    "poster": "/images/posters/the-conjuring-last-rites-2025.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2,
+    "tradScore": 10,
+    "authIndex": 80,
+    "scoreMargin": "+8 TRAD",
+    "spoiler_alert": true,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The Conjuring franchise has always been one of the most reliably traditional properties in mainstream Hollywood. Last Rites keeps that streak alive. This is a film that takes Christianity seriously, presents prayer as a literal weapon against evil, centers a loving marriage, and builds its climax around faith over fear. Conservative viewers can walk in with confidence."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Michael Chaves",
+        "ideology": "NEUTRAL - apolitical genre craftsman",
+        "profile": "Took over the Conjuring franchise from James Wan. Has directed every Conjuring Universe film since 2019. Shows no political pattern in his filmography. Consistently honors the franchise's Christian framework without diluting it."
+      },
+      "writer": {
+        "name": "Ian Goldberg, Richard Naing, David Leslie Johnson-McGoldrick",
+        "profile": "Johnson-McGoldrick has been the franchise's primary writer since The Conjuring 2. Story co-written with James Wan. Workmanlike horror writers who understand the franchise voice. Catholic moral framework maintained throughout."
+      },
+      "lead_producer": {
+        "name": "James Wan and Peter Safran",
+        "company": "Atomic Monster / The Safran Company / New Line Cinema"
+      },
+      "composer": {
+        "name": "Benjamin Wallfisch"
+      },
+      "top_cast": [
+        {
+          "actor": "Vera Farmiga",
+          "role": "Lorraine Warren"
+        },
+        {
+          "actor": "Patrick Wilson",
+          "role": "Ed Warren"
+        },
+        {
+          "actor": "Mia Tomlinson",
+          "role": "Judy Warren"
+        },
+        {
+          "actor": "Ben Hardy",
+          "role": "Tony Spera"
+        },
+        {
+          "actor": "Steve Coulter",
+          "role": "Father Gordon"
+        },
+        {
+          "actor": "Rebecca Calder",
+          "role": "Janet Smurl"
+        },
+        {
+          "actor": "Elliot Cowan",
+          "role": "Jack Smurl"
+        },
+        {
+          "actor": "Kila Lord Cassidy",
+          "role": "Heather Smurl"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL",
+        "confidence": "high"
+      }
+    },
+    "fidelity_casting": {
+      "score": "FAITHFUL",
+      "summary": "Based on the real Smurl haunting case. Judy Warren recast with Mia Tomlinson due to age requirements. No significant fidelity concerns.",
+      "detailed_analysis": "Ed and Lorraine Warren are portrayed faithfully by Patrick Wilson and Vera Farmiga, who have aged into the roles gracefully. Judy Warren was recast from Sterling Jerins to Mia Tomlinson because Jerins looked too young for the adult version. Tomlinson is biracial, a departure from the real Judy Warren, but the film makes nothing of it and the performance is strong. Tony Spera is a real person who married Judy Warren. The real Tony Spera and Judy Warren both cameo in the film. The Smurl family is based on a documented haunting case from the 1980s."
+    },
+    "summary": {
+      "overall": "The Conjuring: Last Rites is not the best film in the franchise. That distinction still belongs to James Wan's 2013 original. But Last Rites might be the most emotionally satisfying entry since that first film, because it does something very few Hollywood franchises attempt anymore: it tells a story about faith that takes faith seriously. Not as a metaphor. Not as a coping mechanism. Faith as real, powerful, and necessary for survival.\n\nThe film picks up the Warren story in two timelines. The 1964 prologue shows Lorraine collapsing during an investigation, going into labor, delivering a stillborn baby, and praying the baby back to life. The rules are established immediately: evil is real, God is real, and the boundary between them is where this family lives.\n\nTwenty-two years later, the Smurl family is terrorized by three entities connected to an antique mirror. The Warrens have retired due to Ed's worsening heart condition. Their daughter Judy, who inherited Lorraine's psychic abilities, discovers the case and pulls her reluctant parents back into the fight.\n\nVera Farmiga is the soul of these films. Her Lorraine radiates warmth, conviction, and quiet steel. Patrick Wilson adds vulnerability: Ed is aging, his body failing. When he suffers a cardiac episode during the climactic exorcism, Wilson plays it with the helplessness of a man discovering he is not the strong one anymore. Mia Tomlinson brings fresh energy as adult Judy Warren.\n\nThe climax earns the film its place in the franchise. The demon possesses Judy and attempts to hang her. Ed collapses. Lorraine is attacked. Everything seems lost. Then Lorraine tells Judy to embrace her abilities instead of suppressing them. Together, the Warren women recite the Prayer to Saint Michael and destroy the demonic mirror. The demon is defeated by faith. By prayer. By a mother and daughter fighting together.\n\nWhen was the last time a major studio release presented the Prayer to Saint Michael as a literal weapon against evil? When was the last time a $55 million genre film climaxed with characters praying and having their prayers answered?\n\nChaves is a serviceable director, not a visionary one. The scare sequences are competent but predictable. The Smurls never become as vivid as the Perrons. At 135 minutes, the film is 15 minutes too long. The 58% on Rotten Tomatoes reflects these issues honestly.\n\nBut for conservative audiences, the unevenness matters less than the conviction. This is a mainstream Hollywood film that presents Christianity as true, prayer as powerful, and family as the ultimate defense against evil. $499 million worldwide against $55 million is the highest-grossing entry in the franchise. Audiences showed up. They want this. Hollywood should be paying attention.",
+      "adultInsight": "Conservative adult viewers will find Last Rites to be one of the most comfortable viewing experiences of 2025. The film asks nothing of you ideologically. It tells a story about a Christian family fighting evil with faith, love, and prayer, told with sincerity. Watch it for Vera Farmiga's performance, for the Warren family dynamics, and for the simple pleasure of a mainstream film that takes your worldview seriously.",
+      "parentalGuidance": "Rated R for horror content. Moderate violence: jump scares, demonic attacks, a character attempts suicide under demonic influence (interrupted). No sexual content beyond one kiss. Minimal language. No substance use. This is a horror film with frightening entities and an intense possession sequence. Age 13+ for horror fans. Children under 10 should skip it due to scare factor, not ideology. Discussion Guidance: Great material for discussing faith, spiritual warfare, courage, and the reality of good and evil."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Female Empowerment Framing",
+        "id": "WOKE-003",
+        "category": "WOKE",
+        "location": "Judy's arc - takes initiative when parents retire, drives plot forward",
+        "authenticity": "Borderline woke, framed as spiritual calling not feminist liberation"
+      },
+      {
+        "trope": "Recast for Representation",
+        "id": "WOKE-012",
+        "category": "WOKE",
+        "location": "Casting - Judy recast with biracial actress Mia Tomlinson",
+        "authenticity": "Practical casting decision, performance justifies it completely"
+      },
+      {
+        "trope": "Prayer as Power",
+        "id": "TRADITIONAL-026",
+        "category": "TRADITIONAL",
+        "location": "Prologue and climax - prayer revives stillborn baby, Prayer to Saint Michael destroys demon",
+        "authenticity": "Consistent with franchise and Catholic demonology"
+      },
+      {
+        "trope": "Family as Fortress",
+        "id": "TRADITIONAL-048",
+        "category": "TRADITIONAL",
+        "location": "Throughout - Warren family structure is both emotional support and tactical weapon",
+        "authenticity": "Faithful to the real Warrens' public presentation"
+      },
+      {
+        "trope": "Marriage as Sacred Bond",
+        "id": "TRADITIONAL-033",
+        "category": "TRADITIONAL",
+        "location": "Throughout - Ed and Lorraine's marriage is the franchise's emotional foundation",
+        "authenticity": "Faithful to the real Warrens, married 61 years"
+      },
+      {
+        "trope": "Good vs. Evil (No Moral Ambiguity)",
+        "id": "TRADITIONAL-045",
+        "category": "TRADITIONAL",
+        "location": "Throughout - demon is evil, Warrens are good, no gray area",
+        "authenticity": "Consistent with franchise and Catholic worldview"
+      },
+      {
+        "trope": "Self-Sacrifice / Putting Others First",
+        "id": "TRADITIONAL-047",
+        "category": "TRADITIONAL",
+        "location": "Multiple scenes - Ed risks health, Lorraine faces terror, Father Gordon dies investigating",
+        "authenticity": "Faithful to established character dynamics"
+      },
+      {
+        "trope": "Generational Legacy",
+        "id": "TRADITIONAL-040",
+        "category": "TRADITIONAL",
+        "location": "Judy's arc - Lorraine tells daughter to embrace inherited gifts, torch passes",
+        "authenticity": "Real Judy Warren took over Warrens' work"
+      },
+      {
+        "trope": "Community of Faith",
+        "id": "TRADITIONAL-050",
+        "category": "TRADITIONAL",
+        "location": "Father Gordon's arc, exorcism sequences - Catholic tradition as living resource",
+        "authenticity": "Consistent with real Warrens' Catholic practice"
+      },
+      {
+        "trope": "Franchise Legacy Celebration",
+        "id": "TRADITIONAL-030",
+        "category": "TRADITIONAL",
+        "location": "Wedding coda - characters from all previous Conjuring films appear as wedding guests",
+        "authenticity": "Creative choice, real Tony Spera and Judy Warren cameo"
+      },
+      {
+        "trope": "Retirement and Rest",
+        "id": "TRADITIONAL-035",
+        "category": "TRADITIONAL",
+        "location": "Opening and coda - Warrens have retired, final image is Lorraine's vision of peace",
+        "authenticity": "Faithful to Warrens' later years"
+      }
+    ],
+    "seo": {
+      "metaTitle": "Is The Conjuring: Last Rites Woke? | VirtueVigil Review",
+      "metaDescription": "Our Woke Score analysis of The Conjuring: Last Rites (2025). The franchise finale delivers a powerfully traditional story of faith, family, and prayer as a weapon against evil.",
+      "keywords": [
+        "conjuring last rites woke",
+        "conjuring 4 conservative review",
+        "conjuring last rites christian",
+        "is conjuring last rites traditional",
+        "conjuring last rites faith",
+        "conjuring last rites woke score",
+        "warren family movie"
+      ]
+    }
+  },
+  {
     "id": "the-running-man-2025",
     "slug": "the-running-man-2025",
     "title": "The Running Man",
