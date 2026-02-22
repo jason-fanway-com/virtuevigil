@@ -481,6 +481,49 @@ function wokeTrapAlert(r) {
 
 function tropeTable(r) {
   if (!r.tropeAudit || !r.tropeAudit.length) return '';
+  // Support both old schema (trope/location) and new VVWS schema (name/severity/centrality/weightedScore)
+  const hasVVWS = r.tropeAudit[0].severity !== undefined;
+  if (hasVVWS) {
+    const wokeTropes = r.tropeAudit.filter(t => (t.category || '').toLowerCase() === 'woke');
+    const tradTropes = r.tropeAudit.filter(t => (t.category || '').toLowerCase() === 'traditional' || (t.category || '').toLowerCase() === 'trad');
+    const wokeTotal = wokeTropes.reduce((s, t) => s + (t.weightedScore || 0), 0);
+    const tradTotal = tradTropes.reduce((s, t) => s + (t.weightedScore || 0), 0);
+    const renderRows = (tropes) => tropes.map(t => `
+              <tr>
+                <td>${esc(t.name || t.trope || '')}</td>
+                <td>${t.severity || ''}</td>
+                <td>${esc(t.authenticity || '')}</td>
+                <td>${esc(t.centrality || '')}</td>
+                <td><strong>${t.weightedScore || ''}</strong></td>
+              </tr>`).join('');
+    return `
+          <div class="section-label" style="margin-top:28px;">Trope Audit &mdash; VVWS Weighted Scoring</div>
+          <p style="font-size:0.9em;color:#aaa;margin-bottom:12px;">Formula: Weighted Score = Severity &times; Authenticity Multiplier &times; Centrality Multiplier</p>
+          ${wokeTropes.length ? `
+          <h4 style="color:#e74c3c;margin-top:16px;">🔴 Woke Tropes</h4>
+          <table class="trope-table">
+            <thead>
+              <tr><th>Trope</th><th>Severity</th><th>Authenticity</th><th>Centrality</th><th>Score</th></tr>
+            </thead>
+            <tbody>
+              ${renderRows(wokeTropes)}
+              <tr style="border-top:2px solid #e74c3c;"><td colspan="4"><strong>TOTAL WOKE</strong></td><td><strong>${wokeTotal.toFixed(1)}</strong></td></tr>
+            </tbody>
+          </table>` : ''}
+          ${tradTropes.length ? `
+          <h4 style="color:#2ecc71;margin-top:16px;">🟢 Traditional Tropes</h4>
+          <table class="trope-table">
+            <thead>
+              <tr><th>Trope</th><th>Severity</th><th>Authenticity</th><th>Centrality</th><th>Score</th></tr>
+            </thead>
+            <tbody>
+              ${renderRows(tradTropes)}
+              <tr style="border-top:2px solid #2ecc71;"><td colspan="4"><strong>TOTAL TRADITIONAL</strong></td><td><strong>${tradTotal.toFixed(1)}</strong></td></tr>
+            </tbody>
+          </table>` : ''}
+          <p style="margin-top:12px;font-size:1.1em;"><strong>Score Margin: ${esc(r.scoreMargin || ((tradTotal - wokeTotal >= 0 ? '+' : '') + (tradTotal - wokeTotal).toFixed(0) + (tradTotal >= wokeTotal ? ' TRAD' : ' WOKE')))}</strong></p>`;
+  }
+  // Legacy schema fallback
   return `
           <div class="section-label" style="margin-top:28px;">Trope Audit</div>
           <table class="trope-table">
@@ -490,10 +533,10 @@ function tropeTable(r) {
             <tbody>
               ${r.tropeAudit.map(t => `
               <tr>
-                <td>${esc(t.trope)}</td>
-                <td><span class="tag ${t.category === 'WOKE' ? 'woke' : 'trad'}">${esc(t.category)}</span></td>
-                <td>${esc(t.location)}</td>
-                <td class="${t.authenticity === 'Forced' ? 'forced' : 'natural'}">${esc(t.authenticity)}</td>
+                <td>${esc(t.trope || t.name || '')}</td>
+                <td><span class="tag ${(t.category || '').toUpperCase() === 'WOKE' ? 'woke' : 'trad'}">${esc(t.category)}</span></td>
+                <td>${esc(t.location || t.description || '')}</td>
+                <td class="${t.authenticity === 'Forced' || t.authenticity === 'Low' ? 'forced' : 'natural'}">${esc(t.authenticity)}</td>
               </tr>`).join('')}
             </tbody>
           </table>`;
