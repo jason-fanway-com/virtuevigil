@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-wild-robot-2024",
+    "title": "The Wild Robot (2024)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 28,
+    "poster": "/images/posters/the-wild-robot-2024.jpg"
+  },
+  {
+    "slug": "a-complete-unknown-2024",
+    "title": "A Complete Unknown (2024)",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Drama/Biopic",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 14,
+    "tradScore": 16,
+    "poster": "/images/posters/a-complete-unknown-2024.jpg"
+  },
+  {
+    "slug": "beetlejuice-beetlejuice-2024",
+    "title": "Beetlejuice Beetlejuice (2024)",
+    "verdict": "MILD WOKE",
+    "platform": "Theatrical",
+    "genre": "Comedy/Fantasy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 16,
+    "tradScore": 12,
+    "poster": "/images/posters/beetlejuice-beetlejuice-2024.jpg"
+  },
+  {
     "slug": "wicked-for-good-2025",
     "title": "Wicked: For Good",
     "verdict": "WOKE",
