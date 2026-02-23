@@ -570,6 +570,11 @@ function mdToHtml(text) {
     }
     // HR
     if (/^---+$/.test(line.trim())) { out.push('<hr>'); continue; }
+    // Blockquote
+    if (/^>\s?/.test(line)) {
+      out.push('<blockquote>' + mdInline(line.replace(/^>\s?/, '')) + '</blockquote>');
+      continue;
+    }
     // Bullet
     if (/^[\*\-]\s/.test(line)) {
       if (!inUl) { out.push('<ul>'); inUl = true; }
@@ -610,13 +615,14 @@ function stripInlineMarkdown(text) {
     .replace(/`(.+?)`/g, '$1')
     .replace(/^---+$/gm, '')
     .replace(/^#{1,6}\s+/gm, '')
+    .replace(/^>\s?/gm, '')
     .trim();
 }
 
 // Extract first real paragraph (skip markdown headings/HRs) for subtitles/excerpts
 function firstParagraph(text, maxLen) {
   if (!text) return '';
-  const first = text.split('\n').find(p => p.trim() && !p.trim().startsWith('#') && !/^---+$/.test(p.trim())) || '';
+  const first = text.split('\n').find(p => p.trim() && !p.trim().startsWith('#') && !/^---+$/.test(p.trim()) && !p.trim().startsWith('>') && !/^\*\*Classification:/.test(p.trim()) && !/^\*\*WOKE\b/.test(p.trim()) && !/^\*\*Composite\b/.test(p.trim()) && !/^⚠️\s*(PRE-RELEASE|SPOILER)/.test(p.trim())) || '';
   const clean = stripInlineMarkdown(first.trim());
   if (!maxLen || clean.length <= maxLen) return clean;
   const cut = clean.lastIndexOf('. ', maxLen);
