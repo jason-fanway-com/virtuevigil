@@ -1,5 +1,41 @@
 [
   {
+    "slug": "lilo-and-stitch-2025",
+    "title": "Lilo & Stitch",
+    "verdict": "MILD WOKE",
+    "platform": "Theatrical",
+    "genre": "Family/Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 17,
+    "tradScore": 11,
+    "poster": "/images/posters/lilo-and-stitch-2025.jpg"
+  },
+  {
+    "slug": "sinners-2025",
+    "title": "Sinners",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Horror/Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 15,
+    "tradScore": 19,
+    "poster": "/images/posters/sinners-2025.jpg"
+  },
+  {
+    "slug": "jurassic-world-rebirth-2025",
+    "title": "Jurassic World Rebirth",
+    "verdict": "MILD WOKE",
+    "platform": "Theatrical",
+    "genre": "Action/Sci-Fi",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 14,
+    "tradScore": 10,
+    "poster": "/images/posters/jurassic-world-rebirth-2025.jpg"
+  },
+  {
     "slug": "the-wild-robot-2024",
     "title": "The Wild Robot (2024)",
     "verdict": "TRADITIONAL",
