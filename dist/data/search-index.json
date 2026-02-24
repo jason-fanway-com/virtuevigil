@@ -1,5 +1,41 @@
 [
   {
+    "slug": "mufasa-2024",
+    "title": "Mufasa: The Lion King",
+    "verdict": "MIXED",
+    "platform": "Streaming",
+    "genre": "Animation",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 14.2,
+    "tradScore": 22.8,
+    "poster": "/images/posters/mufasa-2024.jpg"
+  },
+  {
+    "slug": "the-little-mermaid-2023",
+    "title": "The Little Mermaid",
+    "verdict": "WOKE",
+    "platform": "Streaming",
+    "genre": "Musical",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 24.6,
+    "tradScore": 12.3,
+    "poster": "/images/posters/the-little-mermaid-2023.jpg"
+  },
+  {
+    "slug": "indiana-jones-dial-of-destiny-2023",
+    "title": "Indiana Jones and the Dial of Destiny",
+    "verdict": "MIXED",
+    "platform": "Streaming",
+    "genre": "Action",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 15.4,
+    "tradScore": 22.7,
+    "poster": "/images/posters/indiana-jones-dial-of-destiny-2023.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "MILD WOKE",
