@@ -1,5 +1,41 @@
 [
   {
+    "slug": "sonic-the-hedgehog-3-2024",
+    "title": "Sonic the Hedgehog 3",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 4.2,
+    "tradScore": 18.34,
+    "poster": "/images/posters/sonic-the-hedgehog-3-2024.jpg"
+  },
+  {
+    "slug": "a-quiet-place-day-one-2024",
+    "title": "A Quiet Place: Day One",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Horror/Sci-Fi",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 12.6,
+    "tradScore": 11.62,
+    "poster": "/images/posters/a-quiet-place-day-one-2024.jpg"
+  },
+  {
+    "slug": "venom-the-last-dance-2024",
+    "title": "Venom: The Last Dance",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Superhero",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 3.5,
+    "tradScore": 17.07,
+    "poster": "/images/posters/venom-the-last-dance-2024.jpg"
+  },
+  {
     "slug": "mufasa-2024",
     "title": "Mufasa: The Lion King",
     "verdict": "MIXED",
