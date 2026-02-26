@@ -121,6 +121,13 @@ function writePage(relPath, html) {
   console.log(`  ${relPath}`);
 }
 
+// Helper: is this review a woke trap? Check verdict (primary) then legacy wokeTrap.present field
+function isWokeTrap(r) {
+  if (r.verdict && r.verdict.toUpperCase().includes('WOKE TRAP')) return true;
+  if (r.wokeTrap && r.wokeTrap.present) return true;
+  return false;
+}
+
 // Build category data
 function getCategories() {
   const cats = {};
@@ -131,7 +138,7 @@ function getCategories() {
     // Normalise: treat both 'series' and 'tv' as series
     if (r.type === 'film') types.film++;
     else if (r.type === 'series' || r.type === 'tv') types.series++;
-    if (r.wokeTrap && r.wokeTrap.present) trapCount++;
+    if (isWokeTrap(r)) trapCount++;
   });
   return { genres: cats, types, trapCount };
 }
@@ -325,7 +332,7 @@ function sidebarHTML() {
         <h3>Recent Reviews</h3>
         ${recent.map(r => {
           const vc = verdictClass(r.verdict);
-          const hasTrap = r.wokeTrap && r.wokeTrap.present;
+          const hasTrap = isWokeTrap(r);
           const margin = typeof r.scoreMargin === 'number' ? r.scoreMargin : parseFloat(String(r.scoreMargin)) || Math.abs((r.tradScore || 0) - (r.wokeScore || 0));
           let badge = r.verdict;
           if (hasTrap) badge = 'WOKE TRAP';
@@ -678,7 +685,7 @@ function creativeTeamSummary(r) {
   if (ct.composer) html += `<div class="cts-item"><span class="cts-role">Composer</span><span class="cts-name">${esc(ct.composer.name)}</span></div>`;
   if (ct.top_cast && ct.top_cast.length) {
     html += `<div class="cts-item cts-cast"><span class="cts-role">Top Cast</span><div class="cts-cast-list">`;
-    ct.top_cast.forEach(c => { html += `<span class="cts-cast-member">${esc(c.name)} <em>as ${esc(c.role)}</em></span>`; });
+    ct.top_cast.forEach(c => { html += `<span class="cts-cast-member">${esc(c.name || c.actor)} <em>as ${esc(c.role)}</em></span>`; });
     html += `</div></div>`;
   }
   html += `</div>`;
@@ -731,7 +738,7 @@ function creativeTeamFull(r) {
 
   if (ct.full_cast && ct.full_cast.length) {
     html += `<div class="ctf-profile"><h4><i class="fas fa-users" style="color:var(--gold);"></i> Full Cast</h4><div class="ctf-cast-grid">`;
-    ct.full_cast.forEach(c => { html += `<div class="ctf-cast-item"><strong>${esc(c.name)}</strong> <span>as ${esc(c.role)}</span></div>`; });
+    ct.full_cast.forEach(c => { html += `<div class="ctf-cast-item"><strong>${esc(c.name || c.actor)}</strong> <span>as ${esc(c.role)}</span></div>`; });
     html += `</div></div>`;
   }
 
@@ -757,7 +764,7 @@ function buildHomepage() {
   const featured = reviews[0];
   const moreReviews = reviews.slice(1, 5);
   const vc = verdictClass(featured.verdict);
-  const hasTrap = featured.wokeTrap && featured.wokeTrap.present;
+  const hasTrap = isWokeTrap(featured);
 
   const structuredData = {
     "@context": "https://schema.org",
@@ -881,7 +888,7 @@ function buildHomepage() {
 
       ${moreReviews.map(r => {
         const rvc = verdictClass(r.verdict);
-        const rTrap = r.wokeTrap && r.wokeTrap.present;
+        const rTrap = isWokeTrap(r);
         const excerpt = firstParagraph(r.summary.overall, 250);
         return `
       <article class="review-card">
@@ -928,7 +935,7 @@ ${pageScripts()}
 
 function buildReviewPage(r) {
   const vc = verdictClass(r.verdict);
-  const hasTrap = r.wokeTrap && r.wokeTrap.present;
+  const hasTrap = isWokeTrap(r);
   const seo = r.seo || {};
   const title = seo.titleTag || `Is ${r.title} Woke? | VirtueVigil`;
   const desc = seo.metaDescription || `VirtueVigil review of ${r.title}. Woke Score ${r.wokeScore}, Traditional ${r.tradScore}.`;
@@ -1115,7 +1122,7 @@ function buildCategoryPage(name, slug, categoryReviews) {
     <main class="main-content" role="main">
       ${categoryReviews.map(r => {
         const rvc = verdictClass(r.verdict);
-        const rTrap = r.wokeTrap && r.wokeTrap.present;
+        const rTrap = isWokeTrap(r);
         const excerpt = firstParagraph(r.summary.overall, 250);
         return `
       <article class="review-card">
@@ -1785,7 +1792,7 @@ function build() {
   catMap['Series'] = { slug: 'series', reviews: reviews.filter(r => r.type === 'series' || r.type === 'tv') };
 
   // Woke traps
-  const trapReviews = reviews.filter(r => r.wokeTrap && r.wokeTrap.present);
+  const trapReviews = reviews.filter(r => isWokeTrap(r));
   if (trapReviews.length) catMap['Woke Trap Alerts'] = { slug: 'woke-traps', reviews: trapReviews };
 
   // By genre
