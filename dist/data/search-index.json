@@ -1,5 +1,41 @@
 [
   {
+    "slug": "how-to-train-your-dragon-2025",
+    "title": "How to Train Your Dragon",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Family/Adventure",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 4.7,
+    "tradScore": 33.2,
+    "poster": "/images/posters/how-to-train-your-dragon-2025.jpg"
+  },
+  {
+    "slug": "mission-impossible-final-reckoning-2025",
+    "title": "Mission: Impossible - The Final Reckoning",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 1.1,
+    "tradScore": 21.4,
+    "poster": "/images/posters/mission-impossible-final-reckoning-2025.jpg"
+  },
+  {
+    "slug": "fantastic-four-first-steps-2025",
+    "title": "The Fantastic Four: First Steps",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Superhero",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 9.98,
+    "tradScore": 18.7,
+    "poster": "/images/posters/fantastic-four-first-steps-2025.jpg"
+  },
+  {
     "slug": "sonic-the-hedgehog-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL",
