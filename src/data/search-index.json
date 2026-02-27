@@ -36,40 +36,28 @@
     "poster": "/images/posters/fantastic-four-first-steps-2025.jpg"
   },
   {
-    "slug": "dog-man-2025",
-    "title": "Dog Man",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Animation/Comedy",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 3.35,
-    "tradScore": 22.54,
-    "poster": "/images/posters/dog-man-2025.jpg"
-  },
-  {
-    "slug": "den-of-thieves-2-pantera-2025",
-    "title": "Den of Thieves 2: Pantera",
+    "slug": "28-years-later-2025",
+    "title": "28 Years Later",
     "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Action/Crime",
+    "platform": "Theatrical / Digital",
+    "genre": "Horror/Post-Apocalyptic",
     "year": 2025,
     "type": "film",
-    "wokeScore": 4.3,
-    "tradScore": 7,
-    "poster": "/images/posters/den-of-thieves-2-pantera-2025.jpg"
+    "wokeScore": 11.94,
+    "tradScore": 12.46,
+    "poster": "/images/posters/28-years-later-2025.jpg"
   },
   {
-    "slug": "presence-2025",
-    "title": "Presence",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Horror/Thriller",
-    "year": 2025,
+    "slug": "28-years-later-the-bone-temple-2026",
+    "title": "28 Years Later: The Bone Temple",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Digital",
+    "genre": "Horror/Post-Apocalyptic",
+    "year": 2026,
     "type": "film",
-    "wokeScore": 18.1,
-    "tradScore": 8.5,
-    "poster": "/images/posters/presence-2025.jpg"
+    "wokeScore": 10.04,
+    "tradScore": 14.26,
+    "poster": "/images/posters/28-years-later-the-bone-temple-2026.jpg"
   },
   {
     "slug": "sonic-the-hedgehog-3-2024",

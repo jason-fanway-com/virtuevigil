@@ -397,7 +397,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 2,
+        "weightedScore": 2.0,
         "description": "The film assembles a cast that reflects progressive casting priorities: Black female lead, Black supporting survivor, white British male as secondary protagonist. The racial dynamic between Sam and Eric is intentional and the film uses their differences to make a point about shared humanity across racial lines."
       },
       {
@@ -407,7 +407,7 @@
         "severity": 2,
         "authenticity": "High",
         "centrality": "Moderate",
-        "weightedScore": 2,
+        "weightedScore": 2.0,
         "description": "Sam's refusal to go to the evacuation point, her insistence on dying on her own terms and in her own chosen place, is framed as a feminist act of self-determination. The film celebrates her refusal to be saved or redirected by others, including Eric's well-meaning attempts to get her to safety."
       },
       {
@@ -19366,7 +19366,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "12 min",
     "poster": "/images/posters/scream-7.jpg",
-    "verdict": "MIXED",
+    "verdict": "Mixed/Traditional Lean",
     "wokeScore": 3,
     "tradScore": 5,
     "authIndex": 75,
@@ -21212,7 +21212,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3,
+        "weightedScore": 3.0,
         "description": "Nico Parker (mixed-race British) plays Astrid Hofferson, a Viking character who was blonde and white in the animated original. The film attempts an in-universe justification by establishing Berk as a refugee community. The departure is real and was the film's primary pre-release controversy."
       },
       {
@@ -21824,7 +21824,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3,
+        "weightedScore": 3.0,
         "description": "The Silver Surfer, most famously a male character (Norrin Radd), is portrayed as Shalla-Bal, a female character played by Julia Garner. Shalla-Bal as Silver Surfer has comics precedent. But the choice to use the female version rather than the iconic male version is a deliberate editorial decision consistent with Marvel's pattern of replacing male legacy characters with female versions."
       },
       {
@@ -21844,7 +21844,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2,
+        "weightedScore": 2.0,
         "description": "Sue Storm is described as 'the most emotionally intelligent person on the planet,' founded the organization that saved the world, gives the speech that sways public opinion, and makes the final sacrifice. Reed is the brain. Sue is the soul and the de facto leader. She is elevated beyond her comics characterization."
       },
       {
@@ -21965,676 +21965,509 @@
     }
   },
   {
-    "id": "dog-man-2025",
-    "slug": "dog-man-2025",
-    "title": "Dog Man",
+    "id": "28-years-later-2025",
+    "slug": "28-years-later-2025",
+    "title": "28 Years Later",
     "year": 2025,
     "type": "film",
-    "platform": "Theatrical",
-    "genre": "Animation/Comedy",
-    "date": "2026-02-27",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "7 min",
-    "poster": "/images/posters/dog-man-2025.jpg",
-    "verdict": "TRADITIONAL",
-    "wokeScore": 3.35,
-    "tradScore": 22.54,
-    "authIndex": 87,
-    "scoreMargin": "+19 TRAD",
-    "preRelease": false,
-    "wokeTrap": {
-      "present": false,
-      "degree": null,
-      "explanation": "Not a woke trap. Dog Man is exactly what it looks like: a goofy, kinetic, kid-friendly animated movie based on a beloved children's book series. No hidden progressive payload. What you see in the trailer is what you get."
-    },
-    "woke_trap_assessment": {
-      "is_trap": false,
-      "pct_runtime": null,
-      "explanation": "NOT A WOKE TRAP. Dog Man delivers exactly what Dav Pilkey's fans expect: anarchic humor, action slapstick, a wholesome friendship between a hero and a reformed villain, and a simple moral that being good is a choice. The film has no identity politics, no progressive lectures, and no bait-and-switch. The villain becomes a father figure in the most organic way the story allows. Pete Davidson voicing a villain learning to love his son is funnier than it has any right to be."
-    },
-    "creative_team": {
-      "director": {
-        "name": "Peter Hastings",
-        "ideology": "TRADITIONAL. Worked on Captain Underpants for DreamWorks and Netflix. Career shows no progressive political signal. His instincts are comedic and character-driven.",
-        "profile": "Hastings spent years adapting Dav Pilkey's Captain Underpants universe for DreamWorks, which gave him a deep understanding of Pilkey's sensibility: anarchic, silly, fundamentally decent. His direction leans heavily on physical comedy and character beats over plot complexity. He trusts the source material and does not try to import progressive ideas that do not belong in it. Dog Man is what it needs to be: a kids movie that respects its audience without condescending to them."
-      },
-      "writer": {
-        "name": "Peter Hastings",
-        "profile": "Hastings wrote the screenplay alone, adapting Pilkey's first several Dog Man graphic novels. The script is faithful to the books' spirit: rapid-fire gags, silly villain schemes, and a genuine emotional throughline about loneliness and belonging. No screenwriting committee, no progressive brand notes. This is a passion project from someone who understands what makes Pilkey's work resonate with kids."
-      },
-      "lead_producer": {
-        "name": "Karen Foster",
-        "company": "DreamWorks Animation / Universal Pictures"
-      },
-      "composer": {
-        "name": "Tom Howe"
-      },
-      "top_cast": [
-        {
-          "name": "Pete Davidson",
-          "role": "Petey the Cat (voice)"
-        },
-        {
-          "name": "Lil Rel Howery",
-          "role": "80-HD (voice)"
-        },
-        {
-          "name": "Isla Fisher",
-          "role": "Chief (voice)"
-        },
-        {
-          "name": "Lucas Hopkins Calderon",
-          "role": "Li'l Petey (voice)"
-        },
-        {
-          "name": "Ricky Gervais",
-          "role": "Flippy the Fish (voice)"
-        }
-      ],
-      "full_cast": [
-        {
-          "name": "Pete Davidson",
-          "role": "Petey the Cat (voice)"
-        },
-        {
-          "name": "Lil Rel Howery",
-          "role": "80-HD (voice)"
-        },
-        {
-          "name": "Isla Fisher",
-          "role": "Chief (voice)"
-        },
-        {
-          "name": "Lucas Hopkins Calderon",
-          "role": "Li'l Petey (voice)"
-        },
-        {
-          "name": "Ricky Gervais",
-          "role": "Flippy the Fish (voice)"
-        },
-        {
-          "name": "Peter Hastings",
-          "role": "Dog Man barks (voice)"
-        }
-      ],
-      "producers": [
-        {
-          "name": "Karen Foster",
-          "company": "DreamWorks Animation"
-        },
-        {
-          "name": "Dav Pilkey",
-          "company": "Executive Producer"
-        }
-      ]
-    },
-    "fidelity_casting": {
-      "score": "FAITHFUL",
-      "summary": "The film is faithful to Pilkey's character designs and personalities. Dog Man himself is a visual match for the books. Petey and Li'l Petey's dynamic is preserved accurately. No characters are race-swapped or reimagined for ideological purposes."
-    },
-    "summary": {
-      "overall": "Take the kids. Seriously, this one is fine.\n\nDog Man is a 2025 DreamWorks animated film based on Dav Pilkey's best-selling graphic novel series, and it is exactly what parents need: 89 minutes of enthusiastic, clean chaos that kids will love and adults will survive without wanting to leave the theater.\n\nThe premise is pure Pilkey: a policeman and his dog are mortally wounded in an explosion, so surgeons transplant the dog's head onto the officer's body. The result is Dog Man, a half-man, half-dog hero who fights crime in Ohkay City while his arch-nemesis, Petey the Cat, schemes against him with increasingly elaborate plans.\n\nPete Davidson voices Petey with surprising charm. His vocal performance captures the character's petulant arrogance while making room for the genuine warmth that develops when Petey's self-cloning machine produces Li'l Petey, an infant version of himself with no interest in villainy. Li'l Petey just wants to build forts, eat snacks, and call Petey \"dad.\" Petey's reluctant evolution from villain to father figure is the film's emotional core, and it lands.\n\nThis is not a subtle film. It moves at the pace of a sugar-rush, the visual jokes come fast, and the humor oscillates between clever wordplay and shameless potty jokes because the target audience is eight-year-olds and the source material embraces that completely. Hastings does not try to make this into something it is not.\n\nFor parents with conservative values, Dog Man offers a comfortable watch. The movie has no progressive agenda. There are no lectures about identity, no reimagined family structures presented as aspirational, and no villains whose villainy is excused by systemic oppression. Petey is bad because he chooses to be bad. He becomes better because he chooses to be better. Li'l Petey's pure goodness is what reaches him. It is a simple, clean moral framework that the film never undercuts.\n\nThe traditional elements are real: heroism, fidelity, redemption through personal responsibility, and a found-family dynamic built on genuine affection. Dog Man's loyalty to the people he loves is constant and costs him nothing because loyalty of this kind is presented as its own reward.\n\nThe woke score is low but not zero. The film has a female authority figure (Chief, voiced by Isla Fisher) in a role that reads as perfunctory DEI casting rather than character development. There is one brief sequence where Petey and Dog Man are shown to have emotional needs that the film treats as requiring validation rather than action. These are minor notes in a film whose overall tenor is thoroughly traditional.\n\nFor a DreamWorks animated film in 2025, this is about as clean as it gets.",
-      "adultInsight": "Conservative parents can relax. Dog Man has no political agenda and no hidden progressive payload. The core message, that choosing goodness is possible and that love changes people, is exactly the kind of story children should absorb. The Petey/Li'l Petey dynamic is the most unexpectedly touching thing in a kids movie this year. Pete Davidson's voice acting is genuinely funny. Take the eight-year-old.",
-      "parentalGuidance": "Recommended age: 5 and up. PG. Cartoon action violence throughout: explosions, chases, slapstick. A villain gets hit by things repeatedly. No blood, no genuine peril that young children cannot handle. One mild toilet humor sequence. Emotionally, the film deals with loneliness and abandonment in age-appropriate ways. The Petey/Li'l Petey relationship models unexpected redemption and unconditional love. No sexual content, no language concerns, no nightmare-inducing imagery. Youngest children may find the pace overwhelming."
-    },
-    "tropeAudit": [
-      {
-        "id": "WOKE-016",
-        "name": "Female Authority Figure (Token)",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "Moderate",
-        "centrality": "Low",
-        "weightedScore": 1,
-        "description": "Chief, voiced by Isla Fisher, is the police authority figure. Her character serves a functional role but lacks development. The casting feels standard-issue rather than dramatically motivated. Not ideologically active, but a checkbox check."
-      },
-      {
-        "id": "WOKE-019",
-        "name": "Emotional Validation Framing",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Low",
-        "weightedScore": 0.7,
-        "description": "There are brief sequences where characters' emotional needs are treated as requiring acknowledgment and validation from others. Minor and age-appropriate in context, but representative of a therapeutic framing for children's emotions that is culturally progressive."
-      },
-      {
-        "id": "WOKE-023",
-        "name": "Diverse Supporting Cast",
-        "category": "Woke",
-        "severity": 1,
-        "authenticity": "High",
-        "centrality": "Low",
-        "weightedScore": 0.35,
-        "description": "The human characters are racially diverse. No character's identity is made a plot point. This is standard animated film casting."
-      },
-      {
-        "id": "WOKE-021",
-        "name": "Villain Rehabilitation (Full Redemption)",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 1,
-        "description": "Petey's arc moves from villain to reluctant father to genuine good guy. The film implies that Petey's villainy was a product of his circumstances (loneliness, lack of love) rather than genuine moral failure. Li'l Petey's unconditional love is what changes him. The rehabilitation is organic to the source material and not presented as a political statement."
-      },
-      {
-        "id": "TRAD-026",
-        "name": "Personal Responsibility and Free Will",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "description": "The film's core moral is explicit: being bad is a choice, and so is being good. Li'l Petey chooses goodness from birth, not because of his genetics (he is a Petey clone) but because of his character. Petey eventually chooses goodness too. The film does not excuse bad behavior through victimhood. Evil is chosen. Redemption is chosen. Classical moral framework."
-      },
-      {
-        "id": "TRAD-047",
-        "name": "Found Family Through Sacrifice",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "description": "Dog Man adopts Li'l Petey after Petey abandons him. A police dog hero who has lost his original family takes in a baby cat and raises him with complete devotion. The found family is built through presence, care, and commitment. Not a progressive statement about family structure. A traditional statement about what family actually means."
-      },
-      {
-        "id": "TRAD-041",
-        "name": "Heroism as Consistent Action",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "description": "Dog Man does not become a hero in a moment of revelation. He IS a hero, consistently, in every scene, because being a hero is who he is. No identity crisis, no deconstruction of heroism. Dog Man chases bad guys because that is what good people do. The film treats heroism as character, not circumstance."
-      },
-      {
-        "id": "TRAD-029",
-        "name": "Loyalty and Friendship",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "Dog Man's friendship with 80-HD (his robot friend) is built on genuine affection and mutual support. Dog Man's relationship with Li'l Petey mirrors the loyalty between Officer Knight and his dog. The film celebrates friendship as a value, not a therapeutic resource."
-      },
-      {
-        "id": "TRAD-048",
-        "name": "Order Restored, Bad Guys Caught",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "The film ends with the villain neutralized, the city safe, and the hero intact. Dog Man's job is to protect Ohkay City and he does it. Law enforcement is portrayed positively throughout. The police chief is a functional, competent authority figure. Good guys win."
-      },
-      {
-        "id": "TRAD-049",
-        "name": "Redemption Through Love (Paternal)",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "Petey's transformation is driven by his love for Li'l Petey. A father changed by the unconditional love of his child. This is one of the oldest moral stories in human culture. The film presents it without irony or deconstruction."
-      },
-      {
-        "id": "TRAD-036",
-        "name": "Child as Gift, Not Burden",
-        "category": "Traditional",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 1.4,
-        "description": "Li'l Petey represents pure goodness. His arrival is not framed as an imposition on Petey's lifestyle. The arrival of a child is what saves Petey from himself. The film presents children as the force that redeems adults, a deeply traditional moral instinct."
-      }
-    ],
-    "seo": {
-      "titleTag": "Is Dog Man (2025) Woke? | VirtueVigil Review",
-      "metaDescription": "Dog Man (2025) is one of the cleanest family films of the year. Our full VVWS breakdown reveals strong traditional values, low woke content, and a genuinely touching father-son redemption arc. Safe for conservative families.",
-      "keywords": "dog man 2025 woke, is dog man woke, dog man movie review conservative, dog man family friendly, dog man dav pilkey animated, pete davidson petey cat, dog man traditional values, virtuevigil dog man, dog man woke score"
-    }
-  },
-  {
-    "id": "den-of-thieves-2-pantera-2025",
-    "slug": "den-of-thieves-2-pantera-2025",
-    "title": "Den of Thieves 2: Pantera",
-    "year": 2025,
-    "type": "film",
-    "platform": "Theatrical",
-    "genre": "Action/Crime",
-    "date": "2026-02-27",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "7 min",
-    "poster": "/images/posters/den-of-thieves-2-pantera-2025.jpg",
-    "verdict": "MIXED",
-    "wokeScore": 4.3,
-    "tradScore": 7,
-    "authIndex": 62,
-    "scoreMargin": "+3 TRAD",
-    "preRelease": false,
-    "wokeTrap": {
-      "present": false,
-      "degree": null,
-      "explanation": "Not a woke trap. Den of Thieves 2 is exactly what it markets itself as: a grimy, masculine action heist movie set in Europe with Gerard Butler being maximally disreputable. No hidden progressive payload, no third-act reveal. What you see is what you get."
-    },
-    "woke_trap_assessment": {
-      "is_trap": false,
-      "pct_runtime": null,
-      "explanation": "NOT A WOKE TRAP. This is a straightforward hard-R action heist sequel with no political agenda. The film is interested in diamonds, criminal logistics, male camaraderie, and violence. Gerard Butler's Nick O'Brien is one of the least ideologically sanitized action heroes in modern Hollywood: divorced, morally compromised, physically brutal, and unapologetically masculine in ways that are currently unfashionable. The film does not lecture. It has no agenda beyond delivering a heist movie."
-    },
-    "creative_team": {
-      "director": {
-        "name": "Christian Gudegast",
-        "ideology": "TRADITIONAL. Gudegast writes and directs the kind of male-coded crime films that have become rare: hardboiled, morally complex, featuring men who are neither victims nor paragons. Heat is his primary inspiration.",
-        "profile": "Gudegast wrote Den of Thieves, Geostorm, and London Has Fallen before returning to direct the sequel. His sensibility is unapologetically masculine and crime-focused. He is not a political filmmaker. He makes films about men doing violent things for money and the cops who try to stop them, borrowing freely from Michael Mann's aesthetic. His dialogue runs long and the plots can be deliberately confusing, but the craft is evident and the atmosphere is earned."
-      },
-      "writer": {
-        "name": "Christian Gudegast",
-        "profile": "Gudegast wrote the screenplay alone, a rare claim in contemporary action filmmaking. The script is deliberately sprawling: a two-hour-twenty-four-minute runtime, multiple heist phases, a love interest who is underwritten, and a tonal range from buddy comedy to brutal action. The writing reflects Gudegast's influences more than any political consciousness. The script has no social commentary. It is focused entirely on the mechanics of theft."
-      },
-      "lead_producer": {
-        "name": "Tucker Tooley & Gerard Butler",
-        "company": "Tucker Tooley Entertainment / G-BASE / Lionsgate"
-      },
-      "composer": {
-        "name": "Kevin Matley"
-      },
-      "top_cast": [
-        {
-          "name": "Gerard Butler",
-          "role": "Nick O'Brien"
-        },
-        {
-          "name": "O'Shea Jackson Jr.",
-          "role": "Donnie Wilson"
-        },
-        {
-          "name": "Evin Ahmad",
-          "role": "Jovanna"
-        },
-        {
-          "name": "Salvatore Esposito",
-          "role": "Panther Crew Member"
-        },
-        {
-          "name": "Meadow Williams",
-          "role": "Holly"
-        }
-      ],
-      "full_cast": [
-        {
-          "name": "Gerard Butler",
-          "role": "Nick O'Brien"
-        },
-        {
-          "name": "O'Shea Jackson Jr.",
-          "role": "Donnie Wilson"
-        },
-        {
-          "name": "Evin Ahmad",
-          "role": "Jovanna"
-        },
-        {
-          "name": "Salvatore Esposito",
-          "role": "Panther Crew Member"
-        },
-        {
-          "name": "Meadow Williams",
-          "role": "Holly"
-        },
-        {
-          "name": "Swen Temmel",
-          "role": "Marko"
-        }
-      ],
-      "producers": [
-        {
-          "name": "Tucker Tooley",
-          "company": "Tucker Tooley Entertainment"
-        },
-        {
-          "name": "Gerard Butler",
-          "company": "G-BASE"
-        },
-        {
-          "name": "Alan Siegel",
-          "company": "Producer"
-        },
-        {
-          "name": "Mark Canton",
-          "company": "Producer"
-        }
-      ]
-    },
-    "fidelity_casting": {
-      "score": "FAITHFUL",
-      "summary": "The principal cast returns unchanged from the first film. Butler and O'Shea Jackson Jr. reprise their roles with no ideological reimagining. New cast members are introduced for new characters without casting controversy."
-    },
-    "summary": {
-      "overall": "Den of Thieves 2 does not break any new ground. It does not need to.\n\nThe original Den of Thieves (2018) was a cult hit built around Gerard Butler being as aggressively unpleasant as possible while chasing professional thieves through Los Angeles. It worked because Butler committed fully to playing a dirty cop who was more interesting as a flawed human than any idealized action hero. The sequel sends the franchise to Europe for an Antwerp diamond heist, and brings back everything that worked.\n\nThe setup is simple enough. Nick O'Brien, recently divorced and on the outs with the LASD, follows Donnie Wilson to Europe after discovering he has joined the Panther Crew, an elite international thief syndicate. Rather than arrest him, Nick muscles his way into the crew and plans to use the heist for his own purposes. The Calabrian mafia is also involved. The film is comfortable with moral ambiguity throughout.\n\nGerard Butler is the reason to see this. His Nick O'Brien is deliberately un-heroic: divorced, drinking, using his law enforcement credentials as leverage for personal gain, sleeping with a suspect's girlfriend. He is a man whose competence is real and whose character is questionable. The film never asks you to excuse this. It simply shows you a complicated man operating in a complicated world and trusts that you can watch someone like that without needing him to be made righteous.\n\nO'Shea Jackson Jr. carries the film's moral center. Donnie is a thief who is better at his job than Nick is at his, and the dynamic between them, mutual respect built on professional admiration rather than any shared values, drives the buddy-movie element cleanly.\n\nThe heist sequences are well-designed. The Antwerp diamond vault procedure is meticulous in the way heist films reward: specific, procedural, and satisfying when the pieces click into place. The running time is longer than the film needs, the love interest subplot is underdeveloped, and the Calabrian mafia thread is introduced and resolved in ways that stretch credulity. Gudegast's instinct is always to add more rather than cut.\n\nFor conservative audiences, this film is a comfortable watch with caveats. It is a hard-R film with language, violence, and sexuality throughout. The moral universe is ambiguous: the hero is not virtuous, the thieves are sometimes more honorable than the cop, and the ending does not deliver traditional justice. But the film has no progressive agenda, no lectures, no identity politics, and no attempt to rehabilitate its male characters' masculinity into something more acceptable. Nick O'Brien is exactly as complicated at the end as he was at the beginning.\n\nThis is competent, entertainment-focused action filmmaking with a strong lead performance. It respects the audience's intelligence without trying to educate their politics.",
-      "adultInsight": "Conservative viewers who enjoyed the first film will find this a worthy sequel. The politics-free zone is real: no lectures, no DEI messaging, no apology for masculinity. Butler's performance carries the film. Know what you are getting: hard-R, morally ambiguous, and not especially interested in redemption arcs. This is a crime film in the classic sense. The female characters are underwritten. The male camaraderie is earned.",
-      "parentalGuidance": "Recommended age: 18+. Rated R. Extended and graphic violence: gunfights, brutal physical confrontations, one torture scene. Significant strong language throughout. Sexual content: an affair subplot, brief nudity implied. Drug and alcohol use throughout, including a scene where characters discuss acquiring drugs. This is an adult film in every sense. Not appropriate for minors under any circumstances."
-    },
-    "tropeAudit": [
-      {
-        "id": "WOKE-011",
-        "name": "Hero's Morality Framed as Systemic Failure",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 1,
-        "description": "Nick's morally compromised behavior is partially framed as a product of institutional failure: a system that rewards dirty cops and discards good ones. The film does not endorse this framing as a full excuse but it is present. Contemporary crime films consistently attribute character flaws to institutional corruption rather than individual moral failure."
-      },
-      {
-        "id": "WOKE-003",
-        "name": "Female Character in Competent Authority Role",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "Moderate",
-        "centrality": "Low",
-        "weightedScore": 1,
-        "description": "Jovanna leads the Panther Crew with full authority and competence. In the original film the criminal organizations were male-led. Her leadership is not ideologically foregrounded but represents the genre shift toward female authority in criminal enterprises. Her characterization is thin."
-      },
-      {
-        "id": "WOKE-022",
-        "name": "Moral Equivalence: Cops and Criminals",
-        "category": "Woke",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "The film consistently presents professional criminals as more honorable and competent than law enforcement. Donnie's thieves operate by a code. Nick operates by self-interest. The institution of law enforcement is shown as corrupt, incompetent, and politically motivated. The criminals are the protagonists the audience is meant to root for."
-      },
-      {
-        "id": "WOKE-015",
-        "name": "Marital Dissolution Normalized",
-        "category": "Woke",
-        "severity": 1,
-        "authenticity": "High",
-        "centrality": "Low",
-        "weightedScore": 0.35,
-        "description": "Nick's divorce is an established fact with no moral weight attached. The film treats the dissolution of his marriage as background detail. His infidelity is a plot device, not a moral failing the film requires him to address."
-      },
-      {
-        "id": "TRAD-026",
-        "name": "Male Competence Celebrated",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "description": "The film's entire appeal is built around competent men doing difficult things with extreme skill. Nick's physical capability, tactical intelligence, and refusal to back down are celebrated throughout. Donnie's technical mastery of theft is portrayed as genuinely impressive. This is a film that respects male competence without deconstructing or apologizing for it."
-      },
-      {
-        "id": "TRAD-028",
-        "name": "Masculine Code: Respect Through Strength",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "Nick earns his place in the crew by being physically and psychologically unbreakable. When the Panther Crew tests him, he does not negotiate or explain himself. He demonstrates. The film treats this as the correct response: respect is earned through demonstrated capability, not through conversation or emotional openness."
-      },
-      {
-        "id": "TRAD-040",
-        "name": "Professional Craftsmen",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "The Panther Crew takes their craft seriously. Their heist planning is meticulous: specific roles, rehearsed procedures, contingency planning. The film celebrates professional expertise and the discipline required to execute complex operations. This is traditional work-ethic framing applied to criminal activity."
-      },
-      {
-        "id": "TRAD-029",
-        "name": "Brotherhood Under Fire",
-        "category": "Traditional",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Low",
-        "weightedScore": 0.7,
-        "description": "The bond between Nick and Donnie is built on mutual professional respect and shared danger. It is not sentimental. They do not exchange emotional disclosures. They watch each other's backs because that is what professionals do in dangerous situations. Traditional male friendship coded in action, not words."
-      }
-    ],
-    "seo": {
-      "titleTag": "Is Den of Thieves 2: Pantera Woke? | VirtueVigil Review",
-      "metaDescription": "Den of Thieves 2: Pantera is a politics-free hard-R action heist film with Gerard Butler at his most disreputable. Our full VVWS breakdown shows a low woke score and a traditional masculinity-forward crime thriller. Not for kids.",
-      "keywords": "den of thieves 2 pantera woke, is den of thieves 2 woke, den of thieves pantera review conservative, gerard butler den of thieves 2, den of thieves 2 2025 review, oshea jackson jr pantera, virtuevigil den of thieves, den of thieves 2 woke score"
-    }
-  },
-  {
-    "id": "presence-2025",
-    "slug": "presence-2025",
-    "title": "Presence",
-    "year": 2025,
-    "type": "film",
-    "platform": "Theatrical",
-    "genre": "Horror/Thriller",
+    "platform": "Theatrical / Digital",
+    "genre": "Horror/Post-Apocalyptic",
     "date": "2026-02-27",
     "author": "VirtueVigil Editorial Team",
     "readTime": "8 min",
-    "poster": "/images/posters/presence-2025.jpg",
-    "verdict": "MILD WOKE",
-    "wokeScore": 18.1,
-    "tradScore": 8.5,
-    "authIndex": 32,
-    "scoreMargin": "-10 WOKE",
+    "poster": "/images/posters/28-years-later-2025.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 11.94,
+    "tradScore": 12.46,
+    "authIndex": 48,
+    "scoreMargin": "+1 TRAD",
     "preRelease": false,
     "wokeTrap": {
       "present": true,
-      "degree": "Partial",
-      "explanation": "Presence markets itself as a minimalist ghost story filmed from the ghost's POV. That is accurate. What the marketing does not emphasize: the film's moral architecture heavily favors the neglected daughter over the complicit family structure, the mother is engaged in white-collar crime, the father is ineffectual, and the film's resolution involves a teenage girl's autonomy over her own body being validated by a supernatural force. The thriller framing contains a latent progressive family structure critique."
+      "degree": "Moderate",
+      "explanation": "The first hour of 28 Years Later is a beautifully shot father-son survival story with traditional masculine energy. The dad hunts, protects, teaches. Then the script dismantles him. His affair is revealed, his competence is discarded, and the boy rejects him for the rest of the film. The setup feels intentional: build trust in a traditional male archetype, then expose him as a fraud. That qualifies as a partial bait-and-switch."
     },
     "woke_trap_assessment": {
       "is_trap": true,
-      "pct_runtime": 40,
-      "explanation": "PARTIAL WOKE TRAP. Presence's unique POV conceit is genuinely inventive and the film delivers real craft. But the ghost-story framework contains a progressive moral agenda that is not visible in the marketing. The family is a study in dysfunction: an ambitious mother who commits white-collar crime and ropes her teenage son into covering for her, a passive father who prioritizes keeping the peace over protecting his daughter, and a daughter whose emotional sensitivity and autonomy are the film's moral center. The supernatural force is explicitly on Chloe's side because she is the family's most vulnerable member. By the end, the presence has made its values clear: it protects teenage girls from their families and validates their emotional reality. Soderbergh and screenwriter David Koepp frame all of this as atmospheric horror while embedding a fairly pointed critique of traditional family hierarchies."
+      "pct_runtime": 45,
+      "explanation": "The first 45 minutes present a compelling, traditional father-son survival narrative. Aaron Taylor-Johnson's Jamie is strong, capable, and protective. Then the rug pull: Jamie is revealed as an unfaithful coward, and the film discards him entirely. The mother, despite being bedridden and incoherent for most of the runtime, is treated as morally superior. The second half replaces the father-son dynamic with a boy leading his dying mother across hostile terrain alone, which is both narratively implausible and ideologically loaded. Parents expecting a traditional survival thriller will get one for the first act and something very different for the rest."
     },
     "creative_team": {
       "director": {
-        "name": "Steven Soderbergh",
-        "ideology": "PROGRESSIVE. Soderbergh is one of Hollywood's more politically conscious directors. Che (2008), Haywire, and Magic Mike all reflect progressive politics. His willingness to work with Julia Fox (a progressive cultural figure) and frame the mother's white-collar crime as sympathetic context reinforces this.",
-        "profile": "Soderbergh is one of the most technically adventurous directors working today. Traffic, Erin Brockovich, the Ocean's trilogy, Contagion, Unsane, and Kimi demonstrate enormous range. Presence is his most formally experimental theatrical feature: the entire film is shot from the ghost's POV, with no identifying shots, creating an immersive and disorienting experience. The craft is undeniable. Soderbergh's progressive politics are also undeniable: he is a committed Democratic donor and has used his platform to advocate for left-coded causes. Presence's values are consistent with his worldview."
+        "name": "Danny Boyle",
+        "ideology": "PROGRESSIVE. Boyle has a long history of social commentary in his films. Trainspotting critiqued Thatcherism, Slumdog Millionaire carried post-colonial themes, and 28 Days Later was explicitly about societal breakdown. He's described 28 Years Later as a Brexit and COVID metaphor. He doesn't hide it.",
+        "profile": "Danny Boyle is one of British cinema's most celebrated directors. Oscar winner for Slumdog Millionaire. He returns to the franchise he launched in 2002 with 28 Days Later, the film that essentially created the fast-zombie genre. Boyle is a talented filmmaker with strong political instincts. He built the island community in this film as a deliberate metaphor for post-Brexit Britain: isolated, regressive, clinging to a mythologized past. Whether you read that as insightful or preachy depends on your tolerance for allegory."
       },
       "writer": {
-        "name": "David Koepp",
-        "profile": "Koepp has written some of the most successful films of the past 30 years: Jurassic Park, Mission: Impossible, Spider-Man, War of the Worlds. Presence is a sharp departure from his blockbuster output, a deliberately intimate script built around family dysfunction. The screenplay is lean: very little exposition, enormous amounts of subtext. The decision to make the mother the family's compromised authority figure while the father is well-meaning but impotent reflects a progressive view of traditional family power structures."
+        "name": "Alex Garland",
+        "profile": "Alex Garland wrote 28 Days Later and 28 Weeks Later before branching into directing with Ex Machina, Annihilation, and Civil War. His scripts tend toward bleak philosophical premises with political undercurrents. Civil War (2024) was criticized for being ideologically vague while posing as profound. His writing here is stronger in the first half than the second. The father-son dynamic is genuinely well-crafted. The mother's arc and the euthanasia subplot feel more like thesis statements than character work."
       },
       "lead_producer": {
-        "name": "Julie M. Anderson & Ken Meyer",
-        "company": "Sugar23 / Extension 765 / Neon"
+        "name": "Andrew Macdonald, Peter Rice, Danny Boyle & Alex Garland",
+        "company": "Columbia Pictures / Decibel Films / DNA Films"
       },
       "composer": {
-        "name": "Zack Ryan"
+        "name": "Young Fathers"
       },
       "top_cast": [
         {
-          "name": "Lucy Liu",
-          "role": "Rebekah Payne"
+          "name": "Jodie Comer",
+          "role": "Isla"
         },
         {
-          "name": "Chris Sullivan",
-          "role": "Chris Payne"
+          "name": "Aaron Taylor-Johnson",
+          "role": "Jamie"
         },
         {
-          "name": "Callina Liang",
-          "role": "Chloe Payne"
+          "name": "Alfie Williams",
+          "role": "Spike"
         },
         {
-          "name": "Eddy Maday",
-          "role": "Tyler Payne"
+          "name": "Ralph Fiennes",
+          "role": "Dr. Ian Kelson"
         },
         {
-          "name": "West Mulholland",
-          "role": "Ryan"
+          "name": "Jack O'Connell",
+          "role": "Sir Lord Jimmy Crystal"
         },
         {
-          "name": "Julia Fox",
-          "role": "Cece (Realtor)"
+          "name": "Edvin Ryding",
+          "role": "Erik Sundqvist"
+        },
+        {
+          "name": "Chi Lewis-Parry",
+          "role": "Samson (Alpha Infected)"
+        },
+        {
+          "name": "Erin Kellyman",
+          "role": "Jimmy Ink"
         }
       ],
       "full_cast": [
         {
-          "name": "Lucy Liu",
-          "role": "Rebekah Payne"
+          "name": "Jodie Comer",
+          "role": "Isla"
         },
         {
-          "name": "Chris Sullivan",
-          "role": "Chris Payne"
+          "name": "Aaron Taylor-Johnson",
+          "role": "Jamie"
         },
         {
-          "name": "Callina Liang",
-          "role": "Chloe Payne"
+          "name": "Alfie Williams",
+          "role": "Spike"
         },
         {
-          "name": "Eddy Maday",
-          "role": "Tyler Payne"
+          "name": "Ralph Fiennes",
+          "role": "Dr. Ian Kelson"
         },
         {
-          "name": "West Mulholland",
-          "role": "Ryan"
+          "name": "Jack O'Connell",
+          "role": "Sir Lord Jimmy Crystal"
         },
         {
-          "name": "Julia Fox",
-          "role": "Cece (Realtor)"
+          "name": "Edvin Ryding",
+          "role": "Erik Sundqvist"
         },
         {
-          "name": "Lucas Papaelias",
-          "role": "Supporting role"
+          "name": "Chi Lewis-Parry",
+          "role": "Samson (Alpha Infected)"
         },
         {
-          "name": "Natalie Woolams-Torres",
-          "role": "Supporting role"
+          "name": "Christopher Fulford",
+          "role": "Sam"
+        },
+        {
+          "name": "Stella Gonet",
+          "role": "Jenny"
+        },
+        {
+          "name": "Erin Kellyman",
+          "role": "Jimmy Ink"
+        },
+        {
+          "name": "Emma Laird",
+          "role": "Jimmima"
         }
       ],
       "producers": [
         {
-          "name": "Julie M. Anderson",
-          "company": "Sugar23"
+          "name": "Andrew Macdonald",
+          "company": "DNA Films"
         },
         {
-          "name": "Ken Meyer",
-          "company": "Extension 765"
+          "name": "Peter Rice",
+          "company": "Decibel Films"
+        },
+        {
+          "name": "Bernie Bellew",
+          "company": "Decibel Films"
+        },
+        {
+          "name": "Danny Boyle",
+          "company": "DNA Films"
+        },
+        {
+          "name": "Alex Garland",
+          "company": "DNA Films"
         }
       ]
     },
     "fidelity_casting": {
       "score": "ORIGINAL",
-      "summary": "Presence is an original screenplay, not an adaptation. Casting notes: Lucy Liu as a morally compromised corporate mother is well-cast. Chris Sullivan, best known as Toby on This Is Us, brings recognizable warmth to the ineffectual father. Callina Liang is the film's emotional center and handles the role with genuine sensitivity."
+      "summary": "28 Years Later features an entirely new cast of characters, not adapted from prior material. The cast is predominantly white British, consistent with the post-apocalyptic British Isles setting. There's no race-swapping or forced diversity casting. The casting is organic and setting-appropriate."
     },
     "summary": {
-      "overall": "Presence is the most technically inventive horror film of early 2025. It is also a quietly progressive film wearing an arthouse horror mask.\n\nSteven Soderbergh's latest finds the director in full experiment mode. The film is shot entirely from the ghost's POV: the camera drifts through rooms, watches characters from doorways, hovers protectively over the family's neglected daughter Chloe. It is a formal innovation that actually works. The immersive perspective creates genuine dread because you never know what the presence is thinking. You only know what it watches.\n\nThe Payne family has just moved into a new suburban home. Rebekah (Lucy Liu) is the family's ambitious driver: career-focused, emotionally distant, engaged in undisclosed white-collar crime that she has recruited her teenage son Tyler into covering up. Chris (Chris Sullivan) is warm, attentive to Chloe, and largely powerless in the family's dynamic. Tyler is his mother's accomplice and a bully. Chloe is emotionally fragile after a friend's death and genuinely sensitive to the presence in the house.\n\nSoderbergh and screenwriter David Koepp are not subtle about where the film's sympathies lie. Every scene the presence appears in is a scene involving Chloe. When Tyler catfishes a female classmate to obtain a nude photo and then leaks it, the presence destroys his room while the entire family watches. When Chloe cries, the presence closes her door to give her privacy. When Ryan and Chloe begin to kiss, the presence interrupts. The supernatural force is explicitly protective of Chloe and explicitly hostile to anything that threatens her autonomy, safety, or emotional state.\n\nThis is skillful filmmaking. The problem is what it is saying.\n\nThe family structure the film critiques is recognizable: an ambitious mother whose career ambition has led to moral compromise, a compliant teenage son being groomed into her worldview, a passive father who cares but cannot act, and a sensitive daughter who sees the family clearly and suffers for it. The presence sides with the daughter. The presence is the film's moral arbiter, and its values are Chloe's values.\n\nFor conservative viewers, the specific discomfort will be the film's framing of parental authority. Rebekah is right about nothing. Chris is kind but useless. The film's resolution involves Chloe's emotional reality being validated by a force outside the family structure. The traditional family as protective institution is the film's villain, at least in the form it takes in the Payne household.\n\nSoderbergh does not make bad films. This one is genuinely unsettling, formally daring, and anchored by strong performances. Callina Liang as Chloe is a genuine discovery. But conservative viewers should know what they are watching. The ghost is not neutral. It has a worldview. That worldview is progressive.",
-      "adultInsight": "Technically brilliant, values-wise troubling. Soderbergh has made a formally inventive film that is also a fairly pointed critique of what happens to families when ambition overrides integrity and compliance is rewarded over truth-telling. The film's supernatural force sides explicitly with the emotionally sensitive teenage girl against her family's dysfunction. Conservative viewers who track the film's moral architecture will find it pointed. Fans of Soderbergh's formal experiments will find it rewarding.",
-      "parentalGuidance": "Recommended age: 17+. Rated PG-13 but pushing the limits. Content warnings: a teenage boy is involved in catfishing and distributing a nude photo of a classmate (shown as reprehensible). Drug and alcohol use among teenagers. Discussion of a friend's suicide. The film's horror is atmospheric rather than gory: no blood, no on-screen violence, genuine sustained dread. A teenage girl and boy begin a romantic relationship that the film handles sensitively but parents should be aware of. The film's family dynamics model a deeply dysfunctional family structure that includes a mother committing crimes and normalizing this to her son. Not appropriate for pre-teens."
+      "overall": "28 Years Later is two movies welded together, and the seam shows.\n\nThe first 45 minutes are genuinely excellent. Danny Boyle shoots a post-apocalyptic Britain that feels lived-in and dangerous. Aaron Taylor-Johnson's Jamie is a capable, charismatic father taking his 12-year-old son Spike on his first mainland hunt, a rite of passage in their isolated island community. The infected have evolved. There are slow, shambling types and terrifying \"Alphas,\" enormous, intelligent, naked infected that tower over everything else. The hunting sequence is tense, well-shot, and emotionally grounded. Father teaches son. Son wants to make father proud. It's as traditional as a campfire.\n\nThen the film detonates its own foundation.\n\nJamie is revealed as a liar, a cheat, and a coward. He's having an affair while his wife Isla wastes away from what turns out to be terminal cancer. Spike discovers the betrayal, rejects his father entirely, and from that point forward, Jamie is functionally deleted from the movie. He sits on the island and does nothing while his 12-year-old son drags his barely-conscious mother across zombie-infested mainland Britain to find a doctor.\n\nLet that sink in. The boy nearly died on his first trip to the mainland with his experienced, capable father beside him. Now he's doing it alone, hauling a woman who can barely walk, with only a bow and a knife. The script asks you to accept this because the boy's moral clarity matters more than plausibility.\n\nThe mainland journey introduces Dr. Ian Kelson, played by Ralph Fiennes with quiet authority. Kelson lives alone, building an ossuary from the bones of the dead, both human and infected. He practices a kind of sacred grief work, memorializing victims while sedating a towering Alpha he's named Samson. Fiennes is the best thing in the film. His performance is restrained and genuinely moving.\n\nHere's where it gets complicated for parents. Kelson diagnoses Isla with terminal cancer. She asks him to help her die. He does. The film treats assisted suicide not just sympathetically, but reverently. Spike watches his mother die, then takes her cleaned skull and places it atop the Bone Temple. The scene is shot as a sacrament. Whether that sits well with you depends entirely on where you stand on euthanasia.\n\nThe infected Alpha, Samson, mirrors Jamie: both are failed patriarchs who lost their families. The parallel is not subtle. Traditional masculine authority figures in this film are either frauds (Jamie), death-worshipping eccentrics (Kelson), or literal monsters (Samson). The only male character who functions is Spike, and his entire arc is about rejecting his father's model.\n\nThe final three minutes introduce a Satanic cult led by a Jimmy Savile-inspired figure in a tiara. It's tonally insane, completely at odds with the preceding two hours, and clearly exists to set up The Bone Temple sequel. As a storytelling choice, it's baffling.\n\nThe film's Brexit metaphor is real but not aggressive. The island community represents an isolated, inward-looking Britain, clinging to myths of its past while the outside world moves on. It's there if you look for it, but it doesn't dominate the narrative.\n\nThe cinematography by Anthony Dod Mantle is stunning throughout. The performances are uniformly strong. The first act is one of the best stretches of horror filmmaking in years. But the second half asks you to swallow too many implausibilities in service of its themes, and the ideological architecture becomes visible. Fathers fail. Mothers suffer nobly. Children reject patriarchal authority. Death is sacralized.\n\n28 Years Later is a well-made, visually gorgeous film that undermines itself by dismantling the very story it spent an hour building. It's not offensively woke, but it's ideologically loaded in ways that conservative audiences will notice. The scores land almost even, with a very slight traditional lean driven by the first act's genuine quality and the survival themes throughout.",
+      "adultInsight": "Adults will recognize what Boyle and Garland are doing. The Brexit metaphor is there. The systematic deconstruction of Jamie is there. The assisted suicide scene is handled with craft but not neutrality. It's clear the filmmakers have a position and they're using the horror framework to deliver it. That said, the first act is genuinely excellent, Fiennes is magnetic, and the infected sequences are among the best in the franchise. If you can separate craft from ideology, there's real filmmaking here. If you can't, the second half will feel like a lecture wrapped in beautiful photography.",
+      "parentalGuidance": "Recommended age: 16 and up. This is a hard R-rated horror film with significant content warnings. Full-frontal male nudity from the Alpha infected is extensive and graphic. Violence is intense, including infected attacks, arrow wounds, and a decapitation. The assisted suicide scene is portrayed reverently and may deeply disturb viewers with religious or pro-life convictions. A pregnant infected woman gives birth on screen. The father character is systematically humiliated after the first act. Language is moderate. Not appropriate for children under 14 under any circumstances."
     },
     "tropeAudit": [
       {
-        "id": "WOKE-008",
-        "name": "Absent/Ineffectual Father Figure",
-        "category": "Woke",
+        "id": "TRAD-001",
+        "name": "Coming-of-Age Through Adversity",
+        "category": "Traditional",
         "severity": 4,
-        "authenticity": "Moderate",
+        "authenticity": "High",
         "centrality": "High",
-        "weightedScore": 5.6,
-        "description": "Chris Payne is present, caring, and completely ineffectual. He knows something is wrong with his family, loves his daughter, sees his wife's corruption, and does nothing that changes any outcome. He is the warm but powerless good man in a family being destroyed by feminine ambition and male compliance. The film's entire moral resolution happens over and around him. He is structurally irrelevant to the story despite being emotionally sympathetic."
+        "weightedScore": 5.04,
+        "description": "Spike's journey from sheltered island boy to self-reliant survivor is the film's emotional spine. He faces real danger, makes hard choices, and grows through genuine hardship. The coming-of-age structure is traditional in its bones, even if the film complicates it by making his growth contingent on rejecting his father."
       },
       {
-        "id": "WOKE-007",
-        "name": "Female Ambition as Family Destructor",
-        "category": "Woke",
+        "id": "TRAD-005",
+        "name": "Sacrifice for Others as Highest Good",
+        "category": "Traditional",
         "severity": 3,
-        "authenticity": "Moderate",
-        "centrality": "High",
-        "weightedScore": 4.2,
-        "description": "Rebekah's ambition has led to white-collar crime which she justifies to herself and eventually to her son. The film presents this as bad, but her characterization is sympathetic enough that the critique is softened. Her ambition is the narrative engine that has damaged the family. Whether the film intends this as a progressive 'female ambition is punished' story or a 'corruption damages families' story is genuinely ambiguous."
-      },
-      {
-        "id": "WOKE-014",
-        "name": "Supernatural Force as Progressive Moral Arbiter",
-        "category": "Woke",
-        "severity": 3,
-        "authenticity": "Low",
-        "centrality": "High",
-        "weightedScore": 7.56,
-        "description": "The film's central POV device is also its moral framework: the presence watches the family, protects Chloe, and punishes Tyler. Its interventions consistently validate progressive values: protecting a teenage girl's emotional autonomy, punishing male-coded bad behavior (catfishing, bullying), and remaining neutral or hostile toward the family authority structures that fail Chloe. The supernatural force functions as a progressive moral corrector."
-      },
-      {
-        "id": "WOKE-016",
-        "name": "Institutional Authority Undermined (Family)",
-        "category": "Woke",
-        "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2,
-        "description": "The film's resolution bypasses the family authority structure entirely. Chloe is not rescued by her father asserting authority, by institutions intervening, or by her mother correcting course. She is protected by a supernatural entity that validates her individual emotional reality. The family as protective institution has failed. External validation (supernatural or otherwise) fills the gap."
-      },
-      {
-        "id": "WOKE-013",
-        "name": "Male Character as Bad Actor (Catfishing/Distribution)",
-        "category": "Woke",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 3,
-        "description": "Tyler distributes a nude photo of a female classmate after catfishing her to obtain it. The act is framed as unambiguously terrible and is punished supernaturally. The specific nature of the crime, a young male using technology to exploit a female classmate, reflects contemporary progressive concerns about digital sexual exploitation. Tyler's villainy in this sequence is used to establish his moral bankruptcy."
-      },
-      {
-        "id": "TRAD-026",
-        "name": "Personal Responsibility for Corruption",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
         "weightedScore": 2.1,
-        "description": "Rebekah's white-collar crime is treated as a genuine moral failing that has corrupted her son and damaged her family. The film does not excuse her behavior. The consequences are real and the film's ghost does not protect her. Personal choices have consequences in the film's moral framework, even for sympathetically rendered characters."
+        "description": "Multiple characters sacrifice for others throughout the film. Isla accepts death so Spike won't be burdened. Kelson dedicates his life to memorializing the dead. The theme is present, though the framing of Isla's sacrifice through euthanasia complicates its traditional reading."
       },
       {
-        "id": "TRAD-047",
-        "name": "Father Loves His Daughter",
+        "id": "TRAD-019",
+        "name": "Survival as Moral Imperative",
         "category": "Traditional",
         "severity": 3,
         "authenticity": "High",
         "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "Chris's love for Chloe is constant, genuine, and the film's warmest relationship. He sees her clearly, defends her against Tyler's mockery, and tries to protect her. His failure to protect her more effectively is a tragedy, not a condemnation. A father who loves his daughter and tries to defend her is traditionally coded even when the film's structure limits his effectiveness."
+        "weightedScore": 3.78,
+        "description": "The island community survives through self-reliance, practical skills, and cooperation. Spike's mainland journey is fundamentally about survival in a hostile world. Hunting, gathering, navigation, and combat are treated as essential human skills."
       },
       {
-        "id": "TRAD-039",
-        "name": "Moral Consequences Are Real",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "Tyler's bad behavior is punished. Rebekah's corruption has visible consequences. The film does not allow anyone to get away with anything cleanly. Actions have consequences. This is traditional moral architecture even within a horror framework."
-      },
-      {
-        "id": "TRAD-049",
-        "name": "Grief as Real and Honored",
-        "category": "Traditional",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 1.4,
-        "description": "Chloe's grief over Nadia's death is taken seriously by the film. It is not pathologized, minimized, or resolved with therapeutic intervention. The ghost honors Chloe's grief by appearing in connection with her loss. Grief is treated as real, legitimate, and worthy of supernatural attention."
-      },
-      {
-        "id": "TRAD-050",
-        "name": "Truth-Telling Rewarded",
+        "id": "TRAD-028",
+        "name": "Communal Self-Reliance",
         "category": "Traditional",
         "severity": 2,
         "authenticity": "High",
         "centrality": "Low",
-        "weightedScore": 0.7,
-        "description": "Chloe's willingness to tell the truth about the presence, despite being mocked and dismissed, is validated by the film's ending. Truth-telling in the face of social pressure is treated as a virtue. The family members who dismiss her are wrong."
+        "weightedScore": 1.54,
+        "description": "The Lindisfarne community is entirely self-sufficient: they hunt, farm, govern themselves, and defend their borders. The film portrays this positively in the first act. The community works because everyone contributes."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Deconstruction of Traditional Masculinity",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.6,
+        "description": "Jamie is built up as the archetypal capable father, hunter, protector, provider, and then systematically exposed as a fraud. His affair, his cowardice, his refusal to seek help for his dying wife, are presented as inherent failures of the masculine model he represents. The Alpha infected mirrors his arc: another powerful male who loses everything. The pattern is deliberate."
+      },
+      {
+        "id": "WOKE-012",
+        "name": "Euthanasia as Compassion",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.24,
+        "description": "Isla's assisted suicide is treated as the most dignified possible ending. The film frames it as a loving, maternal choice. There's no counterargument presented, no moral complexity about whether a barely-coherent terminal patient can consent to death. Kelson performs it reverently. The skull ceremony afterward borders on sacred ritual."
+      },
+      {
+        "id": "WOKE-008",
+        "name": "Isolationism as Regression",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "description": "Boyle has explicitly described the island community as a Brexit metaphor. The community clings to half-remembered British mythology, screens wartime propaganda, and resists outside contact. The film treats their isolation as cultural stagnation rather than necessary protection."
+      },
+      {
+        "id": "WOKE-019",
+        "name": "Male Body as Spectacle",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.7,
+        "description": "The Alpha infected are fully nude with exaggerated, visible male genitalia. This isn't incidental. The film makes a point of their physical masculinity being monstrous and grotesque. Whether this reads as objectification, satire, or horror depends on the viewer, but the sheer quantity of infected nudity is clearly a deliberate creative choice."
       }
     ],
     "seo": {
-      "titleTag": "Is Presence (2025) Woke? | VirtueVigil Review",
-      "metaDescription": "Presence (2025) is Soderbergh's formally inventive ghost-POV film with a quietly progressive agenda. Our full VVWS breakdown reveals a woke lean verdict and explains the supernatural moral arbiter at the film's center.",
-      "keywords": "presence 2025 woke, is presence 2025 woke, soderbergh presence review conservative, presence lucy liu ghost movie, presence 2025 review, callina liang chloe, virtuevigil presence, presence woke score, presence supernatural thriller review"
+      "titleTag": "Is 28 Years Later Woke? | VirtueVigil Review",
+      "metaDescription": "28 Years Later starts as a traditional father-son survival story and then dismantles its own protagonist. VirtueVigil breaks down the ideology: Brexit metaphors, assisted suicide, and the systematic deconstruction of fatherhood.",
+      "keywords": "28 years later woke, is 28 years later woke, 28 years later 2025 review, 28 years later conservative review, 28 years later parent guide, danny boyle woke, alex garland ideology, 28 years later father son, virtuevigil 28 years later"
+    }
+  },
+  {
+    "id": "28-years-later-the-bone-temple-2026",
+    "slug": "28-years-later-the-bone-temple-2026",
+    "title": "28 Years Later: The Bone Temple",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical / Digital",
+    "genre": "Horror/Post-Apocalyptic",
+    "date": "2026-02-27",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "8 min",
+    "poster": "/images/posters/28-years-later-the-bone-temple-2026.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 10.04,
+    "tradScore": 14.26,
+    "authIndex": 52,
+    "scoreMargin": "+4 TRAD",
+    "preRelease": false,
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "The Bone Temple is not a woke trap. It's a brutal, nihilistic horror film about cult violence, and it shows you exactly what it is from the opening minutes. The Satanic cult, the forced death matches, and the graphic violence are all established early. There's no ideological bait-and-switch here."
+    },
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "pct_runtime": null,
+      "explanation": "Not a woke trap. The Bone Temple is transparent about its content and tone from the first scene. It's a dark, violent continuation of the 28 Years Later story that follows Spike into a Satanic cult while Dr. Kelson develops a bond with the Alpha infected Samson. The themes of evil, tribalism, and whether the infected can be redeemed are presented without ideological deception. What you see in the trailer is what you get in the theater."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Nia DaCosta",
+        "ideology": "PROGRESSIVE. DaCosta directed Candyman (2021), which was explicitly about racial violence and gentrification, and The Marvels (2023), which drew criticism for its progressive messaging and underperformed at the box office. She's been outspoken about representation in Hollywood. Her politics are well-documented.",
+        "profile": "Nia DaCosta is a young director who rose fast. Her debut, Little Woods (2018), was a social-realist drama about poverty and healthcare access. Candyman was a horror film built entirely around racial trauma. The Marvels was supposed to be her mainstream breakout but became one of the MCU's biggest commercial disappointments. DaCosta was given creative freedom on The Bone Temple by Boyle and Garland. The result is a tighter, more focused film than The Marvels, though it lacks the visual inventiveness of 28 Years Later's first half. She handles the cult sequences with real menace and pulls strong performances from the younger cast members."
+      },
+      "writer": {
+        "name": "Alex Garland",
+        "profile": "Garland returns as writer. The Bone Temple's script is leaner and meaner than the first film. The cult dynamics are well-drawn, the Kelson-Samson relationship is the film's emotional core, and the pacing is tighter. Garland's nihilistic worldview is on full display. The film asks whether any God would allow a world this broken, and the answer it arrives at is closer to 'no' than 'maybe.' His themes of fascism, tribalism, and the corruption of charismatic leadership are universal enough to avoid feeling like a targeted lecture."
+      },
+      "lead_producer": {
+        "name": "Andrew Macdonald, Peter Rice, Danny Boyle & Alex Garland",
+        "company": "Columbia Pictures / Decibel Films / DNA Films"
+      },
+      "composer": {
+        "name": "Hildur Gudnadottir"
+      },
+      "top_cast": [
+        {
+          "name": "Ralph Fiennes",
+          "role": "Dr. Ian Kelson"
+        },
+        {
+          "name": "Jack O'Connell",
+          "role": "Sir Lord Jimmy Crystal"
+        },
+        {
+          "name": "Alfie Williams",
+          "role": "Spike"
+        },
+        {
+          "name": "Erin Kellyman",
+          "role": "Jimmy Ink / Kellie"
+        },
+        {
+          "name": "Chi Lewis-Parry",
+          "role": "Samson (Alpha Infected)"
+        },
+        {
+          "name": "Emma Laird",
+          "role": "Jimmima"
+        },
+        {
+          "name": "Louis Ashbourne Serkis",
+          "role": "Tom"
+        },
+        {
+          "name": "Mirren Mack",
+          "role": "Cathy"
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Ralph Fiennes",
+          "role": "Dr. Ian Kelson"
+        },
+        {
+          "name": "Jack O'Connell",
+          "role": "Sir Lord Jimmy Crystal"
+        },
+        {
+          "name": "Alfie Williams",
+          "role": "Spike"
+        },
+        {
+          "name": "Erin Kellyman",
+          "role": "Jimmy Ink / Kellie"
+        },
+        {
+          "name": "Chi Lewis-Parry",
+          "role": "Samson (Alpha Infected)"
+        },
+        {
+          "name": "Emma Laird",
+          "role": "Jimmima"
+        },
+        {
+          "name": "Sam Locke",
+          "role": "Jimmy Fox"
+        },
+        {
+          "name": "Robert Rhodes",
+          "role": "Jimmy Jimmy"
+        },
+        {
+          "name": "Ghazi Al Ruffai",
+          "role": "Jimmy Snake"
+        },
+        {
+          "name": "Maura Bird",
+          "role": "Jimmy Jones"
+        },
+        {
+          "name": "Connor Newall",
+          "role": "Jimmy Shite"
+        },
+        {
+          "name": "Louis Ashbourne Serkis",
+          "role": "Tom"
+        },
+        {
+          "name": "Mirren Mack",
+          "role": "Cathy"
+        },
+        {
+          "name": "David Sterne",
+          "role": "George"
+        },
+        {
+          "name": "Cillian Murphy",
+          "role": "Jim (uncredited cameo)"
+        }
+      ],
+      "producers": [
+        {
+          "name": "Andrew Macdonald",
+          "company": "DNA Films"
+        },
+        {
+          "name": "Peter Rice",
+          "company": "Decibel Films"
+        },
+        {
+          "name": "Bernie Bellew",
+          "company": "Decibel Films"
+        },
+        {
+          "name": "Danny Boyle",
+          "company": "DNA Films"
+        },
+        {
+          "name": "Alex Garland",
+          "company": "DNA Films"
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "ORIGINAL",
+      "summary": "Like its predecessor, The Bone Temple features original characters, not adaptations. The cast is predominantly white British, consistent with the setting. The Jimmy Savile-inspired cult is appropriately disturbing. Erin Kellyman (who played Enfys Nest in Solo and Karli Morgenthau in Falcon and Winter Soldier) is the most recognizable cast addition and delivers a strong performance as the disillusioned Finger who befriends Spike. No race-swapping or forced diversity casting detected."
+    },
+    "summary": {
+      "overall": "The Bone Temple is better than it has any right to be. After the messy second half of 28 Years Later, expectations for this direct sequel were low. But Nia DaCosta delivers a focused, brutal survival horror film that improves on its predecessor in several key areas.\n\nThe film picks up where 28 Years Later left off. Spike has been captured by the Fingers, a gang of young fighters led by the psychopathic Sir Lord Jimmy Crystal, played by Jack O'Connell with unhinged conviction. Crystal styles himself after Jimmy Savile, wears an inverted cross, claims Satan is his father, and runs his gang through violence, death matches, and religious terror. O'Connell is the film's secret weapon. He makes Crystal genuinely frightening: not because he's physically imposing, but because he believes his own mythology so completely that everyone around him does too.\n\nSpike's initiation into the gang requires him to kill another member in a death match. From there, his arc becomes a study of what happens to a traumatized child placed under the authority of a charismatic psychopath. Alfie Williams continues to be remarkably good as Spike. He's asked to carry more emotional weight here than in the first film and he handles it.\n\nThe film's best material belongs to Ralph Fiennes as Dr. Kelson. His parallel storyline follows his developing relationship with Samson, the Alpha infected from the first film. Kelson discovers that Samson is becoming addicted to his morphine darts and deliberately returning for sedation. Over time, the two develop something like a friendship. When Kelson administers antipsychotics and Samson begins to speak, first just the word \"moon,\" it's the most emotionally affecting moment in either film.\n\nWhat Garland is doing with Kelson and Samson is genuinely interesting: testing whether the rage virus is treatable, whether humanity persists beneath the infection, whether monsters can be redeemed. The answer the film suggests, tentatively yes, is more hopeful than anything in the first movie.\n\nThe cult sequences are where the film earns its R rating and then some. Crystal orders prisoners skinned alive as sacrifices to Satan. Death matches are graphic. The violence is extreme and purposeful, showing how easily young people can be radicalized by charismatic evil. The parallel to real-world cult dynamics and gang recruitment isn't hidden, but it's not preachy either. It works as horror. It also works as commentary.\n\nErin Kellyman gives a surprisingly strong performance as Jimmy Ink, the one Finger who hasn't fully bought into Crystal's delusion. Her growing alliance with Spike and her eventual rebellion against Crystal is the film's most conventional narrative thread, and it's well-executed.\n\nThe climax involves Kelson impersonating Satan in a drug-fueled pyrotechnic performance of Iron Maiden's \"The Number of the Beast\" to turn the Fingers against Crystal. It's the kind of scene that sounds absurd on paper and works beautifully on screen. Kelson's death at Crystal's hands is earned and affecting. The final image, Samson carrying Kelson's body away after speaking his name, is haunting.\n\nCillian Murphy's cameo as Jim from the original 28 Days Later arrives in the final scene, setting up the planned third film. It's brief but effective.\n\nNow, for the ideology check. DaCosta is a known progressive, and some conservative reviewers expected The Bone Temple to be ideologically loaded. It's not, at least not in the way they feared. The film's strongest female character, Jimmy Ink, is competent and brave, but she's not a girlboss archetype. She's a traumatized gang member who does what she must to survive. Spike is weakened from the first film, reduced from budding warrior to a meek captive, which some viewers will read as deliberate emasculation. But the script justifies it: he's a kid who just watched his mother die, thrown into a cult run by a maniac. His passivity is trauma, not ideology.\n\nThe film's real philosophical weight sits with Kelson and his question of whether God exists in a world this broken. The answer leans nihilistic, but Kelson's compassion provides a counterweight. He doesn't find God. He finds something to care about anyway. That's not woke or traditional. It's humanist.\n\nThe Bone Temple is better crafted than expected, more violent than most viewers will anticipate, and ideologically less loaded than the director's track record would suggest. The scores lean slightly traditional, carried by the redemption arc, the anti-cult messaging, and the genuine emotional weight of the Kelson-Samson relationship.",
+      "adultInsight": "Adults will find more to chew on here than in the first film. The cult sequences are disturbing but intelligent. O'Connell's performance as Crystal is one of the year's best villain turns. Fiennes elevates every scene he's in. The Kelson-Samson relationship is the franchise's most original contribution to the zombie genre: the idea that the infected might be treatable, that rage might be a symptom rather than a sentence. Garland's script raises real questions about tribalism, radicalization, and whether compassion can survive in a world designed to kill it. DaCosta keeps the pace tight and doesn't let the philosophy slow down the horror. It's a bleaker, meaner film than the first one, but also more coherent.",
+      "parentalGuidance": "Recommended age: 17 and up. This is one of the most violent mainstream horror films in recent memory. Characters are skinned alive on screen. Death matches are graphic. Full-frontal infected nudity continues from the first film. The cult's Satanic rituals are disturbing and explicitly portrayed. Drug use is a plot element. A character is crucified on an inverted cross. Multiple characters die violently. The film's philosophical content, questioning God's existence in a broken world, may disturb viewers of faith. This is not a film for children or sensitive viewers. Strong stomachs only."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-014",
+        "name": "Redemption Through Compassion",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "The Kelson-Samson relationship is the film's moral center. Kelson treats a monster with compassion, not because he's naive, but because he's a doctor who believes suffering deserves care. Samson's gradual return to humanity, speaking his first word, no longer attacking Kelson, carrying his body at the end, is a genuine redemption arc. It's traditional in its core premise: love and patience can reach even the most broken."
+      },
+      {
+        "id": "TRAD-022",
+        "name": "Evil Defined by Actions, Not Identity",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "description": "Jimmy Crystal is evil because of what he does: murder, torture, manipulation, exploitation of children. The film doesn't pathologize him or blame systemic forces. He's a sociopath who found a mythology to justify his violence. The film treats evil as a personal moral choice, not a product of circumstance. That's a traditional moral framework."
+      },
+      {
+        "id": "TRAD-005",
+        "name": "Sacrifice for Others as Highest Good",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "description": "Kelson sacrifices his life to protect Spike from Crystal. He does it deliberately, knowing it will cost him everything. Tom and Cathy fight to protect each other. Jimmy Ink risks her life to save Spike. Self-sacrifice runs through the entire film as the defining moral act."
+      },
+      {
+        "id": "TRAD-040",
+        "name": "Anti-Cult, Anti-Radicalization Message",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 1.66,
+        "description": "The film is an extended critique of cult dynamics: charismatic leader, enforced loyalty through violence, elimination of individual identity (everyone becomes a 'Jimmy'), ritualized cruelty as bonding. The message that cults destroy young people is universal and traditionally moral."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Male Protagonist Diminished",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.24,
+        "description": "Spike, whose arc in the first film was about discovering his inner strength, is reduced to a passive, meek victim for most of The Bone Temple. He's a hostage to Crystal's cult, unable to assert himself, needing to be rescued or protected by others. Jimmy Ink emerges as the more capable and decisive character. The film provides a narrative justification (trauma), but the pattern of diminishing male agency from the first film continues."
+      },
+      {
+        "id": "WOKE-015",
+        "name": "Female Character as Moral Compass",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Jimmy Ink is the only Finger who sees through Crystal's act. She's the smartest, the most compassionate, and the only one who rebels with moral clarity. Cathy is the survivor who fights back effectively. The women in this film consistently make better moral choices than the men. It's not egregious, but the pattern is visible."
+      },
+      {
+        "id": "WOKE-008",
+        "name": "Anti-Religious Subtext",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.0,
+        "description": "The film's treatment of religion is hostile. Crystal's Satanism is obviously mocked, but the film also questions whether any God exists in this world. Kelson's bone temple is a secular monument to death. The crucifixion of Crystal on an inverted cross is loaded imagery. The film's opening, a boy whose minister father embraces the apocalypse as rapture, carries into this sequel's broader skepticism of faith as either delusion or manipulation. Garland's script doesn't distinguish between Crystal's false religion and religion in general."
+      },
+      {
+        "id": "WOKE-019",
+        "name": "Male Body as Grotesque Spectacle",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.7,
+        "description": "The full-frontal infected nudity continues, with Samson's physical form prominently displayed. Multiple reviewers noted the sheer volume of male nudity. The infected male body is presented as simultaneously powerful and repulsive. The female body receives no equivalent treatment."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is 28 Years Later: The Bone Temple Woke? | VirtueVigil Review",
+      "metaDescription": "The Bone Temple is better than expected. Nia DaCosta delivers brutal cult horror with a surprising redemption arc. VirtueVigil's full ideology breakdown: anti-religion themes, diminished masculinity, and whether the director's progressive track record shows.",
+      "keywords": "28 years later bone temple woke, is bone temple woke, 28 years later the bone temple review, nia dacosta woke, bone temple conservative review, 28 years later sequel 2026, ralph fiennes bone temple, virtuevigil bone temple review"
     }
   }
 ]
