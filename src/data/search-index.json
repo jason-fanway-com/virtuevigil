@@ -36,6 +36,42 @@
     "poster": "/images/posters/fantastic-four-first-steps-2025.jpg"
   },
   {
+    "slug": "dog-man-2025",
+    "title": "Dog Man",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation/Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3.35,
+    "tradScore": 22.54,
+    "poster": "/images/posters/dog-man-2025.jpg"
+  },
+  {
+    "slug": "den-of-thieves-2-pantera-2025",
+    "title": "Den of Thieves 2: Pantera",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Action/Crime",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 4.3,
+    "tradScore": 7,
+    "poster": "/images/posters/den-of-thieves-2-pantera-2025.jpg"
+  },
+  {
+    "slug": "presence-2025",
+    "title": "Presence",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 18.1,
+    "tradScore": 8.5,
+    "poster": "/images/posters/presence-2025.jpg"
+  },
+  {
     "slug": "sonic-the-hedgehog-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL",
