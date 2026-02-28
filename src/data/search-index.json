@@ -1,15 +1,39 @@
 [
   {
-    "slug": "scream-7",
-    "title": "Scream 7",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Horror/Slasher",
-    "year": 2026,
+    "slug": "the-accountant-2-2025",
+    "title": "The Accountant 2",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Amazon MGM",
+    "genre": "Action/Crime/Thriller",
+    "year": 2025,
     "type": "film",
-    "wokeScore": 12.46,
-    "tradScore": 18.62,
-    "poster": "/images/posters/scream-7.jpg"
+    "wokeScore": 4.2,
+    "tradScore": 26.46,
+    "poster": "/images/posters/the-accountant-2-2025.jpg"
+  },
+  {
+    "slug": "back-in-action-2025",
+    "title": "Back in Action",
+    "verdict": "MIXED",
+    "platform": "Netflix",
+    "genre": "Action/Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 12.6,
+    "tradScore": 10.92,
+    "poster": "/images/posters/back-in-action-2025.jpg"
+  },
+  {
+    "slug": "havoc-2025",
+    "title": "Havoc",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Action/Crime/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8.4,
+    "tradScore": 17.22,
+    "poster": "/images/posters/havoc-2025.jpg"
   },
   {
     "slug": "how-to-train-your-dragon-2025",
@@ -106,18 +130,6 @@
     "wokeScore": 10.04,
     "tradScore": 14.26,
     "poster": "/images/posters/28-years-later-the-bone-temple-2026.jpg"
-  },
-  {
-    "slug": "death-of-a-unicorn-2025",
-    "title": "Death of a Unicorn",
-    "verdict": "WOKE",
-    "platform": "Theatrical / HBO Max",
-    "genre": "Dark Fantasy / Comedy Horror",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 16.9,
-    "tradScore": 12.3,
-    "poster": "/images/posters/death-of-a-unicorn-2025.jpg"
   },
   {
     "slug": "sonic-the-hedgehog-3-2024",
@@ -1486,6 +1498,18 @@
     "wokeScore": 0,
     "tradScore": 8,
     "poster": "/images/posters/i-can-only-imagine-2.jpg"
+  },
+  {
+    "slug": "scream-7",
+    "title": "Scream 7",
+    "verdict": "Mixed/Traditional Lean",
+    "platform": "Theatrical",
+    "genre": "Horror",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 5,
+    "poster": "/images/posters/scream-7.jpg"
   },
   {
     "slug": "blitz-2024",
