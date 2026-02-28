@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/pluribus-2025/</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/how-to-train-your-dragon-2025/</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -866,6 +872,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/action/comedy/</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/sci-fi/drama/black-comedy/</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
