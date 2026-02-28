@@ -121,10 +121,10 @@ function writePage(relPath, html) {
   console.log(`  ${relPath}`);
 }
 
-// Helper: is this review a woke trap? Check verdict (primary) then legacy wokeTrap.present field
+// Helper: is this review a woke trap? Check woke_trap_assessment.is_trap (canonical per VVWS-SPEC v1.1)
+// A woke trap requires: (a) negative margin (film scores woke) AND (b) woke content hidden until >50% runtime
 function isWokeTrap(r) {
-  if (r.verdict && r.verdict.toUpperCase().includes('WOKE TRAP')) return true;
-  if (r.wokeTrap && r.wokeTrap.present) return true;
+  if (r.woke_trap_assessment && r.woke_trap_assessment.is_trap === true) return true;
   return false;
 }
 
