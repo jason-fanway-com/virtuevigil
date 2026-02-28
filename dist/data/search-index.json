@@ -36,6 +36,18 @@
     "poster": "/images/posters/havoc-2025.jpg"
   },
   {
+    "slug": "greenland-2-migration-2026",
+    "title": "Greenland 2: Migration",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Thriller/Sci-Fi",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5.05,
+    "tradScore": 18.62,
+    "poster": "/images/posters/greenland-2-migration-2026.jpg"
+  },
+  {
     "slug": "how-to-train-your-dragon-2025",
     "title": "How to Train Your Dragon",
     "verdict": "TRADITIONAL",
@@ -130,6 +142,18 @@
     "wokeScore": 10.04,
     "tradScore": 14.26,
     "poster": "/images/posters/28-years-later-the-bone-temple-2026.jpg"
+  },
+  {
+    "slug": "death-of-a-unicorn-2025",
+    "title": "Death of a Unicorn",
+    "verdict": "WOKE",
+    "platform": "Theatrical / HBO Max",
+    "genre": "Dark Fantasy / Comedy Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 16.9,
+    "tradScore": 12.3,
+    "poster": "/images/posters/death-of-a-unicorn-2025.jpg"
   },
   {
     "slug": "sonic-the-hedgehog-3-2024",
