@@ -1,5 +1,17 @@
 [
   {
+    "slug": "greenland-2-migration-2026",
+    "title": "Greenland 2: Migration",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Thriller/Sci-Fi",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5.05,
+    "tradScore": 18.62,
+    "poster": "/images/posters/greenland-2-migration-2026.jpg"
+  },
+  {
     "slug": "the-accountant-2-2025",
     "title": "The Accountant 2",
     "verdict": "TRADITIONAL",
@@ -34,18 +46,6 @@
     "wokeScore": 8.4,
     "tradScore": 17.22,
     "poster": "/images/posters/havoc-2025.jpg"
-  },
-  {
-    "slug": "greenland-2-migration-2026",
-    "title": "Greenland 2: Migration",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Action/Thriller/Sci-Fi",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 5.05,
-    "tradScore": 18.62,
-    "poster": "/images/posters/greenland-2-migration-2026.jpg"
   },
   {
     "slug": "how-to-train-your-dragon-2025",
