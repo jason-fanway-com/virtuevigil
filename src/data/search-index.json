@@ -14,7 +14,7 @@
   {
     "slug": "the-accountant-2-2025",
     "title": "The Accountant 2",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical / Amazon MGM",
     "genre": "Action/Crime/Thriller",
     "year": 2025,
@@ -62,7 +62,7 @@
   {
     "slug": "how-to-train-your-dragon-2025",
     "title": "How to Train Your Dragon",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Family/Adventure",
     "year": 2025,
@@ -74,7 +74,7 @@
   {
     "slug": "mission-impossible-final-reckoning-2025",
     "title": "Mission: Impossible - The Final Reckoning",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Action/Thriller",
     "year": 2025,
@@ -86,7 +86,7 @@
   {
     "slug": "fantastic-four-first-steps-2025",
     "title": "The Fantastic Four: First Steps",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Action/Superhero",
     "year": 2025,
@@ -122,7 +122,7 @@
   {
     "slug": "presence-2025",
     "title": "Presence",
-    "verdict": "MILD WOKE",
+    "verdict": "WOKE",
     "platform": "Theatrical",
     "genre": "Horror/Thriller",
     "year": 2025,
@@ -146,7 +146,7 @@
   {
     "slug": "28-years-later-the-bone-temple-2026",
     "title": "28 Years Later: The Bone Temple",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical / Digital",
     "genre": "Horror/Post-Apocalyptic",
     "year": 2026,
@@ -158,7 +158,7 @@
   {
     "slug": "death-of-a-unicorn-2025",
     "title": "Death of a Unicorn",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical / HBO Max",
     "genre": "Dark Fantasy / Comedy Horror",
     "year": 2025,
@@ -206,7 +206,7 @@
   {
     "slug": "mufasa-2024",
     "title": "Mufasa: The Lion King",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Streaming",
     "genre": "Animation",
     "year": 2024,
@@ -230,7 +230,7 @@
   {
     "slug": "indiana-jones-dial-of-destiny-2023",
     "title": "Indiana Jones and the Dial of Destiny",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Streaming",
     "genre": "Action",
     "year": 2023,
@@ -242,7 +242,7 @@
   {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
-    "verdict": "MILD WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Family/Comedy",
     "year": 2025,
@@ -254,7 +254,7 @@
   {
     "slug": "sinners-2025",
     "title": "Sinners",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Horror/Drama",
     "year": 2025,
@@ -266,7 +266,7 @@
   {
     "slug": "jurassic-world-rebirth-2025",
     "title": "Jurassic World Rebirth",
-    "verdict": "MILD WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Action/Sci-Fi",
     "year": 2025,
@@ -278,7 +278,7 @@
   {
     "slug": "the-wild-robot-2024",
     "title": "The Wild Robot (2024)",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Animation",
     "year": 2024,
@@ -302,7 +302,7 @@
   {
     "slug": "beetlejuice-beetlejuice-2024",
     "title": "Beetlejuice Beetlejuice (2024)",
-    "verdict": "MILD WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Comedy/Fantasy",
     "year": 2024,
@@ -314,7 +314,7 @@
   {
     "slug": "wicked-for-good-2025",
     "title": "Wicked: For Good",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Musical",
     "year": 2025,
@@ -326,7 +326,7 @@
   {
     "slug": "one-battle-after-another-2025",
     "title": "One Battle After Another",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Action",
     "year": 2025,
@@ -338,7 +338,7 @@
   {
     "slug": "the-conjuring-last-rites-2025",
     "title": "The Conjuring: Last Rites",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Horror",
     "year": 2025,
@@ -362,7 +362,7 @@
   {
     "slug": "warfare-2025",
     "title": "Warfare",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (A24)",
     "genre": "Action",
     "year": 2025,
@@ -374,7 +374,7 @@
   {
     "slug": "paddington-in-peru-2024",
     "title": "Paddington in Peru",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (StudioCanal / Sony Pictures)",
     "genre": "Animation",
     "year": 2024,
@@ -386,7 +386,7 @@
   {
     "slug": "novocaine-2025",
     "title": "Novocaine",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (Paramount Pictures)",
     "genre": "Action",
     "year": 2025,
@@ -398,7 +398,7 @@
   {
     "slug": "mickey-17-2025",
     "title": "Mickey 17",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical (Warner Bros. / Plan B Entertainment)",
     "genre": "Sci-Fi & Fantasy",
     "year": 2025,
@@ -410,7 +410,7 @@
   {
     "slug": "iron-lung-2026",
     "title": "Iron Lung",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (Markiplier Studios)",
     "genre": "Horror",
     "year": 2026,
@@ -422,7 +422,7 @@
   {
     "slug": "melania-2026",
     "title": "Melania",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (Amazon MGM Studios)",
     "genre": "Drama",
     "year": 2026,
@@ -434,7 +434,7 @@
   {
     "slug": "marty-supreme-2025",
     "title": "Marty Supreme",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (A24 / Central Pictures)",
     "genre": "Drama",
     "year": 2025,
@@ -446,7 +446,7 @@
   {
     "slug": "companion-2025",
     "title": "Companion",
-    "verdict": "WOKE",
+    "verdict": "MIXED",
     "platform": "Theatrical (New Line Cinema / Warner Bros.)",
     "genre": "Sci-Fi & Fantasy",
     "year": 2025,
@@ -458,7 +458,7 @@
   {
     "slug": "the-housemaid-2025",
     "title": "The Housemaid",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical (Lionsgate / Hidden Pictures)",
     "genre": "Thriller",
     "year": 2025,
@@ -482,7 +482,7 @@
   {
     "slug": "dracula",
     "title": "Dracula: A Love Tale",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (EuropaCorp / TF1 Films Production)",
     "genre": "Horror",
     "year": 2025,
@@ -494,7 +494,7 @@
   {
     "slug": "avatar-fire-and-ash",
     "title": "Avatar: Fire and Ash",
-    "verdict": "WOKE",
+    "verdict": "MIXED",
     "platform": "Theatrical (Disney / 20th Century Studios / Lightstorm)",
     "genre": "Sci-Fi & Fantasy",
     "year": 2025,
@@ -518,7 +518,7 @@
   {
     "slug": "predator-badlands",
     "title": "Predator: Badlands",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical (20th Century Studios / Disney)",
     "genre": "Action",
     "year": 2025,
@@ -530,7 +530,7 @@
   {
     "slug": "mercy-2026",
     "title": "Mercy (2026)",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Sci-Fi & Fantasy",
     "year": 2026,
@@ -542,7 +542,7 @@
   {
     "slug": "zootopia-2-2025",
     "title": "Zootopia 2 (2025)",
-    "verdict": "WOKE",
+    "verdict": "STRONGLY WOKE",
     "platform": "Theatrical",
     "genre": "Animation",
     "year": 2025,
@@ -566,7 +566,7 @@
   {
     "slug": "send-help-2026",
     "title": "Send Help (2026)",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Horror",
     "year": 2026,
@@ -578,7 +578,7 @@
   {
     "slug": "wuthering-heights",
     "title": "Wuthering Heights (2026)",
-    "verdict": "WOKE TRAP",
+    "verdict": "WOKE",
     "platform": "Theatrical",
     "genre": "Drama",
     "year": 2026,
@@ -590,7 +590,7 @@
   {
     "slug": "goat-2026",
     "title": "GOAT (2026)",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Animation",
     "year": 2026,
@@ -614,7 +614,7 @@
   {
     "slug": "moana-2-2024",
     "title": "Moana 2 (2024)",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Animation",
     "year": 2024,
@@ -626,7 +626,7 @@
   {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2 (2024)",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Animation",
     "year": 2024,
@@ -650,7 +650,7 @@
   {
     "slug": "white-lotus-s3",
     "title": "The White Lotus — Season 3",
-    "verdict": "WOKE TRAP",
+    "verdict": "WOKE LEAN",
     "platform": "HBO",
     "genre": "Drama",
     "year": 2025,
@@ -674,7 +674,7 @@
   {
     "slug": "andor-s2",
     "title": "Andor — Season 2",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Disney+",
     "genre": "Sci-Fi & Fantasy",
     "year": 2025,
@@ -686,7 +686,7 @@
   {
     "slug": "the-penguin-2024",
     "title": "The Penguin",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "HBO",
     "genre": "Action",
     "year": 2024,
@@ -698,7 +698,7 @@
   {
     "slug": "nosferatu-2024",
     "title": "Nosferatu",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (Focus Features / Universal Pictures)",
     "genre": "Horror",
     "year": 2024,
@@ -710,7 +710,7 @@
   {
     "slug": "the-brutalist-2024",
     "title": "The Brutalist",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical (A24 / Focus Features UK)",
     "genre": "Drama",
     "year": 2024,
@@ -734,7 +734,7 @@
   {
     "slug": "alien-romulus-2024",
     "title": "Alien: Romulus",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (20th Century Studios)",
     "genre": "Horror",
     "year": 2024,
@@ -746,7 +746,7 @@
   {
     "slug": "dune-part-two-2024",
     "title": "Dune: Part Two",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical / Max",
     "genre": "Sci-Fi & Fantasy",
     "year": 2024,
@@ -758,7 +758,7 @@
   {
     "slug": "kingdom-of-the-planet-of-the-apes-2024",
     "title": "Kingdom of the Planet of the Apes",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical / Disney+",
     "genre": "Sci-Fi & Fantasy",
     "year": 2024,
@@ -770,7 +770,7 @@
   {
     "slug": "deadpool-wolverine-2024",
     "title": "Deadpool & Wolverine",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical / Disney+",
     "genre": "Action",
     "year": 2024,
@@ -782,7 +782,7 @@
   {
     "slug": "longlegs-2024",
     "title": "Longlegs",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical / Shudder / Peacock",
     "genre": "Horror",
     "year": 2024,
@@ -794,7 +794,7 @@
   {
     "slug": "challengers-2024",
     "title": "Challengers",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical (Amazon MGM Studios)",
     "genre": "Drama",
     "year": 2024,
@@ -818,7 +818,7 @@
   {
     "slug": "kinds-of-kindness-2024",
     "title": "Kinds of Kindness",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical (Searchlight Pictures)",
     "genre": "Drama",
     "year": 2024,
@@ -830,7 +830,7 @@
   {
     "slug": "the-fall-guy-2024",
     "title": "The Fall Guy",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (Universal Pictures)",
     "genre": "Action",
     "year": 2024,
@@ -842,7 +842,7 @@
   {
     "slug": "despicable-me-4-2024",
     "title": "Despicable Me 4",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical / Peacock (Universal Pictures / Illumination)",
     "genre": "Animation",
     "year": 2024,
@@ -854,7 +854,7 @@
   {
     "slug": "if-2024",
     "title": "IF (Imaginary Friends)",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical / Paramount+ (Paramount Pictures)",
     "genre": "Animation",
     "year": 2024,
@@ -890,7 +890,7 @@
   {
     "slug": "civil-war-2024",
     "title": "Civil War",
-    "verdict": "MIXED",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical / Amazon Prime Video",
     "genre": "Action",
     "year": 2024,
@@ -926,7 +926,7 @@
   {
     "slug": "immaculate-2024",
     "title": "Immaculate",
-    "verdict": "WOKE",
+    "verdict": "STRONGLY WOKE",
     "platform": "Theatrical / Hulu",
     "genre": "Horror",
     "year": 2024,
@@ -938,7 +938,7 @@
   {
     "slug": "abigail-2024",
     "title": "Abigail",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (Universal Pictures)",
     "genre": "Horror",
     "year": 2024,
@@ -950,7 +950,7 @@
   {
     "slug": "the-ministry-of-ungentlemanly-warfare-2024",
     "title": "The Ministry of Ungentlemanly Warfare",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (Lionsgate)",
     "genre": "Action",
     "year": 2024,
@@ -962,7 +962,7 @@
   {
     "slug": "lisa-frankenstein-2024",
     "title": "Lisa Frankenstein",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical (Focus Features)",
     "genre": "Horror",
     "year": 2024,
@@ -974,7 +974,7 @@
   {
     "slug": "bridgerton-s4",
     "title": "Bridgerton — Season 4",
-    "verdict": "WOKE TRAP",
+    "verdict": "WOKE",
     "platform": "Theatrical",
     "genre": "Drama",
     "year": 2026,
@@ -986,7 +986,7 @@
   {
     "slug": "how-to-make-a-killing",
     "title": "How to Make a Killing (2026)",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Thriller",
     "year": 2026,
@@ -998,7 +998,7 @@
   {
     "slug": "the-bride-2026",
     "title": "The Bride! (2026)",
-    "verdict": "PREDICTED: WOKE TRAP",
+    "verdict": "PREDICTED: WOKE",
     "platform": "Theatrical",
     "genre": "Horror",
     "year": 2026,
@@ -1034,7 +1034,7 @@
   {
     "slug": "ready-or-not-2",
     "title": "Ready or Not 2",
-    "verdict": "PREDICTED: CAUTION",
+    "verdict": "PREDICTED: WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Horror",
     "year": 2026,
@@ -1070,7 +1070,7 @@
   {
     "slug": "one-piece-s2",
     "title": "One Piece — Season 2",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Action",
     "year": 2026,
@@ -1082,7 +1082,7 @@
   {
     "slug": "outlander-s8",
     "title": "Outlander — Season 8",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "PREDICTED: MIXED",
     "platform": "Theatrical",
     "genre": "Drama",
     "year": 2026,
@@ -1094,7 +1094,7 @@
   {
     "slug": "ted-s2",
     "title": "Ted — Season 2",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Comedy",
     "year": 2026,
@@ -1106,7 +1106,7 @@
   {
     "slug": "youngblood-2026",
     "title": "Youngblood (2026)",
-    "verdict": "PREDICTED: MIXED",
+    "verdict": "PREDICTED: TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Drama",
     "year": 2026,
@@ -1118,7 +1118,7 @@
   {
     "slug": "scarpetta",
     "title": "Scarpetta",
-    "verdict": "PREDICTED: CAUTION",
+    "verdict": "PREDICTED: WOKE",
     "platform": "Theatrical",
     "genre": "Thriller",
     "year": 2026,
@@ -1142,7 +1142,7 @@
   {
     "slug": "psycho-killer",
     "title": "Psycho Killer",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Thriller",
     "year": 2026,
@@ -1154,7 +1154,7 @@
   {
     "slug": "the-strangers-chapter-3",
     "title": "The Strangers: Chapter 3",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Horror",
     "year": 2026,
@@ -1166,7 +1166,7 @@
   {
     "slug": "shelter-2026",
     "title": "Shelter",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Action",
     "year": 2026,
@@ -1178,7 +1178,7 @@
   {
     "slug": "the-moment-2026",
     "title": "The Moment",
-    "verdict": "WOKE",
+    "verdict": "STRONGLY WOKE",
     "platform": "Theatrical",
     "genre": "Comedy",
     "year": 2026,
@@ -1190,7 +1190,7 @@
   {
     "slug": "scrubs-reboot",
     "title": "Scrubs — Season 10 Revival",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL",
     "platform": "ABC / Hulu",
     "genre": "Comedy",
     "year": 2026,
@@ -1202,7 +1202,7 @@
   {
     "slug": "paradise-s2",
     "title": "Paradise — Season 2",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Hulu",
     "genre": "Sci-Fi & Fantasy",
     "year": 2026,
@@ -1214,7 +1214,7 @@
   {
     "slug": "barbie-2023",
     "title": "Barbie",
-    "verdict": "WOKE TRAP",
+    "verdict": "STRONGLY WOKE",
     "platform": "Streaming",
     "genre": "Comedy",
     "year": 2023,
@@ -1238,7 +1238,7 @@
   {
     "slug": "heretic-2024",
     "title": "Heretic",
-    "verdict": "WOKE",
+    "verdict": "STRONGLY WOKE",
     "platform": "Streaming",
     "genre": "Horror",
     "year": 2024,
@@ -1274,7 +1274,7 @@
   {
     "slug": "poor-things-2023",
     "title": "Poor Things",
-    "verdict": "WOKE",
+    "verdict": "STRONGLY WOKE",
     "platform": "Streaming",
     "genre": "Sci-Fi & Fantasy",
     "year": 2023,
@@ -1286,7 +1286,7 @@
   {
     "slug": "conclave-2024",
     "title": "Conclave",
-    "verdict": "WOKE TRAP",
+    "verdict": "STRONGLY WOKE",
     "platform": "Streaming",
     "genre": "Thriller",
     "year": 2024,
@@ -1298,7 +1298,7 @@
   {
     "slug": "sound-of-freedom-2023",
     "title": "Sound of Freedom",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Streaming",
     "genre": "Action",
     "year": 2023,
@@ -1310,7 +1310,7 @@
   {
     "slug": "oppenheimer-2023",
     "title": "Oppenheimer",
-    "verdict": "MIXED",
+    "verdict": "WOKE LEAN",
     "platform": "Streaming",
     "genre": "Drama",
     "year": 2023,
@@ -1322,7 +1322,7 @@
   {
     "slug": "saltburn-2023",
     "title": "Saltburn",
-    "verdict": "WOKE TRAP",
+    "verdict": "STRONGLY WOKE",
     "platform": "Streaming",
     "genre": "Thriller",
     "year": 2023,
@@ -1334,7 +1334,7 @@
   {
     "slug": "wicked-2024",
     "title": "Wicked",
-    "verdict": "WOKE TRAP",
+    "verdict": "WOKE",
     "platform": "Streaming",
     "genre": "Musical",
     "year": 2024,
@@ -1346,7 +1346,7 @@
   {
     "slug": "the-substance-2024",
     "title": "The Substance",
-    "verdict": "WOKE",
+    "verdict": "STRONGLY WOKE",
     "platform": "Streaming",
     "genre": "Horror",
     "year": 2024,
@@ -1358,7 +1358,7 @@
   {
     "slug": "anora-2024",
     "title": "Anora",
-    "verdict": "WOKE",
+    "verdict": "STRONGLY WOKE",
     "platform": "Streaming",
     "genre": "Drama",
     "year": 2024,
@@ -1370,7 +1370,7 @@
   {
     "slug": "killers-of-the-flower-moon-2023",
     "title": "Killers of the Flower Moon",
-    "verdict": "MIXED",
+    "verdict": "WOKE LEAN",
     "platform": "Apple TV+",
     "genre": "Drama",
     "year": 2023,
@@ -1382,7 +1382,7 @@
   {
     "slug": "tar-2022",
     "title": "Tár",
-    "verdict": "MIXED",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Streaming",
     "genre": "Drama",
     "year": 2022,
@@ -1394,7 +1394,7 @@
   {
     "slug": "snow-white-2025",
     "title": "Snow White",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Musical",
     "year": 2025,
@@ -1406,7 +1406,7 @@
   {
     "slug": "stranger-things",
     "title": "Stranger Things",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Netflix",
     "genre": "Sci-Fi & Fantasy",
     "year": 2025,
@@ -1418,7 +1418,7 @@
   {
     "slug": "ozark",
     "title": "Ozark",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Netflix",
     "genre": "Thriller",
     "year": 2022,
@@ -1430,7 +1430,7 @@
   {
     "slug": "the-bear",
     "title": "The Bear",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Hulu / FX",
     "genre": "Drama",
     "year": 2024,
@@ -1454,7 +1454,7 @@
   {
     "slug": "captain-america-brave-new-world",
     "title": "Captain America: Brave New World",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Action",
     "year": 2025,
@@ -1466,7 +1466,7 @@
   {
     "slug": "a-minecraft-movie",
     "title": "A Minecraft Movie",
-    "verdict": "MILD WOKE",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Comedy",
     "year": 2025,
@@ -1478,7 +1478,7 @@
   {
     "slug": "thunderbolts",
     "title": "Thunderbolts*",
-    "verdict": "WOKE",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Action",
     "year": 2025,
@@ -1490,7 +1490,7 @@
   {
     "slug": "blue-moon",
     "title": "Blue Moon",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Sony Pictures Classics",
     "genre": "Drama",
     "year": 2025,
@@ -1514,7 +1514,7 @@
   {
     "slug": "solo-mio",
     "title": "Solo Mio",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Angel Studios",
     "genre": "Comedy",
     "year": 2026,
@@ -1526,7 +1526,7 @@
   {
     "slug": "i-can-only-imagine-2",
     "title": "I Can Only Imagine 2",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "theatrical",
     "genre": "Drama",
     "year": 2026,
@@ -1538,7 +1538,7 @@
   {
     "slug": "scream-7",
     "title": "Scream 7",
-    "verdict": "Mixed/Traditional Lean",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Horror",
     "year": 2026,
@@ -1550,7 +1550,7 @@
   {
     "slug": "blitz-2024",
     "title": "Blitz",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Apple TV+",
     "genre": "Drama",
     "year": 2024,
@@ -1574,7 +1574,7 @@
   {
     "slug": "independence-day",
     "title": "Independence day",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "varies by distributor and rental platforms",
     "genre": "Action",
     "year": 2026,
@@ -1598,7 +1598,7 @@
   {
     "slug": "the-last-of-us-s2",
     "title": "The Last of Us — Season 2",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "HBO",
     "genre": "Drama",
     "year": 2026,
@@ -1622,7 +1622,7 @@
   {
     "slug": "1923-s2",
     "title": "1923 — Season 2",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Paramount+",
     "genre": "Drama",
     "year": 2026,
