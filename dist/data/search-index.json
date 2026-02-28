@@ -1,5 +1,17 @@
 [
   {
+    "slug": "scream-7",
+    "title": "Scream 7",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror/Slasher",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 12.46,
+    "tradScore": 18.62,
+    "poster": "/images/posters/scream-7.jpg"
+  },
+  {
     "slug": "how-to-train-your-dragon-2025",
     "title": "How to Train Your Dragon",
     "verdict": "TRADITIONAL",
@@ -1474,18 +1486,6 @@
     "wokeScore": 0,
     "tradScore": 8,
     "poster": "/images/posters/i-can-only-imagine-2.jpg"
-  },
-  {
-    "slug": "scream-7",
-    "title": "Scream 7",
-    "verdict": "Mixed/Traditional Lean",
-    "platform": "Theatrical",
-    "genre": "Horror",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 3,
-    "tradScore": 5,
-    "poster": "/images/posters/scream-7.jpg"
   },
   {
     "slug": "blitz-2024",
