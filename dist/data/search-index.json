@@ -96,6 +96,18 @@
     "poster": "/images/posters/28-years-later-the-bone-temple-2026.jpg"
   },
   {
+    "slug": "death-of-a-unicorn-2025",
+    "title": "Death of a Unicorn",
+    "verdict": "WOKE",
+    "platform": "Theatrical / HBO Max",
+    "genre": "Dark Fantasy / Comedy Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 16.9,
+    "tradScore": 12.3,
+    "poster": "/images/posters/death-of-a-unicorn-2025.jpg"
+  },
+  {
     "slug": "sonic-the-hedgehog-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL",
