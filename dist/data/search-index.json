@@ -24,6 +24,18 @@
     "poster": "/images/posters/top-gun-maverick-2022.jpg"
   },
   {
+    "slug": "napoleon-2023",
+    "title": "Napoleon",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Apple TV+",
+    "genre": "Historical/Epic/Drama",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 10.18,
+    "tradScore": 11.28,
+    "poster": "/images/posters/napoleon-2023.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
