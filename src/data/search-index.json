@@ -12,6 +12,18 @@
     "poster": "/images/posters/epic-elvis-presley-in-concert-2025.jpg"
   },
   {
+    "slug": "top-gun-maverick-2022",
+    "title": "Top Gun: Maverick",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Drama",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 1.05,
+    "tradScore": 21.28,
+    "poster": "/images/posters/top-gun-maverick-2022.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
