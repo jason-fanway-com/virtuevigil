@@ -1,5 +1,17 @@
 [
   {
+    "slug": "epic-elvis-presley-in-concert-2025",
+    "title": "EPiC: Elvis Presley in Concert",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (IMAX / Wide Release)",
+    "genre": "Documentary / Concert Film",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 16.8,
+    "poster": "/images/posters/epic-elvis-presley-in-concert-2025.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
