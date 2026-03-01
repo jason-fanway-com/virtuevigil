@@ -156,6 +156,18 @@
     "poster": "/images/posters/black-panther-2018.jpg"
   },
   {
+    "slug": "black-widow-2021",
+    "title": "Black Widow",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical/Disney+",
+    "genre": "Action/Adventure/Thriller",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 16.95,
+    "tradScore": 12.13,
+    "poster": "/images/posters/black-widow-2021.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
