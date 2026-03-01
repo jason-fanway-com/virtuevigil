@@ -120,6 +120,18 @@
     "poster": "/images/posters/encanto-2021.jpg"
   },
   {
+    "slug": "wish-2023",
+    "title": "Wish",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical / Disney+",
+    "genre": "Animation/Musical/Fantasy",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 17.45,
+    "tradScore": 11.9,
+    "poster": "/images/posters/wish-2023.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
