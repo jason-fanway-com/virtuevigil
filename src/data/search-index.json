@@ -84,6 +84,18 @@
     "poster": "/images/posters/turning-red-2022.jpg"
   },
   {
+    "slug": "lightyear-2022",
+    "title": "Lightyear",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Animation/Sci-Fi/Action",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 10.22,
+    "tradScore": 6.65,
+    "poster": "/images/posters/lightyear-2022.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
