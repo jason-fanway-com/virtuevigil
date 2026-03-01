@@ -108,6 +108,18 @@
     "poster": "/images/posters/eternals-2021.jpg"
   },
   {
+    "slug": "encanto-2021",
+    "title": "Encanto",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / Disney+",
+    "genre": "Animation/Musical/Fantasy",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 8.68,
+    "tradScore": 18.27,
+    "poster": "/images/posters/encanto-2021.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
