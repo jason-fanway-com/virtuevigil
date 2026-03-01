@@ -1,5 +1,295 @@
 [
   {
+    "id": "anaconda-2025",
+    "slug": "anaconda-2025",
+    "title": "Anaconda",
+    "year": 2025,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Comedy/Horror",
+    "date": "2026-03-01",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "9 min",
+    "poster": "/images/posters/anaconda-2025.jpg",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 4.4,
+    "tradScore": 12.18,
+    "authIndex": 62,
+    "scoreMargin": "+8 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. Anaconda (2025) is exactly what the trailers promise: a meta-comedy about middle-aged friends trying to remake a terrible movie. There is no hidden progressive messaging that appears after the halfway mark. The film's minor woke elements — a somewhat forced girlboss subplot with Ana and a thin diversity casting of the friend group — are visible from the first act. What you see in the marketing is what you get in the theater. No bait-and-switch."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Tom Gormican",
+        "ideology": "NEUTRAL. Gormican makes crowd-pleasing studio comedies with no discernible political agenda. His work leans into nostalgia and male friendship without deconstructing either.",
+        "profile": "Gormican wrote and directed That Awkward Moment (2014), co-wrote and directed The Unbearable Weight of Massive Talent (2022) with Nicolas Cage, and co-wrote Beverly Hills Cop: Axel F (2024) for Netflix. His specialty is meta-comedy built around male bonding and Hollywood self-awareness. Anaconda is his most ambitious studio project. He co-wrote the script with frequent collaborator Kevin Etten. His filmography suggests a filmmaker more interested in entertaining than proselytizing. The Unbearable Weight of Massive Talent is the closest comparison — another meta-comedy about male friendship that celebrates rather than deconstructs its genre."
+      },
+      "writer": {
+        "name": "Tom Gormican & Kevin Etten",
+        "profile": "Gormican and Etten have co-written multiple projects together. Etten's TV credits include Workaholics, Scrubs, and That '70s Show — all mainstream comedies without significant ideological slant. Their Anaconda script is built around nostalgia for '90s creature features, male friendship, and mid-life crisis humor. The meta-commentary on Hollywood remake culture is present but toothless, functioning more as a premise device than genuine satire."
+      },
+      "lead_producer": {
+        "name": "Brad Fuller & Andrew Form",
+        "company": "Fully Formed Entertainment / Columbia Pictures"
+      },
+      "composer": {
+        "name": "David Fleming"
+      },
+      "top_cast": [
+        {
+          "name": "Jack Black",
+          "role": "Doug McCallister"
+        },
+        {
+          "name": "Paul Rudd",
+          "role": "Ronald 'Griff' Griffin Jr."
+        },
+        {
+          "name": "Steve Zahn",
+          "role": "Kenny Trent"
+        },
+        {
+          "name": "Thandiwe Newton",
+          "role": "Claire Simons"
+        },
+        {
+          "name": "Daniela Melchior",
+          "role": "Ana Almeida"
+        },
+        {
+          "name": "Selton Mello",
+          "role": "Santiago Braga"
+        },
+        {
+          "name": "Ice Cube",
+          "role": "Himself"
+        },
+        {
+          "name": "Ione Skye",
+          "role": "Malie McCallister"
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Jack Black",
+          "role": "Doug McCallister"
+        },
+        {
+          "name": "Paul Rudd",
+          "role": "Ronald 'Griff' Griffin Jr."
+        },
+        {
+          "name": "Steve Zahn",
+          "role": "Kenny Trent"
+        },
+        {
+          "name": "Thandiwe Newton",
+          "role": "Claire Simons"
+        },
+        {
+          "name": "Daniela Melchior",
+          "role": "Ana Almeida"
+        },
+        {
+          "name": "Selton Mello",
+          "role": "Santiago Braga"
+        },
+        {
+          "name": "Ice Cube",
+          "role": "Himself"
+        },
+        {
+          "name": "Ione Skye",
+          "role": "Malie McCallister"
+        },
+        {
+          "name": "Ben Lawson",
+          "role": "Brant Markham"
+        },
+        {
+          "name": "Rui Ricardo Diaz",
+          "role": "João"
+        },
+        {
+          "name": "John Billingsley",
+          "role": "Jerry"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "role": "Herself (cameo)"
+        }
+      ],
+      "producers": [
+        {
+          "name": "Brad Fuller",
+          "company": "Fully Formed Entertainment"
+        },
+        {
+          "name": "Andrew Form",
+          "company": "Fully Formed Entertainment"
+        },
+        {
+          "name": "Kevin Etten",
+          "company": null
+        },
+        {
+          "name": "Tom Gormican",
+          "company": null
+        }
+      ],
+      "top_performers": [
+        {
+          "name": "Steve Zahn",
+          "note": "The sole cast member who fully commits to the bit. Zahn channels his early-2000s manic energy — think Saving Silverman or Happy, Texas — and delivers the film's biggest laughs. His Kenny is a lovable burnout who steals every scene he's in. He's the only actor in the ensemble who seems to understand what movie he's in."
+        },
+        {
+          "name": "Ice Cube",
+          "note": "A brief but electrifying appearance. Cube playing himself as the star of a rival Sony Anaconda production is the film's best meta-joke, and his action-hero entrance in the third act gives the movie the jolt of energy it desperately needs. His deadpan delivery contrasts perfectly with the leads' bumbling."
+        }
+      ],
+      "bottom_performers": [
+        {
+          "name": "Thandiwe Newton",
+          "note": "Completely miscast. Newton is a fine dramatic actress, but she exhibits zero comedic timing or chemistry with the rest of the ensemble. Her Claire feels like she wandered in from a different, more serious film. The script gives her almost nothing to work with, and she can't improvise her way to relevance the way Zahn does."
+        },
+        {
+          "name": "Jack Black",
+          "note": "Shockingly subdued. This is the most decaffeinated Black performance in years — closer to the lifeless energy of Dear Santa than the manic brilliance of School of Rock or Tropic Thunder. Whether it's a script problem or a choice, Black seems to be sleepwalking through a role that should have been a layup."
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "NOT APPLICABLE (Meta-Reboot)",
+      "summary": "Anaconda (2025) is not a traditional reboot but a meta-comedy about characters making their own version of the 1997 film. The cast is entirely new characters, not reimagined versions of the originals. Jennifer Lopez and Ice Cube — both stars of the 1997 original — appear as themselves in cameos, which is a clever nod to the source material rather than a recasting. There are no race-swaps or gender-swaps of original characters because the original characters don't appear. The friend group of Doug, Griff, Kenny, and Claire is diverse (two white men, one white woman, one Black woman) but this is presented organically as a group of Buffalo friends rather than as a calculated diversity statement. The fidelity question here isn't about casting accuracy but about whether the film respects the spirit of the original — and on that front, the 1997 film's campy, B-movie charm is honored more in concept than in execution."
+    },
+    "summary": {
+      "overall": "Anaconda (2025) is a film that sounds better as an elevator pitch than it plays as a ninety-nine-minute movie. The premise is irresistible: four middle-aged friends from Buffalo — a wedding videographer (Jack Black), a failed background actor (Paul Rudd), and two lifelong pals (Steve Zahn, Thandiwe Newton) — scrape together a loan and head to the Amazon to shoot a guerrilla remake of the gloriously terrible 1997 creature feature. When their rubber snake dies and a real anaconda shows up, their amateur production becomes a genuine survival story. It's meta-Jumanji meets Galaxy Quest for the IP-reboot era. On paper, it's gold.\n\nOn screen, it's bronze. Maybe copper. Director Tom Gormican, who pulled off a similar meta-comedy trick with The Unbearable Weight of Massive Talent, cannot replicate that lightning here. The problem isn't the concept — it's the commitment. The film never decides whether it's a sincere buddy comedy about middle-aged men chasing their dreams, a sharp satire of Hollywood's reboot machine, or a genuine creature-feature thriller. It tries to be all three and succeeds fully at none.\n\nWhat works: the core friendship between Doug and Griff carries genuine warmth. These are men who peaked in childhood and know it, and the film's best moments come from their quiet acknowledgment that life didn't go the way they planned. Doug's wife (Ione Skye) encouraging him to chase his dream despite the financial risk is a small but effective scene that rings true. The film treats mid-life male dissatisfaction with surprising empathy rather than mockery. These men aren't pathetic — they're stuck, and the movie respects their desire to unstick themselves.\n\nSteve Zahn is the film's MVP by a wide margin. His Kenny is a prescription-pill-stealing, hangover-nursing, pee-shy disaster who channels early-2000s Zahn at maximum frequency. Ice Cube's brief appearance as himself — starring in a rival Sony-backed Anaconda remake that gets annihilated by the real snake — is the film's single best meta-joke. When Cube shows up with weapons and a deadpan \"Let's kill this thing,\" the audience gets twenty seconds of the movie they came to see.\n\nWhat doesn't work: Jack Black is sleepwalking. Paul Rudd is doing his usual affable schtick on autopilot. Thandiwe Newton is stranded in a role that gives her nothing to do except stand near funnier people. Daniela Melchior's Ana — an illegal gold miner who hijacks the third act — feels like a character from a different screenplay, injected to give the movie a villain when the snake wasn't enough. The B-plot involving Ana's criminal enterprise is so disconnected from the film's comedic identity that it actively damages the pacing.\n\nThe snake itself looks fake, which the film is self-aware about but doesn't fully exploit. There's a version of this movie where the terrible CGI is the joke — a commentary on how modern blockbusters rely on soulless digital effects. But Gormican wants the snake attacks to carry genuine tension, and you can't have it both ways. The kills are sudden and occasionally effective, but they belong in a different, meaner movie.\n\nFor VirtueVigil's audience, the good news: Anaconda doesn't lecture. It's not interested in politics, social justice, or cultural messaging. The film's values are refreshingly simple — friendship matters, chasing your dreams is worth the risk, and the bond between men who've known each other since childhood is sacred. Doug's family encourages his ambition rather than resenting it. The friends' loyalty to each other is tested but survives. The meta-commentary about Hollywood's reboot addiction is present but never weaponized into a progressive sermon.\n\nThe mild woke elements are just that — mild. Ana being presented as a tougher-than-the-boys jungle survivor feels slightly forced, and Claire's inclusion in the friend group comes across as a diversity checkbox rather than a natural character choice. But neither rises to the level of agenda. This is not a film that cares about messaging. It's a film that cares about being fun — and intermittently succeeds.\n\nThe Jennifer Lopez cameo in the mid-credits scene is a charming bookend that honors the franchise's history without irony. She liked their movie. She wants Doug to direct a real reboot. It's sweet. It's the warmest moment in the film.\n\nAnaconda (2025) grossed $134 million worldwide on a $45 million budget, making it a commercial success and the highest-grossing entry in the franchise. Audiences were kinder than critics — CinemaScore of B, RT audience score of 76% versus a 48% critics score. That gap tells the story: this is a movie that plays better when you're eating popcorn with friends than when you're analyzing it with a notebook. It's not the disaster critics suggested. It's not the triumph audiences wanted. It's a B-minus comedy that gets by on charm, nostalgia, and Steve Zahn being Steve Zahn.",
+      "verdict_explanation": "TRADITIONAL LEAN (+8 margin). Anaconda scores moderately traditional due to its genuine celebration of male friendship, its treatment of mid-life masculine restlessness with empathy rather than scorn, its supportive family dynamics (wife encourages husband's dream), and its total absence of progressive lecturing. The film respects self-reliance, loyalty, and the value of chasing dreams at any age. Woke deductions are minor: a slightly forced female action character in Ana, a diversity-cast friend group that doesn't quite gel, and the film's meta-Hollywood satire gently mocking IP culture (which cuts both directions). The movie doesn't have an agenda. It has a premise. For families looking for harmless holiday comedy with traditional friendship values, it delivers adequately if not spectacularly.",
+      "woke_trap_assessment": "NOT A WOKE TRAP. The film's marketing promises a goofy meta-comedy about friends remaking a bad movie, and that's exactly what it delivers. The minor woke elements — Ana's girlboss moments, Claire's thinly-written inclusion — are visible from the first act. No hidden messaging emerges. No third-act pivot to social commentary. The Jennifer Lopez cameo is the biggest surprise, and it's a fun one, not a political one. Safe for conservative audiences seeking light entertainment.",
+      "adultInsight": "Conservative adults will find Anaconda (2025) to be perfectly inoffensive entertainment. It celebrates male friendship, treats mid-life crises with empathy, and features a supportive wife who encourages her husband's ambitions. There's no DEI messaging, no political lectures, no deconstruction of masculinity. The film's biggest sin is being mediocre, not being preachy. Language is the primary content concern — roughly 40 s-words, 2 f-words, and 40+ misuses of God's name. The violence is creature-feature standard: people get eaten by a giant snake. The comedy is broad and family-friendly in spirit if not in language. Worth streaming. Not worth a babysitter.",
+      "parentalGuidance": "Recommended age: 13 and up. PG-13 rated for violence/action, strong language, some drug use, and suggestive references. The giant snake eats several people whole — sudden and intense but bloodless CGI. A person is shot and killed. An extended urination gag plays for laughs. Language includes approximately 2 f-words, 40 s-words, and frequent misuse of God's name (40+ times including 7 'GD' and 14 uses of Jesus' name). Characters drink beer and liquor throughout. One character abuses prescription pills and marijuana gummies. A sexually charged Nicki Minaj song plays during credits. Brief suggestive dialogue about affairs. No nudity. No sex scenes. The tone is broad comedy — younger teens who can handle the language will find it harmless fun."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-001",
+        "name": "Male Friendship as Sacred Bond",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "analysis": "The emotional core of Anaconda is the lifelong friendship between Doug and Griff. These men have been best friends since childhood, bonded over their love of a terrible movie. When Griff lies about securing the rights, it's treated as a genuine betrayal — not because of the legal issue, but because friends don't lie to each other. Their reconciliation in the third act is the film's emotional climax. The friendship is never mocked, questioned, or subverted. It is presented as the most important relationship in both men's lives. Kenny and Claire round out the group, and the four-way loyalty holds even under life-threatening pressure."
+      },
+      {
+        "id": "TRAD-002",
+        "name": "Supportive Marriage / Wife Encourages Husband's Dream",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.15,
+        "analysis": "Doug's wife Malie (Ione Skye) sees that her husband is unhappy as a wedding videographer and actively encourages him to take three weeks off to pursue his moviemaking dream. Their son also supports the decision. This is a traditional family dynamic: the wife recognizes her husband's calling and sacrifices short-term stability for his fulfillment. The family functions as a unit of mutual support rather than a source of conflict or guilt. It's a brief subplot but emotionally authentic."
+      },
+      {
+        "id": "TRAD-003",
+        "name": "Self-Reliance and Entrepreneurial Spirit",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 2.52,
+        "analysis": "The friends don't wait for permission or institutional support. They scrape together a loan, buy cheap equipment, and head to the Amazon to make their movie on a shoestring budget. This is bootstrap filmmaking — four nobodies from Buffalo who decide to just do it. The film celebrates their audacity even as it acknowledges they're in over their heads. The entrepreneurial spirit is presented as admirable, if reckless. When the rival Sony crew shows up with real money and real actors, the contrast highlights the friends' underdog hustle."
+      },
+      {
+        "id": "TRAD-004",
+        "name": "Nostalgia for Pre-Digital Masculinity",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.47,
+        "analysis": "The entire premise is built on nostalgia for a 1997 movie — a time before smartphones, social media, and helicopter parenting. The friends' love of Anaconda represents a broader longing for a simpler, less self-conscious era of entertainment. The childhood flashback showing the boys making amateur horror movies captures a pre-digital innocence where kids were creative, unsupervised, and physical. The film doesn't explicitly advocate for this worldview, but it radiates warm nostalgia for it."
+      },
+      {
+        "id": "WOKE-001",
+        "name": "Forced Female Action Character (Ana)",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "analysis": "Daniela Melchior's Ana is introduced as an illegal gold miner who is tougher, more competent, and more dangerous than any of the male leads. She leaves behind her male partner, navigates the jungle alone, holds the group at gunpoint, and is only stopped by Claire — another woman — disarming her. Her character feels imported from a different, more action-oriented movie and reads as a studio-mandated 'strong female character' insertion. However, the film ultimately kills her off (the snake drags her underwater), and her subplot is so disconnected that it barely registers as ideology. It's more lazy writing than deliberate messaging."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Token Diversity in Friend Group",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.63,
+        "analysis": "The four-person friend group consists of two white men, one Black woman (Thandiwe Newton's Claire), and Steve Zahn. Claire's presence in a group of Buffalo childhood friends feels less like organic world-building and more like a diversity casting decision. The script gives her virtually nothing to do for the first two acts, suggesting she was added to the group rather than written into it. However, this is a venial sin — the film never calls attention to her race, never lectures about representation, and her arc (marrying Griff at the end) is thoroughly traditional. It's casting-by-committee, not ideology."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Mild Anti-Corporate / Anti-Hollywood Satire",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.67,
+        "analysis": "The film takes mild shots at Hollywood's reboot machine. Sony sends a cease-and-desist to stop the friends' movie. A rival Sony-backed production with real money and real actors is shown being destroyed by the snake — a metaphor for corporate filmmaking being hollow and vulnerable. The meta-commentary gently critiques IP-obsessed studios. This cuts in a mildly progressive direction (anti-corporate, pro-indie), but it's so toothless and self-referential (the movie itself IS a Sony reboot) that it barely registers as ideology. It's more knowing wink than genuine critique."
+      }
+    ],
+    "celebrity_mentions": [
+      {
+        "name": "Jack Black",
+        "role": "Lead Actor (Doug McCallister)",
+        "context": "Co-lead of the film. Known for School of Rock, Kung Fu Panda, Tenacious D. Conservative audiences generally like Black for his apolitical comedy style, though his recent output has been inconsistent.",
+        "twitter": "@JackBlack"
+      },
+      {
+        "name": "Paul Rudd",
+        "role": "Lead Actor (Ronald 'Griff' Griffin Jr.)",
+        "context": "Co-lead. Known for Ant-Man, Clueless, I Love You Man. Broadly liked across political spectrum. Named People's Sexiest Man Alive in 2021. Generally apolitical public persona.",
+        "twitter": null
+      },
+      {
+        "name": "Ice Cube",
+        "role": "Himself (Cameo)",
+        "context": "Reprises his connection to the Anaconda franchise. Known for his outspoken independence from both political parties. Worked with Trump administration on Platinum Plan in 2020, drawing both praise and criticism.",
+        "twitter": "@icecube"
+      },
+      {
+        "name": "Jennifer Lopez",
+        "role": "Herself (Mid-Credits Cameo)",
+        "context": "Star of the original 1997 Anaconda. Appears in an uncredited cameo filmed November 2025. Her appearance honors the franchise's history and serves as a warm bookend.",
+        "twitter": "@JLo"
+      },
+      {
+        "name": "Steve Zahn",
+        "role": "Supporting Actor (Kenny Trent)",
+        "context": "Veteran character actor known for Saving Silverman, Happy Texas, Sahara. Delivers the film's standout comedic performance. Under-the-radar actor beloved by comedy fans.",
+        "twitter": null
+      },
+      {
+        "name": "Thandiwe Newton",
+        "role": "Supporting Actress (Claire Simons)",
+        "context": "Oscar-nominated actress known for Westworld and Crash. Has been outspoken about race in Hollywood, including changing her professional name back to Thandiwe from Thandie in 2021.",
+        "twitter": null
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Anaconda (2025) Woke? | VirtueVigil Review",
+      "metaDescription": "Anaconda (2025) starring Jack Black and Paul Rudd is a meta-reboot comedy about friends remaking their favorite movie. VirtueVigil scores it TRADITIONAL LEAN — male friendship, supportive family values, and zero lecturing outweigh minor forced diversity elements.",
+      "keywords": "anaconda 2025 woke, is anaconda woke, anaconda 2025 review, anaconda jack black paul rudd, anaconda conservative review, anaconda 2025 parent guide, anaconda reboot review, virtuevigil anaconda, anaconda woke score, anaconda family friendly"
+    }
+  },
+  {
     "id": "greenland-2-migration-2026",
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
