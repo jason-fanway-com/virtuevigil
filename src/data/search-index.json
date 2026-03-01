@@ -132,6 +132,18 @@
     "poster": "/images/posters/wish-2023.jpg"
   },
   {
+    "slug": "strange-world-2022",
+    "title": "Strange World",
+    "verdict": "WOKE",
+    "platform": "Theatrical / Disney+",
+    "genre": "Animation/Sci-Fi/Adventure",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 27.5,
+    "tradScore": 12.32,
+    "poster": "/images/posters/strange-world-2022.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",

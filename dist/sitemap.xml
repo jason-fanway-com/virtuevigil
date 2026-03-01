@@ -91,6 +91,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/strange-world-2022/</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/greenland-2-migration-2026/</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -980,6 +986,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/animation/musical/fantasy/</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/animation/sci-fi/adventure/</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
