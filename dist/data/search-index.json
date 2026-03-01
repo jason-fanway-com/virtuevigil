@@ -96,6 +96,18 @@
     "poster": "/images/posters/lightyear-2022.jpg"
   },
   {
+    "slug": "eternals-2021",
+    "title": "Eternals",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Action/Sci-Fi/Superhero",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 19.74,
+    "tradScore": 5.95,
+    "poster": "/images/posters/eternals-2021.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
