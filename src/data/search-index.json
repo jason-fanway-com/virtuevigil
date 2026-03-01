@@ -168,6 +168,18 @@
     "poster": "/images/posters/black-widow-2021.jpg"
   },
   {
+    "slug": "shang-chi-2021",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Fantasy",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 5.46,
+    "tradScore": 14.19,
+    "poster": "/images/posters/shang-chi-2021.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
