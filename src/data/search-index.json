@@ -36,6 +36,18 @@
     "poster": "/images/posters/napoleon-2023.jpg"
   },
   {
+    "slug": "wonka-2023",
+    "title": "Wonka",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Musical/Fantasy/Family",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 2.75,
+    "tradScore": 14.28,
+    "poster": "/images/posters/wonka-2023.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
