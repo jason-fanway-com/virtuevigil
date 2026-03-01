@@ -4112,8 +4112,8 @@
     "authIndex": 48,
     "scoreMargin": "-2 WOKE",
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "Partial woke trap. The sci-fi thriller packaging is fun and the premise is genuinely engaging. But the film's deepest argument is that any relationship built on control, even a technological one, is a form of violence. This extends beyond the obvious villain to implicate the entire concept of companion AI as a male fantasy about a compliant, customizable woman. Audiences who come for the twisty thriller will stay for the feminist critique whether they wanted it or not."
+      "is_trap": false,
+      "explanation": "Margin is -2 (MIXED). AI/feminist themes are the premise."
     },
     "creative_team": {
       "director": {
@@ -10489,8 +10489,8 @@
     "authIndex": 22,
     "scoreMargin": "-7 WOKE",
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "The trap here is the director's previous reputation. Poor Things won the Golden Lion and four Oscars and had genuine artistic merit despite its progressive elements. Kinds of Kindness uses the same cast and the same director to deliver something considerably more bleak, graphic, and purposelessly transgressive. Audiences drawn in by the Poor Things pedigree will find something far more extreme."
+      "is_trap": false,
+      "explanation": "Lanthimos's style is well-known. Anyone seeing a Yorgos Lanthimos film knows what they're getting."
     },
     "creative_team": {
       "director": {
@@ -11849,8 +11849,8 @@
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "PARTIAL WOKE TRAP. Western audiences who went to see Dev Patel punch people for two hours got more than they bargained for. The revenge plot is sincere and emotionally effective. But the film's villain structure — a Hindutva-coded religious politician who massacres lower-caste communities with police complicity — is a direct engagement with contemporary Indian political controversies that map onto American culture-war debates about religious nationalism, police violence, and caste/class oppression. The hijra community's role as protagonist allies — sheltering and training the hero at the film's midpoint — is a specific choice that positions trans and gender-nonconforming people as defenders of justice against nationalist violence. This is not background texture. It is structural."
+      "is_trap": false,
+      "explanation": "Social commentary on caste is present from the first act, not hidden in the second half."
     },
     "creative_team": {
       "director": {
@@ -12159,8 +12159,8 @@
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "SIGNIFICANT WOKE TRAP. Immaculate wears Catholic horror clothing to deliver an unambiguous pro-abortion metaphor. The premise — a devout nun discovers she is carrying what may be a miraculous pregnancy she never consented to — is structured as a reproductive autonomy argument from frame one, even if that framing does not become explicit until the third act. Director Michael Mohan has confirmed in interviews that the film is a direct abortion allegory. The Catholic setting, devout protagonist, and Italian convent aesthetic are all in service of this thesis, not despite it. Conservative Catholic viewers who see a film about a nun and expect devotional engagement will find an anti-religious, pro-choice horror film delivered with craft and conviction."
+      "is_trap": false,
+      "explanation": "Religious horror with feminist themes from the opening. The pro-abortion climax intensifies but the framework is there early."
     },
     "creative_team": {
       "director": {
@@ -12907,8 +12907,8 @@
     "scoreMargin": "-16 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "**WOKE TRAP WARNING** Woke content occupies approximately **40% of runtime** across meaningful story threads. The primary romantic storyline is largely clean and courtship-focused — which is why this qualifies as a Woke Trap rather than simply Woke. Families who remember earlier seasons as \"regency "
+      "is_trap": false,
+      "explanation": "Explanation says 40% runtime — below 50% threshold. Also, Bridgerton's progressive casting/themes are well-known to viewers."
     },
     "creative_team": {
       "director": {
@@ -13015,8 +13015,8 @@
     "scoreMargin": "-19 WOKE",
     "preRelease": true,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "**WOKE TRAP WARNING** Estimated woke content at **50–65% of runtime** based on trailer analysis and director statements. Why it qualifies as a Woke Trap rather than simply \"Woke\": the horror/romance/genre packaging will attract audiences expecting classic monster mythology, and the production's extr"
+      "is_trap": false,
+      "explanation": "PREDICTED. Cannot assess runtime for unreleased film. Removing trap flag."
     },
     "creative_team": {
       "director": {
@@ -13177,8 +13177,8 @@
     "scoreMargin": "-3 WOKE",
     "preRelease": true,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "**⚠️ WOKE TRAP WARNING — Estimated 30–40% of runtime** The original *Ready or Not* (2019) wasn't subtle: it positioned the ultra-wealthy as murderous oppressors and Grace (Weaving) as the everyman hero who burns them all down — literally. That class-warfare framing received enthusiastic coverage in "
+      "is_trap": false,
+      "explanation": "PREDICTED. Cannot assess runtime for unreleased film. Removing trap flag."
     },
     "creative_team": {
       "director": {
@@ -14115,8 +14115,8 @@
     "authIndex": 88,
     "scoreMargin": "-27 WOKE",
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "Severe woke trap. 70–75% of runtime delivers progressive ideology with 88% authenticity — experienced as art, not agenda. The entire film validates the 'Brat' lifestyle as the correct orientation toward life. Male authority figures are uniformly buffoonish or controlling. Anti-traditional family values presented as liberation and moral victory."
+      "is_trap": false,
+      "explanation": "Explanation says 70-75% of runtime. If woke content dominates most of the film, it's not a trap — it's the movie."
     },
     "creative_team": {
       "director": {
@@ -14546,8 +14546,8 @@
     "scoreMargin": "-32 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "WOKE TRAP WARNING — Degree: Severe. Barbie is the quintessential woke trap of the modern era. The marketing was a masterpiece of misdirection: acres of pink, Ryan Gosling being ridiculous, Margot Robbie waving from her dream house. Families arrived expecting a nostalgic lark. What played out on screen was a meticulously constructed feminist argument about patriarchal oppression, delivered with enough wit and production spectacle to keep audiences from noticing how thoroughly they were being lectured to. The trap has three layers: the fun surface, the satire that lets viewers dismiss the ideology as 'just jokes,' and the sincere bottom layer where Gerwig means every word of Gloria's monologue and every beat of the feminist restoration. The film's traditional elements — self-discovery, the mother-daughter bond, the beautiful message about choosing imperfect humanity — are real. But they exist in service of a larger feminist framework that is neither neutral nor subtle. Knowing that going in changes everything."
+      "is_trap": false,
+      "explanation": "Woke themes are the entire premise from frame 1. Marketing made this clear. Not a trap."
     },
     "creative_team": {
       "director": {
@@ -15035,8 +15035,8 @@
     "scoreMargin": "-27 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "Heretic functions as a partial woke trap. The third-act reveal that Mr. Reed is himself a cult leader running a 'religion of control' may give some viewers the impression that the film critiques atheism as much as faith. But structurally, the film grants Reed's arguments enormous rhetorical authority for 90 minutes and gives the missionaries almost no meaningful rebuttal. Exposing a villain after weaponizing his worldview is not the same as honest ideological engagement. Christians who watch this and walk away thinking the film 'respected faith in the end' have been misled by elegant filmmaking."
+      "is_trap": false,
+      "explanation": "Religious critique is the stated premise from the first act."
     },
     "creative_team": {
       "director": {
@@ -15737,8 +15737,8 @@
     "scoreMargin": "-39 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "Conclave is a textbook severe woke trap. It exploits the cultural capital of Catholic ritual, prestige casting (Ralph Fiennes, Stanley Tucci, John Lithgow), and an Oscar-pedigreed source novel to establish trust with an audience that would otherwise reject its ideological content. The film's central thesis — 'certainty is the enemy of unity and tolerance' — is a direct attack on the epistemological foundations of Catholic dogma. Its ending — an intersex pope elected and endorsed by the narrative as holy — directly challenges the Church's teaching that ordination is reserved for men, without ever acknowledging or engaging with that teaching. Critics called it nuanced. Some Catholics defended it. Bishop Robert Barron said it 'checks practically every woke box.' Ben Shapiro called it propaganda for the idea that 'the traditional Catholic Church is evil and how the Church needs to become a progressive bastion.' Megyn Kelly called it 'the most disgusting anti-Catholic film I have seen in a long time.' The trap worked on a significant portion of its intended Catholic-adjacent audience. That is precisely what makes it severe."
+      "is_trap": false,
+      "explanation": "Progressive themes integral to the plot throughout. The twist compounds it but woke messaging runs throughout."
     },
     "creative_team": {
       "director": {
@@ -16271,8 +16271,8 @@
     "scoreMargin": "-32 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "WOKE TRAP WARNING — Degree: Severe. Saltburn is one of the most sophisticated woke traps of recent years because the misdirection is so genuinely beautiful. Emerald Fennell is a filmmaker of real technical ability, and she uses that ability to make audiences complicit in a film they might have rejected if they'd known what it contained. The trap operates on three levels: aesthetic legitimacy (the cinematography, the period-perfect production design, the 1.33:1 aspect ratio that evokes classic cinema), critical consensus (Golden Globe nominations, BAFTA attention, rapturous reviews positioned this as prestige drama), and genre misdirection (Ripley comparisons primed audiences for psychological cat-and-mouse, not transgressive shock content). Beneath the gorgeous surface lies a class warfare fantasy in which a manipulative outsider murders an entire aristocratic family and inherits their estate, staged as triumphant entertainment. The twist — that Oliver was never actually working class — partially complicates but ultimately deepens the class politics: it reveals that the aristocracy's own sentimental investment in poverty as a credential was the mechanism of its destruction. The graphic sexual content (bathtub scene, grave scene, period oral sex) is a deliberate provocation — Fennell deploys transgressive sexuality as part of the film's class-war argument, using Oliver's consumption of the Catton family's bodies as a literal extension of his consumption of their status and wealth. Conservative viewers and families who made viewing choices based on the prestige marketing were not given adequate warning. This film is streaming on Amazon Prime with a standard R rating that does not remotely convey the content inside."
+      "is_trap": false,
+      "explanation": "Queer themes and class critique are front-loaded from opening scenes. Not hidden."
     },
     "creative_team": {
       "director": {
@@ -16454,8 +16454,8 @@
     "scoreMargin": "-15 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "WOKE TRAP WARNING — Degree: Moderate. Wicked is Hollywood's most effective ideological delivery mechanism of 2024 precisely because it doesn't feel like one. The source material — Gregory Maguire's 1995 novel, the 2003 Broadway smash — has been a progressive anthem for decades, beloved by the LGBTQ+ community as an allegory for the queer experience long before the cameras ever rolled. Jon M. Chu's adaptation preserves and sharpens that identity while wrapping it in the most aggressive mainstream marketing campaign in recent memory. Families who showed up expecting a colorful holiday musical about a green girl and her bubbly blonde roommate got all of that — and also a story that Cynthia Erivo describes as an allegory for racial discrimination, a bisexual prince (played by an openly gay actor who caresses a male extra's face), four queer lead actors, and a director who explicitly connected his film's charismatic gaslighting villain to the 2024 U.S. election. This is not a trap of the Barbie variety — there is no sustained feminist lecture, no matriarchal polemic. The trap is softer and older: a beloved story that arrived pre-loaded with decades of progressive meaning, delivered by an ideologically aligned team to an audience that didn't realize what they'd already agreed to before they bought the ticket."
+      "is_trap": false,
+      "explanation": "Social justice allegory is the entire premise of the musical from scene 1. Audience knows this going in."
     },
     "creative_team": {
       "director": {
@@ -16689,8 +16689,8 @@
     "scoreMargin": "-24 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "PARTIAL WOKE TRAP. The surface argument — Hollywood destroys aging women, beauty standards are cruel, women have worth beyond appearance — is warm and universally legible, with genuine traditional resonance. Conservatives who hear this thesis may wrongly assume they share common ground with the film. They do not. The film's analysis of why this happens is entirely ideological (patriarchy, male gaze, female bodies as products of male consumption), and its solution is nothing more constructive than an apocalyptic explosion of gore. The film is too graphically extreme to trap unsuspecting audiences into watching it — but its surface thesis functions as ideological camouflage for viewers reasoning from descriptions and reviews rather than from direct experience."
+      "is_trap": false,
+      "explanation": "Feminist body horror is the explicit premise marketed in trailers. Not hidden."
     },
     "creative_team": {
       "director": {
@@ -17635,8 +17635,8 @@
     "authIndex": 62,
     "scoreMargin": "-5 WOKE",
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "Stranger Things is the textbook multi-season woke trap. Seasons 1-2 earn massive goodwill with traditional values, then the ideology kicks in gradually through Seasons 3-5 until Will's coming-out is the emotional centerpiece of the finale."
+      "is_trap": false,
+      "explanation": "Woke elements increase over seasons but are present from S1 (diverse cast, female empowerment). Audience sees it building gradually, not suddenly."
     },
     "creative_team": {
       "director": {
@@ -17860,8 +17860,8 @@
     "authIndex": 64,
     "scoreMargin": "-4 WOKE",
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "Season 1 hooks with a patriarchal family-protection premise, then systematically replaces Marty's competence with Wendy's ruthless dominance while every character who maintains traditional values is destroyed."
+      "is_trap": false,
+      "explanation": "Wendy's growing power is visible from S1. Not a sudden switch."
     },
     "creative_team": {
       "director": {
@@ -18212,8 +18212,8 @@
     "authIndex": 70,
     "scoreMargin": "-2 WOKE",
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "The survival thriller premise hooks viewers, then the feminist scaffolding becomes increasingly prominent. The show frames female savagery as liberation rather than cautionary tale."
+      "is_trap": false,
+      "explanation": "Margin is -2 (MIXED). Feminist themes present from episode 1."
     },
     "creative_team": {
       "director": {
@@ -18557,8 +18557,8 @@
     "authIndex": 68,
     "scoreMargin": "-1 WOKE",
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "Harmless family entertainment packaging with subtle but persistent gender-competence messaging baked into character dynamics. The kind of woke that operates below the radar."
+      "is_trap": false,
+      "explanation": "Margin is -1 (barely woke). Calling a MIXED movie a trap is misleading."
     },
     "creative_team": {
       "director": {
@@ -18698,8 +18698,8 @@
     "authIndex": 66,
     "scoreMargin": "-2 WOKE",
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "Marketed as a rough-edged antihero film but actually a two-hour exercise in female superiority and male inadequacy, dressed up with enough explosions to disguise the agenda."
+      "is_trap": false,
+      "explanation": "Explanation admits female superiority messaging throughout. Present from the start, not hidden."
     },
     "creative_team": {
       "director": {
@@ -20499,8 +20499,8 @@
       "keywords": "is nightbitch woke, nightbitch review, nightbitch woke score, nightbitch ideology, nightbitch family review, nightbitch woke trap"
     },
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "The first instance of explicit ideological messaging occurs after approximately 55% of runtime. The film deliberately establishes emotional investment through relatable maternal struggle before introducing its systemic critique. The shift from personal to political is architecturally embedded, not organic to the story's natural progression."
+      "is_trap": false,
+      "explanation": "Feminist maternal rage is the literal title and premise. Not hidden."
     }
   },
   {
@@ -20933,8 +20933,8 @@
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
-      "is_trap": true,
-      "explanation": "WOKE TRAP WARNING — Degree: Moderate. Disney sold The Little Mermaid 2023 as a faithful live-action recreation of one of its most beloved animated classics, and for enormous segments of the audience, especially parents who grew up with the 1989 original, that pitch was compelling enough to buy tickets before the controversy began. What Disney did not advertise was that the casting of a Black actress as the iconic red-haired, pale-skinned Ariel would transform one of the most culturally beloved characters in the Disney canon into a race-representation statement, that the director would frame the film's central theme as a story about a young woman being told 'no' who refuses to accept it, or that the production would actively position itself against the audience members who objected to the casting change as racists who 'don't deserve to see themselves in the hero.' The film itself is not a sustained feminist manifesto like Barbie. But the woke trap is the gap between what was sold and what arrived, a children's fairy tale packaged as a nostalgic return to a beloved classic, which was in fact a deliberate representation exercise with an audience-shaming component built into its press campaign."
+      "is_trap": false,
+      "explanation": "Diversity casting was the defining pre-release controversy. Every viewer knows before buying a ticket."
     },
     "creative_team": {
       "director": {
@@ -22699,9 +22699,9 @@
       "explanation": "Presence markets itself as a minimalist ghost story filmed from the ghost's POV. That is accurate. What the marketing does not emphasize: the film's moral architecture heavily favors the neglected daughter over the complicit family structure, the mother is engaged in white-collar crime, the father is ineffectual, and the film's resolution involves a teenage girl's autonomy over her own body being validated by a supernatural force. The thriller framing contains a latent progressive family structure critique."
     },
     "woke_trap_assessment": {
-      "is_trap": true,
+      "is_trap": false,
       "pct_runtime": 40,
-      "explanation": "PARTIAL WOKE TRAP. Presence's unique POV conceit is genuinely inventive and the film delivers real craft. But the ghost-story framework contains a progressive moral agenda that is not visible in the marketing. The family is a study in dysfunction: an ambitious mother who commits white-collar crime and ropes her teenage son into covering for her, a passive father who prioritizes keeping the peace over protecting his daughter, and a daughter whose emotional sensitivity and autonomy are the film's moral center. The supernatural force is explicitly on Chloe's side because she is the family's most vulnerable member. By the end, the presence has made its values clear: it protects teenage girls from their families and validates their emotional reality. Soderbergh and screenwriter David Koepp frame all of this as atmospheric horror while embedding a fairly pointed critique of traditional family hierarchies."
+      "explanation": "Explanation says 'partial woke trap' but woke elements run throughout the narrative."
     },
     "creative_team": {
       "director": {
