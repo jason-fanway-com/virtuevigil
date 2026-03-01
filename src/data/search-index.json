@@ -72,6 +72,18 @@
     "poster": "/images/posters/wonka-2023.jpg"
   },
   {
+    "slug": "turning-red-2022",
+    "title": "Turning Red",
+    "verdict": "WOKE",
+    "platform": "Disney+",
+    "genre": "Animation/Comedy/Fantasy",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 17.85,
+    "tradScore": 4.55,
+    "poster": "/images/posters/turning-red-2022.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
