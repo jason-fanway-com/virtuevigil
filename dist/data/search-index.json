@@ -144,6 +144,18 @@
     "poster": "/images/posters/strange-world-2022.jpg"
   },
   {
+    "slug": "black-panther-2018",
+    "title": "Black Panther",
+    "verdict": "BALANCED",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Sci-Fi",
+    "year": 2018,
+    "type": "film",
+    "wokeScore": 18.82,
+    "tradScore": 20.03,
+    "poster": "/images/posters/black-panther-2018.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
