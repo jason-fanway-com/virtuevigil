@@ -108,6 +108,18 @@
     "poster": "/images/posters/transformers-one-2024.jpg"
   },
   {
+    "slug": "speak-no-evil-2024",
+    "title": "Speak No Evil",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Peacock",
+    "genre": "Horror/Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 9.18,
+    "tradScore": 6.78,
+    "poster": "/images/posters/speak-no-evil-2024.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",

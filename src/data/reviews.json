@@ -31414,5 +31414,159 @@
         "family movie values"
       ]
     }
+  },
+  {
+    "id": "speak-no-evil-2024",
+    "slug": "speak-no-evil-2024",
+    "title": "Speak No Evil",
+    "year": 2024,
+    "type": "film",
+    "platform": "Theatrical / Peacock",
+    "genre": "Horror/Thriller",
+    "date": "2026-03-02",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "9 min",
+    "poster": "/images/posters/speak-no-evil-2024.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 9.18,
+    "tradScore": 6.78,
+    "authIndex": 44,
+    "scoreMargin": "-2 WOKE",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. The woke content is front-loaded and visible from the first act. Ben's passivity and failure to protect his family is the central premise, displayed openly and consistently throughout. The film critiques this passivity rather than celebrating it. Traditional viewers should know they're watching a horror film about the consequences of refusing to stand up for your family. The message is uncomfortable but not hidden."
+    },
+    "creative_team": {
+      "director": {
+        "name": "James Watkins",
+        "ideology": "NEUTRAL. Watkins directed The Woman in Black (2012) and The Boy in the Striped Pyjamas (2008). His background is in atmospheric British horror and prestige drama. No discernible progressive agenda; his films trend toward bleak moral fables rather than political messaging.",
+        "profile": "James Watkins built his reputation on The Woman in Black, a classically crafted British ghost story that became one of the UK's highest-grossing horror films. His work favors psychological dread over gore, atmosphere over jump scares. Speak No Evil is his most overtly social horror entry, using the genre to dissect a particular kind of modern cowardice. He adapts Christian Tafdrup's 2022 Danish film, significantly changing the ending to give American audiences something more viscerally satisfying."
+      },
+      "writer": {
+        "name": "James Watkins",
+        "profile": "Watkins wrote the screenplay himself, adapting the Tafdrup brothers' Danish original. The key change is the ending: the 2022 film ends in nihilistic tragedy without redemption. The American remake gives the protagonist family a chance to fight back. This structural choice is significant from a values perspective. Where the original only punished passivity, the remake says: the door to action stays open until it doesn't. Act before it closes."
+      },
+      "lead_producer": {
+        "name": "Jason Blum, Ryan Turek",
+        "company": "Universal Pictures / Blumhouse"
+      },
+      "composer": {
+        "name": "Danny Bensi & Saunder Jurriaans",
+        "profile": "Danny Bensi and Saunder Jurriaans are the composing team behind Ozark, Succession, and The Night Of. Their score for Speak No Evil is a masterclass in creeping dread. They build tension through restraint, letting silence and sparse discordant notes do more work than a wall of sound. The score amplifies every uncomfortable social exchange into something genuinely dangerous."
+      },
+      "top_cast": [
+        {
+          "name": "James McAvoy",
+          "role": "Padraig"
+        },
+        {
+          "name": "Mackenzie Davis",
+          "role": "Louise"
+        },
+        {
+          "name": "Scoot McNairy",
+          "role": "Ben"
+        },
+        {
+          "name": "Aisling Franciosi",
+          "role": "Ciara"
+        },
+        {
+          "name": "Alix West Lefler",
+          "role": "Agnes"
+        }
+      ],
+      "top_performers": [
+        {
+          "name": "James McAvoy",
+          "note": "McAvoy is terrifying as Padraig. He plays a monster who barely has to try because his victims hand him everything he needs. His performance is calibrated to the millimeter: charming when he needs to be, contemptuous when he doesn't, always watching for weakness. He never overplays the menace. It's worse that way."
+        },
+        {
+          "name": "Scoot McNairy",
+          "note": "McNairy has the hardest job. He plays Ben as a fundamentally decent man who has spent so long prioritizing social harmony over family protection that he has lost the instinct to protect. The performance requires him to be sympathetic and infuriating simultaneously. He pulls it off. Ben's failure is not stupidity. It's a cultivated habit of surrender that the film diagnoses with clinical precision."
+        }
+      ]
+    },
+    "parental_guidance": {
+      "rating": "R",
+      "age_recommendation": "18+",
+      "content_warnings": [
+        "Intense graphic violence in the third act",
+        "Child in genuine danger throughout the final act",
+        "Scene of non-consensual exposure and sexual aggression",
+        "Strong language escalating through the film",
+        "Social drinking used as manipulation",
+        "Deeply disturbing psychological content",
+        "Sustained threat to a family unit"
+      ],
+      "recommendation": "Adults only. This is a deeply uncomfortable film designed to make you angry and frightened. Contains a child in sustained peril. Not appropriate for family viewing under any circumstances."
+    },
+    "summary": {
+      "overall": "Speak No Evil is one of the most uncomfortable films of 2024. It's a clinical, precise horror film about a man who cannot protect his family because he has spent his adult life outsourcing confrontation to social norms. Deeply effective. Deeply unpleasant. Worth watching once if you can stomach the first two acts.",
+      "verdict_explanation": "MIXED. Margin: -2 WOKE. The film presents a passive, emasculated male lead as its central horror for most of the runtime. The traditional family is under sustained, visible threat. However, the film critiques this passivity rather than endorsing it, treats the family unit as worth defending, and ultimately gives the characters a chance to act. The margin is narrow, the content is genuinely mixed, and the moral framing is closer to traditional than progressive.",
+      "woke_trap_assessment": "NOT A WOKE TRAP. Ben's failure to protect his family is the visible premise from the first act, not a hidden twist. The film is doing something more interesting than woke storytelling: it's diagnosing social compliance as a moral failure with lethal consequences. Traditional viewers will find this uncomfortable but not deceptive.",
+      "adultInsight": "Conservative adults watching this film will recognize its critique as genuinely aligned with traditional values even as the content makes them want to throw something at the screen. The film's thesis is clear: a man who cannot assert himself in defense of his family is a man who has failed the most basic obligation of fatherhood and husbandhood. It says this loudly and repeatedly. The question is whether you can endure the delivery method.",
+      "parentalGuidance": "Rated R. Adults only, strictly. A child is in genuine danger throughout the final act. Contains disturbing sexual content, graphic violence, and psychological horror. No version of this is appropriate for anyone under 18."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-001",
+        "name": "Emasculated and Passive Male Lead",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 5.4,
+        "analysis": "Ben repeatedly fails to protect his wife and daughter, defers to their hosts over his family's safety, and cannot assert authority even as the situation becomes overtly threatening. While the film critiques this failure rather than celebrating it, the portrait of a man who cannot protect his family is the dominant image of masculinity on screen for most of the runtime. The film ultimately punishes this failure, which is the correct moral framing, but the punishment doesn't erase the extended display."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Traditional Family Under Sustained Threat",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "analysis": "The nuclear family at the center of the film is systematically dismantled by predatory outsiders. The film presents this as horror, which is the correct framing, but the sustained spectacle of a family failing to protect itself registers as woke content regardless of directorial intent."
+      },
+      {
+        "id": "TRAD-001",
+        "name": "Traditional Family as Moral Center",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "analysis": "The film's horror derives entirely from threats to a traditional nuclear family: husband, wife, daughter. This unit is treated as worth defending and worth mourning when threatened. The audience is positioned throughout to want this family to survive and to feel the weight of every failure to protect them."
+      },
+      {
+        "id": "TRAD-002",
+        "name": "Critique of Social Compliance Over Family Protection",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.0,
+        "analysis": "The film is ultimately a horror fable about the cost of prioritizing social approval over family protection. Ben's politeness, his unwillingness to cause conflict, his reflexive accommodation even as hosts escalate: all are presented as the fatal flaw. Standing up for your family is the moral. The film earns this reading by giving Louise and Ben a chance to fight back in the third act."
+      }
+    ],
+    "seo": {
+      "titleTag": "Speak No Evil (2024) Review - Is It Woke? | VirtueVigil",
+      "metaDescription": "VirtueVigil's woke content review of Speak No Evil (2024). VVWS score: -2 WOKE. Verdict: MIXED. James McAvoy's horror thriller is a disturbing diagnosis of social compliance destroying a family.",
+      "keywords": [
+        "speak no evil woke",
+        "speak no evil 2024 review",
+        "james mcavoy speak no evil",
+        "blumhouse horror review",
+        "is speak no evil woke",
+        "speak no evil traditional values",
+        "VirtueVigil",
+        "VVWS score",
+        "horror movie values",
+        "family protection horror"
+      ]
+    }
   }
 ]
