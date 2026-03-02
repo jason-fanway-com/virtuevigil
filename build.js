@@ -1848,6 +1848,11 @@ function build() {
   copyRecursive(path.join(SRC, 'data'), path.join(DIST, 'data'));
   console.log('  data/');
 
+  // IndexNow key file for Bing/Yandex/DuckDuckGo indexing
+  const indexNowKey = 'c5c06a51b3df4a6fb07de4954187d031';
+  fs.writeFileSync(path.join(DIST, `${indexNowKey}.txt`), indexNowKey);
+  console.log('  IndexNow key file');
+
   // --- Summary ---
   const subscriberPages = 3; // subscribe, account, auth/callback
   const staticPages = 5; // index, about, methodology, woke-trap, 404
