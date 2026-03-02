@@ -48,16 +48,40 @@
     "poster": "/images/posters/thor-love-and-thunder-2022.jpg"
   },
   {
-    "slug": "doctor-strange-multiverse-of-madness-2022",
-    "title": "Doctor Strange in the Multiverse of Madness",
+    "slug": "frozen-2013",
+    "title": "Frozen",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Animation/Musical/Fantasy",
+    "year": 2013,
+    "type": "film",
+    "wokeScore": 13,
+    "tradScore": 18,
+    "poster": "/images/posters/frozen-2013.jpg"
+  },
+  {
+    "slug": "frozen-ii-2019",
+    "title": "Frozen II",
     "verdict": "WOKE LEAN",
     "platform": "Theatrical",
-    "genre": "Action/Adventure/Horror",
-    "year": 2022,
+    "genre": "Animation/Musical/Fantasy",
+    "year": 2019,
     "type": "film",
-    "wokeScore": 13.6,
-    "tradScore": 10.22,
-    "poster": "/images/posters/doctor-strange-multiverse-of-madness-2022.jpg"
+    "wokeScore": 19,
+    "tradScore": 14,
+    "poster": "/images/posters/frozen-ii-2019.jpg"
+  },
+  {
+    "slug": "cruella-2021",
+    "title": "Cruella",
+    "verdict": "MIXED",
+    "platform": "Theatrical/Disney+",
+    "genre": "Crime/Comedy-Drama",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 14,
+    "tradScore": 12,
+    "poster": "/images/posters/cruella-2021.jpg"
   },
   {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",

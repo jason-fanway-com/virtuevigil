@@ -49,7 +49,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://virtuevigil.com/reviews/doctor-strange-multiverse-of-madness-2022/</loc>
+    <loc>https://virtuevigil.com/reviews/frozen-2013/</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/reviews/frozen-ii-2019/</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/reviews/cruella-2021/</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1021,7 +1033,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://virtuevigil.com/category/action/adventure/horror/</loc>
+    <loc>https://virtuevigil.com/category/animation/musical/fantasy/</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/crime/comedy-drama/</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1076,12 +1094,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/action/sci-fi/superhero/</loc>
-    <lastmod>2026-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/category/animation/musical/fantasy/</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
