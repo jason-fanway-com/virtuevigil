@@ -132,6 +132,18 @@
     "poster": "/images/posters/the-amateur-2025.jpg"
   },
   {
+    "slug": "g20-2025",
+    "title": "G20",
+    "verdict": "WOKE LEAN",
+    "platform": "Prime Video",
+    "genre": "Action/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 14.46,
+    "tradScore": 7.6,
+    "poster": "/images/posters/g20-2025.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
