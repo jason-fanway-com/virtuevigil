@@ -120,6 +120,18 @@
     "poster": "/images/posters/speak-no-evil-2024.jpg"
   },
   {
+    "slug": "the-amateur-2025",
+    "title": "The Amateur",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Thriller/Spy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 4.9,
+    "tradScore": 14.62,
+    "poster": "/images/posters/the-amateur-2025.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
