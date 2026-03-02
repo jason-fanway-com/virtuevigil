@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-lion-king-2019",
+    "title": "The Lion King",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Musical/Drama/Adventure",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 2.7,
+    "tradScore": 25.34,
+    "poster": "/images/posters/the-lion-king-2019.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
