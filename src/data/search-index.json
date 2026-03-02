@@ -36,6 +36,18 @@
     "poster": "/images/posters/guardians-of-the-galaxy-vol-3-2023.jpg"
   },
   {
+    "slug": "thor-love-and-thunder-2022",
+    "title": "Thor: Love and Thunder",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Comedy",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 16.44,
+    "tradScore": 12.26,
+    "poster": "/images/posters/thor-love-and-thunder-2022.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
