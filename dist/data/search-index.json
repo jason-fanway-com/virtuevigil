@@ -12,6 +12,18 @@
     "poster": "/images/posters/the-lion-king-2019.jpg"
   },
   {
+    "slug": "mulan-2020",
+    "title": "Mulan",
+    "verdict": "WOKE LEAN",
+    "platform": "Disney+ Premier Access / Theatrical",
+    "genre": "Fantasy/Action/Drama",
+    "year": 2020,
+    "type": "film",
+    "wokeScore": 20.78,
+    "tradScore": 17.64,
+    "poster": "/images/posters/mulan-2020.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
