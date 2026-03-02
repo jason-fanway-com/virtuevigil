@@ -216,6 +216,18 @@
     "poster": "/images/posters/the-super-mario-galaxy-movie-2026.jpg"
   },
   {
+    "slug": "black-bag-2025",
+    "title": "Black Bag",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Spy Thriller/Drama/Mystery",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 5.94,
+    "tradScore": 18.75,
+    "poster": "/images/posters/black-bag-2025.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
