@@ -96,6 +96,18 @@
     "poster": "/images/posters/john-wick-chapter-4-2023.jpg"
   },
   {
+    "slug": "transformers-one-2024",
+    "title": "Transformers One",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Paramount+",
+    "genre": "Animation/Action/Adventure",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 18.48,
+    "poster": "/images/posters/transformers-one-2024.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
