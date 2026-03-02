@@ -24,6 +24,18 @@
     "poster": "/images/posters/mulan-2020.jpg"
   },
   {
+    "slug": "guardians-of-the-galaxy-vol-3-2023",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Sci-Fi",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 5.18,
+    "tradScore": 14.36,
+    "poster": "/images/posters/guardians-of-the-galaxy-vol-3-2023.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
