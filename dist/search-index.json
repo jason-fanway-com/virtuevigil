@@ -180,6 +180,42 @@
     "poster": "/images/posters/shang-chi-2021.jpg"
   },
   {
+    "slug": "black-panther-wakanda-forever-2022",
+    "title": "Black Panther: Wakanda Forever",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Superhero/Action/Drama",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 18.42,
+    "tradScore": 12.67,
+    "poster": "/images/posters/black-panther-wakanda-forever-2022.jpg"
+  },
+  {
+    "slug": "the-marvels-2023",
+    "title": "The Marvels",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Superhero/Action/Comedy",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 22.95,
+    "tradScore": 8.87,
+    "poster": "/images/posters/the-marvels-2023.jpg"
+  },
+  {
+    "slug": "ant-man-and-the-wasp-quantumania-2023",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Superhero/Action/Adventure",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 14.57,
+    "tradScore": 10.67,
+    "poster": "/images/posters/ant-man-and-the-wasp-quantumania-2023.jpg"
+  },
+  {
     "slug": "greenland-2-migration-2026",
     "title": "Greenland 2: Migration",
     "verdict": "TRADITIONAL",
