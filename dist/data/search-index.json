@@ -1,5 +1,17 @@
 [
   {
+    "slug": "captain-america-brave-new-world-2025",
+    "title": "Captain America: Brave New World",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Sci-Fi/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 14.58,
+    "tradScore": 10.08,
+    "poster": "/images/posters/captain-america-brave-new-world-2025.jpg"
+  },
+  {
     "slug": "the-lion-king-2019",
     "title": "The Lion King",
     "verdict": "STRONGLY TRADITIONAL",
@@ -1822,18 +1834,6 @@
     "wokeScore": 8,
     "tradScore": 6,
     "poster": "/images/posters/yellowjackets.jpg"
-  },
-  {
-    "slug": "captain-america-brave-new-world",
-    "title": "Captain America: Brave New World",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Action",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 8,
-    "tradScore": 5,
-    "poster": "/images/posters/captain-america-brave-new-world.jpg"
   },
   {
     "slug": "a-minecraft-movie",
