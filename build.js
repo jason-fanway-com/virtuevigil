@@ -336,9 +336,9 @@ function sidebarHTML() {
           const margin = typeof r.scoreMargin === 'number' ? r.scoreMargin : parseFloat(String(r.scoreMargin)) || Math.abs((r.tradScore || 0) - (r.wokeScore || 0));
           let badge = r.verdict;
           if (hasTrap) badge = 'WOKE TRAP';
-          else if (vc === 'woke') badge = `WOKE +${Math.round(margin)}`;
-          else if (vc === 'traditional') badge = `TRAD +${Math.round(margin)}`;
-          else if (vc === 'mixed') badge = `MIXED +${Math.round(margin)}`;
+          else if (vc === 'woke') badge = `WOKE ${Math.round(margin)}`;
+          else if (vc === 'traditional') badge = `TRAD +${Math.round(Math.abs(margin))}`;
+          else if (vc === 'mixed') badge = `MIXED ${Math.round(margin) >= 0 ? '+' : ''}${Math.round(margin)}`;
           return `
         <a href="/reviews/${r.slug}/" class="recent-review">
           <div class="thumb">${posterHTML(r, 'thumb')}</div>
