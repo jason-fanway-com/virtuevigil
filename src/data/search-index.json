@@ -84,6 +84,18 @@
     "poster": "/images/posters/cruella-2021.jpg"
   },
   {
+    "slug": "john-wick-chapter-4-2023",
+    "title": "John Wick: Chapter 4",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Crime/Thriller",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 0.5,
+    "tradScore": 23.52,
+    "poster": "/images/posters/john-wick-chapter-4-2023.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
