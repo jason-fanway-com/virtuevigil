@@ -48,6 +48,18 @@
     "poster": "/images/posters/thor-love-and-thunder-2022.jpg"
   },
   {
+    "slug": "doctor-strange-multiverse-of-madness-2022",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Horror",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 13.6,
+    "tradScore": 10.22,
+    "poster": "/images/posters/doctor-strange-multiverse-of-madness-2022.jpg"
+  },
+  {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "verdict": "STRONGLY TRADITIONAL",
