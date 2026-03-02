@@ -1833,7 +1833,7 @@ function build() {
   console.log('\nGenerating SEO files:');
   writePage('sitemap.xml', buildSitemap(catMap));
   writePage('robots.txt', buildRobotsTxt());
-  writePage('google83e3dd426b7b57d1.html', 'google-site-verification: google83e3dd426b7b57d1.html');
+  writePage('google3fdcf99a0ee9d694.html', 'google-site-verification: google3fdcf99a0ee9d694.html');
 
   // --- Copy static assets ---
   console.log('\nCopying assets:');
