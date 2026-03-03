@@ -48,6 +48,18 @@
     "poster": "/images/posters/drop-2025.jpg"
   },
   {
+    "slug": "madame-web-2024",
+    "title": "Madame Web",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Thriller/Superhero",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 13.42,
+    "tradScore": 9.15,
+    "poster": "/images/posters/madame-web-2024.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
