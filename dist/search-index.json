@@ -12,6 +12,18 @@
     "poster": "/images/posters/joker-folie-a-deux-2024.jpg"
   },
   {
+    "slug": "ne-zha-2-2025",
+    "title": "Ne Zha 2",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation/Fantasy/Action",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 38.57,
+    "poster": "/images/posters/ne-zha-2-2025.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
