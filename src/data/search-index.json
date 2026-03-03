@@ -72,6 +72,18 @@
     "poster": "/images/posters/wolf-man-2025.jpg"
   },
   {
+    "slug": "godzilla-x-kong-the-new-empire-2024",
+    "title": "Godzilla x Kong: The New Empire",
+    "verdict": "NOT WOKE",
+    "platform": "Theatrical",
+    "genre": "Action/Sci-Fi/Monster",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 6,
+    "tradScore": 14,
+    "poster": "/images/posters/godzilla-x-kong-the-new-empire-2024.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
