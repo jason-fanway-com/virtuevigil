@@ -1,5 +1,17 @@
 [
   {
+    "slug": "inside-out-2-2024",
+    "title": "Inside Out 2",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation/Comedy/Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 10.08,
+    "tradScore": 20.16,
+    "poster": "/images/posters/inside-out-2-2024.jpg"
+  },
+  {
     "slug": "joker-folie-a-deux-2024",
     "title": "Joker: Folie a Deux",
     "verdict": "WOKE LEAN",
@@ -1222,18 +1234,6 @@
     "wokeScore": 13,
     "tradScore": 17,
     "poster": "/images/posters/moana-2-2024.jpg"
-  },
-  {
-    "slug": "inside-out-2-2024",
-    "title": "Inside Out 2 (2024)",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Animation",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 14,
-    "tradScore": 19,
-    "poster": "/images/posters/inside-out-2-2024.jpg"
   },
   {
     "slug": "twisters-2024",
