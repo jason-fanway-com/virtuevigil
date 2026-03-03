@@ -60,6 +60,18 @@
     "poster": "/images/posters/madame-web-2024.jpg"
   },
   {
+    "slug": "wolf-man-2025",
+    "title": "Wolf Man",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 9.8,
+    "tradScore": 18.9,
+    "poster": "/images/posters/wolf-man-2025.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
