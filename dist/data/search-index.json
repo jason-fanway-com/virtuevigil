@@ -84,6 +84,18 @@
     "poster": "/images/posters/godzilla-x-kong-the-new-empire-2024.jpg"
   },
   {
+    "slug": "furiosa-a-mad-max-saga-2024",
+    "title": "Furiosa: A Mad Max Saga",
+    "verdict": "NOT WOKE",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Sci-Fi",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 22,
+    "poster": "/images/posters/furiosa-a-mad-max-saga-2024.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
