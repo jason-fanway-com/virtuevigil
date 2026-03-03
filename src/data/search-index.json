@@ -1,20 +1,8 @@
 [
   {
-    "slug": "gladiator-ii-2024",
-    "title": "Gladiator II",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Action/Drama/Historical Epic",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 8.2,
-    "tradScore": 24.28,
-    "poster": "/images/posters/gladiator-ii-2024.jpg"
-  },
-  {
     "slug": "joker-folie-a-deux-2024",
     "title": "Joker: Folie a Deux",
-    "verdict": "MIXED",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Musical/Drama/Thriller",
     "year": 2024,
@@ -60,54 +48,6 @@
     "poster": "/images/posters/drop-2025.jpg"
   },
   {
-    "slug": "madame-web-2024",
-    "title": "Madame Web",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Action/Thriller/Superhero",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 13.42,
-    "tradScore": 9.15,
-    "poster": "/images/posters/madame-web-2024.jpg"
-  },
-  {
-    "slug": "wolf-man-2025",
-    "title": "Wolf Man",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Horror/Thriller",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 9.8,
-    "tradScore": 18.9,
-    "poster": "/images/posters/wolf-man-2025.jpg"
-  },
-  {
-    "slug": "godzilla-x-kong-the-new-empire-2024",
-    "title": "Godzilla x Kong: The New Empire",
-    "verdict": "NOT WOKE",
-    "platform": "Theatrical",
-    "genre": "Action/Sci-Fi/Monster",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 6,
-    "tradScore": 14,
-    "poster": "/images/posters/godzilla-x-kong-the-new-empire-2024.jpg"
-  },
-  {
-    "slug": "furiosa-a-mad-max-saga-2024",
-    "title": "Furiosa: A Mad Max Saga",
-    "verdict": "NOT WOKE",
-    "platform": "Theatrical",
-    "genre": "Action/Adventure/Sci-Fi",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 8,
-    "tradScore": 22,
-    "poster": "/images/posters/furiosa-a-mad-max-saga-2024.jpg"
-  },
-  {
     "slug": "am-i-racist-2024",
     "title": "Am I Racist?",
     "verdict": "STRONGLY TRADITIONAL",
@@ -120,6 +60,42 @@
     "poster": "/images/posters/am-i-racist-2024.jpg"
   },
   {
+    "slug": "furiosa-a-mad-max-saga-2024",
+    "title": "Furiosa: A Mad Max Saga",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Sci-Fi",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 22,
+    "poster": "/images/posters/furiosa-a-mad-max-saga-2024.jpg"
+  },
+  {
+    "slug": "godzilla-x-kong-the-new-empire-2024",
+    "title": "Godzilla x Kong: The New Empire",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Sci-Fi/Monster",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 6,
+    "tradScore": 14,
+    "poster": "/images/posters/godzilla-x-kong-the-new-empire-2024.jpg"
+  },
+  {
+    "slug": "madame-web-2024",
+    "title": "Madame Web",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Thriller/Superhero",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 13.42,
+    "tradScore": 9.15,
+    "poster": "/images/posters/madame-web-2024.jpg"
+  },
+  {
     "slug": "reagan-2024",
     "title": "Reagan",
     "verdict": "STRONGLY TRADITIONAL",
@@ -130,6 +106,18 @@
     "wokeScore": 2.4,
     "tradScore": 44.28,
     "poster": "/images/posters/reagan-2024.jpg"
+  },
+  {
+    "slug": "wolf-man-2025",
+    "title": "Wolf Man",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 9.8,
+    "tradScore": 18.9,
+    "poster": "/images/posters/wolf-man-2025.jpg"
   },
   {
     "slug": "it-ends-with-us-2024",
@@ -266,7 +254,7 @@
   {
     "slug": "speak-no-evil-2024",
     "title": "Speak No Evil",
-    "verdict": "MIXED",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical / Peacock",
     "genre": "Horror/Thriller",
     "year": 2024,
@@ -278,7 +266,7 @@
   {
     "slug": "the-amateur-2025",
     "title": "The Amateur",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Action/Thriller/Spy",
     "year": 2025,
@@ -321,7 +309,7 @@
     "type": "film",
     "wokeScore": 1,
     "tradScore": 21.88,
-    "poster": null
+    "poster": "/images/posters/solo-mio-2026.jpg"
   },
   {
     "slug": "wuthering-heights-2026",
@@ -345,7 +333,7 @@
     "type": "film",
     "wokeScore": 5.25,
     "tradScore": 28.2,
-    "poster": null
+    "poster": "/images/posters/peaky-blinders-the-immortal-man-2026.jpg"
   },
   {
     "slug": "the-super-mario-galaxy-movie-2026",
@@ -357,12 +345,12 @@
     "type": "film",
     "wokeScore": 6.4,
     "tradScore": 16.35,
-    "poster": null
+    "poster": "/images/posters/the-super-mario-galaxy-movie-2026.jpg"
   },
   {
     "slug": "black-bag-2025",
     "title": "Black Bag",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Spy Thriller/Drama/Mystery",
     "year": 2025,
@@ -382,6 +370,18 @@
     "wokeScore": 1.26,
     "tradScore": 28.35,
     "poster": "/images/posters/solo-leveling-reawakening-2024.jpg"
+  },
+  {
+    "slug": "doctor-strange-multiverse-of-madness-2022",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Horror",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 13.6,
+    "tradScore": 10.22,
+    "poster": "/images/posters/doctor-strange-multiverse-of-madness-2022.jpg"
   },
   {
     "slug": "the-spongebob-movie-search-for-squarepants-2025",
@@ -494,7 +494,7 @@
   {
     "slug": "encanto-2021",
     "title": "Encanto",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical / Disney+",
     "genre": "Animation/Musical/Fantasy",
     "year": 2021,
@@ -710,7 +710,7 @@
   {
     "slug": "den-of-thieves-2-pantera-2025",
     "title": "Den of Thieves 2: Pantera",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Action/Crime",
     "year": 2025,
@@ -1198,6 +1198,18 @@
     "wokeScore": 37,
     "tradScore": 41,
     "poster": "/images/posters/goat-2026.jpg"
+  },
+  {
+    "slug": "gladiator-ii-2024",
+    "title": "Gladiator II (2024)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 11,
+    "tradScore": 24,
+    "poster": "/images/posters/gladiator-ii-2024.jpg"
   },
   {
     "slug": "moana-2-2024",
