@@ -1,5 +1,17 @@
 [
   {
+    "slug": "gladiator-ii-2024",
+    "title": "Gladiator II",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Drama/Historical Epic",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 8.2,
+    "tradScore": 24.28,
+    "poster": "/images/posters/gladiator-ii-2024.jpg"
+  },
+  {
     "slug": "joker-folie-a-deux-2024",
     "title": "Joker: Folie a Deux",
     "verdict": "MIXED",
@@ -1174,18 +1186,6 @@
     "wokeScore": 37,
     "tradScore": 41,
     "poster": "/images/posters/goat-2026.jpg"
-  },
-  {
-    "slug": "gladiator-ii-2024",
-    "title": "Gladiator II (2024)",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Action",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 11,
-    "tradScore": 24,
-    "poster": "/images/posters/gladiator-ii-2024.jpg"
   },
   {
     "slug": "moana-2-2024",
