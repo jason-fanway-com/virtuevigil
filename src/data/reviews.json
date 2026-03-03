@@ -16743,70 +16743,323 @@
   {
     "id": "twisters-2024",
     "slug": "twisters-2024",
-    "title": "Twisters (2024)",
+    "title": "Twisters",
     "year": 2024,
     "type": "film",
     "platform": "Theatrical",
-    "genre": "Action",
-    "date": "2026-02-19",
+    "genre": "Action/Disaster",
+    "date": "2026-03-03",
     "author": "VirtueVigil Editorial Team",
-    "readTime": "8 min",
+    "readTime": "12 min",
     "poster": "/images/posters/twisters-2024.jpg",
     "verdict": "TRADITIONAL",
-    "wokeScore": 7,
-    "tradScore": 26,
-    "authIndex": 73,
-    "scoreMargin": "+19 TRAD",
+    "wokeScore": 10.08,
+    "tradScore": 24.64,
+    "authIndex": 75,
+    "scoreMargin": "+15 TRAD",
     "preRelease": false,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "NOT A WOKE TRAP Twisters is one of the most deliberately counter-programmed blockbusters of recent years. The director explicitly excluded climate change messaging. Glen Powell's Tyler Owens is an unapologetic cowboy hero. Oklahoma is treated with affection and respect."
+      "explanation": "NOT A WOKE TRAP. Twisters is exactly what it looks like from the trailer: a big, loud, heartland disaster movie starring Glen Powell being charming and Daisy Edgar-Jones chasing storms. There is no ideological bait-and-switch. The film deliberately avoids mentioning climate change, treats rural Oklahoma with genuine affection, and never lectures its audience. Conservative viewers will find this movie refreshingly free of political messaging. What you see in the marketing is what you get."
     },
     "creative_team": {
       "director": {
         "name": "Lee Isaac Chung",
-        "ideology": "Humanist, rural-community focused -- see Minari",
-        "profile": "Lee Isaac Chung directed Minari (2020), a beautiful film about a Korean immigrant family farming in rural Arkansas. That film celebrated the American Dream, community, hard work, and family sacrifice. It won the Grand Jury Prize at Sundance and earned multiple Oscar nominations. Chung is not an ideological filmmaker. He is a humanist who loves small communities and the people who keep them alive."
+        "ideology": "MODERATE / APOLITICAL LEAN. Chung grew up in a Korean-American Christian family in rural Arkansas. He has spoken extensively about faith being 'an important fabric' of his life. His breakout film Minari is a semi-autobiographical story about a Korean immigrant family pursuing the American Dream in the rural South. He specifically stated he avoided mentioning climate change in Twisters because he wanted to avoid 'creating a feeling that we're preaching a message.' He has no significant public political statements.",
+        "profile": "Korean-American filmmaker born in Denver, Colorado and raised in Lincoln, Arkansas. Chung studied at Yale University before attending the University of Utah for his MFA. His early films were small independent projects: Munyurangabo (2007), shot in Rwanda, and Lucky Life (2010). He gained widespread acclaim for Minari (2020), a semi-autobiographical drama about a Korean family farming in rural Arkansas, which earned six Academy Award nominations including Best Picture and Best Director, and won Best Supporting Actress for Youn Yuh-jung. Chung directed an episode of The Mandalorian (Season 3, 2023), which introduced him to large-scale visual effects work. Twisters is his first big-budget studio film. His filmography shows a director drawn to stories about family, land, resilience, and the quiet dignity of working people in America's heartland."
       },
       "writer": {
         "name": "Mark L. Smith",
-        "profile": "Mark L. Smith wrote The Revenant (2015). He is a genre craftsman with a gift for survival storytelling and lean, purposeful scripts. No significant ideological track record."
+        "profile": "American screenwriter from small-town Oklahoma, which gives Twisters an authentic voice. Smith's credits include Vacancy (2007), The Revenant (2015, co-written with Alejandro Gonzalez Inarritu), Overlord (2018), The Midnight Sky (2020), The Boys in the Boat (2023), and the Netflix miniseries American Primeval (2025). His writing tends toward survival narratives, physical endurance, and characters defined by what they do under pressure rather than what they believe. There is no discernible ideological pattern in his filmography. He writes genre films with strong craft and minimal political messaging."
       },
       "lead_producer": {
-        "name": "Frank Marshall / Patrick Crowley",
-        "company": "Universal Pictures / Amblin Entertainment"
+        "name": "Frank Marshall, Patrick Crowley",
+        "company": "Universal Pictures / Amblin Entertainment / Warner Bros. Pictures"
+      },
+      "composer": {
+        "name": "Benjamin Wallfisch",
+        "profile": "English composer known for Blade Runner 2049 (with Hans Zimmer), IT and IT Chapter Two, Shazam!, The Invisible Man, Hidden Figures (with Pharrell Williams and Hans Zimmer), and contributing to Dunkirk. Graduate of the Royal Academy of Music and mentored by Hans Zimmer. His score for Twisters is big and bombastic when it needs to be, but also pulls back for the quieter character moments. The film's soundtrack features a heavy country music lineup including Luke Combs, Lainey Wilson, Jelly Roll, and Tyler Childers, which reinforces the film's heartland identity."
       },
       "top_cast": [
         {
-          "actor": "Daisy Edgar-Jones",
+          "name": "Daisy Edgar-Jones",
           "role": "Kate Carter"
         },
         {
-          "actor": "Glen Powell",
+          "name": "Glen Powell",
           "role": "Tyler Owens"
         },
         {
-          "actor": "Anthony Ramos",
+          "name": "Anthony Ramos",
           "role": "Javi"
+        },
+        {
+          "name": "Brandon Perea",
+          "role": "Boone"
+        },
+        {
+          "name": "Maura Tierney",
+          "role": "Cathy (Kate's mother)"
+        },
+        {
+          "name": "Harry Hadden-Paton",
+          "role": "Ben"
+        },
+        {
+          "name": "Sasha Lane",
+          "role": "Lily"
+        },
+        {
+          "name": "Daryl McCormack",
+          "role": "Jeb"
+        },
+        {
+          "name": "Kiernan Shipka",
+          "role": "Addy"
+        },
+        {
+          "name": "David Corenswet",
+          "role": "Scott"
+        },
+        {
+          "name": "Nik Dodani",
+          "role": "Praveen"
+        },
+        {
+          "name": "Tunde Adebimpe",
+          "role": "Dexter"
+        },
+        {
+          "name": "Katy O'Brian",
+          "role": "Dani"
         }
       ],
-      "prediction": {
-        "verdict": "TRADITIONAL",
-        "confidence": "high"
+      "top_performers": [
+        {
+          "name": "Glen Powell",
+          "note": "Powell is the reason this movie works. Full stop. His Tyler Owens is a modern cowboy who films himself driving into tornadoes for YouTube, but underneath the showmanship is a guy who genuinely cares about the communities being destroyed. Powell plays him with the kind of effortless charisma that makes you understand why audiences are calling him the last real movie star. He is funny without being a clown, brave without being stupid, and romantic without being corny. The scene where Kate discovers that Tyler's merch money goes directly to tornado relief is the moment the audience falls in love with him, and Powell earns it by playing the reveal with zero self-congratulation. He just does the right thing because it is the right thing. That is old-school movie heroism."
+        },
+        {
+          "name": "Maura Tierney",
+          "note": "Tierney has limited screen time as Kate's mother Cathy, but she anchors every scene she is in with quiet, grounded warmth. When Kate returns to the family farm in Sapulpa, Tierney communicates decades of worry and resilience in a single look. She represents the Oklahoma community that the film loves - people who rebuild after every storm because this is their home and they are not leaving. Tierney gives the film its emotional foundation."
+        },
+        {
+          "name": "Anthony Ramos",
+          "note": "Ramos brings genuine complexity to Javi, a character who could easily have been a one-note corporate sellout. His moral arc, from working with the profiteering Riggs to quitting Storm Par and rushing to help during the El Reno tornado, feels earned. Ramos plays the guilt of having survived the opening disaster alongside Kate with understated pain, and his eventual reconciliation with her is one of the film's best emotional beats."
+        }
+      ],
+      "bottom_performers": [
+        {
+          "name": "David Corenswet",
+          "note": "Corenswet's Scott is the closest thing the film has to a human villain, but he is so thinly written that he barely registers. Scott is Javi's business partner who pressures him to prioritize Storm Par's corporate mission over helping people, but Corenswet is given almost nothing to work with. The character exists solely to create a moral choice for Javi and is discarded the moment that choice is made. Corenswet does what he can, which is not much."
+        },
+        {
+          "name": "Harry Hadden-Paton",
+          "note": "Hadden-Paton plays Ben, a British journalist following Tyler's crew, and the character serves almost no purpose beyond occasionally asking questions that provide exposition. He is a narrative device in a human suit. The subplot where his documentary ends up focusing on Kate instead of Tyler is a nice grace note in the closing montage, but it does not justify Ben's presence throughout the rest of the film."
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "NOT APPLICABLE",
+      "summary": "Twisters is a standalone sequel with entirely new characters. There is no source material requiring fidelity casting analysis. The film does not adapt a book, historical event, or prior character roster. The characters from the 1996 Twister do not appear. Kate, Tyler, Javi, and the rest are original creations. The casting itself is broadly representative of Oklahoma demographics, though some conservative reviewers have noted the diversity of the storm chasing crews feels slightly elevated relative to the real-world storm chasing community, which skews heavily white and male. This is a minor observation. The casting choices do not feel forced or ideologically motivated. They feel like a studio ensemble designed to appeal broadly, which is exactly what they are. Worth noting: Helen Hunt's original pitch for the sequel, which was rejected by Universal, involved 'all black and brown storm chasers' from a historically black college. The studio chose a different direction entirely."
+    },
+    "celebrity_mentions": [
+      {
+        "name": "Glen Powell",
+        "role": "Lead Actor (Tyler Owens)",
+        "context": "Powell has emerged as Hollywood's most bankable leading man, and Twisters cemented that status. He told the press that 'vast parts of America are underserved by Hollywood' and that the film was meant to represent those communities. He describes himself as 'not a political person' and has avoided partisan statements, but his public persona, his roles (Top Gun: Maverick, Twisters, Hit Man), and his comments about underserved audiences have made him a favorite of conservative moviegoers who see him as a throwback to non-preachy movie stars. His co-star chemistry with Edgar-Jones drove much of the film's romantic appeal."
+      },
+      {
+        "name": "Daisy Edgar-Jones",
+        "role": "Lead Actress (Kate Carter)",
+        "context": "British actress best known for Normal People (2020) and Where the Crawdads Sing (2022). Her casting as an Oklahoma meteorologist required a convincing American accent, which she largely delivers. Edgar-Jones brings intelligence and vulnerability to Kate but is sometimes overshadowed by Powell's star wattage. She has no significant political profile. Her performance was generally well-received by critics, with most noting she handles the emotional trauma of the opening tragedy convincingly."
+      },
+      {
+        "name": "Lee Isaac Chung",
+        "role": "Director",
+        "context": "Chung's decision to omit any mention of climate change from a disaster movie about extreme weather became the film's biggest talking point among left-leaning media. CNN, The New York Times, MSNBC, Salon, The Verge, and Paste Magazine all ran pieces criticizing the omission. Chung told interviewers he wanted to avoid 'creating a feeling that we are preaching a message.' He grew up in a Christian Korean-American family in rural Arkansas, and his previous film Minari is a love letter to immigrant families pursuing the American Dream in the heartland. His sensibility is distinctly non-coastal and non-preachy."
+      },
+      {
+        "name": "Joseph Kosinski",
+        "role": "Story Creator",
+        "context": "Kosinski developed the original story for Twisters before departing to direct F1. He also directed Top Gun: Maverick (2022), which grossed $1.5 billion and was widely embraced by conservative audiences for its patriotism and apolitical storytelling. The connection between Maverick and Twisters is not coincidental. Both films were designed to appeal to audiences who felt underserved by Hollywood's recent output."
+      },
+      {
+        "name": "Steven Spielberg",
+        "role": "Executive Producer (uncredited influence)",
+        "context": "Spielberg was an executive producer on the original 1996 Twister and expressed enthusiasm for Smith's screenplay, which helped fast-track the sequel. His Amblin Entertainment co-produced. Spielberg's involvement signals prestige studio filmmaking rather than any specific ideological alignment."
+      },
+      {
+        "name": "Helen Hunt",
+        "role": "Original Twister Star (rejected pitch)",
+        "context": "Hunt developed her own pitch for a Twister sequel written with Daveed Diggs and Rafael Casal. That version would have followed 'all black and brown storm chasers' who were members of a rocket science club at a historically black college. Universal rejected this pitch in favor of the direction that became Twisters. This detail provides useful context for understanding what Twisters could have been versus what it chose to be."
       }
+    ],
+    "parental_guidance": {
+      "rating": "PG-13",
+      "age_recommendation": "10+",
+      "content_warnings": [
+        "Three characters die in the opening tornado sequence, shown being swept away by the storm. The deaths are not graphic but they are sudden and emotionally impactful.",
+        "Multiple tornado sequences with intense destruction of buildings, vehicles, and infrastructure. Some sequences are genuinely frightening in their scale and sound design.",
+        "Kate suffers a panic attack during a storm chase, depicted realistically with hyperventilation and freezing.",
+        "A tornado strikes an oil refinery and catches fire, creating a massive fire tornado. Visually spectacular but intense.",
+        "A small town is destroyed by a tornado, with homes flattened and residents in distress. The film shows community devastation and loss.",
+        "Mild romantic content between Kate and Tyler. No sexual content beyond a couple of charged glances and one near-kiss.",
+        "Brief mild language throughout. Nothing beyond what you would hear in a PG-13 action film.",
+        "No drug use. Brief social drinking at a rodeo event.",
+        "A subplot involves a corporate villain buying tornado-damaged land from vulnerable homeowners. Not violent but may prompt questions about exploitation."
+      ],
+      "family_discussion_topics": [
+        "The film shows people risking their lives to help communities during natural disasters. Tyler's crew uses their YouTube profits to buy supplies for tornado victims. This is a great conversation starter about service, community, and using your platform for good.",
+        "Kate's panic attacks after the opening tragedy are portrayed realistically. Parents can discuss how traumatic experiences affect people and what recovery looks like.",
+        "Javi faces a choice between corporate loyalty (Storm Par and Riggs) and doing the right thing (helping tornado victims). He ultimately chooses correctly. Discuss moral courage and when it is right to walk away from a job that conflicts with your values.",
+        "The film is set in Oklahoma and treats rural communities with respect and affection. For families outside the heartland, this can be a conversation about different parts of America and the people who live there.",
+        "Kate's scientific ambition to actually stop tornadoes raises interesting questions about human ingenuity, the limits of science, and our relationship with nature."
+      ],
+      "recommendation": "Highly appropriate for family viewing. This is a PG-13 action movie that earns its rating with intense tornado sequences rather than violence, sexuality, or language. Children under 10 may find the storm sequences frightening, especially in IMAX or large-screen formats where the sound design is genuinely overwhelming. The opening deaths are handled with restraint but will register emotionally with younger viewers. For families with kids 10 and up, this is an excellent theater experience and a refreshingly clean blockbuster. No content that conservative parents need to worry about."
     },
     "summary": {
-      "overall": "Twisters is the summer blockbuster that 2024 needed most: a disaster movie that trusts its audience to enjoy tornadoes without being lectured about the policies that supposedly created them. Director Lee Isaac Chung made this decision consciously and publicly. He told Plugged In that he deliberately chose not to address climate change because he did not want viewers to feel preached at. That restraint is not a small thing in 2024 Hollywood. It is a genuine act of counter-programming, and audiences responded. The film grossed 372 million dollars worldwide on a 155 million dollar budget.\n\nPlot Summary\n\nKate Carter (Daisy Edgar-Jones) is a brilliant meteorologist who quit storm chasing after a devastating accident killed several members of her team, including her boyfriend Jeb. Five years later, she's recruited back to Oklahoma by her former colleague Javi (Anthony Ramos), who is now working with a corporate data company that wants to use advanced sensors to predict tornado behavior. Kate agrees to help, thinking she can stay clinical and scientific about it.\n\nThen she meets Tyler Owens (Glen Powell). Tyler is a rodeo cowboy turned storm chaser with a hundred thousand social media followers, a flatbed truck full of enthusiastic volunteers, and an absolute refusal to let data get in the way of the pure adrenaline of the chase. He is everything Kate is not: instinctive, fearless, funny, and completely in love with tornadoes as a force of nature rather than a problem to be solved.\n\nThe plot is exactly what you expect: the two chase systems converge, personal history complicates professional judgment, and when a catastrophic tornado outbreak threatens an Oklahoma town, Kate and Tyler have to work together. It's a romance dressed as a disaster movie dressed as a competition between two ways of seeing the world -- the scientific and the intuitive, the careful and the reckless. The film argues, persuasively, that both have their place.\n\nThe tornadoes are extraordinary. Whatever Chung and cinematographer Dan Mindel did to make those sequences feel genuinely terrifying, it worked.\n\nTrope Analysis -- VVWS Weighted Scoring\n\nWoke Tropes\n\n| Trope | Severity (1-5) | Authenticity | Centrality | Weighted Score |\n|---|---|---|---|---|\n| Female lead as the most technically competent character in the film | 2 | High -- her expertise is plot-essential, not agenda-driven | Central | 2.4 |\n| Diverse ensemble -- Anthony Ramos as corporate team lead | 1 | Neutral | Supporting | 0.8 |\n| Corporate antagonist framing -- Javi's data company subtly positioned as coldly mercenary vs. Tyler's community-first approach | 2 | Moderate | Supporting | 1.6 |\n| WOKE TOTAL | | | | 4.8 |\n\nTraditional Tropes\n\n| Trope | Severity (1-5) | Authenticity | Centrality | Weighted Score |\n|---|---|---|---|---|\n| Masculine heroism -- Tyler is unapologetically cowboy, physically brave, protective, and charming without irony | 5 | High | Defining | 14.0 |\n| Oklahoma rural community -- the town, the people, the church in the background, the country music on the radio are all treated with genuine affection | 5 | High | Defining | 10.0 |\n| Self-sacrifice -- Tyler and his crew put themselves between the tornado and people who cannot protect themselves | 4 | High | Central | 8.0 |\n| Female competence without feminist agenda -- Kate is excellent at her job and the film neither celebrates nor apologizes for this | 3 | High | Central | 4.2 |\n| Romance as earned emotional development -- the love story develops through shared danger and respect, not modern relationship politics | 3 | High | Central | 3.6 |\n| Community resilience -- Oklahoma farmers, first responders, and neighbors shown as tough, capable, and worth protecting | 3 | High | Supporting | 3.0 |\n| Courage as the appropriate response to natural disaster -- the film does not pathologize risk-taking | 2 | High | Supporting | 2.4 |\n| TRAD TOTAL | | | | 45.2 |\n\nDirector Ideological Track Record\n\nLee Isaac Chung's previous film, Minari (2020), is one of the most traditionally conservative films to win at Sundance in the last decade -- and it won anyway, which says something about craft transcending politics. Minari is about a Korean immigrant family planting roots in rural Arkansas. It celebrates the American Dream without irony. The father works himself to exhaustion to provide for his family. The grandmother is an anchor of love and wisdom. The land is treated as something sacred. The film is quietly, beautifully patriotic in the deepest sense -- not flag-waving, but showing what it looks like when a family genuinely believes that America is a place worth building a life.\n\nTwisters is a different scale of film but comes from the same director's sensibility. Chung loves communities. He loves the people who work with their hands. He understands instinctively that Oklahoma is not a flyover punchline but a real place full of people whose lives and land matter. That understanding saturates the film's texture in ways that most Hollywood disaster movies never manage.\n\nMark L. Smith wrote The Revenant -- another film about a man surviving through sheer physical will in a hostile landscape. His scripts tend to be stripped down, action-forward, and respectful of human toughness. No progressive program.\n\nAdult Viewer Insight\n\nGlen Powell is having a moment and Twisters explains why. He has figured out something that very few male stars of his generation have: audiences will happily embrace unambiguous masculine heroism if you deliver it with enough charm and without apologizing for it. Tyler Owens is not a complicated, deconstructed hero. He is a man who chases tornadoes and saves people and loves it. He is also funny, self-aware, and completely at ease in his own skin. In a Hollywood landscape where leading men are constantly being complicated and wounded and problematized, Powell's confidence is genuinely refreshing.\n\nDaisy Edgar-Jones is smart casting as the counterbalance. She brings real intelligence and vulnerability to Kate without making the film a debate about her right to be there. The romance works because both characters earn each other.\n\nFor conservative viewers, this is the rare summer blockbuster you can recommend to your whole social circle without qualifications. No climate sermon. No institutional critique. No identity politics. Just two people, a lot of tornadoes, and a community worth saving.",
-      "adultInsight": "Glen Powell has figured out something very few male stars of his generation have: audiences will happily embrace unambiguous masculine heroism if you deliver it with enough charm and without apologizing for it. Tyler Owens is not complicated or wounded or problematized. He chases tornadoes and saves people and loves it. For conservative viewers, this is the rare summer blockbuster you can recommend to your whole social circle without qualifications. No climate sermon. No identity politics. Just two people, a lot of tornadoes, and a community worth saving.",
-      "parentalGuidance": "Ages 12+ -- PG-13:\n- Intense tornado sequences with destruction and peril -- not graphic but viscerally scary\n- Brief depiction of team members dying in a storm (not shown graphically)\n- Mild romantic tension; no sexual content\n- Language: mild (a few PG-13 level words)\n- No substance use of note\n\nOne of the most family-friendly major action releases of 2024. A genuine throwback to disaster movies that are about the disaster. Teenagers will love it.\n\nVirtueVigil Editorial Team\nReview Date: February 2026"
+      "overall": "Twisters is that rare modern blockbuster that feels like it was made for the entire country, not just the coasts. In a Hollywood landscape where every other franchise film seems engineered to deliver a message, Lee Isaac Chung directed a movie about tornadoes that is actually about tornadoes. And communities. And courage. And a cowboy scientist with a YouTube channel who drives into storms and then donates his merch money to rebuild the town that just got flattened.\n\nLet's get the plot out of the way. Kate Carter (Daisy Edgar-Jones) is an Oklahoma meteorology student whose experimental attempt to weaken a tornado goes catastrophically wrong in the film's opening minutes. Three of her friends die. She retreats to a desk job at NOAA in New York City. Five years later, her old friend Javi (Anthony Ramos) lures her back to Oklahoma to help test a new tornado scanning system for a company called Storm Par. Once there, she crosses paths with Tyler Owens (Glen Powell), a self-styled 'Tornado Wrangler' who chases storms for his YouTube audience, planting his modified truck into the ground with hydraulic anchors while shooting fireworks into the vortex. Tyler's crew wears red. Javi's crew wears blue. The metaphor is not subtle.\n\nWhat follows is a summer disaster film that actually works because it cares about its people. Not in a performative way. Not in a 'here is my trauma backstory' way. In a 'these people live in tornado alley and they rebuild every single time and that is beautiful' way.\n\nGlen Powell is the movie. There is no other way to say it. His Tyler Owens is the kind of character Hollywood used to produce regularly and now almost never does: a man who is competent, funny, courageous, and decent without being boring. He is a showman who uses his platform to help people. He does not apologize for being from the South. He does not have a dark secret or a redemption arc. He is just a good guy who happens to be great at his job and ridiculously charming. When Kate discovers that Tyler's merchandise profits go directly to tornado victims, it is the moment the film declares its values. This man is not performing goodness for the camera. He is doing it because someone has to.\n\nPowell told the press that 'vast parts of America are underserved by Hollywood,' and Twisters feels like his personal mission statement. The film is set in Oklahoma, shot in Oklahoma, and populated with Oklahoma people. The rodeo scene in Stillwater is not tourist anthropology. The mom's farm in Sapulpa is not poverty porn. The destroyed towns are treated with grief and dignity, not spectacle. Chung, who grew up in rural Arkansas, clearly understands these communities because he comes from one.\n\nDaisy Edgar-Jones does solid work as Kate, though she is inevitably overshadowed by Powell's supernova charisma. She is strongest in the opening sequence, where her terror during the failed experiment is palpable and the deaths of her friends land with genuine weight. Her panic attacks are played with restraint and realism. Where she struggles is in the quieter character scenes with Powell, where the chemistry exists but never quite ignites into the kind of electricity the film wants. They are a good screen pair. They are not a great one.\n\nAnthony Ramos brings real depth to Javi, who could have been a simple traitor character. His moral arc, from corporate stooge to the guy who quits on the side of the road and drives to help tornado victims, is one of the film's most satisfying progressions. Maura Tierney, with maybe fifteen minutes of screen time as Kate's mother, gives the film its emotional anchor. She is Oklahoma personified: warm, resilient, not interested in your drama, here to put food on the table and survive the next storm.\n\nNow for what our audience actually wants to know.\n\nIs Twisters woke? No. Emphatically, refreshingly, deliberately no.\n\nThe most remarkable thing about this film is what it does not do. It does not mention climate change. Not once. In a movie about extreme weather made in 2024, the words 'climate change' never appear. Director Lee Isaac Chung was explicit about this choice, telling interviewers he did not want to create 'a feeling that we're preaching a message.' This drove left-leaning media absolutely crazy. CNN ran multiple opinion pieces about the 'stunning silence.' The New York Times called it a 'missed opportunity.' MSNBC accused the film of promoting 'magical thinking.' Salon called it bizarre. The Verge was baffled.\n\nThe reaction from progressive media is, frankly, the most compelling evidence that Twisters gets it right. When a movie about tornadoes makes coastal critics angry because it refuses to lecture audiences about their carbon footprint, that movie has made a deliberate choice about who it is for. And it is for the people who live where the tornadoes actually happen.\n\nThe film's political subtext is real but never preachy. Tyler's crew wears red and consists of self-taught storm chasers without fancy degrees. Javi's Storm Par team wears blue, comes from Ivy League backgrounds, and is ultimately revealed to be working for a corporate investor (Riggs) who buys tornado-damaged land on the cheap. The red team helps people. The blue team profits from their suffering. You do not need a decoder ring.\n\nBut Chung is smart enough to complicate this. Javi is not a villain. He is a good man who got caught up in a bad system, and he finds his way back. Kate is not a coastal elite. She is an Oklahoma girl who went to New York because her trauma sent her running, and she comes home because home is where she belongs. The film's resolution is all three of them, Kate, Tyler, and Javi, starting a business together. Red and blue, working side by side. That is a political statement, but it is one that heals rather than divides.\n\nThe rejected Helen Hunt sequel is worth mentioning for context. Hunt pitched Universal a version featuring 'all black and brown storm chasers' from a historically black college, written with Daveed Diggs and Rafael Casal. Universal said no. What they greenlit instead was a film set in deep-red Oklahoma with a Christian Korean-American director, a Texas movie star, and zero political messaging. That is a studio making a commercial calculation, and the $372 million worldwide gross suggests they calculated correctly.\n\nJoseph Kosinski, who developed the original story before leaving to direct F1, also directed Top Gun: Maverick. That connection is not coincidental. Both films were designed to serve audiences who had been largely ignored by Hollywood's recent output. Both became massive hits. The lesson is not complicated: make good movies for all of America, not just the people who live within driving distance of a Whole Foods.\n\nThe action sequences are genuinely spectacular. The fire tornado at the oil refinery is one of the best disaster setpieces in years. The climactic EF5 bearing down on El Reno while Kate drives into its center to launch her chemical solution is white-knuckle filmmaking. Chung shoots the storms with respect for their power and beauty, influenced by Spielberg's monster movies and Kurosawa's weather cinematography. The IMAX presentation is worth the ticket price on the spectacle alone.\n\nThe film's weaknesses are structural, not ideological. The script is thin. Kate's character arc, overcoming her trauma to chase storms again, is resolved too easily and then artificially re-inflated for second-act tension. The romance between Kate and Tyler never reaches the heat it needs. The villain (Riggs and Scott) is undercooked. Ben the British journalist is dead weight. These are the complaints of a B+ movie that could have been an A with a stronger screenplay.\n\nBut here is the thing: audiences did not care about those flaws. The 90% Rotten Tomatoes audience score, the A- CinemaScore, and the $372 million worldwide gross tell you everything. People went to see a big, fun, unashamed American movie about brave people saving their neighbors from tornadoes, and they got exactly that. No lecture. No guilt trip. No third-act reveal that the real villain was capitalism or the patriarchy. Just storms, science, courage, and a cowboy with a truck that drills into the ground.\n\nRT Critics: 75% (Certified Fresh). RT Audience: 90%. IMDB: 6.5. CinemaScore: A-. Metacritic: 65. The critics liked it. The audience loved it. The gap tells you who this movie was really for.",
+      "verdict_explanation": "TRADITIONAL (+15 margin). Twisters scores decisively traditional because of what it does and, more importantly, what it refuses to do. It deliberately omits climate change messaging from a disaster film about extreme weather. It treats rural Oklahoma and its people with genuine respect and affection. It presents its male lead as heroic, competent, and good without qualification or deconstruction. It frames community, service, and rebuilding as core American values without irony. The 'woke' elements are minor: a diverse ensemble cast and a female lead who is a scientist. But the female lead is not coded as a feminist icon. She is coded as an Oklahoma girl who went to New York and came home. The diverse ensemble is not foregrounded as representation. They are just people on a storm chasing team. Nothing in this film preaches, lectures, or condescends. It is a throwback to the kind of blockbuster that existed before Hollywood decided every movie needed a political thesis statement. That is inherently traditional.",
+      "woke_trap_assessment": "NOT A WOKE TRAP. The trailers promised a big, fun disaster movie with Glen Powell being charming and tornadoes being terrifying. That is exactly what the film delivers. There is no hidden ideological payload. If anything, the film's ideological lean is toward traditional values, community resilience, and heartland pride. Conservative viewers can watch this with zero anxiety.",
+      "adultInsight": "Twisters is one of the safest recommendations on our site. Conservative adults will find a film that respects their communities, celebrates their values, and never insults their intelligence. Glen Powell is the movie star you have been waiting for. The action is top-tier. The climate change omission is not an oversight; it is a deliberate creative choice by a director who grew up in tornado country and did not want to preach. The film's flaws are all craft-related (thin script, weak villain, underbaked romance) rather than ideological. Go see it. Bring the family. Buy the popcorn. This is what summer movies are supposed to feel like.",
+      "parentalGuidance": "Rated PG-13 for intense sequences of destruction, peril, and brief strong language. Recommended for ages 10 and up. The tornado sequences are legitimately intense, especially in premium formats, and young children may find them frightening. Three characters die in the opening sequence, though the deaths are not graphic. Kate's panic attacks are portrayed realistically. A fire tornado is visually stunning but could be scary for little kids. No sexual content beyond mild romantic tension. No nudity. Brief mild language. No drug use. This is a clean, exciting, family-friendly disaster movie. Conservative parents have nothing to worry about."
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-001",
+        "name": "Female STEM Lead",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 2.52,
+        "analysis": "Kate is a meteorologist and scientist who develops an experimental method to weaken tornadoes. She is the intellectual engine of the film's central plot. This is technically a 'women in STEM' representation, but the film never foregrounds it as a statement. Kate is never positioned against male characters who doubt her competence because she is a woman. Tyler immediately respects her intelligence. Javi already knows she is brilliant. Nobody says 'you're pretty smart for a girl.' The STEM coding is organic to the character, not ideological. She is a scientist because the story needs a scientist, not because the film needs a feminist point."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Diverse Ensemble Cast",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "analysis": "The storm chasing teams include Latino (Ramos), Black (Adebimpe, Lane), South Asian (Dodani), and Irish (McCormack) characters alongside the white leads. Some conservative reviewers noted this feels slightly elevated relative to the real-world storm chasing community, which skews heavily white and male. However, the diversity is never foregrounded or commented upon. Nobody delivers a speech about representation. The characters are defined by their skills and personalities, not their identities. This is studio casting, not activism."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Corporate Villainy / Anti-Capitalism",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "analysis": "The film's villain is not a tornado. It is Marshall Riggs, a corporate investor who uses Storm Par's tornado data to identify damaged properties and buy them from vulnerable homeowners at distressed prices. This is a mild anti-capitalist theme, but it is worth noting that exploitative land speculation is not an exclusively progressive concern. Rural communities in tornado alley have real grievances about out-of-state investors profiting from their disasters. The film is siding with local landowners against corporate profiteers, which is populist, not progressive. Still, the 'greedy corporation' framing codes as woke in the current landscape."
+      },
+      {
+        "id": "WOKE-004",
+        "name": "Science as Salvation",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 2.1,
+        "analysis": "The film's central plot is Kate developing a chemical solution (sodium polyacrylate beads combined with silver iodide) to literally stop tornadoes. This positions science and human ingenuity as the answer to natural disasters. Some conservative viewers may find the 'we can engineer our way out of nature's wrath' premise hubristic, and critics noted the film promotes 'magical thinking' about weather manipulation. However, the film treats this as aspirational heroism rather than settled ideology. Kate's experiment fails multiple times before it works, and the triumph is presented as scrappy innovation, not institutional science. The framing is closer to American ingenuity than progressive scientism."
+      },
+      {
+        "id": "WOKE-005",
+        "name": "Trauma Processing as Character Arc",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 1.96,
+        "analysis": "Kate's character arc is defined by overcoming the PTSD from the opening disaster. She has panic attacks. She retreated to a desk job in New York. Her journey is returning to Oklahoma, facing her fear, and chasing storms again. This 'processing trauma' arc has become a hallmark of modern Hollywood storytelling and is sometimes associated with progressive therapeutic culture. However, the film resolves it through action, not therapy. Kate does not see a counselor. She does not have a breakthrough in conversation. She overcomes her fear by driving into a tornado. That is about as traditional as trauma resolution gets."
+      },
+      {
+        "id": "TRAD-001",
+        "name": "Heartland Pride / Rural America Celebration",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "analysis": "This is the film's dominant ideological signal. Twisters loves Oklahoma. It loves the farms, the rodeos, the small towns, the people who rebuild after every storm. The film was shot entirely on location in Oklahoma. Director Chung grew up in rural Arkansas and brought personal understanding of these communities to the screen. Glen Powell's Tyler represents heartland values: self-reliance, service, community, and zero pretension. The film contrasts this favorably with the corporate, credential-obsessed Storm Par team. When Kate returns to her mother's farm in Sapulpa, it is framed as coming home, not as going backwards. Rural America is presented as beautiful, resilient, and worthy of Hollywood's attention. Powell himself said the film represents 'an underserved part of America.' This is the most deliberately traditional element in any major 2024 release."
+      },
+      {
+        "id": "TRAD-002",
+        "name": "Traditional Male Heroism",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "analysis": "Tyler Owens is an unambiguously heroic man in a Hollywood landscape that has spent the last decade deconstructing and qualifying male heroism. He is brave, competent, funny, and selfless. He drives into tornadoes not for glory but to help people. He donates his YouTube money to tornado victims. He follows Kate to her mother's farm not to pressure her but to support her. When his leg is trapped by debris in the climax, Kate and Javi save him, but this moment of vulnerability does not undermine his masculinity. It reinforces the film's theme that courage means putting yourself at risk for others. Tyler is the kind of male character that conservative audiences have been starving for: a good man played straight, without apology or asterisk."
+      },
+      {
+        "id": "TRAD-003",
+        "name": "Deliberate Omission of Climate Change",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "analysis": "In a movie about extreme weather released in 2024, the words 'climate change' are never spoken. This is not an oversight. Director Chung specifically told interviewers he wanted to avoid preaching. The omission drove progressive media into a frenzy: CNN, NYT, MSNBC, Salon, The Verge, and Paste Magazine all ran critical pieces. The intensity of their reaction confirms that the omission was noticed, was deliberate, and was significant. For conservative viewers, the absence of climate lecturing is the single most refreshing thing about the film. It allows the story to be about human courage versus nature's power without layering on political guilt. This scores as a major traditional signal because it represents a deliberate, public rejection of Hollywood's progressive consensus on climate messaging."
+      },
+      {
+        "id": "TRAD-004",
+        "name": "Community Resilience and Mutual Aid",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.78,
+        "analysis": "When tornadoes destroy towns, the film shows communities coming together to rebuild. Tyler's crew arrives in Crystal Springs after the storm to help recovery efforts, distributing supplies bought with merch money. Kate and Javi help evacuate El Reno. The film treats community response to disaster as organic and voluntary, not government-directed. Nobody calls FEMA. Nobody waits for Washington. People help their neighbors because that is what you do. This is a distinctly conservative vision of community resilience rooted in local mutual aid rather than institutional response."
+      },
+      {
+        "id": "TRAD-005",
+        "name": "Anti-Elitism / Credentialism Critique",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "analysis": "The film draws a clear contrast between Tyler's self-taught, experiential approach to storm chasing and Storm Par's credential-heavy, corporate-funded approach. Tyler's crew does not have PhDs. They have guts, ingenuity, and a modified truck. The script goes out of its way to tell us the 'blue team' is Ivy League educated, while the 'red team' learned by doing. The film ultimately validates both approaches, with Kate's scientific knowledge and Tyler's practical courage working together, but the emotional weight is firmly on Tyler's side. The film suggests that institutional credentials without moral purpose are hollow, and that practical wisdom earned through experience is equally valid. This is a populist, anti-credentialist message that resonates strongly with conservative audiences."
+      },
+      {
+        "id": "TRAD-006",
+        "name": "Returning Home as Moral Compass",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.12,
+        "analysis": "Kate's arc is literally about going home. She left Oklahoma for New York after her trauma. The film codes New York as exile and Oklahoma as belonging. When she visits her mother's farm, the camera lingers on open fields and quiet mornings. When she decides to stay, it is framed as a homecoming, not a sacrifice. The closing montage shows Kate, Tyler, and Javi building their new business in Oklahoma. Home wins. The big city was never where Kate belonged. This is a deeply traditional narrative structure rooted in the idea that your people and your land are where you find meaning."
+      }
+    ],
     "seo": {
-      "titleTag": "Is Twisters (2024) Woke? | VirtueVigil",
-      "metaDescription": "VirtueVigil review of Twisters (2024). Woke Score 7, Traditional Score 26. Verdict: TRADITIONAL -- one of the least woke blockbusters of 2024.",
-      "keywords": "twisters 2024, is twisters woke, twisters review, glen powell, lee isaac chung, virtuevigil"
-    },
-    "wokeTrap": false
+      "titleTag": "Is Twisters Woke? | VirtueVigil Review & Scoring",
+      "metaDescription": "VirtueVigil's woke content review of Twisters (2024) starring Glen Powell and Daisy Edgar-Jones. TRADITIONAL verdict with +15 margin. No climate change mention, heartland pride, old-school heroism. Full VVWS scoring, trope audit, parental guidance, and creative team analysis.",
+      "keywords": [
+        "Twisters woke",
+        "is Twisters woke",
+        "Twisters review",
+        "Twisters conservative review",
+        "VirtueVigil",
+        "Glen Powell Twisters",
+        "Twisters climate change",
+        "Twisters no climate change",
+        "Twisters parents guide",
+        "Twisters Oklahoma",
+        "woke movie review",
+        "VVWS score",
+        "Twisters woke score",
+        "conservative movie review 2024",
+        "Lee Isaac Chung Twisters",
+        "Twisters heartland America"
+      ]
+    }
   },
   {
     "id": "white-lotus-s3",
