@@ -36,6 +36,18 @@
     "poster": "/images/posters/alto-knights-2025.jpg"
   },
   {
+    "slug": "drop-2025",
+    "title": "Drop",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Thriller/Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 5.6,
+    "tradScore": 10.5,
+    "poster": "/images/posters/drop-2025.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
