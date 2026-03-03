@@ -96,6 +96,18 @@
     "poster": "/images/posters/furiosa-a-mad-max-saga-2024.jpg"
   },
   {
+    "slug": "am-i-racist-2024",
+    "title": "Am I Racist?",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical / DailyWire+",
+    "genre": "Documentary/Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 3.7,
+    "tradScore": 33.81,
+    "poster": "/images/posters/am-i-racist-2024.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
