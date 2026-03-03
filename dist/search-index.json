@@ -24,6 +24,18 @@
     "poster": "/images/posters/ne-zha-2-2025.jpg"
   },
   {
+    "slug": "alto-knights-2025",
+    "title": "The Alto Knights",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Crime/Drama/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2.1,
+    "tradScore": 13.58,
+    "poster": "/images/posters/alto-knights-2025.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
