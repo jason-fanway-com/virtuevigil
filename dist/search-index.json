@@ -2,7 +2,7 @@
   {
     "slug": "joker-folie-a-deux-2024",
     "title": "Joker: Folie a Deux",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Musical/Drama/Thriller",
     "year": 2024,
@@ -182,7 +182,7 @@
   {
     "slug": "speak-no-evil-2024",
     "title": "Speak No Evil",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical / Peacock",
     "genre": "Horror/Thriller",
     "year": 2024,
@@ -194,7 +194,7 @@
   {
     "slug": "the-amateur-2025",
     "title": "The Amateur",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Action/Thriller/Spy",
     "year": 2025,
@@ -237,7 +237,7 @@
     "type": "film",
     "wokeScore": 1,
     "tradScore": 21.88,
-    "poster": "/images/posters/solo-mio-2026.jpg"
+    "poster": null
   },
   {
     "slug": "wuthering-heights-2026",
@@ -261,7 +261,7 @@
     "type": "film",
     "wokeScore": 5.25,
     "tradScore": 28.2,
-    "poster": "/images/posters/peaky-blinders-the-immortal-man-2026.jpg"
+    "poster": null
   },
   {
     "slug": "the-super-mario-galaxy-movie-2026",
@@ -273,12 +273,12 @@
     "type": "film",
     "wokeScore": 6.4,
     "tradScore": 16.35,
-    "poster": "/images/posters/the-super-mario-galaxy-movie-2026.jpg"
+    "poster": null
   },
   {
     "slug": "black-bag-2025",
     "title": "Black Bag",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Spy Thriller/Drama/Mystery",
     "year": 2025,
@@ -410,7 +410,7 @@
   {
     "slug": "encanto-2021",
     "title": "Encanto",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical / Disney+",
     "genre": "Animation/Musical/Fantasy",
     "year": 2021,
@@ -626,7 +626,7 @@
   {
     "slug": "den-of-thieves-2-pantera-2025",
     "title": "Den of Thieves 2: Pantera",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Action/Crime",
     "year": 2025,
