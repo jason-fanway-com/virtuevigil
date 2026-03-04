@@ -144,6 +144,18 @@
     "poster": "/images/posters/wolf-man-2025.jpg"
   },
   {
+    "slug": "the-beekeeper-2024",
+    "title": "The Beekeeper",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 4.25,
+    "tradScore": 25.48,
+    "poster": "/images/posters/the-beekeeper-2024.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
