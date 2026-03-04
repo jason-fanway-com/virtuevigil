@@ -48,6 +48,18 @@
     "poster": "/images/posters/kraven-the-hunter-2024.jpg"
   },
   {
+    "slug": "we-live-in-time-2024",
+    "title": "We Live in Time",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / A24",
+    "genre": "Romance/Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 8.8,
+    "tradScore": 13.44,
+    "poster": "/images/posters/we-live-in-time-2024.jpg"
+  },
+  {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2",
     "verdict": "TRADITIONAL",
