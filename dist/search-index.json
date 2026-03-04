@@ -120,6 +120,30 @@
     "poster": "/images/posters/paddington-in-peru-2025.jpg"
   },
   {
+    "slug": "elio-2025",
+    "title": "Elio",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Animation/Sci-Fi/Adventure",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 18,
+    "tradScore": 24,
+    "poster": "/images/posters/elio-2025.jpg"
+  },
+  {
+    "slug": "scary-movie-6-2026",
+    "title": "Scary Movie 6",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Horror Parody/Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 8.4,
+    "tradScore": 14.7,
+    "poster": "/images/posters/scary-movie-6-2026.jpg"
+  },
+  {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2",
     "verdict": "TRADITIONAL",
