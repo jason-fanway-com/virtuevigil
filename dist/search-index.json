@@ -168,6 +168,18 @@
     "poster": "/images/posters/karate-kid-legends-2025.jpg"
   },
   {
+    "slug": "ballerina-2025",
+    "title": "From the World of John Wick: Ballerina",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 11.28,
+    "tradScore": 18.76,
+    "poster": "/images/posters/ballerina-2025.jpg"
+  },
+  {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2",
     "verdict": "TRADITIONAL",
