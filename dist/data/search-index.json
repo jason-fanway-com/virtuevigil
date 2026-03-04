@@ -156,6 +156,18 @@
     "poster": "/images/posters/f1-2025.jpg"
   },
   {
+    "slug": "karate-kid-legends-2025",
+    "title": "Karate Kid: Legends",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Drama/Family",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3.15,
+    "tradScore": 26.32,
+    "poster": "/images/posters/karate-kid-legends-2025.jpg"
+  },
+  {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2",
     "verdict": "TRADITIONAL",
