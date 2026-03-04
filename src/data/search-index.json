@@ -12,6 +12,18 @@
     "poster": "/images/posters/aquaman-and-the-lost-kingdom-2023.jpg"
   },
   {
+    "slug": "maxxxine-2024",
+    "title": "MaXXXine",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Horror/Crime",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 32,
+    "tradScore": 14,
+    "poster": "/images/posters/maxxxine-2024.jpg"
+  },
+  {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2",
     "verdict": "TRADITIONAL",
