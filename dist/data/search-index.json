@@ -1,5 +1,17 @@
 [
   {
+    "slug": "aquaman-and-the-lost-kingdom-2023",
+    "title": "Aquaman and the Lost Kingdom",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Action/Superhero/Fantasy",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 31.2,
+    "tradScore": 18.9,
+    "poster": "/images/posters/aquaman-and-the-lost-kingdom-2023.jpg"
+  },
+  {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2",
     "verdict": "TRADITIONAL",
