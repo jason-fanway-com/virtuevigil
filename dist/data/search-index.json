@@ -36,6 +36,18 @@
     "poster": "/images/posters/rebel-moon-part-two-the-scargiver-2024.jpg"
   },
   {
+    "slug": "kraven-the-hunter-2024",
+    "title": "Kraven the Hunter",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / Netflix",
+    "genre": "Action/Superhero",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 5.4,
+    "tradScore": 11.2,
+    "poster": "/images/posters/kraven-the-hunter-2024.jpg"
+  },
+  {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2",
     "verdict": "TRADITIONAL",
