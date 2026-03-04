@@ -84,6 +84,42 @@
     "poster": "/images/posters/bridgerton-s4-2026.jpg"
   },
   {
+    "slug": "the-monkey-2025",
+    "title": "The Monkey",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Horror/Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 14,
+    "tradScore": 22,
+    "poster": "/images/posters/the-monkey-2025.jpg"
+  },
+  {
+    "slug": "night-agent-s3-2026",
+    "title": "The Night Agent: Season 3",
+    "verdict": "MIXED",
+    "platform": "Netflix",
+    "genre": "Action/Political Thriller",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 22,
+    "tradScore": 38,
+    "poster": "/images/posters/night-agent-s3-2026.jpg"
+  },
+  {
+    "slug": "paddington-in-peru-2025",
+    "title": "Paddington in Peru",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Adventure/Comedy/Family",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8.4,
+    "tradScore": 22.5,
+    "poster": "/images/posters/paddington-in-peru-2025.jpg"
+  },
+  {
     "slug": "inside-out-2-2024",
     "title": "Inside Out 2",
     "verdict": "TRADITIONAL",
