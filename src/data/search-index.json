@@ -156,6 +156,18 @@
     "poster": "/images/posters/the-beekeeper-2024.jpg"
   },
   {
+    "slug": "borderlands-2024",
+    "title": "Borderlands",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi/Action/Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 17.5,
+    "tradScore": 8.26,
+    "poster": "/images/posters/borderlands-2024.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
