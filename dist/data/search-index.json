@@ -168,6 +168,18 @@
     "poster": "/images/posters/borderlands-2024.jpg"
   },
   {
+    "slug": "mean-girls-2024",
+    "title": "Mean Girls",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Musical/Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 15.9,
+    "tradScore": 9.6,
+    "poster": "/images/posters/mean-girls-2024.jpg"
+  },
+  {
     "slug": "it-ends-with-us-2024",
     "title": "It Ends with Us",
     "verdict": "TRADITIONAL LEAN",
