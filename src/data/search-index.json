@@ -1,5 +1,41 @@
 [
   {
+    "slug": "hamnet-2025",
+    "title": "Hamnet",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Biography/Drama/Period",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 16.95,
+    "tradScore": 18.06,
+    "poster": "/images/posters/hamnet-2025.jpg"
+  },
+  {
+    "slug": "bugonia-2025",
+    "title": "Bugonia",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Black Comedy / Sci-Fi Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 19.85,
+    "tradScore": 16.68,
+    "poster": "/images/posters/bugonia-2025.jpg"
+  },
+  {
+    "slug": "sentimental-value-2025",
+    "title": "Sentimental Value",
+    "verdict": "NEUTRAL",
+    "platform": "Theatrical",
+    "genre": "Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 15.2,
+    "tradScore": 22.4,
+    "poster": "/images/posters/sentimental-value-2025.jpg"
+  },
+  {
     "slug": "the-secret-agent-2025",
     "title": "The Secret Agent",
     "verdict": "MIXED",
