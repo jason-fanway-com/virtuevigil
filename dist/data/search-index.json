@@ -12,6 +12,18 @@
     "poster": "/images/posters/the-secret-agent-2025.jpg"
   },
   {
+    "slug": "train-dreams-2025",
+    "title": "Train Dreams",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Period Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 5.3,
+    "tradScore": 20.6,
+    "poster": "/images/posters/train-dreams-2025.jpg"
+  },
+  {
     "slug": "white-lotus-s3-2025",
     "title": "The White Lotus: Season 3",
     "verdict": "WOKE LEAN",
