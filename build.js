@@ -1763,7 +1763,7 @@ function buildOscars2026Page() {
     { title: 'Sinners', slug: 'sinners-2025', nominations: 16, note: 'Most nominated film in Oscar history' },
     { title: 'Hamnet', slug: 'hamnet-2025', nominations: 8 },
     { title: 'One Battle After Another', slug: 'one-battle-after-another-2025', nominations: 7 },
-    { title: 'Frankenstein', slug: null, nominations: 7 },
+    { title: 'Frankenstein', slug: 'frankenstein-2025', nominations: 7 },
     { title: 'Marty Supreme', slug: 'marty-supreme-2025', nominations: 6 },
     { title: 'Sentimental Value', slug: 'sentimental-value-2025', nominations: 5 },
     { title: 'Bugonia', slug: 'bugonia-2025', nominations: 3 },
