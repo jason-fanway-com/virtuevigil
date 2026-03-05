@@ -60,6 +60,18 @@
     "poster": "/images/posters/train-dreams-2025.jpg"
   },
   {
+    "slug": "frankenstein-2025",
+    "title": "Frankenstein",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Gothic/Science Fiction/Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 11.66,
+    "tradScore": 20.86,
+    "poster": "/images/posters/frankenstein-2025.jpg"
+  },
+  {
     "slug": "white-lotus-s3-2025",
     "title": "The White Lotus: Season 3",
     "verdict": "WOKE LEAN",
