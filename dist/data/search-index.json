@@ -72,6 +72,30 @@
     "poster": "/images/posters/nobody-2-2025.jpg"
   },
   {
+    "slug": "peaky-blinders-the-immortal-man-2026",
+    "title": "Peaky Blinders: The Immortal Man",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical / Netflix",
+    "genre": "Crime/Drama/History",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5,
+    "tradScore": 28,
+    "poster": "/images/posters/peaky-blinders-the-immortal-man-2026.jpg"
+  },
+  {
+    "slug": "hoppers-2026",
+    "title": "Hoppers",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Animation/Sci-Fi/Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 16,
+    "tradScore": 18,
+    "poster": "/images/posters/hoppers-2026.jpg"
+  },
+  {
     "slug": "project-hail-mary-2026",
     "title": "Project Hail Mary",
     "verdict": "TRADITIONAL LEAN",
@@ -94,6 +118,18 @@
     "wokeScore": 16.85,
     "tradScore": 11.2,
     "poster": "/images/posters/ready-or-not-2-here-i-come-2026.jpg"
+  },
+  {
+    "slug": "war-machine-2026",
+    "title": "War Machine",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Sci-Fi/Action/Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 22,
+    "poster": "/images/posters/war-machine-2026.jpg"
   },
   {
     "slug": "hamnet-2025",
@@ -766,18 +802,6 @@
     "wokeScore": 20,
     "tradScore": 13.88,
     "poster": "/images/posters/wuthering-heights-2026.jpg"
-  },
-  {
-    "slug": "peaky-blinders-the-immortal-man-2026",
-    "title": "Peaky Blinders: The Immortal Man",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theatrical / Netflix",
-    "genre": "Crime/Drama/History",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 5.25,
-    "tradScore": 28.2,
-    "poster": "/images/posters/peaky-blinders-the-immortal-man-2026.jpg"
   },
   {
     "slug": "the-super-mario-galaxy-movie-2026",
@@ -2038,18 +2062,6 @@
     "wokeScore": 5,
     "tradScore": 22,
     "poster": "/images/posters/project-hail-mary.jpg"
-  },
-  {
-    "slug": "hoppers-2026",
-    "title": "Hoppers (2026)",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Drama",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 14,
-    "tradScore": 16,
-    "poster": "/images/posters/hoppers-2026.jpg"
   },
   {
     "slug": "ready-or-not-2",

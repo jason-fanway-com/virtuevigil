@@ -67,6 +67,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/peaky-blinders-the-immortal-man-2026/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/reviews/hoppers-2026/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/project-hail-mary-2026/</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -74,6 +86,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/reviews/ready-or-not-2-here-i-come-2026/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/reviews/war-machine-2026/</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -410,12 +428,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/reviews/wuthering-heights-2026/</loc>
-    <lastmod>2026-03-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/reviews/peaky-blinders-the-immortal-man-2026/</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1051,12 +1063,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://virtuevigil.com/reviews/hoppers-2026/</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://virtuevigil.com/reviews/ready-or-not-2/</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -1411,6 +1417,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/category/crime/drama/history/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/animation/sci-fi/comedy/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/category/sci-fi/adventure/drama/</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -1418,6 +1436,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/horror/comedy/thriller/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/sci-fi/action/thriller/</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1706,12 +1730,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/drama/romance/</loc>
-    <lastmod>2026-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/category/crime/drama/history/</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
