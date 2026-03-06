@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-optimist-2026",
+    "title": "The Optimist: The Bravest Act Is Truth",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (Limited)",
+    "genre": "Drama/Biography",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.01,
+    "tradScore": 24.82,
+    "poster": "/images/posters/the-optimist-2026.jpg"
+  },
+  {
+    "slug": "reminders-of-him-2026",
+    "title": "Reminders of Him",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Romance/Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 14.61,
+    "tradScore": 16.08,
+    "poster": "/images/posters/reminders-of-him-2026.jpg"
+  },
+  {
+    "slug": "nobody-2-2025",
+    "title": "Nobody 2",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / Netflix (March 14, 2026)",
+    "genre": "Action/Thriller/Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8.96,
+    "tradScore": 15.12,
+    "poster": "/images/posters/nobody-2-2025.jpg"
+  },
+  {
     "slug": "hamnet-2025",
     "title": "Hamnet",
     "verdict": "MIXED",
