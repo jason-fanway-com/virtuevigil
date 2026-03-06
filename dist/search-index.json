@@ -1,5 +1,41 @@
 [
   {
+    "slug": "david-2025",
+    "title": "David",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical / Angel Studios",
+    "genre": "Animation/Musical/Biblical Epic",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 28,
+    "poster": "/images/posters/david-2025.jpg"
+  },
+  {
+    "slug": "song-sung-blue-2025",
+    "title": "Song Sung Blue",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Biography/Musical/Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 20,
+    "poster": "/images/posters/song-sung-blue-2025.jpg"
+  },
+  {
+    "slug": "primate-2025",
+    "title": "Primate",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Horror/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 10,
+    "tradScore": 12,
+    "poster": "/images/posters/primate-2025.jpg"
+  },
+  {
     "slug": "the-optimist-2026",
     "title": "The Optimist: The Bravest Act Is Truth",
     "verdict": "STRONGLY TRADITIONAL",
@@ -2374,6 +2410,18 @@
     "wokeScore": 7,
     "tradScore": 28,
     "poster": "/images/posters/tar-2022.jpg"
+  },
+  {
+    "slug": "captain-america-brave-new-world",
+    "title": "Captain America: Brave New World",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Action, Superhero",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 5,
+    "poster": "/images/posters/captain-america-brave-new-world.jpg"
   },
   {
     "slug": "snow-white-2025",
