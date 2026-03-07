@@ -48,6 +48,18 @@
     "poster": "/images/posters/spider-man-no-way-home-2021.jpg"
   },
   {
+    "slug": "five-nights-at-freddys-2023",
+    "title": "Five Nights at Freddy's",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Peacock",
+    "genre": "Horror/Thriller",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 2.5,
+    "tradScore": 14.35,
+    "poster": "/images/posters/five-nights-at-freddys-2023.jpg"
+  },
+  {
     "slug": "the-room-next-door-2024",
     "title": "The Room Next Door",
     "verdict": "WOKE LEAN",

@@ -55,6 +55,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/five-nights-at-freddys-2023/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/the-room-next-door-2024/</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1435,6 +1441,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/category/horror/thriller/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/category/drama/</loc>
     <lastmod>2026-03-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1454,12 +1466,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/biography/musical/drama/</loc>
-    <lastmod>2026-03-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/category/horror/thriller/</loc>
     <lastmod>2026-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
