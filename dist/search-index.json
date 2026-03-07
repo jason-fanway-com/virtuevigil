@@ -1,5 +1,29 @@
 [
   {
+    "slug": "the-room-next-door-2024",
+    "title": "The Room Next Door",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 16,
+    "tradScore": 12,
+    "poster": "/images/posters/the-room-next-door-2024.jpg"
+  },
+  {
+    "slug": "better-man-2024",
+    "title": "Better Man",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Musical/Biography/Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 10,
+    "tradScore": 12,
+    "poster": "/images/posters/better-man-2024.jpg"
+  },
+  {
     "slug": "david-2025",
     "title": "David",
     "verdict": "STRONGLY TRADITIONAL",
@@ -94,6 +118,18 @@
     "wokeScore": 16,
     "tradScore": 18,
     "poster": "/images/posters/hoppers-2026.jpg"
+  },
+  {
+    "slug": "emilia-perez-2024",
+    "title": "Emilia Pérez",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Netflix",
+    "genre": "Musical/Crime/Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 28,
+    "tradScore": 6,
+    "poster": "/images/posters/emilia-perez-2024.jpg"
   },
   {
     "slug": "project-hail-mary-2026",
@@ -2290,18 +2326,6 @@
     "wokeScore": 5,
     "tradScore": 21,
     "poster": "/images/posters/good-luck-have-fun-dont-die.jpg"
-  },
-  {
-    "slug": "emilia-perez-2024",
-    "title": "Emilia Pérez",
-    "verdict": "WOKE",
-    "platform": "Netflix",
-    "genre": "Musical",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 31,
-    "tradScore": 18,
-    "poster": "/images/posters/emilia-perez-2024.jpg"
   },
   {
     "slug": "poor-things-2023",
