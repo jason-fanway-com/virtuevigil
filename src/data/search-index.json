@@ -24,6 +24,18 @@
     "poster": "/images/posters/the-bride-2026.jpg"
   },
   {
+    "slug": "the-batman-2022",
+    "title": "The Batman",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Max",
+    "genre": "Superhero/Crime/Neo-Noir",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 8,
+    "tradScore": 22.05,
+    "poster": "/images/posters/the-batman-2022.jpg"
+  },
+  {
     "slug": "the-room-next-door-2024",
     "title": "The Room Next Door",
     "verdict": "WOKE LEAN",
