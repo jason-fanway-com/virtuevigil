@@ -12,6 +12,18 @@
     "poster": "/images/posters/kpop-demon-hunters-2025.jpg"
   },
   {
+    "slug": "the-bride-2026",
+    "title": "The Bride!",
+    "verdict": "WOKE",
+    "platform": "Theatrical (IMAX)",
+    "genre": "Gothic Romance / Horror",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 22.1,
+    "tradScore": 8.4,
+    "poster": "/images/posters/the-bride-2026.jpg"
+  },
+  {
     "slug": "the-room-next-door-2024",
     "title": "The Room Next Door",
     "verdict": "WOKE LEAN",
@@ -2086,18 +2098,6 @@
     "wokeScore": 9,
     "tradScore": 14,
     "poster": "/images/posters/how-to-make-a-killing.jpg"
-  },
-  {
-    "slug": "the-bride-2026",
-    "title": "The Bride! (2026)",
-    "verdict": "WOKE",
-    "platform": "Theatrical",
-    "genre": "Horror",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 24,
-    "tradScore": 5,
-    "poster": "/images/posters/the-bride-2026.jpg"
   },
   {
     "slug": "project-hail-mary",
