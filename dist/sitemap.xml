@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/spider-man-no-way-home-2021/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/the-room-next-door-2024/</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1418,6 +1424,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/superhero/crime/neo-noir/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/superhero/action/science-fiction/</loc>
     <lastmod>2026-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

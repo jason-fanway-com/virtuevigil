@@ -36,6 +36,18 @@
     "poster": "/images/posters/the-batman-2022.jpg"
   },
   {
+    "slug": "spider-man-no-way-home-2021",
+    "title": "Spider-Man: No Way Home",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Disney+ / Netflix",
+    "genre": "Superhero/Action/Science Fiction",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 3.5,
+    "tradScore": 22.05,
+    "poster": "/images/posters/spider-man-no-way-home-2021.jpg"
+  },
+  {
     "slug": "the-room-next-door-2024",
     "title": "The Room Next Door",
     "verdict": "WOKE LEAN",
