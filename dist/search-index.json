@@ -12,6 +12,18 @@
     "poster": "/images/posters/the-gorge-2025.jpg"
   },
   {
+    "slug": "flight-risk-2025",
+    "title": "Flight Risk",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2.1,
+    "tradScore": 10.99,
+    "poster": "/images/posters/flight-risk-2025.jpg"
+  },
+  {
     "slug": "oscar-predictions-2026",
     "title": "VirtueVigil's 2026 Oscar Predictions: Who Wins, Who's Woke",
     "verdict": "MIXED",
