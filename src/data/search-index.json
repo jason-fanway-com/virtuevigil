@@ -12,6 +12,18 @@
     "poster": "/images/posters/song-sung-blue-2025.jpg"
   },
   {
+    "slug": "sentimental-value-2025",
+    "title": "Sentimental Value",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Family Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 16.64,
+    "tradScore": 23.59,
+    "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+  },
+  {
     "slug": "the-gorge-2025",
     "title": "The Gorge",
     "verdict": "TRADITIONAL LEAN",
@@ -334,18 +346,6 @@
     "wokeScore": 19.85,
     "tradScore": 16.68,
     "poster": "/images/posters/bugonia-2025.jpg"
-  },
-  {
-    "slug": "sentimental-value-2025",
-    "title": "Sentimental Value",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Drama",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 15.2,
-    "tradScore": 22.4,
-    "poster": "/images/posters/sentimental-value-2025.jpg"
   },
   {
     "slug": "the-secret-agent-2025",
