@@ -12,6 +12,18 @@
     "poster": "/images/posters/song-sung-blue-2025.jpg"
   },
   {
+    "slug": "hamnet-2025",
+    "title": "Hamnet",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Historical Drama/Period Film",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8.63,
+    "tradScore": 18.41,
+    "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+  },
+  {
     "slug": "bugonia-2025",
     "title": "Bugonia",
     "verdict": "STRONGLY WOKE",
@@ -334,18 +346,6 @@
     "wokeScore": 4,
     "tradScore": 22,
     "poster": "/images/posters/war-machine-2026.jpg"
-  },
-  {
-    "slug": "hamnet-2025",
-    "title": "Hamnet",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Biography/Drama/Period",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 16.95,
-    "tradScore": 18.06,
-    "poster": "/images/posters/hamnet-2025.jpg"
   },
   {
     "slug": "the-secret-agent-2025",
