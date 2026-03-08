@@ -7,7 +7,7 @@ plugins = []
 [functions."*"]
 
 [build]
-publish = "/private/tmp/virtuevigil/dist"
+publish = "/Users/joestrazza/virtuevigil/dist"
 publishOrigin = "config"
 commandOrigin = "config"
 command = "node build.js"

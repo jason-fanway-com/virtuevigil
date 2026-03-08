@@ -1,5 +1,17 @@
 [
   {
+    "slug": "oscar-predictions-2026",
+    "title": "VirtueVigil's 2026 Oscar Predictions: Who Wins, Who's Woke",
+    "verdict": "MIXED",
+    "platform": "98th Academy Awards",
+    "genre": "Awards Analysis",
+    "year": 2026,
+    "type": "article",
+    "wokeScore": 0,
+    "tradScore": 0,
+    "poster": "/images/posters/oscar-predictions-2026.jpg"
+  },
+  {
     "slug": "kpop-demon-hunters-2025",
     "title": "KPop Demon Hunters",
     "verdict": "WOKE LEAN",
@@ -58,6 +70,18 @@
     "wokeScore": 2.5,
     "tradScore": 14.35,
     "poster": "/images/posters/five-nights-at-freddys-2023.jpg"
+  },
+  {
+    "slug": "if-i-had-legs-id-kick-you-2025",
+    "title": "If I Had Legs I'd Kick You",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical (A24)",
+    "genre": "Drama / Dark Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 15.14,
+    "tradScore": 11.42,
+    "poster": "/images/posters/if-i-had-legs-id-kick-you-2025.jpg"
   },
   {
     "slug": "the-room-next-door-2024",
