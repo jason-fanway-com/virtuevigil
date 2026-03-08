@@ -96,6 +96,18 @@
     "poster": "/images/posters/the-ugly-stepsister-2025.jpg"
   },
   {
+    "slug": "blue-moon-2025",
+    "title": "Blue Moon",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Netflix",
+    "genre": "Biographical Comedy-Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 11.54,
+    "tradScore": 14.07,
+    "poster": "https://image.tmdb.org/t/p/w500/nij3i5ziQdqfiK29gb4rX1bkmVy.jpg"
+  },
+  {
     "slug": "oscar-predictions-2026",
     "title": "VirtueVigil's 2026 Oscar Predictions: Who Wins, Who's Woke",
     "verdict": "MIXED",
