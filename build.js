@@ -1792,8 +1792,8 @@ function buildOscars2026Page() {
     { name: 'Jessie Buckley', film: 'Hamnet', slug: 'hamnet-2025' },
     { name: 'Emma Stone', film: 'Bugonia', slug: 'bugonia-2025' },
     { name: 'Renate Reinsve', film: 'Sentimental Value', slug: 'sentimental-value-2025' },
-    { name: 'Rose Byrne', film: 'If I Had Legs I\'d Kick You', slug: null },
-    { name: 'Kate Hudson', film: 'Song Sung Blue', slug: null },
+    { name: 'Rose Byrne', film: 'If I Had Legs I\'d Kick You', slug: 'if-i-had-legs-id-kick-you-2025' },
+    { name: 'Kate Hudson', film: 'Song Sung Blue', slug: 'song-sung-blue-2025' },
   ];
 
   const reviewMap = {};
