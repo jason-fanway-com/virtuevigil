@@ -24,6 +24,18 @@
     "poster": "/images/posters/flight-risk-2025.jpg"
   },
   {
+    "slug": "until-dawn-2025",
+    "title": "Until Dawn",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Sony/Screen Gems)",
+    "genre": "Survival Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2.2,
+    "tradScore": 12.2,
+    "poster": "/images/posters/until-dawn-2025.jpg"
+  },
+  {
     "slug": "oscar-predictions-2026",
     "title": "VirtueVigil's 2026 Oscar Predictions: Who Wins, Who's Woke",
     "verdict": "MIXED",
