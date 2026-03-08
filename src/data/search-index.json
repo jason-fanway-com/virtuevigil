@@ -1,5 +1,17 @@
 [
   {
+    "slug": "song-sung-blue-2025",
+    "title": "Song Sung Blue",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Biography/Musical/Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3.6,
+    "tradScore": 22.54,
+    "poster": "/images/posters/song-sung-blue-2025.jpg"
+  },
+  {
     "slug": "the-gorge-2025",
     "title": "The Gorge",
     "verdict": "TRADITIONAL LEAN",
@@ -34,6 +46,18 @@
     "wokeScore": 2.2,
     "tradScore": 12.2,
     "poster": "/images/posters/until-dawn-2025.jpg"
+  },
+  {
+    "slug": "the-ugly-stepsister-2025",
+    "title": "The Ugly Stepsister",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Satirical Black Comedy/Body Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 18.12,
+    "tradScore": 11.24,
+    "poster": "/images/posters/the-ugly-stepsister-2025.jpg"
   },
   {
     "slug": "oscar-predictions-2026",
@@ -166,18 +190,6 @@
     "wokeScore": 2,
     "tradScore": 28,
     "poster": "/images/posters/david-2025.jpg"
-  },
-  {
-    "slug": "song-sung-blue-2025",
-    "title": "Song Sung Blue",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Biography/Musical/Drama",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 8,
-    "tradScore": 20,
-    "poster": "/images/posters/song-sung-blue-2025.jpg"
   },
   {
     "slug": "primate-2025",
