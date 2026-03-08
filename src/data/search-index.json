@@ -12,6 +12,18 @@
     "poster": "/images/posters/song-sung-blue-2025.jpg"
   },
   {
+    "slug": "bugonia-2025",
+    "title": "Bugonia",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Theatrical",
+    "genre": "Black Comedy/Sci-Fi Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 28.94,
+    "tradScore": 8.48,
+    "poster": "/images/posters/bugonia-2025.jpg"
+  },
+  {
     "slug": "sentimental-value-2025",
     "title": "Sentimental Value",
     "verdict": "TRADITIONAL LEAN",
@@ -334,18 +346,6 @@
     "wokeScore": 16.95,
     "tradScore": 18.06,
     "poster": "/images/posters/hamnet-2025.jpg"
-  },
-  {
-    "slug": "bugonia-2025",
-    "title": "Bugonia",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Black Comedy / Sci-Fi Thriller",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 19.85,
-    "tradScore": 16.68,
-    "poster": "/images/posters/bugonia-2025.jpg"
   },
   {
     "slug": "the-secret-agent-2025",
