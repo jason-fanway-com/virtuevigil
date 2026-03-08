@@ -84,6 +84,18 @@
     "poster": "/images/posters/if-i-had-legs-id-kick-you-2025.jpg"
   },
   {
+    "slug": "weapons-2025",
+    "title": "Weapons",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Warner Bros.)",
+    "genre": "Horror / Mystery / Supernatural",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 6.2,
+    "tradScore": 22.04,
+    "poster": "/images/posters/weapons-2025.jpg"
+  },
+  {
     "slug": "the-room-next-door-2024",
     "title": "The Room Next Door",
     "verdict": "WOKE LEAN",
