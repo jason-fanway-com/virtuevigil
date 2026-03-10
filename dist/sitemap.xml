@@ -49,6 +49,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/coyote-vs-acme-2026/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/reviews/people-we-meet-on-vacation-2026/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/im-still-here-2024/</loc>
     <lastmod>2026-03-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1519,6 +1531,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/category/animation/comedy/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/romantic-comedy/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/category/drama/biography/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -2090,12 +2114,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/family/adventure/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/category/animation/comedy/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

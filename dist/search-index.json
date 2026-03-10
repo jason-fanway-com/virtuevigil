@@ -36,6 +36,30 @@
     "poster": "/images/posters/avengers-endgame-2019.jpg"
   },
   {
+    "slug": "coyote-vs-acme-2026",
+    "title": "Coyote vs. Acme",
+    "verdict": "MILD TRAD",
+    "platform": "Theatrical",
+    "genre": "Animation/Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 9,
+    "tradScore": 16,
+    "poster": "/images/posters/coyote-vs-acme-2026.jpg"
+  },
+  {
+    "slug": "people-we-meet-on-vacation-2026",
+    "title": "People We Meet on Vacation",
+    "verdict": "MILD WOKE",
+    "platform": "Netflix",
+    "genre": "Romantic Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 14,
+    "tradScore": 11,
+    "poster": "/images/posters/people-we-meet-on-vacation-2026.jpg"
+  },
+  {
     "slug": "im-still-here-2024",
     "title": "I'm Still Here",
     "verdict": "TRADITIONAL LEAN",
