@@ -12,6 +12,18 @@
     "poster": "/images/posters/iron-man-2008.jpg"
   },
   {
+    "slug": "the-dark-knight-2008",
+    "title": "The Dark Knight",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Superhero / Crime Thriller",
+    "year": 2008,
+    "type": "film",
+    "wokeScore": 3.5,
+    "tradScore": 19.6,
+    "poster": "/images/posters/the-dark-knight-2008.jpg"
+  },
+  {
     "slug": "im-still-here-2024",
     "title": "I'm Still Here",
     "verdict": "TRADITIONAL LEAN",
