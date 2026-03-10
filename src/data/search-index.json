@@ -12,6 +12,18 @@
     "poster": "/images/posters/im-still-here-2024.jpg"
   },
   {
+    "slug": "nickel-boys-2024",
+    "title": "Nickel Boys",
+    "verdict": "WOKE",
+    "platform": "Theatrical (Orion Pictures / Amazon MGM Studios)",
+    "genre": "Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 21.84,
+    "tradScore": 8.74,
+    "poster": "/images/posters/nickel-boys-2024.jpg"
+  },
+  {
     "slug": "song-sung-blue-2025",
     "title": "Song Sung Blue",
     "verdict": "TRADITIONAL",
