@@ -458,7 +458,7 @@ function scorePanel(r) {
         <div class="score-panel">
           <div class="score-item"><div class="label">Woke Score</div><div class="value woke">${r.wokeScore}</div></div>
           <div class="score-item"><div class="label">Traditional Score</div><div class="value trad">${r.tradScore}</div></div>
-          <div class="score-item"><div class="label">Authenticity Index</div><div class="value auth">${r.authIndex}%</div></div>
+          <div class="score-item"><div class="label">Authenticity Index</div><div class="value auth">${r.authIndex != null ? r.authIndex + '%' : 'N/A'}</div></div>
           <div class="score-item"><div class="label">Score Margin</div><div class="value margin">${esc(r.scoreMargin)}</div></div>
         </div>`;
 }
@@ -906,7 +906,7 @@ function buildHomepage() {
             <div class="review-card-scores">
               <span class="mini-score woke">WOKE: ${r.wokeScore}</span>
               <span class="mini-score trad">TRAD: ${r.tradScore}</span>
-              <span class="mini-score" style="color:var(--accent-amber);">AUTH: ${r.authIndex}%</span>
+              <span class="mini-score" style="color:var(--accent-amber);">AUTH: ${r.authIndex != null ? r.authIndex + '%' : 'N/A'}</span>
             </div>
           </div>
         </div>
@@ -958,7 +958,7 @@ function buildReviewPage(r) {
     }, ogImage ? { "image": ogImage } : {}),
     "reviewRating": {
       "@type": "Rating",
-      "ratingValue": r.authIndex,
+      "ratingValue": r.authIndex != null ? r.authIndex : 0,
       "bestRating": 100,
       "worstRating": 0
     }
@@ -1140,7 +1140,7 @@ function buildCategoryPage(name, slug, categoryReviews) {
             <div class="review-card-scores">
               <span class="mini-score woke">WOKE: ${r.wokeScore}</span>
               <span class="mini-score trad">TRAD: ${r.tradScore}</span>
-              <span class="mini-score" style="color:var(--accent-amber);">AUTH: ${r.authIndex}%</span>
+              <span class="mini-score" style="color:var(--accent-amber);">AUTH: ${r.authIndex != null ? r.authIndex + '%' : 'N/A'}</span>
             </div>
           </div>
         </div>
@@ -1822,7 +1822,7 @@ function buildOscars2026Page() {
               <div style="display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap;">
                 <span style="background:rgba(196,64,64,0.15);color:#c44040;padding:3px 8px;border-radius:4px;font-size:0.7rem;font-weight:600;">WOKE: ${r.wokeScore}</span>
                 <span style="background:rgba(46,204,113,0.15);color:#2ecc71;padding:3px 8px;border-radius:4px;font-size:0.7rem;font-weight:600;">TRAD: ${r.tradScore}</span>
-                <span style="background:rgba(212,168,67,0.15);color:#d4a843;padding:3px 8px;border-radius:4px;font-size:0.7rem;font-weight:600;">AUTH: ${r.authIndex}%</span>
+                <span style="background:rgba(212,168,67,0.15);color:#d4a843;padding:3px 8px;border-radius:4px;font-size:0.7rem;font-weight:600;">AUTH: ${r.authIndex != null ? r.authIndex + '%' : 'N/A'}</span>
               </div>
               <a href="/reviews/${r.slug}/" style="color:#c9a84c;font-size:0.85rem;font-weight:600;text-decoration:none;margin-top:auto;">Read Full Review <i class="fas fa-arrow-right" style="font-size:0.7rem;"></i></a>
             </div>
