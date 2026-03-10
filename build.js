@@ -175,7 +175,8 @@ function htmlHead({ title, description, keywords, canonical, ogType, ogImage, st
   <meta property="og:locale" content="en_US">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@virtuevigil">
+  <meta name="twitter:site" content="@Debra_Ducane">
+  <meta name="twitter:creator" content="@Debra_Ducane">
   <meta name="twitter:title" content="${esc(title)}">
   <meta name="twitter:description" content="${esc(description)}">
   <meta name="twitter:image" content="${ogImage || `${SITE_URL}/images/og-default.png`}">
@@ -941,7 +942,9 @@ function buildReviewPage(r) {
   const desc = seo.metaDescription || `VirtueVigil review of ${r.title}. Woke Score ${r.wokeScore}, Traditional ${r.tradScore}.`;
   const kw = seo.keywords || '';
   const canonical = `${SITE_URL}/reviews/${r.slug}/`;
-  const ogImage = (r.poster && r.poster.startsWith('http')) ? r.poster : undefined;
+  const ogImage = r.poster
+    ? (r.poster.startsWith('http') ? r.poster : `${SITE_URL}${r.poster}`)
+    : undefined;
 
   const structuredData = {
     "@context": "https://schema.org",
@@ -971,7 +974,7 @@ function buildReviewPage(r) {
 
   const reviewBreadcrumbs = breadcrumbLD([
     { name: 'Home', url: SITE_URL },
-    { name: 'Reviews', url: `${SITE_URL}/` },
+    { name: 'Reviews', url: `${SITE_URL}/reviews/` },
     { name: r.title, url: canonical }
   ]);
 
@@ -998,7 +1001,7 @@ function buildReviewPage(r) {
                 <span class="verdict-badge ${vc}"><i class="fas fa-${verdictIcon(vc)}"></i> ${esc(r.verdict)}</span>
                 ${hasTrap ? '<span class="verdict-badge trap"><i class="fas fa-eye-slash"></i> WOKE TRAP DETECTED</span>' : ''}
               </div>
-              <h2 class="review-title" itemprop="name">${esc(r.title)}</h2>
+              <h1 class="review-title" itemprop="name">${esc(r.title)}</h1>
               <p class="review-subtitle" itemprop="description">${esc(firstParagraph(r.summary.overall, 300))}</p>
               <a href="#review-body" class="review-scroll-cue"><i class="fas fa-chevron-down"></i> Full analysis below</a>
               <div class="featured-meta">
