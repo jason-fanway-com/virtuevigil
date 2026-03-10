@@ -24,6 +24,18 @@
     "poster": "/images/posters/the-dark-knight-2008.jpg"
   },
   {
+    "slug": "avengers-endgame-2019",
+    "title": "Avengers: Endgame",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Superhero / Action / Sci-Fi",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 10.54,
+    "tradScore": 13.65,
+    "poster": "/images/posters/avengers-endgame-2019.jpg"
+  },
+  {
     "slug": "im-still-here-2024",
     "title": "I'm Still Here",
     "verdict": "TRADITIONAL LEAN",
