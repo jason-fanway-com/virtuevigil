@@ -1,5 +1,17 @@
 [
   {
+    "slug": "inception-2010",
+    "title": "Inception",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi Thriller",
+    "year": 2010,
+    "type": "film",
+    "wokeScore": 2.9,
+    "tradScore": 20.44,
+    "poster": "/images/posters/inception-2010.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
