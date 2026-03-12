@@ -79,6 +79,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/guardians-of-the-galaxy-2014/</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/iron-man-2008/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -1604,6 +1610,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/superhero-/-action-drama/</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/superhero-/-sci-fi-adventure/</loc>
     <lastmod>2026-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

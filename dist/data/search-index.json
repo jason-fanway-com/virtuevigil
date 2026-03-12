@@ -96,6 +96,18 @@
     "poster": "/images/posters/captain-america-civil-war-2016.jpg"
   },
   {
+    "slug": "guardians-of-the-galaxy-2014",
+    "title": "Guardians of the Galaxy",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Superhero / Sci-Fi Adventure",
+    "year": 2014,
+    "type": "film",
+    "wokeScore": 5.82,
+    "tradScore": 21.28,
+    "poster": "/images/posters/guardians-of-the-galaxy-2014.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
