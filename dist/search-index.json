@@ -60,6 +60,18 @@
     "poster": "/images/posters/cabrini-2024.jpg"
   },
   {
+    "slug": "ghostbusters-frozen-empire-2024",
+    "title": "Ghostbusters: Frozen Empire",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / Max",
+    "genre": "Action / Comedy / Supernatural",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 6,
+    "tradScore": 10,
+    "poster": "/images/posters/ghostbusters-frozen-empire-2024.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
