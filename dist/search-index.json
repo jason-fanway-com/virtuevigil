@@ -24,6 +24,18 @@
     "poster": "/images/posters/joker-2019.jpg"
   },
   {
+    "slug": "interstellar-2014",
+    "title": "Interstellar",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi Drama",
+    "year": 2014,
+    "type": "film",
+    "wokeScore": 7.72,
+    "tradScore": 23.16,
+    "poster": "/images/posters/interstellar-2014.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
