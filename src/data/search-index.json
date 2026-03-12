@@ -84,6 +84,18 @@
     "poster": "/images/posters/thor-ragnarok-2017.jpg"
   },
   {
+    "slug": "captain-america-civil-war-2016",
+    "title": "Captain America: Civil War",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Superhero / Action Drama",
+    "year": 2016,
+    "type": "film",
+    "wokeScore": 9.96,
+    "tradScore": 17.64,
+    "poster": "/images/posters/captain-america-civil-war-2016.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
