@@ -12,6 +12,18 @@
     "poster": "/images/posters/inception-2010.jpg"
   },
   {
+    "slug": "joker-2019",
+    "title": "Joker",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Crime Drama / Psychological Thriller",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 13.05,
+    "tradScore": 13.6,
+    "poster": "/images/posters/joker-2019.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
