@@ -48,6 +48,18 @@
     "poster": "/images/posters/kung-fu-panda-4-2024.jpg"
   },
   {
+    "slug": "cabrini-2024",
+    "title": "Cabrini",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Angel Studios",
+    "genre": "Biographical Drama / Faith / History",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 15,
+    "poster": "/images/posters/cabrini-2024.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
