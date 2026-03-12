@@ -156,6 +156,18 @@
     "poster": "/images/posters/avatar-2009.jpg"
   },
   {
+    "slug": "titanic-1997",
+    "title": "Titanic",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Drama / Romance / Disaster",
+    "year": 1997,
+    "type": "film",
+    "wokeScore": 18.54,
+    "tradScore": 13.65,
+    "poster": "/images/posters/titanic-1997.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
