@@ -144,6 +144,18 @@
     "poster": "/images/posters/captain-marvel-2019.jpg"
   },
   {
+    "slug": "avatar-2009",
+    "title": "Avatar",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi / Action / Adventure",
+    "year": 2009,
+    "type": "film",
+    "wokeScore": 26.14,
+    "tradScore": 13.6,
+    "poster": "/images/posters/avatar-2009.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
