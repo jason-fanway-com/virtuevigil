@@ -54462,5 +54462,202 @@
         "comparison": "Gunn's DC equivalent, with a darker and more violent tone. The Suicide Squad shows what Guardians looks like when the commercial constraints are loosened and Gunn's more transgressive instincts are given fuller expression. It scores TRADITIONAL LEAN, pulling back from Guardians' TRADITIONAL due to more cynical institutional critique and graphic violence. A useful comparison for understanding how much the MCU's family-friendly mandate shaped Guardians' tonal restraint."
       }
     ]
+  },
+  {
+    "id": "doctor-strange-2016",
+    "slug": "doctor-strange-2016",
+    "title": "Doctor Strange",
+    "year": 2016,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Superhero / Fantasy",
+    "date": "2026-03-12",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "9 min",
+    "poster": "/images/posters/doctor-strange-2016.jpg",
+    "releaseDate": "2016-11-04",
+    "rating": "PG-13",
+    "runtime": "115 min",
+    "director": "Scott Derrickson",
+    "writers": [
+      "Jon Spaihts",
+      "Scott Derrickson",
+      "C. Robert Cargill"
+    ],
+    "cast": [
+      "Benedict Cumberbatch as Dr. Stephen Strange",
+      "Chiwetel Ejiofor as Karl Mordo",
+      "Rachel McAdams as Dr. Christine Palmer",
+      "Benedict Wong as Wong",
+      "Mads Mikkelsen as Kaecilius",
+      "Tilda Swinton as The Ancient One",
+      "Michael Stuhlbarg as Dr. Nicodemus West"
+    ],
+    "studio": "Marvel Studios",
+    "distributor": "Walt Disney Pictures",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 5.35,
+    "tradScore": 14.0,
+    "scoreMargin": "+9 TRAD",
+    "preRelease": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. Doctor Strange markets itself as a mind-bending origin story about a brilliant surgeon who discovers magic. That is exactly what you get. The Ancient One controversy (casting Tilda Swinton in a traditionally Tibetan role) was a pre-release media story, not something hidden inside the film. The movie does not lecture. The female mentor is present and powerful, but the film does not frame Strange's training as feminist corrective. Conservative audiences who enjoy well-crafted origin stories will find this comfortable viewing with no bait-and-switch."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Scott Derrickson",
+        "ideology": "CONSERVATIVE / CHRISTIAN. Derrickson is one of the few openly Christian directors working in mainstream Hollywood. He has spoken publicly about his faith, his interest in the intersection of the spiritual and the supernatural, and his belief that horror and fantasy genres can carry genuine moral weight. He directed The Exorcism of Emily Rose, Sinister, and Deliver Us From Evil before Doctor Strange. He is not an ideological propagandist, but his worldview is clearly conservative and traditionally religious. He left Doctor Strange 2 over creative differences with Marvel, which is telling.",
+        "profile": "Scott Derrickson is a horror and fantasy specialist with a background in Christian theology and philosophy. He attended Biola University, a Christian liberal arts college, and has spoken extensively about how his faith informs his filmmaking. His body of work consistently grapples with genuine evil, spiritual warfare, and the limits of secular materialism. Doctor Strange was his biggest budget project and arguably his most mainstream, but the film's core themes, namely the inadequacy of pure rationalism and the reality of forces beyond material science, are deeply consistent with his Christian worldview."
+      },
+      "writer": {
+        "name": "Jon Spaihts, Scott Derrickson, C. Robert Cargill",
+        "profile": "Jon Spaihts (Prometheus, Dune) wrote the initial draft, which Derrickson and his frequent collaborator C. Robert Cargill rewrote substantially. Cargill, like Derrickson, comes from horror and shares his interest in supernatural themes. The script is lean and efficient. The ideological choices, particularly casting Tilda Swinton as The Ancient One over a Tibetan actor, were made partly to avoid Chinese box office complications (Tibet is politically sensitive in China) and partly because Derrickson wanted to cast a woman in the role. Both decisions are noted, but neither drives the film's actual content."
+      },
+      "lead_producer": {
+        "name": "Kevin Feige",
+        "company": "Marvel Studios"
+      },
+      "composer": {
+        "name": "Michael Giacchino",
+        "profile": "Michael Giacchino (Up, Ratatouille, Star Trek reboot) brings his signature orchestral romanticism to Doctor Strange. The score is big, sweeping, and emotional. His work here evokes classic adventure and wonder rather than anything ideologically coded. Giacchino is a straightforward craftsman who serves the film's needs."
+      },
+      "top_cast": [
+        {
+          "name": "Benedict Cumberbatch",
+          "role": "Dr. Stephen Strange"
+        },
+        {
+          "name": "Chiwetel Ejiofor",
+          "role": "Karl Mordo"
+        },
+        {
+          "name": "Rachel McAdams",
+          "role": "Dr. Christine Palmer"
+        },
+        {
+          "name": "Mads Mikkelsen",
+          "role": "Kaecilius"
+        },
+        {
+          "name": "Tilda Swinton",
+          "role": "The Ancient One"
+        }
+      ]
+    },
+    "fidelityCasting": {
+      "sourceType": "Comic Book Adaptation",
+      "sourceTitle": "Doctor Strange by Stan Lee and Steve Ditko (Marvel Comics, 1963)",
+      "assessment": "Stephen Strange in the comics is a white American neurosurgeon. Benedict Cumberbatch is correctly cast as a white British actor approximating this. The Ancient One in the comics is a Tibetan man. Tilda Swinton, a white British woman, was cast instead. This was a legitimate casting controversy. The stated rationale: Marvel wanted to avoid Chinese censorship issues related to Tibet, and Derrickson wanted to reimagine the character. The film's Celtic aesthetic for the character (set in Nepal, coded as non-specifically mystical) is a deliberate sidestep rather than a confident creative choice. Wong is correctly cast as a Tibetan man (Benedict Wong). Mordo's race change from white (comics) to Black (Chiwetel Ejiofor) is not controversial in context. Overall: one significant race/gender swap in The Ancient One, no other casting controversies."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Sci-fi action and violence, and an intense crash sequence",
+      "recommendedAge": "10+",
+      "contentWarnings": [
+        "An early car crash is intense and depicts graphic hand injuries including bone fractures shown in X-ray detail",
+        "Fantasy violence throughout: sorcery battles, dimensional combat, stabbing, characters disintegrating",
+        "Kaecilius and his zealots commit murders including an early beheading that occurs off-screen",
+        "Themes of death, dying, and the limits of medicine",
+        "Brief language including one use of 's-t' and mild profanity",
+        "No sexual content; a brief non-sexual scene of Strange waking up in a hospital bed",
+        "Occult and mystical themes including astral projection, dark dimensions, and reality manipulation",
+        "Some viewers may find the kaleidoscopic visual sequences disorienting"
+      ],
+      "guidance": "Doctor Strange earns its PG-13 rating primarily through intense fantasy violence and a disturbing crash sequence. The hand injury depiction is realistic and may disturb younger viewers. The occult/mystical themes (sorcery, dimensions, reality bending) are fantasy in nature and not presented as a religious alternative for real-world practice. Parents with concerns about occult themes should preview. The film's core moral lesson, namely that arrogance and self-obsession are destructive and that genuine greatness requires humility and sacrifice for others, is strongly traditional. Appropriate for most kids 10 and up."
+    },
+    "seoTitle": "Doctor Strange (2016) Woke or Traditional? | VirtueVigil VVWS Review",
+    "seoDescription": "Is Doctor Strange (2016) woke? VirtueVigil scores the Benedict Cumberbatch MCU origin story with our Woke-Watch Scoring System. Ancient One controversy, VVWS trope audit, parental guidance, and full verdict.",
+    "seoKeywords": [
+      "doctor strange 2016 woke",
+      "doctor strange woke or traditional",
+      "doctor strange review conservative",
+      "doctor strange ancient one controversy",
+      "benedict cumberbatch doctor strange",
+      "mcu woke score",
+      "virtuevigil doctor strange",
+      "doctor strange parental guidance",
+      "doctor strange tilda swinton whitewashing",
+      "is doctor strange woke"
+    ],
+    "summary": {
+      "overall": "Doctor Strange is the MCU's most spiritually interesting film, and that is saying something given the franchise's general allergy to anything resembling genuine metaphysics. Credit goes almost entirely to director Scott Derrickson, one of the only openly Christian filmmakers working at this budget level in Hollywood, who understood that a character whose power comes from mastering the mystical arts needed more than flashy visuals. The result is a superhero origin story that takes seriously the idea that the material world is not all there is, that arrogance is genuinely destructive, and that greatness requires sacrifice. That is an unusually traditional set of convictions for a Marvel film.\n\nThe setup is efficient. Dr. Stephen Strange is a brilliant, arrogant neurosurgeon who crashes his car during a reckless phone call and destroys the fine motor control in his hands. His surgical career ends. Every conventional medical avenue fails. In desperation, he travels to Kathmandu and discovers the Kamar-Taj, a community of sorcerers guarded by a mysterious figure called The Ancient One. Magic is real. Parallel dimensions exist. Earth is perpetually defended from interdimensional threats by a hidden order of mystics. Strange, against all his materialist instincts, has to accept this and begin the humbling work of becoming a student again.\n\nThis is a story about ego death in the best sense. Strange's journey is not a political awakening, not a diversity lesson, not an ideological conversion. It is the classic arc of the gifted man who must lose everything to discover what actually matters. The Ancient One's central teaching, that Strange had always looked for ways to advance himself but never considered what he could offer the world, is a moral judgment delivered without irony. The film agrees with it. So does the plot. Strange's arc from prideful high achiever to self-sacrificing protector of humanity is the whole movie.\n\nThe villain, Kaecilius (Mads Mikkelsen, doing what Mads Mikkelsen does), is Strange's dark mirror. Both were gifted students who lost people they loved. Both questioned the Ancient One's authority. The difference is what they did with their grief and their power. Kaecilius chose to make deals with a dark dimension that promises eternal life by erasing time. Strange chooses to trap himself in a time loop, dying over and over, to outlast a cosmic being and protect the Earth. The film's moral is unambiguous: personal sacrifice for the protection of others is the highest virtue. Power used for self-preservation is corruption.\n\nThe Ancient One controversy deserves direct address. In the comics, The Ancient One is a Tibetan man. Tilda Swinton is a white British woman. Marvel changed the character for two stated reasons: avoiding Chinese box office complications related to Tibetan depictions, and director Derrickson's desire to subvert the 'exotic Asian mentor' trope by casting a woman. Both are legitimate creative rationales, but the result is awkward. The film gives The Ancient One a vaguely Celtic aesthetic, a British accent, and a lot of enigmatic pronouncements while stripping away the character's original cultural specificity. It does not read as a bold reimagining. It reads as a sidestep.\n\nThis is the film's primary ideological liability. Not feminism in the conventional woke sense, not DEI lecturing, not political messaging. Just a casting decision that replaced an Asian character with a white one for reasons that include commercial convenience. The VVWS scores it as a moderate woke penalty because the gender swap is the more intentional of the two decisions and it does land with a feminist undertone, an all-powerful woman putting an arrogant man in his place, even if that reading is not foregrounded.\n\nBeyond that controversy, Doctor Strange is remarkably clean ideologically. The film does not lecture about race, gender, or identity. The romantic thread with Christine Palmer is minimal and chaste. The military and law enforcement are absent. The geopolitical content is nil. What the film has is a genuine investment in the spiritual and metaphysical: the existence of dark forces that want to consume reality, the necessity of guardians who are willing to sacrifice themselves, and the idea that materialism is an insufficient framework for understanding existence.\n\nDerrickson shoots all of this with extraordinary visual imagination. The Escher-like city-folding sequences, the astral projection fights, the Mirror Dimension battles, are genuinely inventive in a way that most superhero films are not. This is a director who sees cinema as a medium for experiences that language cannot fully capture, and he uses Doctor Strange's premise to push into territory that Marvel has never attempted before or since.\n\nBenedict Cumberbatch is an excellent Strange. The character's arrogance reads as genuine rather than performative, and his eventual humility lands because Cumberbatch earns the emotional arc rather than just checking plot boxes. Mads Mikkelsen brings gravity to an underwritten villain role. Tilda Swinton, controversy aside, is genuinely compelling as The Ancient One. Chiwetel Ejiofor plants seeds for Mordo's future disillusionment that pay off in later MCU entries.\n\nThe VVWS score reflects a film that is more traditional than most of its MCU contemporaries. Derrickson's Christian sensibility gives Doctor Strange a moral seriousness that the franchise largely abandoned after he left. The ego-to-humility arc is real. The sacrifice-as-virtue theme is central. The film's philosophical content, the inadequacy of pure rationalism, the reality of evil, the necessity of guardians, is conservative in the deepest sense. The woke penalty is almost entirely the Ancient One casting decision rather than any messaging content. For traditional audiences who want a superhero film with genuine moral weight, Doctor Strange delivers.",
+      "oneLiner": "A superhero origin story with genuine moral seriousness, directed by a Christian filmmaker who understood that magic requires metaphysics. The Ancient One casting controversy is real but does not define the film.",
+      "verdict": "Doctor Strange earns its traditional lean through a disciplined ego-to-humility arc, a sacrifice-as-virtue climax, and director Scott Derrickson's Christian sensibility giving the film real moral weight. The Ancient One gender and race swap is the primary ideological debit. Otherwise clean.",
+      "adultInsight": "Conservative adults who write off superhero films should make an exception for Doctor Strange. It is the only MCU film directed by an openly Christian filmmaker, and it shows. The film takes seriously the idea that material reality is not the whole story, that genuine evil exists and must be actively opposed, and that self-sacrifice for the protection of others is the highest virtue a person can achieve. Derrickson left the franchise over creative differences with Marvel before the sequel. That tells you something. The original film is a genuinely good movie with an unusually traditional moral core.",
+      "parentalGuidance": "PG-13, appropriate for ages 10 and up. The car crash hand injury is disturbing and realistic. Fantasy violence is frequent but not gory. Occult and mystical themes are fantasy framing, not religious advocacy. Core moral arc, arrogance destroyed by catastrophe, rebuilt through humility and sacrifice, is strongly traditional."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-100",
+        "name": "Ego-to-Humility Arc",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "Strange's entire journey is the destruction of his arrogance and the painful, voluntary reconstruction of himself as a servant of something larger. This is the entire plot, not a subplot. Classic conservative virtue arc."
+      },
+      {
+        "id": "TRAD-101",
+        "name": "Self-Sacrifice as Ultimate Virtue",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "Strange defeats Dormammu not through superior power but by willingly dying thousands of times in a time loop. The film frames self-sacrifice, not force, as the highest expression of heroism."
+      },
+      {
+        "id": "TRAD-102",
+        "name": "Order vs. Chaos / Defending Civilization",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "The Sorcerers Supreme exist to protect Earth from interdimensional threats. The stakes are civilizational. The villain wants to dissolve time and surrender Earth to a dark dimension. The heroes fight to preserve order and existence."
+      },
+      {
+        "id": "TRAD-103",
+        "name": "Mentorship and the Transmission of Wisdom",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The Ancient One and Wong serve as genuine mentors who transmit knowledge, discipline, and tradition to Strange. The learning process requires humility. Tradition and accumulated wisdom are treated as valuable rather than as obstacles."
+      },
+      {
+        "id": "WOKE-100",
+        "name": "Race and Gender Swap: The Ancient One",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 3.0,
+        "description": "The Ancient One is a Tibetan male character in the comics. Tilda Swinton (white female) was cast. The stated reasons include avoiding Chinese censorship complications and subverting the 'exotic Asian mentor' trope. Regardless of rationale, this is a substantive race and gender change to a canonical character of color."
+      },
+      {
+        "id": "WOKE-101",
+        "name": "Feminist Mentor Dynamic",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 2.0,
+        "description": "Casting a woman as the all-knowing mentor who corrects an arrogant male protagonist's worldview carries a feminist undertone, even if the film does not foreground it as messaging. The power dynamic is a woman repeatedly humbling and instructing a man. Not heavy-handed but present."
+      },
+      {
+        "id": "WOKE-102",
+        "name": "Anti-Materialism / Science is Not Enough",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 0.35,
+        "description": "The film critiques pure scientific materialism as an insufficient worldview. While this theme is actually consistent with Christian metaphysics (and Derrickson's own faith), it can also read as a progressive 'science has limits' framing. Light penalty given the director's explicit Christian intent. Score is minimal."
+      }
+    ]
   }
 ]
