@@ -168,6 +168,18 @@
     "poster": "/images/posters/titanic-1997.jpg"
   },
   {
+    "slug": "the-hunger-games-2012",
+    "title": "The Hunger Games",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi / Action / YA Dystopian",
+    "year": 2012,
+    "type": "film",
+    "wokeScore": 9.8,
+    "tradScore": 12.6,
+    "poster": "/images/posters/the-hunger-games-2012.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
