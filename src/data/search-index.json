@@ -120,6 +120,18 @@
     "poster": "/images/posters/doctor-strange-2016.jpg"
   },
   {
+    "slug": "avengers-infinity-war-2018",
+    "title": "Avengers: Infinity War",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Superhero / Action",
+    "year": 2018,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 16.8,
+    "poster": "/images/posters/avengers-infinity-war-2018.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
