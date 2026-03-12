@@ -132,6 +132,18 @@
     "poster": "/images/posters/avengers-infinity-war-2018.jpg"
   },
   {
+    "slug": "captain-marvel-2019",
+    "title": "Captain Marvel",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Superhero / Sci-Fi",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 19.44,
+    "tradScore": 3.25,
+    "poster": "/images/posters/captain-marvel-2019.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
