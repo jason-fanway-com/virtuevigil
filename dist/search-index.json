@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-equalizer-3-2023",
+    "title": "The Equalizer 3",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Sony Pictures)",
+    "genre": "Action Thriller",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 20.88,
+    "poster": "/images/posters/the-equalizer-3-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
