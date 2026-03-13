@@ -228,6 +228,18 @@
     "poster": "/images/posters/the-flash-2023.jpg"
   },
   {
+    "slug": "creed-iii-2023",
+    "title": "Creed III",
+    "verdict": "TRADITIONAL",
+    "platform": "MGM+",
+    "genre": "Sports Drama",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 5.1,
+    "tradScore": 22.4,
+    "poster": "/images/posters/creed-iii-2023.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
