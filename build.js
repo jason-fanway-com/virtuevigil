@@ -48,13 +48,15 @@ function verdictIcon(vc) {
   return 'minus-circle';
 }
 
+const POSTER_VERSION = Date.now(); // cache-bust posters on every build
 function posterHTML(r, size) {
   if (r.poster && (r.poster.startsWith('http') || r.poster.startsWith('/'))) {
     const alt = esc(r.title) + ' poster';
-    if (size === 'thumb') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-thumb" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
-    if (size === 'card') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-card" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
-    if (size === 'featured') return `<img src="${r.poster}" alt="${alt}" class="poster-img poster-featured" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
-    return `<img src="${r.poster}" alt="${alt}" class="poster-img" loading="lazy">`;
+    const posterSrc = r.poster.startsWith('/') ? `${r.poster}?v=${POSTER_VERSION}` : r.poster;
+    if (size === 'thumb') return `<img src="${posterSrc}" alt="${alt}" class="poster-img poster-thumb" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
+    if (size === 'card') return `<img src="${posterSrc}" alt="${alt}" class="poster-img poster-card" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
+    if (size === 'featured') return `<img src="${posterSrc}" alt="${alt}" class="poster-img poster-featured" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">`;
+    return `<img src="${posterSrc}" alt="${alt}" class="poster-img" loading="lazy">`;
   }
   // Styled letter placeholder fallback
   const initial = (r.title || '?').charAt(0).toUpperCase();
