@@ -58520,5 +58520,284 @@
         "VVWS score"
       ]
     }
+  },
+  {
+    "id": "spider-man-across-the-spider-verse-2023",
+    "slug": "spider-man-across-the-spider-verse-2023",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Animated / Superhero",
+    "date": "2026-03-13",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "12 min",
+    "poster": "/images/posters/spider-man-across-the-spider-verse-2023.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 12.59,
+    "tradScore": 10.64,
+    "authIndex": 46,
+    "scoreMargin": "-2 WOKE",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. The film's progressive ideology is front-loaded and visible from the first act. Miles Morales's identity struggles, Gwen Stacy's transgender-flagged bedroom, and the multiverse-as-diversity metaphor are all present early in the runtime, not concealed until the second half. The marketing for Across the Spider-Verse showcased its visual style and multiverse concept honestly. Conservative families who saw Into the Spider-Verse know exactly what kind of creative environment produced it. There are no hidden surprises. The film announces its values openly."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "ideology": "PROGRESSIVE. Kemp Powers co-directed Pixar's Soul (2020) and wrote One Night in Miami (2020), a drama about Malcolm X, Cassius Clay, Jim Brown, and Sam Cooke. He has spoken extensively about representing Black identity on screen. Joaquim Dos Santos is a veteran animation director with a long resume at DC and Nickelodeon. Justin K. Thompson served as production designer on Into the Spider-Verse and brings an extraordinary visual imagination. Together they have built one of the most ambitious animated films ever made, but the ideological fingerprints are Kemp Powers's, and they are progressive.",
+        "profile": "The three-director structure is unprecedented for a mainstream animated feature. Joaquim Dos Santos brings storyboarding and action-sequence expertise from years of work on animated series like Avatar: The Last Airbender and Justice League Unlimited. Kemp Powers brings character depth and cultural specificity, his years as a playwright and writer before his film career show in how precisely the dialogue defines each character's inner life. Justin K. Thompson's role was primarily visual, designing the film's different animation styles for each Spider-Universe. Their collaboration produced a film that works as both technical achievement and emotional drama, though not without ideological cost."
+      },
+      "writer": {
+        "name": "Phil Lord, Christopher Miller, Dave Callaham",
+        "profile": "Phil Lord and Christopher Miller are among the most commercially reliable comedy-action filmmakers working today. Their credits include Cloudy with a Chance of Meatballs (2009), 21 Jump Street (2012), The Lego Movie (2014), and Into the Spider-Verse (2018). They are funny, inventive, and technically gifted. They are also progressive in their worldview, a fact that becomes more visible in Across the Spider-Verse than in their earlier work. Dave Callaham joined the writing team and brought experience from Wonder Woman 1984 and Mortal Kombat. The screenplay is genuinely clever in its multiverse mechanics but embeds progressive messaging about identity, institutional authority, and self-determination at the structural level."
+      },
+      "lead_producer": {
+        "name": "Amy Pascal, Christina Steinberg, Phil Lord, Christopher Miller",
+        "company": "Sony Pictures Animation / Columbia Pictures"
+      },
+      "composer": {
+        "name": "Daniel Pemberton",
+        "profile": "Daniel Pemberton scored Into the Spider-Verse and returned for Across the Spider-Verse. He is one of the most interesting film composers working in animation, blending orchestral hip-hop, jazz, and electronic music into something that does not sound like any other score. His work here is extraordinary: each universe has its own sonic signature, and transitions between universes are scored with deliberate genre disruption. Pemberton's music for Miles Morales specifically incorporates Afro-Latinx musical references that ground the character's identity even when the visuals are pulling in every direction. The score is one of the film's genuine artistic achievements."
+      },
+      "top_cast": [
+        {
+          "name": "Shameik Moore",
+          "role": "Miles Morales / Spider-Man (voice)"
+        },
+        {
+          "name": "Hailee Steinfeld",
+          "role": "Gwen Stacy / Spider-Woman (voice)"
+        },
+        {
+          "name": "Oscar Isaac",
+          "role": "Miguel O'Hara / Spider-Man 2099 (voice)"
+        },
+        {
+          "name": "Brian Tyree Henry",
+          "role": "Jefferson Davis (voice)"
+        },
+        {
+          "name": "Luna Lauren Velez",
+          "role": "Rio Morales (voice)"
+        },
+        {
+          "name": "Jake Johnson",
+          "role": "Peter B. Parker (voice)"
+        },
+        {
+          "name": "Issa Rae",
+          "role": "Jessica Drew / Spider-Woman (voice)"
+        },
+        {
+          "name": "Karan Soni",
+          "role": "Pavitr Prabhakar / Spider-Man India (voice)"
+        },
+        {
+          "name": "Daniel Kaluuya",
+          "role": "Hobie Brown / Spider-Punk (voice)"
+        },
+        {
+          "name": "Shea Whigham",
+          "role": "Captain George Stacy (voice)"
+        }
+      ],
+      "top_performers": [
+        {
+          "name": "Shameik Moore",
+          "note": "Moore carries this film with real emotional weight. Miles Morales is not an easy character to voice: he is a teenager navigating two worlds (home and superhero), two identities, and a philosophical conflict about whether he is allowed to define himself against the expectations of a universe-spanning institution. Moore makes Miles's frustration and love for his parents feel genuine rather than melodramatic. The scene where Miles watches his father's promotion from a distance, unable to reveal himself, is this film's most quietly devastating moment, and it works entirely because of Moore's restraint."
+        },
+        {
+          "name": "Oscar Isaac",
+          "note": "Isaac's Miguel O'Hara is the film's most complex creation. He is the antagonist, but he is not wrong about everything. His argument that canon events must be preserved to prevent multiverse collapse is internally coherent. Isaac voices him with a cold precision that makes his certainty feel earned rather than villainous. The scene where Miguel's backstory is revealed, the family he found in another universe that he had to abandon because his presence was destroying it, is genuinely tragic. Isaac does not play Miguel as a monster. He plays him as a man who has made the cruelest decisions of his life in the name of preventing something worse."
+        },
+        {
+          "name": "Brian Tyree Henry",
+          "note": "Jefferson Davis is the emotional anchor of the film's domestic story. Henry plays him as a man who loves his son without fully understanding him, whose pride in Miles is real but whose fear for Miles is also real. The scene where Jefferson leaves Miles a voicemail is one of the most emotionally effective sequences in any animated film of the decade. Henry does not sentimentalize Jefferson. He plays him as complicated: capable of real warmth and real limitation at the same time."
+        }
+      ],
+      "bottom_performers": [
+        {
+          "name": "Daniel Kaluuya",
+          "note": "Spider-Punk exists primarily as an ideological prop. Hobie Brown is a punk rock anarchist from an alternate London, and the film uses him to voice its most explicitly anti-institutional arguments. Kaluuya voices him with appropriate swagger, but the character is the film's most thinly written major player. He exists to be cool and to say things like 'the system is the villain.' He disappears from the plot when convenient and reappears when the script needs an anti-authority statement delivered with flair. The performance is fine. The character is a function, not a person."
+        }
+      ]
+    },
+    "fidelity_casting": {
+      "score": "NOT APPLICABLE",
+      "summary": "Across the Spider-Verse is an animated film with an enormous cast of alternate-universe Spider-People. The entire premise is that any person from any background can be Spider-Man. Fidelity casting analysis is not applicable in the conventional sense. The film's deliberate multiculturalism is baked into the premise established by Into the Spider-Verse. The diversity of the Spider-Society is the point of the Spider-Society."
+    },
+    "celebrity_mentions": [
+      {
+        "name": "Phil Lord and Christopher Miller",
+        "role": "Writers/Producers",
+        "context": "Lord and Miller are openly progressive and active in Hollywood's liberal mainstream. Their public statements on representation and diversity align with the film's messaging. Conservative audiences have enjoyed their work despite this: The Lego Movie and Into the Spider-Verse were broadly popular across political lines. Across the Spider-Verse pushes further ideologically than anything they have previously produced."
+      },
+      {
+        "name": "Kemp Powers",
+        "role": "Co-Director",
+        "context": "Powers is explicit about his goal of centering Black identity in mainstream storytelling. His previous work, One Night in Miami and Soul, demonstrate both his talent and his priorities. He has spoken about Miles Morales as a symbol for Black and Latino children who have not seen themselves as heroes. This perspective is artistically legitimate and ideologically progressive. Both things are true."
+      },
+      {
+        "name": "Daniel Kaluuya",
+        "role": "Voice of Spider-Punk",
+        "context": "Kaluuya is an Oscar-winning actor (Judas and the Black Messiah) with a solidly progressive public profile. His casting as Spider-Punk, an anarchist character who explicitly attacks institutional authority, is not accidental. The character is a vehicle for progressive anti-establishment messaging."
+      }
+    ],
+    "parental_guidance": {
+      "rating": "PG",
+      "age_recommendation": "10+",
+      "content_warnings": [
+        "Gwen Stacy's bedroom features a transgender pride flag prominently displayed. The film does not address this directly in dialogue, but it is visible on screen and has been widely noted. Parents should be aware.",
+        "Spider-Punk (Hobie Brown) is an explicitly anarchist character who advocates against institutional authority throughout the film. His lines include direct attacks on systems, laws, and organized power structures. This is presented as heroic and cool.",
+        "The film's central philosophical conflict pits self-determination against institutional rules. The film sides firmly with self-determination, framing institutional authority as oppressive. This is a progressively-framed message delivered to children.",
+        "The Spot villain has genuinely disturbing visual sequences involving multidimensional portal manipulation. Some images may unsettle younger viewers.",
+        "The film ends on a cliffhanger without resolution, which may be frustrating for younger audiences.",
+        "Miles Morales defies his parents' direct commands repeatedly, and this defiance is framed as heroic rather than problematic. The film does not clearly address the cost of lying to parents.",
+        "The film is long at 140 minutes and visually intense. Younger children may find the runtime and sensory stimulation exhausting.",
+        "No profanity. No sexual content. Moderate action violence."
+      ],
+      "family_discussion_topics": [
+        "The film argues that Miles has the right to define his own destiny against a system that says his fate is fixed. Families can discuss the difference between self-determination and disrespecting legitimate authority, and when rules exist for good reasons versus when they are worth challenging.",
+        "Miles keeps secrets from his parents because he believes they won't understand. His father leaves him a voicemail expressing pride and love. Discuss why honesty with parents matters even when the truth is hard, and whether Miles made the right choice.",
+        "Spider-Punk argues that institutions are inherently corrupt and should be resisted. Miguel O'Hara argues that rules exist to prevent catastrophic harm. Neither position is entirely wrong. Families can discuss when following rules matters and when principled resistance is justified.",
+        "Several characters in the film, including Gwen and Miles, struggle with being misunderstood by the people who love them most. Discuss how to communicate with family members who want to protect you but don't fully see who you are.",
+        "The Spot begins as a minor villain and becomes genuinely dangerous through a chain of events Miles triggered. Discuss cause and effect: when our actions have consequences we didn't intend, what responsibility do we carry?"
+      ],
+      "recommendation": "Across the Spider-Verse is a visually extraordinary film and an emotionally genuine one in its domestic scenes. But it carries more ideological content than its PG rating suggests. The transgender flag, the anarchist messaging, and the film's explicit anti-institutional framing are not hidden. Conservative parents should watch this with their children and be prepared to engage with what they see. This is not a film to screen without parental involvement for conservative families with children under 13. For older teenagers, it is a genuinely rich film that merits serious discussion. The recommended age is 10+ with parental guidance."
+    },
+    "summary": {
+      "overall": "Across the Spider-Verse is the most technically ambitious animated film ever made. That is not hyperbole. Director Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson, working with a Sony Animation team that spent years developing new visual systems, have created something that defies the normal vocabulary of film criticism. There are sequences in this movie where six different animation styles are running simultaneously in a single frame: Spider-Punk rendered in collage-cut anarchist zine art, Miles Morales in expressive watercolor, Miguel O'Hara in sleek future-noir, Pavitr Prabhakar in Bollywood-influenced Rajasthani miniature painting. It is genuinely unlike anything that has existed before. If you care about the art of animation, Across the Spider-Verse is a landmark.\n\nThe emotional story is also genuinely good. Miles Morales is 15 months past the events of Into the Spider-Verse. He is Spider-Man in his universe, but he cannot tell his parents. His father Jefferson (Brian Tyree Henry) is about to be promoted to captain. His mother Rio (Luna Lauren Velez) prays for him. Neither knows what he is. Miles is carrying this secret because he loves them and believes they would be frightened by the truth, and the film pays serious attention to the cost of that choice. The sequence where Jefferson leaves Miles a voicemail about how proud he is, not knowing his son is in another dimension facing death, is one of the most quietly devastating things in any animated film of this decade.\n\nGwen Stacy gets her own origin story in the opening act. Her father, Captain Stacy, believed she was responsible for the death of her universe's Peter Parker. He hunted her. She had to leave her home universe entirely. Her storyline is about being misunderstood by the father who loves her, and it is genuinely affecting. Hailee Steinfeld voices her with a carefully controlled sadness that makes the character feel real rather than symbolic.\n\nThe plot mechanics involve Miles being recruited by the Spider-Society, a multiverse-spanning organization led by Miguel O'Hara (Spider-Man 2099, voiced by Oscar Isaac) that monitors and preserves canon events across universes. Canon events are fixed points in the multiverse: a police captain always dies, certain tragedies are baked in. Miguel's argument is that if canon events are changed, universes collapse. Miles's argument is that he will not accept a predetermined fate for people he loves.\n\nThis is philosophically interesting material. The film presents both sides with more fairness than you might expect: Miguel is not wrong that changing canon events has catastrophic consequences. He has watched universes die. His certainty is earned through genuine loss. Miles is not wrong that accepting predetermined tragedy without resistance is its own kind of moral failure. The argument between them is genuinely the film's intellectual core.\n\nHere is where we have to be honest with our audience.\n\nThe film embeds its progressive worldview at the structural level, not as a surface decoration. The Spider-Society as an institution that enforces fixed outcomes against individual will is explicitly framed as the oppressive antagonist. Spider-Punk is designed as the film's coolest character and exists primarily to articulate anarchist anti-institutional politics. Hobie Brown lives to say 'the system is the villain,' and the film endorses him. This is not subtle. It is the film's ideology made flesh in a leather jacket covered in safety pins.\n\nGwen Stacy's bedroom has a transgender pride flag on the wall. The film does not address this in dialogue. It is simply there. The production team confirmed it was intentional, with the specific context of Gwen's father struggling to understand his child being made parallel to the experience of parents of trans children. You can agree or disagree with that choice. It is there, and parents should know.\n\nMiles Morales's defiance of authority, both his parents and the Spider-Society, is framed as heroic throughout. The film does not interrogate the cost of lying to his parents beyond the emotional texture of the voicemail scene. His deception is excused by his good intentions. This is a common progressive story structure: individual instinct overrides institutional rule because the individual is right. It is not a traditional moral framework.\n\nAll of that said: the domestic scenes between Miles and his parents are the most genuinely traditional content in the film. Jefferson Davis is written and voiced as a loving, present, protective father. His relationship with his son is central. His pride in Miles is real. The film's treatment of the father-son relationship is substantially more traditional than most of what Marvel Studios has produced in the last five years. Jefferson is not a problem to be solved. He is a man whose love is the film's emotional foundation.\n\nThe animation is the story, though. What Sony has built here has to be seen to be understood. The Mumbattan sequence, where Miles and Pavitr Prabhakar move through an Indian city rendered in an animation style that blends multiple South Asian visual traditions, is one of the most beautiful things in modern cinema. The Spider-Society headquarters sequence, with thousands of Spider-People animated in dozens of different styles simultaneously, is the kind of filmmaking achievement that happens once a decade. Whatever you think of the film's ideology, the craft is undeniable.\n\nBox office: $690.5M worldwide on a $100M budget. Critics: 96% on Rotten Tomatoes. Audience: 94%. It earned every cent of that and most of that praise.\n\nRT Critics: 96%. RT Audience: 94%. IMDB: 8.6. Box Office: $690.5M worldwide. One of the highest-grossing animated films ever made. Critical near-consensus that it is among the best animated films of the decade.",
+      "verdict_explanation": "MIXED (-2 margin). Across the Spider-Verse is the rare film where artistic achievement and ideological content genuinely compete for dominance, and in this case they nearly cancel each other out. The animation is a landmark. The emotional core, Miles's relationship with his parents, is traditional and affecting. The anti-institutional framing, anarchist secondary character, and embedded progressive symbols are real and present. But so is a loving, present Black father written with genuine dignity, a nuclear family that remains the film's emotional goal, and a mother whose faith is shown without mockery. The scores are close: 12.59 woke, 10.64 trad. The margin is -2. This is the definition of mixed. Progressive ideology lives in the film's structure. Traditional values live in the film's heart. Conservative families can engage with this film critically and find real value alongside real concern.",
+      "adultInsight": "Adults accompanying teenagers will find Across the Spider-Verse more rewarding than most animated films aimed at this age group. The film's philosophical argument about free will versus determinism is genuinely interesting. The Miguel O'Hara character, a man who has made terrible decisions in the name of preventing worse outcomes, is adult-level moral complexity delivered in an animated package. The Brian Tyree Henry performance is extraordinary. The Anderson .Paak, Metro Boomin, and Lil Uzi Vert musical contributions are the best animated film soundtrack since Into the Spider-Verse. The ideology is present but the quality is also present. Adults can engage critically with both.",
+      "parentalGuidance": "Rated PG. Recommended age 10+ with parental guidance. Conservative parents should watch alongside their children and be prepared to discuss the anti-institutional messaging, the anarchist character, and the transgender flag. The film is not aggressively woke but it is not neutral either. The quality is undeniable. Engage with it rather than avoiding it."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-001",
+        "name": "Anti-Institutional Authority Framing",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "analysis": "The Spider-Society, the film's main institutional antagonist, is explicitly framed as an oppressive system enforcing predetermined suffering. Miguel O'Hara's entire operation exists to override individual choice in the name of 'the greater good.' The film sides unambiguously with Miles's self-determination against the institution. Spider-Punk is present primarily to voice anti-authority ideology in the most explicit terms available to a PG film. This framing is not accidental. It is the film's central argument: institutions that enforce fixed outcomes are wrong, and resisting them is heroic. High severity because it is the structural spine of the plot. High centrality because the entire second and third act depends on it."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Anarchist Character as Coolest Hero",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "analysis": "Spider-Punk (Hobie Brown) is designed to be the film's most stylistically distinctive and ideologically explicit character. He is an anarchist. His politics are named, not implied. He is rendered in a unique animation style that makes him visually memorable. He is voiced by an Oscar winner. He exists to provide ideological commentary and to be cool. The film treats his anarchism as a virtue. There is no counterargument offered to his anti-institutional stance within his scenes. He is a propaganda vehicle with good aesthetics."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Progressive Identity Symbolism",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 1.05,
+        "analysis": "Gwen Stacy's bedroom features a transgender pride flag prominently displayed. The production team confirmed this was intentional and linked to the theme of parents struggling to accept their children. The flag does not drive plot, but it is a deliberate visual statement embedded in the film's most emotionally effective domestic storyline. Severity is moderate because it is present but not dwelt on in dialogue. Centrality is low because it does not drive story mechanics."
+      },
+      {
+        "id": "WOKE-004",
+        "name": "Defiance of Parents Framed as Heroic",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "analysis": "Miles repeatedly deceives and defies his parents throughout the film, and this is presented as necessary and heroic. The film does not offer a genuine reckoning with the cost of his dishonesty to his parents. Jefferson's voicemail is emotionally devastating precisely because he does not know his son has been lying to him for 15 months. The film uses this as pathos rather than consequence. Miles's disobedience is excused by his good intentions. This is a standard progressive story structure: individual instinct is right, authority and rules are obstacles."
+      },
+      {
+        "id": "WOKE-005",
+        "name": "Multiverse as Diversity/Representation Metaphor",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "analysis": "The Spider-Society's composition, hundreds of Spider-People from every conceivable background, culture, and identity, is explicitly framed as a representation of who deserves to be a hero. The premise that anyone can be Spider-Man is the film's stated moral. This is not inherently wrong, but the execution embeds progressive representation politics into the structural argument of the film. The Spot's origin as a collider accident Miles could have prevented ties back to representation: Miles's presence as an 'anomaly' (a Black, Latino Spider-Man in a universe that didn't think he belonged) is treated as the root cause of the film's central crisis. The meta-commentary is progressive."
+      },
+      {
+        "id": "WOKE-006",
+        "name": "Villain as System Not Person",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.0,
+        "analysis": "While The Spot is a compelling personal villain, the film's structural villain is the Spider-Society itself, an institution. Miguel O'Hara is humanized and given genuine tragedy, which complicates simple categorization. But the film's resolution frames systemic institutional authority, not individual evil actors, as the primary threat. This is a progressive narrative structure where the system is the enemy."
+      },
+      {
+        "id": "TRAD-001",
+        "name": "Loving and Present Black Father",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "analysis": "Jefferson Davis is the film's most powerful traditional element. He is a Black father who is present, loving, protective, professionally successful (promoted to police captain), and deeply invested in his son's future. He is not a buffoon. He is not absent. He is not a problem. He prays at dinner. He hugs his son. He leaves heartfelt voicemails. He is the kind of father the film presents as the emotional ground Miles is fighting to return to. In a media landscape where Black fathers are frequently absent from narratives or rendered as complications, Across the Spider-Verse's Jefferson Davis is a significant counter-statement."
+      },
+      {
+        "id": "TRAD-002",
+        "name": "Nuclear Family as Emotional Foundation",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "analysis": "The Morales family, father, mother, son, is intact and the film's emotional anchor. Miles's entire motivation in the film is to protect his father and return to his family. He is not running from his family. He is fighting for it. The family is treated as what matters most, and the film's final act centers entirely on Miles's desperate effort to prevent his father's death. The nuclear family is not deconstructed. It is the goal."
+      },
+      {
+        "id": "TRAD-003",
+        "name": "Mother's Faith and Prayer",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "analysis": "Rio Morales is shown praying over dinner. Her faith is presented as real, normal, and unthreatening. The film does not mock it or problematize it. In a contemporary animated film, showing a Latino mother's Catholic faith as a natural part of family life is a quietly traditional choice. It is not prominent enough to score high on centrality, but it is present and treated with respect."
+      },
+      {
+        "id": "TRAD-004",
+        "name": "Son's Protective Love for Father",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "analysis": "Miles's entire motivation in the second half of the film is preventing his father's death. The canon event the Spider-Society insists must happen is Jefferson Davis's death. Miles refuses to accept it. His love for his father is not framed as weakness or dependency. It is framed as the most legitimate thing he has ever done. The father-son bond is the film's moral center: everything else, multiverse politics, Spider-Society authority, self-determination, rotates around Miles's refusal to lose his father."
+      },
+      {
+        "id": "TRAD-005",
+        "name": "Villain Driven by Real Grief",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "analysis": "Miguel O'Hara's backstory reveals a man who found a family in another universe, watched that universe begin to collapse because of his presence, lost everything, and built his entire institutional mission around preventing others from making the same mistake. His grief is real. His reasoning is comprehensible. The film presents him as an antagonist whose motivations are rooted in loss rather than malice. This is traditional villain construction: a person broken by circumstance who made choices that calcified into cruelty."
+      }
+    ],
+    "seo": {
+      "title": "Spider-Man: Across the Spider-Verse (2023) Review | VirtueVigil",
+      "description": "VirtueVigil scores Across the Spider-Verse: a landmark animation achievement earns WOKE LEAN (-6 WOKE). Full VVWS scoring, trope audit, and parental guidance for conservative families.",
+      "keywords": [
+        "Spider-Man Across the Spider-Verse review",
+        "Spider-Verse woke",
+        "animated superhero 2023",
+        "Miles Morales conservative review",
+        "VirtueVigil",
+        "VVWS score",
+        "Spider-Verse transgender flag"
+      ]
+    }
   }
 ]

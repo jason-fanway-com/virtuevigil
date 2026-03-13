@@ -60,6 +60,18 @@
     "poster": "/images/posters/migration-2023.jpg"
   },
   {
+    "slug": "spider-man-across-the-spider-verse-2023",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Animated / Superhero",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 12.59,
+    "tradScore": 10.64,
+    "poster": "/images/posters/spider-man-across-the-spider-verse-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
