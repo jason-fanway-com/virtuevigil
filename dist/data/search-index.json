@@ -72,6 +72,18 @@
     "poster": "/images/posters/spider-man-across-the-spider-verse-2023.jpg"
   },
   {
+    "slug": "the-super-mario-bros-movie-2023",
+    "title": "The Super Mario Bros. Movie",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated / Family Adventure",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 15.33,
+    "poster": "/images/posters/the-super-mario-bros-movie-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
