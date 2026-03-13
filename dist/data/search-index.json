@@ -204,6 +204,18 @@
     "poster": "/images/posters/elemental-2023.jpg"
   },
   {
+    "slug": "shazam-fury-of-the-gods-2023",
+    "title": "Shazam! Fury of the Gods",
+    "verdict": "TRADITIONAL",
+    "platform": "Max",
+    "genre": "Superhero / Action",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 5.9,
+    "tradScore": 17.5,
+    "poster": "/images/posters/shazam-fury-of-the-gods-2023.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
