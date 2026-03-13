@@ -180,6 +180,18 @@
     "poster": "/images/posters/the-hunger-games-2012.jpg"
   },
   {
+    "slug": "transformers-rise-of-the-beasts-2023",
+    "title": "Transformers: Rise of the Beasts",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action / Sci-Fi",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 8.6,
+    "tradScore": 17.01,
+    "poster": "/images/posters/transformers-rise-of-the-beasts-2023.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
