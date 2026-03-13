@@ -36,6 +36,18 @@
     "poster": "/images/posters/teenage-mutant-ninja-turtles-mutant-mayhem-2023.jpg"
   },
   {
+    "slug": "anyone-but-you-2023",
+    "title": "Anyone But You",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Romantic Comedy",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 3.75,
+    "tradScore": 12.32,
+    "poster": "/images/posters/anyone-but-you-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
