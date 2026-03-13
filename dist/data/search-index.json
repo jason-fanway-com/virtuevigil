@@ -12,6 +12,18 @@
     "poster": "/images/posters/the-equalizer-3-2023.jpg"
   },
   {
+    "slug": "the-nun-ii-2023",
+    "title": "The Nun II",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Warner Bros. / New Line Cinema)",
+    "genre": "Horror / Supernatural",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 3.64,
+    "tradScore": 15.09,
+    "poster": "/images/posters/the-nun-ii-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
