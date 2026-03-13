@@ -216,6 +216,18 @@
     "poster": "/images/posters/shazam-fury-of-the-gods-2023.jpg"
   },
   {
+    "slug": "the-flash-2023",
+    "title": "The Flash",
+    "verdict": "MIXED",
+    "platform": "Max",
+    "genre": "Superhero / Sci-Fi",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 9.8,
+    "tradScore": 11.48,
+    "poster": "/images/posters/the-flash-2023.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
