@@ -24,6 +24,18 @@
     "poster": "/images/posters/the-nun-ii-2023.jpg"
   },
   {
+    "slug": "teenage-mutant-ninja-turtles-mutant-mayhem-2023",
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Paramount Pictures)",
+    "genre": "Animation / Action / Comedy",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 4.97,
+    "tradScore": 8.64,
+    "poster": "/images/posters/teenage-mutant-ninja-turtles-mutant-mayhem-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
