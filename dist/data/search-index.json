@@ -48,6 +48,18 @@
     "poster": "/images/posters/anyone-but-you-2023.jpg"
   },
   {
+    "slug": "migration-2023",
+    "title": "Migration",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated / Family Comedy",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 2.87,
+    "tradScore": 14.42,
+    "poster": "/images/posters/migration-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
