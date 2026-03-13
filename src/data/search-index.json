@@ -1899,12 +1899,12 @@
     "slug": "the-wild-robot-2024",
     "title": "The Wild Robot (2024)",
     "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
+    "platform": "Theatrical / Peacock",
     "genre": "Animation",
     "year": 2024,
     "type": "film",
-    "wokeScore": 8,
-    "tradScore": 28,
+    "wokeScore": 7.12,
+    "tradScore": 27.93,
     "poster": "/images/posters/the-wild-robot-2024.jpg"
   },
   {
@@ -2227,8 +2227,8 @@
     "genre": "Action",
     "year": 2024,
     "type": "film",
-    "wokeScore": 11,
-    "tradScore": 24,
+    "wokeScore": 7,
+    "tradScore": 22.84,
     "poster": "/images/posters/gladiator-ii-2024.jpg"
   },
   {
@@ -2347,8 +2347,8 @@
     "genre": "Sci-Fi & Fantasy",
     "year": 2024,
     "type": "film",
-    "wokeScore": 13,
-    "tradScore": 9,
+    "wokeScore": 19.36,
+    "tradScore": 11.55,
     "poster": "/images/posters/dune-part-two-2024.jpg"
   },
   {
@@ -2566,6 +2566,18 @@
     "wokeScore": 7,
     "tradScore": 2,
     "poster": "/images/posters/lisa-frankenstein-2024.jpg"
+  },
+  {
+    "slug": "wicked-2024",
+    "title": "Wicked",
+    "verdict": "WOKE",
+    "platform": "Theatrical / Peacock",
+    "genre": "Musical",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 28.42,
+    "tradScore": 17.44,
+    "poster": "/images/posters/wicked-2024.jpg"
   },
   {
     "slug": "bridgerton-s4",
@@ -2890,18 +2902,6 @@
     "wokeScore": 35,
     "tradScore": 3,
     "poster": "/images/posters/saltburn-2023.jpg"
-  },
-  {
-    "slug": "wicked-2024",
-    "title": "Wicked",
-    "verdict": "WOKE",
-    "platform": "Streaming",
-    "genre": "Musical",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 31,
-    "tradScore": 16,
-    "poster": "/images/posters/wicked-2024.jpg"
   },
   {
     "slug": "the-substance-2024",
