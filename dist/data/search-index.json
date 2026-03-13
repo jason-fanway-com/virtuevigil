@@ -192,6 +192,18 @@
     "poster": "/images/posters/transformers-rise-of-the-beasts-2023.jpg"
   },
   {
+    "slug": "elemental-2023",
+    "title": "Elemental",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Disney+",
+    "genre": "Animated / Romance",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 12.2,
+    "tradScore": 19.74,
+    "poster": "/images/posters/elemental-2023.jpg"
+  },
+  {
     "slug": "iron-man-2008",
     "title": "Iron Man",
     "verdict": "TRADITIONAL LEAN",
