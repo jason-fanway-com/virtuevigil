@@ -108,6 +108,18 @@
     "poster": "/images/posters/fast-x-2023.jpg"
   },
   {
+    "slug": "cocaine-bear-2023",
+    "title": "Cocaine Bear",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Comedy/Thriller/Horror",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 9.87,
+    "poster": "/images/posters/cocaine-bear-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
