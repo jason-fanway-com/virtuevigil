@@ -96,6 +96,18 @@
     "poster": "/images/posters/mission-impossible-dead-reckoning-part-one-2023.jpg"
   },
   {
+    "slug": "fast-x-2023",
+    "title": "Fast X",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 6.1,
+    "tradScore": 26.46,
+    "poster": "/images/posters/fast-x-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
