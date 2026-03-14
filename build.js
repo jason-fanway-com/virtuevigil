@@ -1516,6 +1516,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/methodology.html`, changefreq: 'monthly', priority: '0.6' },
     { loc: `${SITE_URL}/woke-trap.html`, changefreq: 'monthly', priority: '0.7' },
     { loc: `${SITE_URL}/oscars-2026/`, changefreq: 'daily', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2046,6 +2047,69 @@ ${pageScripts()}
 
 
 // ============================================
+// LISTICLE PAGES
+// ============================================
+
+function buildListiclePage({ slug, title, description, canonicalPath, publishDate, htmlContent }) {
+  const canonical = `${SITE_URL}/${canonicalPath}/`;
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": title,
+    "description": description,
+    "datePublished": publishDate,
+    "dateModified": publishDate,
+    "author": {
+      "@type": "Organization",
+      "name": "VirtueVigil",
+      "url": SITE_URL
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "VirtueVigil",
+      "logo": { "@type": "ImageObject", "url": `${SITE_URL}/images/logo.svg` }
+    },
+    "mainEntityOfPage": { "@type": "WebPage", "@id": canonical }
+  };
+  const breadcrumbs = breadcrumbLD([
+    { name: "Home", url: SITE_URL },
+    { name: "Lists", url: `${SITE_URL}/lists/` },
+    { name: title, url: canonical }
+  ]);
+  return `${htmlHead({
+    title: `${title} | VirtueVigil`,
+    description,
+    canonical,
+    ogType: 'article',
+    structuredData,
+    breadcrumbs
+  })}
+<body>
+  ${topBanner()}
+  ${siteHeader('lists')}
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>${title}</h1>
+      <p class="lead">${esc(description)}</p>
+    </div>
+  </section>
+
+  <div class="page-layout">
+    ${sidebarHTML()}
+    <main class="main-content" role="main">
+      ${htmlContent}
+    </main>
+  </div>
+
+  ${fullFooter()}
+${pageScripts()}
+</body>
+</html>`;
+}
+
+
+// ============================================
 // MAIN BUILD
 // ============================================
 
@@ -2065,6 +2129,102 @@ function build() {
   writePage('woke-trap.html', buildWokeTrapPage());
   writePage('404.html', build404Page());
   writePage('oscars-2026/index.html', buildOscars2026Page());
+
+  // --- Listicle pages ---
+  console.log('\nBuilding listicle pages:');
+  writePage('lists/most-woke-movies-2024/index.html', buildListiclePage({
+    slug: 'most-woke-movies-2024',
+    title: '10 Most Woke Movies of 2024 (Ranked by VirtueVigil Score)',
+    description: 'The definitive ranking of the most ideologically woke films released in 2024, scored and analyzed using the VirtueVigil Woke Score methodology.',
+    canonicalPath: 'lists/most-woke-movies-2024',
+    publishDate: '2024-03-14',
+    htmlContent: `<article class="listicle-article">
+      <p>2024 was a year where Hollywood doubled down hard on progressive messaging. From prestige dramas to horror films to animated family fare, ideological content was woven into nearly every genre. Some films wore it openly. Others buried it under layers of craft, waiting until viewers were emotionally invested before revealing the thesis. Both approaches are documented here.</p>
+
+      <p>VirtueVigil scores films on a 0-100 scale where a higher number indicates a greater density of ideologically progressive content. These are not quality ratings. A high woke score does not mean a film is bad, and a low one does not mean it is good. The score reflects how much ideological messaging the film contains relative to its runtime, and how aggressively that messaging is delivered.</p>
+
+      <p>These 10 films topped our 2024 rankings. Every one of them has been reviewed in full on VirtueVigil with detailed trope-by-trope breakdowns. This list is a summary. If you want the full analysis, follow the links to each review.</p>
+
+      <p>The rankings below run from #10 (lowest woke score in the top 10) to #1 (highest). Scores reflect density of ideological content as measured by the VirtueVigil Woke Score system, not artistic merit or entertainment value.</p>
+
+      <hr>
+
+      <h2>#10 - Love Lies Bleeding (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 26.0 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Thriller</p>
+      <p>Rose Glass followed up Saint Maud with this surrealist neo-noir starring Kristen Stewart and Katy O'Brien. Stewart plays a gym manager in a violent family environment who falls for a female bodybuilder passing through town. The romance is explicitly lesbian, the relationship is intense and self-destructive, and the film tips into full surrealism by the final act. A24 distributed it. It premiered at Sundance. It sits at 94% on Rotten Tomatoes from critics. Glass is not interested in traditional narrative resolution, and the film's refusal of conventional moral frameworks is itself ideological. The woke score of 26 reflects consistent progressive content throughout, including the relationship framing, the treatment of the male characters in the story, and the surrealist climax that centers female rage as something mythic and justified.</p>
+      <p><a href="/reviews/love-lies-bleeding-2024/">Read the full VirtueVigil review of Love Lies Bleeding</a></p>
+
+      <hr>
+
+      <h2>#9 - Emilia Perez (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 28.0 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Musical/Crime/Drama</p>
+      <p>Jacques Audiard made a French film about a Mexican cartel boss who transitions to a woman, and it received 13 Oscar nominations -- the most ever for a non-English-language film. The film is genuinely strange and visually inventive, blending musical numbers, cartel violence, and identity transformation in ways that defy easy categorization. It also managed to unite progressive and conservative critics against it for different reasons: progressives criticized its depiction of Mexican culture and trans identity, conservatives objected to its central premise. The Academy celebrated it anyway. Our score reflects the density of identity-focused content layered into the cartel narrative, including how the transition is framed as liberation and moral rebirth, with the cartel past coded as a male identity to be discarded.</p>
+      <p><a href="/reviews/emilia-perez-2024/">Read the full VirtueVigil review of Emilia Perez</a></p>
+
+      <hr>
+
+      <h2>#8 - Monkey Man (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 28.0 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Action</p>
+      <p>Dev Patel wrote, directed, and starred in this revenge thriller set in a fictional Indian city ruled by corrupt politicians backed by Hindu nationalist religious figures. The film is a direct rebuke of Modi-era India filtered through John Wick-style action. Jordan Peele watched a rough cut and made sure it got into theaters after Netflix passed. The political subtext is not subtext -- it is the text. Patel spent seven years making this film, survived production injuries, and poured his anger at India's current political direction into every frame. The villain is essentially a thinly veiled Hindu nationalist, the hero comes from the lowest caste, and the climax takes place in a hijra sanctuary. That combination of identity politics and anti-establishment rage earns it a woke score of 28.</p>
+      <p><a href="/reviews/monkey-man-2024/">Read the full VirtueVigil review of Monkey Man</a></p>
+
+      <hr>
+
+      <h2>#7 - Wicked (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 28.42 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Musical</p>
+      <p>Jon M. Chu brought the Oz prequel to theaters with $150 million in marketing and 400 brand partnerships. Beneath the spectacle is a story about an outcast girl who is persecuted for being different -- the green-skinned Elphaba in a world that punishes nonconformity. The film frames institutional conformity as evil and otherness as strength. Ariana Grande plays Glinda as a well-meaning product of a corrupt system who slowly awakens to injustice. Cynthia Erivo's Elphaba is explicitly coded as a marginalized outsider whose radicalization is framed as moral growth. The marketing tried to position the film as family-friendly spectacle. The content is a consistent allegory for outsider identity, institutional corruption, and social justice awakening. Universal spent a fortune making it feel neutral. The story itself does not cooperate.</p>
+      <p><a href="/reviews/wicked-2024/">Read the full VirtueVigil review of Wicked</a></p>
+
+      <hr>
+
+      <h2>#6 - Immaculate (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 29.0 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Horror</p>
+      <p>Sydney Sweeney produced and stars in this film about an American nun who discovers she has been impregnated without consent at an Italian convent. Sweeney spent years developing the project specifically as a vehicle for its central message. The film uses Catholic iconography and the horror genre to deliver a forceful argument about bodily autonomy and reproductive rights. Every element of the convent setting is repurposed as a symbol of institutional control over women's bodies. The nuns who enforce the convent's rules are complicit in that control. The ending is one of the most explicit statements in recent mainstream horror: a woman destroys the institution that violated her body rather than accept her assigned role. There is no ambiguity about what the film is arguing for.</p>
+      <p><a href="/reviews/immaculate-2024/">Read the full VirtueVigil review of Immaculate</a></p>
+
+      <hr>
+
+      <h2>#5 - MaXXXine (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 32.0 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Horror/Crime</p>
+      <p>Ti West completed his X trilogy with a film set in 1985 Hollywood that doubles as a feminist manifesto wrapped in slasher aesthetics. Mia Goth stars as Maxine Minx, a survivor-turned-star whose ambition is framed as righteous defiance against a patriarchal entertainment industry. The film explicitly connects the religious right with misogyny and violence. Every male character is either predatory, incompetent, or both. The Satanic Panic backdrop is used to critique conservative moral authority. West is a skilled filmmaker, and the ideological content is embedded in genre conventions so effectively that it feels like part of the horror rather than a lecture. That craftsmanship is what pushes the woke score to 32. The messaging is dense, consistent, and never breaks character.</p>
+      <p><a href="/reviews/maxxxine-2024/">Read the full VirtueVigil review of MaXXXine</a></p>
+
+      <hr>
+
+      <h2>#4 - Anora (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 36.0 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Drama</p>
+      <p>Sean Baker won Best Picture at the 97th Academy Awards for this story of a Brooklyn sex worker who marries the son of a Russian oligarch, only to have the marriage annulled when his family intervenes. The film is sympathetic to its protagonist in a way that implicitly challenges conventional morality. It won the Palme d'Or at Cannes. The Academy followed Cannes. A consensus choice for the industry's most prestigious awards, and a film whose progressive framework is so deeply embedded in its storytelling that it does not need to announce itself. The sex work is presented without judgment. Class structures are interrogated. The ending refuses redemption through traditional means. Baker's filmmaking is naturalistic and humane, which makes the ideological content harder to isolate and easier to absorb.</p>
+      <p><a href="/reviews/anora-2024/">Read the full VirtueVigil review of Anora</a></p>
+
+      <hr>
+
+      <h2>#3 - The Substance (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 37.0 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Horror</p>
+      <p>Coralie Fargeat delivered a body horror film about a fading TV star who uses a black-market drug to create a younger version of herself. The film is a furious attack on Hollywood ageism and the male gaze, delivered with Cronenbergian excess and feminist fury. It does not pretend to be subtle. Every frame is a statement about how women are consumed by the entertainment industry. Demi Moore gives a career-redefining performance as a woman literally torn apart by the demand to stay young and desirable. Margaret Qualley plays her younger double with unsettling detachment. The body horror is the ideology made physical. Fargeat turns the camera into a weapon, forcing viewers to confront the violence of beauty standards. One of the most visually striking and deliberately provocative films of the year, with an authenticity index of 70 that confirms it believes every word it is saying.</p>
+      <p><a href="/reviews/the-substance-2024/">Read the full VirtueVigil review of The Substance</a></p>
+
+      <hr>
+
+      <h2>#2 - Heretic (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 41.0 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Horror</p>
+      <p>Hugh Grant stars as a soft-spoken man who traps two Mormon missionaries and proceeds to dismantle their faith using logic, manipulation, and film analysis. This is not a horror film that happens to include religion. It is an anti-Christian argument dressed in genre clothing. The film is intelligent, well-acted, and completely sincere in its goal of demonstrating that religion is a control mechanism. Grant's performance is magnetic and terrifying precisely because the character is articulate and persuasive. The missionaries are sympathetic but outmatched. The film gives religion a fair hearing only to demolish it systematically. Directors Scott Beck and Bryan Woods constructed a philosophical trap as tight as the physical one their characters are caught in. One of the most ideologically dense films of 2024, with a woke score that reflects just how relentlessly it pursues its thesis.</p>
+      <p><a href="/reviews/heretic-2024/">Read the full VirtueVigil review of Heretic</a></p>
+
+      <hr>
+
+      <h2>#1 - Conclave (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 42.6 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Thriller</p>
+      <p>Edward Berger directed this prestige thriller about electing a new Pope that spends its entire runtime interrogating Catholic doctrine and pushing a progressive theological agenda. Ralph Fiennes leads an ensemble cast through Vatican corridors where every conversation is a proxy battle between tradition and reform. The film is elegantly shot, expertly acted, and deeply ideological. Cardinals who represent conservative positions are portrayed as corrupt, power-hungry, or complicit. The reformist faction is given moral clarity. The twist ending involving intersex identity is the climax the entire film builds toward, reframing everything that came before as a setup for a progressive revelation. A Woke Trap by VirtueVigil definition: the political content is buried under prestige filmmaking and only fully revealed near the end. Nominated for 8 Academy Awards. The highest woke score of any 2024 film we reviewed.</p>
+      <p><a href="/reviews/conclave-2024/">Read the full VirtueVigil review of Conclave</a></p>
+
+      <hr>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality, entertainment value, or artistic merit. A high score means a film contains a high volume of identifiable progressive messaging relative to its runtime. For full details on how we score, visit our <a href="/methodology.html">Methodology</a> page.</p>
+
+      <p>This list reflects films reviewed by VirtueVigil as of the publication date. Additional 2024 titles may be reviewed and ranked in the future. Scores are final once published and are not adjusted retroactively.</p>
+    </article>`
+  }));
 
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
