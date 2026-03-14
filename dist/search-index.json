@@ -84,6 +84,18 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYmY4NGQ3ZjAtYjc2Zi00MDliLWI4MzQtMTZjNjlmNjUwNzE3XkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
+    "slug": "the-naked-gun-2025",
+    "title": "The Naked Gun",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Paramount Pictures)",
+    "genre": "Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 5.5,
+    "tradScore": 8.19,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQxOGJmZWItZGIwNy00MWUwLWFlNWQtM2JhMzNhMWVlMWNmXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
