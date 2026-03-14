@@ -12,6 +12,18 @@
     "poster": "/images/posters/a-working-man-2025.jpg"
   },
   {
+    "slug": "the-king-of-kings-2025",
+    "title": "The King of Kings",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated Biblical Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 19.6,
+    "poster": "/images/posters/the-king-of-kings-2025.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
