@@ -84,6 +84,18 @@
     "poster": "/images/posters/the-super-mario-bros-movie-2023.jpg"
   },
   {
+    "slug": "mission-impossible-dead-reckoning-part-one-2023",
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Thriller",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 4.2,
+    "tradScore": 22.12,
+    "poster": "/images/posters/mission-impossible-dead-reckoning-part-one-2023.jpg"
+  },
+  {
     "slug": "inception-2010",
     "title": "Inception",
     "verdict": "TRADITIONAL",
