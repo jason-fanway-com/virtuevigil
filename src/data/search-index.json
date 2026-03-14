@@ -72,6 +72,18 @@
     "poster": "/images/posters/horizon-an-american-saga-2024.jpg"
   },
   {
+    "slug": "last-breath-2025",
+    "title": "Last Breath",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (Focus Features)",
+    "genre": "Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3.4,
+    "tradScore": 24.29,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmY4NGQ3ZjAtYjc2Zi00MDliLWI4MzQtMTZjNjlmNjUwNzE3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
