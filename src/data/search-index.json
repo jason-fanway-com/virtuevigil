@@ -60,6 +60,18 @@
     "poster": "/images/posters/the-bikeriders-2024.jpg"
   },
   {
+    "slug": "horizon-an-american-saga-2024",
+    "title": "Horizon: An American Saga - Chapter 1",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Epic Western",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 6.35,
+    "tradScore": 28.98,
+    "poster": "/images/posters/horizon-an-american-saga-2024.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
