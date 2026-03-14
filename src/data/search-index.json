@@ -48,6 +48,18 @@
     "poster": "/images/posters/trap-2024.jpg"
   },
   {
+    "slug": "the-bikeriders-2024",
+    "title": "The Bikeriders",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Crime Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 5.5,
+    "tradScore": 23.1,
+    "poster": "/images/posters/the-bikeriders-2024.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
