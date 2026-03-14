@@ -2543,7 +2543,7 @@
     "date": "2026-03-08",
     "author": "VirtueVigil Editorial Team",
     "readTime": "11 min",
-    "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+    "poster": "/images/posters/hamnet-2025.jpg",
     "verdict": "TRADITIONAL LEAN",
     "wokeScore": 8.63,
     "tradScore": 18.41,
@@ -2764,7 +2764,8 @@
         "hamnet christian review",
         "shakespeare wife movie"
       ]
-    }
+    },
+    "poster_image": "/images/posters/hamnet-2025.jpg"
   },
   {
     "id": "bugonia-2025",
@@ -3082,7 +3083,7 @@
     "date": "2026-03-08",
     "author": "VirtueVigil Editorial Team",
     "readTime": "10 min",
-    "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+    "poster": "/images/posters/sentimental-value-2025.jpg",
     "verdict": "TRADITIONAL LEAN",
     "wokeScore": 16.64,
     "tradScore": 23.59,
@@ -3370,7 +3371,8 @@
         "Affeksjonsverdi review",
         "Sentimental Value family values"
       ]
-    }
+    },
+    "poster_image": "/images/posters/sentimental-value-2025.jpg"
   },
   {
     "id": "white-lotus-s3-2025",
@@ -50921,7 +50923,7 @@
     "date": "2026-03-08",
     "author": "VirtueVigil Editorial Team",
     "readTime": "10 min",
-    "poster": "https://image.tmdb.org/t/p/w500/nij3i5ziQdqfiK29gb4rX1bkmVy.jpg",
+    "poster": "/images/posters/blue-moon-2025.jpg",
     "verdict": "MIXED",
     "wokeScore": 11.54,
     "tradScore": 14.07,
@@ -51122,7 +51124,8 @@
         "blue moon christian review",
         "blue moon content guide"
       ]
-    }
+    },
+    "poster_image": "/images/posters/blue-moon-2025.jpg"
   },
   {
     "id": "it-was-just-an-accident-2025",
