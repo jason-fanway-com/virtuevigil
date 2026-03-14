@@ -24,6 +24,18 @@
     "poster": "/images/posters/the-king-of-kings-2025.jpg"
   },
   {
+    "slug": "one-of-them-days-2025",
+    "title": "One of Them Days",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Buddy Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 7.18,
+    "tradScore": 5,
+    "poster": "/images/posters/one-of-them-days-2025.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
