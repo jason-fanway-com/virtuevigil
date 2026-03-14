@@ -1,5 +1,17 @@
 [
   {
+    "slug": "a-working-man-2025",
+    "title": "A Working Man",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 17.36,
+    "poster": "/images/posters/a-working-man-2025.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
