@@ -2226,6 +2226,300 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/best-conservative-movies/index.html', buildListiclePage({
+    slug: 'best-conservative-movies',
+    title: '15 Best Conservative Movies of All Time (Ranked by VirtueVigil Score)',
+    description: 'The definitive ranking of the most traditionally-scored films in VirtueVigil history. Every entry is STRONGLY TRADITIONAL or TRADITIONAL with a positive score margin. Ranked by data, not opinion.',
+    canonicalPath: 'lists/best-conservative-movies',
+    publishDate: '2026-03-14',
+    htmlContent: `<article class="listicle-article">
+
+<p>What does a conservative movie actually look like when you measure it with data instead of vibes?</p>
+
+<p>VirtueVigil uses a dual-scoring system: a Woke Score (0-100) measuring the density of progressive ideological content, and a Traditional Score (0-50) measuring the presence of traditional values content. The Score Margin tells you which direction the film leans and by how much.</p>
+
+<p>This list ranks the 15 highest-scoring films in the STRONGLY TRADITIONAL and TRADITIONAL categories across all of VirtueVigil history. Every entry was selected on score alone. No personal favorites. No editorial thumb on the scale. The data made this list, not an agenda.</p>
+
+<p>Each film is internally linked to its full VirtueVigil review, where you can read the complete trope audit, the creative team analysis, and the parental guidance assessment. The summary below gives you enough to make a viewing decision. The full review gives you the receipts.</p>
+
+<p>One rule for this list: only films are eligible. TV series score separately. These are all theatrical or streaming films reviewed and scored by VirtueVigil analysts using the full VVWS methodology.</p>
+
+<hr>
+
+<h2>#1 &mdash; <a href="/reviews/reagan-2024/">Reagan (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 44.28</span>
+  <span class="mini-score woke">WOKE: 2.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +42 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Biography/Drama/History &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Reagan is the highest-scoring STRONGLY TRADITIONAL film in the VirtueVigil database. Dennis Quaid's portrayal of the 40th president is an unapologetic act of devotion, framing Reagan's life as a providential story of American greatness. The film's tradScore of 44.28 reflects dense traditional values content throughout: God, country, family, anti-communism, and the moral clarity of the Cold War. Jon Voight's framing narration as a KGB agent who grudgingly admires his subject is the smartest structural decision in the film. Critics hated it (18% on Rotten Tomatoes). The audience loved it (98%). That gap tells you everything about whose values it was made for.</p>
+
+<p><a href="/reviews/reagan-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Reagan</a></p>
+
+<hr>
+
+<h2>#2 &mdash; <a href="/reviews/ne-zha-2-2025/">Ne Zha 2 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 38.57</span>
+  <span class="mini-score woke">WOKE: 0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +39 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Animation/Fantasy/Action &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Ne Zha 2 is proof that the most powerful conservative filmmaking in the world is not coming from Hollywood right now. It is coming from China. The sequel to the 2019 box office phenomenon carries forward a story rooted in Taoist mythology about destiny, sacrifice, filial loyalty, and the courage to defy a corrupt cosmic order. A woke score of exactly zero. A tradScore of 38.57. The highest-grossing animated film ever made, and it earned it. The film's themes of personal responsibility, respect for tradition, and the debt sons owe their fathers are not incidental to the story. They are the story.</p>
+
+<p><a href="/reviews/ne-zha-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ne Zha 2</a></p>
+
+<hr>
+
+<h2>#3 &mdash; <a href="/reviews/am-i-racist-2024/">Am I Racist? (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 33.81</span>
+  <span class="mini-score woke">WOKE: 3.7</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +30 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Documentary/Comedy &bull; <strong>Platform:</strong> Theatrical / DailyWire+</p>
+
+<p>Matt Walsh brought a hidden camera to the DEI industry and let it destroy itself. Am I Racist? follows Walsh as he goes undercover, pays real money for DEI certification, and interviews the activists and consultants who have built a multi-billion dollar industry around racial guilt. The documentary is funny, infuriating, and methodically damning. A tradScore of 33.81 reflects dense traditional values content throughout: the film treats equality under the law as a self-evident good, rejects race-based classification systems, and documents the absurdity of ideological purity tests with the patience of a prosecutorial brief.</p>
+
+<p><a href="/reviews/am-i-racist-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Am I Racist?</a></p>
+
+<hr>
+
+<h2>#4 &mdash; <a href="/reviews/how-to-train-your-dragon-2025/">How to Train Your Dragon (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 33.2</span>
+  <span class="mini-score woke">WOKE: 4.7</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +29 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Family/Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Dean DeBlois refused to let Hollywood ruin his dragons. After directing all three animated films, he insisted on full creative control for the live-action remake and got it. What he made is an anomaly: a 2025 major studio release that is genuinely pro-family, centered on masculine mentorship, and completely free of ideological agenda. A tradScore of 33.2 with a woke score of only 4.7. The story of a son proving himself to a disappointed father, finding courage through a forbidden friendship, and saving a community that doubted him is told without condescension and without revision. It is exactly what a conservative family needs from an action-adventure film.</p>
+
+<p><a href="/reviews/how-to-train-your-dragon-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of How to Train Your Dragon</a></p>
+
+<hr>
+
+<h2>#5 &mdash; <a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 30.8</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +27 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Streaming</p>
+
+<p>Angel Studios distributed the film that Hollywood buried. Sound of Freedom sat on a shelf for five years after Disney's acquisition of Fox because nobody in the corporate entertainment ecosystem wanted to back a $14.5 million movie about child trafficking. Jim Caviezel plays Tim Ballard, a DHS agent who leaves his government job to rescue exploited children in Colombia. A tradScore of 30.8 with a woke score of 4.2. The film earned over $250 million at the box office on a word-of-mouth campaign that bypassed mainstream critics entirely. It is the most successful independent release in modern history, and it exists because audiences showed up without being told to.</p>
+
+<p><a href="/reviews/sound-of-freedom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sound of Freedom</a></p>
+
+<hr>
+
+<h2>#6 &mdash; <a href="/reviews/horizon-an-american-saga-2024/">Horizon: An American Saga (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28.98</span>
+  <span class="mini-score woke">WOKE: 6.35</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Epic Western &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Kevin Costner spent 35 years trying to make this film. He mortgaged his personal assets for $38 million to fund a Western epic about the American frontier that Hollywood refused to greenlight. Horizon: An American Saga Chapter 1 is an unapologetically patriotic vision of westward expansion, told with the sweeping patience of a John Ford film and the personal conviction of a filmmaker who actually believes in the story he is telling. A tradScore of 28.98. The film was not a commercial success, which is a genuine cultural loss. It is the kind of movie that can only be made by someone who does not need anyone's permission.</p>
+
+<p><a href="/reviews/horizon-an-american-saga-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Horizon: An American Saga</a></p>
+
+<hr>
+
+<h2>#7 &mdash; <a href="/reviews/solo-leveling-reawakening-2024/">Solo Leveling: ReAwakening (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28.35</span>
+  <span class="mini-score woke">WOKE: 1.26</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +27 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Animation/Action/Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The highest-grossing anime theatrical event ever released in North America, and one of the cleanest watches in the VirtueVigil database for parents with teenage sons. Solo Leveling: ReAwakening follows Sung Jinwoo, the weakest hunter in a world of monsters, as he discovers a hidden power and begins a solitary ascent toward strength. A woke score of 1.26. A tradScore of 28.35. The film's values are straightforwardly traditional: self-improvement through hardship, protection of the weak, personal sacrifice for the people you love, and the importance of becoming someone worthy of the burdens placed on you.</p>
+
+<p><a href="/reviews/solo-leveling-reawakening-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Solo Leveling: ReAwakening</a></p>
+
+<hr>
+
+<h2>#8 &mdash; <a href="/reviews/david-2025/">David (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28</span>
+  <span class="mini-score woke">WOKE: 2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +26 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Animation/Musical/Biblical Epic &bull; <strong>Platform:</strong> Theatrical / Angel Studios</p>
+
+<p>Angel Studios animated a 3,000-year-old story and made it feel urgent. David follows the shepherd boy from Bethlehem through his anointing, his friendship with Jonathan, his confrontation with Goliath, and his tumultuous relationship with the increasingly unhinged King Saul. It is a biblical musical with real dramatic weight. A tradScore of 28 with a woke score of 2. The film's treatment of faith is unashamed: God is real, covenant matters, and courage in the face of impossible odds is what God asks of the people He chooses. There is nothing subtle about the message. That is the point.</p>
+
+<p><a href="/reviews/david-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of David</a></p>
+
+<hr>
+
+<h2>#9 &mdash; <a href="/reviews/peaky-blinders-the-immortal-man-2026/">Peaky Blinders: The Immortal Man (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28</span>
+  <span class="mini-score woke">WOKE: 5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Crime/Drama/History &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+
+<p>The Peaky Blinders film does not apologize for Tommy Shelby and it does not soften him. Cillian Murphy returns as a man who comes out of hiding to save his son, fight the rise of European fascism, and settle thirty years of debt to his family and his city. A tradScore of 28 with a woke score of 5. The film is masculine, violent, and morally serious in the way that only crime dramas about consequences can be. It is a celebration of conviction, loyalty, and the kind of love that expresses itself through protection rather than sentiment. The best theatrical crime drama in years.</p>
+
+<p><a href="/reviews/peaky-blinders-the-immortal-man-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Peaky Blinders: The Immortal Man</a></p>
+
+<hr>
+
+<h2>#10 &mdash; <a href="/reviews/the-wild-robot-2024/">The Wild Robot (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 27.93</span>
+  <span class="mini-score woke">WOKE: 7.12</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +21 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Animation &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+
+<p>Chris Sanders made the most subversive animated film of 2024, and not in the way Hollywood usually means that word. In a year full of films teaching children lessons about identity and inclusion, Sanders made a movie about a robot who accidentally becomes a mother and discovers that raising a child is the most important thing she will ever do. A tradScore of 27.93. The Wild Robot is a masterwork of visual storytelling that champions self-sacrifice, the irreplaceable bond between parent and child, and the communal obligation to protect the next generation. DreamWorks let this get made and it deserved every award it received.</p>
+
+<p><a href="/reviews/the-wild-robot-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Wild Robot</a></p>
+
+<hr>
+
+<h2>#11 &mdash; <a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.46</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +22 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Crime/Thriller &bull; <strong>Platform:</strong> Theatrical / Amazon MGM</p>
+
+<p>Christian Wolff is one of the most quietly compelling protagonists in contemporary action cinema: a forensic accountant with autism who operates outside the law in service of a rigorous personal moral code. The Accountant 2 does what rare sequels manage to do, which is deepen the original without betraying it. A tradScore of 26.46 with a woke score of 4.2. The film's values are embedded in the character: loyalty to family, the weight of commitment, justice achieved through personal risk rather than institutional authority. Ben Affleck gives one of his most controlled performances. The action is excellent. The ideology is clean.</p>
+
+<p><a href="/reviews/the-accountant-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Accountant 2</a></p>
+
+<hr>
+
+<h2>#12 &mdash; <a href="/reviews/karate-kid-legends-2025/">Karate Kid: Legends (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.32</span>
+  <span class="mini-score woke">WOKE: 3.15</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Drama/Family &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>VirtueVigil gave Karate Kid: Legends the safest family recommendation we issue. It is not a woke trap. It is not even close. The film is about older men transmitting wisdom to a young man who needs it, centered on discipline and honor, and it delivers exactly what the trailer promises. A tradScore of 26.32 with a woke score of only 3.15. Jackie Chan and Ben Wang bring genuine warmth to a mentorship story that trusts the audience enough to play it straight. Buy a ticket without hesitation. The only question to ask is about quality, and the answer there is good enough to be worth your Saturday afternoon.</p>
+
+<p><a href="/reviews/karate-kid-legends-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Karate Kid: Legends</a></p>
+
+<hr>
+
+<h2>#13 &mdash; <a href="/reviews/john-wick-chapter-4-2023/">John Wick: Chapter 4 (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 23.52</span>
+  <span class="mini-score woke">WOKE: 0.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Crime/Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>John Wick: Chapter 4 is the cleanest major franchise from a traditional values standpoint in the last five years and also one of the best action films of the decade. A woke score of 0.5. A tradScore of 23.52. Chad Stahelski's nearly three-hour conclusion to John Wick's arc scales everything that made the first film work to operatic proportions: the honor codes, the loyalty oaths, the world-building built on contracts and consequences rather than ideology. The film's internal moral universe is more coherent than most dramas. John Wick does what he does because he made promises to people he loves and he keeps them. That is the whole movie.</p>
+
+<p><a href="/reviews/john-wick-chapter-4-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of John Wick: Chapter 4</a></p>
+
+<hr>
+
+<h2>#14 &mdash; <a href="/reviews/top-gun-maverick-2022/">Top Gun: Maverick (2022)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 21.28</span>
+  <span class="mini-score woke">WOKE: 1.05</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Drama &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Top Gun: Maverick is the best American action film in at least a decade. That is not hyperbole. It is a film that remembered something most of Hollywood has forgotten, which is that audiences want to feel something, not be taught something. A tradScore of 21.28 with a woke score of only 1.05. Tom Cruise plays a man who has spent 30 years refusing to become what the Navy needs him to be: a manager, an administrator, a relic. His refusal is not selfishness. It is conviction. The film is pro-military without being naive, patriotic without being preachy, and emotionally generous to every character including the ones it sets up as antagonists. The last great Hollywood blockbuster.</p>
+
+<p><a href="/reviews/top-gun-maverick-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Top Gun: Maverick</a></p>
+
+<hr>
+
+<h2>#15 &mdash; <a href="/reviews/the-batman-2022/">The Batman (2022)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22.05</span>
+  <span class="mini-score woke">WOKE: 8</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +14 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Crime/Neo-Noir &bull; <strong>Platform:</strong> Theatrical / Max</p>
+
+<p>The Batman earns its place on this list not through patriotism or faith, but through moral seriousness. Matt Reeves made a detective story about a man who understands that systemic corruption cannot be fixed by punching criminals, and has to reckon with his own complicity in the city's rot. A tradScore of 22.05. The film is dark, methodical, and genuinely frightening in ways that have nothing to do with special effects. Robert Pattinson's Batman is not an aspirational figure. He is a grief-consumed man slowly learning that justice requires more than vengeance. That moral arc, and the film's unflinching willingness to follow it to its logical conclusion, makes it one of the most serious superhero films ever made.</p>
+
+<p><a href="/reviews/the-batman-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Batman</a></p>
+
+<hr>
+
+<div class="listicle-conclusion">
+<h2>The Methodology Behind This List</h2>
+
+<p>Every score on this list comes from a VirtueVigil analyst applying the full VVWS (VirtueVigil Weighted Scoring) methodology. That means a trope-by-trope audit of every ideological element in the film, weighted by severity, authenticity, and centrality to the narrative.</p>
+
+<p>The Traditional Score measures: family values content, patriotic themes, faith-positive framing, masculine virtue coding, work ethic and personal responsibility, rule of law and institutional trust, and traditional gender role representation. The Woke Score measures the inverse: progressive identity politics, anti-establishment messaging, traditional value deconstruction, and ideological prescription.</p>
+
+<p>The Score Margin is simply Traditional Score minus Woke Score. A positive margin means the film's values tilt conservative. A negative margin means they tilt progressive. Every film on this list has a positive margin.</p>
+
+<p>This list will be updated quarterly as new reviews are published. If a film earns a high enough score to enter the top 15, it will appear here. The data decides the rankings. We just do the math.</p>
+
+<p>Want to see what the opposite looks like? Read our companion list: <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a>.</p>
+
+<p>Questions about methodology? Start with the <a href="/methodology.html">VirtueVigil Methodology</a> page.</p>
+</div>
+
+</article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
