@@ -60272,5 +60272,208 @@
         "note": "Classic buddy-plus-romance comedy with more ideological balance. Mentioned as a point of contrast - the kind of comedy where male and female characters are both developed and both capable of growth."
       }
     ]
+  },
+  {
+    "id": "trap-2024",
+    "slug": "trap-2024",
+    "title": "Trap",
+    "year": 2024,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Thriller",
+    "date": "2026-03-14",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "10 min",
+    "poster": "/images/posters/trap-2024.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 13.5,
+    "tradScore": 14.24,
+    "authIndex": 51,
+    "scoreMargin": "+1 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Not a woke trap. Trap's marketing was transparent: a serial killer attends a concert, the FBI has surrounded the venue. The trailers made clear Cooper was the villain, his identity as the Butcher was the central premise, and the thriller mechanics were front-and-center. Conservative audiences knew going in that a murderer was the protagonist. The film's mixed values are visible from the premise itself. There is no bait-and-switch. The only surprise for some viewers may be how much genuine family warmth the film delivers alongside the violence."
+    },
+    "creative_team": {
+      "director": {
+        "name": "M. Night Shyamalan",
+        "ideology": "INDEPENDENT CENTRIST. Shyamalan is one of Hollywood's few genuinely independent filmmakers, self-financing his projects through Blinding Edge Pictures. His films consistently feature family as the most important human institution, moral consequences for wrongdoing, and a sense of mystery or higher purpose in the universe. He is not an ideological filmmaker in the progressive mold. His films (The Sixth Sense, Signs, The Village, Split, Glass, Old) tend to feature traditional families, faith elements, and narratives in which evil is ultimately confronted and defeated. Trap is no exception in its structural commitment to family love as a real force.",
+        "profile": "Born August 6, 1970 in Mahe, India, raised in Philadelphia. Shyamalan burst onto the scene with The Sixth Sense (1999), which earned six Academy Award nominations. His career has been defined by high-concept thrillers with twist endings. After a critical cold period in the 2000s, he reinvented himself with the Unbreakable trilogy (Unbreakable, Split, Glass) and has maintained his independence from major studios. Trap is notable for featuring his daughter Saleka Night Shyamalan as Lady Raven, with the entire film built around a real concert pop experience she created."
+      },
+      "writer": {
+        "name": "M. Night Shyamalan",
+        "profile": "As writer-director, Shyamalan maintains complete creative control. Trap was inspired partly by Operation Flagship, a 1985 sting operation in which disguised law enforcement arrested 101 wanted fugitives at a convention center by luring them under the pretense of receiving prizes. Shyamalan conceived the film as a collaboration with his daughter Saleka to merge the concert and theatrical experience."
+      },
+      "lead_producer": {
+        "name": "Ashwin Rajan, Marc Bienstock, M. Night Shyamalan",
+        "company": "Blinding Edge Pictures / Warner Bros. Pictures"
+      },
+      "composer": {
+        "name": "Herdis Stefansdottir",
+        "profile": "Icelandic composer whose atmospheric work complements Shyamalan's tense thriller aesthetic. The film also features an original pop album by Saleka Night Shyamalan as Lady Raven, performed live during the concert sequences."
+      },
+      "top_cast": [
+        {
+          "name": "Josh Hartnett",
+          "role": "Cooper Abbott - firefighter, devoted father, and serial killer known as 'the Butcher'"
+        },
+        {
+          "name": "Ariel Donoghue",
+          "role": "Riley Abbott - Cooper's teenage daughter, Lady Raven superfan"
+        },
+        {
+          "name": "Saleka Night Shyamalan",
+          "role": "Lady Raven - pop superstar who becomes Cooper's unexpected adversary"
+        },
+        {
+          "name": "Alison Pill",
+          "role": "Rachel Abbott - Cooper's wife, the moral compass of the film"
+        },
+        {
+          "name": "Hayley Mills",
+          "role": "Dr. Josephine Grant - FBI profiler leading the operation to catch the Butcher"
+        }
+      ]
+    },
+    "summary": {
+      "overall": "M. Night Shyamalan's Trap is a high-concept thriller built on a genuinely clever premise: a serial killer attends a pop concert with his teenage daughter, only to discover the FBI has surrounded the venue knowing the killer will be there. The film places us inside the perspective of Cooper Abbott (Josh Hartnett), a firefighter, devoted father, and the serial killer known as the Butcher, as he tries to escape the net while keeping his daughter Riley unaware and safe.\n\nShyamalan's filmmaking is characteristically efficient. The concert-venue setting creates a pressure-cooker environment, the escalating paranoia as Cooper discovers each exit is blocked generates real tension, and Hartnett delivers a committed performance as a man who genuinely loves his daughter while being a monster to everyone else. The pop concert sequences, featuring Shyamalan's real-life daughter Saleka Night Shyamalan as Lady Raven, are more engaging than expected - her original music works within the film's world.\n\nFor VirtueVigil's audience, Trap presents a genuinely mixed values picture. On the positive side: the father-daughter relationship at the film's core is portrayed with real warmth. Cooper's love for Riley is the most authentic emotion in the film, and Hartnett makes you believe it completely. The family unit - Cooper, Rachel, Riley, and young Logan - is depicted as a genuinely functioning, loving household. Law enforcement is portrayed as competent, morally serious, and ultimately victorious. Rachel (Alison Pill) emerges as the film's true moral hero: she suspected her husband and set the FBI trap herself, an act of breathtaking courage and moral clarity that is treated with full respect. There are clear, real consequences for evil: Cooper is caught.\n\nThe complications: the film asks us to inhabit the perspective of a serial killer for most of its runtime, and does so with considerable skill at making him sympathetic. Cooper's love for his daughter is real, but so are his victims. The FBI profiler who cracks the case is a woman (Dr. Grant), while the male authority figures around her are less effective. The film's ending undercuts its moral satisfactions somewhat by showing Cooper escaping from the police van - a sequel hook that somewhat deflates the justice served. And the central conceit requires us to root for, or at least emotionally track with, a murderer for 105 minutes.\n\nThe balance of these elements lands at MIXED. The film is not ideologically driven - Shyamalan's concerns are thriller mechanics and family dynamics, not political messaging. But the protagonist-as-monster framing and the female-saves-the-day structure pull the score into near-parity.",
+      "parental_guidance": "Rated PG-13. Parents should be aware of: Cooper keeps a kidnapped victim in a basement (shown briefly in video footage), escalating violence including shootings and fighting, a character attempts to escape through violent means, strong language throughout, thematic content involving serial murder and a husband deceiving his entire family. The film's PG-13 rating reflects relatively restrained depictions of violence for the subject matter. Cooper's killing is described rather than graphically shown. Not appropriate for children under 13, and the serial killer protagonist framing may be disturbing to sensitive teenagers regardless of rating."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-SERIAL-001",
+        "name": "Serial Killer Protagonist Normalization / Sympathetic POV",
+        "category": "woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 5.4,
+        "description": "The entire film operates from Cooper's point of view. We want him to escape - or at least feel his tension as he tries to. We see his love for Riley, his quick thinking, his charm. He is the most interesting character in the film by design. Shyamalan is a skilled enough filmmaker that this does not glamorize murder, but 105 minutes of serial killer POV inevitably creates some sympathy for a man who has kidnapped, tortured, and killed multiple people. The film's moral framing (Rachel's heroism, Cooper's ultimate capture) corrects for this, but the prolonged humanization of evil is a notable content concern. Severity 3: sustained but mitigated by moral framing. Authenticity Moderate (1.0): the thriller genre regularly uses villain POV. Centrality High (1.8): this IS the film's structure. Weighted: 3 x 1.0 x 1.8 = 5.40"
+      },
+      {
+        "id": "WOKE-GENDER-002",
+        "name": "Female Intellectual Superior / Male Authorities Bypassed",
+        "category": "woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "Dr. Josephine Grant is the FBI profiler who identified the Butcher would be at the concert and devised the entire sting. Male law enforcement officers are competent tactically but the intellectual breakthrough comes from her. She correctly profiles Cooper as someone with maternal issues and OCD. This is a common thriller convention but follows the pattern of female intellectual authority over male institutional frameworks. Severity 2: not the film's focus. Authenticity Moderate (1.0): female profilers are realistic. Centrality Moderate (1.0): important to the plot but not the film's thematic center. Weighted: 2 x 1.0 x 1.0 = 2.00"
+      },
+      {
+        "id": "WOKE-WIFE-003",
+        "name": "Wife as Covert Hero / Husband Deceiver",
+        "category": "woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 5.4,
+        "description": "Rachel is revealed to be the film's true hero: she suspected Cooper was the Butcher, found the ticket receipt, and anonymously tipped off the FBI - setting the entire sting in motion. She then drugs him with pills to ensure his capture. The husband is deceived and overcome not by physical force or male law enforcement but by his own wife's quiet moral courage and intelligence. This is a positive portrayal of a woman acting with heroism, but it positions the husband as completely fooled by the woman he trusted most - a recurring pattern in contemporary thrillers. Severity 3: significant reversal of traditional husband-as-protector. Authenticity Moderate (1.0): believable and well-executed. Centrality High (1.8): the film's climactic moral revelation. Weighted: 3 x 1.0 x 1.8 = 5.40"
+      },
+      {
+        "id": "WOKE-ESCAPE-004",
+        "name": "Villain Escapes Justice / Sequel Hook Undermines Moral Resolution",
+        "category": "woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "The final shot shows Cooper escaping from the police van, having hidden a bicycle spoke on his person. The justice that seemed delivered is immediately undermined. This is a franchise-building choice that trades moral satisfaction for sequel potential. For families who want clear consequences for evil, the ending is frustrating. Severity 2: brief final sequence. Authenticity High (0.7): fits the thriller genre and Cooper's character. Centrality Low (0.5): tacked on, does not affect the film's main arc. Weighted: 2 x 0.7 x 0.5 = 0.70"
+      },
+      {
+        "id": "TRAD-FAM-001",
+        "name": "Father-Daughter Devotion as Story's Emotional Core",
+        "category": "trad",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Cooper's love for Riley is the film's emotional engine. He attends the concert for her. He lies to the FBI for her. He weeps at their final embrace before being taken away. The relationship is portrayed with genuine warmth and Hartnett sells every moment of it. Shyamalan does not ironize or deconstruct this paternal love - it is presented as real, powerful, and the one grace note in a monster's life. The final tearful hug between father and daughter as he is led away is genuinely moving regardless of the moral context. Severity 4: drives the entire film emotionally. Authenticity High (0.7): deeply felt, never mocked. Centrality High (1.8): the film's heart. Weighted: 4 x 0.7 x 1.8 = 5.04"
+      },
+      {
+        "id": "TRAD-FAM-002",
+        "name": "Functional Family Unit Depicted with Love",
+        "category": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "The Abbott family - father, mother, teenage daughter, young son - is portrayed as a genuinely loving household. The home is warm, children are cherished, parents are engaged. This traditional family structure is not mocked or treated as ironic cover for dysfunction; it is authentic. The horror of the film is not that the family was a lie, but that something monstrous existed alongside something real. Severity 3: establishes the film's emotional stakes. Authenticity High (0.7): Shyamalan shoots domestic scenes with genuine tenderness. Centrality Moderate (1.0): establishes stakes, returns at the end. Weighted: 3 x 0.7 x 1.0 = 2.10"
+      },
+      {
+        "id": "TRAD-JUST-003",
+        "name": "Evil Has Consequences / Criminal Is Caught",
+        "category": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Cooper is apprehended. Dr. Grant leads his capture. The FBI sting succeeds. Law enforcement is competent and triumphant. The villain does not simply walk away. The film's moral arc delivers on consequences, even if the post-credits escape partially undermines this. The primary narrative resolution is just: the Butcher is caught. Severity 3: important moral payoff. Authenticity High (0.7): satisfying resolution to the thriller mechanics. Centrality Moderate (1.0): the climax of the film. Weighted: 3 x 0.7 x 1.0 = 2.10"
+      },
+      {
+        "id": "TRAD-MAT-004",
+        "name": "Maternal Moral Courage / Wife Acts to Protect Family and Society",
+        "category": "trad",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.0,
+        "description": "Rachel's heroism is grounded in traditional maternal and marital values inverted: she suspects her husband, cannot reconcile the loving father she knows with the monster he also is, and ultimately chooses society and her children's safety over spousal loyalty. This is not feminist ideology - it is moral courage of the most ancient kind. She acts at enormous personal risk (Cooper is standing in her kitchen when she drugs the pie). The film honors her choice. Severity 3: the film's moral turning point. Authenticity Moderate (1.0): well-executed but arrives late in the story. Centrality Moderate (1.0): reveals the truth of how the sting was set. Weighted: 3 x 1.0 x 1.0 = 3.00"
+      },
+      {
+        "id": "TRAD-LAW-005",
+        "name": "Law Enforcement Portrayed as Competent and Morally Serious",
+        "category": "trad",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "The FBI sting operation is professional, well-resourced, and ultimately effective. Dr. Grant is not a corrupt or bumbling bureaucrat - she is a skilled professional who identified the Butcher would be at the concert and set a sophisticated trap. Police officers throughout the film are shown doing their jobs. Law enforcement is not the enemy here; it is the force of justice that ultimately wins. Severity 2: supportive rather than central. Authenticity High (0.7): accurate and respectful depiction. Centrality Moderate (1.0): essential structural element. Weighted: 2 x 0.7 x 1.0 = 1.40"
+      }
+    ],
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Some violence and disturbing content",
+      "recommendedAge": "14+",
+      "contentWarnings": [
+        "A kidnapped victim held in a basement (shown briefly in phone footage)",
+        "Serial killer is the film's protagonist for most of the runtime",
+        "Physical altercations and shootings",
+        "A character sets off a kitchen explosion as a distraction",
+        "A character is drugged without their knowledge (pie laced with pills)",
+        "Strong language throughout",
+        "Thematic content involving serial murder, family deception, and kidnapping",
+        "Brief hallucination sequence",
+        "Open-ended villain escape in final scene"
+      ],
+      "guidance": "Trap is a PG-13 thriller that handles its violent subject matter with relative restraint - Cooper's murders are described rather than graphically depicted. However, the film's sustained invitation to inhabit a serial killer's perspective is not appropriate for young children and may be disturbing for sensitive teenagers. The father-daughter relationship at the film's heart makes it more emotionally engaging than typical thriller fare, but parents should prepare teens for the moral complexity of rooting for an escape they should not want to happen. The ending's villain-escapes note is worth discussing with adolescents who may find the lack of full accountability frustrating."
+    },
+    "fidelityCasting": {
+      "sourceType": "Original",
+      "assessment": "Original screenplay by M. Night Shyamalan. No source material casting to compare. Josh Hartnett's casting as an affable, handsome firefighter who moonlights as a serial killer is a shrewd choice - his natural charm makes Cooper's ability to deceive entirely believable. Hartnett was experiencing a career resurgence after Oppenheimer (2023) and brings genuine leading-man gravitas to the role. Saleka Night Shyamalan's casting as Lady Raven is clearly a family passion project, and her actual pop star skills make the concert sequences more convincing than they might otherwise be."
+    },
+    "comparison_films": [
+      "Collateral (2004) - Michael Mann thriller with a killer as reluctant protagonist",
+      "Silence of the Lambs (1991) - FBI profiler vs. serial killer, female lead",
+      "Signs (2002) - Shyamalan's family-under-siege thriller"
+    ],
+    "seo": {
+      "metaTitle": "Trap (2024) Review - Is It Woke? | VirtueVigil",
+      "metaDescription": "VirtueVigil's values analysis of M. Night Shyamalan's Trap (2024). Josh Hartnett plays a serial killer at a pop concert. Full VVWS scoring, trope audit, and parental guidance for conservative audiences.",
+      "keywords": [
+        "trap 2024 woke review",
+        "trap m night shyamalan conservative review",
+        "trap 2024 values analysis",
+        "is trap 2024 woke",
+        "trap josh hartnett review",
+        "trap 2024 parent guide",
+        "trap 2024 christian review",
+        "trap shyamalan political message",
+        "virtue vigil trap review",
+        "trap 2024 family values"
+      ]
+    }
   }
 ]
