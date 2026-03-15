@@ -144,6 +144,18 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
+    "slug": "smile-2-2024",
+    "title": "Smile 2",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror, Mystery, Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 8.1,
+    "tradScore": 10.92,
+    "poster": "/images/posters/smile-2-2024.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
