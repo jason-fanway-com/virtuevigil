@@ -96,6 +96,18 @@
     "poster": "/images/posters/beverly-hills-cop-axel-f-2024.jpg"
   },
   {
+    "slug": "bob-marley-one-love-2024",
+    "title": "Bob Marley: One Love",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Paramount) / Streaming (Paramount+)",
+    "genre": "Biography, Drama, Music",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 11,
+    "tradScore": 16,
+    "poster": "/images/posters/bob-marley-one-love-2024.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
