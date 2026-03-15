@@ -144,6 +144,18 @@
     "poster": "/images/posters/black-phone-2-2025.jpg"
   },
   {
+    "slug": "nonnas-2025",
+    "title": "Nonnas",
+    "verdict": "TRADITIONAL",
+    "platform": "Streaming (Netflix)",
+    "genre": "Comedy-Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 17,
+    "poster": "/images/posters/nonnas-2025.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
