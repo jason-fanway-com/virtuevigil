@@ -1,5 +1,17 @@
 [
   {
+    "slug": "american-sniper-2014",
+    "title": "American Sniper",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (Warner Bros.)",
+    "genre": "Action, Biography, Drama",
+    "year": 2014,
+    "type": "film",
+    "wokeScore": 2.45,
+    "tradScore": 36.6,
+    "poster": "/images/posters/american-sniper-2014.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
