@@ -1517,6 +1517,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/woke-trap.html`, changefreq: 'monthly', priority: '0.7' },
     { loc: `${SITE_URL}/oscars-2026/`, changefreq: 'daily', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/family-friendly-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2516,6 +2517,162 @@ function build() {
 
 <p>Questions about methodology? Start with the <a href="/methodology.html">VirtueVigil Methodology</a> page.</p>
 </div>
+
+</article>`
+  }));
+
+  writePage('lists/family-friendly-movies-2024/index.html', buildListiclePage({
+    slug: 'family-friendly-movies-2024',
+    title: 'Top 10 Family-Friendly Movies That Won\'t Push an Agenda',
+    description: 'Looking for family movies without the woke agenda? Here are the 10 best family-friendly films with the lowest woke scores on VirtueVigil.',
+    canonicalPath: 'lists/family-friendly-movies-2024',
+    publishDate: '2026-03-15',
+    htmlContent: `<article class="listicle-article">
+
+<p>Parents, you know the feeling. You sit down to watch a movie with your kids and thirty minutes in, someone is delivering a lecture you did not sign up for. A character's identity becomes the plot. Traditional values get mocked by the one character everyone is supposed to like. You came for entertainment and you got a classroom. That is what a high woke score looks like in practice. On VirtueVigil, our Woke-Watch Scoring System flags exactly that kind of ideological content so you know what you are walking into before you press play.</p>
+
+<p>A low woke score means the film stays out of your lane. It tells a story, develops characters, and delivers genuine entertainment without stopping to remind you that the world needs to change. These ten films earned woke scores under 8 out of a possible 30-plus points, while scoring high on traditional values like family loyalty, courage, faith, sacrifice, and personal responsibility. We pulled every review in our database, filtered for family-appropriate content, and ranked by traditional values score. This is your no-surprises watchlist.</p>
+
+<hr>
+
+<h2>#1 - The SpongeBob Movie: Search for SquarePants (2025)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+42 TRAD</span>
+  <span class="woke-score">Woke Score: 1.3</span>
+  <span class="trad-score">Trad Score: 43.1</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Animation/Adventure/Comedy &bull; <strong>MPAA:</strong> PG &bull; <strong>Recommended Age:</strong> 5+</p>
+<p>The fourth SpongeBob theatrical film is pure, uncut fun with zero ideological agenda. It is a story about friendship and courage told exactly as advertised, with a surrogate father figure in Mr. Krabs coaching SpongeBob to be brave and bold. No lectures, no identity politics, just heart and humor that earns its laughs without asking anything of you politically. One of the cleanest woke scores of any film we have reviewed, and one of the best choices for young children on this list.</p>
+<p><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The SpongeBob Movie: Search for SquarePants</a></p>
+
+<hr>
+
+<h2>#2 - Ne Zha 2 (2025)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+39 TRAD</span>
+  <span class="woke-score">Woke Score: 0</span>
+  <span class="trad-score">Trad Score: 38.6</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Animation/Fantasy/Action &bull; <strong>MPAA:</strong> PG &bull; <strong>Recommended Age:</strong> 8+</p>
+<p>The Chinese animated sequel earns a perfect zero on the woke scale and delivers one of the most emotionally powerful animated films in years. The story centers on destiny, sacrifice, and the love between a father and son. It is mythological, visually stunning, and built entirely around honor and protecting the people you love. The violence is fantasy-level and not gory. The emotional content, parents losing a child who chooses his own fate, may move younger viewers more than you expect.</p>
+<p><a href="/reviews/ne-zha-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ne Zha 2</a></p>
+
+<hr>
+
+<h2>#3 - Reagan (2024)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+42 TRAD</span>
+  <span class="woke-score">Woke Score: 2.4</span>
+  <span class="trad-score">Trad Score: 44.3</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Biography/Drama/History &bull; <strong>MPAA:</strong> PG-13 &bull; <strong>Recommended Age:</strong> 10+</p>
+<p>The highest traditional values score in our entire database, and clean enough for older kids. Reagan is a reverential biopic about the 40th president that treats faith, patriotism, and leadership as genuine virtues. No sexual content, no drug use, no strong language. The assassination attempt is the only intense scene, and it is handled with restraint. If you want a film that your children will walk away from with a clearer sense of what American leadership looks like at its best, this is the one.</p>
+<p><a href="/reviews/reagan-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Reagan</a></p>
+
+<hr>
+
+<h2>#4 - How to Train Your Dragon (2025)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+29 TRAD</span>
+  <span class="woke-score">Woke Score: 4.7</span>
+  <span class="trad-score">Trad Score: 33.2</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Family/Adventure &bull; <strong>MPAA:</strong> PG &bull; <strong>Recommended Age:</strong> 7+</p>
+<p>The live-action remake handled by the original director keeps every value that made the animated trilogy beloved: a son earning his father's respect, courage in the face of ridicule, and friendship built on trust rather than shared ideology. Dragon battles are intense but not graphic. This is exactly what family adventure should look like, with Gerard Butler as Stoick delivering one of the more believable on-screen father figures in recent memory.</p>
+<p><a href="/reviews/how-to-train-your-dragon-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of How to Train Your Dragon</a></p>
+
+<hr>
+
+<h2>#5 - Am I Racist? (2024)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+30 TRAD</span>
+  <span class="woke-score">Woke Score: 3.7</span>
+  <span class="trad-score">Trad Score: 33.8</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Documentary/Comedy &bull; <strong>MPAA:</strong> PG-13 &bull; <strong>Recommended Age:</strong> 14+</p>
+<p>Matt Walsh's satirical documentary dismantles the DEI industrial complex with a hidden-camera approach that is equal parts funny and genuinely revealing. Rated PG-13 for language and thematic content. Best for older teens and adults who are ready to have a conversation about what the anti-racism industry actually teaches and who it actually serves. A film that starts conversations, not ends them.</p>
+<p><a href="/reviews/am-i-racist-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Am I Racist?</a></p>
+
+<hr>
+
+<h2>#6 - Sound of Freedom (2023)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+27 TRAD</span>
+  <span class="woke-score">Woke Score: 4.2</span>
+  <span class="trad-score">Trad Score: 30.8</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>MPAA:</strong> PG-13 &bull; <strong>Recommended Age:</strong> 13+</p>
+<p>The film Hollywood tried to bury for five years. Sound of Freedom follows a DHS agent who walks away from his career to rescue trafficked children in Colombia. No sexual abuse is depicted on screen. The story is straightforward heroism built around a man who chooses the harder right over the easier wrong. Powerful viewing for mature teens and adults who are ready to see what one person's moral courage looks like in practice.</p>
+<p><a href="/reviews/sound-of-freedom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sound of Freedom</a></p>
+
+<hr>
+
+<h2>#7 - David (2025)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+26 TRAD</span>
+  <span class="woke-score">Woke Score: 2.0</span>
+  <span class="trad-score">Trad Score: 28.0</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Animation/Musical/Biblical Epic &bull; <strong>MPAA:</strong> PG &bull; <strong>Recommended Age:</strong> 6+</p>
+<p>Angel Studios' animated biblical musical tells the story of King David from his anointing through his defeat of Goliath and rise to Israel's throne. The film scored $84 million at the box office because it does what faith-based cinema rarely manages: it is both genuinely entertaining and spiritually serious. The songs are memorable, the animation is expressive, and the theology is sound. Appropriate for nearly all ages and an excellent choice for families with a faith background.</p>
+<p><a href="/reviews/david-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of David</a></p>
+
+<hr>
+
+<h2>#8 - Karate Kid: Legends (2025)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+23 TRAD</span>
+  <span class="woke-score">Woke Score: 3.1</span>
+  <span class="trad-score">Trad Score: 26.3</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Drama/Family &bull; <strong>MPAA:</strong> PG-13 &bull; <strong>Recommended Age:</strong> 10+</p>
+<p>Our review called it the most traditionally coded major studio release of 2025. Older men teach a young man discipline, courage, and honor. That is the whole film. Jackie Chan and Ralph Macchio together again in a mentorship story built on the values that made the original franchise great. Martial arts violence is present but not graphic. If you are looking for a film that models what good mentorship between generations looks like, this is it.</p>
+<p><a href="/reviews/karate-kid-legends-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Karate Kid: Legends</a></p>
+
+<hr>
+
+<h2>#9 - The Lion King (2019)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+23 TRAD</span>
+  <span class="woke-score">Woke Score: 2.7</span>
+  <span class="trad-score">Trad Score: 25.3</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Musical/Drama/Adventure &bull; <strong>MPAA:</strong> PG &bull; <strong>Recommended Age:</strong> 6+</p>
+<p>The photorealistic remake preserves every value from the 1994 original intact: a son's duty to his father's legacy, the courage to claim your rightful place, and a villain who seizes power through deception and holds it through fear. The story of Simba is one of the most traditionally structured narratives Disney ever produced, and the 2019 version protects that structure completely. The animation may be technically cold, but the values are warm and consistent.</p>
+<p><a href="/reviews/the-lion-king-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Lion King</a></p>
+
+<hr>
+
+<h2>#10 - Fast X (2023)</h2>
+<div class="listicle-scores">
+  <span class="score-badge trad">STRONGLY TRADITIONAL</span>
+  <span class="score-margin trad">+20 TRAD</span>
+  <span class="woke-score">Woke Score: 6.1</span>
+  <span class="trad-score">Trad Score: 26.5</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure &bull; <strong>MPAA:</strong> PG-13 &bull; <strong>Recommended Age:</strong> 12+</p>
+<p>The Fast and Furious franchise has always been built on one unironic thesis: family is the most powerful force in the universe. Fast X delivers that thesis at full volume with zero sexual content, no drug use, and action that is intense but not graphic. Jason Momoa is the best villain this franchise has ever had. The woke score edges toward the upper end of our list, but the traditional values content, loyalty, sacrifice, and family above everything, more than compensates.</p>
+<p><a href="/reviews/fast-x-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Fast X</a></p>
+
+<hr>
+
+<h2>What Does a Low Woke Score Actually Mean?</h2>
+<p>Every film on this list was scored using VirtueVigil's Woke-Watch Scoring System, which evaluates ideological content across more than a dozen categories including gender politics, religious framing, racial messaging, sexual content framing, and institutional critique. A score under 8 means the film barely registers in any of those categories. It tells its story without stopping to make a political point.</p>
+
+<p>That does not mean these films are free of all conflict or edge. How to Train Your Dragon has dragon battles. Sound of Freedom deals with child trafficking. Karate Kid has tournament fighting. What they share is an absence of progressive agenda-setting. The conflict is not political. The resolution is not ideological. You know what you are getting before the credits roll.</p>
+
+<p>Browse our full review database at <a href="/">VirtueVigil</a> to find more films scored and sorted for conservative families. Every review includes a complete parental guidance section so you can make the call that is right for your household.</p>
+
+<p>Want to see the other side? Read our companion list: <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a>.</p>
 
 </article>`
   }));
