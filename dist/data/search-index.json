@@ -24,6 +24,18 @@
     "poster": "/images/posters/the-passion-of-the-christ-2004.jpg"
   },
   {
+    "slug": "the-hangover-2009",
+    "title": "The Hangover",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Warner Bros.)",
+    "genre": "Comedy",
+    "year": 2009,
+    "type": "film",
+    "wokeScore": 7.98,
+    "tradScore": 11.44,
+    "poster": "/images/posters/the-hangover-2009.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
