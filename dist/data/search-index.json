@@ -168,6 +168,18 @@
     "poster": "/images/posters/m3gan-2022.jpg"
   },
   {
+    "slug": "everything-everywhere-all-at-once-2022",
+    "title": "Everything Everywhere All at Once",
+    "verdict": "MIXED",
+    "platform": "Theatrical (A24)",
+    "genre": "Action, Adventure, Comedy, Drama, Sci-Fi",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 15.34,
+    "tradScore": 16.32,
+    "poster": "/images/posters/everything-everywhere-all-at-once-2022.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
