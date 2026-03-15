@@ -36,6 +36,18 @@
     "poster": "/images/posters/the-hangover-2009.jpg"
   },
   {
+    "slug": "the-holdovers-2023",
+    "title": "The Holdovers",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Streaming",
+    "genre": "Comedy, Drama",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 6.5,
+    "tradScore": 14.35,
+    "poster": "/images/posters/the-holdovers-2023.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
