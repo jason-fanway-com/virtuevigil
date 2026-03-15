@@ -84,6 +84,18 @@
     "poster": "/images/posters/road-house-2024.jpg"
   },
   {
+    "slug": "beverly-hills-cop-axel-f-2024",
+    "title": "Beverly Hills Cop: Axel F",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Action, Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 15,
+    "poster": "/images/posters/beverly-hills-cop-axel-f-2024.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
