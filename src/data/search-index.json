@@ -132,6 +132,18 @@
     "poster": "/images/posters/smurfs-2025.jpg"
   },
   {
+    "slug": "black-phone-2-2025",
+    "title": "The Black Phone 2",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Universal Pictures / Blumhouse)",
+    "genre": "Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 10,
+    "poster": "/images/posters/black-phone-2-2025.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
