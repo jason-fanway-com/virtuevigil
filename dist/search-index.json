@@ -60,6 +60,18 @@
     "poster": "/images/posters/past-lives-2023.jpg"
   },
   {
+    "slug": "american-fiction-2023",
+    "title": "American Fiction",
+    "verdict": "WOKE LEAN",
+    "platform": "Streaming",
+    "genre": "Comedy, Drama",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 13.3,
+    "tradScore": 5.25,
+    "poster": "/images/posters/american-fiction-2023.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
