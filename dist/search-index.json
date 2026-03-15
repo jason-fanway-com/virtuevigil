@@ -12,6 +12,18 @@
     "poster": "/images/posters/american-sniper-2014.jpg"
   },
   {
+    "slug": "the-passion-of-the-christ-2004",
+    "title": "The Passion of the Christ",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (Newmarket Films / Icon Productions)",
+    "genre": "Biblical Drama",
+    "year": 2004,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 45.29,
+    "poster": "/images/posters/the-passion-of-the-christ-2004.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
