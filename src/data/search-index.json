@@ -108,6 +108,18 @@
     "poster": "/images/posters/bob-marley-one-love-2024.jpg"
   },
   {
+    "slug": "undertone-2026",
+    "title": "undertone",
+    "verdict": "MIXED",
+    "platform": "Theatrical (A24)",
+    "genre": "Horror",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5,
+    "tradScore": 6,
+    "poster": "/images/posters/undertone-2026.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
