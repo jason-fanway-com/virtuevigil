@@ -2677,6 +2677,289 @@ function build() {
 </article>`
   }));
 
+  writePage('lists/mcu-movies-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'mcu-movies-ranked-woke-score',
+    title: 'Every MCU Movie Ranked by Woke Score',
+    description: 'All 23 MCU films scored and ranked by VirtueVigil from most woke to most traditional. Real data. No guessing. See which Marvel movies push an agenda.',
+    canonicalPath: 'lists/mcu-movies-ranked-woke-score',
+    publishDate: '2026-03-15',
+    htmlContent: `<article class="listicle-article">
+
+<p>Marvel built the most successful film franchise in history by expanding the superhero universe in every direction at once. Over 15+ years and 30+ films, the MCU has been family-friendly popcorn entertainment, prestige drama, political thriller, cosmic comedy, and identity-forward statement picture. What it has never been is ideologically neutral.</p>
+
+<p>VirtueVigil scored every MCU film using our Woke-Watch Scoring System, which measures the density of progressive ideological content and traditional values content on dual scales. The Score Margin tells you which direction each film leans and by how much. These scores are data, not opinions. The same methodology that applies to art house films and horror movies applies here. No studio gets a pass.</p>
+
+<p>Below is every MCU film in our database, ranked from most woke to most traditional. The results may surprise you. Some films you assumed were safe are not. Some you wrote off delivered genuine traditional content. Read the scores. Follow the links to the full reviews. Then decide what to watch.</p>
+
+<p>Rankings run from #1 (highest woke score) to #23 (most traditionally weighted). All 23 films have been reviewed in full on VirtueVigil with complete trope audits, creative team profiles, and parental guidance assessments.</p>
+
+<hr>
+
+<h2>#1 - <a href="/reviews/the-marvels-2023/">The Marvels (2023)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke">WOKE</span>
+  <span class="score-detail">Woke Score: 22.95 &bull; Trad Score: 8.87 &bull; Margin: -14 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action/Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The highest woke score in the MCU and the franchise's biggest box office disaster, losing over $200 million. The Marvels deploys an all-female hero team where male characters are consistently sidelined or comic relief, and director Nia DaCosta was chosen in part as a deliberate ideological statement by Disney. Brie Larson's off-screen activism bleeds into the film's framing. The traditional score of 8.87 reflects genuine found-family sisterhood and heroic self-sacrifice, but they cannot overcome the dominant progressive framing. The audience for this movie was not found, and the numbers confirmed it.</p>
+<p><a href="/reviews/the-marvels-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Marvels</a></p>
+
+<hr>
+
+<h2>#2 - <a href="/reviews/eternals-2021/">Eternals (2021)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke">WOKE</span>
+  <span class="score-detail">Woke Score: 19.74 &bull; Trad Score: 5.95 &bull; Margin: -14 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Sci-Fi/Superhero &bull; <strong>Platform:</strong> Theatrical</p>
+<p>Chloe Zhao's MCU entry is the first to feature an openly gay superhero (Phastos), a maximum-diversity ensemble cast assembled by explicit demographic checklist, and source material race and gender swaps across multiple characters. The result scored a 47% on Rotten Tomatoes and a 5.9 on IMDB, the lowest in franchise history. The traditional score scrapes 5.95 from Gilgamesh's selfless devotion and Ikaris's tragic obedience. Everything else is a progressive showcase that failed to engage the audience it targeted.</p>
+<p><a href="/reviews/eternals-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Eternals</a></p>
+
+<hr>
+
+<h2>#3 - <a href="/reviews/black-panther-2018/">Black Panther (2018)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge mixed">MIXED</span>
+  <span class="score-detail">Woke Score: 18.82 &bull; Trad Score: 20.03 &bull; Margin: +1 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The most culturally significant MCU film tells a surprisingly traditional story wrapped in progressive packaging. T'Challa assumes the throne after his father's death, defeats a usurper whose isolationist revolutionary ideology is presented as understandable and wrong, and chooses his people's welfare over personal revenge. The woke score of 18.82 reflects the film's racial politics and anti-colonial messaging. The trad score of 20.03 reflects duty, sacrifice, and kingship as genuine burden. The margin of +1 TRAD makes it the most balanced film in the franchise. VirtueVigil scored it MIXED because that is exactly what it is.</p>
+<p><a href="/reviews/black-panther-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Panther</a></p>
+
+<hr>
+
+<h2>#4 - <a href="/reviews/black-panther-wakanda-forever-2022/">Black Panther: Wakanda Forever (2022)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke-lean">WOKE LEAN</span>
+  <span class="score-detail">Woke Score: 18.42 &bull; Trad Score: 12.67 &bull; Margin: -6 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action/Drama &bull; <strong>Platform:</strong> Theatrical</p>
+<p>Wakanda Forever is a film at war with itself. Angela Bassett delivers a towering performance as a grieving queen, and the film's treatment of grief and loss earns genuine traditional points. But a systematic all-female power structure, anti-colonial and anti-Western framing, and a Namor reimagined as a Mesoamerican Indigenous figure rather than his comic source push the woke score above 18. At 161 minutes, the film has time to be both genuinely moving and ideologically exhausting. The margin of -6 WOKE reflects a movie that got the emotional beats right and the politics wrong.</p>
+<p><a href="/reviews/black-panther-wakanda-forever-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Panther: Wakanda Forever</a></p>
+
+<hr>
+
+<h2>#5 - <a href="/reviews/black-widow-2021/">Black Widow (2021)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke-lean">WOKE LEAN</span>
+  <span class="score-detail">Woke Score: 16.95 &bull; Trad Score: 12.13 &bull; Margin: -5 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Thriller &bull; <strong>Platform:</strong> Theatrical/Disney+</p>
+<p>Natasha Romanoff's belated solo film uses the Red Room program as a direct #MeToo allegory, centering reproductive violence and forced sterilization as its central horror. The gender swap of Taskmaster from male to female removes the comic source villain's entire character in favor of a mute female plot device. Florence Pugh's Yelena Belova rescues the film's entertainment value while the traditional score of 12.13 reflects genuine themes of family bonds, self-sacrifice, and redemption. The gap between the two scores tells you exactly what kind of film this is: the feminist framework is the engine, the action is the packaging.</p>
+<p><a href="/reviews/black-widow-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Widow</a></p>
+
+<hr>
+
+<h2>#6 - <a href="/reviews/thor-love-and-thunder-2022/">Thor: Love and Thunder (2022)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke-lean">WOKE LEAN</span>
+  <span class="score-detail">Woke Score: 16.44 &bull; Trad Score: 12.26 &bull; Margin: -4 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+<p>Taika Waititi's second Thor film contains the raw materials for a genuinely powerful story about grief and the failure of the gods, but buries them under relentless tonal chaos. LGBTQ+ representation for both Valkyrie and Korg is woven into the narrative rather than incidental, and the male hero is consistently emasculated for comedic effect. Christian Bale's Gorr the God Butcher is the film's only genuine emotional success, and his arc about faith, grief, and redemption earns traditional points that the rest of the film spends elsewhere. The fatherhood and adoption theme at the film's close partially redeems an otherwise incoherent entry.</p>
+<p><a href="/reviews/thor-love-and-thunder-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Thor: Love and Thunder</a></p>
+
+<hr>
+
+<h2>#7 - <a href="/reviews/captain-america-brave-new-world-2025/">Captain America: Brave New World (2025)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke-lean">WOKE LEAN</span>
+  <span class="score-detail">Woke Score: 14.58 &bull; Trad Score: 10.08 &bull; Margin: -4 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Sci-Fi/Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The fourth entry in the Captain America franchise is a deeply confused political thriller that cannot decide what it wants to say about race in America. The legacy replacement framework, in which Sam Wilson takes over Steve Rogers's mantle as a vehicle for race-based messaging, carries the highest woke weight. The institutional evil framing and girl boss element add to the score. The traditional side captures genuine self-sacrifice and father-daughter reconciliation. At $415 million worldwide on a $180 million budget, it did not collapse like The Marvels, but the ideological identity crisis is visible in every scene.</p>
+<p><a href="/reviews/captain-america-brave-new-world-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain America: Brave New World</a></p>
+
+<hr>
+
+<h2>#8 - <a href="/reviews/ant-man-and-the-wasp-quantumania-2023/">Ant-Man and the Wasp: Quantumania (2023)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke-lean">WOKE LEAN</span>
+  <span class="score-detail">Woke Score: 14.57 &bull; Trad Score: 10.67 &bull; Margin: -4 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action/Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The third Ant-Man film had one job: introduce Kang the Conqueror as the next Thanos-level threat. It mostly failed at everything except the Kang part, and then Jonathan Majors' real-world conviction destroyed even that. Cassie Lang's transformation into an activist genius girl-boss, explicit pro-socialism dialogue in the Quantum Realm, and the consistent diminishment of the male protagonist drive the woke score above 14. The father-daughter love and clear good-versus-evil framework keep the traditional score alive. The film collapsed the Ant-Man franchise rather than launching the multiverse saga.</p>
+<p><a href="/reviews/ant-man-and-the-wasp-quantumania-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ant-Man and the Wasp: Quantumania</a></p>
+
+<hr>
+
+<h2>#9 - <a href="/reviews/doctor-strange-multiverse-of-madness-2022/">Doctor Strange in the Multiverse of Madness (2022)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke-lean">WOKE LEAN</span>
+  <span class="score-detail">Woke Score: 13.6 &bull; Trad Score: 10.22 &bull; Margin: -3 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Horror &bull; <strong>Platform:</strong> Theatrical</p>
+<p>Sam Raimi brought genuine horror filmmaking to the MCU and Elizabeth Olsen delivered a villain performance for the ages, making this the franchise's most interesting mess. LGBTQ+ representation through America Chavez, gender-swapped legacy heroes in the Illuminati, and an occult power system treated as entirely legitimate push the woke score past 13. The traditional score captures Strange's trust-based heroism, Wanda's redemptive sacrifice, and the film's consistent message that dark power has consequences. The gap between what the film could have been and what it is reflects the conflict between Raimi's instincts and Marvel's mandates.</p>
+<p><a href="/reviews/doctor-strange-multiverse-of-madness-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Doctor Strange in the Multiverse of Madness</a></p>
+
+<hr>
+
+<h2>#10 - <a href="/reviews/spider-man-across-the-spider-verse-2023/">Spider-Man: Across the Spider-Verse (2023)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge mixed">MIXED</span>
+  <span class="score-detail">Woke Score: 12.59 &bull; Trad Score: 10.64 &bull; Margin: -2 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Animated/Superhero &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The most technically ambitious animated film ever made also carries a quietly progressive worldview: anti-institutional framing where authority is the enemy, anarchist hero figures as the coolest people in the room, and progressive identity symbolism throughout. The traditional score pulls nearly even with a loving and present Black father, a nuclear family as the emotional foundation, and a mother's faith and prayer as genuine moral anchors. The result is a MIXED verdict on a film that is genuinely great as animation and genuinely conflicted as ideology. The margin of -2 WOKE is the closest in the MCU.</p>
+<p><a href="/reviews/spider-man-across-the-spider-verse-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: Across the Spider-Verse</a></p>
+
+<hr>
+
+<h2>#11 - <a href="/reviews/thor-ragnarok-2017/">Thor: Ragnarok (2017)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+  <span class="score-detail">Woke Score: 11.9 &bull; Trad Score: 18.76 &bull; Margin: +7 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+<p>Taika Waititi's first Thor film is the MCU doing comedy right, and under the neon colors and relentless wit lies a story about duty, sacrifice, and leading your people when everything you thought mattered is gone. The deconstruction of the masculine hero and the imperial legacy critique add woke points, but Heimdall's quiet heroism, Loki's reluctant loyalty, and Thor's earned growth through suffering and loss drive the traditional score to 18.76. "Asgard is not a place, it's a people" is one of the most traditionally conservative lines in franchise history. One of the rare MCU films where the humor serves the story instead of replacing it.</p>
+<p><a href="/reviews/thor-ragnarok-2017/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Thor: Ragnarok</a></p>
+
+<hr>
+
+<h2>#12 - <a href="/reviews/deadpool-wolverine-2024/">Deadpool &amp; Wolverine (2024)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge woke-lean">WOKE LEAN</span>
+  <span class="score-detail">Woke Score: 11.0 &bull; Trad Score: 8.0 &bull; Margin: -3 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical/Disney+</p>
+<p>Ryan Reynolds and Hugh Jackman have genuine chemistry, and the nostalgic R-rated Marvel entry delivered $1.3 billion at the box office. The film advertises itself as an audacious, frequently profane buddy movie and delivers exactly that. The woke score of 11 reflects progressive elements that sit below the surface of the comedy without dominating it, while the trad score of 8 reflects the friendship and sacrifice themes that give the film its emotional core. Neither score is high because neither worldview is the point. Deadpool and Wolverine want you to have fun. They mostly succeed.</p>
+<p><a href="/reviews/deadpool-wolverine-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Deadpool &amp; Wolverine</a></p>
+
+<hr>
+
+<h2>#13 - <a href="/reviews/avengers-endgame-2019/">Avengers: Endgame (2019)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+  <span class="score-detail">Woke Score: 10.54 &bull; Trad Score: 13.65 &bull; Margin: +3 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action/Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The highest-grossing film of all time delivers 22 films of emotional payoff in 181 minutes, and its traditional score reflects what actually drives the narrative: ultimate sacrifice as heroic culmination, marriage and family as the ultimate good, and selfless competition to be the one who gives everything. The woke score of 10.54 reflects the female hero assembly shot, an untextured Captain Marvel functioning as deus ex machina, and the first MCU LGBTQ+ content. But the film's moral engine is Tony Stark dying for people he loves and Steve Rogers choosing the life he was denied. Those are traditional values, and they are what audiences remember.</p>
+<p><a href="/reviews/avengers-endgame-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avengers: Endgame</a></p>
+
+<hr>
+
+<h2>#14 - <a href="/reviews/fantastic-four-first-steps-2025/">The Fantastic Four: First Steps (2025)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+  <span class="score-detail">Woke Score: 9.98 &bull; Trad Score: 18.7 &bull; Margin: +9 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Superhero &bull; <strong>Platform:</strong> Theatrical</p>
+<p>Marvel needed a win and mostly got one. The Fantastic Four: First Steps is the best MCU film in years, and its strongest element is the family at its center: Reed and Sue Richards as a traditional married couple, Sue's pregnancy and the defense of their unborn child as genuine stakes, and family as the foundation of everything the team does. A gender-swapped Silver Surfer and a globalist Future Foundation framing add woke points, but they sit beneath the dominant family-first narrative. A trad score of 18.7 represents a meaningful recovery for a franchise that had been drifting. The audience noticed.</p>
+<p><a href="/reviews/fantastic-four-first-steps-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
+
+<hr>
+
+<h2>#15 - <a href="/reviews/captain-america-civil-war-2016/">Captain America: Civil War (2016)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+  <span class="score-detail">Woke Score: 9.96 &bull; Trad Score: 17.64 &bull; Margin: +8 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action Drama &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The MCU's most politically sophisticated film makes an argument that cuts against the progressive grain of the studio that produced it: sometimes individual conscience is right and collective authority is wrong. Steve Rogers does not capitulate to government oversight of superheroes, and the film validates his position. Loyalty to friendship is treated as a genuine moral foundation, not a character flaw. T'Challa's arc from vengeance to justice is one of the best character turns in franchise history. The anti-establishment framing adds woke points but cannot outweigh a film that repeatedly argues that the individual conscience matters more than the committee.</p>
+<p><a href="/reviews/captain-america-civil-war-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain America: Civil War</a></p>
+
+<hr>
+
+<h2>#16 - <a href="/reviews/thunderbolts/">Thunderbolts* (2025)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge mixed">MIXED</span>
+  <span class="score-detail">Woke Score: 7.0 &bull; Trad Score: 5.0 &bull; Margin: -2 WOKE</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical</p>
+<p>Thunderbolts asks you to care about six characters you either forgot existed or cannot name at gunpoint. David Harbour's Red Guardian is the film's saving grace, bringing chaotic energy to a movie that otherwise struggles to establish stakes. Both scores are low because the film is ideologically thin: it is not trying to deliver a message, it is trying to deliver a movie. The -2 WOKE margin reflects a slight progressive lean that never rises to the level of agenda. This is a mid-tier MCU entry that neither advances conservative concerns nor provides significant traditional values content. It simply exists, which at this point in the franchise's history is almost a relief.</p>
+<p><a href="/reviews/thunderbolts/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Thunderbolts*</a></p>
+
+<hr>
+
+<h2>#17 - <a href="/reviews/guardians-of-the-galaxy-2014/">Guardians of the Galaxy (2014)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="score-detail">Woke Score: 5.82 &bull; Trad Score: 21.28 &bull; Margin: +15 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Sci-Fi Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The best MCU origin film by a significant margin, and one of the most traditionally coded superhero movies ever made. Groot's sacrifice alone earns it the TRADITIONAL verdict. The entire film is built on redemption arcs, sacrificial love, found family forged through genuine need rather than identity politics, a mother's legacy honored across 26 years of grief, and a villain whose evil is clear and undiluted. The selfish man who chooses his people is one of the oldest traditional narratives in storytelling, and James Gunn delivered it with full sincerity. The modest woke score reflects the found-family-replacing-traditional-family framing and female warrior as equal. The traditional core is overwhelming.</p>
+<p><a href="/reviews/guardians-of-the-galaxy-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guardians of the Galaxy</a></p>
+
+<hr>
+
+<h2>#18 - <a href="/reviews/shang-chi-2021/">Shang-Chi and the Legend of the Ten Rings (2021)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+  <span class="score-detail">Woke Score: 5.46 &bull; Trad Score: 14.19 &bull; Margin: +9 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The most pleasant surprise in the MCU's representation era. Where many expected Marvel's first Asian-led film to be a diversity lecture, what arrived is a deeply traditional family drama with spectacular fight choreography rooted in genuine Chinese cultural reverence. Father-son conflict and reconciliation, ancestral duty and cultural heritage, sacrifice and love are the film's engines. The woke score of 5.46 reflects deliberate stereotype replacement and a feminist subplot for Xialing, but these are secondary to the dominant traditional framework. Shang-Chi proved that representation does not have to mean ideology, a lesson the MCU has struggled to apply consistently.</p>
+<p><a href="/reviews/shang-chi-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shang-Chi and the Legend of the Ten Rings</a></p>
+
+<hr>
+
+<h2>#19 - <a href="/reviews/doctor-strange-2016/">Doctor Strange (2016)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+  <span class="score-detail">Woke Score: 5.35 &bull; Trad Score: 14.0 &bull; Margin: +9 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The MCU's most spiritually interesting film earns its traditional lean through a disciplined ego-to-humility arc, a sacrifice-as-virtue climax, and director Scott Derrickson's Christian sensibility giving the film real moral weight. Strange's journey from arrogant surgeon to selfless defender of civilization is one of the cleanest traditional arcs in the franchise. The Ancient One's race and gender swap from Tibetan man to Celtic woman is the primary woke element, a deliberate choice to avoid Chinese market complications. The film argues that there are things worth defending, that order matters more than chaos, and that the ego must be surrendered. Those are not progressive values.</p>
+<p><a href="/reviews/doctor-strange-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Doctor Strange</a></p>
+
+<hr>
+
+<h2>#20 - <a href="/reviews/guardians-of-the-galaxy-vol-3-2023/">Guardians of the Galaxy Vol. 3 (2023)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+  <span class="score-detail">Woke Score: 5.18 &bull; Trad Score: 14.36 &bull; Margin: +9 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+<p>James Gunn's farewell to the franchise he built is the rarest thing in Phase Five: a movie that earns its emotions without lecturing its audience. Rocket's origin story, the ethics of playing God, and whether broken things deserve to be saved are the film's real subjects. The sanctity of life, found family loyalty, and self-sacrifice and redemption drive the traditional score. The woke score of 5.18 reflects diversity casting in the villain lineup and animal rights messaging that never becomes a polemic. Vol. 3 is a film that says goodbye to its characters with genuine love, and the audience felt it. Among the best MCU films of the 2020s.</p>
+<p><a href="/reviews/guardians-of-the-galaxy-vol-3-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guardians of the Galaxy Vol. 3</a></p>
+
+<hr>
+
+<h2>#21 - <a href="/reviews/iron-man-2008/">Iron Man (2008)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+  <span class="score-detail">Woke Score: 5.0 &bull; Trad Score: 14.35 &bull; Margin: +9 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The film that started it all. Seventeen years later, the original Iron Man holds up as one of the most traditionally coded entries in the franchise. Tony Stark's personal accountability arc, from weapons manufacturer who ignores the consequences of his products to armored hero who faces them directly, is a story of conscience and responsibility. Military respect and heroism are treated seriously. The complementary male-female dynamic between Tony and Pepper is genuine rather than performative. The woke score of 5 reflects light defense industry critique and a playboy lifestyle presented without moral judgment. The foundation Marvel built everything else on was more traditional than the house it eventually became.</p>
+<p><a href="/reviews/iron-man-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Iron Man</a></p>
+
+<hr>
+
+<h2>#22 - <a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home (2021)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="score-detail">Woke Score: 3.5 &bull; Trad Score: 22.05 &bull; Margin: +19 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action/Science Fiction &bull; <strong>Platform:</strong> Theatrical/Disney+</p>
+<p>Not just the best Spider-Man film ever made but one of the most emotionally devastating blockbusters of the decade, earning every tear. Peter Parker's willingness to sacrifice everything, including the world's memory of his existence, to save five villains he has every reason to leave to their fates is the clearest statement of "great power, great responsibility" the franchise has ever delivered. Total self-sacrifice. Redemption offered unconditionally. The grief of loss treated with genuine weight. The woke score of 3.5, the second-lowest in the MCU, reflects minor race-swapped supporting characters and a brief immigration reference. They are irrelevant to what the film actually is. A +19 TRAD margin is among the highest in the franchise.</p>
+<p><a href="/reviews/spider-man-no-way-home-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: No Way Home</a></p>
+
+<hr>
+
+<h2>#23 - <a href="/reviews/avengers-infinity-war-2018/">Avengers: Infinity War (2018)</a></h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="score-detail">Woke Score: 2.0 &bull; Trad Score: 16.8 &bull; Margin: +15 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action &bull; <strong>Platform:</strong> Theatrical</p>
+<p>The lowest woke score in the MCU and one of its most traditionally weighted films. Thanos wins because he is willing to treat individual lives as expendable. The heroes lose because they are not. That moral framework is explicitly conservative: the individual's life matters, love is not abstract, and sacrificing one person for the many is monstrous. Wanda refuses to destroy the Mind Stone because she cannot sacrifice Vision. Thor aims for the head instead of the chest because grief overrides tactics. These are not strategic failures. They are human virtues treated as such. The film's enormous diverse ensemble cast is its only woke point, and it serves the story rather than delivering a message. The MCU's best film is also its most traditional.</p>
+<p><a href="/reviews/avengers-infinity-war-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avengers: Infinity War</a></p>
+
+<hr>
+
+<h2>What the Data Shows</h2>
+<p>Across 23 MCU films, the franchise average is approximately 10.7 on the woke scale and 13.2 on the traditional scale. The MCU leans slightly traditional on aggregate, but the distribution matters: the most woke films (The Marvels, Eternals) are dramatically woke, while the most traditional films (Spider-Man: No Way Home, Guardians of the Galaxy, Infinity War) are traditionally coded for sincere reasons rooted in character and story.</p>
+
+<p>The pattern is clear. Early MCU films (Phase One and Two) are generally more traditional because they were built on classic hero archetypes with minimal ideological overlay. The franchise's woke turn accelerated from Phase Three onward, peaking with The Marvels and Eternals. The subsequent commercial collapses of those films appear to have produced a partial correction: Fantastic Four First Steps and Guardians Vol. 3 both scored above +9 TRAD.</p>
+
+<p>The lesson the data suggests is simple: when Marvel tells stories first and delivers ideology second, the films are better and the scores are more traditional. When the ideology is the reason the film exists, it fails on both measures. The audience knows the difference even when the studio pretends otherwise.</p>
+
+<p>For full trope audits, parental guidance assessments, and creative team analysis on every film on this list, browse the complete VirtueVigil MCU coverage at <a href="/reviews/">VirtueVigil Reviews</a>. Every score is documented. Every trope is sourced. No guessing.</p>
+
+</article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
