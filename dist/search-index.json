@@ -156,6 +156,18 @@
     "poster": "/images/posters/smile-2-2024.jpg"
   },
   {
+    "slug": "m3gan-2022",
+    "title": "M3GAN",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror, Sci-Fi, Thriller",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 7.8,
+    "tradScore": 14.98,
+    "poster": "/images/posters/m3gan-2022.jpg"
+  },
+  {
     "slug": "the-equalizer-3-2023",
     "title": "The Equalizer 3",
     "verdict": "TRADITIONAL",
