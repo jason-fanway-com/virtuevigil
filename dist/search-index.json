@@ -48,6 +48,18 @@
     "poster": "/images/posters/the-holdovers-2023.jpg"
   },
   {
+    "slug": "past-lives-2023",
+    "title": "Past Lives",
+    "verdict": "MIXED",
+    "platform": "Streaming",
+    "genre": "Drama, Romance",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 5.6,
+    "tradScore": 7.35,
+    "poster": "/images/posters/past-lives-2023.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
