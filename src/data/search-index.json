@@ -156,6 +156,18 @@
     "poster": "/images/posters/nonnas-2025.jpg"
   },
   {
+    "slug": "the-wedding-banquet-2025",
+    "title": "The Wedding Banquet",
+    "verdict": "WOKE",
+    "platform": "Theatrical (Bleecker Street)",
+    "genre": "Romantic Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 19,
+    "tradScore": 4,
+    "poster": "/images/posters/the-wedding-banquet-2025.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
