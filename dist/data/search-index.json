@@ -120,6 +120,18 @@
     "poster": "/images/posters/undertone-2026.jpg"
   },
   {
+    "slug": "smurfs-2025",
+    "title": "Smurfs",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical (Paramount Pictures)",
+    "genre": "Animation",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 10,
+    "tradScore": 6,
+    "poster": "/images/posters/smurfs-2025.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
