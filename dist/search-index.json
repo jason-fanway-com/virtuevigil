@@ -180,6 +180,18 @@
     "poster": "/images/posters/avatar-the-way-of-water-2022.jpg"
   },
   {
+    "slug": "m3gan-2-0-2025",
+    "title": "M3GAN 2.0",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi/Action/Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8.92,
+    "tradScore": 10.82,
+    "poster": "/images/posters/m3gan-2-0-2025.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
