@@ -192,6 +192,18 @@
     "poster": "/images/posters/m3gan-2-0-2025.jpg"
   },
   {
+    "slug": "the-dark-knight-rises-2012",
+    "title": "The Dark Knight Rises",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Crime/Drama",
+    "year": 2012,
+    "type": "film",
+    "wokeScore": 4.2,
+    "tradScore": 24.78,
+    "poster": "/images/posters/the-dark-knight-rises-2012.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
