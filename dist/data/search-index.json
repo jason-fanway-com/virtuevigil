@@ -12,6 +12,18 @@
     "poster": "/images/posters/demon-slayer-infinity-castle-2025.jpg"
   },
   {
+    "slug": "five-nights-at-freddys-2-2025",
+    "title": "Five Nights at Freddy's 2",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror/Supernatural/Mystery",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 8.19,
+    "poster": "/images/posters/five-nights-at-freddys-2-2025.jpg"
+  },
+  {
     "slug": "american-sniper-2014",
     "title": "American Sniper",
     "verdict": "STRONGLY TRADITIONAL",
