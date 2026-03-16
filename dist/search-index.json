@@ -24,6 +24,18 @@
     "poster": "/images/posters/five-nights-at-freddys-2-2025.jpg"
   },
   {
+    "slug": "tron-ares-2025",
+    "title": "Tron: Ares",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi/Action",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 11,
+    "tradScore": 5.6,
+    "poster": "/images/posters/tron-ares-2025.jpg"
+  },
+  {
     "slug": "american-sniper-2014",
     "title": "American Sniper",
     "verdict": "STRONGLY TRADITIONAL",
