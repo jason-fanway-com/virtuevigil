@@ -48,6 +48,18 @@
     "poster": "/images/posters/terrifier-3-2024.jpg"
   },
   {
+    "slug": "scream-vi-2023",
+    "title": "Scream VI",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Horror/Slasher",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 7.4,
+    "tradScore": 6.78,
+    "poster": "/images/posters/scream-vi-2023.jpg"
+  },
+  {
     "slug": "american-sniper-2014",
     "title": "American Sniper",
     "verdict": "STRONGLY TRADITIONAL",
