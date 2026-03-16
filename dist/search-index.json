@@ -60,6 +60,18 @@
     "poster": "/images/posters/scream-vi-2023.jpg"
   },
   {
+    "slug": "dungeons-dragons-honor-among-thieves-2023",
+    "title": "Dungeons & Dragons: Honor Among Thieves",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Fantasy",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 3.7,
+    "tradScore": 12.92,
+    "poster": "/images/posters/dungeons-dragons-honor-among-thieves-2023.jpg"
+  },
+  {
     "slug": "american-sniper-2014",
     "title": "American Sniper",
     "verdict": "STRONGLY TRADITIONAL",
