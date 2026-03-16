@@ -168,6 +168,18 @@
     "poster": "/images/posters/the-wedding-banquet-2025.jpg"
   },
   {
+    "slug": "avatar-the-way-of-water-2022",
+    "title": "Avatar: The Way of Water",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi/Action/Adventure",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 14.54,
+    "tradScore": 17.14,
+    "poster": "/images/posters/avatar-the-way-of-water-2022.jpg"
+  },
+  {
     "slug": "a-working-man-2025",
     "title": "A Working Man",
     "verdict": "TRADITIONAL",
