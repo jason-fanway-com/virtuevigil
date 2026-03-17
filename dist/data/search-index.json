@@ -132,6 +132,18 @@
     "poster": "/images/posters/father-stu-2022.jpg"
   },
   {
+    "slug": "uncharted-2022",
+    "title": "Uncharted",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 5.4,
+    "tradScore": 15.96,
+    "poster": "/images/posters/uncharted-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",

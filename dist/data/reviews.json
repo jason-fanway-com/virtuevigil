@@ -70758,5 +70758,232 @@
       "VVWS score",
       "strongly traditional film"
     ]
+  },
+  {
+    "id": "uncharted-2022",
+    "slug": "uncharted-2022",
+    "title": "Uncharted",
+    "year": 2022,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure",
+    "date": "2026-03-17",
+    "author": "Debra Ducane",
+    "readTime": "10 min",
+    "poster": "/images/posters/uncharted-2022.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 5.4,
+    "tradScore": 15.96,
+    "authIndex": 74,
+    "scoreMargin": "+11 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. Uncharted is a video game adaptation about treasure hunters competing for the lost Magellan expedition fortune. It is precisely as ideologically transparent as its trailers suggested: Tom Holland and Mark Wahlberg banter, action sequences happen, someone finds treasure. The film's woke elements are visible in the first act and never increase in prominence. Conservative audiences looking for a competent action adventure will get exactly that."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 41,
+      "rottenTomatoesAudience": 90,
+      "imdb": 6.5,
+      "metacritic": 40,
+      "budget": "$120 million",
+      "boxOffice": "$407.1 million worldwide",
+      "gameSeries": "Based on the Uncharted video game franchise by Naughty Dog / Sony Interactive Entertainment"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Ruben Fleischer",
+        "ideology": "APOLITICAL. Fleischer made Zombieland (2009), Venom (2018), and Venom: Let There Be Carnage (2021) before Uncharted. His filmography is commercially competent genre entertainment with zero ideological agenda. He makes films audiences want to see rather than films that advance a position. Uncharted is exactly this: professionally executed, engaging on a surface level, and politically inert. Fleischer's neutrality is a feature for conservative audiences.",
+        "profile": "Fleischer is best known for Zombieland (2009), which became a sleeper hit and launched the careers of Jesse Eisenberg and Emma Stone while capitalizing on the zombie-comedy market. His subsequent work, Gangster Squad (2013), Venom (2018), and Uncharted, follows a pattern: well-budgeted commercial genre films with strong casting that trade craft for scale. Uncharted is his biggest production to date. It shows his limitations as well as his competencies: the action set pieces are well-staged but the film never finds the emotional resonance that the game series' fans responded to. This is a competent producer's film rather than a director's film."
+      },
+      "writer": {
+        "name": "Rafe Lee Judkins, Art Marcum & Matt Holloway",
+        "profile": "The screenplay spent fifteen years in development hell with multiple writer iterations before this team landed the version that reached production. Judkins previously developed The Wheel of Time for Amazon. Marcum and Holloway wrote the original Iron Man (2008). The result of this layered development is a script that is professionally polished and emotionally undercooked. The banter between Drake and Sully works. The Drake-Sam backstory that should be the film's emotional center is underdeveloped. The treasure mythology is adequate. The film functions but doesn't sing."
+      },
+      "lead_producer": {
+        "name": "Charles Roven & Avi Arad",
+        "company": "Columbia Pictures / A2 Productions / Atlas Entertainment / PlayStation Productions"
+      },
+      "composer": {
+        "name": "Ramin Djawadi",
+        "profile": "Djawadi is best known for scoring Game of Thrones (2011-2019) and Westworld (2016-2022). His Uncharted score incorporates the Naughty Dog game's iconic themes by Greg Edmonson, threading fan-service musical callbacks through an original adventure score. The approach serves the film's transition-from-game material well. His action cues are effective if not memorable. The score is the film's most consistent technical achievement."
+      },
+      "top_cast": [
+        {
+          "name": "Tom Holland",
+          "role": "Nathan Drake"
+        },
+        {
+          "name": "Mark Wahlberg",
+          "role": "Victor 'Sully' Sullivan"
+        },
+        {
+          "name": "Sophia Ali",
+          "role": "Chloe Frazer"
+        },
+        {
+          "name": "Tati Gabrielle",
+          "role": "Jo Braddock"
+        },
+        {
+          "name": "Antonio Banderas",
+          "role": "Santiago Moncada"
+        }
+      ],
+      "top_performers": [
+        {
+          "name": "Tom Holland",
+          "note": "Holland brings Spider-Man's earnest physicality to Nathan Drake and makes it work in ways that game fans expected him to fail at. Drake in the games is a wisecracking adventurer in the Indiana Jones mold. Holland plays him younger and more idealistic, which is a defensible creative choice for an origin story. His bartending skills in the opening sequence establish competence and charisma simultaneously. His chemistry with Wahlberg is the film's primary entertainment engine: they bicker like a genuine partnership with history rather than a Hollywood odd-couple formula pairing. Holland does his own stunt work to a degree that shows in the action sequences."
+        },
+        {
+          "name": "Mark Wahlberg",
+          "note": "The game fan casting controversy had it backward: Wahlberg is not the problem. The problem is that the script does not develop Sully's moral ambiguity. In the games, Victor Sullivan is a figure of genuine complexity: a mentor, a schemer, a man whose self-interest and loyalty are in constant tension. The film's Sully is straightforwardly untrustworthy at first and then straightforwardly loyal, which eliminates the interesting question of whether Drake can trust him. Wahlberg is doing his job. The script didn't give him the full character."
+        },
+        {
+          "name": "Antonio Banderas",
+          "note": "Banderas's Moncada is the film's most elegantly assembled performance in the least screen time. He plays the corrupt Moncada as a man of genuine civilization who also has no compunction about murder: the classic antagonist paradox handled with Banderas's natural Old World authority. His function in the film is to be eliminated before the real threat (Jo Braddock) can assert herself, which is a structural choice that slightly undersells his casting. Still, his few scenes are the film's sharpest."
+        }
+      ],
+      "bottom_performers": [
+        {
+          "name": "Tati Gabrielle",
+          "note": "Gabrielle's Jo Braddock, the mercenary leader who becomes the film's primary antagonist after Moncada's exit, is a physically credible threat but written without interiority. She is extremely capable at violence and extremely committed to the villainy and that is the entire character. Gabrielle is doing competent genre work with a role that required a writer to give her something more than tactical competence."
+        }
+      ]
+    },
+    "fidelityCasting": {
+      "sourceType": "Video Game Franchise Adaptation",
+      "sourceTitle": "Uncharted (Naughty Dog / Sony Interactive Entertainment, 2007-2017)",
+      "assessment": "Tom Holland's casting as Nathan Drake generated fan controversy because Drake in the games, as voiced and motion-captured by Nolan North, is in his late 30s for most of the franchise, with an established physicality and vocal presence. Holland was 25 during filming and brings a different energy: younger, less world-weary, more genuinely naive. The film is an origin story, which provides narrative justification for the youth. Whether it satisfies fans is subjective. Wahlberg as Sully is more controversial among fans: the character in the games has a specific snarky-uncle energy that Wahlberg approximates but doesn't replicate. No race-swapping or gender-swapping of established characters occurred. Chloe Frazer in the games is a mixed-heritage (Australian-Indian) female character and is cast as such (Sophia Ali is of Pakistani descent). No fidelity concerns on demographic grounds."
+    },
+    "celebrityMentions": [
+      {
+        "name": "Tom Holland",
+        "context": "Holland is Marvel's Spider-Man and one of the most commercially successful young actors in Hollywood. He is apolitical by design: his public statements are almost exclusively about his work and his charity involvement. He does not leverage his platform for political messaging. Conservative audiences who enjoy his Spider-Man performances will find his Drake continuous with that persona: physically capable, genuinely likeable, and free of ideological cargo."
+      },
+      {
+        "name": "Mark Wahlberg",
+        "context": "Wahlberg, who simultaneously released this and Father Stu in 2022, represents the range of his commercial instincts: the faith biopic he personally believed in and the franchise action film that would finance future projects. His Catholicism and his willingness to make Father Stu have earned him genuine conservative-audience affection. His Sully in Uncharted is separate from all of that. It is workmanlike genre performance from a movie star who knows how to do his job."
+      },
+      {
+        "name": "Antonio Banderas",
+        "context": "Banderas brings a European cultural gravitas to the villain role that the film uses efficiently. He is a legitimate movie star from outside the American system, and his Old World authority gives Moncada a texture that an American or British villain wouldn't have had. That the film kills him off to make room for a less interesting villain is the film's most self-defeating structural choice."
+      }
+    ],
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Violence/action and language",
+      "recommendedAge": "12+",
+      "contentWarnings": [
+        "Action violence throughout: gunfights, fistfights, falls from significant heights",
+        "A character is stabbed",
+        "Multiple villains and henchmen killed in action sequences",
+        "An aerial fight sequence involving cargo nets hanging from flying ships is prolonged and intense",
+        "Mild language, no F-bombs",
+        "Brief references to Stu's estranged brother with mild emotional content",
+        "Some deception and double-crosses as plot mechanics",
+        "No sexual content beyond mild flirtation",
+        "No drug use"
+      ],
+      "guidance": "Rated PG-13 and appropriate for that rating. Uncharted is clean popcorn adventure entertainment appropriate for ages 12 and up. The action is intense but not graphic. The language is mild. The moral framework is clear: treasure hunting for personal gain is fun, protecting your family connections is more important, and villains who threaten innocent people are villains. Conservative families will find nothing objectionable. This is a perfectly serviceable action franchise opener that the whole family can enjoy."
+    },
+    "summary": {
+      "overall": "Uncharted spent fourteen years in development hell for a reason. The Naughty Dog game series is critically beloved and commercially enormous specifically because it transcended the video-game-adaptation trap by borrowing from Indiana Jones and creating genuinely cinematic storytelling inside a game. Making a film adaptation means making an Indiana Jones knockoff of an Indiana Jones knockoff, which is a diminishing-returns proposition from the start.\n\nRuben Fleischer's film sidesteps the trap imperfectly but adequately. It works as a function of Tom Holland and Mark Wahlberg's chemistry rather than as a function of its source material's qualities. The game's Nathan Drake is a specific character with twenty years of fictional history and fan investment. Holland's Drake is a younger, less complicated version who has not yet become that character. If you accept this as an origin story with a different emotional register than the games, the film is watchable and occasionally charming. If you expect the games' tonal precision, you will be frustrated.\n\nThe plot: Sully (Wahlberg) recruits young bartender and amateur thief Drake (Holland) to pursue the lost treasure of the Magellan expedition, which Drake's missing brother Sam was also chasing before he disappeared. The competition: corrupt billionaire Santiago Moncada and his mercenary lieutenant Jo Braddock want the same treasure for inheritance reasons involving the Moncada family's historical claims. The setting: an auction in New York, then Barcelona, then a dramatic aerial sequence, then the Philippines.\n\nThe aerial sequence is the film's action highlight and one of the better large-scale setpieces of 2022: Drake and Sully fight Braddock's mercenaries on cargo nets suspended from flying galleons above the Philippine coastline. The logistics of the geography are maintained with unusual clarity for a CGI-heavy action sequence, which is more credit than most modern blockbusters earn. The sequence is spectacular and coherent simultaneously.\n\nThe buddy dynamic between Drake and Sully carries most of the film's entertainment weight. Holland is naturally likeable in a way that doesn't require the film to work for it. Wahlberg brings a Wahlberg-specific blue-collar authority to the role that makes their banter feel grounded rather than scripted. The double-crosses and shifting alliances between them are the film's most successful character elements, even if the script doesn't develop Sully's moral complexity as richly as the games did.\n\nChloe Frazer (Sophia Ali) is the film's most underdeveloped character. She is positioned as a morally ambiguous ally who may or may not be trustworthy, which should create genuine tension. But the film's Chloe has limited screen time and her trustworthiness resolves without the moral weight the setup implied. Ali gives the role energy that the screenplay doesn't fully earn.\n\nFrom a values assessment: Uncharted is straightforwardly traditional in its moral framework. Drake's primary motivation is finding his missing brother. Family connection is what drives him into danger and what he is ultimately unwilling to sacrifice. Sully's evolution from self-interested operator to genuine ally is the film's relational arc. The villains, Moncada and Braddock, are motivated by inherited wealth and mercenary loyalty respectively, neither of which the film treats as legitimate. Clear good and evil, family loyalty as the highest motivation, male friendship built through shared danger: the traditional scorecard is well-populated.\n\nThe feminist element that conservatives might note: Jo Braddock is physically formidable and the film's most dangerous antagonist after Moncada's exit. She defeats both Drake and Sully in combat at multiple points. This is authentic to the game series, where female antagonists have included some of the most physically threatening characters. The film doesn't make Braddock's gender a theme; she is simply the person trying to kill the heroes, and she is very good at it. This reads as genre convention rather than ideological injection.\n\nUncharted earned $407 million worldwide on a $120 million budget, making it a genuine commercial success despite critical indifference. Audiences found it entertaining. They were right to. As a franchise opener, it establishes viable characters and a functional tone without doing anything particularly distinctive. A sequel, which the mid-credits scene sets up, would have the opportunity to deepen what this film sketched. Whether it gets made remains uncertain as of 2026.\n\nConservatives looking for a clean, competent action adventure: this is exactly that. Expect Indiana Jones-lite rather than Indiana Jones. Enjoy Holland and Wahlberg's partnership. Appreciate Banderas's elegant villain work. Accept the film's modest ambitions and find genuine entertainment within them.",
+      "oneLiner": "Tom Holland and Mark Wahlberg bicker their way through treasure hunts, flying galleons, and the Magellan fortune. Clean, competent, and exactly what the trailer promised.",
+      "verdict_explanation": "TRADITIONAL (+11 margin). Uncharted earns its traditional score through clear moral stakes, family loyalty as the hero's core motivation, and a male mentor-protege relationship built on earned trust rather than institutional mandate. The woke elements are genre-organic: a competent female antagonist and an independently motivated female ally are standard action-adventure features, not ideological injections. The film's primary values, protect your brother, earn your partner's trust through action, defeat villains motivated by greed, are unambiguously traditional in their framing.",
+      "adultInsight": "Conservative adults who played the Naughty Dog games in the 2000s-2010s should manage their expectations. This is not Drake and Sully at their best. It is Drake and Sully at their beginning, younger and less formed, in a film that works as entertainment but doesn't capture the games' emotional specificity. Taken on its own terms, as a PG-13 action adventure with good chemistry between two leads and one outstanding setpiece, it is a solid afternoon at the movies. The games remain the better version. This is a decent adaptation of what the games represent."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-001",
+        "name": "Female Antagonist as Primary Physical Threat",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "description": "Jo Braddock (Tati Gabrielle) is the film's most physically dangerous villain and defeats both male leads in direct combat. Her gender is not made into a theme, but a female character being more physically dangerous than the male heroes is a modern action-film convention that scores as woke-adjacent. Authenticity is high because the Uncharted game series has consistently featured physically formidable female antagonists."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Female Ally Pursues Her Own Agenda, Not Defined by Male Relationship",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "Chloe Frazer has her own treasure-hunting motivations that are not dependent on Drake or Sully. She allies with the heroes because their interests align, not because she is defined by a relationship with either of them. The film does not develop a romantic storyline between her and Drake. This is presented as her being a professional rather than a narrative statement about female independence, but the resulting character reads as more 'strong female character' framing than natural story construction."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Corrupt Billionaire as Primary Villain",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "Santiago Moncada is a corrupt billionaire whose claim to the Magellan treasure is based on his family's historical connection to the Magellan expedition, which he treats as a personal inheritance. The villain-as-billionaire framing carries mild wealth-skepticism undertones. Authenticity is moderate because the Indiana Jones template has always used wealthy collectors as antagonists. The critique is of Moncada's specific entitlement rather than wealth in general."
+      },
+      {
+        "id": "TRAD-001",
+        "name": "Male Mentor-Protege Relationship Built on Earned Trust",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "The Drake-Sully partnership is the film's central relationship. Sully is the experienced operator who recruits the talented but unformed Drake. Their relationship evolves from mutual utility to genuine loyalty through shared danger. Sully's eventual decision to prioritize Drake's wellbeing over his own self-interest is the film's character climax. This is the classic masculine mentorship structure: an older man recognizing and developing a younger man's potential, with both being changed by the process."
+      },
+      {
+        "id": "TRAD-002",
+        "name": "Family Loyalty Drives the Hero's Motivation",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Drake's stated reason for pursuing the treasure is finding his missing brother Sam, who was last seen chasing the same Magellan fortune. Every decision Drake makes is filtered through the question of what would help him find Sam. The film frames this as Drake's defining characteristic: his loyalty to his brother is what makes him trustworthy as a partner (he will do what he says) and what makes him dangerous as an adversary (he will not stop). Family loyalty as the moral engine of masculine heroism is a core traditional narrative value."
+      },
+      {
+        "id": "TRAD-003",
+        "name": "Classic Adventure Genre: Virtuous Explorers vs. Corrupt Villains",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "The Uncharted franchise belongs to the Indiana Jones adventure tradition: plucky heroes seek historical treasures against corrupt, well-funded antagonists who deserve to be defeated. The moral framework is clear and unmixed with relativism. Moncada and Braddock are wrong and must be stopped. Drake and Sully are imperfect but on the right side. This is a traditional adventure-genre moral universe."
+      },
+      {
+        "id": "TRAD-004",
+        "name": "Hero Proves Himself Through Action and Wit",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "description": "Drake earns Sully's respect, earns Chloe's grudging alliance, and earns the audience's investment through demonstrated competence rather than stated credentials. He does not claim to be capable: he shows it through the bar sequence, the auction infiltration, the aerial fight. The film's reward structure is merit-based: you earn trust by doing the things that deserve trust. This is a traditional male-competence narrative framework."
+      }
+    ],
+    "seoTitle": "Is Uncharted (2022) Woke? | VirtueVigil Review",
+    "seoDescription": "VirtueVigil reviews Uncharted (2022). TRADITIONAL verdict (+11 TRAD). Tom Holland and Mark Wahlberg hunt the Magellan treasure. Clean PG-13 action adventure with no ideological baggage. Full VVWS scoring, parental guidance.",
+    "seoKeywords": [
+      "uncharted 2022 woke",
+      "is uncharted woke",
+      "uncharted 2022 conservative review",
+      "uncharted movie review",
+      "VirtueVigil",
+      "uncharted movie parents guide",
+      "tom holland uncharted",
+      "mark wahlberg uncharted",
+      "uncharted movie box office",
+      "woke movie review 2022",
+      "conservative action movie 2022",
+      "uncharted naughty dog film",
+      "nate drake movie",
+      "uncharted sequel",
+      "VVWS score"
+    ]
   }
 ]
