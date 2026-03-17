@@ -2280,6 +2280,18 @@
     "poster": "/images/posters/pluribus-2025.jpg"
   },
   {
+    "slug": "silent-storm-2026",
+    "title": "Silent Storm",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Military Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5.1,
+    "tradScore": 18.6,
+    "poster": "/images/posters/silent-storm-2026.jpg"
+  },
+  {
     "slug": "how-to-train-your-dragon-2025",
     "title": "How to Train Your Dragon",
     "verdict": "STRONGLY TRADITIONAL",
