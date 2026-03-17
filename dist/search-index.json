@@ -72,6 +72,18 @@
     "poster": "/images/posters/babylon-2022.jpg"
   },
   {
+    "slug": "the-menu-2022",
+    "title": "The Menu",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Streaming (Disney+)",
+    "genre": "Black Comedy Horror",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 9.3,
+    "tradScore": 9.66,
+    "poster": "/images/posters/the-menu-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",
