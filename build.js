@@ -2960,6 +2960,199 @@ function build() {
 </article>`
   }));
 
+  writePage('lists/best-conservative-movies-netflix-2025/index.html', buildListiclePage({
+    slug: 'best-conservative-movies-netflix-2025',
+    title: '10 Best Movies on Netflix for Conservatives (2025)',
+    description: 'Looking for conservative-friendly movies on Netflix? VirtueVigil ranks the 10 best options by traditional values score.',
+    canonicalPath: 'lists/best-conservative-movies-netflix-2025',
+    publishDate: '2026-03-17',
+    htmlContent: `<article class="listicle-article">
+
+<p>Netflix gets a bad reputation in conservative circles, and some of it is earned. The platform has produced its share of ideologically aggressive content over the years. But buried inside its catalog are films that score remarkably well on the VirtueVigil Traditional Score system: movies built around duty, sacrifice, family, and the kind of masculine honor that Hollywood usually treats as a liability.</p>
+
+<p>This list ranks the 10 best Netflix-available films for conservative viewers in 2025, ordered by VirtueVigil score margin. Every entry has been reviewed in full using the VVWS methodology. The rankings are data-driven, not editorial. If a film is here, it earned its place by scoring positive on our Traditional-Woke margin. If you want to know exactly how it was scored, the links take you to the full reviews.</p>
+
+<hr>
+
+<h2>#1 &mdash; <a href="/reviews/peaky-blinders-the-immortal-man-2026/">Peaky Blinders: The Immortal Man (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28</span>
+  <span class="mini-score woke">WOKE: 5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Crime/Drama/History &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>Tommy Shelby returns for a big-screen finale that doubles down on everything that made the series great: loyalty, sacrifice, the weight of legacy, and the cost of power. The film is steeped in working-class honor codes and the kind of moral seriousness that treats its characters as responsible agents rather than victims of systems. A tradScore of 28 against a woke score of just 5 makes this the highest-scoring Netflix film on this list by a wide margin. Conservative viewers who have followed the Shelby family across six seasons will find a conclusion that respects both the characters and the audience.</p>
+
+<p><a href="/reviews/peaky-blinders-the-immortal-man-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Peaky Blinders: The Immortal Man</a></p>
+
+<hr>
+
+<h2>#2 &mdash; <a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home (2021)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22.05</span>
+  <span class="mini-score woke">WOKE: 3.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Superhero/Action/Science Fiction &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>Of all the MCU films VirtueVigil has reviewed, No Way Home scores highest on traditional values. Peter Parker makes irreversible sacrifices for people he loves without asking for recognition, and the film takes that sacrifice seriously. Responsibility, consequence, and the refusal to take the easy way out are the film's actual subjects. A tradScore of 22.05 and a woke score of 3.5 make it the most conservative-friendly Spider-Man film by a considerable distance. The multiverse mechanics are a delivery mechanism for a genuinely old-fashioned story about what it means to do the right thing when the cost is everything.</p>
+
+<p><a href="/reviews/spider-man-no-way-home-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: No Way Home</a></p>
+
+<hr>
+
+<h2>#3 &mdash; <a href="/reviews/war-machine-2026/">War Machine (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22</span>
+  <span class="mini-score woke">WOKE: 4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +18 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sci-Fi/Action/Thriller &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>A hard-edged military sci-fi thriller built around duty, chain of command, and what it costs to maintain order in a world that has forgotten why order matters. War Machine treats its soldier protagonists with the respect that Hollywood usually reserves for dissidents. A tradScore of 22 against a woke score of 4 puts it firmly in traditional territory, and the film earns those numbers through its insistence on competence, discipline, and moral clarity under pressure. For viewers who want action that actually respects its characters, this is one of Netflix's strongest 2026 releases.</p>
+
+<p><a href="/reviews/war-machine-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of War Machine</a></p>
+
+<hr>
+
+<h2>#4 &mdash; <a href="/reviews/nonnas-2025/">Nonnas (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 17</span>
+  <span class="mini-score woke">WOKE: 1</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Comedy-Drama &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>A comedy-drama about a man who opens a restaurant staffed by actual Italian grandmothers, and ends up finding community, purpose, and a reason to keep going. Nonnas is warm without being saccharine, and its celebration of food, family, and the wisdom of older generations is entirely free of ideological agenda. A tradScore of 17 against a woke score of just 1 makes it one of the cleanest watches on Netflix this year. If you have been burned by feel-good films that hide progressive agendas under heartwarming premises, Nonnas is the real thing.</p>
+
+<p><a href="/reviews/nonnas-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Nonnas</a></p>
+
+<hr>
+
+<h2>#5 &mdash; <a href="/reviews/train-dreams-2025/">Train Dreams (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 20.6</span>
+  <span class="mini-score woke">WOKE: 5.3</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +15 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Period Drama &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>One of the quietest and most powerful films on this list, Train Dreams follows a man in early 20th-century Idaho who loses everything and rebuilds his life through solitary endurance. There is no ideology here, no systems to blame, no community organizing. Just a man, the land, and the slow work of surviving. A tradScore of 20.6 reflects the film's deep commitment to self-reliance and stoic masculinity without ever turning those themes into a lecture. Also nominated for Best Picture at the 98th Academy Awards, which means it arrives with critical credibility to match its traditional values score.</p>
+
+<p><a href="/reviews/train-dreams-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Train Dreams</a></p>
+
+<hr>
+
+<h2>#6 &mdash; <a href="/reviews/beverly-hills-cop-axel-f-2024/">Beverly Hills Cop: Axel F (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 15</span>
+  <span class="mini-score woke">WOKE: 4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +11 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Comedy &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>Eddie Murphy returns as Axel Foley and the film does exactly what it promises: fast-talking detective work, father-daughter reconciliation, and a buddy-cop dynamic built on mutual respect and competence. Axel F is funnier than it had any right to be, and its core emotional engine is a father who shows up for his daughter when it matters. A tradScore of 15 against a woke score of 4 lands it solidly in traditional territory. Netflix's most nostalgically satisfying original in years, and proof that legacy sequels do not have to betray their source material to find an audience.</p>
+
+<p><a href="/reviews/beverly-hills-cop-axel-f-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Beverly Hills Cop: Axel F</a></p>
+
+<hr>
+
+<h2>#7 &mdash; <a href="/reviews/frankenstein-2025/">Frankenstein (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 20.86</span>
+  <span class="mini-score woke">WOKE: 11.66</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +9 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Gothic/Science Fiction/Drama &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>Guillermo del Toro's long-awaited adaptation is faithful to Mary Shelley's text in ways that matter: the Creator-creature relationship is treated as a genuine moral question, not a metaphor for oppression politics. Jacob Elordi's creature is a meditation on what it means to be made by someone who abandons you, and the film takes that abandonment seriously as a moral failure. A tradScore of 20.86 against a woke score of 11.66 gives it a positive lean, though some progressive readings of the material are present and worth noting. Del Toro's craft makes this a rewarding watch despite the complexity of the source material's politics.</p>
+
+<p><a href="/reviews/frankenstein-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Frankenstein</a></p>
+
+<hr>
+
+<h2>#8 &mdash; <a href="/reviews/havoc-2025/">Havoc (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 17.22</span>
+  <span class="mini-score woke">WOKE: 8.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +9 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Crime/Thriller &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>A gritty crime thriller directed by Gareth Evans that follows a detective navigating a corrupt city after a drug deal goes sideways. Havoc is brutally efficient filmmaking, and its protagonist operates by a personal code of loyalty and justice that the film clearly endorses. A tradScore of 17.22 against a woke score of 8.4 gives it a traditional lean, and its relentless focus on individual accountability over systemic blame earns that designation. Tom Hardy delivers one of his most focused performances, and Evans shoots action with a precision that makes John Wick look choreographed.</p>
+
+<p><a href="/reviews/havoc-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Havoc</a></p>
+
+<hr>
+
+<h2>#9 &mdash; <a href="/reviews/nobody-2-2025/">Nobody 2 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 15.12</span>
+  <span class="mini-score woke">WOKE: 8.96</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +6 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller/Comedy &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>Hutch Mansell is back, and the sequel doubles down on what made the original work: a quiet man pushed past his limits who refuses to apologize for being capable of violence in defense of the people he loves. Nobody 2 treats masculine protective instinct as a virtue rather than a pathology, and that distinction matters. A tradScore of 15.12 against a woke score of 8.96 lands it in traditional lean territory, making it a solid action pick for conservative viewers who want adrenaline without a lecture. Bob Odenkirk commits fully to the physical role and earns every second of screen time.</p>
+
+<p><a href="/reviews/nobody-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Nobody 2</a></p>
+
+<hr>
+
+<h2>#10 &mdash; <a href="/reviews/kraven-the-hunter-2024/">Kraven the Hunter (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 11.2</span>
+  <span class="mini-score woke">WOKE: 5.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +6 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Superhero &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>Critically dismissed but scoring positively on VirtueVigil's metric, Kraven the Hunter is a revenge-and-identity story built around a protagonist who rejects the comfortable life he was born into and forges his own code in the wild. The film's themes of self-reliance, physical discipline, and the rejection of inherited corruption are genuinely conservative in orientation. A tradScore of 11.2 against a woke score of 5.4 earns it a place on this list as a solid low-stakes streaming pick. Ignore the critic consensus on this one. The audience that showed up found something worth watching.</p>
+
+<p><a href="/reviews/kraven-the-hunter-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Kraven the Hunter</a></p>
+
+<hr>
+
+<h2>Browse More at VirtueVigil</h2>
+
+<p>Netflix is not a conservative platform, and it never claimed to be. But the films above prove that the streaming giant's catalog contains real options for viewers who are tired of being lectured. From the stoic endurance of Train Dreams to the old-school action of Beverly Hills Cop: Axel F to the moral seriousness of Peaky Blinders: The Immortal Man, there is more here than most conservative viewers expect to find.</p>
+
+<p>Every film on this list has a full review at VirtueVigil with the complete VVWS scoring breakdown, trope-by-trope analysis, and parental guidance assessment. <a href="/">Browse the full VirtueVigil review catalog</a> to find more films scored by traditional values. New reviews publish weekly. Bookmark us and stop guessing what is safe to watch.</p>
+
+</article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
