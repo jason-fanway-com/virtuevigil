@@ -84,6 +84,18 @@
     "poster": "/images/posters/the-menu-2022.jpg"
   },
   {
+    "slug": "amsterdam-2022",
+    "title": "Amsterdam",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Streaming (Disney+)",
+    "genre": "Mystery, Comedy, Thriller",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 10.49,
+    "tradScore": 9.24,
+    "poster": "/images/posters/amsterdam-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",
