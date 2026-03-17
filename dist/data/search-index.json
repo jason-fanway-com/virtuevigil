@@ -96,6 +96,18 @@
     "poster": "/images/posters/amsterdam-2022.jpg"
   },
   {
+    "slug": "till-2022",
+    "title": "Till",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / Streaming (Peacock)",
+    "genre": "Biographical Drama",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 10.29,
+    "tradScore": 17.99,
+    "poster": "/images/posters/till-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",

@@ -70068,5 +70068,241 @@
       "Amsterdam VVWS score",
       "Amsterdam 2022 political message"
     ]
+  },
+  {
+    "id": "till-2022",
+    "slug": "till-2022",
+    "title": "Till",
+    "year": 2022,
+    "type": "film",
+    "platform": "Theatrical / Streaming (Peacock)",
+    "genre": "Biographical Drama",
+    "date": "2026-03-17",
+    "datePublished": "2026-03-17",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "10 min",
+    "poster": "/images/posters/till-2022.jpg",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 10.29,
+    "tradScore": 17.99,
+    "authIndex": 78,
+    "scoreMargin": "+8 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Margin is positive. Not a woke trap. The film is a biographical drama about a mother's fight for justice after the murder of her son. Its racial justice themes are central and visible from the first scene. Conservative viewers understand what they are watching immediately."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 96,
+      "rottenTomatoesAudience": 94,
+      "imdb": 7.2,
+      "metacritic": 81,
+      "oscarNominations": 0,
+      "goldenGlobeNominations": 1,
+      "criticChoiceNominations": 3,
+      "sagNominations": 1,
+      "baftaNominations": 1,
+      "budget": "$20M",
+      "boxOffice": "$11.5M worldwide"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Chinonye Chukwu",
+        "ideology": "LEFT-LEANING. Nigerian-American filmmaker with a strong track record in social justice cinema. Her previous feature Clemency (2019) won the Grand Jury Prize at Sundance and examined the death penalty through the lens of a Black prison warden. Chukwu approaches difficult American history with emotional intelligence and restraint. She has been explicit that her goal with Till was to center Mamie's love and grief rather than Emmett's suffering.",
+        "profile": "Chinonye Chukwu is one of the most promising American directors working today. Clemency (2019) demonstrated her ability to handle morally complex material with unusual restraint. For Till, she made a deliberate choice not to show Emmett's murder on screen. This decision, which some critics found limiting, is actually one of the film's most significant achievements: it refuses to make Emmett's suffering the spectacle, keeping the film centered on Mamie's response rather than the violence itself. Chukwu's direction is patient and precise. She holds on faces long enough for grief to surface rather than cutting away at the emotional moment. Her approach is the opposite of exploitative. Chukwu has been clear that the film is about Mamie Till as an activist, not simply as a victim's mother, and that distinction drives every directorial choice."
+      },
+      "writers": {
+        "names": "Michael Reilly, Keith Beauchamp, Chinonye Chukwu",
+        "profile": "Documentarian Keith Beauchamp spent years investigating the Emmett Till murder (his 2005 documentary The Untold Story of Emmett Louis Till helped reopen the federal case) and co-wrote the screenplay. Michael Reilly and director Chukwu completed the script. The screenplay makes a crucial structural decision: it begins and ends with Mamie, not Emmett. His murder is the inciting event, but the film is her story. This choice transforms what could have been a trauma narrative into a story of active moral courage. Mamie becomes an agent of history rather than its victim."
+      },
+      "lead_producer": {
+        "name": "Keith Beauchamp, Barbara Broccoli, Whoopi Goldberg, Thomas Levine, Michael Reilly, Frederick Zollo",
+        "company": "Orion Pictures / Eon Productions / United Artists Releasing"
+      },
+      "composer": {
+        "name": "Abel Korzeniowski",
+        "profile": "Polish film composer known for emotionally precise, lushly orchestrated scores (W.E., Nocturnal Animals, Penny Dreadful). His Till score is restrained and sorrowful without tipping into sentimentality. He understands that the story does not need his music to tell the audience how to feel. He makes space for silence."
+      },
+      "top_cast": [
+        {
+          "name": "Danielle Deadwyler",
+          "role": "Mamie Till-Mobley",
+          "notes": "One of the great performances of 2022, and one of the more baffling Oscar snubs in recent memory. Deadwyler does not give a single false note across a 130-minute film. She plays grief, determination, terror, and love with an honesty that makes the camera feel intrusive. The open casket scene is among the most emotionally devastating sequences in any film of the past decade. Her snub for Best Actress Oscar nomination was widely noted as one of the Academy's more inexplicable decisions of the year."
+        },
+        {
+          "name": "Jalyn Hall",
+          "role": "Emmett Till",
+          "notes": "Hall plays Emmett with warmth and specificity. His Emmett is a real teenager: funny, a little cocky, deeply attached to his mother, curious about the world. The film's restraint in depicting his murder makes Hall's performance in the first act even more important. We need to know him as a person. Hall delivers that."
+        },
+        {
+          "name": "Whoopi Goldberg",
+          "role": "Alma Carthan (Mamie's mother)",
+          "notes": "Goldberg (also a producer) plays Alma with quiet authority. The grandmother who tries to protect both her daughter and her grandson from a world designed to destroy them. Her scenes with Deadwyler carry the weight of generations."
+        },
+        {
+          "name": "Haley Bennett",
+          "role": "Carolyn Bryant",
+          "notes": "Bennett plays the woman whose accusation set the murder in motion with calculated flatness. Carolyn is not a monster in the film's treatment; she is ordinary, which is more frightening. Bennett's restraint is the right choice."
+        },
+        {
+          "name": "Frankie Faison",
+          "role": "John Carthan (Mamie's father)",
+          "notes": "Faison brings dignity and deep pain to a supporting role that requires him to hold grief he cannot express. His relationship with Deadwyler anchors the Chicago sections of the film."
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL LEAN - confirmed",
+        "confidence": "high"
+      }
+    },
+    "fidelityCasting": {
+      "sourceType": "Biography / Historical Events",
+      "sourceTitle": "The life of Mamie Till-Mobley and the murder of Emmett Till (1955)",
+      "assessment": "Till is a biographical drama based on real historical events. The casting is faithful to the historical record in meaningful ways. Danielle Deadwyler studied Mamie Till-Mobley's recorded speeches and interviews extensively. The film is dedicated to Mamie Till's memory. Whoopi Goldberg, who also produced the film, plays Mamie's mother Alma Carthan. The film's Chicago and Mississippi locations were recreated with documentary precision. No significant casting fidelity concerns: the film treats its historical subjects with evident care and respect. Carolyn Bryant's portrayal is notably restrained; the film does not dramatize events she has never confirmed and does not fabricate dialogue beyond what the historical record supports."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Thematic content involving racism and historical racial violence, some disturbing images, and brief strong language",
+      "recommendedAge": "14+",
+      "contentWarnings": [
+        "The murder of a 14-year-old child is the film's central event; while not depicted on screen, its aftermath is shown",
+        "Mamie Till views her son's mutilated body; the audience sees her reaction but not detailed graphic imagery",
+        "An open casket funeral shows Emmett Till's disfigured body briefly from a distance",
+        "Racial slurs are used in historically accurate depictions of 1950s Mississippi",
+        "White supremacist violence and systemic racism are depicted throughout",
+        "A racist all-white jury acquits two men of murder; the injustice is explicit",
+        "Brief strong language"
+      ],
+      "parentalNotes": "Till is rated PG-13 and is appropriate for mature teens and older. The film deliberately avoids showing Emmett's murder, but the aftermath and grief are depicted with emotional force that may be difficult for younger viewers. This is important American history told with restraint and dignity. For conservative Christian families, the film's themes of maternal love, justice-seeking, and moral courage in the face of evil are deeply resonant. Mamie Till was a woman of faith who turned her grief into purposeful action. That is a story worth telling and worth teaching."
+    },
+    "summary": {
+      "overall": "Till is not a film about Emmett Till. It is a film about Mamie Till, and that distinction is what elevates it above the civil rights drama genre and into something genuinely moving.\n\nMamie Till-Mobley (played by Danielle Deadwyler in a performance that deserved every award it was eligible for) was a 33-year-old Chicago schoolteacher in August 1955 when her 14-year-old son Emmett traveled to Money, Mississippi to visit relatives and was murdered by two white men for allegedly whistling at a white woman in a store. Roy Bryant and J.W. Milam beat Emmett to death, shot him, tied a heavy cotton gin fan around his neck with barbed wire, and dumped his body in the Tallahatchie River.\n\nThey were acquitted by an all-white jury in 67 minutes. They later confessed to the murder in a magazine interview, protected by double jeopardy.\n\nMamie Till made one decision that changed American history. She demanded an open casket funeral and allowed photographers to document what had been done to her son. Jet magazine published the photographs. The images circulated across the country. What had been deniable was no longer deniable. Rosa Parks later said that when she refused to give up her seat four months later, she was thinking of Emmett Till.\n\nDirector Chinonye Chukwu understands that this story does not need cinematic manipulation to be powerful. She plays it straight, quietly, with patience. She holds on Deadwyler's face during the open casket scene for what feels like a very long time. She is right to. We need to see what it costs a mother to make that choice.\n\nFor conservative viewers who come to this film with wariness about civil rights dramas that moralize, Till has a surprise waiting. It is primarily a film about a mother's love. About a woman who had every reason to collapse into private grief and chose instead to transform that grief into public testimony. The film is not interested in ideological lectures. It is interested in one woman's courage in an impossible situation.\n\nThe traditional values on display here are real and central, not ornamental. Mamie's faith supports her. Her family sustains her. Her love for her son motivates every decision. When she stands up at the NAACP meeting and speaks about what was done to Emmett, she is not performing activism: she is a mother testifying to what she knows.\n\nThe racial justice themes are also real and cannot be separated from the story. The film is about systemic racism because the murder of Emmett Till was an act of systemic racism. You cannot tell this story honestly without telling that truth. Till does not extrapolate from the specific to the general in the way that self-consciously woke films do. It stays with Mamie. The systemic realities are present because they are inseparable from her experience, not because a screenwriter wants to score points.\n\nDanielle Deadwyler was inexplicably snubbed for the Oscar nomination. Her performance is among the finest of the decade. The Academy's decision to nominate Andrea Riseborough for To Leslie instead remains one of the stranger moments in recent awards history.\n\nTill is a film that conservative and progressive audiences can both watch and both feel. The things it is about, love, grief, courage, justice, and the cost of bearing witness, belong to all of us.",
+      "oneLiner": "Danielle Deadwyler gives one of the decade's great performances as Mamie Till. This is primarily a film about maternal love and moral courage. The civil rights history is present because it is inseparable from the story, not because the film wants to lecture you.",
+      "verdict": "Till is a traditional story told in the most traditional way: a mother who loved her son, lost him to evil, and refused to look away. The racial justice themes are real and central. So is the faith, family, and courage that drives every scene. TRADITIONAL LEAN is exactly right.",
+      "adultInsight": "Conservative adults who approach Till with an open mind will find a film about exactly the values they believe in: a mother's unconditional love, the courage to speak truth to power, family as the bedrock of survival, and the refusal to let evil go unwitnessed. Mamie Till was a woman of faith and purpose who made a decision that altered American history. Her story belongs to all Americans, not just one political tribe. The film's racial justice framing is honest rather than polemical. It earns every emotion it asks for.",
+      "parentalGuidance": "Rated PG-13. Suitable for mature teens and adults. Important American history told with restraint and dignity. Conservative Christian families will find deep resonance in Mamie's faith-driven courage."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-301",
+        "name": "Maternal Love / Mother's Sacrifice as Moral Center",
+        "category": "Trad",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "Mamie Till's love for her son is the film's foundation and its engine. Every decision she makes flows from it. The choice to have an open casket, to travel to Mississippi for the trial, to speak publicly, to work with the NAACP: all of it is maternal love transformed into purposeful action. The film does not treat her as an activist first. She is a mother first. The activism is the form her grief takes. This is one of the most powerful traditional values narratives in 2022 cinema."
+      },
+      {
+        "id": "TRAD-302",
+        "name": "Justice / Rule of Law Pursued Through Legitimate Channels",
+        "category": "Trad",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "Mamie pursues justice through every legitimate channel available: the NAACP, the courts, Congress, the press. She does not call for violence or vengeance. She calls for accountability through the law. The film respects this choice. It shows clearly that the system failed her, but her response is to demand the system live up to its stated values rather than to reject the system. This is a deeply conservative response to injustice."
+      },
+      {
+        "id": "TRAD-303",
+        "name": "Family as Foundation / Multigenerational Bonds",
+        "category": "Trad",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 5.04,
+        "description": "The Till family's bonds are the film's emotional spine. Mamie and her parents, the extended family in Mississippi, the community that gathers around her: family is shown as the primary source of strength and survival in the face of devastation. The film is not interested in family dysfunction or family as obstacle. It treats family as exactly what traditional values say it is: the foundation of individual resilience."
+      },
+      {
+        "id": "TRAD-304",
+        "name": "Faith / Church Community as Support Structure",
+        "category": "Trad",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 1.05,
+        "description": "Mamie's faith is present throughout the film without being made explicitly central. The church community surrounding her is depicted as a genuine source of strength. Her moral language draws from her faith tradition. The film does not treat religious belief as superstition or as a barrier to justice. It treats it as part of the foundation that allows Mamie to function under unbearable pressure."
+      },
+      {
+        "id": "TRAD-305",
+        "name": "Heroic Individual Action / Moral Courage Against Opposition",
+        "category": "Trad",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "Mamie's courage is portrayed as individual moral choice against institutional and social opposition. She is advised repeatedly to stay quiet, to grieve privately, to not make herself a target. She refuses. Her courage is personal, not collective. The film celebrates the individual who chooses to bear witness even when every institution around her is designed to prevent it. This is traditional heroism: one person doing the right thing because it is right."
+      },
+      {
+        "id": "WOKE-301",
+        "name": "Systemic Racism as Central Thematic Framework",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 5.04,
+        "description": "The film is built on the reality of systemic racism in 1955 Mississippi. The murder of Emmett Till, the all-white jury, the acquittal, the complete failure of the Mississippi justice system: these are historical facts presented without softening. The film treats racism not as aberrant individual behavior but as a functioning system designed to maintain white supremacy. This is historically accurate and also a central lens of contemporary progressive discourse. The film does not extrapolate to the present but the connection is available."
+      },
+      {
+        "id": "WOKE-302",
+        "name": "Activist Hero / Grief Transformed to Advocacy",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "Mamie's transformation from grieving mother to civil rights activist is the film's arc. The film treats this transformation as heroic. Her work with the NAACP and the press is depicted as the right response to injustice. This is the standard arc of activist biopic filmmaking. The film earns it because Mamie's activism is historically documented and grounded in her specific loss rather than abstracted into general political statement."
+      },
+      {
+        "id": "WOKE-303",
+        "name": "Racial Justice / Civil Rights Political Messaging",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The film's political message is civil rights advocacy, specifically that the murder of Emmett Till and the subsequent acquittal were a moral catastrophe that demanded national response. T.R.M. Howard's speech about galvanizing federal support for voting rights is the film's most explicitly political moment. The message is historically grounded but is also a present-tense political argument."
+      },
+      {
+        "id": "WOKE-304",
+        "name": "White Villain / Institutional Racism Framework",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 1.05,
+        "description": "The murderers (Roy Bryant and J.W. Milam), the all-white jury, the white Mississippi justice system: all are depicted as complicit in evil. The film does not create false moral complexity around the murder itself. It is clear about who is responsible and what they did. The institutional racism framing, where individual evil is enabled and protected by systemic structures, is historically accurate and also a standard element of progressive racial discourse."
+      }
+    ],
+    "detailed_analysis": "Till scores TRADITIONAL LEAN because its core values genuinely are traditional: a mother's love, family strength, faith, individual moral courage, and the pursuit of justice through legitimate channels.\n\nThe woke elements are real and historically grounded. You cannot tell the story of Emmett Till honestly without acknowledging systemic racism. The film is about an actual event, not a fictional vehicle for ideology.\n\nWhat separates Till from a purely woke film is its focus. It stays with Mamie. It does not extrapolate from the specific to the general. It does not deliver lectures. It shows one woman making one decision at a time, all of them flowing from her love for her son.\n\nChinonye Chukwu's decision not to show Emmett's murder on screen is the film's most important artistic choice. It refuses to make Black suffering the spectacle. It insists that Mamie's grief and courage are the story. That choice aligns with traditional storytelling values: the character is what matters, not the shock.\n\nDanielle Deadwyler's performance should be required viewing for any acting school. She is that good.",
+    "comparison_films": [
+      {
+        "title": "Selma (2014)",
+        "reason": "Civil rights biographical drama with similar structure; Selma is more explicitly political, Till is more emotionally intimate"
+      },
+      {
+        "title": "Harriet (2019)",
+        "reason": "Another biographical drama about a Black woman's individual moral courage; very similar traditional value profile"
+      },
+      {
+        "title": "The Eyes of Tammy Faye (2021)",
+        "reason": "Another film about a woman defined by her love who refuses to let institutions flatten her"
+      }
+    ],
+    "seoTitle": "Till (2022) Review: Woke or Traditional? | VirtueVigil VVWS Score",
+    "seoDescription": "VirtueVigil's full VVWS analysis of Till (2022). Danielle Deadwyler is extraordinary as Mamie Till. A film about maternal love, courage, and justice. Score: +8 TRAD. Verdict: TRADITIONAL LEAN.",
+    "seoKeywords": [
+      "Till 2022 review",
+      "Till 2022 woke or traditional",
+      "Danielle Deadwyler Till review",
+      "Till VirtueVigil",
+      "Till VVWS score",
+      "is Till woke",
+      "Till 2022 conservative review",
+      "Emmett Till movie 2022",
+      "Till Chinonye Chukwu review",
+      "Till 2022 traditional values"
+    ]
   }
 ]
