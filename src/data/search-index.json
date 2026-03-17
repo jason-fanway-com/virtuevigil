@@ -3802,5 +3802,17 @@
     "wokeScore": 2,
     "tradScore": 10,
     "poster": "/images/posters/1923-s2.jpg"
+  },
+  {
+    "slug": "butterfly-dreams-2026",
+    "title": "Butterfly Dreams",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Coming-of-Age Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 18.4,
+    "tradScore": 11.2,
+    "poster": "/images/posters/butterfly-dreams-2026.jpg"
   }
 ]
