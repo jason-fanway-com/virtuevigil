@@ -60,6 +60,18 @@
     "poster": "/images/posters/dont-worry-darling-2022.jpg"
   },
   {
+    "slug": "babylon-2022",
+    "title": "Babylon",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Period Drama / Black Comedy",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 10.5,
+    "tradScore": 14.9,
+    "poster": "/images/posters/babylon-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",
