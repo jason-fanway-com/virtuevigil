@@ -72,6 +72,18 @@
     "poster": "/images/posters/dungeons-dragons-honor-among-thieves-2023.jpg"
   },
   {
+    "slug": "argylle-2024",
+    "title": "Argylle",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Apple TV+",
+    "genre": "Action Spy Comedy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 11.2,
+    "tradScore": 13,
+    "poster": "/images/posters/argylle-2024.jpg"
+  },
+  {
     "slug": "american-sniper-2014",
     "title": "American Sniper",
     "verdict": "STRONGLY TRADITIONAL",

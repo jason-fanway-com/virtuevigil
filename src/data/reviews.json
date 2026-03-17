@@ -67576,5 +67576,217 @@
         "Forgotten Realms movie woke check"
       ]
     }
+  },
+  {
+    "id": "argylle-2024",
+    "slug": "argylle-2024",
+    "title": "Argylle",
+    "year": 2024,
+    "type": "film",
+    "platform": "Theatrical / Apple TV+",
+    "genre": "Action Spy Comedy",
+    "date": "2026-03-16",
+    "author": "Debra Ducane",
+    "readTime": "10 min",
+    "poster": "/images/posters/argylle-2024.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 11.2,
+    "tradScore": 13.0,
+    "authIndex": 62,
+    "scoreMargin": "+2 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Not a woke trap. Argylle's marketing openly featured its female protagonist and star-studded diverse ensemble cast. Matthew Vaughn's Kingsman DNA was front and center in trailers. Progressive casting and female empowerment themes were visible from day one. Nothing was concealed. Conservative audiences had full information before buying a ticket."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 33,
+      "rottenTomatoesAudience": 69,
+      "imdb": 6.0,
+      "metacritic": 35,
+      "boxOfficeWorldwide": 96000000,
+      "productionBudget": 200000000
+    },
+    "creative_team": {
+      "director": {
+        "name": "Matthew Vaughn",
+        "ideology": "PRAGMATIC ENTERTAINER - Vaughn's work spans the political spectrum. He made Kingsman (arch-conservative villain, anti-elitist hero), then Kingsman 2 (which was more progressive), then went full-on CGI spectacle with Argylle. His primary ideology is box office.",
+        "profile": "Matthew Vaughn built his name producing Guy Ritchie films (Lock, Stock; Snatch) before directing Layer Cake, Stardust, Kick-Ass, and the Kingsman franchise. He has a gift for stylized action and subversive genre play. Argylle represents his most expensive and arguably most creatively misfiring production. The film's $200M budget yielded $96M worldwide, making it one of the biggest theatrical flops in Apple Original Films' short history. Vaughn's instinct to deconstruct genre tropes worked in Kingsman; here it collapses under the weight of its own cleverness."
+      },
+      "writer": {
+        "name": "Jason Fuchs",
+        "profile": "Adapted from Elly Conway's novel. Fuchs previously wrote Ice Age: Continental Drift and Wonder Woman. The Argylle script received sharp criticism for its convoluted meta-narrative - a spy novelist discovers her fictional spy is real. The twists multiply until they fold in on themselves."
+      },
+      "lead_producer": {
+        "name": "Matthew Vaughn",
+        "company": "Apple Original Films / Marv Studios"
+      },
+      "top_cast": [
+        {
+          "actor": "Bryce Dallas Howard",
+          "role": "Elly Conway / Rachel"
+        },
+        {
+          "actor": "Sam Rockwell",
+          "role": "Aidan"
+        },
+        {
+          "actor": "Henry Cavill",
+          "role": "Agent Argylle"
+        },
+        {
+          "actor": "Dua Lipa",
+          "role": "Agent LaGrange"
+        },
+        {
+          "actor": "Bryan Cranston",
+          "role": "Director Ritter"
+        },
+        {
+          "actor": "Catherine O'Hara",
+          "role": "Ruth"
+        },
+        {
+          "actor": "John Cena",
+          "role": "Agent Wyatt"
+        },
+        {
+          "actor": "Samuel L. Jackson",
+          "role": "Alfred Solomon"
+        }
+      ]
+    },
+    "summary": {
+      "overall": "Argylle wants to be the smartest spy film in the room. It ends up being the most exhausting.\n\nThe premise is genuinely clever on paper: Elly Conway (Bryce Dallas Howard) writes bestselling spy novels starring Agent Argylle (Henry Cavill in her imagination). When a real spy named Aidan (Sam Rockwell) shows up and tells her that her fictional plots are somehow predicting real CIA operations, Elly gets pulled into the actual espionage world. What follows is a film that keeps revealing its hand, then revealing that hand was itself a misdirection, then revealing that the misdirection was also a misdirection.\n\nMatthew Vaughn made this work in Kingsman because the twists felt earned. Here they feel like a director who ran out of story and replaced it with more twists. By the third act reveal, you've stopped caring who Elly actually is because the film has broken its own rules so many times that the rules no longer exist.\n\nWhat saves Argylle from complete disaster is Sam Rockwell. He is genuinely charming as Aidan, bringing a lived-in ease to action sequences that the CGI-heavy set pieces can't manufacture. The chemistry between Rockwell and Howard is the film's one reliable pleasure. When they're together, Argylle remembers it's supposed to be fun.\n\nHenry Cavill shows up in Elly's imagination as her ideal spy, and he looks the part. But the film underuses him almost criminally, keeping him in fantasy sequences while the real story unfolds with the less conventionally heroic Aidan. It's a choice that feels more like a budget decision than a storytelling one.\n\nFor VirtueVigil's audience, Argylle lands as MIXED. The film features a female protagonist at its center, a diverse ensemble, and some winking commentary about the spy genre's toxic masculinity that tilts progressive. But the core relationship is a heterosexual romance built on genuine chemistry, the villain is a corrupted institutional power structure, and there's no political messaging beyond 'trust the person who's honest with you.' It doesn't preach. It just stumbles.",
+      "oneLiner": "A $200M spy spectacle that drowns in its own cleverness. Sam Rockwell saves it from total collapse.",
+      "verdict": "Mixed bag: progressive casting and female-lead framing balanced by a genuine heterosexual romance, no political messaging, and a plot that's too busy to have an agenda.",
+      "adultInsight": "Conservative adults will find little to genuinely object to here beyond the female-lead framing and a diverse cast that feels like casting by committee. The film has no political agenda beyond its own entertainment. The villain is an institutional betrayal rather than a social commentary. The romance at its core is traditional. Adults who enjoy light spy entertainment will have a tolerable time despite the film's structural collapse in the third act. Lower your expectations significantly from the Kingsman trailers."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-FEM-001",
+        "name": "Female Protagonist in Genre Traditionally Led by Men",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 5.4,
+        "description": "Elly Conway is the center of a spy action film, a genre dominated by male leads. The film explicitly inverts genre expectations by making the 'real' spy the ordinary woman rather than the conventionally masculine Argylle. Vaughn is self-consciously deconstructing the male fantasy of spy fiction.",
+        "verdict": "Moderate woke element. The female lead inversion is intentional and the film is aware of it."
+      },
+      {
+        "id": "WOKE-DEI-002",
+        "name": "Diverse Ensemble Cast / Representation Casting",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "description": "The spy ensemble includes a celebrity pop star (Dua Lipa), a Black spy legend (Samuel L. Jackson), and diverse supporting characters. The casting feels assembled by committee rather than driven by story. None of the diversity serves a narrative function.",
+        "verdict": "Minor woke element. Representation casting with no thematic weight."
+      },
+      {
+        "id": "WOKE-INST-003",
+        "name": "Institutional Betrayal / Intelligence Agency as Villain",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.0,
+        "description": "The CIA-adjacent agency in the film is revealed to be corrupt and manipulative. Authority cannot be trusted. The institutional betrayal is the film's central twist. This is a staple of progressive spy thrillers.",
+        "verdict": "Moderate woke element, though anti-institutional conspiracy is common to spy genre broadly."
+      },
+      {
+        "id": "TRAD-ROM-001",
+        "name": "Heterosexual Romance as Narrative Core",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 7.2,
+        "description": "The central arc of Argylle resolves around Elly and Aidan's genuine romantic connection. Their chemistry drives the second half of the film. The romance is traditional in structure: man protects woman, woman trusts man, they fall in love through shared danger. No subversion of the romantic arc.",
+        "verdict": "Strong traditional element. The heterosexual romance is the film's emotional payoff."
+      },
+      {
+        "id": "TRAD-TRUST-002",
+        "name": "Earning Trust / Loyalty Over Deception",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "The film's moral center is about who Elly can trust when everyone around her is lying. Aidan earns her trust through consistent honesty despite his spy context. The traditional value of keeping your word is the film's moral resolution.",
+        "verdict": "Moderate traditional element. Earned trust and loyalty are the film's ethical compass."
+      },
+      {
+        "id": "TRAD-HERO-003",
+        "name": "Heroic Self-Sacrifice / Protecting the Innocent",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.0,
+        "description": "Multiple characters risk their lives to protect Elly throughout the film. The action is framed around protection of the innocent rather than ideological mission. Characters who die do so for people they love, not for institutions.",
+        "verdict": "Moderate traditional element. Self-sacrifice for love is traditional in its framing."
+      },
+      {
+        "id": "TRAD-FAMILY-004",
+        "name": "Family Origin / Parental Love as Foundation",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "Elly's family background and her parents' role in her story is a subplot that grounds her character. The film treats family bonds as formative and meaningful.",
+        "verdict": "Minor traditional element. Family origin gives Elly's journey grounding."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Argylle Woke? | VirtueVigil Review",
+      "metaDescription": "VirtueVigil reviews Argylle (2024), Matthew Vaughn's $200M spy comedy flop starring Bryce Dallas Howard, Henry Cavill, and Sam Rockwell. Is it woke? Our VVWS scoring gives it MIXED +1 TRAD. The female lead and diversity casting lean progressive but the core heterosexual romance and absence of political messaging keep it balanced.",
+      "keywords": "argylle woke, argylle review, argylle 2024, is argylle woke, bryce dallas howard spy movie, matthew vaughn argylle, henry cavill argylle, sam rockwell argylle, apple tv spy movie, argylle box office flop, virtuevigil"
+    },
+    "detailed_analysis": {
+      "representation": {
+        "score": 3,
+        "analysis": "Diverse ensemble with female lead. The casting diversity is noticeable but serves no narrative function. Representation box-checking without thematic depth."
+      },
+      "messaging": {
+        "score": 2,
+        "analysis": "No political messaging. The film is too busy with its own plot mechanics to pause for lectures. The anti-institutional twist is genre-standard rather than ideological."
+      },
+      "narrative": {
+        "score": 2,
+        "analysis": "The story collapses under its own twist weight. But the structure is not politically motivated. It's a craft failure, not an ideological one."
+      },
+      "character": {
+        "score": 2,
+        "analysis": "Elly is a competent, capable lead. Male characters (Aidan, Argylle) are equally competent. No systematic male diminishment. The villain is institutional, not gendered."
+      }
+    },
+    "parentalGuidance": {
+      "rating": "PG-13",
+      "age": "13+",
+      "content_warnings": [
+        "Stylized action violence and gunfights throughout",
+        "Brief crude humor and innuendo",
+        "Heavy plot deception and trust themes",
+        "A few mild expletives",
+        "Brief romantic content"
+      ]
+    },
+    "comparison_films": [
+      {
+        "title": "Kingsman: The Secret Service",
+        "year": 2015,
+        "verdict": "TRADITIONAL LEAN"
+      },
+      {
+        "title": "The Gray Man",
+        "year": 2022,
+        "verdict": "MIXED"
+      }
+    ]
   }
 ]
