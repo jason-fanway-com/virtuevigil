@@ -48,6 +48,18 @@
     "poster": "/images/posters/nope-2022.jpg"
   },
   {
+    "slug": "dont-worry-darling-2022",
+    "title": "Don't Worry Darling",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Psychological Thriller",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 21.84,
+    "tradScore": 2.7,
+    "poster": "/images/posters/dont-worry-darling-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",
