@@ -96,6 +96,18 @@
     "poster": "/images/posters/atlas-2024.jpg"
   },
   {
+    "slug": "gran-turismo-2023",
+    "title": "Gran Turismo",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Sports Drama / Action",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 3.3,
+    "tradScore": 22.68,
+    "poster": "/images/posters/gran-turismo-2023.jpg"
+  },
+  {
     "slug": "american-sniper-2014",
     "title": "American Sniper",
     "verdict": "STRONGLY TRADITIONAL",

@@ -67976,5 +67976,198 @@
         "verdict": "WOKE LEAN"
       }
     ]
+  },
+  {
+    "id": "gran-turismo-2023",
+    "slug": "gran-turismo-2023",
+    "title": "Gran Turismo",
+    "year": 2023,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Sports Drama / Action",
+    "date": "2026-03-16",
+    "author": "Debra Ducane",
+    "readTime": "10 min",
+    "poster": "/images/posters/gran-turismo-2023.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 3.3,
+    "tradScore": 22.68,
+    "authIndex": 88,
+    "scoreMargin": "+19 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Not a woke trap. Gran Turismo is exactly what it looks like: a based-on-a-true-story underdog sports drama about a young man who turns video game obsession into real racing skill. The marketing was transparent and honest. No hidden agenda, no bait-and-switch. Traditional audiences got exactly what was promised."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 68,
+      "rottenTomatoesAudience": 95,
+      "imdb": 7.3,
+      "metacritic": 55,
+      "boxOfficeWorldwide": 118000000,
+      "productionBudget": 60000000
+    },
+    "creative_team": {
+      "director": {
+        "name": "Neill Blomkamp",
+        "ideology": "CONSERVATIVE-LEANING ACTION CRAFTSMAN - Blomkamp made District 9 (apartheid allegory with progressive elements) and Elysium (class warfare), but Gran Turismo is his most apolitical film by far. He clearly responded to the material on a pure storytelling level.",
+        "profile": "Neill Blomkamp broke through with District 9, which earned genuine praise as both science fiction and social commentary. He followed with the more heavy-handed Elysium and the divisive Chappie. Gran Turismo represents a significant pivot: a filmmaker famous for sci-fi spectacle delivering a grounded, emotionally honest sports drama. The result is his best-reviewed film since District 9 and proves he is more versatile than his genre niche suggested."
+      },
+      "writer": {
+        "name": "Zach Baylin, Alex Tse",
+        "profile": "Zach Baylin previously wrote King Richard, the Will Smith biopic about Serena and Venus Williams. His track record with underdog sports stories shows in Gran Turismo's tight emotional structure. The screenplay draws from Jann Mardenborough's real life: a British gamer who won a GT Academy competition and became a professional racing driver."
+      },
+      "lead_producer": {
+        "name": "Dana Brunetti, Doug Belgrad",
+        "company": "Sony Pictures / PlayStation Productions"
+      },
+      "top_cast": [
+        {
+          "actor": "Archie Madekwe",
+          "role": "Jann Mardenborough"
+        },
+        {
+          "actor": "David Harbour",
+          "role": "Jack Salter"
+        },
+        {
+          "actor": "Orlando Bloom",
+          "role": "Danny Moore"
+        },
+        {
+          "actor": "Djimon Hounsou",
+          "role": "Steve Mardenborough"
+        },
+        {
+          "actor": "Darren Barnet",
+          "role": "Matty Davis"
+        },
+        {
+          "actor": "Geri Halliwell Horner",
+          "role": "Lesley Mardenborough"
+        }
+      ]
+    },
+    "summary": {
+      "overall": "Gran Turismo is the kind of film Hollywood used to make with confidence: a true story about a young man who works harder than anyone else, earns the respect of skeptics, and achieves something that had never been done before. It is not complicated. It does not apologize for being simple. And it is excellent.\n\nJann Mardenborough (Archie Madekwe) is a British teenager with a gift for racing simulators. He plays Gran Turismo obsessively and is genuinely, demonstrably better than almost anyone else who has ever touched a controller. Nissan's GT Academy competition gives the top virtual racers a chance to prove themselves in real cars. Jann enters, wins, and is handed over to veteran coach Jack Salter (David Harbour), a former driver who lost his nerve in an accident.\n\nThe dynamic between Jann and Jack is the film's heart. Jack does not believe a gamer can become a real racer. He is there to prove a point, not develop a driver. What unfolds is the oldest story in sports cinema: the skeptic becomes the believer, the student surpasses his own expectations, and both men are changed by what they achieve together. This sounds like formula, and it is formula, but Blomkamp executes it with such clarity and control that the formula becomes invisible.\n\nDavid Harbour delivers his best performance in years. Jack Salter is written as a man who ran away from something and found himself in charge of someone who never runs from anything. The contrast between Harbour's coiled regret and Madekwe's focused optimism is what gives the film its emotional engine.\n\nThe racing sequences are extraordinary. Blomkamp found a way to translate the sensation of simulation-to-reality, switching between the pixelated perfection of the game and the thunderous physical reality of the track. It is the most visually inventive idea in the film and it works consistently.\n\nFor VirtueVigil's audience, Gran Turismo is one of the cleanest traditional scores we have given a major studio release. There is minor corporate cynicism when Danny Moore (Orlando Bloom) is introduced as the slick marketing executive who sees Jann as a brand exercise rather than a person. But the film does not use this to make an argument about corporate exploitation. Moore evolves. The film is too generous to its characters for any of them to remain one-dimensional villains. What dominates Gran Turismo is a set of traditional values so clearly expressed it almost feels like a throwback: work ethic, mentorship, family, sacrifice, masculine excellence, and the deep satisfaction of earning something rather than being given it.",
+      "oneLiner": "Hollywood's best traditional sports drama in years. A gamer becomes a real racer through obsession, discipline, and one gruff mentor who slowly believes. Excellent.",
+      "verdict": "Strongly Traditional in its values: mentorship, discipline, father-son bonds, earning excellence, and masculine determination drive every scene. Minor corporate cynicism is the film's only woke-adjacent note.",
+      "adultInsight": "This is a film conservative families can watch together without reservation. Gran Turismo celebrates the values that actually produce extraordinary people: focused obsession harnessed into discipline, the willingness to hear hard feedback from someone who knows more than you, the quiet pride of a father watching his son become someone. Jann's father Steve (Djimon Hounsou) has one of the film's best scenes: a man who never understood his son's video game passion forced to watch it become real excellence. That scene alone is worth the runtime. One of the most genuinely traditional major studio films of 2023."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-CORP-001",
+        "name": "Corporate Cynicism / Marketing Executive as Shallow Villain",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "description": "Danny Moore is introduced as a Nissan marketing executive who sees the GT Academy as a branding exercise. He is initially skeptical of Jann for shallow commercial reasons. The film frames corporate thinking as an obstacle to genuine talent. However, Moore evolves considerably by the end and is never truly villainized.",
+        "verdict": "Minor woke element. Corporate cynicism is present but undercut by Moore's character development."
+      },
+      {
+        "id": "WOKE-RACE-002",
+        "name": "Brief Racial Microaggression Scene",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.5,
+        "description": "There is a brief scene where a rival racing establishment figure dismisses Jann with an attitude that carries racial undertones. This is handled quickly and does not become a political statement. It is framed as one person's smallness, not systemic racism.",
+        "verdict": "Very minor woke element. Fleeting and not ideologically developed."
+      },
+      {
+        "id": "TRAD-WORK-001",
+        "name": "Work Ethic / Discipline as Path to Excellence",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "Jann's entire journey is built on the premise that relentless focused practice is what produces elite performance. The film never suggests talent alone is sufficient. Jack's training is brutal and demanding. The GT Academy requires applicants to physically prove they can handle real conditions. Excellence is earned, not given.",
+        "verdict": "Core traditional element. The film is an extended argument for the value of earned expertise."
+      },
+      {
+        "id": "TRAD-MENTOR-002",
+        "name": "Mentorship / Experienced Man Developing Young Man",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "Jack Salter and Jann Mardenborough's relationship is the film's emotional and narrative spine. A disillusioned man rediscovers his purpose by passing his knowledge to a young man who has everything but experience. The mentor-student bond is treated as deeply meaningful. Jack's hard lessons are the gift he gives Jann.",
+        "verdict": "Core traditional element. The mentorship model is the film's most valuable teaching."
+      },
+      {
+        "id": "TRAD-FATHER-003",
+        "name": "Father-Son Bond / Parental Pride",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Steve Mardenborough (Djimon Hounsou) is a skeptical but loving father who spent years worrying his son was wasting his life on video games. Watching his son achieve real excellence is the film's emotional culmination. The scene where Steve watches Jann race for the first time is one of the finest father-son moments in 2023 cinema.",
+        "verdict": "Strong traditional element. Father watching son become a man is one of cinema's most powerful archetypes, and the film earns it."
+      },
+      {
+        "id": "TRAD-MASC-004",
+        "name": "Masculine Excellence / Competition as Virtuous",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Gran Turismo celebrates competition as a virtuous activity that reveals character. Racing is framed as a test of nerve, skill, and controlled aggression. The film never apologizes for the masculine intensity of motorsport. Speed, risk, and the will to win are treated as admirable rather than toxic.",
+        "verdict": "Strong traditional element. The film celebrates competitive masculine excellence without apology."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Gran Turismo Woke? | VirtueVigil Review",
+      "metaDescription": "VirtueVigil reviews Gran Turismo (2023), the based-on-a-true-story racing drama starring Archie Madekwe and David Harbour. Is it woke? Our VVWS scoring gives it TRADITIONAL +19 TRAD. One of the cleanest traditional scores for a major studio film in 2023. Mentorship, discipline, father-son bonds, earned excellence.",
+      "keywords": "gran turismo woke, gran turismo 2023 review, is gran turismo woke, gran turismo movie review, jann mardenborough movie, gran turismo traditional, david harbour gran turismo, archie madekwe racing, gt academy movie, virtuevigil gran turismo"
+    },
+    "detailed_analysis": {
+      "representation": {
+        "score": 2,
+        "analysis": "Jann Mardenborough is Black, which is accurate to the real person. His race is never made a theme or a political statement. He is simply the protagonist, defined by his talent and determination. This is representation done right: casting the right person for the right story without turning it into a message."
+      },
+      "messaging": {
+        "score": 1,
+        "analysis": "No political messaging whatsoever. The film's message is: find what you love, work harder than anyone else, listen to people who know more than you, earn the respect you want. This is as traditional a message as filmmaking offers."
+      },
+      "narrative": {
+        "score": 1,
+        "analysis": "Classic three-act sports underdog structure executed with precision. There are no subversive elements. The formula is honored, not deconstructed. For audiences who find formula comforting when well-executed, this is a feature."
+      },
+      "character": {
+        "score": 1,
+        "analysis": "Every major character earns their arc. Jann earns his success. Jack earns his redemption. Steve earns his pride. Danny earns his conversion from skeptic to believer. Even minor characters are given enough screen time to feel like people. No cardboard villains, no ideological puppets."
+      }
+    },
+    "parentalGuidance": {
+      "rating": "PG-13",
+      "age": "10+",
+      "content_warnings": [
+        "Intense racing sequences including a serious accident",
+        "One character death shown with emotional weight",
+        "Mild language",
+        "Brief scenes of physical training intensity",
+        "Themes of failure, loss, and grief"
+      ]
+    },
+    "comparison_films": [
+      {
+        "title": "Ford v Ferrari",
+        "year": 2019,
+        "verdict": "TRADITIONAL"
+      },
+      {
+        "title": "Rush",
+        "year": 2013,
+        "verdict": "TRADITIONAL LEAN"
+      }
+    ]
   }
 ]
