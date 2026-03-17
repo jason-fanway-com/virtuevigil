@@ -120,6 +120,18 @@
     "poster": "/images/posters/violent-night-2022.jpg"
   },
   {
+    "slug": "father-stu-2022",
+    "title": "Father Stu",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Biography/Drama",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 21.84,
+    "poster": "/images/posters/father-stu-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",

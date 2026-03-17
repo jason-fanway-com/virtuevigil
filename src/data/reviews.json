@@ -70540,5 +70540,223 @@
       "VVWS score",
       "violent night sequel"
     ]
+  },
+  {
+    "id": "father-stu-2022",
+    "slug": "father-stu-2022",
+    "title": "Father Stu",
+    "year": 2022,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Biography/Drama",
+    "date": "2026-03-17",
+    "author": "Debra Ducane",
+    "readTime": "13 min",
+    "poster": "/images/posters/father-stu-2022.jpg",
+    "verdict": "STRONGLY TRADITIONAL",
+    "wokeScore": 2.0,
+    "tradScore": 21.84,
+    "authIndex": 95,
+    "scoreMargin": "+20 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. Father Stu is exactly what it presents itself as: a biopic about a foul-mouthed Montana boxer who becomes a Catholic priest and then suffers from a devastating progressive muscle disease, which he embraces as a participation in Christ's suffering. Mark Wahlberg financed this film himself because no studio would touch it. The content is unapologetically Catholic, morally demanding, and spiritually serious. There is no ideological bait-and-switch. If anything, conservative audiences who expect a sanitized faith film will be surprised by the film's willingness to depict Stu's sinfulness with total honesty."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 43,
+      "rottenTomatoesAudience": 97,
+      "imdb": 6.5,
+      "metacritic": 47,
+      "budget": "$4 million",
+      "boxOffice": "$21.8 million worldwide",
+      "reopeningRelease": "Father Stu: Reborn (December 9, 2022) - re-cut for wider audiences"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Rosalind Ross",
+        "ideology": "TRADITIONAL/CATHOLIC. Ross is the partner of Mel Gibson, both of whom are devout Catholics. Her directorial debut is a film about a Catholic priest. This is a filmmaker who made this film from personal conviction, not commercial calculation. Ross's Catholicism shapes every aspect of the film's treatment of faith, suffering, and redemption. She does not soften the Church's demands or its theology. She presents Stu's conversion and calling as genuinely transformative events that the audience is asked to take seriously, not merely to observe sympathetically from a secular distance.",
+        "profile": "Rosalind Ross is an Australian screenwriter and filmmaker based in the United States. Father Stu is her feature directorial debut. She wrote the screenplay after researching Stuart Long's life extensively, and the film reflects that research in the specificity of its biographical details. Her Catholic faith gives her access to the film's internal logic in ways that a secular filmmaker would have struggled to replicate. The scene where Stu has a vision of the Virgin Mary following his motorcycle accident, and the subsequent discernment sequences, are handled with liturgical accuracy and theological seriousness. Father Stu benefits enormously from a director who believes what her protagonist believes."
+      },
+      "writer": {
+        "name": "Rosalind Ross",
+        "profile": "Ross wrote the original screenplay based on the life of Stuart Long (1963-2014), a Helena, Montana boxer who converted to Catholicism, entered the priesthood, and was diagnosed with Inclusion Body Myositis, a progressive muscle disease he offered up as a participation in Christ's Passion. Ross's script does not editorialize. It shows Stu's sinfulness early (the DUI, the fighting, the pursuit of Carmen for base reasons) and his transformation without sentimentality. The scenes depicting Stu's physical deterioration in the seminary and prison ministry are unflinching. Ross trusts the material to speak for itself rather than explaining what the audience should feel about it."
+      },
+      "lead_producer": {
+        "name": "Mark Wahlberg & Stephen Levinson",
+        "company": "Columbia Pictures / Municipal Pictures / CJ Entertainment"
+      },
+      "composer": {
+        "name": "Dickon Hinchliffe",
+        "profile": "Hinchliffe, formerly of post-rock band Tindersticks, brings a restrained and mournful quality to the score that serves Father Stu's emotional register without sentimentalizing it. The music is most present in the later sequences depicting Stu's physical deterioration, where it provides the emotional space for the audience to process what they are watching without being told how to feel. Hinchliffe avoids the triumphant swells that lesser faith-film composers deploy in conversion sequences. The restraint is correct."
+      },
+      "top_cast": [
+        {
+          "name": "Mark Wahlberg",
+          "role": "Stuart Long / Father Stu"
+        },
+        {
+          "name": "Mel Gibson",
+          "role": "Bill Long (Stu's father)"
+        },
+        {
+          "name": "Jacki Weaver",
+          "role": "Kathleen Long (Stu's mother)"
+        },
+        {
+          "name": "Teresa Ruiz",
+          "role": "Carmen"
+        },
+        {
+          "name": "Malcolm McDowell",
+          "role": "Monsignor Kelly"
+        }
+      ],
+      "top_performers": [
+        {
+          "name": "Mark Wahlberg",
+          "note": "Wahlberg gained and then lost significant weight for this role, cycling through Stu's athletic phase and his physically deteriorating final years. That physical commitment is visible and impressive. The performance itself is more complex than the physical transformation: Wahlberg plays Stu's early selfishness and foul-mouthed charm with genuine energy, makes the conversion credible rather than convenient, and navigates the later sequences of severe physical limitation with a dignity that the film requires but does not sentimentalize. The critical consensus that Wahlberg is 'miscast' because he doesn't disappear into the role reflects a preference for chameleon performance over presence-based performance. Wahlberg is a movie star playing a saint; the stardom and the sanctity are both visible. That tension is not a weakness. It is the performance."
+        },
+        {
+          "name": "Mel Gibson",
+          "note": "Gibson plays Stu's alcoholic, estranged father Bill Long, a man who has spent decades running from grief (the death of Stu's brother) and responsibility. His scenes with Wahlberg are the film's best: two actors with complex real-world relationships to faith and failure playing a father and son working toward reconciliation. Gibson brings a ravaged authenticity to Bill that elevates the father-son arc from standard reconciliation drama into something genuinely moving. His final scene with Wahlberg at Stu's bedside is the kind of acting that makes critics uncomfortable because it is too nakedly emotional to easily categorize."
+        },
+        {
+          "name": "Teresa Ruiz",
+          "note": "Ruiz's Carmen is the film's most underwritten major character: a devout Catholic woman whose faith precedes Stu's and whose test of his chastity resolve is handled with restraint. She is the narrative catalyst for Stu's baptism and his entry into faith. Ruiz brings a quiet intelligence to a role that the film's Stu-centric structure does not fully develop. She gives Carmen interior life that the screenplay does not provide. Her reaction to Stu's decision to pursue the priesthood rather than marriage, a quiet devastation that she refuses to let him see, is the best purely acted moment in the film."
+        }
+      ],
+      "bottom_performers": [
+        {
+          "name": "Malcolm McDowell",
+          "note": "McDowell plays Monsignor Kelly as a bureaucratic obstacle to Stu's seminary entry. The role is functionally necessary but dramatically thin: he is there to be won over, and his journey from skepticism to support is sketched rather than developed. McDowell brings his characteristic patrician energy to limited material."
+        }
+      ]
+    },
+    "fidelityCasting": {
+      "sourceType": "Biographical Film",
+      "sourceTitle": "Based on the life of Stuart Long (1963-2014)",
+      "assessment": "Father Stu is based on the life of a real person: Stuart Long, a Helena, Montana boxer who converted to Catholicism in his 30s, was ordained a Catholic priest, and died in 2014 from Inclusion Body Myositis. Wahlberg's casting reflects the producer-star system: he developed the project, wrote the check, and cast himself in the lead. Stuart Long was a white man from Montana. Wahlberg is a white man from Boston. The casting is appropriate. The film was made in close collaboration with people who knew Long personally. No fidelity concerns. The spiritual content, the theological accuracy of the conversion narrative, the liturgical details of seminary life, the Inclusion Body Myositis medical reality, all reflect careful biographical research."
+    },
+    "celebrityMentions": [
+      {
+        "name": "Mark Wahlberg",
+        "context": "Wahlberg is one of the most publicly Catholic A-list actors in Hollywood. He attends Mass daily. He has spoken publicly about his faith, including its role in his recovery from a troubled youth (he committed a hate crime at 16 and has sought to make amends). He financed Father Stu himself when Sony declined to fund it on commercial grounds. The film earned $21.8 million on a $4 million budget: a significant profit, and a vindication of Wahlberg's belief that there is a market for serious Catholic drama. Father Stu is not a calculated demographic play. It is a personal testimony made by a man who believes every word of it."
+      },
+      {
+        "name": "Mel Gibson",
+        "context": "Gibson is the most controversial figure in this film's creative constellation. His antisemitic remarks at a 2006 DUI arrest, his 2010 domestic violence recordings, and his general public behavior over two decades have made him professionally radioactive in Hollywood's mainstream. His Catholicism is of the traditionalist variety: he built a Traditional Latin Mass chapel and has expressed sympathy for sedevacantist positions. None of this is relevant to his performance in Father Stu, which is one of the best things he has done as an actor in years. Audiences are capable of separating a performer's personal record from their work. Gibson's Bill Long earns genuine compassion."
+      },
+      {
+        "name": "Stuart Long",
+        "context": "Father Stuart Long was ordained a Catholic priest in 2007 and diagnosed with Inclusion Body Myositis, a progressive degenerative muscle disease, shortly after. He died in 2014 at age 50. During his illness, he served as a prison chaplain and became a figure of spiritual inspiration, offering his physical suffering as a participation in Christ's Passion in the Catholic theological tradition of 'redemptive suffering.' His story is not one of miraculous healing but of how faith makes unbearable suffering livable and meaningful. This distinction is what makes Father Stu unusual among faith films: it does not promise that belief will prevent suffering. It argues that belief transforms suffering into something that can save others."
+      }
+    ],
+    "parentalGuidance": {
+      "mpaaRating": "R",
+      "mpaaDescriptors": "Language throughout, some violence, and some sexual references",
+      "recommendedAge": "16+",
+      "contentWarnings": [
+        "Strong language throughout, particularly in the film's early sections depicting Stu's pre-conversion life",
+        "Boxing violence including blood",
+        "Motorcycle accident depicted with some graphic impact",
+        "Sexual references and a brief intimate scene (non-explicit, used to explore Stu's chastity decision)",
+        "Prolonged and unflinching depictions of physical deterioration due to Inclusion Body Myositis in the film's final act; this may be difficult viewing for those who have cared for seriously ill loved ones",
+        "Prison scenes depicting incarcerated men with physical disabilities",
+        "Father-son estrangement involving alcoholism and grief",
+        "No drug use depicted",
+        "The spiritual content is explicitly Catholic and theologically specific; families seeking interdenominational Christian content should know the film's Catholicism is not sanitized"
+      ],
+      "guidance": "Rated R and the rating reflects the film's honest depiction of both sin and suffering. This is not a sanitized faith film for general family audiences. Father Stu is a serious drama for adults that requires the willingness to sit with difficult material. Conservative Catholic and broadly Christian families will find this among the most spiritually serious films made by Hollywood in the 21st century. The R-rating is earned by language and the candid depiction of Stu's pre-conversion sinfulness, not by content that undermines the film's values. Recommended for ages 16 and up. Discussion of redemptive suffering, Catholic theology, and the specific details of Stu's disease would enrich viewing for older teenagers."
+    },
+    "summary": {
+      "overall": "Mark Wahlberg paid for this film himself. Sony looked at the premise, a Catholic boxing biopic about a man who embraces progressive muscle disease as participation in Christ's suffering, and declined to fund it. Wahlberg believed in it enough to write the check. Father Stu earned $21.8 million on a $4 million budget, scored a 97% audience rating on Rotten Tomatoes against a 43% critic score, and became one of the most discussed faith films of the decade.\n\nThe 54-point gap between critics and audience is not a mystery. Critics evaluated Father Stu on the terms of prestige drama and found it wanting: Wahlberg doesn't disappear into the role, the screenplay is occasionally heavy-handed, the pacing is uneven. These observations are correct. They are also largely irrelevant to what the film is actually doing.\n\nFather Stu is a testimony. It is a film made by people who believe the story they are telling, about a person whose story they believe deserves to be told. Stuart Long converted to Catholicism in his 30s, was ordained a priest in his 40s, was diagnosed with Inclusion Body Myositis shortly after, and spent his final years in a wheelchair ministering to prisoners and offering his deteriorating body as a prayer. He died in 2014. His story is not a metaphor for anything. It is the thing itself.\n\nThe film's first act, covering Stu's boxing career, his move to California, his pursuit of Carmen, and his baptism, is entertaining and fast. Wahlberg plays the foul-mouthed charmer with genuine energy. The DUI, the amateur fights, the grocery store flirtation with Carmen: these scenes establish Stu's magnetism and his self-destruction as inseparable qualities. He is not a good person trying to be better. He is a person with no direction who suddenly discovers one.\n\nThe motorcycle accident and subsequent vision of the Virgin Mary is the film's pivot. Rosalind Ross handles it with directorial confidence: she does not make the vision unambiguous (the film allows that Stu's near-death state could explain it) but she films it in a way that takes it seriously. The point is not whether the vision was real in a verifiable sense. The point is that Stu experienced it as real, and that it was the beginning of his transformation, and that the transformation is documented by the people who knew him.\n\nThe seminary section is the film's most interesting. Stu's Catholicism is the convert's variety: all-in, theologically voracious, socially inappropriate. He swears in class. He challenges the monsignor. He refuses to perform the piety that the institution expects. He is also, as the film carefully shows, forming in genuine holiness. The scenes of Stu in prayer, without any music or performance cues, are among the most honest depictions of a man trying to locate God in modern cinema.\n\nThe final act, depicting Stu's physical deterioration, is where the film earns its emotional standing. Inclusion Body Myositis is a degenerative disease with no cure. Stu went from an athletic former boxer to a man who required total physical care. The film does not soften this. It shows the helplessness, the pain, the indignity. What it also shows is Stu's interpretation of that suffering: not as punishment or random cruelty but as a specific participation in Christ's Passion, offered for the conversion of souls. This is a Catholic theological claim. The film makes it without apology.\n\nThe prison ministry sequences are perhaps the most cinematically powerful. Stu in a wheelchair, clearly dying, sitting with prisoners who have committed terrible acts, treating them as capable of transformation because he knows from personal experience that transformation is possible. The film argues implicitly that the suffering made him more capable of this ministry, not less. His physical limitation is what gave him access to men who would not trust a healthy, eloquent priest.\n\nThe critical complaint that Wahlberg is 'hard-working but miscast' reflects the prestige-drama preference for method transformation over presence-based performance. Wahlberg never disappears into Stu because Wahlberg is a movie star and movie stars carry themselves with them into roles. But the film does not need him to disappear. It needs him to be a believable Boston-adjacent working-class charmer who becomes something he was not, and then to be believable as that something. He is. The physical transformation, the 40-plus pounds added for the later sequences, is not vanity: it serves the film's thematic argument that the body is where spiritual truth is written.\n\nGibson's scenes deserve particular note. Bill Long is a man who has spent decades in grief, drinking his way through the absence of his dead son. His reconciliation with Stu is not clean or sentimental. It is two damaged people finding a way to forgive each other before it is too late. Gibson brings a specific weight to this arc that the role required: a man who has himself been publicly damaged and who carries that damage visibly into the performance.\n\nFather Stu is not a perfect film. It is a necessary one. In a cultural moment when studios have largely abandoned serious religious drama, Wahlberg self-funded a film about Catholic theology, redemptive suffering, and what it actually costs to become a priest. The 97% audience score tells you that there is an enormous market for this content. The $4 million production budget tells you that studios do not believe it. Both things are true simultaneously.\n\nFor conservative Catholic audiences especially: this is the film made for you, about someone from your tradition, by people who believe what you believe. Watch it with family old enough to handle the R-rating. Have the conversation about what redemptive suffering means afterward. Father Stu earns that conversation.",
+      "oneLiner": "Wahlberg self-funded the Catholic biopic Hollywood refused to make. A foul-mouthed Montana boxer becomes a priest, gets devastated by a fatal disease, and offers it all up. Among the most spiritually serious films of the decade.",
+      "verdict_explanation": "STRONGLY TRADITIONAL (+20 margin). Father Stu is the highest-scoring STRONGLY TRADITIONAL film this review process has assessed. Its traditional score is nearly entirely composed of the most weighty traditional tropes at maximum scores: religious conversion as the highest personal calling, redemptive suffering in the Catholic theological tradition, father-son reconciliation through shared faith, and honored chastity as moral strength. The film's woke score is minimal: a single mild element of institutional critique regarding the seminary process, which is entirely accurate to the biographical record. Father Stu is the kind of film VirtueVigil was built to identify: systematically underrated by mainstream critics, beloved by its target audience, and carrying traditional values that cinema rarely has the courage to present without embarrassment.",
+      "adultInsight": "Conservative adults, particularly Catholics, should approach Father Stu as one of the most honest depictions of what Catholic conversion and priestly calling actually look like in modern cinema. The film does not sanitize either the sinfulness that precedes conversion or the physical suffering that follows ordination. It presents both with the same unblinking honesty. The theological claim at the film's center, that suffering offered in union with Christ's Passion can spiritually benefit others, is not argued abstractly. It is demonstrated through Stuart Long's actual life. If you believe this claim, the film will move you. If you are skeptical of it, the film will show you why the people who believe it find it credible."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-001",
+        "name": "Institutional Church Depicted as Bureaucratic Obstacle",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "The seminary initially rejects Stu's application. Monsignor Kelly is skeptical of his conversion and fitness for ordination. The Church is depicted as having bureaucratic processes that can obstruct genuine vocations. This is accurate to the biographical record: Stuart Long was initially rejected by the seminary. The film is not anti-Church; it is critical of an institutional caution that is itself a real feature of the Church's discernment processes. Stu ultimately prevails, which the film presents as the correct outcome. Severity is low because the critique is institutional rather than doctrinal and accurate to the actual biography."
+      },
+      {
+        "id": "TRAD-001",
+        "name": "Religious Conversion as the Highest Personal Transformation",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "The film's entire thesis is that Stuart Long's conversion to Catholicism was the most significant event of his life, more significant than his boxing career, his acting ambitions, or his relationship with Carmen. The conversion is presented as real, transformative, and demanding. It costs Stu everything he had previously wanted. The film does not frame this as a limitation but as an elevation. Stu's life before conversion is shown as capable and charming but fundamentally directionless. After conversion, he is a man with a vocation. The film argues that this is better. Authenticity is high because the film is based on biographical fact."
+      },
+      {
+        "id": "TRAD-002",
+        "name": "Redemptive Suffering in the Catholic Tradition",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "The film's most theologically specific and most demanding element. Stu develops Inclusion Body Myositis, a progressive degenerative disease with no cure, after his ordination. Rather than experiencing this as a punishment or meaningless catastrophe, he interprets it within the Catholic tradition of redemptive suffering: the union of personal suffering with Christ's Passion for the spiritual benefit of others. This is not made comfortable or triumphal. The physical deterioration is shown honestly. What the film argues is that Stu's interpretation of that suffering as spiritually purposeful is what enabled him to continue his priestly ministry from a wheelchair. Authenticity is high because this is documented biographical fact."
+      },
+      {
+        "id": "TRAD-003",
+        "name": "Father-Son Reconciliation Through Faith",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Stu's relationship with his alcoholic, grief-stricken father Bill is the film's secondary emotional arc. Bill has been running from the memory of Stu's dead brother for years. Stu's faith, and eventually his priestly vocation and his dying, create the space for Bill to face what he has been avoiding. Their reconciliation is not sentimentalized. It is two broken men finding a way to forgive each other. The film frames this as the fruit of Stu's conversion: faith enables the reconciliation that secular psychology could not achieve."
+      },
+      {
+        "id": "TRAD-004",
+        "name": "Chastity and Sexual Self-Control as Spiritual Strength",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Carmen tests Stu's conversion sincerity by staging an intimate moment and then revealing that it was a test of his capacity for chastity. Stu's ability to choose restraint is presented as evidence of genuine spiritual transformation, not as repression or loss. The film honors chastity as a spiritual discipline rather than treating it as a character limitation or a denial of humanity. This is unusual in contemporary cinema, where sexual restraint is almost exclusively treated as pathology or coercion. Father Stu presents it as freely chosen and spiritually meaningful."
+      },
+      {
+        "id": "TRAD-005",
+        "name": "Catholic Priesthood as Vocation, Not Career",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "The film treats Stu's calling to the priesthood as a genuine vocation, a divine summons that overrides his personal preferences, not as a career choice or a form of social service. The distinction matters: Stu does not become a priest because he wants to help people in a humanitarian sense. He becomes a priest because he experiences it as a command that he cannot refuse. The film presents this as the correct frame for understanding priestly ministry and does not offer a secular alternative interpretation."
+      }
+    ],
+    "seoTitle": "Is Father Stu Woke? | VirtueVigil Review",
+    "seoDescription": "VirtueVigil reviews Father Stu (2022). STRONGLY TRADITIONAL verdict (+20 TRAD). Mark Wahlberg self-funded the Catholic biopic Hollywood refused to make. A boxing convert becomes a priest and offers his suffering for others. Full VVWS scoring, parental guidance.",
+    "seoKeywords": [
+      "father stu woke",
+      "is father stu woke",
+      "father stu conservative review",
+      "father stu review 2022",
+      "VirtueVigil",
+      "father stu parents guide",
+      "mark wahlberg catholic film",
+      "father stu catholic",
+      "mel gibson father stu",
+      "father stu box office",
+      "conservative faith film 2022",
+      "woke movie review 2022",
+      "father stu stuart long",
+      "redemptive suffering film",
+      "VVWS score",
+      "strongly traditional film"
+    ]
   }
 ]
