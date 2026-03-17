@@ -24,6 +24,30 @@
     "poster": "/images/posters/black-adam-2022.jpg"
   },
   {
+    "slug": "glass-onion-2022",
+    "title": "Glass Onion: A Knives Out Mystery",
+    "verdict": "WOKE LEAN",
+    "platform": "Streaming",
+    "genre": "Mystery/Comedy",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 42,
+    "tradScore": 18,
+    "poster": "/images/posters/glass-onion-2022.jpg"
+  },
+  {
+    "slug": "nope-2022",
+    "title": "Nope",
+    "verdict": "MIXED BAG",
+    "platform": "Theatrical",
+    "genre": "Horror/Sci-Fi",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 20,
+    "tradScore": 30,
+    "poster": "/images/posters/nope-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",
