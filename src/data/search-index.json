@@ -12,6 +12,18 @@
     "poster": "/images/posters/thunderbolts.jpg"
   },
   {
+    "slug": "black-adam-2022",
+    "title": "Black Adam",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Warner Bros. / DC Films)",
+    "genre": "Superhero / Action",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 7.68,
+    "tradScore": 13.02,
+    "poster": "/images/posters/black-adam-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",
