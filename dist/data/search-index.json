@@ -108,6 +108,18 @@
     "poster": "/images/posters/till-2022.jpg"
   },
   {
+    "slug": "violent-night-2022",
+    "title": "Violent Night",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Comedy/Thriller",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 2.5,
+    "tradScore": 20.58,
+    "poster": "/images/posters/violent-night-2022.jpg"
+  },
+  {
     "slug": "demon-slayer-infinity-castle-2025",
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
     "verdict": "TRADITIONAL",
