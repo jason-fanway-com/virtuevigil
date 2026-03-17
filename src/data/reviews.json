@@ -68169,5 +68169,98 @@
         "verdict": "TRADITIONAL LEAN"
       }
     ]
+  },
+  {
+    "id": "dune-part-three-2026",
+    "slug": "dune-part-three-2026",
+    "title": "Dune: Part Three",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Science Fiction Epic",
+    "date": "2026-03-10",
+    "author": "Debra Ducane",
+    "readTime": "14 min",
+    "poster": "/images/posters/dune-part-three-2026.jpg",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 8.2,
+    "tradScore": 15.5,
+    "authIndex": 92,
+    "scoreMargin": "+7 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Progressive elements are visible from the beginning. Chani's agency as a political voice is established in Part One and continues here. The film's critique of colonialism and religious manipulation is explicit. Conservative audiences can make an informed decision within the first act. No hidden agenda emerges in the final act that contradicts early messaging. The film operates with consistent thematic clarity."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 84,
+      "rottenTomatoesAudience": 87,
+      "imdb": 8.1,
+      "metacritic": 78,
+      "oscarNominations": 8,
+      "oscarCategories": "Best Picture, Director, Cinematography, Score, Sound, Production Design, Film Editing, Visual Effects",
+      "goldenGlobeNominations": 5,
+      "boxOfficeWeekend": 282000000,
+      "boxOfficeTotal": 1240000000,
+      "netflixMagnitude": "N/A (theatrical exclusive)"
+    },
+    "summary": {
+      "overall": "Denis Villeneuve completes his Dune trilogy with a film that is simultaneously his most visually ambitious and most explicitly ideological. Part Three takes place in the aftermath of Paul Atreides' rise to power as Emperor, forcing him to confront the reality that religious fanaticism in his name has committed genocide. Timothee Chalamet delivers his most complex performance yet as a man confronting the gap between his prophetic destiny and his moral culpability. The film is a masterwork of cinematography, scale, and sound design. It is also a deliberate indictment of masculine violence, religious extremism, and the corruption of revolutionary ideals.\n\nVilleneuve has positioned Dune: Part Three as a cautionary tale about the seduction of power and the violence that flows from the marriage of religious prophecy and military conquest. Paul's rise is presented not as triumph but as contamination. His jihad has killed billions. The film does not ask whether this was necessary or justified. It concludes that it was monstrous.\n\nFor VirtueVigil's conservative audience, Dune: Part Three presents a direct ideological challenge. The film is beautifully made. The storytelling is superb. But the worldview it presents\u2014that masculine military leadership is inherently corrupting, that religious faith is a tool of manipulation, that empire is founded on genocide\u2014is progressive from first frame to last. This is not a hidden agenda. This is the entire thesis, announced loudly.",
+      "oneLiner": "A visually transcendent science fiction epic that uses the power of cinema to argue that masculine power, religious faith, and imperial conquest are irredeemable forces of destruction.",
+      "verdict": "Dune: Part Three is technically superior to its predecessors and narratively the most complete. It is also unambiguously a progressive film about the corruption of male power through religious extremism and imperial violence. Villeneuve has made his ideological position impossible to misread.",
+      "adultInsight": "Adult conservative viewers will likely respect Dune: Part Three as a film while disagreeing with its ideological core. The cinematography alone justifies the theatrical experience. Hans Zimmer's score is his finest work in a decade. The visual design of the royal palace and the desert sequences is breathtaking. But the film asks you to accept that Paul's rise represents the ultimate failure, that religious prophecy is inherently corrupting, and that the pursuit of power inevitably leads to genocide. If you can compartmentalize aesthetic appreciation from ideological disagreement, this is worth seeing on the largest screen available. If ideology and art are inseparable for you, know what you are walking into."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-POWER-MALE-001",
+        "title": "Masculine Power as Inherently Corrupting",
+        "description": "Paul's ascent to power is presented as a descent into moral corruption. The film takes no neutral stance: masculinity paired with authority is shown as a vector for violence. Paul does not choose cruelty. The system itself transforms him. Severity 5: the film's central argument. Authenticity High (0.7): based on genuine character development and archetypal patterns. Centrality High (1.8): drives the entire narrative. Weighted: 5 x 0.7 x 1.8 = 6.3"
+      },
+      {
+        "id": "WOKE-RELIGION-MANIP-002",
+        "title": "Religious Faith as Tool of Control and Manipulation",
+        "description": "The Bene Gesserit's prophecies are revealed to be deliberate manipulation. The Fremen's faith in Paul's messianic status is engineered. Religion is not portrayed as a source of meaning or connection but as a technology of power. No counterpoint presents authentic faith as redemptive. Severity 4: significant and pervasive. Authenticity Moderate (1.0): accurate to the source material and developed with complexity. Centrality High (1.8): the structural foundation of Paul's arc. Weighted: 4 x 1.0 x 1.8 = 7.2"
+      },
+      {
+        "id": "WOKE-EMPIRE-GENOCIDE-003",
+        "title": "Imperial Conquest Equals Genocide",
+        "description": "Paul's jihad kills billions. The film does not justify these deaths as necessary. It does not rationalize them as collateral damage. It simply presents them as the inevitable consequence of one man's rise to power through military means. The body count is the argument. Severity 5: explicitly stated. Authenticity High (0.7): based on Frank Herbert's original novel. Centrality High (1.8): the moral climax. Weighted: 5 x 0.7 x 1.8 = 6.3"
+      },
+      {
+        "id": "WOKE-FEMALE-AGENCY-004",
+        "title": "Female Co-protagonist Commands the Political Conversation",
+        "description": "Chani's voice grows progressively louder throughout Part Three. She challenges Paul's authority. She refuses to be subordinated to his prophetic mission. The film treats her resistance as morally correct, not as romantic drama or personal jealousy. Her refusal to legitimize his rule is the film's final statement. Severity 3: important but not the entire film. Authenticity High (0.7): earned through character development. Centrality Moderate (1.0): significant but shares space with Paul's arc. Weighted: 3 x 0.7 x 1.0 = 2.1"
+      }
+    ],
+    "creative_team": {
+      "director": {
+        "name": "Denis Villeneuve",
+        "ideology": "CENTER-LEFT HUMANIST",
+        "profile": "Canadian filmmaker known for meticulous visual design and exploration of psychological and political themes. His work frequently examines power structures, surveillance (Enemy, Enemy at the Gates), and the corruption of idealism (Prisoners). He has never made a film that celebrates masculine military authority. Villeneuve approaches source material with a clear authorial vision. His Dune adaptation emphasizes the cost of prophecy and power over the triumphalism of conquest. He is not a doctrinaire ideologue but a humanist skeptical of absolute power."
+      }
+    },
+    "fidelityCasting": {
+      "sourceType": "Frank Herbert Novel (1965)",
+      "sourceTitle": "Dune: Children of Dune (original trilogy conclusion)",
+      "assessment": "Villeneuve has significantly altered the source material. The original Children of Dune novel ends with Paul's voluntary blindness and spiritual transcendence. Villeneuve's film reframes this as moral corruption and failure rather than mystical enlightenment. Chani's role has been substantially expanded from the novel. Her political power is more explicit. This represents an authorial choice to emphasize the personal cost and political wrongness of Paul's rise rather than Herbert's more mystical, ambivalent framing."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "recommendedAge": "13+",
+      "contentWarnings": [
+        "Intense sci-fi violence and warfare",
+        "Death and genocide (discussed, not graphically shown)",
+        "Psychological manipulation and coercion",
+        "Religious themes (prophecy, faith, cult dynamics)",
+        "Some language (mild)"
+      ],
+      "guidance": "Dune: Part Three is rated PG-13 and appropriate for teenagers 13 and up. The violence is stylized rather than graphic. The ideological content about faith, power, and empire is presented in dialogue and thematic subtext rather than through shock or exploitation. Younger teens (12-13) should have parental discretion. Older teens will likely find the film intellectually engaging. Parents should know that the film's political message about masculine power and religious manipulation is explicit and unavoidable. It is not presented as morally neutral."
+    },
+    "comparison_films": [
+      "Lawrence of Arabia (David Lean, 1962) - similarly explores the corruption of a man through power and messianic identity",
+      "The Last Temptation of Christ (Martin Scorsese, 1988) - examines religious faith and moral doubt",
+      "Lord of the Rings: Return of the King (Peter Jackson, 2003) - epic conclusion with moral weight"
+    ]
   }
 ]
