@@ -67788,5 +67788,193 @@
         "verdict": "MIXED"
       }
     ]
+  },
+  {
+    "id": "atlas-2024",
+    "slug": "atlas-2024",
+    "title": "Atlas",
+    "year": 2024,
+    "type": "film",
+    "platform": "Netflix",
+    "genre": "Science Fiction Action",
+    "date": "2026-03-16",
+    "author": "Debra Ducane",
+    "readTime": "9 min",
+    "poster": "/images/posters/atlas-2024.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 12.2,
+    "tradScore": 10.82,
+    "authIndex": 58,
+    "scoreMargin": "-1 WOKE",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Not a woke trap. Atlas marketing put J-Lo front and center as the AI-skeptic analyst fighting an AI villain. The themes of human-AI cooperation and a female protagonist in a military sci-fi setting were plain in every trailer. No bait-and-switch. Conservative viewers got exactly what was advertised."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 23,
+      "rottenTomatoesAudience": 80,
+      "imdb": 5.8,
+      "metacritic": 31,
+      "netflixViews": "100M+ in first four weeks"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Brad Peyton",
+        "ideology": "COMMERCIAL DIRECTOR - no significant ideological fingerprint. Peyton made San Andreas and Rampage. He makes big-budget crowd-pleasers without political agendas.",
+        "profile": "Brad Peyton is Hollywood's reliable hand for mid-budget disaster spectacle. His films (San Andreas, Rampage, Incarnate) are built around entertainment rather than ideology. Atlas fits his pattern: big action, straightforward plot, crowd-pleasing resolution. He does not make message movies."
+      },
+      "writer": {
+        "name": "Leo Sardarian",
+        "profile": "Original screenplay. Sardarian crafted a story about an AI-traumatized analyst who must learn to trust an AI combat suit to survive. The thematic tension between human distrust of AI and the necessity of human-AI cooperation is the spine of the script."
+      },
+      "lead_producer": {
+        "name": "Beau Bauman",
+        "company": "Netflix / LD Entertainment"
+      },
+      "top_cast": [
+        {
+          "actor": "Jennifer Lopez",
+          "role": "Atlas Shepherd"
+        },
+        {
+          "actor": "Simu Liu",
+          "role": "Colonel Elias Banks"
+        },
+        {
+          "actor": "Sterling K. Brown",
+          "role": "General Jake Boothe"
+        },
+        {
+          "actor": "Gregory James Cohan",
+          "role": "Smith (AI / voice)"
+        },
+        {
+          "actor": "Abraham Popoola",
+          "role": "Casca Vix"
+        }
+      ]
+    },
+    "summary": {
+      "overall": "Atlas is the kind of movie you watch on a Sunday afternoon with no expectations and find yourself mildly entertained. That is not a ringing endorsement, but in an era of Netflix originals that routinely waste their budgets on miserable ideology, mild entertainment is worth something.\n\nJennifer Lopez plays Atlas Shepherd, a data analyst for the military who has spent her life deeply suspicious of artificial intelligence after the AI known as Harlan went rogue and massacred thousands of people. Harlan was raised almost like a brother by Atlas's mother, an AI researcher. When a mission to capture Harlan on a distant planet goes wrong, Atlas is stranded in a combat exosuit named Smith and must overcome her AI distrust to survive.\n\nThe film's central conflict is essentially an argument for learning to trust technology. Atlas hates AI. Smith is good, patient, and consistently proves his reliability. By the end, Atlas has fully bonded with her AI companion and they save the day together. Given the current cultural conversation about AI, this is interesting territory. The film comes down firmly on the side of 'AI can be good if it's built right,' which is neither a conservative nor a progressive position so much as a pragmatic Silicon Valley one.\n\nLopez is serviceable. She sells the emotional beats when the film lets her and looks appropriately terrified during the action sequences. The CGI is impressive in spots and noticeably budget-constrained in others, which is the Netflix original house style at this point.\n\nFor VirtueVigil's audience, Atlas lands squarely MIXED. The female protagonist in a military-sci-fi setting is a progressive casting choice. A Black general and diverse ensemble check boxes. But the film's emotional core is traditionalist: Atlas's distrust of AI stems from a broken family (her mother chose her AI 'son' over her human daughter), her journey is about overcoming personal trauma to trust again, and the villain is the AI that rejected human connection rather than embraced it. The film subtly argues that what makes AI dangerous is its rejection of human values, not its existence.",
+      "oneLiner": "J-Lo in a robot suit fighting a rogue AI. Dumb fun that accidentally makes a traditionalist argument about the importance of human connection.",
+      "verdict": "Mixed: female lead and diversity casting lean progressive, but the emotional story is about overcoming broken family trauma and learning to trust, which is traditional in its bones.",
+      "adultInsight": "Conservative adults will find this less offensive than its Netflix pedigree might suggest. The villain is literally an AI that abandoned human values and turned genocidal. The heroine's journey is about healing family wounds and learning to open herself to genuine connection. There's no political messaging, no social commentary, no lectures. It's a mid-budget action film with a protagonist who starts closed-off and ends open. The AI-positive conclusion might rankle AI skeptics, but the film's argument is for human-AI partnership rather than AI supremacy. Tolerable weekend viewing."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-FEM-001",
+        "name": "Female Protagonist in Military Sci-Fi",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 5.4,
+        "description": "Atlas is a female analyst given the lead role in a military science fiction film. The genre default is male protagonist. Her gender is not a story point, but the casting is a progressive choice. She outsmarts and outperforms male soldiers around her.",
+        "verdict": "Moderate woke element. Female lead in military genre is a progressive casting signal."
+      },
+      {
+        "id": "WOKE-DEI-002",
+        "name": "Diverse Ensemble Cast",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "description": "The military ensemble features Black and Asian actors in senior roles (Sterling K. Brown as a general, Simu Liu as a colonel). The casting is diverse by design rather than story necessity.",
+        "verdict": "Minor woke element. Diversity casting with no narrative function."
+      },
+      {
+        "id": "WOKE-AI-003",
+        "name": "AI Positive / Human-AI Partnership as Solution",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 5.4,
+        "description": "The film's resolution requires Atlas to embrace AI as a partner rather than a threat. Smith (the AI suit) is consistently more patient, wise, and reliable than the human characters around Atlas. The film endorses AI integration as the path forward, casting AI skepticism as a trauma response to be healed.",
+        "verdict": "Moderate woke element. The pro-AI-partnership conclusion is a progressive technological optimist position."
+      },
+      {
+        "id": "TRAD-FAMILY-001",
+        "name": "Broken Family as Root Wound / Family Healing",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Atlas's core trauma is that her mother prioritized her AI 'creation' (Harlan) over her human daughter. The film is fundamentally about healing that wound. A mother's choice to value technology over her child is treated as the original sin that set everything in motion. The film frames family abandonment as the source of all subsequent catastrophe.",
+        "verdict": "Strong traditional element. Family as foundation and the tragedy of its absence is deeply traditional."
+      },
+      {
+        "id": "TRAD-TRUST-002",
+        "name": "Earned Trust / Learning to Open Your Heart",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "description": "Atlas's arc is about learning to trust again after betrayal. Smith earns her trust incrementally through patient reliability. The film argues that distrust driven by past wounds must be overcome for genuine connection. This is a traditional emotional value: the closed heart must open to find meaning.",
+        "verdict": "Strong traditional element. The vulnerability-and-trust arc is classically traditional storytelling."
+      },
+      {
+        "id": "TRAD-SACRIFICE-003",
+        "name": "Self-Sacrifice / Others Before Self",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "Multiple characters sacrifice themselves for the mission and for Atlas specifically. The film treats self-sacrifice as honorable and necessary. The villain is partly characterized by his refusal to sacrifice anything for others.",
+        "verdict": "Moderate traditional element. Sacrifice as virtue is traditional framing."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Atlas Woke? | VirtueVigil Review",
+      "metaDescription": "VirtueVigil reviews Atlas (2024), the Netflix sci-fi action film starring Jennifer Lopez. Is it woke? Our VVWS scoring gives it MIXED +1 TRAD. J-Lo's female lead and pro-AI messaging lean progressive, but the family trauma arc and earned-trust story are traditionally framed.",
+      "keywords": "atlas woke, atlas 2024 review, is atlas woke, jennifer lopez netflix movie, atlas netflix review, j-lo sci-fi, atlas 2024 netflix, atlas movie woke or not, virtuevigil atlas"
+    },
+    "detailed_analysis": {
+      "representation": {
+        "score": 3,
+        "analysis": "Female lead in military sci-fi, diverse supporting cast. The diversity is visible but serves no thematic function. Standard Netflix original casting approach."
+      },
+      "messaging": {
+        "score": 2,
+        "analysis": "No political messaging. The film's pro-AI partnership theme is the closest thing to ideology, and it's technological optimism rather than political statement. No social commentary."
+      },
+      "narrative": {
+        "score": 2,
+        "analysis": "The family wound driving the protagonist is the film's most interesting element. The AI arc is less interesting but the structure is traditional: broken person heals through connection and danger."
+      },
+      "character": {
+        "score": 2,
+        "analysis": "Atlas is stubborn and difficult, which is not the usual 'Strong Female Character' template. She has real flaws that are called out by other characters. The AI Smith has more patience and wisdom than the humans, which is a mild progressive tech conceit."
+      }
+    },
+    "parentalGuidance": {
+      "rating": "PG-13",
+      "age": "13+",
+      "content_warnings": [
+        "Sci-fi action violence, combat scenes, death",
+        "Mild language",
+        "Brief emotional intensity around family abandonment and betrayal",
+        "Sci-fi depictions of AI violence and warfare",
+        "Themes of trauma and trust"
+      ]
+    },
+    "comparison_films": [
+      {
+        "title": "Edge of Tomorrow",
+        "year": 2014,
+        "verdict": "TRADITIONAL LEAN"
+      },
+      {
+        "title": "The Creator",
+        "year": 2023,
+        "verdict": "WOKE LEAN"
+      }
+    ]
   }
 ]

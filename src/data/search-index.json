@@ -84,6 +84,18 @@
     "poster": "/images/posters/argylle-2024.jpg"
   },
   {
+    "slug": "atlas-2024",
+    "title": "Atlas",
+    "verdict": "MIXED",
+    "platform": "Netflix",
+    "genre": "Science Fiction Action",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 12.2,
+    "tradScore": 10.82,
+    "poster": "/images/posters/atlas-2024.jpg"
+  },
+  {
     "slug": "american-sniper-2014",
     "title": "American Sniper",
     "verdict": "STRONGLY TRADITIONAL",
