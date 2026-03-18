@@ -1,5 +1,17 @@
 [
   {
+    "slug": "avengers-doomsday-2026",
+    "title": "Avengers: Doomsday",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Superhero Action",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 4.6,
+    "tradScore": 18.4,
+    "poster": "/images/posters/avengers-doomsday-2026.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
