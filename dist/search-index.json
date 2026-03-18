@@ -72,6 +72,18 @@
     "poster": "/images/posters/the-notebook-2004.jpg"
   },
   {
+    "slug": "gladiator-2000",
+    "title": "Gladiator",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (DreamWorks / Universal)",
+    "genre": "Action, Adventure, Drama",
+    "year": 2000,
+    "type": "film",
+    "wokeScore": 1.7,
+    "tradScore": 32.2,
+    "poster": "/images/posters/gladiator-2000.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
