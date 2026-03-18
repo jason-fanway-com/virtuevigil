@@ -96,6 +96,18 @@
     "poster": "/images/posters/saving-private-ryan-1998.jpg"
   },
   {
+    "slug": "good-will-hunting-1997",
+    "title": "Good Will Hunting",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Miramax)",
+    "genre": "Drama, Romance",
+    "year": 1997,
+    "type": "film",
+    "wokeScore": 6.8,
+    "tradScore": 18.2,
+    "poster": "/images/posters/good-will-hunting-1997.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
