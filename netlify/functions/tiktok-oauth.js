@@ -3,11 +3,41 @@ const querystring = require('querystring');
 
 const CLIENT_KEY = 'sbawacl1zb3lecmz93';
 const CLIENT_SECRET = 'r2OIRUbsXfPvebhVDNjdbuD5SQE5Y55x';
-const REDIRECT_URI = 'https://virtuevigil.com/.netlify/functions/tiktok-oauth?action=callback';
+const REDIRECT_URI = 'https://virtuevigil.com/tiktok/callback';
 
 exports.handler = async (event) => {
   const params = event.queryStringParameters || {};
   const action = params.action;
+
+  // If TikTok redirected back with a code (or error), treat as callback regardless of action
+  if (params.code || (params.error && params.error !== undefined && !action)) {
+    const { code, error } = params;
+    if (error || !code) {
+      return { statusCode: 302, headers: { Location: '/tiktok/?error=' + (error || 'no_code') }, body: '' };
+    }
+    try {
+      const tokenData = await postRequest(
+        'https://open.tiktokapis.com/v2/oauth/token/',
+        querystring.stringify({
+          client_key: CLIENT_KEY,
+          client_secret: CLIENT_SECRET,
+          code,
+          grant_type: 'authorization_code',
+          redirect_uri: REDIRECT_URI
+        }),
+        { 'Content-Type': 'application/x-www-form-urlencoded' }
+      );
+      const token = tokenData.access_token;
+      const openId = tokenData.open_id;
+      return {
+        statusCode: 302,
+        headers: { Location: `/tiktok/?connected=1&open_id=${openId}&token_preview=${token ? token.substring(0,8) : 'none'}` },
+        body: ''
+      };
+    } catch (e) {
+      return { statusCode: 302, headers: { Location: '/tiktok/?error=token_exchange_failed' }, body: '' };
+    }
+  }
 
   // Authorize — redirect to TikTok
   if (action === 'authorize') {

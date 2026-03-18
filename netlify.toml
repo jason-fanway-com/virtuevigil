@@ -44,8 +44,8 @@
 # TikTok OAuth callback redirect
 [[redirects]]
   from = "/tiktok/callback"
-  to = "/.netlify/functions/tiktok-oauth?action=callback"
-  status = 301
+  to = "/.netlify/functions/tiktok-oauth"
+  status = 200
   force = true
 
 [[redirects]]
