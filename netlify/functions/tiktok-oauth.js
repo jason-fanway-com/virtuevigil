@@ -3,7 +3,7 @@ const querystring = require('querystring');
 
 const CLIENT_KEY = 'awyugert3kqgusxc';
 const CLIENT_SECRET = 'IYoPmIotMHhc37pswoG8HNQSftMtM9bC';
-const REDIRECT_URI = 'https://virtuevigil.com/.netlify/functions/tiktok-oauth?action=callback';
+const REDIRECT_URI = 'https://virtuevigil.com/tiktok/callback';
 
 exports.handler = async (event) => {
   const params = event.queryStringParameters || {};

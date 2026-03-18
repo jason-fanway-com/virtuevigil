@@ -38,6 +38,21 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
 
 # 404 error page
+
+# TikTok OAuth authorize
+[[redirects]]
+  from = "/tiktok/authorize"
+  to = "/.netlify/functions/tiktok-oauth?action=authorize"
+  status = 200
+  force = true
+
+# TikTok OAuth callback — must match registered redirect URI exactly
+[[redirects]]
+  from = "/tiktok/callback"
+  to = "/.netlify/functions/tiktok-oauth?action=callback"
+  status = 200
+  force = true
+
 [[redirects]]
   from = "/*"
   to = "/404.html"
