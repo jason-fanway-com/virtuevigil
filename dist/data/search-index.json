@@ -108,6 +108,18 @@
     "poster": "/images/posters/good-will-hunting-1997.jpg"
   },
   {
+    "slug": "braveheart-1995",
+    "title": "Braveheart",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Paramount Pictures / Icon Entertainment)",
+    "genre": "Action, Drama, History",
+    "year": 1995,
+    "type": "film",
+    "wokeScore": 3.5,
+    "tradScore": 19.74,
+    "poster": "/images/posters/braveheart-1995.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",

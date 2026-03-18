@@ -73026,5 +73026,261 @@
       "good will hunting mentor student",
       "good will hunting values analysis"
     ]
+  },
+  {
+    "id": "braveheart-1995",
+    "slug": "braveheart-1995",
+    "title": "Braveheart",
+    "year": 1995,
+    "type": "film",
+    "platform": "Theatrical (Paramount Pictures / Icon Entertainment)",
+    "genre": "Action, Drama, History",
+    "date": "2026-03-18",
+    "author": "Debra Ducane",
+    "readTime": "14 min",
+    "poster": "/images/posters/braveheart-1995.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 3.5,
+    "tradScore": 19.74,
+    "authIndex": 92,
+    "scoreMargin": "+16 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "No trap. Braveheart is exactly what it presents itself as: a blood-soaked epic about a man who chooses freedom and his people over personal safety, told with the conviction of someone who believes the story is true and worth telling. The film's ideology is legible from the first frame. William Wallace is not a revolutionary in the modern political sense. He is a man avenging his wife and his family, who discovers that the cause of his people is worth dying for. No bait and switch. No hidden progressive payload. The film was controversial in 1995 for its violence and its historical liberties, not for its politics."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Mel Gibson",
+        "ideology": "RIGHT (Traditional Catholic, known for explicitly religious and patriotic filmmaking)",
+        "profile": "Mel Gibson has directed four films: Braveheart, The Passion of the Christ, Apocalypto, and Hacksaw Ridge. All four are about men who endure extreme suffering for a cause larger than themselves. All four are visually intense, emotionally demanding, and grounded in a specific moral worldview. Gibson is a traditionalist Catholic whose personal life has generated enormous controversy, but as a director he is one of the most technically accomplished storytellers working in Hollywood. Braveheart won five Academy Awards including Best Picture and Best Director, which remains the peak of his directing career. He also stars as Wallace, a choice that gives the film an urgency and personal investment that it might have lacked with a purely commercial actor in the role."
+      },
+      "writer": {
+        "name": "Randall Wallace",
+        "profile": "Randall Wallace wrote the screenplay after reading about William Wallace in a poem by Blind Harry and becoming obsessed with the story. He later wrote Pearl Harbor and We Were Soldiers, both patriotic epics in the same vein. His work consistently gravitates toward stories of sacrifice, loyalty, and national identity told on a large canvas. The Braveheart script takes enormous historical liberties: the real William Wallace was not a peasant farmer but a minor noble, the woad face paint is from a different era entirely, and the romantic subplot with Princess Isabella is historically impossible given her age at the time. Wallace (the writer) has said he was writing a legend, not a history lesson, and the film works entirely on those terms."
+      },
+      "lead_producer": {
+        "name": "Mel Gibson, Alan Ladd Jr., Bruce Davey",
+        "company": "Paramount Pictures / Icon Entertainment International"
+      },
+      "composer": {
+        "name": "James Horner",
+        "profile": "James Horner's score for Braveheart is among his most celebrated work. The use of Scottish pipes, Celtic strings, and a recurring romantic theme gives the film its emotional backbone. Horner also scored Titanic, Avatar, Apollo 13, A Beautiful Mind, and dozens of other major productions. He died in a plane crash in 2015. The Braveheart score won him a Golden Globe and remains one of the defining pieces of 1990s epic film music."
+      },
+      "top_cast": [
+        {
+          "name": "Mel Gibson",
+          "role": "William Wallace"
+        },
+        {
+          "name": "Sophie Marceau",
+          "role": "Princess Isabelle"
+        },
+        {
+          "name": "Patrick McGoohan",
+          "role": "King Edward I (Longshanks)"
+        },
+        {
+          "name": "Brendan Gleeson",
+          "role": "Hamish Campbell"
+        },
+        {
+          "name": "Catherine McCormack",
+          "role": "Murron MacClannough"
+        },
+        {
+          "name": "Angus Macfadyen",
+          "role": "Robert the Bruce"
+        }
+      ],
+      "producers": [
+        {
+          "name": "Mel Gibson",
+          "company": "Icon Entertainment International",
+          "profile": "Gibson co-produced and directed the film simultaneously, an unusual arrangement that gave him full creative control. The film was shot in Scotland and Ireland."
+        },
+        {
+          "name": "Alan Ladd Jr.",
+          "company": "Paramount Pictures",
+          "profile": "Veteran studio producer responsible for greenlighting Star Wars at Fox in 1977. His involvement gave Braveheart institutional backing at Paramount."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Mel Gibson",
+          "role": "William Wallace"
+        },
+        {
+          "name": "Sophie Marceau",
+          "role": "Princess Isabelle"
+        },
+        {
+          "name": "Patrick McGoohan",
+          "role": "King Edward I"
+        },
+        {
+          "name": "Brendan Gleeson",
+          "role": "Hamish Campbell"
+        },
+        {
+          "name": "Catherine McCormack",
+          "role": "Murron MacClannough"
+        },
+        {
+          "name": "Angus Macfadyen",
+          "role": "Robert the Bruce"
+        },
+        {
+          "name": "David O'Hara",
+          "role": "Stephen (the Irish warrior)"
+        },
+        {
+          "name": "Peter Hanly",
+          "role": "Prince Edward"
+        },
+        {
+          "name": "James Robinson",
+          "role": "Young William Wallace"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL",
+        "confidence": "high"
+      }
+    },
+    "fidelityCasting": {
+      "sourceType": "Historical Legend / Epic Poem",
+      "sourceTitle": "The Wallace (poem by Blind Harry, c. 1477)",
+      "assessment": "Braveheart is an adaptation of legend rather than documented history, and its casting reflects that. Mel Gibson, an Australian, plays a Scottish hero with no Scottish accent. The film is set in 13th-century Scotland, and virtually the entire cast is composed of white British, Irish, and European actors appropriate to the period and setting. The historical liberties are enormous: Princess Isabella (Sophie Marceau) would have been approximately three years old when Wallace died, making the romantic subplot fictional. Robert the Bruce (Angus Macfadyen) is portrayed as more conflicted and eventually redeemable than many Scottish historians would recognize. King Edward I (Patrick McGoohan) is presented as a cartoon villain, which flattens a historically complex figure. None of these are casting fidelity issues in the identity-politics sense: they are narrative liberties in service of epic storytelling. No race-swapping, no political revisionism to the casting. The film is what it is: an American filmmaker's romantic interpretation of Scottish legend."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 78,
+      "rottenTomatoesAudience": 94,
+      "imdb": 8.3,
+      "metacritic": 68,
+      "oscarNominations": 10,
+      "oscarCategories": "Best Picture (Won), Best Director (Won), Best Cinematography (Won), Best Film Editing (Won), Best Makeup (Won), plus 5 others",
+      "goldenGlobeWins": 1,
+      "budget": "$72M",
+      "theatricalBoxOffice": "$210.4M worldwide"
+    },
+    "parentalGuidance": {
+      "mpaaRating": "R",
+      "mpaaDescriptors": "Brutal medieval warfare, some sexuality, brief nudity",
+      "recommendedAge": "16+",
+      "contentWarnings": [
+        "Extremely graphic battlefield violence including beheadings, impalings, and close-quarters slaughter",
+        "Wallace's wife Murron is executed by throat-cutting on screen as punishment for resisting assault",
+        "A Scottish noble's feet are tied together and he is thrown from a tower by the English",
+        "Robert the Bruce's father is shown to be disfigured by leprosy",
+        "Brief nudity in a romantic scene between Wallace and Murron before their secret marriage",
+        "A character's leg is broken in battle and he continues fighting",
+        "The torture and execution of Wallace in the final act is prolonged and graphic (hanging, drawing, quartering)",
+        "Scottish warriors are shown defecating and mooning the English army (played for comedy)",
+        "Prince Edward's courtier is thrown from a window by King Edward",
+        "Themes of colonialism, forced submission, and ethnic oppression"
+      ],
+      "guidance": "Rated R. Braveheart earns its R rating comprehensively. The battle sequences are among the most viscerally violent in mainstream Hollywood history. The execution of Murron is sudden and shocking. The torture sequence at the end of the film is extended and deliberately brutal. This is not appropriate for children or young teenagers regardless of their maturity level. For adults and older teenagers, the violence is not gratuitous in context: it serves the film's argument about the cost of freedom and the horror of tyranny. Conservative parents who do let older teens watch it will find it an outstanding conversation starter about sacrifice, national identity, loyalty, and the question of what is worth dying for. The romantic content is modest by modern standards: one brief scene of partial nudity in a loving marital context. There is no sexual content beyond that."
+    },
+    "summary": {
+      "overall": "Thirty years on, Braveheart remains one of the most unapologetically traditional epics in the Hollywood canon. It is not a subtle film. It does not want to be. William Wallace is a man whose wife is murdered by English soldiers for resisting assault, and who spends the rest of his life fighting for the freedom of a people who frequently betray, abandon, and sell him out. He dies on the scaffold, refusing to recant, choosing the word that costs him his life and gives his people their future. The film believes in this story completely. That belief is the source of its power.\n\nMel Gibson is a filmmaker who understands suffering. Every film he has directed circles the same question: what does a man endure when he believes in something large enough to die for? The Passion of the Christ is the most explicit version of this thesis. Braveheart is the most populist. The violence in both films is not sadistic spectacle. It is the cost of conviction made visible on screen. Gibson wants you to feel what it costs Wallace to keep going. He spends two hours building that cost so that the final word, 'Freedom,' lands as both triumph and tragedy simultaneously.\n\nThe battle sequences hold up. The Battle of Stirling, in particular, is one of the great set pieces of 1990s cinema. Gibson shot it practically, with thousands of extras on an Irish plain, before CGI armies became the industry standard. The chaos is real. The mud is real. The terror on the faces of men charging into a cavalry is real in a way that digital warriors never quite replicate. Cinematographer John Toll won an Oscar for the film's visual grandeur, and the widescreen compositions of the Scottish Highlands (actually Ireland) are legitimately beautiful.\n\nThe script takes liberties that historians have catalogued at length. The real William Wallace was probably a minor noble, not a farmer. Princess Isabella's romantic subplot is historical impossibility: she was a child when Wallace died. The woad face paint belongs to a different century. None of this matters to how the film works as a story. Randall Wallace was writing a legend, drawing on the same impulse that gave us Henry V and Rob Roy: the need to mythologize a man who embodied something his people needed to believe about themselves. Whether the historical Wallace was exactly this man is beside the point. Whether he should have been is the film's actual argument.\n\nThe Scottish lords are the film's most honest political observation. They are cowards and collaborators. They trade their people's freedom for titles, English gold, and the security of existing arrangements. Robert the Bruce, the man who will eventually win Scottish independence and be celebrated as a national hero, betrays Wallace at Falkirk on the advice of his leprous, calculating father. The film does not excuse this. It asks Robert to carry it. His final redemption on the battlefield at Bannockburn, charging in Wallace's name, is not presented as absolution but as the moment he finally earns the title he has carried without deserving it.\n\nThe love story is simpler than the film's reputation suggests. Murron MacClannough is not a character with much screen time. She is an image of everything Wallace is fighting for: beauty, innocence, the domestic life of a man who wants nothing more than to farm his land and love his wife. Her murder is the story's engine. Some critics have noted that the film reduces its female characters to symbols, which is fair. Murron exists to be lost. Princess Isabella exists to be seduced and converted. But this is legend-telling, not literary fiction. The women in Braveheart serve the same function as women in Greek tragedy or Arthurian romance: they are what the hero is fighting toward or away from.\n\nThe religious dimension of the film is underdeveloped but present. There is a mad Irish monk-warrior who charges into battle because God tells him to, played for dark comedy but treated with more dignity than you might expect. Wallace wears a sprig of heather from Murron's grave into his final battle. The execution scene is structured as a passion narrative, which is cleaner in retrospect given what Gibson did eleven years later with The Passion of the Christ. These elements never congeal into explicit theology, but they give the film a spiritual weight beyond pure nationalism.\n\nBraveheart is not a nuanced film. The English are villains. The Scottish lords are cowards. Wallace is a martyr. The audience knows exactly where it stands from the first scene to the last. In 1995, critics were divided on whether this was a virtue or a flaw. Audiences were not divided. The film grossed $210 million on a $72 million budget and swept five Oscars. People wanted to believe in William Wallace. They still do. That need is not naive. It is human.",
+      "oneLiner": "Mel Gibson's Oscar-winning epic about sacrifice, freedom, and the cost of conviction. Historically loose but emotionally true. One of the most unapologetically traditional blockbusters of the 1990s.",
+      "verdict": "Braveheart is TRADITIONAL cinema. Its celebration of male sacrifice, devotion to family and people, and the conviction that freedom is worth dying for runs through every scene. The anti-English sentiment prevents a higher score but does not undermine the film's traditional core.",
+      "adultInsight": "Conservative adults who revisit Braveheart will find it holds up better than its critics claim. The film's most interesting political argument is about cowardice and collaboration: the Scottish lords who enable English tyranny for personal benefit are the film's real antagonists, more damaging than Edward I. Robert the Bruce's arc, a man of genuine quality who repeatedly chooses safety over honor until he finally cannot live with himself, is a portrait of moral cowardice and eventual redemption that applies well beyond 13th-century Scotland. The film also takes the concept of a people's right to self-determination seriously in a way that has nothing to do with contemporary progressive politics. Wallace is not fighting for rights in the modern bureaucratic sense. He is fighting for the ability of his people to live by their own customs, on their own land, under their own laws. That distinction matters."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Self-Sacrifice for Family and Freedom",
+        "id": "TRADITIONAL-001",
+        "category": "TRADITIONAL",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "location": "The entire arc of William Wallace: from Murron's death to his execution. Every battle, every decision, every refusal to submit is framed as an act of love for wife, people, and the idea of freedom.",
+        "authenticity_note": "High. The film is built entirely on this premise. Gibson's direction makes it feel personal, not rhetorical."
+      },
+      {
+        "trope": "Patriotism and National Identity as Moral Good",
+        "id": "TRADITIONAL-007",
+        "category": "TRADITIONAL",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "location": "The Scottish identity argument runs through every scene. Wallace's speeches treat fighting for one's people and land as an unambiguous moral imperative.",
+        "authenticity_note": "High. This is the film's thesis, not a subplot."
+      },
+      {
+        "trope": "Male Warrior Code and Brotherhood",
+        "id": "TRADITIONAL-011",
+        "category": "TRADITIONAL",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "location": "Wallace's relationships with Hamish, Stephen the Irishman, and his men. Loyalty among men-at-arms, the honoring of oaths, the refusal to abandon comrades.",
+        "authenticity_note": "High. The male friendships are the film's warmest sequences and feel genuinely earned."
+      },
+      {
+        "trope": "Romantic Love as Sacred and Worth Dying For",
+        "id": "TRADITIONAL-021",
+        "category": "TRADITIONAL",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "location": "Wallace and Murron's secret marriage, her murder as the catalyst for everything that follows, and the sprig of heather he carries into death.",
+        "authenticity_note": "High. The romance is brief but the film treats it as the moral foundation of everything Wallace does."
+      },
+      {
+        "trope": "Christian Faith and Providence",
+        "id": "TRADITIONAL-016",
+        "category": "TRADITIONAL",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "location": "The Irish warrior Stephen's divine calling, the execution scene's passion narrative structure, the recurring sense that Providence shapes the story's outcome.",
+        "authenticity_note": "High. Gibson's Catholic sensibility permeates the film even where it is not explicitly stated."
+      },
+      {
+        "trope": "Anti-Authority Rebellion Against Oppression",
+        "id": "WOKE-009",
+        "category": "WOKE",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "location": "The entire Scottish rebellion narrative, the rejection of English law and authority, the framing of institutional power as inherently corrupt and violent.",
+        "authenticity_note": "High. The anti-authority frame is genuine but rooted in historical context rather than modern progressive politics."
+      },
+      {
+        "trope": "Ruling Class Depicted as Irredeemably Corrupt",
+        "id": "WOKE-019",
+        "category": "WOKE",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "location": "King Edward I, the Scottish lords, and Prince Edward's court are cartoonishly villainous. The film allows no complexity to institutional English authority.",
+        "authenticity_note": "High. This is a deliberate narrative choice, not a peripheral observation."
+      }
+    ],
+    "seoTitle": "Is Braveheart Woke? | VirtueVigil Review",
+    "seoDescription": "VirtueVigil reviews Braveheart (1995). Our VVWS scoring finds +16 TRAD. Mel Gibson's Oscar-winning epic scores TRADITIONAL for its celebration of sacrifice, freedom, male brotherhood, and devotion to family and people.",
+    "seoKeywords": [
+      "is braveheart woke",
+      "braveheart conservative review",
+      "braveheart traditional values",
+      "braveheart 1995 review",
+      "braveheart woke score",
+      "mel gibson braveheart values",
+      "braveheart freedom sacrifice",
+      "braveheart virtuevigil",
+      "classic movies conservative review",
+      "braveheart traditional or woke"
+    ]
   }
 ]
