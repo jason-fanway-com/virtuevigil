@@ -60,6 +60,18 @@
     "poster": "/images/posters/the-matrix-1999.jpg"
   },
   {
+    "slug": "the-notebook-2004",
+    "title": "The Notebook",
+    "verdict": "TRADITIONAL",
+    "platform": "New Line Cinema",
+    "genre": "Romance, Drama",
+    "year": 2004,
+    "type": "film",
+    "wokeScore": 3.4,
+    "tradScore": 17.14,
+    "poster": "/images/posters/the-notebook-2004.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
