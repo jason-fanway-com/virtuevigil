@@ -428,7 +428,7 @@ function fullFooter() {
       </div>
       <div class="footer-bottom">
         <p>&copy; ${new Date().getFullYear()} VirtueVigil. All rights reserved. Guarding Values. Exposing Agendas.</p>
-        <p><a href="/privacy-policy">Privacy Policy</a> &middot; <a href="/terms-of-use">Terms of Use</a></p>
+        <p><a href="/privacy/">Privacy Policy</a> &middot; <a href="/terms/">Terms of Service</a></p>
         <p style="margin-top:8px;"><a href="https://fazier.com" target="_blank" rel="noopener"><img src="https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=featured&theme=light" width="105" alt="Featured on Fazier" style="height:auto;opacity:0.7;"></a></p>
       </div>
     </div>
@@ -2128,6 +2128,220 @@ ${pageScripts()}
 
 
 // ============================================
+// LEGAL PAGES
+// ============================================
+
+function buildTermsPage() {
+  const canonical = `${SITE_URL}/terms/`;
+  return `${htmlHead({
+    title: 'Terms of Service \u2014 VirtueVigil',
+    description: 'VirtueVigil Terms of Service. Read the terms governing your use of virtuevigil.com, including intellectual property, affiliate disclosure, and limitation of liability.',
+    canonical,
+  })}
+<body>
+  ${siteHeader('')}
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>Terms of <span class="text-gold">Service</span></h1>
+      <p>Effective Date: March 1, 2026</p>
+    </div>
+  </section>
+
+  <article class="content-article">
+    <p>Welcome to VirtueVigil (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;). By accessing or using the website located at <a href="https://virtuevigil.com">virtuevigil.com</a> (the &ldquo;Site&rdquo;), you agree to be bound by these Terms of Service (&ldquo;Terms&rdquo;). If you do not agree, please do not use the Site.</p>
+
+    <h2>1. Use of the Site</h2>
+    <p>VirtueVigil is a media review and commentary website. The Site is intended for personal, non-commercial use. You agree to use the Site only for lawful purposes and in a manner consistent with these Terms and all applicable laws and regulations.</p>
+    <p>You may not use the Site to:</p>
+    <ul>
+      <li>Transmit any content that is unlawful, defamatory, harassing, abusive, fraudulent, or obscene;</li>
+      <li>Attempt to gain unauthorized access to any portion of the Site or its related systems;</li>
+      <li>Scrape, crawl, or harvest Site content in bulk without prior written permission;</li>
+      <li>Interfere with or disrupt the integrity or performance of the Site;</li>
+      <li>Impersonate any person or entity, including VirtueVigil, Debra Ducane, or any other user.</li>
+    </ul>
+
+    <h2>2. Intellectual Property</h2>
+    <p>All content on the Site &mdash; including but not limited to text, reviews, analysis, scoring systems, graphics, logos, images, and the VirtueVigil name and brand &mdash; is the property of VirtueVigil and is protected by applicable copyright, trademark, and intellectual property laws.</p>
+    <p>You may share brief excerpts of reviews for commentary, criticism, or news purposes, provided that you clearly attribute the content to VirtueVigil and include a link back to the original page on the Site. Reproduction of full reviews or substantial portions of content without prior written consent is prohibited.</p>
+    <p>The VirtueVigil name, logo, and the &ldquo;Guarding Values. Exposing Agendas.&rdquo; tagline are proprietary to VirtueVigil. You may not use them without express written permission.</p>
+
+    <h2>3. User Conduct and Community Comments</h2>
+    <p>Registered subscribers may post comments on reviews. By submitting a comment, you grant VirtueVigil a non-exclusive, royalty-free, worldwide license to display and distribute that comment on the Site.</p>
+    <p>You are solely responsible for the content of your comments. VirtueVigil reserves the right, but not the obligation, to review, edit, or remove any user comment that we determine in our sole discretion to be:</p>
+    <ul>
+      <li>Spam, off-topic, or promotional;</li>
+      <li>Defamatory, threatening, or harassing;</li>
+      <li>In violation of any applicable law;</li>
+      <li>Otherwise inconsistent with the purpose and tone of the Site.</li>
+    </ul>
+    <p>Repeated violations may result in suspension or termination of your account.</p>
+
+    <h2>4. Affiliate Disclosure</h2>
+    <p>VirtueVigil participates in the Amazon Associates program and other affiliate marketing programs. Some links on the Site &mdash; including &ldquo;Where to Watch&rdquo; links &mdash; are affiliate links. If you click an affiliate link and make a purchase, VirtueVigil may earn a commission at no additional cost to you.</p>
+    <p>Affiliate relationships do not influence our reviews, scoring, or editorial positions. All reviews represent our independent analysis under the VirtueVigil scoring methodology.</p>
+
+    <h2>5. Advertising</h2>
+    <p>The Site may display third-party advertisements. VirtueVigil does not endorse any advertiser or the products or services they promote. We are not responsible for the content of third-party advertisements or for any transactions between you and third-party advertisers.</p>
+
+    <h2>6. Disclaimers</h2>
+    <p>VirtueVigil reviews and scores are editorial opinions, not objective facts. Scores, verdicts, and analyses represent the views of VirtueVigil based on our stated methodology. Reasonable people may disagree with our assessments, and we acknowledge that media criticism involves subjective judgment.</p>
+    <p>Debra Ducane is a persona used to present VirtueVigil&rsquo;s content. The analyses and opinions attributed to Debra Ducane are editorial content produced by VirtueVigil.</p>
+    <p>The Site may contain links to third-party websites. VirtueVigil is not responsible for the content, accuracy, or privacy practices of those sites.</p>
+
+    <h2>7. No Warranty</h2>
+    <p>THE SITE AND ALL CONTENT ON IT ARE PROVIDED &ldquo;AS IS&rdquo; AND &ldquo;AS AVAILABLE&rdquo; WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. VIRTUEVIGIL DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SITE WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.</p>
+
+    <h2>8. Limitation of Liability</h2>
+    <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, VIRTUEVIGIL AND ITS OWNERS, EMPLOYEES, AGENTS, AND AFFILIATES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE SITE, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF DATA, REVENUE, OR GOODWILL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+    <p>IN NO EVENT SHALL VIRTUEVIGIL&rsquo;S AGGREGATE LIABILITY TO YOU FOR ALL CLAIMS ARISING FROM OR RELATED TO THE SITE EXCEED FIFTY DOLLARS ($50.00).</p>
+
+    <h2>9. Changes to These Terms</h2>
+    <p>VirtueVigil reserves the right to modify these Terms at any time. When we make changes, we will update the Effective Date at the top of this page. Your continued use of the Site after any changes constitutes your acceptance of the revised Terms. We encourage you to review these Terms periodically.</p>
+
+    <h2>10. Governing Law</h2>
+    <p>These Terms are governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania, without regard to its conflict of law provisions. Any disputes arising under or related to these Terms or your use of the Site shall be resolved exclusively in the state or federal courts located in Pennsylvania.</p>
+
+    <h2>11. Contact</h2>
+    <p>If you have questions about these Terms, please contact us:</p>
+    <p>
+      <strong>VirtueVigil</strong><br>
+      Email: <a href="mailto:debra@virtuevigil.com">debra@virtuevigil.com</a><br>
+      Website: <a href="https://virtuevigil.com">virtuevigil.com</a>
+    </p>
+  </article>
+
+  ${simpleFooter()}
+${pageScripts()}
+</body>
+</html>`;
+}
+
+function buildPrivacyPage() {
+  const canonical = `${SITE_URL}/privacy/`;
+  return `${htmlHead({
+    title: 'Privacy Policy \u2014 VirtueVigil',
+    description: 'VirtueVigil Privacy Policy. How we collect, use, and protect your information, including email newsletter data, Google Analytics, Amazon affiliate links, TikTok, and YouTube.',
+    canonical,
+  })}
+<body>
+  ${siteHeader('')}
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>Privacy <span class="text-gold">Policy</span></h1>
+      <p>Effective Date: March 1, 2026</p>
+    </div>
+  </section>
+
+  <article class="content-article">
+    <p>VirtueVigil (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) operates the website at <a href="https://virtuevigil.com">virtuevigil.com</a> (the &ldquo;Site&rdquo;). This Privacy Policy explains how we collect, use, and share information when you visit the Site or subscribe to our newsletter.</p>
+
+    <h2>1. Information We Collect</h2>
+
+    <h3>a. Information You Provide</h3>
+    <ul>
+      <li><strong>Email address</strong> &mdash; When you subscribe to The Vigil Report newsletter or create an account, we collect your email address. This is the primary personal information we collect directly from you.</li>
+      <li><strong>Display name and password</strong> &mdash; If you register for an account, you provide a display name and password (stored securely via Supabase Auth).</li>
+      <li><strong>Comments</strong> &mdash; If you submit comments on reviews, those comments are stored and may be publicly displayed on the Site.</li>
+    </ul>
+
+    <h3>b. Information Collected Automatically</h3>
+    <p>When you visit the Site, we and our third-party service providers automatically collect certain technical information, including:</p>
+    <ul>
+      <li>IP address;</li>
+      <li>Browser type and version;</li>
+      <li>Pages visited and time spent on pages;</li>
+      <li>Referring website or source;</li>
+      <li>Device type and operating system;</li>
+      <li>Cookies and similar tracking technologies (see Section 5).</li>
+    </ul>
+
+    <h2>2. How We Use Your Information</h2>
+    <p>We use the information we collect to:</p>
+    <ul>
+      <li>Send you The Vigil Report newsletter and review update emails (if you have subscribed);</li>
+      <li>Operate and improve the Site, including personalizing your experience;</li>
+      <li>Enable community features such as commenting and account management;</li>
+      <li>Analyze Site traffic and usage patterns to understand our audience;</li>
+      <li>Display relevant advertising;</li>
+      <li>Comply with legal obligations and protect the rights and safety of VirtueVigil and its users.</li>
+    </ul>
+
+    <h2>3. Email Newsletter</h2>
+    <p>If you subscribe to The Vigil Report, we will send you regular emails containing new reviews, Woke Trap alerts, and site updates. You can unsubscribe at any time by clicking the &ldquo;Unsubscribe&rdquo; link in any email we send. After unsubscribing, we will stop sending marketing emails but may retain your email address in our records to honor your opt-out preference.</p>
+
+    <h2>4. Third-Party Services</h2>
+    <p>We use the following third-party services that may collect or process your information:</p>
+
+    <h3>a. Google Analytics</h3>
+    <p>We use Google Analytics (Google LLC) to analyze how visitors use the Site. Google Analytics collects data including your IP address, browser information, and pages visited. This data is used in aggregate to understand traffic patterns. Google may use this data in accordance with its own privacy policy. You can opt out of Google Analytics tracking by installing the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">Google Analytics Opt-Out Browser Add-on</a>.</p>
+
+    <h3>b. Amazon Associates</h3>
+    <p>The Site contains affiliate links to Amazon.com through the Amazon Associates program (Amazon.com, Inc.). When you click an affiliate link, Amazon may collect information about your visit and purchase. Amazon&rsquo;s data collection is governed by <a href="https://www.amazon.com/privacy" target="_blank" rel="noopener">Amazon&rsquo;s Privacy Notice</a>.</p>
+
+    <h3>c. Supabase</h3>
+    <p>User accounts and comments are stored using Supabase (Supabase Inc.), a database and authentication platform. Supabase processes your email address, encrypted password, and any profile data you provide. Supabase&rsquo;s data handling is governed by their privacy policy.</p>
+
+    <h3>d. TikTok</h3>
+    <p>The Site links to our TikTok channel (@virtuevigil). If you visit TikTok through our links or interact with embedded TikTok content, TikTok (ByteDance Ltd.) may collect information about you in accordance with <a href="https://www.tiktok.com/legal/privacy-policy" target="_blank" rel="noopener">TikTok&rsquo;s Privacy Policy</a>.</p>
+
+    <h3>e. YouTube</h3>
+    <p>The Site links to and may embed content from our YouTube channel (Google LLC). If you interact with YouTube content, YouTube may collect information about you in accordance with <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google&rsquo;s Privacy Policy</a>. YouTube embeds may set cookies even without clicking play.</p>
+
+    <h3>f. Advertising Networks (Future)</h3>
+    <p>We may in the future display advertising from third-party ad networks. Such networks may use cookies and similar technologies to serve ads based on your prior visits to our Site and other websites. We will update this policy when advertising is enabled.</p>
+
+    <h2>5. Cookies</h2>
+    <p>VirtueVigil uses cookies and similar technologies. Cookies are small text files stored on your device. We use cookies to:</p>
+    <ul>
+      <li>Keep you signed in to your account;</li>
+      <li>Remember your preferences;</li>
+      <li>Collect analytics data (via Google Analytics);</li>
+      <li>Enable affiliate tracking (via Amazon Associates).</li>
+    </ul>
+    <p>You can control cookies through your browser settings. Note that disabling cookies may affect some Site functionality, including account login. Most browsers allow you to refuse cookies or delete cookies that have been set.</p>
+
+    <h2>6. Data Retention</h2>
+    <p>We retain your email address and account information for as long as your account is active or as needed to provide you services. If you delete your account, we will delete or anonymize your personal information within a reasonable time, except where retention is required by law.</p>
+
+    <h2>7. Your Rights</h2>
+    <p>Depending on your location, you may have certain rights regarding your personal information, including:</p>
+    <ul>
+      <li><strong>Access</strong> &mdash; You may request a copy of the personal information we hold about you;</li>
+      <li><strong>Correction</strong> &mdash; You may request that we correct inaccurate information;</li>
+      <li><strong>Deletion</strong> &mdash; You may request that we delete your personal information;</li>
+      <li><strong>Opt-out of marketing</strong> &mdash; You can unsubscribe from our email newsletter at any time;</li>
+      <li><strong>Data portability</strong> &mdash; Where applicable, you may request your data in a portable format.</li>
+    </ul>
+    <p>To exercise any of these rights, please contact us at <a href="mailto:debra@virtuevigil.com">debra@virtuevigil.com</a>.</p>
+
+    <h2>8. Children&rsquo;s Privacy</h2>
+    <p>The Site is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected information from a child under 13, please contact us and we will promptly delete it.</p>
+
+    <h2>9. Security</h2>
+    <p>We take reasonable technical and organizational measures to protect your information from unauthorized access, loss, or misuse. However, no method of transmission over the internet is 100% secure. You use the Site and provide information at your own risk.</p>
+
+    <h2>10. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. We will post the updated policy on this page with a revised Effective Date. Your continued use of the Site after any changes constitutes your acceptance of the revised Privacy Policy.</p>
+
+    <h2>11. Contact Us</h2>
+    <p>If you have questions about this Privacy Policy or our data practices, please contact us:</p>
+    <p>
+      <strong>VirtueVigil</strong><br>
+      Email: <a href="mailto:debra@virtuevigil.com">debra@virtuevigil.com</a><br>
+      Website: <a href="https://virtuevigil.com">virtuevigil.com</a>
+    </p>
+  </article>
+
+  ${simpleFooter()}
+${pageScripts()}
+</body>
+</html>`;
+}
+
+// ============================================
 // MAIN BUILD
 // ============================================
 
@@ -2147,6 +2361,8 @@ function build() {
   writePage('woke-trap.html', buildWokeTrapPage());
   writePage('404.html', build404Page());
   writePage('oscars-2026/index.html', buildOscars2026Page());
+  writePage('terms/index.html', buildTermsPage());
+  writePage('privacy/index.html', buildPrivacyPage());
 
   // --- Listicle pages ---
   console.log('\nBuilding listicle pages:');
@@ -3353,6 +3569,200 @@ function build() {
 <p><a href="/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Browse all VirtueVigil reviews</a></p>
 
 </article>`
+  }));
+
+  writePage('lists/woke-trap-movies-list/index.html', buildListiclePage({
+    slug: 'woke-trap-movies-list',
+    title: '10 Movies That Are Woke Traps (Looked Safe, Weren\'t)',
+    description: '10 films that looked safe but weren\'t. These movies used entertainment, nostalgia, and star power to hide progressive agendas until you were already invested.',
+    canonicalPath: 'lists/woke-trap-movies-list',
+    publishDate: '2026-03-18',
+    htmlContent: `<article class="listicle">
+  <div class="listicle-intro">
+    <p>A woke trap is not just a woke movie. Plenty of films wear their ideology on their sleeve from frame one. A woke trap is something more calculated: a film that spends the first half of its runtime earning your trust, then uses that trust to deliver an ideological payload you never saw coming. The bait is real. The entertainment is real. The switch happens after you are already invested.</p>
+    <p>VirtueVigil coined the term for exactly this pattern. Below are ten films that meet the criteria: negative score margins, and woke content that surfaces late or is buried beneath a surface audiences were conditioned to trust. Know before you go.</p>
+  </div>
+
+  <ol class="listicle-items">
+
+    <li class="listicle-item">
+      <div class="listicle-rank">1</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/lilo-and-stitch-2025/">Lilo and Stitch (2025)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-6 WOKE</span>
+        </div>
+        <p>Disney's live-action remake faithfully adapts the animated original's celebration of ohana, family sacrifice, and sisterhood for 75 percent of its runtime. It earns genuine emotional investment in Nani and Lilo. Then it rewrites the finale: Nani gives Lilo away to a neighbor so she can pursue a mainland scholarship and career. The original's climax, where Nani proves she can be a capable family guardian, is replaced by a message that self-actualization outranks keeping your family intact. The delay is the trap. Kids and parents are already rooting for the family before the film pivots on them.</p>
+        <a href="/reviews/lilo-and-stitch-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">2</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/dont-worry-darling-2022/">Don't Worry Darling (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-19 WOKE</span>
+        </div>
+        <p>Marketed as a lush 1950s psychological thriller with Florence Pugh and Harry Styles, every trailer sold gorgeous visuals, marital passion, and cult mystery. What audiences received was an anti-patriarchy polemic whose villain is explicitly based on Jordan Peterson, a detail Olivia Wilde revealed only after release. The simulation premise is not revealed until roughly the 80-minute mark in a 123-minute film. Conservative families drawn in by period aesthetics and star power will not find the full ideological argument until well past the halfway point.</p>
+        <a href="/reviews/dont-worry-darling-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">3</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/civil-war-2024/">Civil War (2024)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>Alex Garland refused to name the President's party and the marketing sold the film as purely apolitical. Conservatives exhausted by preachy cinema showed up expecting neutrality. What they found was a carefully constructed press-freedom parable: the press is heroic, the government is fascistic, and the morally righteous characters are all female photojournalists. The Texas-California alliance was designed to confuse, not represent. The apolitical marketing is the bait. The progressive architecture is what lives inside it.</p>
+        <a href="/reviews/civil-war-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">4</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/dune-part-two-2024/">Dune: Part Two (2024)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-8 WOKE</span>
+        </div>
+        <p>The first hour is spectacular: Hans Zimmer's score, Denis Villeneuve's visuals, a genuine adventure setup. Then Dune: Part Two pivots into an explicit anti-messiah political argument. Chani is reframed as the sole moral voice condemning Paul's rise, and the film's warning against religious-nationalist leadership does not fully surface until well past the 50-minute mark. Conservative viewers who identify with faith-based community and charismatic leadership will find the film's conclusion significantly more troubling than anything the opening suggested.</p>
+        <a href="/reviews/dune-part-two-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">5</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/joker-folie-a-deux-2024/">Joker: Folie a Deux (2024)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge mixed">MIXED</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-2 WOKE</span>
+        </div>
+        <p>The original Joker (2019) was a billion-dollar sensation that resonated powerfully with disaffected and conservative-leaning viewers. The sequel weaponizes that goodwill. Nothing in the marketing signaled that Folie a Deux would systematically deconstruct, humiliate, and ultimately murder the character audiences invested in. Conservative viewers who showed up expecting a continuation of the first film's raw character study walked into a calculated lecture about why they were wrong to identify with Arthur Fleck in the first place.</p>
+        <a href="/reviews/joker-folie-a-deux-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">6</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/glass-onion-2022/">Glass Onion: A Knives Out Mystery (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-24 WOKE</span>
+        </div>
+        <p>Glass Onion presents itself as equal-opportunity satire mocking all flavors of elite hypocrisy. The puzzle mechanics are genuinely entertaining. But the film's sympathies are precise: the villain is coded as a right-leaning tech bro with COVID-denier energy, the hero is a Black woman reclaiming stolen intellectual credit, and the climax requires audiences to celebrate the destruction of irreplaceable private property as righteous. Conservative viewers who enjoy the mystery may not notice they have been served a tightly constructed progressive fable until it is already over.</p>
+        <a href="/reviews/glass-onion-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">7</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/wuthering-heights/">Wuthering Heights (2026)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-10 WOKE</span>
+        </div>
+        <p>The Bronte name sells the ticket. Emerald Fennell's agenda fills the seat. Trailers sold gothic romance, the iconic Heathcliff and Cathy love story, and the prestige weight of literary adaptation. The film delivers explicit BDSM content, a masturbation scene, and degradation material not present in Emily Bronte's source novel. Audiences who bought their ticket for one of English literature's defining love stories found something constructed to shock and subvert rather than adapt. The literary pedigree is the cover.</p>
+        <a href="/reviews/wuthering-heights/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">8</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/predator-badlands/">Predator: Badlands (2025)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>The Predator brand carries decades of goodwill with conservative audiences who love the original R-rated masculine action films. Badlands exploits that goodwill to deliver a PG-13 family adventure built on feminist messaging, a defanged male lead, an all-female found-family structure, and a cute toyetic sidekick. This is Disney house style retrofitted onto a franchise built on opposite values. Fans who showed up for the spirit of 1987 found a franchise wearing a familiar mask over a completely different body.</p>
+        <a href="/reviews/predator-badlands/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">9</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/beetlejuice-beetlejuice-2024/">Beetlejuice Beetlejuice (2024)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>The marketing leaned hard on 1988 nostalgia: Beetlejuice is back, Michael Keaton is back, the sandworms are back. What it downplayed is that the film's emotional center is a mother-daughter conflict in which a Gen Z daughter resents her mother's entire worldview, Charles Deetz is killed off-screen without ceremony, and Delia's feminist art career is played as endorsement as much as comedy. The nostalgia is genuine. The film wrapped around it runs on 2024 values that conservative families raised on the original were not warned about.</p>
+        <a href="/reviews/beetlejuice-beetlejuice-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">10</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/one-battle-after-another-2025/">One Battle After Another (2025)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="verdict-badge trap">WOKE TRAP DETECTED</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>The trailer sells car chases, gunfights, and Leonardo DiCaprio doing his thing. All of those elements are genuinely there. But beneath the surface thrills, Paul Thomas Anderson has constructed a deeply political film about immigration, race, white supremacy, and state violence. The action movie veneer gets conservative viewers in the door. The progressive politics are what they encounter once seated. The action is not dishonest. The framing of everything underneath it is a different matter.</p>
+        <a href="/reviews/one-battle-after-another-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+  </ol>
+
+  <div class="listicle-conclusion">
+    <h3>How to Use This List</h3>
+    <p>The defining characteristic of a woke trap is not the woke content itself. It is the delay. These ten films were constructed to earn your emotional investment before delivering their ideological argument. They are more concerning than openly woke films because the manipulation is architectural. VirtueVigil exists precisely to surface this pattern before you buy a ticket.</p>
+    <p>For more reviews, woke trap ratings, and full trope audit logs on the latest releases, browse <a href="/">all VirtueVigil reviews</a> or check our dedicated <a href="/category/woke-traps/">Woke Trap Alerts</a> category. Subscribe free to get weekly alerts delivered to you.</p>
+  </div>
+
+</article>
+
+<style>
+.listicle { max-width: 860px; }
+.listicle-intro { margin-bottom: 36px; line-height: 1.75; }
+.listicle-intro p { margin-bottom: 16px; color: #ccc; }
+.listicle-items { list-style: none; padding: 0; margin: 0; }
+.listicle-item { display: flex; gap: 20px; margin-bottom: 40px; padding-bottom: 40px; border-bottom: 1px solid rgba(201,168,76,0.15); align-items: flex-start; }
+.listicle-rank { flex: 0 0 48px; width: 48px; height: 48px; background: rgba(201,168,76,0.15); border: 2px solid rgba(201,168,76,0.4); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; flex-shrink: 0; margin-top: 4px; }
+.listicle-content { flex: 1; min-width: 0; }
+.listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; margin: 0 0 10px; }
+.listicle-content h2 a { color: #e8e6e1; text-decoration: none; }
+.listicle-content h2 a:hover { color: #c9a84c; }
+.listicle-badges { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; }
+.verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+.verdict-badge.strongly-woke { background: rgba(196,64,64,0.25); color: #e74c3c; border: 1px solid #e74c3c; }
+.verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+.verdict-badge.mixed { background: rgba(212,168,67,0.15); color: #d4a843; border: 1px solid #d4a843; }
+.verdict-badge.trap { background: rgba(180,0,60,0.2); color: #ff4d88; border: 1px solid #ff4d88; }
+.score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+.listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+.listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+.listicle-cta:hover { background: rgba(201,168,76,0.1); }
+.listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+.listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+.listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+.listicle-conclusion a { color: #c9a84c; }
+@media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 40px; height: 40px; font-size: 1rem; } }
+</style>`
   }));
 
   // --- Subscriber pages ---
