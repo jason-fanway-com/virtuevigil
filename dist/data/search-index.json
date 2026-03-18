@@ -36,6 +36,18 @@
     "poster": "/images/posters/bring-her-back-2025.jpg"
   },
   {
+    "slug": "forrest-gump-1994",
+    "title": "Forrest Gump",
+    "verdict": "TRADITIONAL",
+    "platform": "Paramount Pictures",
+    "genre": "Drama, Romance, Comedy",
+    "year": 1994,
+    "type": "film",
+    "wokeScore": 3,
+    "tradScore": 17.08,
+    "poster": "/images/posters/forrest-gump-1994.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
