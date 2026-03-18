@@ -12,6 +12,18 @@
     "poster": "/images/posters/avengers-doomsday-2026.jpg"
   },
   {
+    "slug": "sunrise-on-the-reaping-2026",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Dystopian Action",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.1,
+    "tradScore": 13.23,
+    "poster": "/images/posters/sunrise-on-the-reaping-2026.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
