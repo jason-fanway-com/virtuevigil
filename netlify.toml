@@ -48,3 +48,16 @@
   for = "/gracie/*"
   [headers.values]
     X-Robots-Tag = "noindex, nofollow"
+
+# TikTok demo proxy
+[[redirects]]
+  from = "/tiktok/*"
+  to = "https://slot-alliance-oct-alternatives.trycloudflare.com/tiktok/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/tiktok"
+  to = "https://slot-alliance-oct-alternatives.trycloudflare.com/"
+  status = 200
+  force = true
