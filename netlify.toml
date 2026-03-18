@@ -48,16 +48,3 @@
   for = "/gracie/*"
   [headers.values]
     X-Robots-Tag = "noindex, nofollow"
-
-# TikTok OAuth demo routes
-[[redirects]]
-  from = "/tiktok/authorize"
-  to = "/.netlify/functions/tiktok-oauth/authorize"
-  status = 200
-  force = true
-
-[[redirects]]
-  from = "/tiktok/callback"
-  to = "/.netlify/functions/tiktok-oauth/callback"
-  status = 200
-  force = true

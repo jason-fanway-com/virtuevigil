@@ -3847,6 +3847,12 @@ function build() {
   fs.writeFileSync(path.join(DIST, `${indexNowKey}.txt`), indexNowKey);
   console.log('  IndexNow key file');
 
+  // --- TikTok demo page ---
+  const tiktokDir = path.join(DIST, 'tiktok');
+  if (!fs.existsSync(tiktokDir)) fs.mkdirSync(tiktokDir, { recursive: true });
+  fs.copyFileSync(path.join(__dirname, 'src', 'tiktok', 'index.html'), path.join(tiktokDir, 'index.html'));
+  console.log('  TikTok demo page');
+
   // --- Summary ---
   const subscriberPages = 3; // subscribe, account, auth/callback
   const staticPages = 5; // index, about, methodology, woke-trap, 404
