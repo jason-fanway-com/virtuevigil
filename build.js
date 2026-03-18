@@ -936,6 +936,22 @@ ${pageScripts()}
 }
 
 
+function whereToWatchBlock(r) {
+  const query = encodeURIComponent(`${r.title} ${r.year}`);
+  const tag = 'virtuevigil-20';
+  const url = `https://www.amazon.com/s?k=${query}&i=instant-video&tag=${tag}`;
+  return `
+<div class="where-to-watch" style="margin:28px 0;padding:20px 24px;background:rgba(201,168,76,0.08);border:1px solid rgba(201,168,76,0.25);border-radius:8px;">
+  <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:var(--gold);margin-bottom:12px;">Where to Watch</div>
+  <p style="font-size:0.9rem;color:var(--text-secondary,#ccc);margin:0 0 14px;">Find <strong>${esc(r.title)}</strong> on Amazon Prime Video, rent, or buy:</p>
+  <a href="${url}" target="_blank" rel="noopener nofollow"
+     style="display:inline-flex;align-items:center;gap:8px;background:#FF9900;color:#000;font-weight:700;font-size:0.85rem;padding:10px 18px;border-radius:6px;text-decoration:none;">
+    <span style="font-size:1rem;">&#9654;</span> Stream or Buy on Amazon
+  </a>
+  <p style="font-size:0.75rem;color:var(--text-secondary,#999);margin:8px 0 0;opacity:0.7;">As an Amazon Associate, VirtueVigil earns from qualifying purchases.</p>
+</div>`;
+}
+
 function buildReviewPage(r) {
   const vc = verdictClass(r.verdict);
   const hasTrap = isWokeTrap(r);
@@ -1031,6 +1047,7 @@ function buildReviewPage(r) {
           ${tropeTable(r)}
           ${creativeTeamFull(r)}
           ${insightGrid(r)}
+          ${whereToWatchBlock(r)}
         </div>
       </article>
 
