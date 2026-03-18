@@ -84,6 +84,18 @@
     "poster": "/images/posters/gladiator-2000.jpg"
   },
   {
+    "slug": "saving-private-ryan-1998",
+    "title": "Saving Private Ryan",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (DreamWorks / Paramount)",
+    "genre": "Drama, War",
+    "year": 1998,
+    "type": "film",
+    "wokeScore": 2.5,
+    "tradScore": 30.8,
+    "poster": "/images/posters/saving-private-ryan-1998.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
