@@ -48,6 +48,18 @@
     "poster": "/images/posters/forrest-gump-1994.jpg"
   },
   {
+    "slug": "the-matrix-1999",
+    "title": "The Matrix",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Warner Bros. Pictures",
+    "genre": "Action, Science Fiction",
+    "year": 1999,
+    "type": "film",
+    "wokeScore": 6.83,
+    "tradScore": 14.28,
+    "poster": "/images/posters/the-matrix-1999.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
