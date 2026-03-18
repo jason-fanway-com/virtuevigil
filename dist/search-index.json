@@ -120,6 +120,18 @@
     "poster": "/images/posters/braveheart-1995.jpg"
   },
   {
+    "slug": "shawshank-redemption-1994",
+    "title": "The Shawshank Redemption",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Columbia Pictures / Castle Rock Entertainment)",
+    "genre": "Drama",
+    "year": 1994,
+    "type": "film",
+    "wokeScore": 6.3,
+    "tradScore": 15.4,
+    "poster": "/images/posters/shawshank-redemption-1994.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
