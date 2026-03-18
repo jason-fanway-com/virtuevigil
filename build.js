@@ -1025,7 +1025,7 @@ function buildReviewPage(r) {
               <div class="featured-meta">
                 <span><i class="fas fa-${r.type === 'film' ? 'film' : 'tv'}"></i> ${r.type === 'film' ? 'Film' : 'Series'} &middot; ${esc(r.platform)}</span>
                 <span><i class="fas fa-calendar"></i> <time datetime="${r.date}" itemprop="datePublished">${formatDate(r.date)}</time></span>
-                <span><i class="fas fa-user-edit"></i> Analyzed by <span itemprop="author">${esc(r.author)}</span></span>
+                <span><i class="fas fa-user-edit"></i> Analyzed by <span itemprop="author">Debra Ducane</span></span>
                 <span><i class="fas fa-clock"></i> ${esc(r.readTime)} read</span>
               </div>
             </div>
