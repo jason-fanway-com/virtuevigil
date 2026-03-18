@@ -1,8 +1,8 @@
 const https = require('https');
 const querystring = require('querystring');
 
-const CLIENT_KEY = 'awyugert3kqgusxc';
-const CLIENT_SECRET = 'IYoPmIotMHhc37pswoG8HNQSftMtM9bC';
+const CLIENT_KEY = 'sbawacl1zb3lecmz93';
+const CLIENT_SECRET = 'r2OIRUbsXfPvebhVDNjdbuD5SQE5Y55x';
 const REDIRECT_URI = 'https://virtuevigil.com/tiktok/callback';
 
 exports.handler = async (event) => {
@@ -12,7 +12,7 @@ exports.handler = async (event) => {
   // Authorize — redirect to TikTok
   if (action === 'authorize') {
     const state = Math.random().toString(36).substring(2);
-    const authUrl = `https://www.tiktok.com/v2/auth/authorize/?client_key=${CLIENT_KEY}&scope=video.upload,video.publish,user.info.basic&response_type=code&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&state=${state}`;
+    const authUrl = `https://www.tiktok.com/v2/auth/authorize/?client_key=${CLIENT_KEY}&scope=video.upload,user.info.basic&response_type=code&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&state=${state}`;
     return { statusCode: 302, headers: { Location: authUrl }, body: '' };
   }
 
