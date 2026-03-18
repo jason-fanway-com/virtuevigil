@@ -49,15 +49,15 @@
   [headers.values]
     X-Robots-Tag = "noindex, nofollow"
 
-# TikTok demo proxy
+# TikTok OAuth demo routes
 [[redirects]]
-  from = "/tiktok/*"
-  to = "https://slot-alliance-oct-alternatives.trycloudflare.com/tiktok/:splat"
+  from = "/tiktok/authorize"
+  to = "/.netlify/functions/tiktok-oauth/authorize"
   status = 200
   force = true
 
 [[redirects]]
-  from = "/tiktok"
-  to = "https://slot-alliance-oct-alternatives.trycloudflare.com/"
+  from = "/tiktok/callback"
+  to = "/.netlify/functions/tiktok-oauth/callback"
   status = 200
   force = true
