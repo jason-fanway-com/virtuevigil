@@ -132,6 +132,18 @@
     "poster": "/images/posters/shawshank-redemption-1994.jpg"
   },
   {
+    "slug": "jurassic-park-1993",
+    "title": "Jurassic Park",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Universal Pictures / Amblin Entertainment)",
+    "genre": "Science Fiction, Adventure, Thriller",
+    "year": 1993,
+    "type": "film",
+    "wokeScore": 5.2,
+    "tradScore": 9.94,
+    "poster": "/images/posters/jurassic-park-1993.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",

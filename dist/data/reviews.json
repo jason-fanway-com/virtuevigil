@@ -73526,5 +73526,252 @@
       "classic movies conservative review",
       "shawshank redemption traditional or woke"
     ]
+  },
+  {
+    "id": "jurassic-park-1993",
+    "slug": "jurassic-park-1993",
+    "title": "Jurassic Park",
+    "year": 1993,
+    "type": "film",
+    "platform": "Theatrical (Universal Pictures / Amblin Entertainment)",
+    "genre": "Science Fiction, Adventure, Thriller",
+    "date": "2026-03-18",
+    "author": "Debra Ducane",
+    "readTime": "12 min",
+    "poster": "/images/posters/jurassic-park-1993.jpg",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 5.2,
+    "tradScore": 9.94,
+    "authIndex": 85,
+    "scoreMargin": "+5 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Not a woke trap. Jurassic Park is a cautionary tale about unchecked hubris wearing the costume of a summer blockbuster. Its ideological content is legible from the trailer: a billionaire builds a dinosaur theme park, ignores the scientists who tell him it will fail, and people get eaten. The film's critique of corporate arrogance and unchecked scientific ambition is present from the opening act and never hidden. There is no bait-and-switch. What you see is what you get, and what you get is one of the most purely entertaining films ever made."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Steven Spielberg",
+        "ideology": "CENTER-LEFT (Humanist filmmaker with strong family and survival themes)",
+        "profile": "Steven Spielberg is the most commercially successful director in Hollywood history and one of its most technically gifted. His filmography spans Jaws, Close Encounters of the Third Kind, Raiders of the Lost Ark, E.T., Schindler's List, Saving Private Ryan, Munich, Lincoln, and Bridge of Spies. He is a filmmaker whose politics are center-left and whose instincts are populist: he wants audiences to feel something real, and he builds his films around the experience of ordinary people confronting extraordinary circumstances. Jurassic Park is Spielberg operating at the top of his technical game. He pioneered the digital visual effects that would define the next three decades of blockbuster filmmaking and wrapped them around a tightly paced survival thriller that remains as effective in 2026 as it was in 1993. The T. rex kitchen sequence is as good as blockbuster filmmaking gets."
+      },
+      "writer": {
+        "name": "Michael Crichton, David Koepp (screenplay)",
+        "profile": "Michael Crichton's 1990 novel is one of the most successful science thrillers ever written, a cautionary tale about genetic engineering and corporate hubris delivered through the vehicle of dinosaurs. Crichton co-wrote the screenplay with David Koepp, who simplified and streamlined the novel's more academic arguments into a propulsive action narrative. Koepp removed much of the novel's extended chaos theory exposition and condensed the Malcolm-Sattler-Hammond dynamic. The most significant change is the character of Grant: in the novel he dislikes children; the film gives him an arc of learning to care for Hammond's grandchildren, which adds warmth without undermining the thriller mechanics. Koepp has since written screenplays for Mission: Impossible, Snake Eyes, Spider-Man (2002), War of the Worlds, and Angels and Demons."
+      },
+      "lead_producer": {
+        "name": "Kathleen Kennedy, Gerald R. Molen",
+        "company": "Universal Pictures / Amblin Entertainment"
+      },
+      "composer": {
+        "name": "John Williams",
+        "profile": "John Williams's Jurassic Park score is among his most recognizable, which is extraordinary given a filmography that includes Star Wars, Jaws, Indiana Jones, Schindler's List, E.T., Superman, and Harry Potter. The main theme, a sweeping brass-and-strings fanfare, captures the genuine wonder of the film's best sequences: the first brachiosaurus sighting, the pelican silhouette against the sunset, the long helicopter approach to Isla Nublar. Williams understood that the film's emotional core was not horror but awe, and scored it accordingly. The contrast between the majestic theme and the percussive, pounding music of the action sequences is calibrated perfectly."
+      },
+      "top_cast": [
+        {
+          "name": "Sam Neill",
+          "role": "Dr. Alan Grant"
+        },
+        {
+          "name": "Laura Dern",
+          "role": "Dr. Ellie Sattler"
+        },
+        {
+          "name": "Jeff Goldblum",
+          "role": "Dr. Ian Malcolm"
+        },
+        {
+          "name": "Richard Attenborough",
+          "role": "John Hammond"
+        },
+        {
+          "name": "Ariana Richards",
+          "role": "Lex Murphy"
+        },
+        {
+          "name": "Joseph Mazzello",
+          "role": "Tim Murphy"
+        }
+      ],
+      "producers": [
+        {
+          "name": "Kathleen Kennedy",
+          "company": "Amblin Entertainment",
+          "profile": "Kennedy produced multiple Spielberg films before becoming President of Lucasfilm in 2012 and overseeing the Disney-era Star Wars films. On Jurassic Park she was a producer in the traditional Spielberg-Amblin mold: logistically expert, creatively supportive, commercially focused."
+        },
+        {
+          "name": "Gerald R. Molen",
+          "company": "Amblin Entertainment",
+          "profile": "Molen also produced Schindler's List the same year, which gives 1993 a unique claim as perhaps the most important year in Spielberg's career. Known as a reliable and low-profile production professional."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Sam Neill",
+          "role": "Dr. Alan Grant"
+        },
+        {
+          "name": "Laura Dern",
+          "role": "Dr. Ellie Sattler"
+        },
+        {
+          "name": "Jeff Goldblum",
+          "role": "Dr. Ian Malcolm"
+        },
+        {
+          "name": "Richard Attenborough",
+          "role": "John Hammond"
+        },
+        {
+          "name": "Ariana Richards",
+          "role": "Lex Murphy"
+        },
+        {
+          "name": "Joseph Mazzello",
+          "role": "Tim Murphy"
+        },
+        {
+          "name": "Bob Peck",
+          "role": "Robert Muldoon"
+        },
+        {
+          "name": "Martin Ferrero",
+          "role": "Donald Gennaro"
+        },
+        {
+          "name": "BD Wong",
+          "role": "Dr. Henry Wu"
+        },
+        {
+          "name": "Wayne Knight",
+          "role": "Dennis Nedry"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL LEAN",
+        "confidence": "high"
+      }
+    },
+    "fidelityCasting": {
+      "sourceType": "Novel",
+      "sourceTitle": "Jurassic Park (1990) by Michael Crichton",
+      "assessment": "The film casting is largely faithful to Crichton's novel. Sam Neill's Grant and Laura Dern's Sattler match their descriptions closely. Jeff Goldblum's Ian Malcolm is significantly warmer and more charismatic than the novel's Malcolm, who is a fairly unpleasant intellectual. Richard Attenborough's Hammond is also substantially rewritten: Crichton's Hammond is a cynical, manipulative businessman who feels no genuine remorse for the park's failures; Attenborough's version is a warm, well-meaning eccentric whose tragedy is the gap between good intentions and catastrophic hubris. These character revisions are narrative choices that soften the novel's darker edges for a family audience, not identity or political revisions. No race-swapping, no political agenda in the casting. BD Wong's Dr. Wu is cast faithfully. The casting is professionally appropriate throughout."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 92,
+      "rottenTomatoesAudience": 92,
+      "imdb": 8.2,
+      "metacritic": 68,
+      "oscarNominations": 3,
+      "oscarCategories": "Best Sound Editing (Won), Best Sound Mixing (Won), Best Visual Effects (Won)",
+      "budget": "$63M",
+      "theatricalBoxOffice": "$1.029B worldwide (1993 release)"
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Intense science fiction terror",
+      "recommendedAge": "10+",
+      "contentWarnings": [
+        "A park worker is dragged into a velociraptor cage and killed in the opening scene (shown obliquely but clearly)",
+        "The T. rex attack on the tour vehicle is prolonged, intense, and includes a man being eaten off a toilet",
+        "Velociraptors hunt children through a kitchen in an extended sequence designed to maximize tension",
+        "A character is electrocuted on a fence (shown to survive)",
+        "Dennis Nedry is killed by a dilophosaurus in a genuinely frightening sequence",
+        "A goat is eaten by the T. rex off-screen; its leg lands on the tour vehicle",
+        "Robert Muldoon is stalked and killed by velociraptors ('Clever girl')",
+        "Brief mild language",
+        "Themes of scientific ethics, genetic manipulation, and the consequences of playing God"
+      ],
+      "guidance": "Rated PG-13. Jurassic Park's rating has always been a point of debate: by modern standards it might rate higher. The dinosaur attack sequences are genuinely frightening, especially the raptor-in-the-kitchen sequence, which is one of the most effectively tense monster-movie set pieces in cinema history. Sensitive children under 10 will likely be frightened. Children 10 and up who enjoy adventure films should handle it well. Parents should be aware that the film's villain is corporate arrogance: John Hammond is not a bad man but his refusal to listen to the scientists who warn him produces catastrophe. This is a useful conversation for families about the limits of enthusiasm, the importance of expert advice, and the difference between 'we can' and 'we should.' The film is also an outstanding advertisement for the wonder of natural history: the first brachiosaurus scene has inspired more kids to love dinosaurs and paleontology than any other single film in history."
+    },
+    "summary": {
+      "overall": "There is a moment in Jurassic Park that I have never fully recovered from. Alan Grant is sitting in a tree with two children he barely knows, watching a brachiosaurus eat leaves in the moonlight. He has spent his career studying fossils, remnants, absence. And now here is the living thing, enormous and gentle and alive, eating leaves in the moonlight thirty feet away. He watches it with an expression that is not triumph or vindication but something quieter. Awe, maybe. Or the recognition that the world is much larger than any of our ideas about it.\n\nSteven Spielberg made dozens of technically superior films. Jurassic Park may not be his best. But it is the film where his sense of wonder is most purely distilled. The first brachiosaurus reveal is still the most effective deployment of practical-to-digital filmmaking transition in cinema history. Spielberg held back from showing the dinosaurs for the first twenty minutes, built the tension through reactions and sounds and partial glimpses, and then opened the frame to one of the most breathtaking images audiences had ever seen on a movie screen. People in theaters in 1993 reportedly burst into applause. Watching it now, even knowing exactly what is coming, the sequence still works. That is the mark of filmmaking that operates at a different level.\n\nThe film's premise comes from Michael Crichton's novel, which is fundamentally a critique of corporate hubris and scientific arrogance. John Hammond has built a dinosaur theme park. The scientists he has hired tell him it is not ready. He ignores them because he has investors to satisfy and a vision to fulfill. Ian Malcolm, the chaos theoretician played by Jeff Goldblum with a brilliance that made him a movie star, articulates the thesis directly: 'Life finds a way.' Hammond's failure is not incompetence. It is the failure to respect what he does not control. The dinosaurs are not malevolent. They are animals doing what animals do. The park's designers tried to anticipate everything and missed the one thing they could not anticipate: the irreducible complexity of life itself.\n\nThis is a conservative critique wearing a liberal film's clothes. The argument is not that genetic engineering is wrong because it violates nature's rights. It is that human beings are systematically bad at predicting the consequences of their own innovations, that hubris kills, and that the appropriate response to discovering how to do something unprecedented is caution rather than acceleration. Malcolm's chaos theory speeches are sometimes treated as the film's intellectual content but their dramatic function is simpler: they are the voice of the man who knew what would happen before it happened, and who could not make anyone listen. That is a warning about the dangers of ignoring expertise that applies far beyond dinosaur parks.\n\nThe action sequences are impeccably constructed. The T. rex attack in the rain is a masterclass in building and sustaining tension with geography. The raptor kitchen sequence is as good as anything Spielberg has ever directed: two children, a tiled kitchen, three animals that are smarter than they look, and eight minutes that feel like they last an hour. The raptors in Jurassic Park are not monsters in the traditional sense. They are predators. They are not trying to scare you. They are hunting. The distinction gives the film its most effective horror.\n\nThe character work is thinner than Spielberg's best, but not dismissible. Grant's arc from man-who-dislikes-children to man-who-has-protected-two-children-through-a-dinosaur-attack is not subtle, but it is earned. Richard Attenborough's Hammond is the film's saddest figure: a man who loves his grandchildren, loves his creation, and cannot admit until the very end that his love for the idea overwhelmed his judgment about the reality. His line in the final act, 'I don't blame the people who came here. I blame myself,' is as close to genuine reckoning as the film allows him. It is enough.\n\nJurassic Park grossed over one billion dollars worldwide in 1993 on a $63 million budget and permanently changed blockbuster filmmaking. The digital dinosaurs look, by modern standards, occasionally artificial. But the sequences built around them do not. Spielberg understood that the CGI was a tool for creating wonder, not a substitute for filmmaking craft. Every digital dinosaur shot is set up by practical elements: sound design, actor reactions, environmental cues. The technology serves the story. The story is still there after thirty years. That is the difference between Jurassic Park and most of what followed it.",
+      "oneLiner": "Spielberg's masterwork of wonder and tension. A cautionary tale about hubris wrapped in the most effective monster movie blockbuster of the 1990s. John Williams's score alone is worth the runtime.",
+      "verdict": "Jurassic Park scores TRADITIONAL LEAN (+5 TRAD). The film's portrait of responsible fatherhood, awe at the natural order, and cautionary message about unchecked hubris all lean traditional. The critique of corporate capitalism and unchecked scientific ambition pulls in the other direction but does not overwhelm the film's humanist and wonder-driven core.",
+      "adultInsight": "Conservative adults who want to introduce children to classic blockbusters could do worse than to start here. The film's implicit argument, that some things should not be done simply because we have learned to do them, is not a progressive argument. It is a deeply conservative one. Restraint, respect for limits, and the recognition that human ingenuity does not automatically confer the right to act: these are traditional values. The film also rewards discussion about the difference between innovation and wisdom, and between a man's vision and the people he is responsible for. Hammond is not a villain. He is a cautionary portrait of what enthusiasm without humility produces."
+    },
+    "tropeAudit": [
+      {
+        "trope": "Reluctant Fatherhood and Child Protection as Growth",
+        "id": "TRADITIONAL-045",
+        "category": "TRADITIONAL",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "location": "Grant's arc from man-who-explicitly-dislikes-children to man-who-has-risked-his-life-repeatedly-to-protect-Hammond's-grandchildren. The film treats this growth as genuinely earned.",
+        "authenticity_note": "High. Neill's performance grounds what could be a cliched arc in genuine feeling."
+      },
+      {
+        "trope": "Awe at Natural Order and Limits of Human Control",
+        "id": "TRADITIONAL-052",
+        "category": "TRADITIONAL",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "location": "The brachiosaurus reveal, Malcolm's chaos theory arguments, the velociraptors breeding when Hammond's team designed them not to. Nature is not defeated. It adapts. The film treats this as a lesson in humility.",
+        "authenticity_note": "High. This is the film's thesis and it is delivered without condescension."
+      },
+      {
+        "trope": "Male Heroism and Physical Courage",
+        "id": "TRADITIONAL-011",
+        "category": "TRADITIONAL",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "location": "Grant's repeated physical bravery in protecting the children: the electrified fence, the T. rex attack, the raptor encounters. Muldoon's 'Clever girl' death is a portrait of a man who faces danger without flinching.",
+        "authenticity_note": "High. The film treats physical courage in men as unambiguously admirable."
+      },
+      {
+        "trope": "Corporate Hubris and Profit Motive as Danger",
+        "id": "WOKE-036",
+        "category": "WOKE",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "location": "Hammond's investor pressure, the cost-cutting that led to insufficient security, Nedry's corporate espionage for a competing biotech firm. The film frames profit motive as the root cause of the park's failure.",
+        "authenticity_note": "High. This is Crichton's central argument and the film preserves it."
+      },
+      {
+        "trope": "Unchecked Scientific Ambition as Threat",
+        "id": "WOKE-022",
+        "category": "WOKE",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "location": "The entire premise. The scientists who clone dinosaurs do so because they can, not because they should. Malcolm's function is to articulate why this distinction matters.",
+        "authenticity_note": "High. The film does not position science itself as evil, but it takes the 'should we' question seriously."
+      },
+      {
+        "trope": "Female Scientist in Male-Dominated Setting",
+        "id": "WOKE-007",
+        "category": "WOKE",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.0,
+        "location": "Ellie Sattler (Laura Dern) is competent, credentialed, and takes equal risk with the men. She restores the park's power while Grant protects the children. There is a brief exchange where Hammond assumes she should stay behind and she corrects him.",
+        "authenticity_note": "Moderate. The characterization is authentic but the film does not build a gender-politics argument around Sattler; she simply exists as a capable scientist."
+      }
+    ],
+    "seoTitle": "Is Jurassic Park Woke? | VirtueVigil Review",
+    "seoDescription": "VirtueVigil reviews Jurassic Park (1993). Our VVWS scoring finds +5 TRAD. Spielberg's blockbuster masterpiece scores TRADITIONAL LEAN for its portrait of fatherhood, awe at natural order, and cautionary message about unchecked hubris.",
+    "seoKeywords": [
+      "is jurassic park woke",
+      "jurassic park conservative review",
+      "jurassic park traditional values",
+      "jurassic park 1993 review",
+      "jurassic park woke score",
+      "spielberg jurassic park values",
+      "jurassic park hubris nature",
+      "jurassic park virtuevigil",
+      "classic movies conservative review",
+      "jurassic park traditional or woke"
+    ]
   }
 ]
