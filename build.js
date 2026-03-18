@@ -3170,6 +3170,191 @@ function build() {
 </article>`
   }));
 
+  writePage('lists/disney-woke-movies-ranked/index.html', buildListiclePage({
+    slug: 'disney-woke-movies-ranked',
+    title: 'Is Disney Going Woke? 10 Disney Movies Scored',
+    description: 'We ran 10 Disney movies through VirtueVigil\'s scoring system. The results show a clear trend. Here\'s what we found.',
+    canonicalPath: 'lists/disney-woke-movies-ranked',
+    publishDate: '2026-03-18',
+    htmlContent: `<article class="listicle-article">
+
+<p>Disney built its empire on stories families could share across generations. Snow White. The Lion King. Fantasia. Films that earned their place in cultural memory because they told universal truths without an agenda attached. I grew up with those movies, and so did my kids. Then something shifted. Somewhere around 2019, the films coming out of Disney, Pixar, and the MCU started to feel different. Not worse in every case, but different in a way that is hard to ignore once you notice it. We decided to stop noticing and start measuring.</p>
+
+<p>I ran 10 Disney-produced films through VirtueVigil's VVWS dual-scoring system, which measures woke content density and traditional values content separately. The results confirmed what many families already suspected: Disney's ideological lean has intensified dramatically since 2019. The data below tells the story better than any op-ed could. These are real scores from real reviews, not vibes. Ranked by woke score from highest to lowest, here is exactly where Disney stands.</p>
+
+<hr>
+
+<h2>#1 &mdash; <a href="/reviews/strange-world-2022/">Strange World (2022)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge woke">WOKE</span>
+  <span class="mini-score woke">WOKE: 27.5</span>
+  <span class="mini-score trad">TRAD: 12.32</span>
+  <span class="mini-score" style="color:var(--accent-red);">MARGIN: -15 WOKE</span>
+</div>
+
+<p><strong>Woke Trap: YES</strong></p>
+
+<p>Strange World is the film where Disney dropped all pretense. A $180 million animated feature built around two overt agendas: an anti-fossil-fuel environmental allegory and Disney's first openly gay animated lead character. The miracle energy source powering the civilization turns out to be a parasitic infection killing the creature they all live on. Fossil fuel is the parasite. Industrial civilization is the disease. Disney's first openly gay teen protagonist is folded into the story without announcement, which is either honest representation or a calculated attempt to avoid triggering parental scrutiny before the purchase decision is made. The film lost an estimated $197 million. Whatever the intent, families deserve to know what is in it before they sit down.</p>
+
+<p><a href="/reviews/strange-world-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Strange World</a></p>
+
+<hr>
+
+<h2>#2 &mdash; <a href="/reviews/mulan-2020/">Mulan (2020)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge woke">WOKE LEAN</span>
+  <span class="mini-score woke">WOKE: 20.78</span>
+  <span class="mini-score trad">TRAD: 17.64</span>
+  <span class="mini-score" style="color:var(--accent-red);">MARGIN: -3 WOKE</span>
+</div>
+
+<p><strong>Woke Trap: YES</strong></p>
+
+<p>The live-action Mulan stripped out the romance, the songs, and the humor from the beloved 1998 original and replaced them with a feminist empowerment framework and a loyalty-to-self thesis that undercuts the story's original message. The original Mulan sacrificed herself for family and country, then earned recognition through demonstrated merit. The 2020 version positions those same values as a cage to break free from. Disney also filmed it in Xinjiang and thanked the local government agencies overseeing the Uyghur detention camps in the closing credits. A woke trap that managed to alienate conservative and progressive audiences simultaneously.</p>
+
+<p><a href="/reviews/mulan-2020/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mulan</a></p>
+
+<hr>
+
+<h2>#3 &mdash; <a href="/reviews/captain-marvel-2019/">Captain Marvel (2019)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge woke">WOKE</span>
+  <span class="mini-score woke">WOKE: 19.44</span>
+  <span class="mini-score trad">TRAD: 3.25</span>
+  <span class="mini-score" style="color:var(--accent-red);">MARGIN: -16 WOKE</span>
+</div>
+
+<p><strong>Woke Trap: YES</strong></p>
+
+<p>The MCU's most deliberately ideological film. Released on International Women's Day 2019. Directed by a female co-director by explicit studio design. Scored with No Doubt's "Just a Girl" during a key empowerment sequence. Every male authority figure in the film is a manipulator or an oppressor. The Kree military is coded as a patriarchal control structure. The refugee allegory involving the Skrulls is unambiguous and contemporary in its framing. Traditional Score: 3.25, the lowest in this entire list. This film was not hiding what it was, but the MCU brand gave it a built-in family audience that might not have bought a ticket to a standalone feminist superhero film by an unknown director.</p>
+
+<p><a href="/reviews/captain-marvel-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain Marvel</a></p>
+
+<hr>
+
+<h2>#4 &mdash; <a href="/reviews/turning-red-2022/">Turning Red (2022)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge woke">WOKE</span>
+  <span class="mini-score woke">WOKE: 17.85</span>
+  <span class="mini-score trad">TRAD: 4.55</span>
+  <span class="mini-score" style="color:var(--accent-red);">MARGIN: -13 WOKE</span>
+</div>
+
+<p><strong>Woke Trap: YES</strong></p>
+
+<p>Pixar's Turning Red uses a puberty metaphor with precision: a 13-year-old girl transforms into a giant red panda whenever she experiences strong emotions, and the film's central thesis is that she should embrace these changes rather than suppress them to please her traditional Chinese-Canadian mother. The film frames the mother's cultural conservatism as the actual problem. Director Domee Shi confirmed in interviews that the red panda transformation is an explicit puberty and bodily autonomy metaphor. Parents expecting a fun animated animal adventure are getting a film about adolescent self-liberation from parental authority. The 4.55 traditional score is the second lowest on this list.</p>
+
+<p><a href="/reviews/turning-red-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Turning Red</a></p>
+
+<hr>
+
+<h2>#5 &mdash; <a href="/reviews/wish-2023/">Wish (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge woke">WOKE LEAN</span>
+  <span class="mini-score woke">WOKE: 17.45</span>
+  <span class="mini-score trad">TRAD: 11.9</span>
+  <span class="mini-score" style="color:var(--accent-red);">MARGIN: -6 WOKE</span>
+</div>
+
+<p><strong>Woke Trap: YES</strong></p>
+
+<p>Disney's centennial celebration cost $200 million and left audiences cold. Wish takes the studio's foundational mythology, wishing upon a star, and reframes it as a story about a benevolent authority figure secretly hoarding power over his subjects' dreams. The king who grants wishes turns out to be the villain: a controlling patriarch who decides which dreams are worthy and which should be suppressed. Asha's rebellion is coded as liberation from systemic control. The anti-institution framing runs through the entire second half. Disney spent $200 million to make a film arguing that the people in charge of your wishes cannot be trusted. The irony of that message coming from Disney is either lost on the studio or intentional.</p>
+
+<p><a href="/reviews/wish-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wish</a></p>
+
+<hr>
+
+<h2>#6 &mdash; <a href="/reviews/black-widow-2021/">Black Widow (2021)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge woke">WOKE LEAN</span>
+  <span class="mini-score woke">WOKE: 16.95</span>
+  <span class="mini-score trad">TRAD: 12.13</span>
+  <span class="mini-score" style="color:var(--accent-red);">MARGIN: -5 WOKE</span>
+</div>
+
+<p><strong>Woke Trap: YES</strong></p>
+
+<p>MCU Phase Four opened with a film about a program that forcibly sterilizes girls and converts them into weaponized government assassins. The Red Room storyline frames the entire film as a feminist revenge narrative. Florence Pugh as Yelena Belova is the film's genuine bright spot: funny, emotionally raw, and the source of the only real traditional warmth in the movie (the fake family dinner scene works because Pugh makes it work). The film's central message, that institutional power over women's bodies requires violent dismantling, is delivered without subtlety. Parents who thought they were watching a spy thriller should know what the thematic spine actually is.</p>
+
+<p><a href="/reviews/black-widow-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Widow</a></p>
+
+<hr>
+
+<h2>#7 &mdash; <a href="/reviews/encanto-2021/">Encanto (2021)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 18.27</span>
+  <span class="mini-score woke">WOKE: 8.68</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +10 TRAD</span>
+</div>
+
+<p>Encanto is the exception that proves the rule. Disney Animation made a film about family trauma, generational pressure, and the weight of impossible expectations, and it lands on genuinely traditional ground. The family survives not by rejecting their heritage but by rebuilding trust across generations. Abuela Alma's arc is the moral center of the film, and the story treats her controlling behavior as a wound rather than a character flaw to be mocked. She is forgiven. The family reconciles. The magic returns because the bonds are repaired. That is a conservative family values story told beautifully. One of the best Disney films in a decade, and proof that the studio can still do this when it tries.</p>
+
+<p><a href="/reviews/encanto-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Encanto</a></p>
+
+<hr>
+
+<h2>#8 &mdash; <a href="/reviews/avengers-endgame-2019/">Avengers: Endgame (2019)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge mixed">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 13.65</span>
+  <span class="mini-score woke">WOKE: 10.54</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +3 TRAD</span>
+</div>
+
+<p>The highest-grossing film of all time works because it earns every emotional payoff through sacrifice, love, and responsibility. Tony Stark's arc from self-centered billionaire to self-sacrificing father is one of cinema's most traditionally conservative character journeys: a man who discovers that protecting his family and his world matters more than his own survival. The film has woke content, a brief gay moment added by director Joe Russo, an all-female battle sequence that pauses the action for an applause beat, but the overall moral framework is sacrifice, duty, and family. The score reflects the balance. The heart of the film is unmistakably traditional.</p>
+
+<p><a href="/reviews/avengers-endgame-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avengers: Endgame</a></p>
+
+<hr>
+
+<h2>#9 &mdash; <a href="/reviews/avengers-infinity-war-2018/">Avengers: Infinity War (2018)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 16.8</span>
+  <span class="mini-score woke">WOKE: 2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +15 TRAD</span>
+</div>
+
+<p>The MCU's best film is also its most traditionally weighted. Thanos wins because he treats individual lives as expendable in service of a utilitarian ideology. Every hero who resists him does so because they value specific people they love over abstract philosophical frameworks. Wanda will not let Vision sacrifice himself. Thor refuses to stop mourning his brother. Doctor Strange will not surrender the Time Stone until the very last moment. The heroes lose because they love people too much to treat them as variables in an equation. That is a conservative moral argument made through blockbuster filmmaking, and it is devastating precisely because the film commits to it fully.</p>
+
+<p><a href="/reviews/avengers-infinity-war-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avengers: Infinity War</a></p>
+
+<hr>
+
+<h2>#10 &mdash; <a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home (2021)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22.05</span>
+  <span class="mini-score woke">WOKE: 3.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19 TRAD</span>
+</div>
+
+<p>The highest traditional score on this list, and the best Disney-affiliated film here by that measure. Spider-Man: No Way Home is a story about sacrifice, responsibility, and the genuine cost of doing the right thing. Peter Parker loses his identity, his girlfriend's memory, his aunt, and his place in the world because he chooses to save five villains from deaths they deserve rather than send them back to die. The film treats that choice as heroic without softening what it costs him. "With great power comes great responsibility" is the most conservative thesis in superhero cinema, and this film is the fullest expression of it. A Woke Score of 3.5 makes it one of the cleanest entries in the entire MCU catalog.</p>
+
+<p><a href="/reviews/spider-man-no-way-home-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: No Way Home</a></p>
+
+<hr>
+
+<h2>The Verdict</h2>
+
+<p>The data points in one direction. Disney made traditionally-scored films in 2018 and 2021 when its filmmakers told stories first and delivered messages second. It made its worst-scoring films in 2022 and 2023 when ideology came before story. Strange World, Turning Red, and Captain Marvel are not low-scoring because they have progressive politics. They score the way they do because the politics are the architecture, not the backdrop. Encanto and the Infinity War films work because the story carries the message instead of the message carrying the story. If you want to know whether Disney is going woke, these numbers are your answer. Browse VirtueVigil's full Disney and Marvel catalog to see every score for yourself and decide what your family watches with eyes open.</p>
+
+<p><a href="/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Browse all VirtueVigil reviews</a></p>
+
+</article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
