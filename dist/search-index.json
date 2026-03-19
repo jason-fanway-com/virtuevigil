@@ -156,6 +156,18 @@
     "poster": "/images/posters/hacksaw-ridge-2016.jpg"
   },
   {
+    "slug": "the-patriot-2000",
+    "title": "The Patriot",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "War / Historical / Action",
+    "year": 2000,
+    "type": "film",
+    "wokeScore": 2.7,
+    "tradScore": 24.64,
+    "poster": "/images/posters/the-patriot-2000.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
