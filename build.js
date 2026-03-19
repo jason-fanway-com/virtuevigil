@@ -3765,6 +3765,317 @@ function build() {
 </style>`
   }));
 
+  writePage('lists/marvel-movies-traditional-values/index.html', buildListiclePage({
+    slug: 'marvel-movies-traditional-values',
+    title: 'Every Marvel Movie Ranked by Traditional Values Score',
+    description: 'We scored every Marvel Cinematic Universe movie for traditional values. From the most patriotic to the most woke, here is the complete MCU ranking.',
+    canonicalPath: 'lists/marvel-movies-traditional-values',
+    publishDate: '2026-03-18',
+    htmlContent: `<article class="listicle">
+  <div class="listicle-intro">
+    <p>The Marvel Cinematic Universe has produced over two dozen films across nearly two decades, and not all of them are created equal from a traditional values standpoint. VirtueVigil scored every MCU entry using our Woke-Watch Scoring System, weighing themes of sacrifice, family, duty, faith, individual conscience, and moral clarity against progressive ideology, identity politics, and anti-authority messaging. The results reveal a franchise that started strong, drifted badly in the middle years, and has never fully recovered from its Phase Four collapse.</p>
+    <p>The spread is wider than you might expect. At the top sits a Spider-Man film with a +19 TRAD margin that will genuinely make you cry. At the bottom sits a film that scored the franchise's worst woke number and bored audiences to a 47% on Rotten Tomatoes. What separates the great MCU films from the failures is almost always the same thing: the best ones tell stories about sacrifice, duty, and love. The worst ones treat the audience as a demographic to lecture. Here is every MCU film we have reviewed, ranked from most traditional to most woke.</p>
+  </div>
+
+  <ol class="listicle-items">
+
+    <li class="listicle-item">
+      <div class="listicle-rank">1</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+19 TRAD</span>
+        </div>
+        <p>The highest-scoring MCU film in our system earns it through relentless sacrifice. Peter Parker loses everything, and the film treats that loss with genuine moral weight rather than reversing it cheaply. No woke messaging, no identity lectures, just a young man choosing responsibility over his own happiness.</p>
+        <a href="/reviews/spider-man-no-way-home-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">2</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/guardians-of-the-galaxy-2014/">Guardians of the Galaxy (2014)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+15 TRAD</span>
+        </div>
+        <p>The best MCU origin film is also the most traditionally coded. Redemption arcs, sacrificial love, found family built on genuine need rather than identity politics, and a mother's legacy honored across 26 years of grief. Groot's sacrifice alone earns it the traditional verdict.</p>
+        <a href="/reviews/guardians-of-the-galaxy-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">3</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/avengers-infinity-war-2018/">Avengers: Infinity War (2018)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+15 TRAD</span>
+        </div>
+        <p>The MCU's best film is also its most traditionally weighted. Thanos wins by treating lives as expendable numbers. The heroes lose because they refuse to do the same. That is a conservative moral framework told with devastating emotional force.</p>
+        <a href="/reviews/avengers-infinity-war-2018/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">4</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/avengers-doomsday-2026/">Avengers: Doomsday (2026)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+14 TRAD</span>
+        </div>
+        <p>The Russo Brothers return with Robert Downey Jr. as Doctor Doom. A story about heroic unity defeating a brilliant tyrant who wants to remake the world by force sits firmly in traditional values territory. Pre-release review based on available materials.</p>
+        <a href="/reviews/avengers-doomsday-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">5</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/guardians-of-the-galaxy-vol-3-2023/">Guardians of the Galaxy Vol. 3 (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+          <span class="score-badge">+9 TRAD</span>
+        </div>
+        <p>James Gunn's farewell to the franchise he built is the rarest thing in Phase Five: a movie that earns its emotions without lecturing its audience. The ethics of creation, the dignity of broken things, and found family treated as real rather than decorative.</p>
+        <a href="/reviews/guardians-of-the-galaxy-vol-3-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">6</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/shang-chi-2021/">Shang-Chi and the Legend of the Ten Rings (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+          <span class="score-badge">+9 TRAD</span>
+        </div>
+        <p>The most pleasant surprise in the MCU's representation era. Where many expected a diversity lecture, the film delivered a deeply traditional family drama with spectacular fight choreography drawing from Chinese culture with genuine reverence. Filial duty and paternal redemption drive the story.</p>
+        <a href="/reviews/shang-chi-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">7</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/iron-man-2008/">Iron Man (2008)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+          <span class="score-badge">+9 TRAD</span>
+        </div>
+        <p>The film that started the MCU holds up as one of its most traditionally grounded entries. Tony Stark's arc from self-serving weapons dealer to self-sacrificing defender is classic hero mythology told without apology. Robert Downey Jr. makes it look effortless.</p>
+        <a href="/reviews/iron-man-2008/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">8</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/doctor-strange-2016/">Doctor Strange (2016)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+          <span class="score-badge">+9 TRAD</span>
+        </div>
+        <p>A superhero origin story with genuine moral seriousness, directed by a Christian filmmaker who understood that magic requires metaphysics. The ego-to-humility arc is classical, the sacrifice climax is earned, and Scott Derrickson's worldview gives the film real weight.</p>
+        <a href="/reviews/doctor-strange-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">9</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/captain-america-civil-war-2016/">Captain America: Civil War (2016)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+          <span class="score-badge">+8 TRAD</span>
+        </div>
+        <p>The MCU's most politically sophisticated film lands firmly on the side of individual conscience over government authority. Steve Rogers does not sign. The Sokovia Accords lose the argument. Masculine friendship is treated as a genuine moral foundation worth defending.</p>
+        <a href="/reviews/captain-america-civil-war-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">10</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/thor-ragnarok-2017/">Thor: Ragnarok (2017)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+          <span class="score-badge">+7 TRAD</span>
+        </div>
+        <p>More traditional than it looks under the neon and jokes. Thor's arc toward genuine leadership, Heimdall's quiet heroism, and Loki's reluctant loyalty all earn traditional points. Taika Waititi's style creates some woke drag, but the story's core is about protecting your people when the old world is gone.</p>
+        <a href="/reviews/thor-ragnarok-2017/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">11</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/avengers-endgame-2019/">Avengers: Endgame (2019)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+          <span class="score-badge">+3 TRAD</span>
+        </div>
+        <p>22 films of investment cashed in over 181 minutes. Tony Stark's sacrifice is the franchise at its moral peak. The infamous all-female hero moment and some progressive casting choices drag the score, but the ending remains one of the most emotionally resonant sequences in blockbuster history.</p>
+        <a href="/reviews/avengers-endgame-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">12</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/black-panther-2018/">Black Panther (2018)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge mixed">MIXED</span>
+          <span class="score-badge">+1 TRAD</span>
+        </div>
+        <p>Surprisingly traditional under its cultural weight. T'Challa's story is ultimately about duty, ancestral honor, and choosing his people over personal grievance. The progressive packaging is real and the woke score is elevated, but the film's moral spine is more conservative than most critics acknowledged.</p>
+        <a href="/reviews/black-panther-2018/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">13</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/spider-man-across-the-spider-verse-2023/">Spider-Man: Across the Spider-Verse (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge mixed">MIXED</span>
+          <span class="score-badge">-2 WOKE</span>
+        </div>
+        <p>The most technically ambitious animated film ever made earns that distinction honestly. Its woke lean comes primarily from Miles Morales's rebellion against a predetermined fate, which carries anti-authority undertones. The craftsmanship is undeniable even if the ideology is slightly off.</p>
+        <a href="/reviews/spider-man-across-the-spider-verse-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">14</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/doctor-strange-multiverse-of-madness-2022/">Doctor Strange in the Multiverse of Madness (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-3 WOKE</span>
+        </div>
+        <p>Sam Raimi brings genuine horror craft to the MCU and Elizabeth Olsen delivers a villain performance for the ages. The woke elements center on Wanda's maternal entitlement framed as sympathetic rather than monstrous. Better than most Phase Four output but still a net loss on values.</p>
+        <a href="/reviews/doctor-strange-multiverse-of-madness-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">15</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/captain-america-brave-new-world-2025/">Captain America: Brave New World (2025)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>A deeply confused film that cannot decide whether it wants to be a political thriller, a superhero spectacle, or a meditation on race in America. It tries to be all three and succeeds at none. Sam Wilson is a compelling character who deserved a better script.</p>
+        <a href="/reviews/captain-america-brave-new-world-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">16</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/thor-love-and-thunder-2022/">Thor: Love and Thunder (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>A film at war with itself. Christian Bale's villain Gorr carries a genuinely dark meditation on faith and abandonment, but Waititi buries it under relentless tonal chaos. The gender-swapped Mighty Thor and the overall message that the old institutions have failed drag the score into woke territory.</p>
+        <a href="/reviews/thor-love-and-thunder-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">17</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/ant-man-and-the-wasp-quantumania-2023/">Ant-Man and the Wasp: Quantumania (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>Had one job: introduce Kang the Conqueror as the next Thanos-level threat. It failed at everything except Kang, and then Jonathan Majors' conviction destroyed even that. The Ant-Man charm evaporated in the Quantum Realm and the progressive subtext never earned its screen time.</p>
+        <a href="/reviews/ant-man-and-the-wasp-quantumania-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">18</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/black-widow-2021/">Black Widow (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-5 WOKE</span>
+        </div>
+        <p>Florence Pugh as Yelena Belova is the best thing in it, and nearly salvages the film on her own. The Red Room storyline has genuine emotional stakes. But the anti-male-authority framing, the feminist sisterhood messaging, and the belated origin story structure all push the score left.</p>
+        <a href="/reviews/black-widow-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">19</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/black-panther-wakanda-forever-2022/">Black Panther: Wakanda Forever (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-6 WOKE</span>
+        </div>
+        <p>A genuine grief film trapped inside a franchise obligation. Angela Bassett is extraordinary and the film's mourning for Chadwick Boseman is real. But at 161 minutes it drowns in progressive messaging, feminist nation-state framing, and identity politics that undermine the emotional core.</p>
+        <a href="/reviews/black-panther-wakanda-forever-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">20</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/eternals-2021/">Eternals (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-14 WOKE</span>
+        </div>
+        <p>The MCU's worst-scoring film is also its biggest critical and commercial failure. A 47% on Rotten Tomatoes. A 5.9 on IMDB. The most progressive casting in franchise history combined with the least engaging story. Chloe Zhao's art-house pacing drains any superhero energy and the ideology is front and center.</p>
+        <a href="/reviews/eternals-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+  </ol>
+
+  <div class="listicle-conclusion">
+    <h3>The MCU Trend Line</h3>
+    <p>The franchise's trajectory tells you everything. The MCU's highest-scoring films came from its first decade, when storytellers focused on sacrifice, duty, and earned emotion over progressive credentials. The Phase Four collapse was not just a creative failure. It was an ideological overcorrection that audiences rejected in real time.</p>
+    <p>Browse all our MCU reviews and the full VirtueVigil film database at <a href="/">virtuevigil.com</a> to see how every film stacks up on our Woke-Watch Scoring System.</p>
+  </div>
+
+<style>
+.listicle { max-width: 860px; }
+.listicle-intro p { color: #bbb; line-height: 1.8; margin-bottom: 18px; font-size: 1.05rem; }
+.listicle-items { list-style: none; padding: 0; margin: 0; }
+.listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+.listicle-rank { min-width: 52px; height: 52px; background: rgba(201,168,76,0.15); border: 2px solid rgba(201,168,76,0.4); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; flex-shrink: 0; }
+.listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.1rem; margin: 0 0 10px; }
+.listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+.listicle-content h2 a:hover { color: #c9a84c; }
+.listicle-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; }
+.verdict-badge.traditional { background: rgba(64,196,100,0.2); color: #40c464; border: 1px solid #40c464; }
+.verdict-badge.traditional-lean { background: rgba(64,196,100,0.12); color: #60d484; border: 1px solid #60d484; }
+.verdict-badge.mixed { background: rgba(212,168,67,0.15); color: #d4a843; border: 1px solid #d4a843; }
+.verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+.verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+.score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+.listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+.listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+.listicle-cta:hover { background: rgba(201,168,76,0.1); }
+.listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+.listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+.listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+.listicle-conclusion a { color: #c9a84c; }
+@media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+</style>
+</article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
