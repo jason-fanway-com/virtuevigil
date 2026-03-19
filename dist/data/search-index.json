@@ -168,6 +168,18 @@
     "poster": "/images/posters/the-patriot-2000.jpg"
   },
   {
+    "slug": "tombstone-1993",
+    "title": "Tombstone",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Western / Action / Biography",
+    "year": 1993,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 17.78,
+    "poster": "/images/posters/tombstone-1993.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
