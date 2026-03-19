@@ -24,6 +24,18 @@
     "poster": "/images/posters/together-2025.jpg"
   },
   {
+    "slug": "clown-in-a-cornfield-2025",
+    "title": "Clown in a Cornfield",
+    "verdict": "WOKE",
+    "platform": "Theatrical (RLJE Films / Shudder)",
+    "genre": "Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 23,
+    "tradScore": 5,
+    "poster": "/images/posters/clown-in-a-cornfield-2025.jpg"
+  },
+  {
     "slug": "avengers-doomsday-2026",
     "title": "Avengers: Doomsday",
     "verdict": "TRADITIONAL",
