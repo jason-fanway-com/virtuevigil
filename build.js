@@ -1534,6 +1534,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/woke-trap.html`, changefreq: 'monthly', priority: '0.7' },
     { loc: `${SITE_URL}/oscars-2026/`, changefreq: 'daily', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/family-friendly-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
@@ -2457,6 +2458,98 @@ function build() {
       <p>All scores are generated using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality, entertainment value, or artistic merit. A high score means a film contains a high volume of identifiable progressive messaging relative to its runtime. For full details on how we score, visit our <a href="/methodology.html">Methodology</a> page.</p>
 
       <p>This list reflects films reviewed by VirtueVigil as of the publication date. Additional 2024 titles may be reviewed and ranked in the future. Scores are final once published and are not adjusted retroactively.</p>
+    </article>`
+  }));
+
+  writePage('lists/most-woke-movies-2023/index.html', buildListiclePage({
+    slug: 'most-woke-movies-2023',
+    title: '10 Most Woke Movies of 2023 (Full Ranking)',
+    description: 'Which 2023 films pushed the most progressive agenda? VirtueVigil ranks the 10 most woke movies of 2023 by our scoring system.',
+    canonicalPath: 'lists/most-woke-movies-2023',
+    publishDate: '2023-12-31',
+    htmlContent: `<article class="listicle-article">
+      <p>2023 was the year Hollywood stopped pretending. The summer blockbuster season delivered a record-breaking feminist manifesto wrapped in pink packaging, a Yorgos Lanthimos fever dream that swept the Oscars, and a $200 million climate lecture wearing the costume of a superhero sequel. Progressive ideological content was not hidden in the subtext of these films. It was the text.</p>
+
+      <p>VirtueVigil reviewed 39 films released in 2023 using our Woke Score Methodology, a dual-scoring system that measures the density and intensity of progressive ideological content across categories including gender politics, religious critique, racial messaging, sexual framing, and institutional authority. The top 10 films on that list cover a striking range of genres, from animated family fare to prestige drama to action blockbusters. What they share is a consistent, deliberate effort to embed progressive values into their storytelling.</p>
+
+      <p>The rankings below run from #10 (lowest woke score in the top 10) to #1 (highest). Scores reflect the density of ideological content as measured by the VirtueVigil Woke Score system, not artistic merit or entertainment value. Many of these films are technically accomplished. That craftsmanship is precisely what makes them effective at delivering their message.</p>
+
+      <hr>
+
+      <h2>#10 - Indiana Jones and the Dial of Destiny (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 15.4 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +7 TRAD</p>
+      <p>The fifth Indiana Jones film lands at the edge of this list with a woke score of 15.4, driven primarily by its choice to introduce a female legacy character who outpaces Indy and the film's revisionist handling of a Nazi villain reframed through Cold War politics. At 80 years old on screen, Ford's Indy is sidelined in his own franchise finale by his goddaughter Helena, a character designed to feel like a generational passing of the torch. The film's traditional score keeps it from tipping fully woke, but the deliberate diminishment of its male lead in favor of a younger female replacement follows a pattern VirtueVigil flags consistently.</p>
+      <p><a href="https://virtuevigil.com/reviews/indiana-jones-dial-of-destiny-2023/">Read the full VirtueVigil review of Indiana Jones and the Dial of Destiny</a></p>
+
+      <hr>
+
+      <h2>#9 - Wish (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 17.45 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -6 WOKE</p>
+      <p>Disney's centennial film is a textbook example of institutional authority framed as the enemy of individual self-determination. King Magnifico, the villain, is a government figure who controls what his subjects are allowed to want. The heroine, Asha, leads a grass-roots resistance against that control in a narrative that reads as a sustained critique of any authority structure that restricts personal wish fulfillment. The film's progressive messaging would land harder if the storytelling were more competent. As it stands, it earned a woke score of 17.45 while also being one of Disney's weakest recent releases commercially, grossing $218 million against a $200 million budget.</p>
+      <p><a href="https://virtuevigil.com/reviews/wish-2023/">Read the full VirtueVigil review of Wish</a></p>
+
+      <hr>
+
+      <h2>#8 - Killers of the Flower Moon (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 19 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -4 WOKE</p>
+      <p>Martin Scorsese's three-and-a-half-hour historical epic about the systematic murder of the Osage Nation by white settlers and government officials earned seven Oscar nominations and a woke score of 19. The film's progressive elements include its sustained indictment of white complicity in institutional racism and its centering of Indigenous women as moral witnesses to systemic evil. What keeps it from scoring higher is Scorsese's refusal to simplify: the traditional score of 15 reflects real engagement with moral complexity, complicity, and the weight of history rather than pure ideological scoring.</p>
+      <p><a href="https://virtuevigil.com/reviews/killers-of-the-flower-moon-2023/">Read the full VirtueVigil review of Killers of the Flower Moon</a></p>
+
+      <hr>
+
+      <h2>#7 - The Marvels (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 22.95 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Score Margin:</strong> -14 WOKE</p>
+      <p>The Marvels became the lowest-grossing film in MCU history, losing over $200 million, and its woke score of 22.95 helps explain why. An all-female superhero ensemble where every male character is either incompetent or irrelevant, the film stacks identity-first casting, girl-power messaging, and MCU franchise obligations into a product that audiences rejected decisively. The B CinemaScore and 62 percent Rotten Tomatoes critics score reflect a film that prioritized progressive representation over storytelling fundamentals. The box office result was the market's honest reply.</p>
+      <p><a href="https://virtuevigil.com/reviews/the-marvels-2023/">Read the full VirtueVigil review of The Marvels</a></p>
+
+      <hr>
+
+      <h2>#6 - The Little Mermaid (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 24.6 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Score Margin:</strong> -12 WOKE</p>
+      <p>Disney's live-action remake of the 1989 animated classic scored 24.6 primarily because the studio used the film as a diversity statement from the first marketing image forward, casting Halle Bailey as Ariel and treating any audience concern about that choice as evidence of racism. Beyond the casting controversy, the remake systematically updated the source material to remove Ariel's submissiveness toward her father and strengthen her individual autonomy. The original's themes of feminine longing for a male romantic partner were softened while Ariel's self-determination was amplified. It is a competent remake. It is also a deliberate ideological revision of the source material.</p>
+      <p><a href="https://virtuevigil.com/reviews/the-little-mermaid-2023/">Read the full VirtueVigil review of The Little Mermaid</a></p>
+
+      <hr>
+
+      <h2>#5 - Oppenheimer (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 30 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -4 WOKE</p>
+      <p>Christopher Nolan's $952 million blockbuster surprised many with a woke score of 30. The film's progressive content is concentrated in its treatment of the McCarthy-era security hearing, which frames anti-communist institutional authority as paranoid, corrupt, and vindictive, and in its sympathetic handling of Oppenheimer's association with Communist Party members and causes. The film's traditional score of 26 reflects Nolan's genuine engagement with moral weight, sacrifice, and the burden of creation. But Oppenheimer is unmistakably a film made by someone who views the national security state with suspicion, and that perspective shapes every frame of the film's final act.</p>
+      <p><a href="https://virtuevigil.com/reviews/oppenheimer-2023/">Read the full VirtueVigil review of Oppenheimer</a></p>
+
+      <hr>
+
+      <h2>#4 - Aquaman and the Lost Kingdom (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 31.2 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Score Margin:</strong> -12 WOKE</p>
+      <p>Aquaman and the Lost Kingdom scored 31.2 by embedding a sustained climate change narrative into an undersea action franchise. The villain's plan involves releasing an ancient pollutant that causes global warming, the heroes must prevent environmental catastrophe, and the film lectures about ecological destruction with a frequency and urgency that overrides the superhero plot. The original Aquaman made $1.15 billion by being an unself-conscious adventure film. The sequel made $297 million by turning it into a $215 million climate lecture. The DCEU closed with the market delivering its verdict on ideological action cinema.</p>
+      <p><a href="https://virtuevigil.com/reviews/aquaman-and-the-lost-kingdom-2023/">Read the full VirtueVigil review of Aquaman and the Lost Kingdom</a></p>
+
+      <hr>
+
+      <h2>#3 - Saltburn (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 35 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Score Margin:</strong> -32 WOKE</p>
+      <p>Emerald Fennell followed Promising Young Woman with a film about class warfare where the working-class interloper systematically destroys and literally consumes an aristocratic family. Saltburn scored 35 through its depiction of class resentment as the moral engine of its plot, its graphic sexual content deployed as weapons of social transgression, and its deliberate elevation of a manipulative, murderous protagonist whose crimes against the wealthy ruling class are framed as darkly triumphant. The film's twist ending, in which Oliver dances nude through the estate he has claimed by eliminating its previous owners, is a victory lap for the ideology the entire film has been building.</p>
+      <p><a href="https://virtuevigil.com/reviews/saltburn-2023/">Read the full VirtueVigil review of Saltburn</a></p>
+
+      <hr>
+
+      <h2>#2 - Poor Things (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 47 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Score Margin:</strong> -38 WOKE</p>
+      <p>Yorgos Lanthimos won the Palme d'Or at Cannes and four Academy Awards, including Best Picture, for a film about a woman brought back to life with a baby's brain who discovers sexual liberation, rejects all social constraint, and becomes a socialist doctor. Poor Things scored 47 on the woke scale, the second highest of any 2023 film VirtueVigil reviewed. Its progressive content is not incidental. The film is a sustained argument that female liberation requires rejecting every structure, including family, marriage, class, religion, and conventional morality. Emma Stone's Oscar-winning performance is extraordinary. The ideology behind it is equally consistent and direct.</p>
+      <p><a href="https://virtuevigil.com/reviews/poor-things-2023/">Read the full VirtueVigil review of Poor Things</a></p>
+
+      <hr>
+
+      <h2>#1 - Barbie (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 48 &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Score Margin:</strong> -32 WOKE</p>
+      <p>Barbie grossed $1.44 billion worldwide, making it the highest-grossing film of 2023 and the highest-grossing film ever directed by a woman, and it scored 48 on the VirtueVigil Woke Score, the highest of any 2023 film in our database. Greta Gerwig's film is a two-hour feminist argument: the patriarchy is the villain, Ken's toxic masculinity arc is played for comedy before being corrected, and Barbie's liberation requires her to reject plastic perfection for the messy autonomy of womanhood in the real world. Nobody who bought a pink ticket could claim they were not warned. The ideology was the marketing. The marketing worked.</p>
+      <p><a href="https://virtuevigil.com/reviews/barbie-2023/">Read the full VirtueVigil review of Barbie</a></p>
+
+      <hr>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality, entertainment value, or artistic merit. A high score means a film contains a high volume of identifiable progressive messaging relative to its runtime. For full details on how we score, visit our <a href="/methodology.html">Methodology</a> page.</p>
+
+      <p>2023 was not the year progressive Hollywood peaked. That honor likely belongs to 2024, which added Anora, The Substance, and Heretic to the canon. But 2023 was the year the ideology went fully mainstream, reaching audiences of hundreds of millions through franchise blockbusters and a billion-dollar toy movie. If you want to understand what Hollywood was selling in 2023, start with Barbie and work your way down this list. Every film reviewed here is available with full trope-by-trope analysis, creative team profiles, and parental guidance at VirtueVigil. Browse the complete database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> or compare scores across years on our <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
     </article>`
   }));
 
