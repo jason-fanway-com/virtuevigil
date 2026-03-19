@@ -4169,6 +4169,211 @@ function build() {
 </article>`
   }));
 
+  writePage('lists/best-war-movies-patriots/index.html', buildListiclePage({
+    slug: 'best-war-movies-patriots',
+    title: 'Best War Movies for Patriots (Ranked by VirtueVigil)',
+    description: 'The best war movies for patriots ranked by VirtueVigil Woke Score. Low ideology, high traditional values. From Saving Private Ryan to Warfare (2025).',
+    canonicalPath: 'lists/best-war-movies-patriots',
+    publishDate: '2026-03-19',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Not every war film deserves your time. Hollywood has a long track record of turning genuine military sacrifice into vehicles for anti-war messaging, moral relativism, and political point-scoring. VirtueVigil has done the work so you do not have to. Every film on this list scored TRADITIONAL or higher on the VirtueVigil Woke/Traditional scoring system, meaning the values on screen -- duty, sacrifice, brotherhood, family, faith, and national honor -- dominate the narrative from start to finish.</p>
+        <p>These are not comfort films. Several of them are brutal, honest depictions of what war costs. But every one of them treats the men and women who fight as heroes worth respecting, not as props for an agenda. If you want war films that make you proud to be an American -- or at least proud of what this country has been capable of producing -- start here.</p>
+      </div>
+
+      <ol class="listicle-items">
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+34 TRAD</span>
+            </div>
+            <p>The highest traditional score on this list by a wide margin. Clint Eastwood's portrait of Chris Kyle treats patriotism, military service, and masculine virtue as unambiguous goods. The film does not hedge. Kyle is a sheepdog, his mission is righteous, and his sacrifice is honored without qualification. No revisionism. No deconstruction. One of the most purely traditional war films Hollywood has produced in 30 years.</p>
+            <a href="/reviews/american-sniper-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gladiator-2000/">Gladiator (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+31 TRAD</span>
+            </div>
+            <p>A film about a general who loses everything -- his emperor, his family, his freedom -- and chooses honor anyway. Gladiator is a meditation on masculine duty, loyalty, and the kind of vengeance that is not revenge but justice. The traditional values here are foundational, not decorative. Ridley Scott made the definitive film about what a man owes to the people he loves and the civilization he serves.</p>
+            <a href="/reviews/gladiator-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>Spielberg's masterwork earns every bit of its traditional score. The opening 25 minutes are among the most honest portrayals of combat ever committed to film. The mission -- one man's life for a mother's grief -- is treated as morally serious, not morally complicated. Sacrifice is the point, not the problem. Every soldier on screen is portrayed as a real person doing something that matters.</p>
+            <a href="/reviews/saving-private-ryan-1998/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+27 TRAD</span>
+            </div>
+            <p>The film studios sat on for five years because it did not fit the agenda. Jim Caviezel plays Tim Ballard, a federal agent who resigns his position to rescue trafficked children. Sound of Freedom is about a man of faith who acts on his convictions when institutions will not. One of the most important American films of the 2020s -- and one that was nearly buried before audiences found it anyway.</p>
+            <a href="/reviews/sound-of-freedom-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-patriot-2000/">The Patriot (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>Mel Gibson at his most unapologetically pro-American. A widowed father turned Revolutionary War commander who fights not for ideology but for family, land, and liberty. The film does not flinch from the cost of war or from the justness of the cause. Exactly what a patriot film should be: a story about a man who fights because he has something worth fighting for.</p>
+            <a href="/reviews/the-patriot-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/top-gun-maverick-2022/">Top Gun: Maverick (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>The best American action film of the 2020s. Top Gun: Maverick trusts its audience to feel pride, admiration, and genuine awe at what American military excellence looks like. No apologies, no deconstruction, no agenda. Skill, discipline, sacrifice, and the best practical flight photography ever put on screen. A film that remembered something most of Hollywood has forgotten: audiences want to feel something real.</p>
+            <a href="/reviews/top-gun-maverick-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Desmond Doss refused to carry a weapon and saved 75 men at Okinawa anyway. Mel Gibson's biopic is the rarest kind of war film: one where faith is treated as the source of genuine heroism rather than a character flaw or punchline. The traditional score reflects a film that takes Christianity seriously, earns it through the narrative, and does not walk it back in the third act.</p>
+            <a href="/reviews/hacksaw-ridge-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/braveheart-1995/">Braveheart (1995)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>William Wallace does not fight for an ideology. He fights because they killed his wife, because the land belongs to his people, and because freedom is worth dying for. Braveheart is one of the most unapologetically traditional epics in the Hollywood canon. Thirty years on, it has not aged in terms of its values -- and it never will, because those values are universal.</p>
+            <a href="/reviews/braveheart-1995/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gladiator-ii-2024/">Gladiator II (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>Ridley Scott's sequel largely holds the line on the original's values. Virtue, vengeance with purpose, masculine duty, and the corruption of power versus the integrity of the individual are the film's central concerns. Not quite the original in terms of emotional weight, but it earns its place on this list by keeping the ideology off the screen and the combat on it.</p>
+            <a href="/reviews/gladiator-ii-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/silent-storm-2026/">Silent Storm (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>Kathryn Bigelow's Cold War submarine thriller is a tight, disciplined film about duty under pressure. Silent Storm treats military command, unit loyalty, and the weight of classified responsibility with genuine seriousness. A welcome addition to the patriot canon from a director who knows how to make this kind of film and does not feel the need to apologize for it.</p>
+            <a href="/reviews/silent-storm-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-ministry-of-ungentlemanly-warfare-2024/">The Ministry of Ungentlemanly Warfare (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+9 TRAD</span>
+            </div>
+            <p>Guy Ritchie's WWII action film is based on a real Churchill-authorized black ops operation against Nazi supply lines in West Africa. The film celebrates competence, masculine camaraderie, and the kind of audacious mission planning that wins wars. Fun, irreverent, and thoroughly traditional in its moral framework. A great entry point for viewers who want history with their action.</p>
+            <a href="/reviews/the-ministry-of-ungentlemanly-warfare-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">12</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/warfare-2025/">Warfare (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>A real-time, documentary-style depiction of a Navy SEAL operation in Ramadi that went wrong. Warfare is not a cheerleader for war -- it is an honest account of what brotherhood under fire actually looks like, based on the testimony of the men who were there. No agenda. No ideology. Just cost and loyalty. Dedicated to the real Elliott Miller, who lost his leg in the events depicted.</p>
+            <a href="/reviews/warfare-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>Know Before You Watch</h3>
+        <p>These twelve films represent what war cinema looks like when it is made with respect for the people who serve. Every film on this list was scored using the VirtueVigil Woke/Traditional methodology -- a density-based system that counts verified trope instances rather than relying on subjective impression. You can verify every score in the full reviews linked above.</p>
+        <p>Browse the full VirtueVigil review library at <a href="/">virtuevigil.com</a> to find more content that aligns with your values. New reviews are added every week across film, series, and documentary -- all scored, all sourced, all available before you invest your time.</p>
+      </div>
+
+<style>
+.listicle { max-width: 860px; }
+.listicle-intro p { color: #bbb; line-height: 1.8; margin-bottom: 18px; font-size: 1.05rem; }
+.listicle-items { list-style: none; padding: 0; margin: 0; }
+.listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+.listicle-rank { min-width: 52px; height: 52px; background: rgba(201,168,76,0.15); border: 2px solid rgba(201,168,76,0.4); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; flex-shrink: 0; }
+.listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.1rem; margin: 0 0 10px; }
+.listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+.listicle-content h2 a:hover { color: #c9a84c; }
+.listicle-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; }
+.verdict-badge.traditional { background: rgba(64,196,100,0.2); color: #40c464; border: 1px solid #40c464; }
+.verdict-badge.traditional-lean { background: rgba(64,196,100,0.12); color: #60d484; border: 1px solid #60d484; }
+.verdict-badge.mixed { background: rgba(212,168,67,0.15); color: #d4a843; border: 1px solid #d4a843; }
+.verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+.verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+.score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+.listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+.listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+.listicle-cta:hover { background: rgba(201,168,76,0.1); }
+.listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+.listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+.listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+.listicle-conclusion a { color: #c9a84c; }
+@media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+</style>
+</article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
