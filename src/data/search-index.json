@@ -144,6 +144,18 @@
     "poster": "/images/posters/jurassic-park-1993.jpg"
   },
   {
+    "slug": "hacksaw-ridge-2016",
+    "title": "Hacksaw Ridge",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "War / Biography / Drama",
+    "year": 2016,
+    "type": "film",
+    "wokeScore": 2.4,
+    "tradScore": 21.35,
+    "poster": "/images/posters/hacksaw-ridge-2016.jpg"
+  },
+  {
     "slug": "thunderbolts-2025",
     "title": "Thunderbolts*",
     "verdict": "MIXED",
