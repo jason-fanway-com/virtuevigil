@@ -60,6 +60,18 @@
     "poster": "/images/posters/the-terminal-list-2022.jpg"
   },
   {
+    "slug": "house-of-the-dragon-2022",
+    "title": "House of the Dragon",
+    "verdict": "MIXED",
+    "platform": "HBO / Max",
+    "genre": "Fantasy / Epic Drama",
+    "year": 2022,
+    "type": "tv",
+    "wokeScore": 12.92,
+    "tradScore": 14.54,
+    "poster": "/images/posters/house-of-the-dragon-2022.jpg"
+  },
+  {
     "slug": "return-to-silent-hill-2026",
     "title": "Return to Silent Hill",
     "verdict": "MIXED",
