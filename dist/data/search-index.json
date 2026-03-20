@@ -36,6 +36,18 @@
     "poster": "/images/posters/clown-in-a-cornfield-2025.jpg"
   },
   {
+    "slug": "the-apprentice-2024",
+    "title": "The Apprentice",
+    "verdict": "WOKE",
+    "platform": "Theatrical (Briarcliff Entertainment)",
+    "genre": "Biographical Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 21,
+    "tradScore": 6.65,
+    "poster": "/images/posters/the-apprentice-2024.jpg"
+  },
+  {
     "slug": "avengers-doomsday-2026",
     "title": "Avengers: Doomsday",
     "verdict": "TRADITIONAL",
