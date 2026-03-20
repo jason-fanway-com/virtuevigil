@@ -12,6 +12,18 @@
     "poster": "/images/posters/yellowstone-2018.jpg"
   },
   {
+    "slug": "shogun-2024",
+    "title": "Shogun",
+    "verdict": "TRADITIONAL",
+    "platform": "FX / Hulu",
+    "genre": "Historical Drama",
+    "year": 2024,
+    "type": "tv",
+    "wokeScore": 5.88,
+    "tradScore": 24.64,
+    "poster": "/images/posters/shogun-2024.jpg"
+  },
+  {
     "slug": "return-to-silent-hill-2026",
     "title": "Return to Silent Hill",
     "verdict": "MIXED",
