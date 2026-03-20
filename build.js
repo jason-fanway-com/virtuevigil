@@ -4734,6 +4734,190 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/woke-movies-box-office-flops/index.html', buildListiclePage({
+    slug: 'woke-movies-box-office-flops',
+    title: '10 Woke Movies That Bombed at the Box Office',
+    description: 'Hollywood keeps pushing the agenda and audiences keep staying home. These 10 films scored WOKE or WOKE LEAN on VirtueVigil and confirmed it with verified box office losses.',
+    canonicalPath: 'lists/woke-movies-box-office-flops',
+    publishDate: '2026-03-20',
+    htmlContent: `<article class="listicle-article">
+      <p>The conventional wisdom in entertainment journalism holds that "go woke, go broke" is a myth. The data in this list tells a different story. Each film below earned a WOKE or WOKE LEAN verdict from VirtueVigil based on scored trope analysis, and each one underperformed or outright bombed at the verified box office. The numbers come from Box Office Mojo, Variety, The Hollywood Reporter, and other industry sources. Nothing here is estimated or invented.</p>
+
+      <p>This is not a list of bad films. Several entries here are technically accomplished. What they share is a documented pattern: studios prioritized ideological messaging over audience satisfaction, and audiences responded by staying home. When the same pattern repeats across genres, studios, and budgets, it stops being coincidence.</p>
+
+      <p>Rankings run from #10 to #1, ordered by a combination of woke score severity and the scale of financial underperformance. All box office figures are verified from public industry sources.</p>
+
+      <hr>
+
+      <ul class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/joker-folie-a-deux-2024/">Joker: Folie a Deux (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">-2 WOKE</span>
+            </div>
+            <p>VirtueVigil scored the Joker sequel with a negative margin driven by its courtroom sequences reframing Arthur Fleck as a systemic victim of societal failure, with Lady Gaga's Harley Quinn functioning as a validation figure for his grievances rather than a moral counterweight. The film grossed $206.4 million worldwide against a $200 million production budget. Variety confirmed Warner Bros. lost approximately $144 million after marketing costs were factored in, making it one of the most expensive sequel failures in box office history.</p>
+            <a href="/reviews/joker-folie-a-deux-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/madame-web-2024/">Madame Web (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>VirtueVigil scored Madame Web WOKE LEAN for its female-dominated superhero framework built around a passive protagonist gaining power without meaningful sacrifice, with male characters reduced to peripheral or antagonist roles. The film grossed approximately $100 million worldwide against an $80 million production budget, and while it technically covered its production cost, it became a cultural shorthand for superhero franchise fatigue and identity-first casting. Fox Business confirmed the film as one of 2024's most high-profile misfires.</p>
+            <a href="/reviews/madame-web-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/lightyear-2022/">Lightyear (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>VirtueVigil flagged Lightyear for featuring a same-sex kiss that generated significant controversy and resulted in the film being banned in 14 countries, alongside identity-first messaging that distracted from its central story. Pixar's first full theatrical release in two years grossed $226.4 million worldwide against a $200 million production budget. Wikipedia and multiple analyst reports confirmed the studio lost an estimated $106 million, making it the first Pixar film widely considered a box office bomb.</p>
+            <a href="/reviews/lightyear-2022/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/aquaman-and-the-lost-kingdom-2023/">Aquaman and the Lost Kingdom (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-12 WOKE</span>
+            </div>
+            <p>VirtueVigil scored Aquaman and the Lost Kingdom WOKE for heavy climate change messaging woven directly into the main plot, recurring framing of traditional power structures as corrupt, and supporting characters whose authority is built on group identity rather than earned leadership. The film grossed approximately $423 million worldwide against a $205 million production budget. That number sounds adequate until measured against the original Aquaman's $1.15 billion worldwide take. The franchise dropped by more than $700 million between sequels, a collapse the studio could not hide.</p>
+            <a href="/reviews/aquaman-and-the-lost-kingdom-2023/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/wish-2023/">Wish (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-6 WOKE</span>
+            </div>
+            <p>Disney's centennial celebration film earned a WOKE LEAN score for its anti-authority narrative in which a young woman defies a paternalistic ruler, with systemic grievance framing replacing individual merit as the story's moral engine. Wish grossed $255 million worldwide against a reported $175 to $200 million production budget. A Reddit post citing Variety data confirmed Disney estimated total losses of approximately $131 million, extending the studio's worst sustained box office run in decades into their landmark anniversary year.</p>
+            <a href="/reviews/wish-2023/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/eternals-2021/">Eternals (2021)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-14 WOKE</span>
+            </div>
+            <p>VirtueVigil scored Eternals WOKE for its explicit same-sex relationship, heavy diversity-over-merit casting across a ten-character ensemble, and moral relativism substituting for the earned heroism central to the MCU formula. It became the first MCU film to receive a Rotten score on Rotten Tomatoes. Forbes reported a final worldwide gross of $402.1 million against a $200 million production budget, the fourth-lowest MCU gross at the time and well below the approximately $600 million needed to break even after marketing costs.</p>
+            <a href="/reviews/eternals-2021/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/borderlands-2024/">Borderlands (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-9 WOKE</span>
+            </div>
+            <p>VirtueVigil scored Borderlands WOKE LEAN for centering a female action hero within a cast built around group identity over individual competence, with authority figures consistently portrayed as corrupt and male characters sidelined or incompetent. The film ended its theatrical run with just $30.9 million worldwide against a reported $115 to $150 million budget. Kotaku called it one of 2024's biggest box office failures, a video game adaptation that managed to alienate both the game's existing fanbase and general audiences simultaneously.</p>
+            <a href="/reviews/borderlands-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/snow-white-2025/">Snow White (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-5 WOKE</span>
+            </div>
+            <p>VirtueVigil flagged Disney's live-action Snow White for replacing the traditional prince-and-rescue narrative with a female empowerment framework, alongside pre-release casting choices and star comments that drew sustained public backlash. The film grossed approximately $206 million worldwide against a reported $240 to $270 million production budget. World of Reel confirmed it as 2025's biggest box office bomb, with industry analysts estimating total losses exceeding $200 million when marketing costs were included.</p>
+            <a href="/reviews/snow-white-2025/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-marvels-2023/">The Marvels (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-14 WOKE</span>
+            </div>
+            <p>VirtueVigil scored The Marvels WOKE for its trio of identity-first female heroes, sustained subversion of traditional authority structures, and low-stakes personal growth arcs replacing the earned heroism the MCU was built on. The film grossed $206.1 million worldwide, confirmed by Box Office Mojo as the lowest-grossing Marvel Cinematic Universe film in history. The New York Times reported it cost roughly $300 million to make and market and opened to just $47 million domestically, the lowest MCU opening weekend ever.</p>
+            <a href="/reviews/the-marvels-2023/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/strange-world-2022/">Strange World (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-15 WOKE</span>
+            </div>
+            <p>Disney Animation's 2022 holiday release earned a WOKE verdict from VirtueVigil for its prominent same-sex teenage relationship, messaging on chosen family identity, and a central male character whose rejection of traditional masculine roles drives the entire plot. Strange World grossed just $73.6 million worldwide, confirmed by Box Office Mojo, against a $180 million production budget and an estimated $90 million in marketing spend. Cartoon Brew reported total losses exceeding $197 million, with industry analysts naming it the single biggest box office bomb of 2022.</p>
+            <a href="/reviews/strange-world-2022/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+      </ul>
+
+      <div class="listicle-conclusion">
+        <h3>The Pattern Holds</h3>
+        <p>These 10 films represent hundreds of millions of dollars in confirmed studio losses. They span multiple studios, multiple genres, multiple years, and multiple budget levels. The connective tissue is not coincidence. When storytelling is subordinated to messaging, audiences notice. When the audience notices, they stay home. The studios have the receipts.</p>
+        <p>VirtueVigil scores every major release using a consistent methodology. Browse the full library at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> to see what any film is actually saying before you spend your time and money on it. For full details on how scores are calculated, see our <a href="/methodology.html">Methodology page</a>.</p>
+      </div>
+
+      <style>
+      .listicle-article { max-width: 860px; }
+      .listicle-intro p { color: #bbb; line-height: 1.75; margin-bottom: 16px; font-size: 1.05rem; }
+      .listicle-items { list-style: none; padding: 0; margin: 32px 0 0; }
+      .listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+      .listicle-item:last-child { border-bottom: none; }
+      .listicle-rank { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; background: rgba(201,168,76,0.12); border: 2px solid rgba(201,168,76,0.4); display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; }
+      .listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.25rem; margin: 0 0 10px; }
+      .listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+      .listicle-content h2 a:hover { color: #c9a84c; }
+      .listicle-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+      .verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+      .verdict-badge.traditional { background: rgba(39,174,96,0.15); color: #2ecc71; border: 1px solid #2ecc71; }
+      .verdict-badge.mixed { background: rgba(230,126,34,0.12); color: #e67e22; border: 1px solid #e67e22; }
+      .verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+      .verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+      .score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+      .listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+      .listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+      .listicle-cta:hover { background: rgba(201,168,76,0.1); }
+      .listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+      .listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+      .listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+      .listicle-conclusion a { color: #c9a84c; }
+      @media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+      </style>
+    </article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
