@@ -36,6 +36,18 @@
     "poster": "/images/posters/wednesday-2022.jpg"
   },
   {
+    "slug": "tulsa-king-s1-2022",
+    "title": "Tulsa King",
+    "verdict": "TRADITIONAL",
+    "platform": "Paramount+",
+    "genre": "Crime Drama / Fish Out of Water Comedy",
+    "year": 2022,
+    "type": "tv",
+    "wokeScore": 4.9,
+    "tradScore": 20.44,
+    "poster": "/images/posters/tulsa-king-s1-2022.jpg"
+  },
+  {
     "slug": "return-to-silent-hill-2026",
     "title": "Return to Silent Hill",
     "verdict": "MIXED",
