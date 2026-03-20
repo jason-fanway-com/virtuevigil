@@ -24,6 +24,18 @@
     "poster": "/images/posters/shogun-2024.jpg"
   },
   {
+    "slug": "wednesday-2022",
+    "title": "Wednesday",
+    "verdict": "WOKE LEAN",
+    "platform": "Netflix",
+    "genre": "Supernatural Mystery Comedy",
+    "year": 2022,
+    "type": "tv",
+    "wokeScore": 16.1,
+    "tradScore": 10.64,
+    "poster": "/images/posters/wednesday-2022.jpg"
+  },
+  {
     "slug": "return-to-silent-hill-2026",
     "title": "Return to Silent Hill",
     "verdict": "MIXED",
