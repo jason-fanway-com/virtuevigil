@@ -48,6 +48,18 @@
     "poster": "/images/posters/tulsa-king-s1-2022.jpg"
   },
   {
+    "slug": "the-terminal-list-2022",
+    "title": "The Terminal List",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Amazon Prime Video",
+    "genre": "Military Action Thriller",
+    "year": 2022,
+    "type": "tv",
+    "wokeScore": 2.8,
+    "tradScore": 26.64,
+    "poster": "/images/posters/the-terminal-list-2022.jpg"
+  },
+  {
     "slug": "return-to-silent-hill-2026",
     "title": "Return to Silent Hill",
     "verdict": "MIXED",
