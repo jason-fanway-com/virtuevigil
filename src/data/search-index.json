@@ -1,5 +1,17 @@
 [
   {
+    "slug": "yellowstone-2018",
+    "title": "Yellowstone",
+    "verdict": "TRADITIONAL",
+    "platform": "Paramount Network",
+    "genre": "Neo-Western Drama",
+    "year": 2018,
+    "type": "tv",
+    "wokeScore": 8.2,
+    "tradScore": 23.38,
+    "poster": "/images/posters/yellowstone-2018.jpg"
+  },
+  {
     "slug": "return-to-silent-hill-2026",
     "title": "Return to Silent Hill",
     "verdict": "MIXED",
