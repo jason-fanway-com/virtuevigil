@@ -4374,6 +4374,185 @@ function build() {
 </article>`
   }));
 
+  writePage('lists/clean-movies-for-kids-2024/index.html', buildListiclePage({
+    slug: 'clean-movies-for-kids-2024',
+    title: '10 Movies Your Kids Can Watch Without Worry',
+    description: 'VirtueVigil scores 10 family films with low woke scores and high traditional values. Every pick is safe for kids and parent-approved by the data.',
+    canonicalPath: 'lists/clean-movies-for-kids-2024',
+    publishDate: '2026-03-20',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Picking a movie for family movie night should not feel like defusing a bomb. But in today's Hollywood, parents who care about what their kids absorb have to be careful. Progressive messaging, gender ideology, anti-religious subtext, and broken family structures have made their way into films aimed at children -- sometimes openly, often quietly.</p>
+        <p>This list exists so you do not have to research every option from scratch. VirtueVigil scored each of these films using our Woke Score system, and every one below landed in Traditional or Strongly Traditional territory. No ideological lectures. No surprise agendas buried in the third act. Just clean entertainment your kids can watch and you can sit through without your blood pressure climbing. We ranked them from #10 to #1 based on overall family-friendliness, with woke and traditional scores factored together.</p>
+      </div>
+
+      <ol class="listicle-items">
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/paddington-in-peru-2024/">Paddington in Peru (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL LEAN</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>The Paddington films have always been about the same thing: a small creature of exceptional goodness arrives in a world that is frequently unkind, and through his unfailing courtesy and genuine warmth, he makes the world a little better. Paddington in Peru takes the Brown family to South America after Aunt Lucy goes missing. The values on display -- loyalty to family, honesty, kindness toward strangers, finding courage when it counts -- are the kind parents used to be able to assume were in every children's film. Now they are a reason to put this one on the list.</p>
+            <a href="/reviews/paddington-in-peru-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-lion-king-2019/">The Lion King (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>Disney's photorealistic remake is technically stunning and morally solid. The story has not changed: a young prince flees his responsibilities after tragedy, builds a comfortable life in exile, and is eventually called back to face the truth and take his rightful place. That is a story about duty, accountability, and honoring the legacy your parents built. The woke score of 2.7 confirms the content is clean. The traditional score of 25.34 confirms the values are real. Watch the 1994 original if you want emotional depth -- watch this if you want visual spectacle with the same solid foundation.</p>
+            <a href="/reviews/the-lion-king-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/wonka-2023/">Wonka (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL</span>
+              <span class="score-badge">+12 TRAD</span>
+            </div>
+            <p>Wonka is the rare prequel that earns its existence. Timothee Chalamet plays a young Willy Wonka arriving with a suitcase full of magical chocolates and an unshakeable belief that hard work and genuine talent can break through a corrupt system. The film is about perseverance, loyalty, and the idea that dreams are worth pursuing even when powerful forces try to crush them. The corrupt chocolate cartel serves as the kind of institutional villain even young kids can recognize and root against. Clean, charming, and a genuine family watch with a woke score of 2.75.</p>
+            <a href="/reviews/wonka-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/migration-2023/">Migration (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL</span>
+              <span class="score-badge">+12 TRAD</span>
+            </div>
+            <p>Illumination's duck family adventure is built around one of the oldest family values in the playbook: a father learns that protecting his family does not mean hiding them from the world. Mack Mallard is overprotective to a fault, keeping his family on the same pond season after season while his son dreams of adventure. The journey to Jamaica forces the whole family to discover their own courage. No agenda. No lectures. A cheerful animated film with a father who loves his family and eventually learns to trust them. Woke score of 2.87 -- among the lowest of any 2023 wide release.</p>
+            <a href="/reviews/migration-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/transformers-one-2024/">Transformers One (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>The best Transformers film since 1986, and one of 2024's most surprisingly solid family watches. Transformers One tells the origin of the friendship and eventual rivalry between Optimus Prime and Megatron before either became a legend. It is a story about loyalty, betrayal, and the price of idealism when it collides with hard reality -- themes that land for kids and hold up for adults. The traditional score of 18.48 reflects brotherhood, duty, and self-sacrifice woven throughout. The woke score of 2.0 is among the cleanest of any wide-release action film in 2024.</p>
+            <a href="/reviews/transformers-one-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/dog-man-2025/">Dog Man (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Take the kids. Seriously. Dog Man is 89 minutes of enthusiastic, clean chaos based on Dav Pilkey's beloved graphic novel series. The premise is wonderfully absurd: a policeman and his dog are both mortally wounded, so surgeons attach the dog's head to the officer's body. DreamWorks leaned into Pilkey's hand-drawn aesthetic in a way that feels genuinely fresh. The film's traditional score of 22.54 reflects a consistent theme of doing the right thing even when it is hard. A woke score of 3.35 is about as clean as modern animation gets in 2025.</p>
+            <a href="/reviews/dog-man-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-super-mario-bros-movie-2023/">The Super Mario Bros. Movie (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>The highest-grossing animated film of 2023 earned its $1.36 billion not through manipulation but through simple competence. Nintendo and Illumination made a film that does exactly what it promises: the world of Mario with visual energy, fan-service references, and a story built on brotherly love and perseverance. Mario's entire motivation is protecting his family and proving himself to a father who doubted him. That is not a complicated message, and it does not need to be. A woke score of 1.4 is exceptional for any modern wide release -- one of the cleanest major studio animated films in recent memory.</p>
+            <a href="/reviews/the-super-mario-bros-movie-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/david-2025/">David (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+26 TRAD</span>
+            </div>
+            <p>Angel Studios proved that faith-based cinema can compete with the major studios, and they did it with a 3,000-year-old story about a shepherd kid with a sling. David is an animated biblical musical covering King David's story from his anointing by Samuel through his defeat of Goliath to his rise as Israel's king. The traditional score of 28 reflects deep themes of faith, courage, humility before God, and the idea that greatness comes to those who remain faithful when no one is watching. The film grossed $84 million on a $60.9 million budget -- proof the audience for values-driven family entertainment is real and hungry.</p>
+            <a href="/reviews/david-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/ne-zha-2-2025/">Ne Zha 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+39 TRAD</span>
+            </div>
+            <p>One of the most extraordinary animated films made anywhere in the world in the past decade. The Chinese production is a masterpiece of scale and emotion built around themes of sacrifice, filial loyalty, destiny, and the love between a father and son. Ne Zha 2 earned a 0.0 woke score and a 38.57 traditional score -- values so deeply embedded that the numbers are not surprising once you see the content. The animation is jaw-dropping. The emotional payoff is fully earned. This film hit parents harder than their kids. Bring tissues.</p>
+            <a href="/reviews/ne-zha-2-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/">The SpongeBob Movie: Search for SquarePants (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+42 TRAD</span>
+            </div>
+            <p>The highest traditional score of any animated film we reviewed in 2025, and it is not close. The fourth SpongeBob theatrical outing delivers the kind of refreshing simplicity that has become almost exotic in modern animated filmmaking: a straightforward story about friendship and courage, a moral delivered without a lecture, and a film that does not try to be anything other than a SpongeBob movie. Mr. Krabs tells SpongeBob that being big is not about height -- it is about bravery, adventure, and moxie. A woke score of 1.28 and a traditional score of 43.1 make this the safest and most values-affirming major studio family release we reviewed in 2025. Put it on without a second thought.</p>
+            <a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>How We Score Family Films</h3>
+        <p>VirtueVigil uses a 0-100 Woke Score that measures the density and intensity of progressive ideological content -- gender politics, anti-religious messaging, sexual content framing, identity activism, and institutional critique. A score under 5 is essentially clean. A score above 15 starts to carry meaningful ideological load. Every film on this list scored below 4.</p>
+        <p>The Traditional Score works in the opposite direction, measuring how actively the film promotes values like family loyalty, self-sacrifice, faith, duty, and personal accountability. For more scored films, browse the full <a href="/reviews/">VirtueVigil review library</a>. Every entry includes trope-by-trope breakdowns and our complete scoring methodology. You will never have to wonder what you are walking into again.</p>
+      </div>
+
+      <style>
+      .listicle-article { max-width: 860px; }
+      .listicle-intro p { color: #bbb; line-height: 1.75; margin-bottom: 16px; font-size: 1.05rem; }
+      .listicle-items { list-style: none; padding: 0; margin: 32px 0 0; }
+      .listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+      .listicle-item:last-child { border-bottom: none; }
+      .listicle-rank { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; background: rgba(201,168,76,0.12); border: 2px solid rgba(201,168,76,0.4); display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; }
+      .listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.25rem; margin: 0 0 10px; }
+      .listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+      .listicle-content h2 a:hover { color: #c9a84c; }
+      .listicle-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+      .verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+      .verdict-badge.traditional { background: rgba(39,174,96,0.15); color: #2ecc71; border: 1px solid #2ecc71; }
+      .verdict-badge.mixed { background: rgba(230,126,34,0.12); color: #e67e22; border: 1px solid #e67e22; }
+      .verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+      .verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+      .score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+      .listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+      .listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+      .listicle-cta:hover { background: rgba(201,168,76,0.1); }
+      .listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+      .listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+      .listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+      .listicle-conclusion a { color: #c9a84c; }
+      @media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+      </style>
+    </article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
