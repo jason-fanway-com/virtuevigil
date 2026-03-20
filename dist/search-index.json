@@ -60,6 +60,18 @@
     "poster": "/images/posters/september-5-2024.jpg"
   },
   {
+    "slug": "queer-2024",
+    "title": "Queer",
+    "verdict": "WOKE",
+    "platform": "Theatrical (A24)",
+    "genre": "Romantic Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 17.5,
+    "tradScore": 4.2,
+    "poster": "/images/posters/queer-2024.jpg"
+  },
+  {
     "slug": "avengers-doomsday-2026",
     "title": "Avengers: Doomsday",
     "verdict": "TRADITIONAL",
