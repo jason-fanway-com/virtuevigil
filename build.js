@@ -5322,6 +5322,262 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/netflix-woke-movies-2024-data/index.html', buildListiclePage({
+    slug: 'netflix-woke-movies-2024-data',
+    title: 'Is Netflix Getting More Woke? The Data (28 Titles Scored)',
+    description: 'VirtueVigil scored every Netflix title in our database. Here is what the numbers say about whether Netflix is getting more woke.',
+    canonicalPath: 'lists/netflix-woke-movies-2024-data',
+    publishDate: '2026-03-21',
+    htmlContent: `<article class="listicle-article">
+      <style>
+        .netflix-score-bar { display:flex; align-items:center; gap:10px; margin:6px 0; }
+        .netflix-score-label { font-size:0.75rem; color:#a0a0a8; width:56px; flex-shrink:0; }
+        .netflix-bar-track { flex:1; background:#1e1e2a; border-radius:4px; height:8px; overflow:hidden; }
+        .netflix-bar-fill { height:8px; border-radius:4px; }
+        .netflix-bar-woke { background:#c44040; }
+        .netflix-bar-trad { background:#2ecc71; }
+        .netflix-verdict { display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.72rem; font-weight:700; }
+        .netflix-verdict.woke { background:rgba(196,64,64,0.15); color:#c44040; border:1px solid rgba(196,64,64,0.4); }
+        .netflix-verdict.trad { background:rgba(46,204,113,0.15); color:#2ecc71; border:1px solid rgba(46,204,113,0.4); }
+        .netflix-verdict.mixed { background:rgba(212,168,67,0.12); color:#d4a843; border:1px solid rgba(212,168,67,0.3); }
+        .netflix-verdict.strongly-woke { background:rgba(196,64,64,0.25); color:#ff6060; border:1px solid rgba(196,64,64,0.6); }
+        .netflix-verdict.strongly-trad { background:rgba(46,204,113,0.25); color:#50ff90; border:1px solid rgba(46,204,113,0.6); }
+        .data-stat-row { display:flex; gap:20px; flex-wrap:wrap; margin:24px 0; }
+        .data-stat { background:#14141c; border:1px solid rgba(201,168,76,0.2); border-radius:8px; padding:18px 22px; flex:1; min-width:120px; text-align:center; }
+        .data-stat .num { font-size:2rem; font-weight:700; color:#c9a84c; font-family:'Cinzel',Georgia,serif; }
+        .data-stat .lbl { font-size:0.72rem; color:#a0a0a8; text-transform:uppercase; letter-spacing:0.06em; margin-top:4px; }
+        .listicle-item-netflix { display:flex; gap:18px; align-items:flex-start; background:#13131e; border:1px solid rgba(201,168,76,0.12); border-radius:10px; padding:20px; margin-bottom:18px; }
+        .listicle-rank-n { min-width:40px; height:40px; border-radius:50%; background:rgba(201,168,76,0.12); display:flex; align-items:center; justify-content:center; font-family:'Cinzel',Georgia,serif; font-weight:700; color:#c9a84c; font-size:0.9rem; flex-shrink:0; margin-top:2px; }
+        .listicle-body-n { flex:1; min-width:0; }
+        .listicle-title-n { font-size:1.05rem; font-weight:700; color:#e8e6e1; margin:0 0 6px; }
+        .listicle-meta-n { font-size:0.78rem; color:#a0a0a8; margin:0 0 10px; }
+        .listicle-summary-n { font-size:0.9rem; color:#ccc; line-height:1.6; margin:10px 0; }
+        .listicle-link-n { font-size:0.85rem; font-weight:600; color:#c9a84c; text-decoration:none; }
+        .listicle-link-n:hover { text-decoration:underline; }
+        .trend-section { background:rgba(201,168,76,0.06); border:1px solid rgba(201,168,76,0.2); border-radius:10px; padding:22px 26px; margin:28px 0; }
+        .trend-section h3 { color:#c9a84c; font-family:'Cinzel',Georgia,serif; font-size:1.1rem; margin:0 0 12px; }
+      </style>
+
+      <p>The question conservatives ask constantly: is Netflix getting worse? Are they pushing more progressive content, or is the platform actually more balanced than it looks? VirtueVigil scored every Netflix title in our review database using the same methodology we apply to every film and series. Here is what the data says.</p>
+
+      <p>We reviewed 28 Netflix titles spanning 2021 through 2026. Each received a Woke Score, a Traditional Score, and a final verdict. The results are more complicated than the culture war narrative on either side suggests.</p>
+
+      <div class="data-stat-row">
+        <div class="data-stat"><div class="num">28</div><div class="lbl">Netflix Titles Reviewed</div></div>
+        <div class="data-stat"><div class="num">10</div><div class="lbl">Woke / Lean Woke</div></div>
+        <div class="data-stat"><div class="num">13</div><div class="lbl">Traditional / Lean Trad</div></div>
+        <div class="data-stat"><div class="num">5</div><div class="lbl">Mixed / Neutral</div></div>
+      </div>
+
+      <p>The headline finding: <strong>Netflix's catalog is not uniformly woke.</strong> The platform that gave us Bridgerton Season 4 (Woke Score: 58) also gave us Nonnas (Woke Score: 1), Peaky Blinders: The Immortal Man (Woke Score: 5), and War Machine (Woke Score: 4). The ideological range is enormous. What Netflix is doing is segmenting its audience by taste and ideology simultaneously, serving progressive content to progressive viewers and conventional content to everyone else. The question is whether the prestige programming, the stuff critics celebrate and award bodies notice, skews harder left. Our data suggests yes.</p>
+
+      <div class="trend-section">
+        <h3>Key Finding: The Prestige Problem</h3>
+        <p>Netflix's most-talked-about titles skew woke. Emilia Perez (Woke Score: 28), Adolescence (Woke Score: 22.54), and Bridgerton Season 4 (Woke Score: 58) dominate the conversation. The bread-and-butter action and legacy content, from Beverly Hills Cop: Axel F to Peaky Blinders to Nobody 2, scores consistently traditional. Netflix appears to use conventional entertainment to retain subscribers while reserving progressive messaging for the titles it wants awards and cultural credit for.</p>
+      </div>
+
+      <hr>
+
+      <h2>The Most Woke Netflix Titles (Ranked)</h2>
+      <p>Here are the 10 titles that scored highest on our Woke Score, ranked from most to least ideologically progressive.</p>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#1</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/bridgerton-s4-2026/" style="color:#e8e6e1;text-decoration:none;">Bridgerton: Season 4 (2026)</a> <span class="netflix-verdict strongly-woke">STRONGLY WOKE</span></div>
+          <div class="listicle-meta-n">Woke Score: 58 &bull; Traditional Score: 18 &bull; Margin: -40 WOKE &bull; Type: Series</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:58%;"></div></div><span style="font-size:0.75rem;color:#c44040;">58</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:18%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">18</span></div>
+          <div class="listicle-summary-n">Bridgerton's fourth season is Netflix's most ideologically aggressive prestige production in our database. The series abandons even the pretense of Regency romance conventions to deliver a fully progressive messaging package: deconstructed masculinity, consent framework dialogue embedded into courtship scenes, identity-first character framing, and the systematic dismantling of traditional romantic roles. The 40-point woke margin is the largest gap of any Netflix title we reviewed. Families who enjoyed earlier seasons should know this is a different product ideologically.</div>
+          <a href="/reviews/bridgerton-s4-2026/" class="listicle-link-n">Read the full VirtueVigil review of Bridgerton Season 4 <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#2</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/emilia-perez-2024/" style="color:#e8e6e1;text-decoration:none;">Emilia Perez (2024)</a> <span class="netflix-verdict strongly-woke">STRONGLY WOKE</span></div>
+          <div class="listicle-meta-n">Woke Score: 28 &bull; Traditional Score: 6 &bull; Margin: -22 WOKE &bull; Type: Film</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:28%;"></div></div><span style="font-size:0.75rem;color:#c44040;">28</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:6%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">6</span></div>
+          <div class="listicle-summary-n">Netflix acquired Jacques Audiard's Spanish-language cartel musical after it swept Cannes and accumulated 13 Oscar nominations. The film centers on a cartel boss who transitions gender identities and reframes the transformation as moral liberation. The criminal past is coded as a male identity to be shed; the post-transition life is presented as spiritual rebirth. Identity politics and cartel violence make for a jarring combination, and the film managed to unite progressive and conservative critics against it for entirely different reasons. Netflix bet big on awards prestige and got it.</div>
+          <a href="/reviews/emilia-perez-2024/" class="listicle-link-n">Read the full VirtueVigil review of Emilia Perez <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#3</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/kpop-demon-hunters-2025/" style="color:#e8e6e1;text-decoration:none;">KPop Demon Hunters (2025)</a> <span class="netflix-verdict woke">WOKE LEAN</span></div>
+          <div class="listicle-meta-n">Woke Score: 24.18 &bull; Traditional Score: 16.42 &bull; Margin: -8 WOKE &bull; Type: Film</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:24%;"></div></div><span style="font-size:0.75rem;color:#c44040;">24.18</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:16%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">16.42</span></div>
+          <div class="listicle-summary-n">Netflix's animated film blending K-pop and supernatural action carries consistent progressive messaging around identity, female authority, and nonconformity as power. The woke elements are embedded in the genre trappings rather than announced outright, which means families watching it as entertainment are absorbing ideological content alongside the action sequences. The trad score is not negligible, but the woke margin holds throughout.</div>
+          <a href="/reviews/kpop-demon-hunters-2025/" class="listicle-link-n">Read the full VirtueVigil review of KPop Demon Hunters <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#4</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/adolescence-2025/" style="color:#e8e6e1;text-decoration:none;">Adolescence (2025)</a> <span class="netflix-verdict woke">WOKE LEAN</span></div>
+          <div class="listicle-meta-n">Woke Score: 22.54 &bull; Traditional Score: 14.76 &bull; Margin: -8 WOKE &bull; Type: Series</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:22%;"></div></div><span style="font-size:0.75rem;color:#c44040;">22.54</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:14%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">14.76</span></div>
+          <div class="listicle-summary-n">The one-take British drama about a 13-year-old accused of murdering a classmate became Netflix's most-discussed prestige title of 2025. The series frames male violence through a lens of social conditioning and online radicalization rather than individual moral failure, which aligns with progressive frameworks around accountability and systemic causation. The storytelling is technically extraordinary. The ideological framing consistently attributes harmful behavior to patriarchal and digital systems rather than personal choices.</div>
+          <a href="/reviews/adolescence-2025/" class="listicle-link-n">Read the full VirtueVigil review of Adolescence <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#5</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/wednesday-2022/" style="color:#e8e6e1;text-decoration:none;">Wednesday (2022)</a> <span class="netflix-verdict woke">WOKE LEAN</span></div>
+          <div class="listicle-meta-n">Woke Score: 16.1 &bull; Traditional Score: 10.64 &bull; Margin: -5 WOKE &bull; Type: Series</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:16%;"></div></div><span style="font-size:0.75rem;color:#c44040;">16.1</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:10%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">10.64</span></div>
+          <div class="listicle-summary-n">Tim Burton's Addams Family spinoff was Netflix's most-watched English-language series debut ever and a genuine cultural moment. Wednesday Addams is framed as a nonconformist genius who rejects the normalcy and social expectations of Nevermore Academy, the school for supernatural outcasts. The outsider-as-hero narrative carries consistent progressive coding around identity, institutional critique, and social acceptance. It is also genuinely entertaining, which is why the traditional score is not negligible.</div>
+          <a href="/reviews/wednesday-2022/" class="listicle-link-n">Read the full VirtueVigil review of Wednesday <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#6</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/people-we-meet-on-vacation-2026/" style="color:#e8e6e1;text-decoration:none;">People We Meet on Vacation (2026)</a> <span class="netflix-verdict woke">WOKE LEAN</span></div>
+          <div class="listicle-meta-n">Woke Score: 14 &bull; Traditional Score: 11 &bull; Margin: -3 WOKE &bull; Type: Film</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:14%;"></div></div><span style="font-size:0.75rem;color:#c44040;">14</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:11%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">11</span></div>
+          <div class="listicle-summary-n">The Emily Henry romantic adaptation carries progressive relationship framing, modern female independence messaging, and a refusal of traditional romantic resolution frameworks. The woke margin is narrow, which means the film is not aggressively ideological, but the cumulative tilt is consistent throughout. Viewers looking for a conventional romance will find the underlying messaging less traditional than the genre packaging suggests.</div>
+          <a href="/reviews/people-we-meet-on-vacation-2026/" class="listicle-link-n">Read the full VirtueVigil review of People We Meet on Vacation <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#7</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/the-electric-state-2025/" style="color:#e8e6e1;text-decoration:none;">The Electric State (2025)</a> <span class="netflix-verdict woke">WOKE LEAN</span></div>
+          <div class="listicle-meta-n">Woke Score: 13.63 &bull; Traditional Score: 9.52 &bull; Margin: -4 WOKE &bull; Type: Film</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:13%;"></div></div><span style="font-size:0.75rem;color:#c44040;">13.63</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:9%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">9.52</span></div>
+          <div class="listicle-summary-n">The Russo Brothers' $320 million sci-fi epic based on Simon Stalenhag's illustrated novel frames corporate greed and technological dehumanization through a lens that includes progressive critiques of military-industrial capitalism. Millie Bobby Brown stars as a teen searching for her brother in a post-war America where drones and robots are controlled by military tech corporations. The anti-corporate, anti-military-tech messaging is consistent without being preachy, but it accumulates into a recognizable ideological tilt.</div>
+          <a href="/reviews/the-electric-state-2025/" class="listicle-link-n">Read the full VirtueVigil review of The Electric State <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#8</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/stranger-things/" style="color:#e8e6e1;text-decoration:none;">Stranger Things (2025)</a> <span class="netflix-verdict woke">WOKE LEAN</span></div>
+          <div class="listicle-meta-n">Woke Score: 13 &bull; Traditional Score: 8 &bull; Margin: -5 WOKE &bull; Type: Series</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:13%;"></div></div><span style="font-size:0.75rem;color:#c44040;">13</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:8%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">8</span></div>
+          <div class="listicle-summary-n">Netflix's flagship series carries persistent progressive elements that have accumulated across its run, including identity messaging around sexuality and gender, institutional distrust framing, and a consistent pattern of female characters outperforming or correcting their male counterparts in key dramatic moments. The nostalgia framing and the small-town Americana setting provide traditional surface texture that masks the underlying ideological lean. Families who grew up with the series may be surprised by how the later seasons diverge from the early show's values baseline.</div>
+          <a href="/reviews/stranger-things/" class="listicle-link-n">Read the full VirtueVigil review of Stranger Things <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#9</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/ozark/" style="color:#e8e6e1;text-decoration:none;">Ozark (2022)</a> <span class="netflix-verdict woke">WOKE LEAN</span></div>
+          <div class="listicle-meta-n">Woke Score: 9 &bull; Traditional Score: 5 &bull; Margin: -4 WOKE &bull; Type: Series</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:9%;"></div></div><span style="font-size:0.75rem;color:#c44040;">9</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:5%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">5</span></div>
+          <div class="listicle-summary-n">Ozark's final season leans into progressive character framing around its female leads, particularly Ruth Langmore and Wendy Byrde. The series consistently positions its women as the most capable and morally complex actors in a world of male incompetence and corruption. The rural Missouri setting carries traditional surface texture, but the underlying moral framework rewards female agency and punishes traditional male authority. Ozark is one of Netflix's most acclaimed dramas, and its ideological content is embedded in character dynamics rather than explicit messaging.</div>
+          <a href="/reviews/ozark/" class="listicle-link-n">Read the full VirtueVigil review of Ozark <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n">#10</div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/back-in-action-2025/" style="color:#e8e6e1;text-decoration:none;">Back in Action (2025)</a> <span class="netflix-verdict mixed">MIXED</span></div>
+          <div class="listicle-meta-n">Woke Score: 12.6 &bull; Traditional Score: 10.92 &bull; Margin: -2 WOKE &bull; Type: Film</div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Woke</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-woke" style="width:12%;"></div></div><span style="font-size:0.75rem;color:#c44040;">12.6</span></div>
+          <div class="netflix-score-bar"><span class="netflix-score-label">Trad</span><div class="netflix-bar-track"><div class="netflix-bar-fill netflix-bar-trad" style="width:10%;"></div></div><span style="font-size:0.75rem;color:#2ecc71;">10.92</span></div>
+          <div class="listicle-summary-n">Jamie Foxx and Cameron Diaz's action-comedy marks the lowest-woke-margin film on the woke side of our Netflix data. The film carries some progressive packaging, including female competence consistently exceeding male competence in action sequences, but balances it with family loyalty, parental responsibility themes, and a conventional action structure that counterweights the messaging. It is the cleanest example of Netflix's mainstream formula: just woke enough to satisfy critics, just conventional enough to retain general audiences.</div>
+          <a href="/reviews/back-in-action-2025/" class="listicle-link-n">Read the full VirtueVigil review of Back in Action <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <hr>
+
+      <h2>The Most Traditional Netflix Titles</h2>
+      <p>If you want to stream Netflix content that scores well for traditional values, here are the titles that top our rankings. These are not perfect films, but their ideological content skews toward the values most conservative families hold.</p>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n"><i class="fas fa-check" style="color:#2ecc71;font-size:0.85rem;"></i></div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/peaky-blinders-the-immortal-man-2026/" style="color:#e8e6e1;text-decoration:none;">Peaky Blinders: The Immortal Man (2026)</a> <span class="netflix-verdict strongly-trad">STRONGLY TRADITIONAL</span></div>
+          <div class="listicle-meta-n">Woke Score: 5 &bull; Traditional Score: 28 &bull; Margin: +23 TRAD</div>
+          <div class="listicle-summary-n">The highest traditional score of any Netflix title in our database. The Birmingham crime saga finale is built on loyalty, family hierarchy, earned authority, and consequence-based moral storytelling. Tommy Shelby's arc reaches its conclusion without progressive reframing of his character or his world. The women in his orbit are strong but defined by their relationships to family and clan rather than by identity politics. This is the old school prestige crime drama Netflix still occasionally makes.</div>
+          <a href="/reviews/peaky-blinders-the-immortal-man-2026/" class="listicle-link-n">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n"><i class="fas fa-check" style="color:#2ecc71;font-size:0.85rem;"></i></div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/nonnas-2025/" style="color:#e8e6e1;text-decoration:none;">Nonnas (2025)</a> <span class="netflix-verdict strongly-trad">TRADITIONAL</span></div>
+          <div class="listicle-meta-n">Woke Score: 1 &bull; Traditional Score: 17 &bull; Margin: +16 TRAD</div>
+          <div class="listicle-summary-n">The lowest Woke Score of any Netflix title we reviewed. Nonnas is a warmhearted Italian-American restaurant film built around family, food, faith, and community, delivered without progressive packaging of any kind. It is the rare Netflix original that feels like it could have been made in a different era of Hollywood, when earnest stories about ordinary people and family bonds were the default rather than the exception. Worth seeking out if you want something that does not require a woke-tracker while watching.</div>
+          <a href="/reviews/nonnas-2025/" class="listicle-link-n">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n"><i class="fas fa-check" style="color:#2ecc71;font-size:0.85rem;"></i></div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/war-machine-2026/" style="color:#e8e6e1;text-decoration:none;">War Machine (2026)</a> <span class="netflix-verdict trad">TRADITIONAL</span></div>
+          <div class="listicle-meta-n">Woke Score: 4 &bull; Traditional Score: 22 &bull; Margin: +18 TRAD</div>
+          <div class="listicle-summary-n">Military films built on duty, sacrifice, unit cohesion, and earned leadership are rare on Netflix. War Machine delivers exactly that without the progressive institutional critique that has infected recent war films. The military is portrayed as a legitimate institution staffed by competent professionals. Authority is earned through competence and character, not challenged on systemic grounds. A strong choice for viewers who miss the kind of serious military film Hollywood no longer reliably makes.</div>
+          <a href="/reviews/war-machine-2026/" class="listicle-link-n">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n"><i class="fas fa-check" style="color:#2ecc71;font-size:0.85rem;"></i></div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/train-dreams-2025/" style="color:#e8e6e1;text-decoration:none;">Train Dreams (2025)</a> <span class="netflix-verdict trad">TRADITIONAL</span></div>
+          <div class="listicle-meta-n">Woke Score: 5.3 &bull; Traditional Score: 20.6 &bull; Margin: +15 TRAD</div>
+          <div class="listicle-summary-n">Denis Villeneuve's adaptation of Denis Johnson's novella is a quiet, devastating portrait of an American laborer's life across the early 20th century. Work, loss, marriage, fatherhood, and the passage of time are rendered without ideological commentary of any kind. A film that trusts its audience to find meaning in human experience without a political framework being imposed on top of it. One of the most purely traditional films Netflix has produced in recent memory.</div>
+          <a href="/reviews/train-dreams-2025/" class="listicle-link-n">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-item-netflix">
+        <div class="listicle-rank-n"><i class="fas fa-check" style="color:#2ecc71;font-size:0.85rem;"></i></div>
+        <div class="listicle-body-n">
+          <div class="listicle-title-n"><a href="/reviews/beverly-hills-cop-axel-f-2024/" style="color:#e8e6e1;text-decoration:none;">Beverly Hills Cop: Axel F (2024)</a> <span class="netflix-verdict trad">TRADITIONAL</span></div>
+          <div class="listicle-meta-n">Woke Score: 4 &bull; Traditional Score: 15 &bull; Margin: +11 TRAD</div>
+          <div class="listicle-summary-n">Eddie Murphy's fourth Axel Foley film is a throwback action comedy built on friendship, fatherly love, earned trust, and a competent male lead who solves problems through wit and skill. The film includes a daughter subplot centered on their reconciliation that is handled with warmth and sincerity. No systemic framing, no identity politics, no institutional critique. If you want to know what Netflix can produce when it is not chasing awards or cultural credit, Beverly Hills Cop: Axel F is the answer.</div>
+          <a href="/reviews/beverly-hills-cop-axel-f-2024/" class="listicle-link-n">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <hr>
+
+      <h2>The Verdict: So Is Netflix Getting More Woke?</h2>
+
+      <p>The data says: yes and no, and the "yes" matters more than the "no."</p>
+
+      <p>The majority of Netflix's reviewed catalog (13 of 28 titles) scores traditional or lean traditional. The platform still commissions Beverly Hills Cop sequels, Peaky Blinders continuations, military dramas, and earnest family films. These titles serve the platform's subscriber base, and Netflix needs subscribers more than it needs cultural credit.</p>
+
+      <p>But the pattern at the top is clear. Netflix's prestige content, the titles that receive critical acclaim, awards consideration, and maximum marketing spend, skews heavily progressive. Bridgerton, Emilia Perez, and Adolescence are the titles Netflix uses to define itself culturally and in Hollywood. Those titles score significantly woke by our methodology.</p>
+
+      <div class="trend-section">
+        <h3>What This Means for Conservative Viewers</h3>
+        <p>Netflix is running a two-track content strategy. Track one is conventional entertainment, action movies, legacy franchise sequels, warm family stories, designed to keep subscribers paying. Track two is prestige and progressive content, designed to win awards, attract critics, and signal ideological alignment with Hollywood culture. If you stick to track one, your Netflix experience will look largely traditional. If you follow Netflix's prestige recommendations and critical favorites, you are looking at a consistently progressive content diet. Knowing which track you are on before you press play is exactly what VirtueVigil exists to help you do.</p>
+      </div>
+
+      <h2>Browse All Netflix Reviews on VirtueVigil</h2>
+      <p>Every Netflix title listed in this article has been reviewed in full on VirtueVigil with complete trope audits, woke and traditional score breakdowns, and parental guidance. Use the links above or search our review database at <a href="/">virtuevigil.com</a> to find the full analysis for any title before you watch.</p>
+
+      <p>We add new reviews regularly. If a Netflix title you want scored is not in our database yet, check back soon or <a href="/subscribe/">subscribe</a> to get notified when new reviews drop.</p>
+    </article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
