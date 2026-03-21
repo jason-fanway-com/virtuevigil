@@ -1,5 +1,17 @@
 [
   {
+    "slug": "paddington-2-2017",
+    "title": "Paddington 2",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Family Comedy Adventure",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 2.1,
+    "tradScore": 32,
+    "poster": "/images/posters/paddington-2-2017.jpg"
+  },
+  {
     "slug": "yellowstone-2018",
     "title": "Yellowstone",
     "verdict": "TRADITIONAL",
