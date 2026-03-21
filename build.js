@@ -5954,3 +5954,5 @@ function build() {
 }
 
 build();
+
+module.exports = { buildListiclePage, writePage };
