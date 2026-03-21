@@ -24,6 +24,18 @@
     "poster": "/images/posters/moana-2016.jpg"
   },
   {
+    "slug": "toy-story-4-2019",
+    "title": "Toy Story 4",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Animated Adventure",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 17.2,
+    "tradScore": 8,
+    "poster": "/images/posters/toy-story-4-2019.jpg"
+  },
+  {
     "slug": "yellowstone-2018",
     "title": "Yellowstone",
     "verdict": "TRADITIONAL",
