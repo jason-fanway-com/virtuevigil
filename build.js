@@ -1537,6 +1537,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/most-woke-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/family-friendly-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/a24-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/woke-horror-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -5575,6 +5576,143 @@ function build() {
       <p>Every Netflix title listed in this article has been reviewed in full on VirtueVigil with complete trope audits, woke and traditional score breakdowns, and parental guidance. Use the links above or search our review database at <a href="/">virtuevigil.com</a> to find the full analysis for any title before you watch.</p>
 
       <p>We add new reviews regularly. If a Netflix title you want scored is not in our database yet, check back soon or <a href="/subscribe/">subscribe</a> to get notified when new reviews drop.</p>
+    </article>`
+  }));
+
+  writePage('lists/woke-horror-movies-2024/index.html', buildListiclePage({
+    slug: 'woke-horror-movies-2024',
+    title: '10 Horror Movies That Pushed a Woke Agenda',
+    description: 'Horror fans deserve to know what\'s in the movie before they watch. VirtueVigil scores the 10 most ideologically charged horror films.',
+    canonicalPath: 'lists/woke-horror-movies-2024',
+    publishDate: '2026-03-21',
+    htmlContent: `<article class="listicle-article">
+      <style>
+        .horror-item { display:flex; gap:18px; align-items:flex-start; background:#13131e; border:1px solid rgba(196,64,64,0.18); border-radius:10px; padding:20px; margin-bottom:20px; }
+        .horror-rank { min-width:44px; height:44px; border-radius:50%; background:rgba(196,64,64,0.15); display:flex; align-items:center; justify-content:center; font-family:'Cinzel',Georgia,serif; font-weight:700; color:#c44040; font-size:0.95rem; flex-shrink:0; margin-top:2px; }
+        .horror-body { flex:1; min-width:0; }
+        .horror-title { font-size:1.05rem; font-weight:700; color:#e8e6e1; margin:0 0 6px; }
+        .horror-meta { font-size:0.78rem; color:#a0a0a8; margin:0 0 10px; }
+        .horror-verdict { display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.72rem; font-weight:700; }
+        .horror-verdict.woke { background:rgba(196,64,64,0.15); color:#c44040; border:1px solid rgba(196,64,64,0.4); }
+        .horror-verdict.strongly-woke { background:rgba(196,64,64,0.25); color:#ff6060; border:1px solid rgba(196,64,64,0.6); }
+        .horror-verdict.woke-lean { background:rgba(196,64,64,0.1); color:#d46060; border:1px solid rgba(196,64,64,0.3); }
+        .horror-summary { font-size:0.9rem; color:#ccc; line-height:1.65; margin:10px 0; }
+        .horror-link { font-size:0.85rem; font-weight:600; color:#c9a84c; text-decoration:none; }
+        .horror-link:hover { text-decoration:underline; }
+        .horror-score-chip { display:inline-block; background:rgba(196,64,64,0.12); border:1px solid rgba(196,64,64,0.3); border-radius:4px; padding:2px 8px; font-size:0.75rem; font-weight:700; color:#c44040; margin-left:8px; }
+      </style>
+
+      <p>Horror has always been a genre that reflects what a society fears. For decades, the monsters were external: slashers, demons, aliens, things in the dark. But somewhere along the way, Hollywood decided the real monster was traditional values. Now a significant slice of horror output exists to tell you that religion is a con, suburban domesticity is a prison, and the patriarchy is scarier than any killer clown.</p>
+
+      <p>We scored every horror film in the VirtueVigil database using our Woke-Watch Scoring System. The results below are not opinion. They are data. Each film's summary pulls directly from our full reviews, which break down the specific ideological tropes, their severity, and how much they dominate the film's actual story. Some of these movies are technically well-made. A few are genuinely disturbing as cinema. All of them push an agenda worth knowing about before you hit play.</p>
+
+      <p>This list focuses on films with horror as a primary or core genre. We ranked by woke score, so the most ideologically loaded entries land at the top. If you want to know what you're getting into before movie night, you're in the right place.</p>
+
+      <hr>
+
+      <div class="horror-item">
+        <div class="horror-rank">#1</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/heretic-2024/" style="color:#e8e6e1;text-decoration:none;">Heretic (2024)</a> <span class="horror-verdict strongly-woke">STRONGLY WOKE</span> <span class="horror-score-chip">-27 WOKE</span></div>
+          <div class="horror-meta">Genre: Horror &bull; Woke Score: 41 &bull; Traditional Score: 14</div>
+          <div class="horror-summary">Two Mormon missionaries visit a man's home and spend the next 90 minutes getting demolished by Hugh Grant's intellectually seductive atheist. The film's central thesis: religion is an evolutionary "system of control," Jesus borrowed from Horus and Mithras, and believers are either naive or manipulated. The missionaries are given almost no effective rebuttal. Their silence is the point. This is not a horror film that touches on religion. It's a theological attack on Christianity using the horror genre as delivery mechanism.</div>
+          <a href="/reviews/heretic-2024/" class="horror-link">Read the full VirtueVigil review of Heretic <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#2</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/the-substance-2024/" style="color:#e8e6e1;text-decoration:none;">The Substance (2024)</a> <span class="horror-verdict strongly-woke">STRONGLY WOKE</span> <span class="horror-score-chip">-24 WOKE</span></div>
+          <div class="horror-meta">Genre: Horror &bull; Woke Score: 37 &bull; Traditional Score: 13</div>
+          <div class="horror-summary">Coralie Fargeat's body horror spectacle uses 21,000 liters of fake blood to make one argument: Hollywood destroys women. The male executive who fires the protagonist is shot through a fish-eye lens that turns him into a grotesque caricature. Men exist in this film as either predators or leering grotesques. The female body becomes a metaphor for patriarchal violence. It's technically audacious and completely merciless in its feminist fury. VirtueVigil scored it STRONGLY WOKE with a -24 margin.</div>
+          <a href="/reviews/the-substance-2024/" class="horror-link">Read the full VirtueVigil review of The Substance <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#3</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/immaculate-2024/" style="color:#e8e6e1;text-decoration:none;">Immaculate (2024)</a> <span class="horror-verdict strongly-woke">STRONGLY WOKE</span> <span class="horror-score-chip">-21 WOKE</span></div>
+          <div class="horror-meta">Genre: Horror &bull; Woke Score: 29 &bull; Traditional Score: 8</div>
+          <div class="horror-summary">Sydney Sweeney spent years developing this as a vehicle for a specific message. An American nun arrives at an Italian convent and discovers the Church has been running a forced conception experiment to produce a second Christ. Reproductive autonomy is the film's explicit thesis: a woman's body is her own, and any institution that overrides that, including the Catholic Church, is a horror villain. VirtueVigil flagged it as a significant woke trap for devout Catholic audiences going in blind.</div>
+          <a href="/reviews/immaculate-2024/" class="horror-link">Read the full VirtueVigil review of Immaculate <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#4</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/maxxxine-2024/" style="color:#e8e6e1;text-decoration:none;">MaXXXine (2024)</a> <span class="horror-verdict woke">WOKE</span> <span class="horror-score-chip">-18 WOKE</span></div>
+          <div class="horror-meta">Genre: Horror/Crime &bull; Woke Score: 32 &bull; Traditional Score: 14</div>
+          <div class="horror-summary">The third film in Ti West's X trilogy drops Mia Goth into 1985 Los Angeles, where the primary villain is a televangelist conservative who orchestrates murders to stop a porn star from crossing over into mainstream Hollywood. The Moral Majority is the monster. Sex work is treated as morally neutral and the protagonist's career in adult film is framed as pure ambition. Killing her own fundamentalist father is the film's triumphant climax. VirtueVigil scored it WOKE at -18.</div>
+          <a href="/reviews/maxxxine-2024/" class="horror-link">Read the full VirtueVigil review of MaXXXine <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#5</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/clown-in-a-cornfield-2025/" style="color:#e8e6e1;text-decoration:none;">Clown in a Cornfield (2025)</a> <span class="horror-verdict woke">WOKE</span> <span class="horror-score-chip">-18 WOKE</span></div>
+          <div class="horror-meta">Genre: Horror &bull; Woke Score: 23 &bull; Traditional Score: 5</div>
+          <div class="horror-summary">This slasher keeps its politics concealed through the first half before delivering them without ambiguity. A teenage girl from Philadelphia moves to a small Missouri town where the mayor, sheriff, teacher, and business owners are organizing murders to enforce their vision of community purity. Small-town Midwestern conservatism is the villain. The urban outsider is the moral hero. The film frames every traditional authority figure as a potential murderer and scores a flat WOKE at -18 by VirtueVigil.</div>
+          <a href="/reviews/clown-in-a-cornfield-2025/" class="horror-link">Read the full VirtueVigil review of Clown in a Cornfield <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#6</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/dont-worry-darling-2022/" style="color:#e8e6e1;text-decoration:none;">Don't Worry Darling (2022)</a> <span class="horror-verdict woke">WOKE</span> <span class="horror-score-chip">-19 WOKE</span></div>
+          <div class="horror-meta">Genre: Psychological Thriller &bull; Woke Score: 21.84 &bull; Traditional Score: 2.7</div>
+          <div class="horror-summary">Olivia Wilde acknowledged post-production that the film's villain was inspired by Jordan Peterson. The premise: a perfect 1950s suburban community turns out to be a simulation in which men have imprisoned their wives without consent, keeping them docile through drugs and programming. Traditional domesticity is re-framed as a male-constructed prison. The film's horror depends entirely on the revelation that women are being held captive by husbands who chose their lives for them. It scores -19 WOKE, one of the higher margins in VirtueVigil's database.</div>
+          <a href="/reviews/dont-worry-darling-2022/" class="horror-link">Read the full VirtueVigil review of Don't Worry Darling <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#7</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/the-bride-2026/" style="color:#e8e6e1;text-decoration:none;">The Bride! (2026)</a> <span class="horror-verdict woke">WOKE</span> <span class="horror-score-chip">-14 WOKE</span></div>
+          <div class="horror-meta">Genre: Gothic Romance / Horror &bull; Woke Score: 22.1 &bull; Traditional Score: 8.4</div>
+          <div class="horror-summary">Maggie Gyllenhaal's reimagining of Bride of Frankenstein flips the 1935 film's original male scientist to a female one and builds the whole story around a feminist awakening narrative. In the film's climax, Jessie Buckley's Bride shouts "Me too! Me too!" in an unmistakable reference to the 2017 movement. The character rejects every name men give her, embraces female rage as a repeated mantra, and the whole arc is framed as liberation from male control. VirtueVigil scored it WOKE at -14.</div>
+          <a href="/reviews/the-bride-2026/" class="horror-link">Read the full VirtueVigil review of The Bride! <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#8</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/presence-2025/" style="color:#e8e6e1;text-decoration:none;">Presence (2025)</a> <span class="horror-verdict woke">WOKE</span> <span class="horror-score-chip">-10 WOKE</span></div>
+          <div class="horror-meta">Genre: Horror/Thriller &bull; Woke Score: 18.1 &bull; Traditional Score: 8.5</div>
+          <div class="horror-summary">Steven Soderbergh's ghost-POV horror film is more subtle than most on this list, but the ideology runs consistently through it. The ghost functions as a progressive moral arbiter: it protects the neglected daughter, watches passively as the mother's ambition corrupts the family, and punishes the bullying son. The father is caring but completely ineffectual. Male authority is absent or useless. The film's supernatural force enforces a specific moral worldview throughout, landing at -10 WOKE.</div>
+          <a href="/reviews/presence-2025/" class="horror-link">Read the full VirtueVigil review of Presence <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#9</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/the-ugly-stepsister-2025/" style="color:#e8e6e1;text-decoration:none;">The Ugly Stepsister (2025)</a> <span class="horror-verdict woke-lean">WOKE LEAN</span> <span class="horror-score-chip">-7 WOKE</span></div>
+          <div class="horror-meta">Genre: Satirical Black Comedy/Body Horror &bull; Woke Score: 18.12 &bull; Traditional Score: 11.24</div>
+          <div class="horror-summary">Norwegian director Emilie Blichfeldt retells Cinderella from the stepsister's perspective as a body horror satire about beauty standards. The film's central thesis: beauty expectations are a form of patriarchal violence imposed on women. Every cosmetic procedure Elvira undergoes is framed as self-inflicted harm caused by male judgment. The film ends not with a prince but with two women stealing jewelry and riding away together, rejecting the marriage plot entirely. VirtueVigil scored it WOKE LEAN at -7.</div>
+          <a href="/reviews/the-ugly-stepsister-2025/" class="horror-link">Read the full VirtueVigil review of The Ugly Stepsister <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="horror-item">
+        <div class="horror-rank">#10</div>
+        <div class="horror-body">
+          <div class="horror-title"><a href="/reviews/death-of-a-unicorn-2025/" style="color:#e8e6e1;text-decoration:none;">Death of a Unicorn (2025)</a> <span class="horror-verdict woke-lean">WOKE LEAN</span> <span class="horror-score-chip">-5 WOKE</span></div>
+          <div class="horror-meta">Genre: Dark Fantasy / Comedy Horror &bull; Woke Score: 16.9 &bull; Traditional Score: 12.3</div>
+          <div class="horror-summary">A dark fantasy creature feature where a pharmaceutical dynasty (modeled explicitly on the Sacklers, per the director) tries to harvest a unicorn for profit and gets eaten. Every wealthy character is predatory, greedy, or incompetent. The film's sole moral compass is a progressive Gen-Z woman coded from hair to attitude as the ideological hero. Anti-capitalist satire is the core engine. The rich deserve what they get. VirtueVigil scored it WOKE LEAN at -5, the lightest entry on this list but consistent with the pattern.</div>
+          <a href="/reviews/death-of-a-unicorn-2025/" class="horror-link">Read the full VirtueVigil review of Death of a Unicorn <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-conclusion" style="background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);border-radius:10px;padding:22px 26px;margin:28px 0;">
+        <p>Horror is at its best when the fear means something. These 10 films all mean something specific: they have a worldview, and they built their scares around it. Knowing that going in does not ruin the films. It just lets you watch them honestly. Browse VirtueVigil's full horror database for complete VVWS scores, trope audits, and parental guidance on every title, from STRONGLY WOKE to STRONGLY TRADITIONAL. You might be surprised what's worth your time. <a href="/reviews/">Browse all reviews</a>.</p>
+      </div>
     </article>`
   }));
 
