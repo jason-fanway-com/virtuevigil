@@ -12,6 +12,18 @@
     "poster": "/images/posters/paddington-2-2017.jpg"
   },
   {
+    "slug": "moana-2016",
+    "title": "Moana",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Animated Musical Adventure",
+    "year": 2016,
+    "type": "film",
+    "wokeScore": 11.8,
+    "tradScore": 15,
+    "poster": "/images/posters/moana-2016.jpg"
+  },
+  {
     "slug": "yellowstone-2018",
     "title": "Yellowstone",
     "verdict": "TRADITIONAL",
