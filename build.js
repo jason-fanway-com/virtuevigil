@@ -4918,6 +4918,186 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/non-woke-action-movies-2024/index.html', buildListiclePage({
+    slug: 'non-woke-action-movies-2024',
+    title: 'Best Action Movies Without the Woke Agenda (2024)',
+    description: 'Tired of woke action films? VirtueVigil scores the best non-woke action movies of 2024 so you can skip the lecture and enjoy the film.',
+    canonicalPath: 'lists/non-woke-action-movies-2024',
+    publishDate: '2026-03-20',
+    htmlContent: `<article class="listicle-article">
+      <p>Action movies used to be the one safe zone. You picked up your popcorn, the hero punched his way through the bad guys, and nobody stopped to give you a lecture about systemic inequality. That era is mostly over. Hollywood has figured out that the action genre is one of its biggest earners, and it has spent the last decade loading that genre with the same progressive messaging it puts everywhere else.</p>
+
+      <p>Not every film in 2024 fell for it. A handful of action releases remembered that their audience came for the fight, not the politics. VirtueVigil scored every major action release of the year using our Woke-Watch Scoring System. These ten films came out on top. Low woke scores, real tradScore backing, and zero apology for being exactly what they are.</p>
+
+      <ul class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-beekeeper-2024/">The Beekeeper (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>The cleanest action film of 2024, full stop. Jason Statham plays a retired operative who discovers his landlady was swindled out of her life savings by a scam operation backed by a politically connected failson. The VirtueVigil flags are almost entirely traditional: vigilante justice for the vulnerable, stoic masculinity, elder protection as a sacred duty, lone wolf competence. Woke score: 4.25. Trad score: 25.48. This is what action movies used to look like before Hollywood decided they needed a message.</p>
+            <a href="/reviews/the-beekeeper-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/twisters-2024/">Twisters (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+15 TRAD</span>
+            </div>
+            <p>A tornado disaster film that is actually about tornadoes. Lee Isaac Chung directed the rare modern blockbuster that feels built for the whole country, not just the coasts. Glen Powell plays a cowboy storm chaser who earns the film's moral center through competence and courage, not ideology. VirtueVigil scored it a 10.08 woke, 24.64 trad. Heartland communities are shown with dignity. Climate change messaging is notably absent. This is the crowd-pleaser of 2024.</p>
+            <a href="/reviews/twisters-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gladiator-ii-2024/">Gladiator II (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>Ridley Scott returned to the Colosseum and delivered a sequel built around personal honor, martial virtue, and the cost of betraying your own values. Paul Mescal carries a franchise-scale action film. Denzel Washington is having enormous fun as the villain. VirtueVigil flagged personal honor as a supreme value, institutional rot as the primary antagonist, and zero progressive moralizing in the central conflict. Woke score: 7. Trad score: 22.84. A clean win for classical action storytelling.</p>
+            <a href="/reviews/gladiator-ii-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/road-house-2024/">Road House (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>Nobody expected the Road House remake to land as a masculinity-affirming action film. Jake Gyllenhaal plays a former UFC fighter who takes a bouncer job at a Florida Keys bar and ends up defending a community against organized crime. The VirtueVigil trope audit flagged masculine competence as the heroic core, community defense, consequence culture with villains getting punished, and redemption through service. Woke score: 4. Trad score: 18. Exactly what a genre film should be.</p>
+            <a href="/reviews/road-house-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/furiosa-a-mad-max-saga-2024/">Furiosa: A Mad Max Saga (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>The internet spent months calling this film woke. The VirtueVigil data says otherwise. Anya Taylor-Joy plays a woman kidnapped as a child who spends the entire film trying to get back home, driven by family loyalty and pure survival instinct. George Miller earns his traditional score through family and home as the ultimate motivation, male villains who face real consequences, and a protagonist who earns everything through suffering, not ideology. Woke score: 8. Trad score: 22. Judge this one on the data.</p>
+            <a href="/reviews/furiosa-a-mad-max-saga-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/transformers-one-2024/">Transformers One (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>The best Transformers film since the 1986 animated original, and it got there by taking the Optimus Prime and Megatron friendship seriously as a genuine tragedy. The VirtueVigil flags are almost entirely traditional: sacred male friendship, heroic self-sacrifice, clear good versus evil, hard work and earned excellence. Woke score: 2. Trad score: 18.48. No identity politics in sight. Franchise filmmaking that respects its characters and its audience.</p>
+            <a href="/reviews/transformers-one-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/beverly-hills-cop-axel-f-2024/">Beverly Hills Cop: Axel F (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+11 TRAD</span>
+            </div>
+            <p>The fourth Beverly Hills Cop delivers exactly what it promises: Eddie Murphy back in the role, old-school cop competence beating bureaucracy, loyalty between friends, and a villain who gets punished. VirtueVigil flagged father-daughter reconciliation as the emotional spine, old-school competence over institutional procedure, and male friendship and loyalty throughout. Woke score: 4. Trad score: 15. Nostalgia done right, without a political detour in sight.</p>
+            <a href="/reviews/beverly-hills-cop-axel-f-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/sonic-the-hedgehog-3-2024/">Sonic the Hedgehog 3 (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>The best installment in the Sonic franchise gets darker without losing its values. Keanu Reeves voices Shadow the Hedgehog in a storyline about grief, government overreach, and redemption through truth. VirtueVigil flags include chosen family earned through loyalty, grief treated with dignity, sacrifice for others as the highest good, and government overreach as the villain. Woke score: 4.2. Trad score: 18.34. Safe for families and genuinely good for everyone else.</p>
+            <a href="/reviews/sonic-the-hedgehog-3-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/venom-the-last-dance-2024/">Venom: The Last Dance (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>Tom Hardy's three-film commitment to this bizarre character pays off in a finale that knows exactly what it is. The VirtueVigil trope audit found loyalty as the ultimate virtue, sacrifice for others as the highest good, redemption of a former adversary, and individual courage over institutional cowardice. Woke score: 3.5. Trad score: 17.07. Hardy's Eddie and Venom remain one of the most charming odd-couple pairings in franchise history, and the film closes it cleanly.</p>
+            <a href="/reviews/venom-the-last-dance-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/godzilla-x-kong-the-new-empire-2024/">Godzilla x Kong: The New Empire (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>A radioactive dinosaur and a giant ape team up to defeat an evil primate overlord. That is the entire movie and it delivers completely. VirtueVigil noted a throwaway line about indigenous cultures that passes in seconds with no bearing on the plot. The rest of the film is pure spectacle: tyranny versus freedom as the universal conflict, adoptive family bonds, monsters fighting monsters. Woke score: 6. Trad score: 14. If you came for action and nothing else, this film will not disappoint.</p>
+            <a href="/reviews/godzilla-x-kong-the-new-empire-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+      </ul>
+
+      <div class="listicle-conclusion">
+        <h3>Clean Action Still Exists</h3>
+        <p>Hollywood made it harder to find clean action films in 2024, but they still exist. These ten films scored Traditional or better on the VirtueVigil scale, with woke scores low enough that you can sit down and watch without waiting for the lecture. From The Beekeeper to Godzilla x Kong, 2024 had options. You just had to know where to look.</p>
+        <p>Browse the full VirtueVigil library at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> and filter by verdict to find more films worth your time. For full details on how we score, see our <a href="/methodology.html">Methodology page</a>.</p>
+      </div>
+
+      <style>
+      .listicle-article { max-width: 860px; }
+      .listicle-intro p { color: #bbb; line-height: 1.75; margin-bottom: 16px; font-size: 1.05rem; }
+      .listicle-items { list-style: none; padding: 0; margin: 32px 0 0; }
+      .listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+      .listicle-item:last-child { border-bottom: none; }
+      .listicle-rank { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; background: rgba(201,168,76,0.12); border: 2px solid rgba(201,168,76,0.4); display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; }
+      .listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.25rem; margin: 0 0 10px; }
+      .listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+      .listicle-content h2 a:hover { color: #c9a84c; }
+      .listicle-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+      .verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+      .verdict-badge.traditional { background: rgba(39,174,96,0.15); color: #2ecc71; border: 1px solid #2ecc71; }
+      .verdict-badge.mixed { background: rgba(230,126,34,0.12); color: #e67e22; border: 1px solid #e67e22; }
+      .verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+      .verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+      .score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+      .listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+      .listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+      .listicle-cta:hover { background: rgba(201,168,76,0.1); }
+      .listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+      .listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+      .listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+      .listicle-conclusion a { color: #c9a84c; }
+      @media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+      </style>
+    </article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
