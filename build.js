@@ -5716,6 +5716,140 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/conservative-movies-to-watch-2025/index.html', buildListiclePage({
+    slug: 'conservative-movies-to-watch-2025',
+    title: 'Top 10 Films Conservatives Will Love in 2025',
+    description: 'Looking for movies worth your time? Here are 10 films from 2025 that scored Traditional or better on VirtueVigil.',
+    canonicalPath: 'lists/conservative-movies-to-watch-2025',
+    publishDate: '2026-03-21',
+    htmlContent: `<article class="listicle-article">
+      <style>
+        .cons-item { display:flex; gap:18px; align-items:flex-start; background:#13131e; border:1px solid rgba(201,168,76,0.18); border-radius:10px; padding:20px; margin-bottom:20px; }
+        .cons-rank { min-width:44px; height:44px; border-radius:50%; background:rgba(201,168,76,0.12); display:flex; align-items:center; justify-content:center; font-family:'Cinzel',Georgia,serif; font-weight:700; color:#c9a84c; font-size:0.95rem; flex-shrink:0; margin-top:2px; }
+        .cons-body { flex:1; min-width:0; }
+        .cons-title { font-size:1.05rem; font-weight:700; color:#e8e6e1; margin:0 0 6px; }
+        .cons-meta { font-size:0.78rem; color:#a0a0a8; margin:0 0 10px; }
+        .cons-verdict { display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.72rem; font-weight:700; }
+        .cons-verdict.strongly-trad { background:rgba(58,139,85,0.25); color:#5fdd8a; border:1px solid rgba(58,139,85,0.6); }
+        .cons-verdict.trad { background:rgba(58,139,85,0.15); color:#4dbb72; border:1px solid rgba(58,139,85,0.4); }
+        .cons-summary { font-size:0.9rem; color:#ccc; line-height:1.65; margin:10px 0; }
+        .cons-link { font-size:0.85rem; font-weight:600; color:#c9a84c; text-decoration:none; }
+        .cons-link:hover { text-decoration:underline; }
+        .cons-score-chip { display:inline-block; background:rgba(58,139,85,0.12); border:1px solid rgba(58,139,85,0.3); border-radius:4px; padding:2px 8px; font-size:0.75rem; font-weight:700; color:#4dbb72; margin-left:8px; }
+      </style>
+
+      <p>Finding a movie your whole family can watch without getting a lecture is harder than it should be. Most of what Hollywood puts out these days comes loaded with messaging, subtext, or just flat-out ideology that has nothing to do with telling a good story. You sit down to relax and end up feeling like you wandered into a seminar. It gets old fast.</p>
+
+      <p>That's where VirtueVigil's scoring system earns its keep. We run every film through our Woke-Watch Scoring System, measuring traditional and woke elements by severity, authenticity, and narrative centrality. A film that scores Traditional or better has real story values: sacrifice, duty, family, faith, earned masculinity, consequences for bad choices. The 10 films below all cleared that bar in 2025. They range from animated family epics to true-story thrillers to faith-based blockbusters. Every one of them is worth your time.</p>
+
+      <hr>
+
+      <div class="cons-item">
+        <div class="cons-rank">#1</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" style="color:#e8e6e1;text-decoration:none;">The SpongeBob Movie: Search for SquarePants (2025)</a> <span class="cons-verdict strongly-trad">STRONGLY TRADITIONAL</span> <span class="cons-score-chip">+42 TRAD</span></div>
+          <div class="cons-meta">Genre: Animation / Adventure / Comedy</div>
+          <div class="cons-summary">The fourth SpongeBob theatrical outing is a rare thing: a mainstream animated film that delivers its moral without a lecture and doesn't try to be anything it's not. Friendship, courage, and the guidance of a surrogate father figure carry the story from start to finish. Zero ideology, all heart.</div>
+          <a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#2</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/ne-zha-2-2025/" style="color:#e8e6e1;text-decoration:none;">Ne Zha 2 (2025)</a> <span class="cons-verdict strongly-trad">STRONGLY TRADITIONAL</span> <span class="cons-score-chip">+39 TRAD</span></div>
+          <div class="cons-meta">Genre: Animation / Fantasy / Action</div>
+          <div class="cons-summary">China's animated blockbuster is a masterpiece of scale built around something Western studios keep getting wrong: a father and son who love each other without irony. Destiny, sacrifice, and filial devotion drive every frame. The woke score is literally zero. One of the most traditionally coded films of the year, from any country.</div>
+          <a href="/reviews/ne-zha-2-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#3</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/how-to-train-your-dragon-2025/" style="color:#e8e6e1;text-decoration:none;">How to Train Your Dragon (2025)</a> <span class="cons-verdict strongly-trad">STRONGLY TRADITIONAL</span> <span class="cons-score-chip">+29 TRAD</span></div>
+          <div class="cons-meta">Genre: Family / Adventure</div>
+          <div class="cons-summary">Dean DeBlois's live-action remake protects what made the originals work: a kid who earns respect through courage and ingenuity, a father-son conflict with real emotional stakes, and a world where being different doesn't make you a victim. Gerard Butler returns as Stoick and brings every pound of authority the role demands. Safe for the whole family.</div>
+          <a href="/reviews/how-to-train-your-dragon-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#4</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/david-2025/" style="color:#e8e6e1;text-decoration:none;">David (2025)</a> <span class="cons-verdict strongly-trad">STRONGLY TRADITIONAL</span> <span class="cons-score-chip">+26 TRAD</span></div>
+          <div class="cons-meta">Genre: Animation / Musical / Biblical Epic</div>
+          <div class="cons-summary">Angel Studios' animated biblical musical tells the story of King David from anointing to Goliath to his mercy toward Saul, with craft that rivals the major studios. The faith content is unapologetic: God is real, active, and sovereign. Courage comes from above, not from believing in yourself. $84 million at the box office proves the audience is there.</div>
+          <a href="/reviews/david-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#5</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/karate-kid-legends-2025/" style="color:#e8e6e1;text-decoration:none;">Karate Kid: Legends (2025)</a> <span class="cons-verdict strongly-trad">STRONGLY TRADITIONAL</span> <span class="cons-score-chip">+23 TRAD</span></div>
+          <div class="cons-meta">Genre: Action / Drama / Family</div>
+          <div class="cons-summary">The most traditionally coded major studio release of 2025. Older men teaching a young man to be brave, disciplined, and honorable. Hard work, respect for elders, honoring tradition, showing mercy to your enemies. The film doesn't argue for these values; it just lives them. One of the safest and most satisfying watches of the year for conservative families.</div>
+          <a href="/reviews/karate-kid-legends-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#6</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/the-accountant-2-2025/" style="color:#e8e6e1;text-decoration:none;">The Accountant 2 (2025)</a> <span class="cons-verdict strongly-trad">STRONGLY TRADITIONAL</span> <span class="cons-score-chip">+22 TRAD</span></div>
+          <div class="cons-meta">Genre: Action / Crime / Thriller</div>
+          <div class="cons-summary">Christian Wolff is one of the best protagonists in action cinema right now: a man with autism and a personal code that has more integrity than anything the institutions around him produce. The sequel delivers the same still-water intensity as the original, built on brotherhood, loyalty, and the simple principle that protecting the innocent is worth the cost.</div>
+          <a href="/reviews/the-accountant-2-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#7</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/last-breath-2025/" style="color:#e8e6e1;text-decoration:none;">Last Breath (2025)</a> <span class="cons-verdict strongly-trad">STRONGLY TRADITIONAL</span> <span class="cons-score-chip">+21 TRAD</span></div>
+          <div class="cons-meta">Genre: Thriller (True Story)</div>
+          <div class="cons-summary">A true-story survival thriller about a saturation diver stranded on the seafloor with five minutes of oxygen. Built on professional brotherhood, physical courage, and the refusal to leave a teammate behind. No politics, no lectures, just men doing their jobs under impossible pressure. This is what movies about male competence look like when they're made right.</div>
+          <a href="/reviews/last-breath-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#8</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/demon-slayer-infinity-castle-2025/" style="color:#e8e6e1;text-decoration:none;">Demon Slayer: Infinity Castle (2025)</a> <span class="cons-verdict trad">TRADITIONAL</span> <span class="cons-score-chip">+19 TRAD</span></div>
+          <div class="cons-meta">Genre: Animation / Action / Fantasy</div>
+          <div class="cons-summary">The most technically ambitious traditionally animated film in years, and it earns every frame. Family obligation, sacrifice, and the duty to protect drive the story across 155 minutes of breathtaking action. The Tanjiro-Nezuko sibling bond is the moral center: he will fight through every enemy that threatens her. $778 million worldwide proves traditional storytelling still has an audience.</div>
+          <a href="/reviews/demon-slayer-infinity-castle-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#9</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/f1-2025/" style="color:#e8e6e1;text-decoration:none;">F1 (2025)</a> <span class="cons-verdict trad">TRADITIONAL</span> <span class="cons-score-chip">+17 TRAD</span></div>
+          <div class="cons-meta">Genre: Sports Drama / Action</div>
+          <div class="cons-summary">Brad Pitt as a comeback driver mentoring a young hotshot. Old-school masculinity, mentorship, and the pursuit of excellence, all wrapped in the most viscerally thrilling racing footage put on film. No identity politics, no lectures about systemic anything. Pure story, pure speed, pure craft. The kind of film that reminds you what blockbusters used to feel like.</div>
+          <a href="/reviews/f1-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="cons-item">
+        <div class="cons-rank">#10</div>
+        <div class="cons-body">
+          <div class="cons-title"><a href="/reviews/song-sung-blue-2025/" style="color:#e8e6e1;text-decoration:none;">Song Sung Blue (2025)</a> <span class="cons-verdict trad">TRADITIONAL</span> <span class="cons-score-chip">+19 TRAD</span></div>
+          <div class="cons-meta">Genre: Biography / Musical / Drama</div>
+          <div class="cons-summary">The true story of Mike and Claire Sardina, a Milwaukee couple who built a Neil Diamond tribute act and fought through alcoholism, a car accident, amputation, mental illness, and death without ever letting go of each other. Hugh Jackman and Kate Hudson give career-best performances in a film that celebrates marriage as a covenant worth dying for. This is what lifelong commitment looks like, without romanticizing any of the cost.</div>
+          <a href="/reviews/song-sung-blue-2025/" class="cons-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-conclusion" style="background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);border-radius:10px;padding:22px 26px;margin:28px 0;">
+        <p>Every film on this list was scored by VirtueVigil's full Woke-Watch Scoring System: traditional and woke tropes measured by severity, authenticity, and narrative centrality. These aren't picks based on gut feeling or politics. They're based on data. If you want to keep finding films that respect your time and your values, browse the full VirtueVigil review library at <a href="/reviews/">VirtueVigil</a>. New reviews go up every week.</p>
+      </div>
+    </article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
