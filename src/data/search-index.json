@@ -48,6 +48,18 @@
     "poster": "/images/posters/lilo-stitch-2025.jpg"
   },
   {
+    "slug": "avatar-fire-and-ash-2025",
+    "title": "Avatar: Fire and Ash",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Animation, Action, Adventure, Sci-Fi",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 18.2,
+    "tradScore": 12.74,
+    "poster": "/images/posters/avatar-fire-and-ash-2025.jpg"
+  },
+  {
     "slug": "paddington-2-2017",
     "title": "Paddington 2",
     "verdict": "STRONGLY TRADITIONAL",
