@@ -24,6 +24,18 @@
     "poster": "/images/posters/air-2023.jpg"
   },
   {
+    "slug": "the-boy-and-the-heron-2023",
+    "title": "The Boy and the Heron",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Max",
+    "genre": "Animated Fantasy Drama",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 3.6,
+    "tradScore": 14.7,
+    "poster": "/images/posters/the-boy-and-the-heron-2023.jpg"
+  },
+  {
     "slug": "paddington-2-2017",
     "title": "Paddington 2",
     "verdict": "STRONGLY TRADITIONAL",
