@@ -12,6 +12,18 @@
     "poster": "/images/posters/puss-in-boots-the-last-wish-2022.jpg"
   },
   {
+    "slug": "air-2023",
+    "title": "Air",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Amazon Prime Video",
+    "genre": "Biographical Sports Drama",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 2.4,
+    "tradScore": 15.2,
+    "poster": "/images/posters/air-2023.jpg"
+  },
+  {
     "slug": "paddington-2-2017",
     "title": "Paddington 2",
     "verdict": "STRONGLY TRADITIONAL",
