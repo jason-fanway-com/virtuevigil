@@ -36,6 +36,18 @@
     "poster": "/images/posters/the-boy-and-the-heron-2023.jpg"
   },
   {
+    "slug": "lilo-stitch-2025",
+    "title": "Lilo & Stitch",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Disney+",
+    "genre": "Action, Adventure, Comedy, Family",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2.8,
+    "tradScore": 16.38,
+    "poster": "/images/posters/lilo-stitch-2025.jpg"
+  },
+  {
     "slug": "paddington-2-2017",
     "title": "Paddington 2",
     "verdict": "STRONGLY TRADITIONAL",
