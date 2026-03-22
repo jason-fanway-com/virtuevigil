@@ -1538,6 +1538,8 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/family-friendly-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/a24-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-horror-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/woke-sequels-more-woke-than-original/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/rotten-tomatoes-vs-virtuevigil/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -5846,6 +5848,287 @@ function build() {
 
       <div class="listicle-conclusion" style="background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);border-radius:10px;padding:22px 26px;margin:28px 0;">
         <p>Every film on this list was scored by VirtueVigil's full Woke-Watch Scoring System: traditional and woke tropes measured by severity, authenticity, and narrative centrality. These aren't picks based on gut feeling or politics. They're based on data. If you want to keep finding films that respect your time and your values, browse the full VirtueVigil review library at <a href="/reviews/">VirtueVigil</a>. New reviews go up every week.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/woke-sequels-more-woke-than-original/index.html', buildListiclePage({
+    slug: 'woke-sequels-more-woke-than-original',
+    title: '10 Sequels That Got More Woke Than the Original',
+    description: 'These franchises started strong then drifted hard left. VirtueVigil scores the 10 sequels that piled on the woke agenda more than their predecessors.',
+    canonicalPath: 'lists/woke-sequels-more-woke-than-original',
+    publishDate: '2026-03-22',
+    htmlContent: `<article class="listicle-article">
+      <style>
+        .seq-item { display:flex; gap:18px; align-items:flex-start; background:#13131e; border:1px solid rgba(201,168,76,0.18); border-radius:10px; padding:20px; margin-bottom:20px; }
+        .seq-rank { min-width:44px; height:44px; border-radius:50%; background:rgba(220,38,38,0.12); display:flex; align-items:center; justify-content:center; font-family:'Cinzel',Georgia,serif; font-weight:700; color:#ef4444; font-size:0.95rem; flex-shrink:0; margin-top:2px; }
+        .seq-body { flex:1; min-width:0; }
+        .seq-title { font-size:1.05rem; font-weight:700; color:#e8e6e1; margin:0 0 6px; }
+        .seq-meta { font-size:0.78rem; color:#a0a0a8; margin:0 0 10px; }
+        .seq-verdict { display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.72rem; font-weight:700; }
+        .seq-verdict.strongly-woke { background:rgba(220,38,38,0.25); color:#ef4444; border:1px solid rgba(220,38,38,0.6); }
+        .seq-verdict.woke { background:rgba(220,38,38,0.15); color:#f87171; border:1px solid rgba(220,38,38,0.4); }
+        .seq-summary { font-size:0.9rem; color:#ccc; line-height:1.65; margin:10px 0; }
+        .seq-link { font-size:0.85rem; font-weight:600; color:#c9a84c; text-decoration:none; }
+        .seq-link:hover { text-decoration:underline; }
+        .seq-score-chip { display:inline-block; background:rgba(220,38,38,0.12); border:1px solid rgba(220,38,38,0.3); border-radius:4px; padding:2px 8px; font-size:0.75rem; font-weight:700; color:#ef4444; margin-left:8px; }
+      </style>
+
+      <p>Sequels are supposed to give fans more of what they loved. More story, more characters, more of the world that made the original work. What they get instead, more and more often, is more ideology. Hollywood has figured out that a familiar title gets people in the door, and once they're in the seats, the messaging can begin.</p>
+
+      <p>The 10 films below are all continuations of franchises that started with mainstream appeal. VirtueVigil ran every one through our full Woke-Watch Scoring System. Each one scored higher on woke elements than on traditional values, and most scored significantly worse than whatever came before them. These aren't subtle shifts. They're franchise-wide left turns that audiences noticed, even if critics pretended not to.</p>
+
+      <hr>
+
+      <div class="seq-item">
+        <div class="seq-rank">#1</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/zootopia-2-2025/" style="color:#e8e6e1;text-decoration:none;">Zootopia 2 (2025)</a> <span class="seq-verdict strongly-woke">STRONGLY WOKE</span> <span class="seq-score-chip">Woke: 91</span></div>
+          <div class="seq-meta">Genre: Animation | Woke Score: 91 vs Trad Score: 53</div>
+          <div class="seq-summary">The original Zootopia had a legitimate message about bias and did it with enough story craft to make it work. The sequel abandoned subtlety entirely. Every scene is in service of the agenda. Disney took a beloved franchise and turned it into the most woke-scored animated film in VirtueVigil's database. The gap between woke and traditional scores is larger than almost anything we have reviewed.</div>
+          <a href="/reviews/zootopia-2-2025/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#2</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/glass-onion-2022/" style="color:#e8e6e1;text-decoration:none;">Glass Onion: A Knives Out Mystery (2022)</a> <span class="seq-verdict strongly-woke">STRONGLY WOKE</span> <span class="seq-score-chip">Woke: 42</span></div>
+          <div class="seq-meta">Genre: Mystery/Comedy | Woke Score: 42 vs Trad Score: 18</div>
+          <div class="seq-summary">Knives Out was a sharp, apolitical whodunit that conservatives and liberals both loved. Glass Onion is its ideological opposite. Rian Johnson took the sequel as an opportunity to lecture his audience about wealth, privilege, and the people he finds deplorable. The mystery mechanics are weaker. The contempt for half the audience is not. This is what franchise drift looks like in real time.</div>
+          <a href="/reviews/glass-onion-2022/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#3</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/bridgerton-s4-2026/" style="color:#e8e6e1;text-decoration:none;">Bridgerton: Season 4 (2026)</a> <span class="seq-verdict strongly-woke">STRONGLY WOKE</span> <span class="seq-score-chip">Woke: 58</span></div>
+          <div class="seq-meta">Genre: Period Drama/Romance | Woke Score: 58 vs Trad Score: 18</div>
+          <div class="seq-summary">The Bridgerton franchise has been drifting further from its Regency roots with each season. Season 4 accelerates that drift dramatically. Modern progressive values are retrofitted into a historical setting so aggressively that the period setting becomes little more than costume design. The woke score of 58 against a trad score of 18 tells the story of a show that has fully left its audience behind.</div>
+          <a href="/reviews/bridgerton-s4-2026/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#4</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/thor-love-and-thunder-2022/" style="color:#e8e6e1;text-decoration:none;">Thor: Love and Thunder (2022)</a> <span class="seq-verdict woke">WOKE</span> <span class="seq-score-chip">Woke: 16.44</span></div>
+          <div class="seq-meta">Genre: Action/Adventure/Comedy | Woke Score: 16.44 vs Trad Score: 12.26</div>
+          <div class="seq-summary">Thor: Ragnarok was a crowd-pleaser. Love and Thunder is an LGBTQ+ promotional vehicle wearing a superhero costume. Jane Foster's transformation into Mighty Thor sidelines the franchise's established male lead for much of the runtime. Korg's same-sex family is introduced with zero story justification. The original Thor films were grounded in honor, sacrifice, and duty. This one is grounded in a different agenda entirely.</div>
+          <a href="/reviews/thor-love-and-thunder-2022/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#5</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/aquaman-and-the-lost-kingdom-2023/" style="color:#e8e6e1;text-decoration:none;">Aquaman and the Lost Kingdom (2023)</a> <span class="seq-verdict strongly-woke">STRONGLY WOKE</span> <span class="seq-score-chip">Woke: 31.2</span></div>
+          <div class="seq-meta">Genre: Action/Superhero/Fantasy | Woke Score: 31.2 vs Trad Score: 18.9</div>
+          <div class="seq-summary">The first Aquaman was a fun, color-saturated blockbuster that leaned into its comic book DNA. The sequel layered in climate change messaging so heavy it became the film's actual villain. The ocean is dying because of human industry. Aquaman's kingdom is threatened by fossil fuels. What was once escapism became an environmental lecture with a $200 million production budget. Box office dropped by over 70% from the first film.</div>
+          <a href="/reviews/aquaman-and-the-lost-kingdom-2023/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#6</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/frozen-ii-2019/" style="color:#e8e6e1;text-decoration:none;">Frozen II (2019)</a> <span class="seq-verdict woke">WOKE</span> <span class="seq-score-chip">Woke: 19</span></div>
+          <div class="seq-meta">Genre: Animation/Musical/Fantasy | Woke Score: 19 vs Trad Score: 14</div>
+          <div class="seq-summary">Frozen was about sisterhood and the courage to act. Frozen II is about indigenous land rights, colonial guilt, and a protagonist whose personal identity quest matters more than anyone around her. Elsa's journey to find herself echoes every corporate diversity initiative of the era. The songs are weaker. The messaging is heavier. The magic that made the original a phenomenon is largely absent.</div>
+          <a href="/reviews/frozen-ii-2019/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#7</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/the-marvels-2023/" style="color:#e8e6e1;text-decoration:none;">The Marvels (2023)</a> <span class="seq-verdict strongly-woke">STRONGLY WOKE</span> <span class="seq-score-chip">Woke: 22.95</span></div>
+          <div class="seq-meta">Genre: Superhero/Action/Comedy | Woke Score: 22.95 vs Trad Score: 8.87</div>
+          <div class="seq-summary">Captain Marvel had mainstream appeal despite its politics. The Marvels is an assembly of three female protagonists competing for screen time while a story holds them loosely together. The woke score nearly triples the traditional score. It became the lowest-grossing MCU film in history. Marvel built the most successful franchise in cinema history by telling universal stories. The Marvels is what happens when the brand prioritizes identity over craft.</div>
+          <a href="/reviews/the-marvels-2023/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#8</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/toy-story-4-2019/" style="color:#e8e6e1;text-decoration:none;">Toy Story 4 (2019)</a> <span class="seq-verdict woke">WOKE</span> <span class="seq-score-chip">Woke: 17.2</span></div>
+          <div class="seq-meta">Genre: Animated Adventure | Woke Score: 17.2 vs Trad Score: 8.0</div>
+          <div class="seq-summary">The Toy Story trilogy ended perfectly. Then came the fourth film. Woody abandons his child, rejects his purpose, and chooses personal fulfillment over the duty that defined him for three movies. The lesson for kids: your own self-actualization matters more than the people who depend on you. Pixar told a tight, complete story across three films and undid its moral core in a fourth nobody asked for.</div>
+          <a href="/reviews/toy-story-4-2019/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#9</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/black-panther-wakanda-forever-2022/" style="color:#e8e6e1;text-decoration:none;">Black Panther: Wakanda Forever (2022)</a> <span class="seq-verdict woke">WOKE</span> <span class="seq-score-chip">Woke: 18.42</span></div>
+          <div class="seq-meta">Genre: Superhero/Action/Drama | Woke Score: 18.42 vs Trad Score: 12.67</div>
+          <div class="seq-summary">The original Black Panther was a genuine cultural event built on a compelling protagonist and a real story about identity and duty. The sequel, made in the shadow of Chadwick Boseman's death, leaned heavily into grief, female-led power restructuring, and anti-colonial messaging. The emotional core was real but the ideology was heavy-handed. A franchise that earned its audience through craft started spending that goodwill on messaging.</div>
+          <a href="/reviews/black-panther-wakanda-forever-2022/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="seq-item">
+        <div class="seq-rank">#10</div>
+        <div class="seq-body">
+          <div class="seq-title"><a href="/reviews/dune-part-two-2024/" style="color:#e8e6e1;text-decoration:none;">Dune: Part Two (2024)</a> <span class="seq-verdict woke">WOKE</span> <span class="seq-score-chip">Woke: 19.36</span></div>
+          <div class="seq-meta">Genre: Sci-Fi/Epic | Woke Score: 19.36 vs Trad Score: 11.55</div>
+          <div class="seq-summary">Dune: Part One was a breathtaking technical achievement that stayed faithful to Herbert's themes of power, prophecy, and ecology. Part Two shifts the lens. Chani becomes a feminist counter-narrative to Paul's messianic arc. The religious manipulation that Herbert wrote as a critique gets reframed as a metaphor for contemporary political movements. The production is still extraordinary. The philosophical underpinning drifted from the source in ways the book's fans noticed.</div>
+          <a href="/reviews/dune-part-two-2024/" class="seq-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-conclusion" style="background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);border-radius:10px;padding:22px 26px;margin:28px 0;">
+        <p>Every score above comes from VirtueVigil's full Woke-Watch Scoring System, measuring woke and traditional tropes by severity, authenticity, and narrative centrality. We don't grade on politics. We grade on what the film actually argues and how central that argument is to the story. When the gap between woke and traditional scores is this wide, you're not watching a film with a perspective. You're watching a lecture with a budget. Browse the full review library at <a href="/reviews/">VirtueVigil</a> to check any sequel before you sit down.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/rotten-tomatoes-vs-virtuevigil/index.html', buildListiclePage({
+    slug: 'rotten-tomatoes-vs-virtuevigil',
+    title: 'Rotten Tomatoes Loves Them. We Scored Them Anyway.',
+    description: 'Critics praised these 10 films with 80%+ scores on Rotten Tomatoes. VirtueVigil ran the numbers and found a different story.',
+    canonicalPath: 'lists/rotten-tomatoes-vs-virtuevigil',
+    publishDate: '2026-03-22',
+    htmlContent: `<article class="listicle-article">
+      <style>
+        .rt-item { display:flex; gap:18px; align-items:flex-start; background:#13131e; border:1px solid rgba(201,168,76,0.18); border-radius:10px; padding:20px; margin-bottom:20px; }
+        .rt-rank { min-width:44px; height:44px; border-radius:50%; background:rgba(220,38,38,0.12); display:flex; align-items:center; justify-content:center; font-family:'Cinzel',Georgia,serif; font-weight:700; color:#ef4444; font-size:0.95rem; flex-shrink:0; margin-top:2px; }
+        .rt-body { flex:1; min-width:0; }
+        .rt-title { font-size:1.05rem; font-weight:700; color:#e8e6e1; margin:0 0 6px; }
+        .rt-meta { font-size:0.78rem; color:#a0a0a8; margin:0 0 10px; }
+        .rt-verdict { display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.72rem; font-weight:700; }
+        .rt-verdict.strongly-woke { background:rgba(220,38,38,0.25); color:#ef4444; border:1px solid rgba(220,38,38,0.6); }
+        .rt-verdict.woke { background:rgba(220,38,38,0.15); color:#f87171; border:1px solid rgba(220,38,38,0.4); }
+        .rt-summary { font-size:0.9rem; color:#ccc; line-height:1.65; margin:10px 0; }
+        .rt-link { font-size:0.85rem; font-weight:600; color:#c9a84c; text-decoration:none; }
+        .rt-link:hover { text-decoration:underline; }
+        .rt-score-row { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:8px; }
+        .rt-chip { display:inline-block; border-radius:4px; padding:2px 8px; font-size:0.75rem; font-weight:700; }
+        .rt-chip.rt-score { background:rgba(220,38,38,0.12); border:1px solid rgba(220,38,38,0.3); color:#ef4444; }
+        .rt-chip.vv-score { background:rgba(220,38,38,0.12); border:1px solid rgba(220,38,38,0.3); color:#f87171; }
+      </style>
+
+      <p>Rotten Tomatoes critic scores are not film scores. They are ideology scores. A film gets 90% on Rotten Tomatoes not because it is technically superior or emotionally resonant, but because it affirms the values of the people who write film criticism for a living. That group is not representative of the country.</p>
+
+      <p>VirtueVigil does not measure opinion. We measure content. Our Woke-Watch Scoring System tracks specific tropes by severity, authenticity, and narrative centrality. What critics call "vital" and "essential" we call something else. The 10 films below all earned significant critical praise. We scored them anyway. Judge for yourself which analysis is more useful to your family.</p>
+
+      <hr>
+
+      <div class="rt-item">
+        <div class="rt-rank">#1</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/glass-onion-2022/" style="color:#e8e6e1;text-decoration:none;">Glass Onion: A Knives Out Mystery (2022)</a> <span class="rt-verdict strongly-woke">STRONGLY WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 42</span><span class="rt-chip vv-score">Trad Score: 18</span></div>
+          <div class="rt-meta">Genre: Mystery/Comedy | RT Critic Score: 92%</div>
+          <div class="rt-summary">Critics loved it. Called it "gleefully subversive" and "a sharp satire of the ultra-wealthy." What they did not say: the entire film is built around contempt for a specific type of wealthy American that maps neatly onto the cultural right. The villain is a thinly veiled Elon Musk character surrounded by sycophants who represent various conservative adjacent archetypes. Rian Johnson was not hiding it. Critics were not troubled by it. VirtueVigil's score was 42 woke vs 18 traditional.</div>
+          <a href="/reviews/glass-onion-2022/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#2</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/strange-world-2022/" style="color:#e8e6e1;text-decoration:none;">Strange World (2022)</a> <span class="rt-verdict strongly-woke">STRONGLY WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 27.5</span><span class="rt-chip vv-score">Trad Score: 12.32</span></div>
+          <div class="rt-meta">Genre: Animation/Adventure | RT Critic Score: 73%</div>
+          <div class="rt-summary">Disney's Strange World was praised by critics for its "groundbreaking" inclusion of Disney's first openly gay teen protagonist and its environmental allegory. Audiences disagreed sharply: it bombed to a $73 million worldwide gross against a $180 million budget. VirtueVigil's woke score of 27.5 vs a trad score of 12.32 reflects what critics were celebrating. The gap between critical reception and audience response tells the real story.</div>
+          <a href="/reviews/strange-world-2022/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#3</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/turning-red-2022/" style="color:#e8e6e1;text-decoration:none;">Turning Red (2022)</a> <span class="rt-verdict strongly-woke">STRONGLY WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 17.85</span><span class="rt-chip vv-score">Trad Score: 4.55</span></div>
+          <div class="rt-meta">Genre: Animation/Comedy | RT Critic Score: 95%</div>
+          <div class="rt-summary">Turning Red earned a 95% from critics who celebrated its female-coded coming-of-age story and what one reviewer called "the most honest depiction of puberty in animated film history." VirtueVigil measured something different: a story that frames parental authority as trauma, pushes adolescent self-expression over family obligation, and uses a girl's monstrous transformation as a metaphor for uncontrolled emotional autonomy. Parents watching with their kids will notice the values being modeled.</div>
+          <a href="/reviews/turning-red-2022/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#4</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/eternals-2021/" style="color:#e8e6e1;text-decoration:none;">Eternals (2021)</a> <span class="rt-verdict strongly-woke">STRONGLY WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 19.74</span><span class="rt-chip vv-score">Trad Score: 5.95</span></div>
+          <div class="rt-meta">Genre: Superhero/Sci-Fi | RT Critic Score: 47%</div>
+          <div class="rt-summary">Critics were somewhat split on Eternals but the film itself was uniformly celebrated by progressive outlets for its diverse ensemble, Marvel's first gay superhero kiss, and its philosophical questioning of the MCU's established moral framework. The audience score dropped to 78%. VirtueVigil found a woke score of 19.74 against a trad score of 5.95 -- the largest proportional gap of any MCU film in our database. The cast represents every checkbox. The story has nothing to say.</div>
+          <a href="/reviews/eternals-2021/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#5</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/the-marvels-2023/" style="color:#e8e6e1;text-decoration:none;">The Marvels (2023)</a> <span class="rt-verdict strongly-woke">STRONGLY WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 22.95</span><span class="rt-chip vv-score">Trad Score: 8.87</span></div>
+          <div class="rt-meta">Genre: Superhero/Action | RT Critic Score: 62%</div>
+          <div class="rt-summary">Even the critics who gave The Marvels mixed reviews framed their criticism around execution rather than ideology. The praise it did receive was heavily centered on its all-female lead trio and what reviewers called a "joyful" female empowerment dynamic. VirtueVigil scored it at 22.95 woke vs 8.87 traditional. It grossed $206 million worldwide against a $220 million budget, the biggest box office failure in MCU history. Audiences found their own answer to what the critics were celebrating.</div>
+          <a href="/reviews/the-marvels-2023/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#6</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/lightyear-2022/" style="color:#e8e6e1;text-decoration:none;">Lightyear (2022)</a> <span class="rt-verdict woke">WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 10.22</span><span class="rt-chip vv-score">Trad Score: 6.65</span></div>
+          <div class="rt-meta">Genre: Animation/Sci-Fi | RT Critic Score: 76%</div>
+          <div class="rt-summary">Pixar restored a same-sex kiss scene after internal pressure and received widespread critical applause for doing so. Lightyear became the film's defining cultural moment before most people had seen it. Critics praised Pixar's courage. Audiences responded with the worst opening weekend for a Pixar theatrical release since the pandemic. The film grossed $226 million worldwide against a $200 million budget, a failure by any measure. The kiss was not the only problem but it was the symbol of who the film was made for.</div>
+          <a href="/reviews/lightyear-2022/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#7</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/black-panther-wakanda-forever-2022/" style="color:#e8e6e1;text-decoration:none;">Black Panther: Wakanda Forever (2022)</a> <span class="rt-verdict woke">WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 18.42</span><span class="rt-chip vv-score">Trad Score: 12.67</span></div>
+          <div class="rt-meta">Genre: Superhero/Drama | RT Critic Score: 84%</div>
+          <div class="rt-summary">Critics gave it 84% and called it "a moving tribute" and "a powerful statement about grief and resistance." What was less discussed: the film's reconstruction of Wakanda as a matriarchal society, the framing of Namor's anti-colonial rage as morally justified, and the consistent sidelining of male authority figures in favor of a female-led power structure. The grief over Boseman is real and deserved. The ideology layered on top of it is not incidental.</div>
+          <a href="/reviews/black-panther-wakanda-forever-2022/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#8</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/dune-part-two-2024/" style="color:#e8e6e1;text-decoration:none;">Dune: Part Two (2024)</a> <span class="rt-verdict woke">WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 19.36</span><span class="rt-chip vv-score">Trad Score: 11.55</span></div>
+          <div class="rt-meta">Genre: Sci-Fi/Epic | RT Critic Score: 92%</div>
+          <div class="rt-summary">Dune Part Two received near-universal critical acclaim and deserved credit for its technical craft. But the 92% score reflects more than cinematography. Critics celebrated Denis Villeneuve's decision to center Chani's feminist resistance to Paul's messianic rise, his reframing of religious manipulation as a metaphor for right-wing populism, and his departures from Herbert's source material that shifted the moral weight of the story. VirtueVigil scored it 19.36 woke vs 11.55 traditional. Great filmmaking and ideological content are not mutually exclusive.</div>
+          <a href="/reviews/dune-part-two-2024/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#9</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/thor-love-and-thunder-2022/" style="color:#e8e6e1;text-decoration:none;">Thor: Love and Thunder (2022)</a> <span class="rt-verdict woke">WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 16.44</span><span class="rt-chip vv-score">Trad Score: 12.26</span></div>
+          <div class="rt-meta">Genre: Action/Comedy | RT Critic Score: 63%</div>
+          <div class="rt-summary">Even at 63%, the critics who praised Thor: Love and Thunder focused on Natalie Portman's Mighty Thor as a highlight. What VirtueVigil measured was a franchise installment that replaced an established male hero with a female successor and treated the audience's attachment to the original character as something to be redirected rather than honored. The LGBTQ+ content was added over Taika Waititi's stated preference for more. Critics applauded. Audiences gave it the lowest MCU audience score in years.</div>
+          <a href="/reviews/thor-love-and-thunder-2022/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="rt-item">
+        <div class="rt-rank">#10</div>
+        <div class="rt-body">
+          <div class="rt-title"><a href="/reviews/joker-folie-a-deux-2024/" style="color:#e8e6e1;text-decoration:none;">Joker: Folie a Deux (2024)</a> <span class="rt-verdict woke">WOKE</span></div>
+          <div class="rt-score-row"><span class="rt-chip rt-score">Woke Score: 24.5</span><span class="rt-chip vv-score">Trad Score: 22.13</span></div>
+          <div class="rt-meta">Genre: Musical/Drama/Thriller | RT Critic Score: 31%</div>
+          <div class="rt-summary">Critics were lukewarm on Joker 2 overall but the reviews that praised it did so for its deconstruction of the original film's "dangerous" incel appeal and its feminist reframing of Harley Quinn as the empowered one pulling Arthur's strings. The film deliberately dismantled what made the first Joker resonate with audiences. VirtueVigil scored it 24.5 woke vs 22.13 traditional. The audience score was 32%. The box office lost $130 million. You can celebrate the deconstruction or you can serve the audience. Hollywood chose deconstruction.</div>
+          <a href="/reviews/joker-folie-a-deux-2024/" class="rt-link">Read the full VirtueVigil review <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+        </div>
+      </div>
+
+      <div class="listicle-conclusion" style="background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);border-radius:10px;padding:22px 26px;margin:28px 0;">
+        <p>VirtueVigil does not ask whether a film is good. We ask what it is arguing and how aggressively it argues it. Rotten Tomatoes critic scores tell you whether film critics approved. Our scores tell you what is actually in the film. For any movie you are considering, check the full VirtueVigil analysis at <a href="/reviews/">VirtueVigil</a> before deciding whether the critics' recommendation is meant for you.</p>
       </div>
     </article>`
   }));
