@@ -60,18 +60,6 @@
     "poster": "/images/posters/the-boy-and-the-heron-2023.jpg"
   },
   {
-    "slug": "lilo-stitch-2025",
-    "title": "Lilo & Stitch",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical / Disney+",
-    "genre": "Action, Adventure, Comedy, Family",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 2.8,
-    "tradScore": 16.38,
-    "poster": "/images/posters/lilo-stitch-2025.jpg"
-  },
-  {
     "slug": "avatar-fire-and-ash-2025",
     "title": "Avatar: Fire and Ash",
     "verdict": "WOKE LEAN",
@@ -1968,18 +1956,6 @@
     "poster": "/images/posters/frankenstein-2025.jpg"
   },
   {
-    "slug": "white-lotus-s3-2025",
-    "title": "The White Lotus: Season 3",
-    "verdict": "WOKE LEAN",
-    "platform": "HBO / Max",
-    "genre": "Satirical Drama / Dark Comedy / Anthology",
-    "year": 2025,
-    "type": "series",
-    "wokeScore": 42,
-    "tradScore": 34,
-    "poster": "/images/posters/white-lotus-s3-2025.jpg"
-  },
-  {
     "slug": "the-electric-state-2025",
     "title": "The Electric State",
     "verdict": "WOKE LEAN",
@@ -2074,18 +2050,6 @@
     "wokeScore": 19.22,
     "tradScore": 4.4,
     "poster": "/images/posters/babygirl-2024.jpg"
-  },
-  {
-    "slug": "bridgerton-s4-2026",
-    "title": "Bridgerton: Season 4",
-    "verdict": "STRONGLY WOKE",
-    "platform": "Netflix",
-    "genre": "Period Drama/Romance",
-    "year": 2026,
-    "type": "series",
-    "wokeScore": 58,
-    "tradScore": 18,
-    "poster": "/images/posters/bridgerton-s4-2026.jpg"
   },
   {
     "slug": "the-monkey-2025",
@@ -3324,18 +3288,6 @@
     "poster": "/images/posters/dracula.jpg"
   },
   {
-    "slug": "avatar-fire-and-ash",
-    "title": "Avatar: Fire and Ash",
-    "verdict": "MIXED",
-    "platform": "Theatrical (Disney / 20th Century Studios / Lightstorm)",
-    "genre": "Sci-Fi & Fantasy",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 9,
-    "tradScore": 8,
-    "poster": "/images/posters/avatar-fire-and-ash.jpg"
-  },
-  {
     "slug": "crime-101",
     "title": "Crime 101",
     "verdict": "MIXED",
@@ -3454,18 +3406,6 @@
     "wokeScore": 13,
     "tradScore": 17,
     "poster": "/images/posters/moana-2-2024.jpg"
-  },
-  {
-    "slug": "white-lotus-s3",
-    "title": "The White Lotus - Season 3",
-    "verdict": "WOKE LEAN",
-    "platform": "HBO",
-    "genre": "Drama",
-    "year": 2025,
-    "type": "series",
-    "wokeScore": 16,
-    "tradScore": 9,
-    "poster": "/images/posters/white-lotus-s3.jpg"
   },
   {
     "slug": "black-mirror-s7",
@@ -3778,18 +3718,6 @@
     "wokeScore": 28.42,
     "tradScore": 17.44,
     "poster": "/images/posters/wicked-2024.jpg"
-  },
-  {
-    "slug": "bridgerton-s4",
-    "title": "Bridgerton - Season 4",
-    "verdict": "WOKE",
-    "platform": "Theatrical",
-    "genre": "Drama",
-    "year": 2026,
-    "type": "series",
-    "wokeScore": 28,
-    "tradScore": 12,
-    "poster": "/images/posters/bridgerton-s4.jpg"
   },
   {
     "slug": "how-to-make-a-killing",
