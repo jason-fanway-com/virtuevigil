@@ -1,5 +1,29 @@
 [
   {
+    "slug": "lilo-and-stitch-2025",
+    "title": "Lilo & Stitch",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / Disney+",
+    "genre": "Sci-Fi Comedy Family",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 5.6,
+    "tradScore": 13.1,
+    "poster": "/images/posters/lilo-and-stitch-2025.jpg"
+  },
+  {
+    "slug": "kingdom-of-the-planet-of-the-apes-2024",
+    "title": "Kingdom of the Planet of the Apes",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Disney+",
+    "genre": "Sci-Fi Action Adventure",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 12.6,
+    "tradScore": 14.2,
+    "poster": "/images/posters/kingdom-of-the-planet-of-the-apes-2024.jpg"
+  },
+  {
     "slug": "puss-in-boots-the-last-wish-2022",
     "title": "Puss in Boots: The Last Wish",
     "verdict": "TRADITIONAL",
@@ -52,12 +76,36 @@
     "title": "Avatar: Fire and Ash",
     "verdict": "WOKE LEAN",
     "platform": "Theatrical",
-    "genre": "Animation, Action, Adventure, Sci-Fi",
+    "genre": "Epic Sci-Fi Action Adventure",
     "year": 2025,
     "type": "film",
-    "wokeScore": 18.2,
-    "tradScore": 12.74,
+    "wokeScore": 21.6,
+    "tradScore": 13.4,
     "poster": "/images/posters/avatar-fire-and-ash-2025.jpg"
+  },
+  {
+    "slug": "the-white-lotus-season-3-2025",
+    "title": "The White Lotus: Season 3",
+    "verdict": "WOKE LEAN",
+    "platform": "HBO / Max",
+    "genre": "Dark Comedy Drama",
+    "year": 2025,
+    "type": "series",
+    "wokeScore": 19.5,
+    "tradScore": 12.8,
+    "poster": "/images/posters/the-white-lotus-season-3-2025.jpg"
+  },
+  {
+    "slug": "bridgerton-season-4-2026",
+    "title": "Bridgerton: Season 4",
+    "verdict": "WOKE LEAN",
+    "platform": "Netflix",
+    "genre": "Regency Romance Drama",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 16.2,
+    "tradScore": 10,
+    "poster": "/images/posters/bridgerton-season-4-2026.jpg"
   },
   {
     "slug": "paddington-2-2017",
@@ -3036,18 +3084,6 @@
     "poster": "/images/posters/indiana-jones-dial-of-destiny-2023.jpg"
   },
   {
-    "slug": "lilo-and-stitch-2025",
-    "title": "Lilo & Stitch",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Family/Comedy",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 17,
-    "tradScore": 11,
-    "poster": "/images/posters/lilo-and-stitch-2025.jpg"
-  },
-  {
     "slug": "sinners-2025",
     "title": "Sinners",
     "verdict": "TRADITIONAL LEAN",
@@ -3526,18 +3562,6 @@
     "wokeScore": 19.36,
     "tradScore": 11.55,
     "poster": "/images/posters/dune-part-two-2024.jpg"
-  },
-  {
-    "slug": "kingdom-of-the-planet-of-the-apes-2024",
-    "title": "Kingdom of the Planet of the Apes",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical / Disney+",
-    "genre": "Sci-Fi & Fantasy",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 8,
-    "tradScore": 13,
-    "poster": "/images/posters/kingdom-of-the-planet-of-the-apes-2024.jpg"
   },
   {
     "slug": "deadpool-wolverine-2024",
