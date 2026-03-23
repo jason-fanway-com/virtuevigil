@@ -12,6 +12,18 @@
     "poster": "/images/posters/dune-part-one-2021.jpg"
   },
   {
+    "slug": "no-time-to-die-2021",
+    "title": "No Time to Die",
+    "verdict": "MIXED",
+    "platform": "Theaters",
+    "genre": "Action / Spy Thriller",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 11.98,
+    "tradScore": 12.25,
+    "poster": "/images/posters/no-time-to-die-2021.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
