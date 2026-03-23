@@ -168,6 +168,18 @@
     "poster": "/images/posters/spider-man-far-from-home-2019.jpg"
   },
   {
+    "slug": "once-upon-a-time-in-hollywood-2019",
+    "title": "Once Upon a Time in Hollywood",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Comedy",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 6.8,
+    "tradScore": 19.25,
+    "poster": "/images/posters/once-upon-a-time-in-hollywood-2019.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
