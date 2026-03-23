@@ -1535,6 +1535,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/oscars-2026/`, changefreq: 'daily', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-2021/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/family-friendly-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/a24-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-horror-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
@@ -2555,6 +2556,96 @@ function build() {
       <p>All scores are generated using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality, entertainment value, or artistic merit. A high score means a film contains a high volume of identifiable progressive messaging relative to its runtime. For full details on how we score, visit our <a href="/methodology.html">Methodology</a> page.</p>
 
       <p>2023 was not the year progressive Hollywood peaked. That honor likely belongs to 2024, which added Anora, The Substance, and Heretic to the canon. But 2023 was the year the ideology went fully mainstream, reaching audiences of hundreds of millions through franchise blockbusters and a billion-dollar toy movie. If you want to understand what Hollywood was selling in 2023, start with Barbie and work your way down this list. Every film reviewed here is available with full trope-by-trope analysis, creative team profiles, and parental guidance at VirtueVigil. Browse the complete database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> or compare scores across years on our <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
+    </article>`
+  }));
+
+  writePage('lists/most-woke-movies-2021/index.html', buildListiclePage({
+    slug: 'most-woke-movies-2021',
+    title: '10 Most Woke Movies of 2021 (Ranked by VirtueVigil Score)',
+    description: 'The 10 most woke movies of 2021, ranked by VirtueVigil\'s VVWS scoring system. Data-driven. No opinions, just numbers.',
+    canonicalPath: 'lists/most-woke-movies-2021',
+    publishDate: '2026-03-23',
+    htmlContent: `<article class="listicle-article">
+      <p>2021 was Hollywood's comeback year after COVID shuttered theaters for most of 2020. The studios had backlogged releases, streaming deals to prove, and something to say. For a lot of them, that something was ideological. The biggest franchises on earth used their 2021 releases to push diversity casting overhauls, feminist revenge arcs, and identity allegories so thick you could cut them with a lightsaber.</p>
+
+      <p>VirtueVigil scored every major 2021 film using the VVWS, our Woke-Watch Scoring System that weighs trope severity, authenticity, and centrality to produce a single objective score. Below are the 10 films from 2021 with the highest woke scores. No outrage. No editorializing. Just the numbers.</p>
+
+      <hr>
+
+      <h2>#10 - Mortal Kombat (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 4.6 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +4 TRAD</p>
+      <p>Mortal Kombat rounds out the top 10 with the lowest woke score on this list at 4.6. The main woke element is Cole Young, a new biracial protagonist invented for the film who does not appear in the games, serving as audience surrogate while displacing white roster members. A diverse ensemble and an anti-colonial villain framing add minor weight. The film otherwise has no real ideological agenda and earns its traditional credit through warrior honor codes, loyalty, and vengeance as duty.</p>
+      <p><a href="/reviews/mortal-kombat-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mortal Kombat</a></p>
+
+      <hr>
+
+      <h2>#9 - Space Jam: A New Legacy (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 5.2 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +4 TRAD</p>
+      <p>Space Jam 2 racked up woke points primarily through the deliberate feminist redesign of Lola Bunny, pulling her away from the 1996 film's more sexualized look on the explicit direction of producer Ryan Coogler. A diverse ensemble framed as a team-strength narrative and a Silicon Valley-coded algorithm villain add to a wokeScore of 5.2. The father-son emotional arc at the film's core earns its traditional credit and keeps this well out of WOKE territory.</p>
+      <p><a href="/reviews/space-jam-a-new-legacy-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Space Jam: A New Legacy</a></p>
+
+      <hr>
+
+      <h2>#8 - Shang-Chi and the Legend of the Ten Rings (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 5.46 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +9 TRAD</p>
+      <p>Marvel's first Asian-led film surprised critics expecting a diversity lecture and delivered a traditionally structured family drama instead. Its woke elements are real but modest: deliberate stereotype replacement, a feminist subplot for Xialing that positions her as an equal heir to power her father denied her, and diversity-conscious ensemble casting. With a woke score of 5.46 against a trad score of 14.19, Shang-Chi is the most traditional MCU film of 2021 by a distance.</p>
+      <p><a href="/reviews/shang-chi-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shang-Chi and the Legend of the Ten Rings</a></p>
+
+      <hr>
+
+      <h2>#7 - Dune: Part One (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 7.1 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Score Margin:</strong> +13 TRAD</p>
+      <p>Denis Villeneuve's Dune earns its spot via the Bene Gesserit, an all-female mystical power structure that has secretly controlled galactic civilization for millennia through genetic manipulation and religious seeding. Chani serves as a female skeptic positioned as the voice of reason against organized religious faith and messianic prophecy. Casting diversity also extends beyond Herbert's source material. Still, the film's traditional score of 20.02 dwarfs the woke side, making this the most traditionally coded entry on this list.</p>
+      <p><a href="/reviews/dune-part-one-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dune: Part One</a></p>
+
+      <hr>
+
+      <h2>#6 - Encanto (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 8.68 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Score Margin:</strong> +10 TRAD</p>
+      <p>Encanto lands on this list despite scoring TRADITIONAL overall, because its progressive elements are real and deliberate. Luisa's body-positive muscular design, the anti-perfectionism message that worth is not tied to productivity, and Mirabel directly challenging parental authority all register on the woke scale at 8.68. These elements exist alongside much stronger traditional content about family, intergenerational bonds, and sacrifice, which is why the film ends up TRADITIONAL despite its progressive undercurrents.</p>
+      <p><a href="/reviews/encanto-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Encanto</a></p>
+
+      <hr>
+
+      <h2>#5 - No Time to Die (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 11.98 &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Score Margin:</strong> 0 NEUTRAL</p>
+      <p>No Time to Die planted a Black female agent named Nomi in the 007 designation during Bond's retirement, a deliberate and publicized diversity signal by Eon Productions. Craig's Bond is also given a domesticated emotional arc, revealed to have a daughter, and shown cooking and gardening while driven by romance rather than patriotism. The film's woke and trad scores land nearly equal at 11.98 and 12.25, scoring NEUTRAL, with Bond's heroic self-sacrifice in the finale holding the traditional side.</p>
+      <p><a href="/reviews/no-time-to-die-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of No Time to Die</a></p>
+
+      <hr>
+
+      <h2>#4 - Cruella (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 14.0 &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Score Margin:</strong> -2 WOKE</p>
+      <p>Disney's Cruella reframes one of animation's most iconic villains as a misunderstood girlboss whose worst crimes are guerrilla fashion stunts. The film's core argument is that Cruella de Vil is a brilliant woman fighting institutional barriers to express her authentic self, with rebellion against authority framed as inherent virtue. Villain rehabilitation as progressive ideology drives a woke score of 14.0, though the film's visual craft and Emma Stone's performance keep the trad score competitive at 12.0.</p>
+      <p><a href="/reviews/cruella-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cruella</a></p>
+
+      <hr>
+
+      <h2>#3 - The Matrix Resurrections (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 15.05 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -6 WOKE</p>
+      <p>Lana Wachowski built the fourth Matrix film explicitly around trans liberation allegory, confirmed in her own words. Neo and Trinity are trapped in imposed identities, medicated into compliance by a therapist who feeds Neo blue pills to suppress his authentic self. Warner Bros. is thinly veiled as the corporate villain forcing the sequel into existence. The trans allegory earns the film's heaviest woke trope weighting, pushing the score to 15.05.</p>
+      <p><a href="/reviews/the-matrix-resurrections-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Matrix Resurrections</a></p>
+
+      <hr>
+
+      <h2>#2 - Black Widow (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 16.95 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -5 WOKE</p>
+      <p>Black Widow builds its entire plot around the Red Room program as a #MeToo allegory: a male villain, Dreykov, controls and weaponizes women through chemical mind control. Forced sterilization of the Red Room's operatives is treated as a central horror. The patriarchal villain archetype drives a woke score of 16.95, though Florence Pugh's Yelena and the genuine emotional core of the fake-family dynamic pull the trad score to 12.13 and keep this from reaching the WOKE threshold.</p>
+      <p><a href="/reviews/black-widow-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Widow</a></p>
+
+      <hr>
+
+      <h2>#1 - Eternals (2021)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 19.74 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Score Margin:</strong> -14 WOKE</p>
+      <p>Eternals tops the 2021 list by a wide margin, earning the first outright WOKE verdict for an MCU film. Director Chloe Zhao assembled a maximum-diversity ensemble of ten Eternals, swapping the source material's original race and gender assignments across multiple characters. The film also introduced Phastos as the MCU's first openly gay superhero, complete with a same-sex kiss, while framing the Celestial's planetary destruction through a climate-coded lens. At a woke score of 19.74 against a trad score of 5.95, no 2021 film came close to the top spot.</p>
+      <p><a href="/reviews/eternals-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Eternals</a></p>
+
+      <hr>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality, entertainment value, or artistic merit. A high score means a film contains a high volume of identifiable progressive messaging relative to its runtime. For full details on how we score, visit our <a href="/methodology.html">Methodology</a> page.</p>
+
+      <p>2021 proved that even in a recovery year, Hollywood could not resist using its biggest franchises as ideological delivery vehicles. Eternals set the MCU record for both critical failure and woke scoring in the same release. The Matrix came back as a trans liberation allegory. Bond got his 007 designation handed to a Black woman. The data does not lie and it does not editorialize. If you want to know what else scored in 2021 and beyond, browse the full VirtueVigil review database at <a href="/reviews/">virtuevigil.com/reviews/</a> and see every film scored, ranked, and broken down by the numbers.</p>
     </article>`
   }));
 
