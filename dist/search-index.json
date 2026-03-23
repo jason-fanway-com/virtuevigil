@@ -204,6 +204,18 @@
     "poster": "/images/posters/knives-out-2019.jpg"
   },
   {
+    "slug": "aladdin-2019",
+    "title": "Aladdin",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Fantasy / Musical / Adventure",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 8.18,
+    "tradScore": 12.04,
+    "poster": "/images/posters/aladdin-2019.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
