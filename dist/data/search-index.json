@@ -84,6 +84,18 @@
     "poster": "/images/posters/space-jam-a-new-legacy-2021.jpg"
   },
   {
+    "slug": "mortal-kombat-2021",
+    "title": "Mortal Kombat",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / HBO Max",
+    "genre": "Martial Arts Action Fantasy",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 4.6,
+    "tradScore": 8.19,
+    "poster": "/images/posters/mortal-kombat-2021.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
