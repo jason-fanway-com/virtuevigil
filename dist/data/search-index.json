@@ -120,6 +120,18 @@
     "poster": "/images/posters/soul-2020.jpg"
   },
   {
+    "slug": "birds-of-prey-2020",
+    "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "verdict": "WOKE",
+    "platform": "Theatrical / HBO Max",
+    "genre": "Superhero Action / Dark Comedy",
+    "year": 2020,
+    "type": "film",
+    "wokeScore": 23.34,
+    "tradScore": 5.05,
+    "poster": "/images/posters/birds-of-prey-2020.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
