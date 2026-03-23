@@ -108,6 +108,18 @@
     "poster": "/images/posters/a-minecraft-movie-2025.jpg"
   },
   {
+    "slug": "flow-2024",
+    "title": "Flow",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (limited US release) / Streaming",
+    "genre": "Animated Adventure",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 5.78,
+    "tradScore": 10.64,
+    "poster": "/images/posters/flow-2024.jpg"
+  },
+  {
     "slug": "paddington-2-2017",
     "title": "Paddington 2",
     "verdict": "STRONGLY TRADITIONAL",
