@@ -192,6 +192,18 @@
     "poster": "/images/posters/us-2019.jpg"
   },
   {
+    "slug": "knives-out-2019",
+    "title": "Knives Out",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Mystery / Comedy / Drama",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 13.44,
+    "tradScore": 8.05,
+    "poster": "/images/posters/knives-out-2019.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
