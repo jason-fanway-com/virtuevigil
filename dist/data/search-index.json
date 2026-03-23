@@ -144,6 +144,18 @@
     "poster": "/images/posters/the-old-guard-2020.jpg"
   },
   {
+    "slug": "tenet-2020",
+    "title": "Tenet",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Spy Thriller / Science Fiction",
+    "year": 2020,
+    "type": "film",
+    "wokeScore": 1.5,
+    "tradScore": 17.23,
+    "poster": "/images/posters/tenet-2020.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
