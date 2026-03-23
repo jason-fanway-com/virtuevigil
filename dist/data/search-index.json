@@ -24,6 +24,18 @@
     "poster": "/images/posters/no-time-to-die-2021.jpg"
   },
   {
+    "slug": "blue-beetle-2023",
+    "title": "Blue Beetle",
+    "verdict": "WOKE LEAN",
+    "platform": "Theaters / Max",
+    "genre": "Superhero / Action",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 15.08,
+    "tradScore": 8.75,
+    "poster": "/images/posters/blue-beetle-2023.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
