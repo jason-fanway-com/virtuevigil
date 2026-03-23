@@ -216,6 +216,18 @@
     "poster": "/images/posters/aladdin-2019.jpg"
   },
   {
+    "slug": "ford-v-ferrari-2019",
+    "title": "Ford v Ferrari",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Sports / Biography",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 22.05,
+    "poster": "/images/posters/ford-v-ferrari-2019.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
