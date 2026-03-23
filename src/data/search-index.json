@@ -60,6 +60,18 @@
     "poster": "/images/posters/ghostbusters-afterlife-2021.jpg"
   },
   {
+    "slug": "the-matrix-resurrections-2021",
+    "title": "The Matrix Resurrections",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical / HBO Max",
+    "genre": "Sci-Fi Action",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 15.05,
+    "tradScore": 8.75,
+    "poster": "/images/posters/the-matrix-resurrections-2021.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
