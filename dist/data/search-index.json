@@ -156,6 +156,18 @@
     "poster": "/images/posters/tenet-2020.jpg"
   },
   {
+    "slug": "spider-man-far-from-home-2019",
+    "title": "Spider-Man: Far From Home",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Superhero / Action / Comedy",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 7.4,
+    "tradScore": 17.99,
+    "poster": "/images/posters/spider-man-far-from-home-2019.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
