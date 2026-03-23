@@ -132,6 +132,18 @@
     "poster": "/images/posters/birds-of-prey-2020.jpg"
   },
   {
+    "slug": "the-old-guard-2020",
+    "title": "The Old Guard",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Action / Fantasy",
+    "year": 2020,
+    "type": "film",
+    "wokeScore": 10.9,
+    "tradScore": 14.83,
+    "poster": "/images/posters/the-old-guard-2020.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
