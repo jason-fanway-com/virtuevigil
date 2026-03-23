@@ -108,6 +108,18 @@
     "poster": "/images/posters/wonder-woman-1984-2020.jpg"
   },
   {
+    "slug": "soul-2020",
+    "title": "Soul",
+    "verdict": "TRADITIONAL",
+    "platform": "Disney+ (theatrical release cancelled due to COVID-19)",
+    "genre": "Animated Drama / Fantasy",
+    "year": 2020,
+    "type": "film",
+    "wokeScore": 3.2,
+    "tradScore": 21.14,
+    "poster": "/images/posters/soul-2020.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
