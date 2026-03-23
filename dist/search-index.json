@@ -72,6 +72,18 @@
     "poster": "/images/posters/the-matrix-resurrections-2021.jpg"
   },
   {
+    "slug": "space-jam-a-new-legacy-2021",
+    "title": "Space Jam: A New Legacy",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / HBO Max",
+    "genre": "Live Action / Animated Sports Comedy",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 5.2,
+    "tradScore": 8.89,
+    "poster": "/images/posters/space-jam-a-new-legacy-2021.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
