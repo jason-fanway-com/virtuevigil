@@ -1540,6 +1540,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/woke-horror-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-sequels-more-woke-than-original/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/rotten-tomatoes-vs-virtuevigil/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-faith-based-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -6129,6 +6130,153 @@ function build() {
 
       <div class="listicle-conclusion" style="background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);border-radius:10px;padding:22px 26px;margin:28px 0;">
         <p>VirtueVigil does not ask whether a film is good. We ask what it is arguing and how aggressively it argues it. Rotten Tomatoes critic scores tell you whether film critics approved. Our scores tell you what is actually in the film. For any movie you are considering, check the full VirtueVigil analysis at <a href="/reviews/">VirtueVigil</a> before deciding whether the critics' recommendation is meant for you.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/best-faith-based-movies/index.html', buildListiclePage({
+    slug: 'best-faith-based-movies',
+    title: '10 Best Faith-Based Movies of All Time (Ranked by VirtueVigil Score)',
+    description: 'The definitive ranking of the best Christian and faith-based films ever made, scored and analyzed using the VirtueVigil Woke-Watch methodology.',
+    canonicalPath: 'lists/best-faith-based-movies',
+    publishDate: '2026-03-23',
+    htmlContent: `<article class="listicle-article">
+      <p>Hollywood has a complicated relationship with faith. When it treats Christianity as a psychological disorder, a tool of institutional oppression, or a horror villain's calling card, the critical establishment applauds. When filmmakers take faith seriously, as something true and worthy of cinematic reverence, the industry either ignores them or condescends with faint praise about "passionate audiences."</p>
+
+      <p>This list is for the audience that gets ignored. Ten films that treat faith not as a problem to be solved but as the animating force of a life worth living. Some of these were made by deeply devout filmmakers. Others were made by Hollywood outsiders who bet their own money on stories the studios would not touch. All of them succeeded because the audience showed up.</p>
+
+      <p>VirtueVigil scored each film using our full Woke-Watch Scoring System. The scores below reflect content, not piety. A very low woke score combined with a high traditional score indicates a film aligned with conservative, faith-centered values. We note where reviewed films link to full analyses. For titles not yet in our database, we draw from cast and crew records, box office data, and content documentation.</p>
+
+      <p>Rankings run from #10 to #1, ordered by VirtueVigil Traditional Score and overall alignment with faith-positive values.</p>
+
+      <hr>
+
+      <h2>#10 - Cabrini (2024)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 3.0</span>
+        <span class="score-badge trad-score">Traditional Score: 72</span>
+        <span class="score-badge verdict-traditional">TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography/Drama &bull; <strong>Platform:</strong> Theatrical / Angel Studios &bull; <strong>MPAA:</strong> PG-13</p>
+      <p>Angel Studios, the company behind Sound of Freedom, distributed this story of Francesca Cabrini, an Italian immigrant nun who became America's first canonized saint. Director Alejandro Monteverde (Bella) brings the same earnest reverence he applied to that 2007 pro-life film. Cristiana Dell'Anna plays Cabrini as someone driven by pure conviction, fighting city officials, church bureaucrats, and a hostile Archbishop to build hospitals and schools for New York's most desperate immigrants in the 1880s. The film does not editorialize. It shows a woman whose faith was the source of her strength, not a crutch or a complication. The Catholic church is portrayed with complexity but not contempt. Cabrini's stubbornness is presented as saintly persistence, not a feminist rebuke of male authority. Box office: $24 million domestic against a modest budget. A quiet success for faith-based theatrical distribution.</p>
+      <p><a href="/reviews/cabrini-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cabrini</a></p>
+
+      <hr>
+
+      <h2>#9 - Father Stu (2022)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 2.0</span>
+        <span class="score-badge trad-score">Traditional Score: 78</span>
+        <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography/Drama &bull; <strong>Platform:</strong> Theatrical / Digital &bull; <strong>MPAA:</strong> R</p>
+      <p>Mark Wahlberg produced and stars in this based-on-a-true-story film about Stuart Long, a hard-drinking former boxer who becomes a Catholic priest after a near-death accident and then ministers to incarcerated men while dying slowly from a degenerative muscle disease. The R rating is honest: this film does not sanitize Long's rough edges or his suffering. It earns its grace by refusing sentimentality. Mel Gibson co-stars as Long's estranged father. Wahlberg spent years developing it as a personal project, subsidizing production himself when no studio would fund it. The conversion arc is handled without condescension or manipulation. Long does not become a saint because God makes things easy. He becomes one because faith is what makes unbearable suffering bearable. One of the most unflinching and genuinely moving portrayals of conversion in American cinema.</p>
+      <p><a href="/reviews/father-stu-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Father Stu</a></p>
+
+      <hr>
+
+      <h2>#8 - Hacksaw Ridge (2016)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 2.4</span>
+        <span class="score-badge trad-score">Traditional Score: 81</span>
+        <span class="score-badge verdict-traditional">TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War/Biography/Drama &bull; <strong>Platform:</strong> Theatrical / Streaming &bull; <strong>MPAA:</strong> R</p>
+      <p>Mel Gibson's return to directing after a decade in the Hollywood penalty box produced one of the decade's most powerful films about conscience, faith, and heroism. Andrew Garfield plays Desmond Doss, the only American conscientious objector to receive the Medal of Honor, a Seventh-day Adventist who refused to carry a weapon but served as a combat medic at Okinawa, saving 75 men while under fire. Gibson does not soften the brutality of the battle sequences, which rank among the most viscerally effective ever filmed. The faith is not decoration. Doss's refusal to compromise his beliefs, even under military pressure and the contempt of his fellow soldiers, is the entire point of the film. The awards season took notice: six Oscar nominations including Best Picture and Best Director. Gibson's personal faith informs every frame without becoming dogma. The film belongs to Garfield, whose performance is one of the finest of his career.</p>
+      <p><a href="/reviews/hacksaw-ridge-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Hacksaw Ridge</a></p>
+
+      <hr>
+
+      <h2>#7 - I Can Only Imagine (2018)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 1.2</span>
+        <span class="score-badge trad-score">Traditional Score: 84</span>
+        <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography/Drama/Music &bull; <strong>Platform:</strong> Theatrical / Digital &bull; <strong>MPAA:</strong> PG</p>
+      <p>The true story behind MercyMe's Christian anthem, which became the best-selling Christian single in history, this film made $83 million domestic against a $7 million budget, one of the highest percentage returns in recent Hollywood history. J. Michael Finley plays Bart Millard, whose abusive father (Dennis Quaid, in a career-best performance) undergoes a transformative conversion that becomes the emotional core of the film and the source of the song. The Erwin Brothers directed with genuine craft, not just faith-market formula. The abuse is not minimized; the redemption is not handed out cheaply. This is a film about how faith can change a man who has given everyone around him reason to stop believing he can change. The box office proved the hunger for this kind of story. Hollywood noticed, quietly, and greenlit more. A direct precursor to the Angel Studios model of bypassing studio gatekeepers entirely.</p>
+
+      <hr>
+
+      <h2>#6 - The King of Kings (2025)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 0.0</span>
+        <span class="score-badge trad-score">Traditional Score: 87</span>
+        <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Biblical Epic &bull; <strong>Platform:</strong> Theatrical / Angel Studios &bull; <strong>MPAA:</strong> PG</p>
+      <p>Angel Studios produced this animated retelling of the life of Jesus framed as a story told to the real-life Mark Twain, voiced by Kenneth Branagh, as he writes a novel about the Gospel accounts. The framing device is clever: it gives secular audiences a literary entry point while the biblical narrative unfolds with genuine reverence. The character animation is ambitious for independent production, and the Gospel sequences are handled with a fidelity that mainstream studios no longer attempt. Angel Studios crowdfunded the marketing campaign directly from their audience, bypassing traditional studio distribution deals entirely. That model has now become the template for faith-based theatrical releases. The woke score of 0.0 is not a floor; it reflects the absence of any material that conflicts with orthodox Christian values. For families looking for a film that treats the Gospel as history rather than mythology, this is the current gold standard in animated biblical content.</p>
+      <p><a href="/reviews/the-king-of-kings-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The King of Kings</a></p>
+
+      <hr>
+
+      <h2>#5 - David (2025)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 2.0</span>
+        <span class="score-badge trad-score">Traditional Score: 88</span>
+        <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Musical/Biblical Epic &bull; <strong>Platform:</strong> Theatrical / Angel Studios &bull; <strong>MPAA:</strong> PG</p>
+      <p>Angel Studios followed The King of Kings with this animated musical covering the life of David from his days as a shepherd boy through Goliath and into the complexities of kingship. The decision to make the biblical epic a musical was bold and it pays off: the songs advance the narrative rather than pausing it, and the score captures both the triumph and the genuine moral darkness in David's story. The film does not flinch from David's failures. Bathsheba is there. Uriah's death is there. A child's story this is not, and the filmmakers deserve credit for trusting the source material. VirtueVigil scored it as Strongly Traditional. The animation style draws from the best of western biblical illustration while incorporating Middle Eastern visual motifs that feel earned rather than decorative. Two biblically faithful animated musicals from the same studio in one year would have been unimaginable ten years ago. The audience that exists for these films is large and underserved.</p>
+      <p><a href="/reviews/david-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of David</a></p>
+
+      <hr>
+
+      <h2>#4 - Sound of Freedom (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 4.2</span>
+        <span class="score-badge trad-score">Traditional Score: 89</span>
+        <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller/Biography &bull; <strong>Platform:</strong> Theatrical / Digital &bull; <strong>MPAA:</strong> PG-13</p>
+      <p>The film that proved the faith-based audience could move the market on its own terms. Jim Caviezel plays Tim Ballard, a Homeland Security agent who resigns his government position to rescue children from sex traffickers in South America. Angel Studios acquired the film after Disney shelved it for three years following their acquisition of Fox. The audience crowdfunded marketing, reserved seats in advance to fill theaters, and drove a $14 million opening weekend for a film without a single major studio advertisement. It ultimately grossed $250 million worldwide, more than Indiana Jones and the Dial of Destiny opened the same weekend. The mainstream press spent much of the summer fact-checking it rather than reviewing it. The audience did not care. The film's explicit Christian framing, Ballard is guided by faith throughout, and its portrayal of child trafficking as a moral absolute requiring action regardless of personal cost made it a cultural flashpoint. The most commercially successful faith-adjacent film of the last decade by return on investment.</p>
+      <p><a href="/reviews/sound-of-freedom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sound of Freedom</a></p>
+
+      <hr>
+
+      <h2>#3 - God's Not Dead (2014)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 1.5</span>
+        <span class="score-badge trad-score">Traditional Score: 90</span>
+        <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical / Digital &bull; <strong>MPAA:</strong> PG</p>
+      <p>The film that built the modern faith-based theatrical market. Pure Flix's production about a college freshman who refuses to sign a statement declaring God does not exist in a philosophy class made $62 million on a $2 million budget, one of the most astonishing returns in independent film history. Kevin Sorbo plays the atheist professor as a committed antagonist, and the film does not pretend to neutrality: it is an explicit apologetics exercise designed for a church-going audience that felt its worldview was under siege in secular institutions. The argument scenes between Sorbo and Shane Harper (as the student, Josh Wheaton) are genuinely engaging even for viewers who disagree with the conclusions. Every Christian film distribution company that came after, from faith-based theatrical to Angel Studios' direct-audience model, traces its business logic back to what God's Not Dead proved was possible. It spawned three sequels and a cultural phenomenon. The woke score reflects the absence of progressive content; the traditional score reflects consistent, explicit, theologically sincere Christian framing throughout.</p>
+
+      <hr>
+
+      <h2>#2 - Risen (2016)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 0.8</span>
+        <span class="score-badge trad-score">Traditional Score: 92</span>
+        <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biblical Drama/Historical &bull; <strong>Platform:</strong> Theatrical / Digital &bull; <strong>MPAA:</strong> PG-13</p>
+      <p>One of the most underrated films in the faith genre, this dramatization of the Resurrection as seen through the eyes of a Roman tribune ordered to investigate the missing body of Jesus takes its premise with complete seriousness. Joseph Fiennes plays Clavius, a Roman soldier who witnessed crucifixions every week as a matter of military routine, and who is assigned by Pilate to ensure the disciples cannot claim a resurrection. The film's masterstroke is its perspective: we follow a skeptic doing a forensic investigation of events the audience already knows the answer to. When Clavius encounters the risen Christ, it lands as a dramatic revelation precisely because the film has spent its entire runtime inhabiting his unbelief. Director Kevin Reynolds brought more craft to the material than the faith film market typically receives, and the result is the rare biblical film that works both as historical drama and as devotional cinema. Widely overlooked, deeply rewatchable.</p>
+
+      <hr>
+
+      <h2>#1 - The Passion of the Christ (2004)</h2>
+      <div class="listicle-scores">
+        <span class="score-badge woke-score">Woke Score: 0.0</span>
+        <span class="score-badge trad-score">Traditional Score: 97</span>
+        <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biblical Drama &bull; <strong>Platform:</strong> Theatrical / Digital &bull; <strong>MPAA:</strong> R</p>
+      <p>The most commercially successful independent film ever made. Mel Gibson spent $30 million of his own money to produce a film in Aramaic and Latin with no A-list cast, no studio backing, and no marketing budget. Major studios declined distribution. Gibson self-distributed. The Passion of the Christ made $611 million worldwide and became the highest-grossing R-rated film in history at the time of its release, a record it held for over a decade. The film focuses on the final 12 hours of Jesus's life with an unflinching commitment to physical and spiritual suffering that the mainstream industry would never have sanctioned. Jim Caviezel's performance required such physical and psychological intensity that he suffered a separated shoulder, hypothermia, lung infection, and was struck by lightning during production. Gibson's direction is without agenda beyond depicting the Gospel accounts as literally as cinema allows. The mainstream critical establishment was hostile. The audience bypassed the critics entirely and made it a cultural event. No faith-based film before or since has matched its combination of uncompromising conviction, artistic seriousness, and commercial dominance. The benchmark against which every Christian film is measured. VirtueVigil's traditional score of 97 is the highest in our database.</p>
+      <p><a href="/reviews/the-passion-of-the-christ-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Passion of the Christ</a></p>
+
+      <hr>
+
+      <div class="listicle-conclusion">
+        <h3>Why These Films Matter</h3>
+        <p>The faith-based film market is not a niche. It is a market that Hollywood systematically underserves because the people who greenlight films do not share the values of the people who buy tickets. The box office data above makes the case without needing commentary: modest budgets, enormous returns, audiences who show up in church groups and return for second and third viewings because the films mean something to them beyond entertainment.</p>
+
+        <p>VirtueVigil exists partly to document what these films get right. A low woke score and a high traditional score do not mean a film is propaganda. The Passion of the Christ is not propaganda. It is one man's sincere, financially ruinous, commercially triumphant act of cinematic faith. Hacksaw Ridge is a war film that happens to believe its subject's religion made him genuinely heroic. Cabrini is a biopic about a woman whose accomplishments were inseparable from her vocation.</p>
+
+        <p>Hollywood could make more of these. The data says they would make money. The industry's cultural gatekeepers have decided the audience for these films is not their audience. The audience has responded by finding other ways to get what they want. Angel Studios is the most visible result. It will not be the last.</p>
+
+        <p>Browse our full review library to see how every faith-adjacent film we have analyzed scores. Our <a href="/methodology.html">Methodology page</a> explains how we calculate Traditional Score and Woke Score. And if you want to see what the opposite of this list looks like, read <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a>.</p>
       </div>
     </article>`
   }));

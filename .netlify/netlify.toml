@@ -1,16 +1,15 @@
+functionsDirectory = "/Users/joestrazza/virtuevigil/netlify/functions"
+functionsDirectoryOrigin = "default"
 headersOrigin = "config"
 redirectsOrigin = "config"
 plugins = []
-
-[functions]
-
-[functions."*"]
 
 [build]
 publish = "/Users/joestrazza/virtuevigil/dist"
 publishOrigin = "config"
 commandOrigin = "config"
 command = "node build.js"
+functions = "/Users/joestrazza/virtuevigil/netlify/functions"
 
 [build.environment]
 
@@ -25,6 +24,10 @@ command = "node build.js"
 [build.processing.js]
 
 [build.services]
+
+[functions]
+
+[functions."*"]
 
 [[headers]]
 for = "/css/*"
@@ -75,6 +78,18 @@ from = "/category/:slug"
 to = "/category/:slug/index.html"
 status = 200.0
 force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/tiktok/callback"
+to = "/.netlify/functions/tiktok-oauth"
+status = 200.0
+force = true
 
 [redirects.query]
 
