@@ -48,6 +48,18 @@
     "poster": "/images/posters/free-guy-2021.jpg"
   },
   {
+    "slug": "ghostbusters-afterlife-2021",
+    "title": "Ghostbusters: Afterlife",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Peacock",
+    "genre": "Supernatural Adventure Comedy",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 2.4,
+    "tradScore": 17.29,
+    "poster": "/images/posters/ghostbusters-afterlife-2021.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
