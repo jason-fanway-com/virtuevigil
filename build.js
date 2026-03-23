@@ -1536,6 +1536,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/most-woke-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2021/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-2019/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/family-friendly-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/a24-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-horror-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
@@ -2646,6 +2647,96 @@ function build() {
       <p>All scores are generated using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality, entertainment value, or artistic merit. A high score means a film contains a high volume of identifiable progressive messaging relative to its runtime. For full details on how we score, visit our <a href="/methodology.html">Methodology</a> page.</p>
 
       <p>2021 proved that even in a recovery year, Hollywood could not resist using its biggest franchises as ideological delivery vehicles. Eternals set the MCU record for both critical failure and woke scoring in the same release. The Matrix came back as a trans liberation allegory. Bond got his 007 designation handed to a Black woman. The data does not lie and it does not editorialize. If you want to know what else scored in 2021 and beyond, browse the full VirtueVigil review database at <a href="/reviews/">virtuevigil.com/reviews/</a> and see every film scored, ranked, and broken down by the numbers.</p>
+    </article>`
+  }));
+
+  writePage('lists/most-woke-movies-2019/index.html', buildListiclePage({
+    slug: 'most-woke-movies-2019',
+    title: '10 Most Woke Movies of 2019 (Ranked by VirtueVigil Score)',
+    description: 'VirtueVigil ranks the most woke movies of 2019 using our scoring system. From hidden agendas to overt messaging, here is the full breakdown.',
+    canonicalPath: 'lists/most-woke-movies-2019',
+    publishDate: '2026-03-23',
+    htmlContent: `<article class="listicle-article">
+      <p>2019 was a landmark year for ideologically charged cinema. From Disney blockbusters to prestige dramas, Hollywood loaded its releases with progressive messaging. VirtueVigil scored each film using our Woke Warning System (VVWS) and here are the 10 that ranked highest on the woke scale.</p>
+
+      <p>The rankings below run from #10 (lowest woke score in the top 10) to #1 (highest). Scores reflect the density and intensity of progressive ideological content as measured by the VirtueVigil Woke Score system. These are not quality ratings. A high woke score does not mean a bad film. It means a film with a high volume of identifiable progressive messaging embedded in its storytelling.</p>
+
+      <hr>
+
+      <h2>#10 - Once Upon a Time in Hollywood (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 6.8 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Score Margin:</strong> +12 TRAD</p>
+      <p>Tarantino's love letter to Old Hollywood lands at #10 on this list with the lowest woke score in the top 10 at 6.8. It earns its place by being one of the few major 2019 releases with any measurable progressive content at all. The film's sympathy for working-class male friendship, its contempt for Manson-era counterculture chaos, and its revisionist defense of the innocent put it solidly in traditional territory overall. Leonardo DiCaprio and Brad Pitt as two men being left behind by a changing Hollywood is a story about craft, loyalty, and the wish that competent men could always protect the innocent.</p>
+      <p><a href="/reviews/once-upon-a-time-in-hollywood-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Once Upon a Time in Hollywood</a></p>
+
+      <hr>
+
+      <h2>#9 - Spider-Man: Far From Home (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 7.4 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Score Margin:</strong> +11 TRAD</p>
+      <p>Far From Home is one of the cleaner MCU entries from an ideological standpoint and its woke score of 7.4 reflects that. Peter Parker's coming-of-age arc is earnest and traditional. He has a crush, a best friend, and a desperate need for a father figure to replace Tony Stark. The villain, Mysterio, exploits that grief with a clarity that makes the film's moral architecture unusually clean for modern Marvel. Mild woke markers in the diverse supporting cast register on the scale without derailing the main story. A confident, warm superhero film about grief and growing up.</p>
+      <p><a href="/reviews/spider-man-far-from-home-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: Far From Home</a></p>
+
+      <hr>
+
+      <h2>#8 - Aladdin (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 8.18 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +4 TRAD</p>
+      <p>Disney's live-action remake of Aladdin preserves the original's warm heart and traditional love story while explicitly updating Jasmine's arc into feminist leadership territory. The woke score of 8.18 comes primarily from the new song "Speechless," written to give Jasmine an overt empowerment anthem, and from the film's decision to give her a political ambition to become Sultan rather than simply be free to choose who she marries. The core story still rewards honesty and punishes deception. Will Smith's Genie is the film's biggest surprise, delivering a high-energy performance that is entirely his own rather than a Williams imitation.</p>
+      <p><a href="/reviews/aladdin-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Aladdin</a></p>
+
+      <hr>
+
+      <h2>#7 - Avengers: Endgame (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 10.54 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +3 TRAD</p>
+      <p>The highest-grossing film in history earns a woke score of 10.54 from the "all-female Avengers" moment that paused the climax for a studio mandate, from Steve Rogers handing the shield to Sam Wilson as the MCU's deliberate Black Captain America setup, and from minor progressive ensemble moments throughout. That said, the film's emotional engine is entirely traditional: sacrifice, duty, love, and the courage to give everything for the people you protect. Tony Stark's death is the most traditionally coded moment in MCU history. The film sits at +3 TRAD because the traditional content dominates. One foot in old-school Marvel storytelling, one foot in the progressive identity politics that would eventually sink the franchise.</p>
+      <p><a href="/reviews/avengers-endgame-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avengers: Endgame</a></p>
+
+      <hr>
+
+      <h2>#6 - Joker (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 13.05 &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Score Margin:</strong> +1 TRAD</p>
+      <p>Joker made a billion dollars, triggered FBI security warnings, and managed to infuriate both sides of the culture war simultaneously. The class warfare framing and the portrayal of Thomas Wayne as a contemptuous plutocrat push the woke score to 13.05. But the film's anti-institutional nihilism, its refusal to offer progressive solutions to the social failures it depicts, and Todd Phillips' explicit contempt for woke culture push back in the other direction. Joaquin Phoenix's performance is so dominant that it transcends the debate. The score margin of +1 TRAD is razor-thin and accurately reflects a film that neither side gets to claim.</p>
+      <p><a href="/reviews/joker-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Joker</a></p>
+
+      <hr>
+
+      <h2>#5 - Us (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 13.14 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -4 WOKE</p>
+      <p>Jordan Peele's follow-up to Get Out earns a woke score of 13.14 on the strength of its central metaphor: the Tethered as a progressive critique of American inequality and systemic exploitation. The underground people represent the Americans society has forgotten, discarded, and left to rot while their surface counterparts live comfortable lives built on ignoring them. The execution is sophisticated enough to warrant engagement. Lupita Nyong'o delivers an extraordinary dual performance that is the only reason the film's ambitious allegory holds together as long as it does. The ideology is present at every level of the narrative architecture, even where the plot logic strains.</p>
+      <p><a href="/reviews/us-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Us</a></p>
+
+      <hr>
+
+      <h2>#4 - Knives Out (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 13.44 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -5 WOKE</p>
+      <p>Rian Johnson built one of the year's best films around a bluntly progressive immigration argument. The moral architecture of Knives Out is unambiguous: every virtue belongs to Marta Cabrera, the immigrant nurse protagonist, and every vice belongs to the wealthy native-born Thrombey family. The knife clearly points one direction. Johnson is too skilled a filmmaker to let the thesis overwhelm the entertainment, and the result is a film that conservatives can genuinely enjoy despite its openly progressive politics. Daniel Craig as Benoit Blanc delivers the best Craig performance not in a Bond film. Crafted well enough to entertain the people it disagrees with.</p>
+      <p><a href="/reviews/knives-out-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Knives Out</a></p>
+
+      <hr>
+
+      <h2>#3 - Toy Story 4 (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 17.2 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -9 WOKE</p>
+      <p>The most controversial entry on this list. Toy Story 4 is technically dazzling and emotionally manipulative. Its woke score of 17.2 is not about gender politics or identity messaging. It is about philosophy. The film quietly argues that Woody was wrong about everything the first three movies said he was right about. Loyalty to a child, duty, purpose through belonging, these are reframed as attachments Woody needed to transcend. Self-discovery over duty. Personal authenticity over commitment. The franchise that built its moral universe on purpose-through-service dismantles that universe in the final fifteen minutes and calls it growth. That ideological shift from the franchise's roots earns its score.</p>
+      <p><a href="/reviews/toy-story-4-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Toy Story 4</a></p>
+
+      <hr>
+
+      <h2>#2 - Frozen II (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 19.0 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -5 WOKE</p>
+      <p>Frozen II takes bigger ideological swings than the original and connects with roughly half of them. Where the 2013 film was a personal story about sisters and self-acceptance, the sequel expands into colonialism, historical reparations, and the moral obligation to dismantle the systems your ancestors built on exploitation. Elsa discovers her grandfather built a dam to weaken the Northuldra, an indigenous people, and the film's resolution requires tearing down that dam regardless of consequences to Arendelle. The message is not subtle: inherited privilege must be actively dismantled, even at personal cost. A woke score of 19.0 reflects a film that chose to lecture where its predecessor chose to tell a story.</p>
+      <p><a href="/reviews/frozen-ii-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Frozen II</a></p>
+
+      <hr>
+
+      <h2>#1 - Captain Marvel (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 19.44 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Score Margin:</strong> -16 WOKE</p>
+      <p>Captain Marvel tops the 2019 list as the MCU's most deliberately ideological film. Released on International Women's Day, directed with a female co-director by studio mandate, scored by the first female MCU composer, and built around a feminist empowerment narrative that makes its thesis explicit rather than implicit. This is not a film that happens to have a female protagonist. It is a film about feminism with superhero action sequences attached. The male authority figure is a manipulative villain. The military is an imperial oppressor. The refugee allegory is unambiguous. Carol Danvers' arc culminates not in earned heroism but in the removal of external limits on her power, which the film frames as women finally being allowed to fight without restraint. Minimal traditional content. The MCU's most ideologically committed entry in its first decade.</p>
+      <p><a href="/reviews/captain-marvel-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain Marvel</a></p>
+
+      <hr>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality, entertainment value, or artistic merit. A high score means a film contains a high volume of identifiable progressive messaging relative to its runtime. For full details on how we score, visit our <a href="/methodology.html">Methodology</a> page.</p>
+
+      <p>2019 was the last year before COVID scrambled production schedules and accelerated the streaming wars. The films on this list represent Hollywood at full commercial capacity, using its biggest franchises to push progressive ideas to the widest possible audiences. Want to see which 2019 films earned a TRADITIONAL or STRONGLY TRADITIONAL rating? Browse the full 2019 catalog at <a href="/reviews/">VirtueVigil.com/reviews/</a> and see every film scored, ranked, and broken down by the numbers. For comparison, see our full annual rankings series: <a href="/lists/most-woke-movies-2021/">2021</a>, <a href="/lists/most-woke-movies-2023/">2023</a>, and <a href="/lists/most-woke-movies-2024/">2024</a>.</p>
     </article>`
   }));
 
