@@ -96,6 +96,18 @@
     "poster": "/images/posters/bridgerton-season-4-2026.jpg"
   },
   {
+    "slug": "a-minecraft-movie-2025",
+    "title": "A Minecraft Movie",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Warner Bros. Pictures)",
+    "genre": "Fantasy Adventure Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 2.7,
+    "tradScore": 10.24,
+    "poster": "/images/posters/a-minecraft-movie-2025.jpg"
+  },
+  {
     "slug": "paddington-2-2017",
     "title": "Paddington 2",
     "verdict": "STRONGLY TRADITIONAL",
