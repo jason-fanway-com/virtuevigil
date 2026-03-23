@@ -1,5 +1,17 @@
 [
   {
+    "slug": "dune-part-one-2021",
+    "title": "Dune: Part One",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters / HBO Max",
+    "genre": "Sci-Fi Epic",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 7.1,
+    "tradScore": 20.02,
+    "poster": "/images/posters/dune-part-one-2021.jpg"
+  },
+  {
     "slug": "lilo-and-stitch-2025",
     "title": "Lilo & Stitch",
     "verdict": "TRADITIONAL LEAN",
