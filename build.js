@@ -6462,6 +6462,171 @@ function build() {
       </div>
     </article>`
   }));
+  writePage('lists/conservative-sci-fi-movies/index.html', buildListiclePage({
+    slug: 'conservative-sci-fi-movies',
+    title: 'Best Sci-Fi Movies for Conservatives (Ranked by Values Score)',
+    description: 'The best sci-fi movies ranked by traditional values score. Find space epics, action thrillers and classic sci-fi without the woke agenda.',
+    canonicalPath: 'lists/conservative-sci-fi-movies',
+    publishDate: '2026-03-23',
+    htmlContent: `<article class="listicle-article">
+
+      <p>Science fiction has always been a battleground. The genre that gave us totalitarian dystopias, cautionary tales about overreaching technology, and stories of individual courage against impossible odds has also become a prime delivery vehicle for progressive ideology. In recent years, the big studios have used sci-fi's built-in speculative canvas to insert lectures about systemic oppression, deconstruct masculinity, and replace heroism with victimhood. The result has been a string of expensive box office disappointments and a conservative audience that no longer trusts the genre it once loved.</p>
+
+      <p>VirtueVigil has scored every major sci-fi release using our Woke-Watch Scoring System, a rigorous rubric that evaluates films for traditional and progressive content across more than 20 categories. These rankings are based on real data. The margin shown next to each title is the gap between the traditional score and the woke score. A higher TRAD margin means a cleaner film for conservative viewers. Use this list to find sci-fi worth watching, to filter out the preachy, and to share with friends who have given up on Hollywood. The genre is not dead. You just have to know where to look.</p>
+
+      <hr>
+
+      <h2>#1 - <a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 22.05</span>
+        <span class="mini-score woke">WOKE: 3.5</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2021 &bull; <strong>Margin:</strong> +19 TRAD</p>
+      <p>Spider-Man: No Way Home is not just the best Spider-Man film ever made. It is a film about sacrifice, responsibility, and the cost of love. Peter Parker does not choose the easy path. He chooses the right one, erasing himself from every person he loves to save the world from multiversal chaos. The themes here are ancient: duty over self, sacrifice without recognition, the weight of a moral code that does not bend. Marvel has never made a film more aligned with traditional values, and it is also one of the most emotionally devastating blockbusters of the past decade.</p>
+      <p><a href="/reviews/spider-man-no-way-home-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: No Way Home</a></p>
+      <hr>
+
+      <h2>#2 - <a href="/reviews/war-machine-2026/">War Machine</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 22</span>
+        <span class="mini-score woke">WOKE: 4</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2026 &bull; <strong>Margin:</strong> +18 TRAD</p>
+      <p>War Machine is a glorious throwback to the testosterone-fueled sci-fi action films of the 1980s. Patrick Hughes delivers a squad-based military thriller that could sit comfortably beside Predator and Aliens. Chain of command is sacred. Brotherhood is earned. Sacrifice is real. There is no identity politics, no lectures, and no apologies for masculine competence. If you are a conservative who has been burned by Hollywood action films over the last decade, War Machine is the antidote.</p>
+      <p><a href="/reviews/war-machine-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of War Machine</a></p>
+      <hr>
+
+      <h2>#3 - <a href="/reviews/inception-2010/">Inception</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 20.44</span>
+        <span class="mini-score woke">WOKE: 2.9</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2010 &bull; <strong>Margin:</strong> +18 TRAD</p>
+      <p>Christopher Nolan's heist-in-dreams masterpiece is driven by masculine grief, fatherly love, and moral accountability. Dom Cobb is not running from the law because the system is unjust. He is running because he made a catastrophic choice and is living with it. His mission is not vengeance or revolution. It is to get home to his children. The film treats fatherhood as the most powerful force in the universe, and Nolan's craftsmanship makes that argument feel true on a visceral level.</p>
+      <p><a href="/reviews/inception-2010/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Inception</a></p>
+      <hr>
+
+      <h2>#4 - <a href="/reviews/tenet-2020/">Tenet</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 17.23</span>
+        <span class="mini-score woke">WOKE: 1.5</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2020 &bull; <strong>Margin:</strong> +16 TRAD</p>
+      <p>Tenet is Christopher Nolan's most technically ambitious film and also one of the most apolitical blockbusters of the decade. There is no progressive agenda here, no lectures about systems or privilege. What exists is classical heroic storytelling: duty over personal interest, sacrifice for a larger good, masculine competence in service of humanity's survival. The Protagonist operates in a world of moral clarity. He does what needs to be done because it must be done. Conservatives will find this deeply satisfying.</p>
+      <p><a href="/reviews/tenet-2020/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Tenet</a></p>
+      <hr>
+
+      <h2>#5 - <a href="/reviews/guardians-of-the-galaxy-2014/">Guardians of the Galaxy</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 21.28</span>
+        <span class="mini-score woke">WOKE: 5.82</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2014 &bull; <strong>Margin:</strong> +15 TRAD</p>
+      <p>The best MCU origin film by a wide margin, and one of the most traditionally coded superhero movies ever produced. Guardians of the Galaxy is built on redemption arcs, sacrificial love, and a found family forged through genuine need rather than political mandate. Groot's sacrifice alone earns its TRADITIONAL verdict. Star-Lord's 26-year grief for his mother anchors the entire film in something real. James Gunn made a film about broken people choosing to be better, and it works because it is honest about why they were broken to begin with.</p>
+      <p><a href="/reviews/guardians-of-the-galaxy-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guardians of the Galaxy</a></p>
+      <hr>
+
+      <h2>#6 - <a href="/reviews/interstellar-2014/">Interstellar</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 23.16</span>
+        <span class="mini-score woke">WOKE: 7.72</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2014 &bull; <strong>Margin:</strong> +15 TRAD</p>
+      <p>Christopher Nolan's space epic treats fatherhood as a literally universal force. Cooper leaves his daughter because humanity's survival demands it, and the film never lets us forget the cost of that choice. Masculine duty and sacrifice are portrayed as heroic without irony. Science and spiritual awe coexist here rather than fight each other. Interstellar is one of Hollywood's most traditionally grounded blockbusters, wrapped in genuine scientific rigor and extraordinary filmmaking. The ending will wreck you.</p>
+      <p><a href="/reviews/interstellar-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Interstellar</a></p>
+      <hr>
+
+      <h2>#7 - <a href="/reviews/furiosa-a-mad-max-saga-2024/">Furiosa: A Mad Max Saga</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 22</span>
+        <span class="mini-score woke">WOKE: 8</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2024 &bull; <strong>Margin:</strong> +14 TRAD</p>
+      <p>The online discourse called Furiosa woke. The online discourse was wrong. George Miller's prequel is a revenge story driven by family loyalty and the desire to reclaim something stolen. Furiosa does not want to dismantle systems. She wants to go home. Her decade-long campaign is not about ideology. It is about the primal drive to return to where you came from and make right what was taken. The Wasteland has a clear moral order. Evil is unmistakably evil. And the climax rewards endurance over protest.</p>
+      <p><a href="/reviews/furiosa-a-mad-max-saga-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Furiosa: A Mad Max Saga</a></p>
+      <hr>
+
+      <h2>#8 - <a href="/reviews/greenland-2-migration-2026/">Greenland 2: Migration</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 18.62</span>
+        <span class="mini-score woke">WOKE: 5.05</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2026 &bull; <strong>Margin:</strong> +14 TRAD</p>
+      <p>Greenland 2: Migration is a deeply traditional film wearing post-apocalyptic clothes. Strip away the CGI meteor showers and frozen landscapes, and what remains is the oldest story in the book: a dying father walks his family across a ruined world to find safety. Gerard Butler plays a traditional patriarch who scouts, protects, and makes brutal decisions to keep his family alive. The migration subplot is handled literally rather than politically. This is a film about family survival, paternal sacrifice, and the will to endure. Nothing more, and nothing less.</p>
+      <p><a href="/reviews/greenland-2-migration-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Greenland 2: Migration</a></p>
+      <hr>
+
+      <h2>#9 - <a href="/reviews/dune-part-one-2021/">Dune: Part One</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 20.02</span>
+        <span class="mini-score woke">WOKE: 7.1</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +13 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2021 &bull; <strong>Margin:</strong> +13 TRAD</p>
+      <p>Denis Villeneuve's Dune is a serious, morally complex epic that honors duty, sacrifice, and the weight of leadership while warning against the seductive danger of messianic politics. Paul Atreides does not want the throne. He understands that power corrupts and that destiny is a cage. The film takes religion, tribal loyalty, and martial tradition seriously. The Fremen are not a metaphor for progressive grievance. They are a people with a code, a culture, and a homeland worth defending. Villeneuve directs it all with a gravity that modern blockbusters rarely attempt.</p>
+      <p><a href="/reviews/dune-part-one-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dune: Part One</a></p>
+      <hr>
+
+      <h2>#10 - <a href="/reviews/nope-2022/">Nope</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 30</span>
+        <span class="mini-score woke">WOKE: 20</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2022 &bull; <strong>Margin:</strong> +10 TRAD</p>
+      <p>Jordan Peele's third film is his most formally ambitious and his most politically restrained. Nope centers a Black family whose legacy in Hollywood stretches back to the first moving image of a man on horseback. They fight to keep their land, their horses, and their dignity against a supernatural predator and a cynical industry that would commodify their survival. The film is a warning about spectacle culture and the exploitation of authentic people by those who profit from their pain. Its traditional score reflects genuine themes of family, legacy, land, and the refusal to be consumed.</p>
+      <p><a href="/reviews/nope-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Nope</a></p>
+      <hr>
+
+      <h2>#11 - <a href="/reviews/pluribus-2025/">Pluribus (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 27.51</span>
+        <span class="mini-score woke">WOKE: 15.6</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2025 &bull; <strong>Margin:</strong> +12 TRAD</p>
+      <p>Vince Gilligan's first series after Breaking Bad and Better Call Saul is the rarest thing in prestige television: a show that genuinely refuses to tell you what to think. Pluribus is a sci-fi drama that presents individual liberty, skepticism toward centralized power, and the dangers of ideological conformity as real threats worth dramatizing. It is not a conservative show, but it is a show that treats conservative concerns as legitimate. In an era when most prestige television signals its progressive credentials in the first five minutes, that makes Pluribus remarkable.</p>
+      <p><a href="/reviews/pluribus-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Pluribus</a></p>
+      <hr>
+
+      <h2>#12 - <a href="/reviews/guardians-of-the-galaxy-vol-3-2023/">Guardians of the Galaxy Vol. 3</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">TRAD: 14.36</span>
+        <span class="mini-score woke">WOKE: 5.18</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Year:</strong> 2023 &bull; <strong>Margin:</strong> +9 TRAD</p>
+      <p>James Gunn's farewell to the Guardians is the most emotionally ambitious MCU film since Endgame. Rocket's backstory is a meditation on abuse, survival, and the right of a created being to choose its own destiny. The High Evolutionary is one of Marvel's most genuinely monstrous villains because his evil is ideological: he believes in perfection through control and sees individual variation as a defect to eliminate. Gunn argues the opposite. What makes the Guardians worth saving is precisely their imperfection, their damage, and their choice to love each other anyway.</p>
+      <p><a href="/reviews/guardians-of-the-galaxy-vol-3-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guardians of the Galaxy Vol. 3</a></p>
+
+      <hr>
+
+      <div class="listicle-conclusion">
+        <h3>Browse More at VirtueVigil</h3>
+        <p>Science fiction at its best asks the biggest questions: What does it mean to be human? What are we willing to sacrifice for the people we love? What happens when power goes unchecked? The films on this list answer those questions with stories that take duty, family, sacrifice, and moral clarity seriously. They are proof that the genre does not have to be a vehicle for progressive ideology. Browse more reviews and rankings at VirtueVigil.com, where every score is earned and nothing is taken on trust.</p>
+      </div>
+    </article>`
+  }));
 
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
