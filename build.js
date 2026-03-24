@@ -6710,6 +6710,139 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/dc-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'dc-movies-woke-ranking',
+    title: 'Every DC Movie Ranked by Woke Score',
+    description: 'All 11 DC movies scored and ranked by VirtueVigil from most woke to most traditional. Real data on Birds of Prey, Aquaman, Batman, and more.',
+    canonicalPath: 'lists/dc-movies-woke-ranking',
+    publishDate: '2026-03-24',
+    htmlContent: `<article class="listicle-article">
+
+      <p>DC Comics gave us Batman and Superman -- two of the most enduring symbols of duty, sacrifice, and moral clarity in American culture. What Warner Bros. and its rotating cast of executives, directors, and studio mandates did with those symbols over the past decade is a different story. The DC Extended Universe was pitched as a rival to Marvel's dominance. Instead it became one of the most turbulent ideological experiments in blockbuster history: some films leaning hard into progressive messaging, others holding the line on traditional values, and a management structure that never quite found its identity before the whole thing was rebooted.</p>
+
+      <p>VirtueVigil scored all 11 DC films in its database using the same dual-axis methodology applied to every review on the site: woke content measured against traditional values content, with a margin that tells you which direction each film actually leans. No reputation. No cultural assumptions. Just data. The results reveal a franchise far more ideologically divided than its Marvel counterpart -- with some genuine bright spots buried under some of the most agenda-forward superhero filmmaking of the decade.</p>
+
+      <p>Rankings run from #1 (highest woke score) to #11 (most traditionally weighted). Every film links to a full VirtueVigil review with complete trope audits, creative team profiles, and parental guidance assessments.</p>
+
+      <hr>
+
+      <h2>#1 - <a href="/reviews/aquaman-and-the-lost-kingdom-2023/">Aquaman and the Lost Kingdom (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="score-detail">Woke Score: 31.2 &bull; Trad Score: 18.9 &bull; Margin: -12 WOKE</span>
+      </div>
+      <p>The highest woke score in the entire DC database and one of the studio's biggest financial disasters. Aquaman and the Lost Kingdom puts climate change at the absolute center of its plot: the villain's weapon generates greenhouse gases, the stakes are framed explicitly as global warming, and the film climaxes with an Aquaman speech at the United Nations that mirrors star Jason Momoa's real-world 2019 UN address. Director James Wan and Momoa were open about the environmental messaging before release. It didn't help. The film bombed, and even the traditional elements -- family bonds between brothers, a father's love for his son -- couldn't save a movie more interested in lecturing than entertaining. The DCEU ended here, and not on its own terms.</p>
+      <p><a href="/reviews/aquaman-and-the-lost-kingdom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Aquaman and the Lost Kingdom</a></p>
+
+      <hr>
+
+      <h2>#2 - <a href="/reviews/joker-folie-a-deux-2024/">Joker: Folie a Deux (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="score-detail">Woke Score: 24.5 &bull; Trad Score: 22.13 &bull; Margin: -2 WOKE</span>
+      </div>
+      <p>This is a textbook woke trap. The original Joker earned conservative audience trust with an unflinching character study of a man failed by every institution around him. The sequel used that trust as a setup, systematically dismantling Arthur Fleck, punishing him for resonating with disaffected male audiences, and ending with the explicit message that the first film's empathy was misplaced. Todd Phillips spent $200 million to tell his own fanbase they were wrong for connecting with his character. Arthur is stripped of agency, humiliated, and killed so a criminal admirer who idolized the wrong man can rise in his place. The woke score reflects deliberate deconstruction of a male anti-hero. The trad score of 22.13 reflects the rare emotional moments that survived the dismantling. The film grossed $58 million against a $200 million budget.</p>
+      <p><a href="/reviews/joker-folie-a-deux-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Joker: Folie a Deux</a></p>
+
+      <hr>
+
+      <h2>#3 - <a href="/reviews/birds-of-prey-2020/">Birds of Prey (2020)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="score-detail">Woke Score: 23.34 &bull; Trad Score: 5.05 &bull; Margin: -18 WOKE</span>
+      </div>
+      <p>Birds of Prey makes no pretense. The title includes the word "emancipation" and the film delivers on that promise with complete commitment: every male character is predatory, useless, or both; female liberation from male control is the stated theme and the plot engine; and the script treats the absence of traditional structure as self-evident liberation. The traditional score of 5.05 is the lowest in the DC database, earned almost entirely by Margot Robbie's performance and a few stray moments of genuine female friendship. Robbie is genuinely compelling, the action is well-shot, and the feminist ideology is the entire point -- not the subtext. Conservative adults will find little here beyond craft. The film knew its audience and made zero concessions to anyone else.</p>
+      <p><a href="/reviews/birds-of-prey-2020/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Birds of Prey</a></p>
+
+      <hr>
+
+      <h2>#4 - <a href="/reviews/superman-2025/">Superman (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="score-detail">Woke Score: 19 &bull; Trad Score: 21 &bull; Margin: +2 TRAD</span>
+      </div>
+      <p>James Gunn handed America's oldest superhero symbol a progressive megaphone but didn't fully commit to pulling the trigger. The result is a genuinely divided film: a Clark Kent with a progressive policy instinct, messaging that skirts anti-institutional and multicultural framing, but a core heroic identity that still registers as earnest and traditional. The trad score edges out the woke score by two points, landing the film in MIXED territory. Conservative adults should go in clear-eyed: this is not the apolitical Superman of the Reeve era, and Gunn's political instincts are visible in the framing. But the film's depiction of genuine selfless heroism, a man who sacrifices himself not because he has to but because it's right, keeps it from tipping into pure propaganda. The DCU reboot starts here, and ideologically, it started cautiously.</p>
+      <p><a href="/reviews/superman-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Superman</a></p>
+
+      <hr>
+
+      <h2>#5 - <a href="/reviews/wonder-woman-1984-2020/">Wonder Woman 1984 (2020)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="score-detail">Woke Score: 18.18 &bull; Trad Score: 16.3 &bull; Margin: -2 WOKE</span>
+      </div>
+      <p>The most ideologically surprising entry in the DC catalog. Wonder Woman 1984 is a film that wraps a surprisingly conservative moral core -- unchecked desire destroys everything, and the only path forward is renunciation -- inside a feminist superhero package. Reagan-era materialism is the villain. The resolution requires every character to voluntarily give up what they wished for, including Steve Trevor's return from the dead. A father chooses his son over power. The world is saved not through force but through collective self-denial. The feminist framework and identity-forward framing push the woke score past 18, but the trad score of 16.3 reflects a film that is genuinely more traditional at its core than its surface suggests. At -2 WOKE, it is the closest MIXED in the DC dataset.</p>
+      <p><a href="/reviews/wonder-woman-1984-2020/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wonder Woman 1984</a></p>
+
+      <hr>
+
+      <h2>#6 - <a href="/reviews/joker-2019/">Joker (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="score-detail">Woke Score: 13.05 &bull; Trad Score: 13.6 &bull; Margin: +1 TRAD</span>
+      </div>
+      <p>Joker made a billion dollars and caused the FBI to issue security advisories before opening weekend. Neither the left nor the right could fully claim it, and that is exactly the point. The class warfare framing and Thomas Wayne as contemptuous plutocrat push the woke score up. The anti-institutional nihilism and the portrait of mental health systems as fundamentally broken push the trad score up. Joaquin Phoenix's performance is one of the finest of the decade regardless of ideology. The film refuses to endorse Arthur Fleck or condemn him. It presents a broken man in a broken system and lets you draw your own conclusions. At +1 TRAD, it is the most balanced film in the DC database -- and probably the most honest one about what social breakdown actually looks like.</p>
+      <p><a href="/reviews/joker-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Joker</a></p>
+
+      <hr>
+
+      <h2>#7 - <a href="/reviews/the-flash-2023/">The Flash (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="score-detail">Woke Score: 9.8 &bull; Trad Score: 11.48 &bull; Margin: +2 TRAD</span>
+      </div>
+      <p>The Flash is a film that should not exist, barely does exist, and contains some genuinely good superhero filmmaking buried inside the most troubled production in DC history. Michael Keaton's return as Bruce Wayne is the film's single best element and worth the price of admission on its own. The central theme -- that you cannot fix the past and must accept loss -- is genuinely traditional, and the first-act grief narrative lands with real emotional weight. The woke score stays low despite Ezra Miller's real-world conduct because the film itself does not carry progressive ideological freight. The MIXED verdict reflects a movie that got the values right and the execution uneven, with an uncanny-valley third act and a lead whose off-screen behavior overshadows every scene he's in.</p>
+      <p><a href="/reviews/the-flash-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Flash</a></p>
+
+      <hr>
+
+      <h2>#8 - <a href="/reviews/black-adam-2022/">Black Adam (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="score-detail">Woke Score: 7.68 &bull; Trad Score: 13.02 &bull; Margin: +5 TRAD</span>
+      </div>
+      <p>Dwayne Johnson spent fifteen years trying to get Black Adam made and the result is a film that earned more traditional credit than critics gave it. The liberation narrative is nationalist rather than progressive: Adam fights for his people, not for universal progressive values. The concept of masculine power presented as legitimate and unchained -- the film's actual selling point -- scores traditional consistently. The Justice Society's institutional resistance to an unapologetic antihero keeps the woke score from bottoming out, and generic CGI third-act villainy undercuts the film's best instincts. At +5 TRAD, it sits comfortably in traditional-lean territory. Conservative adults looking for an unapologetic power fantasy with genuine nationalist undertones will find it here.</p>
+      <p><a href="/reviews/black-adam-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Adam</a></p>
+
+      <hr>
+
+      <h2>#9 - <a href="/reviews/shazam-fury-of-the-gods-2023/">Shazam! Fury of the Gods (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="score-detail">Woke Score: 5.9 &bull; Trad Score: 17.5 &bull; Margin: +12 TRAD</span>
+      </div>
+      <p>Critics abandoned Shazam! Fury of the Gods (50% on Rotten Tomatoes) and audiences found it charming (84% audience score). The gap tells you something important. This is a film that takes worthiness seriously: Billy Batson earns his power through selflessness, not birthright or identity. The found-family built on genuine love and foster parenting -- with the Vasquez parents treated as heroic -- delivers a traditional value stack that most superhero films can't match. Billy's arc has explicit Christian undertones around sacrifice and grace. The woke score of 5.9 reflects minor tokenism in the ensemble and some diversity-forward casting choices that carry no ideological weight. At +12 TRAD, it is one of the cleanest traditional superhero films DC has produced. Its box office failure says more about franchise fatigue than ideology.</p>
+      <p><a href="/reviews/shazam-fury-of-the-gods-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shazam! Fury of the Gods</a></p>
+
+      <hr>
+
+      <h2>#10 - <a href="/reviews/the-batman-2022/">The Batman (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="score-detail">Woke Score: 8 &bull; Trad Score: 22.05 &bull; Margin: +14 TRAD</span>
+      </div>
+      <p>Matt Reeves made the rare superhero film where you forget you are watching a superhero film. The Batman is three hours of neo-noir crime filmmaking that owes more to Chinatown and Taxi Driver than to anything in the MCU. Batman's absolute moral code against killing defines the character throughout. The film's central arc is Bruce Wayne learning that vengeance is not justice and that heroism is about building something rather than destroying the people who hurt you. The woke score of 8 reflects Catwoman's feminist framing and the Riddler's class-resentment backstory. Neither overwhelms a film where the traditional content -- moral code, self-discipline, duty over desire -- runs through every scene. At +14 TRAD, this is the best conservative superhero film DC has produced in the modern era. Pattinson's Batman is the real thing.</p>
+      <p><a href="/reviews/the-batman-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Batman</a></p>
+
+      <hr>
+
+      <h2>#11 - <a href="/reviews/the-dark-knight-2008/">The Dark Knight (2008)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="score-detail">Woke Score: 3.5 &bull; Trad Score: 19.6 &bull; Margin: +16 TRAD</span>
+      </div>
+      <p>The lowest woke score and the highest traditional-weighted margin in the DC catalog, and it isn't close. The Dark Knight is not just the best DC film ever made -- it is one of the best crime films ever made, full stop. Christopher Nolan took a character from the funny pages and built something that burns with moral seriousness. The Joker is not a commentary on social inequality or systemic failure -- he is chaos for its own sake, and the film treats that as the genuine civilizational threat it is. Batman's willingness to bear the burden of appearing villainous so society can have order is as conservative a premise as blockbuster cinema gets. Harvey Dent's fall from grace is a tragedy, not an indictment of institutions. At +16 TRAD with a woke score of just 3.5, this is the DC gold standard. Everything since has been trying and failing to match it.</p>
+      <p><a href="/reviews/the-dark-knight-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Dark Knight</a></p>
+
+      <hr>
+
+      <div class="listicle-conclusion">
+        <h3>Browse More DC and Superhero Coverage at VirtueVigil</h3>
+        <p>The DC filmography breaks down into two distinct eras: the Snyder-to-Wan period, which produced the franchise's worst ideological offenders alongside a few genuine bright spots, and the Nolan-adjacent prestige tier, where The Dark Knight and The Batman anchor the catalog with real traditional values. James Gunn's new DCU has its first entry in the database with Superman (2025), landing at MIXED and pointing to a franchise that hasn't decided what it wants to be yet. Every film on this list is reviewed in full at VirtueVigil with complete trope audits, creative team profiles, and parental guidance assessments. Compare DC against MCU at our <a href="https://virtuevigil.com/lists/mcu-movies-ranked-woke-score/">MCU Woke Score Ranking</a>, or browse every review in the database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a>.</p>
+      </div>
+    </article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
