@@ -1,5 +1,17 @@
 [
   {
+    "slug": "rebel-ridge-2024",
+    "title": "Rebel Ridge",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Action Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 8.18,
+    "tradScore": 18.5,
+    "poster": "/images/posters/rebel-ridge-2024.jpg"
+  },
+  {
     "slug": "dune-part-one-2021",
     "title": "Dune: Part One",
     "verdict": "TRADITIONAL",
