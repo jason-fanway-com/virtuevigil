@@ -1543,6 +1543,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/woke-sequels-more-woke-than-original/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/rotten-tomatoes-vs-virtuevigil/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-based-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/christopher-nolan-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -6624,6 +6625,87 @@ function build() {
       <div class="listicle-conclusion">
         <h3>Browse More at VirtueVigil</h3>
         <p>Science fiction at its best asks the biggest questions: What does it mean to be human? What are we willing to sacrifice for the people we love? What happens when power goes unchecked? The films on this list answer those questions with stories that take duty, family, sacrifice, and moral clarity seriously. They are proof that the genre does not have to be a vehicle for progressive ideology. Browse more reviews and rankings at VirtueVigil.com, where every score is earned and nothing is taken on trust.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/christopher-nolan-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'christopher-nolan-movies-woke-ranking',
+    title: 'Every Christopher Nolan Movie Ranked by Woke Score',
+    description: "Christopher Nolan's films ranked by VirtueVigil's Woke Score. From The Dark Knight to Oppenheimer, find out which Nolan film holds up on traditional values.",
+    canonicalPath: 'lists/christopher-nolan-movies-woke-ranking',
+    publishDate: '2026-03-24',
+    htmlContent: `<article class="listicle-article">
+
+      <p>Christopher Nolan has spent three decades building a reputation as Hollywood's great apolitical filmmaker. His movies are about time, identity, memory, and moral weight. They don't preach. They don't lecture. Critics on both sides of the aisle praise his work, and that's a rarity in an era when studios treat blockbusters as vehicles for social messaging. But reputation and data don't always match up.</p>
+
+      <p>VirtueVigil ran all six major Nolan films through its full scoring system, measuring ideological content across narrative framing, character agency, institutional portrayals, and traditional value alignment. The results mostly confirm the conventional wisdom -- but not entirely. Five of the six land in traditional territory. One doesn't. Here's how they stack up, from the most traditional to the most woke.</p>
+
+      <hr>
+
+      <h2>#1 - <a href="/reviews/the-dark-knight-rises-2012/">The Dark Knight Rises (2012)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +21 TRAD</span>
+      </div>
+      <p>When Occupy Wall Street's David Graeber, one of the movement's most prominent intellectual voices, publicly called The Dark Knight Rises "a piece of anti-Occupy propaganda," he handed Nolan the most accidental endorsement in blockbuster history. The film earns its top score here by doing what great conservative storytelling does: it takes populist demagoguery seriously as a threat, shows where class warfare rhetoric leads when followed to its conclusion, and puts the cost of order and sacrifice at the center of its moral universe. Bane's revolution is not a critique of the rich -- it is a critique of the people who follow demagogues promising them the wealth of others. Batman's sacrifice is not catharsis. It is the price of civilization.</p>
+      <p><a href="/reviews/the-dark-knight-rises-2012/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Dark Knight Rises</a></p>
+
+      <hr>
+
+      <h2>#2 - <a href="/reviews/inception-2010/">Inception (2010)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +18 TRAD</span>
+      </div>
+      <p>Christopher Nolan spent ten years writing Inception. It shows. This is one of the most structurally ambitious mainstream films ever produced: a heist story operating across five simultaneous dream levels, anchored by a father trying to get home to his children. The ideological throughline is clean -- personal responsibility, the sanctity of the mind, and a man who refuses to let grief destroy his duty to his family. Dom Cobb is not a victim of an unjust system. He is a man who made a terrible choice and is doing everything in his power to make it right. No agenda. Just craft and consequence.</p>
+      <p><a href="/reviews/inception-2010/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Inception</a></p>
+
+      <hr>
+
+      <h2>#3 (tied) - <a href="/reviews/the-dark-knight-2008/">The Dark Knight (2008)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+      </div>
+      <p>The Dark Knight is not just the best superhero film ever made. It is one of the best crime films ever made, full stop. Christopher Nolan took a character from the funny pages and made something that burns with moral seriousness. The Joker is not a commentary on gun violence or systemic inequality -- he is chaos for its own sake, and the film treats that as the genuine threat it is. Batman's willingness to bear the burden of being the villain so society can have order is about as conservative a premise as blockbuster cinema gets. Harvey Dent's fall from grace is a genuine tragedy, not an indictment of institutions. Heath Ledger's Joker is terrifying because the film refuses to explain him away.</p>
+      <p><a href="/reviews/the-dark-knight-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Dark Knight</a></p>
+
+      <hr>
+
+      <h2>#3 (tied) - <a href="/reviews/tenet-2020/">Tenet (2020)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+      </div>
+      <p>Tenet is the easiest Nolan film to analyze from a values standpoint: it has essentially no ideology. Nolan is one of the most politically agnostic directors working at his budget level, and Tenet is his most stripped-down example of it. The plot is a pure mechanism. The protagonist has no political agenda. The villain is a nihilist who wants to destroy the future out of spite. The film's implicit argument is that civilization is worth defending, and that humanity must be willing to sacrifice to preserve it. Conservatives will find this deeply satisfying -- even if they have to watch it twice to follow the plot.</p>
+      <p><a href="/reviews/tenet-2020/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Tenet</a></p>
+
+      <hr>
+
+      <h2>#5 - <a href="/reviews/interstellar-2014/">Interstellar (2014)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +15 TRAD</span>
+      </div>
+      <p>Interstellar is Christopher Nolan's most emotionally direct film. Where Inception hides its heart inside puzzle boxes, Interstellar puts its heart on the table in the first ten minutes and then spends nearly three hours testing it. A father. A daughter. A promise across impossible distance. The film is pro-science but not anti-faith, and it roots human survival in family bonds rather than collective action or government programs. A few messaging choices -- the depiction of a government that lies about the moon landing to stop aspirational thinking, and some muddled theology at the climax -- keep it out of the top tier. But the core of the film is unmistakably traditional.</p>
+      <p><a href="/reviews/interstellar-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Interstellar</a></p>
+
+      <hr>
+
+      <h2>#6 - <a href="/reviews/oppenheimer-2023/">Oppenheimer (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score" style="color:#e05a5a;">MARGIN: -4 WOKE</span>
+      </div>
+      <p>Oppenheimer is the outlier in Nolan's filmography. Technically masterful and genuinely gripping, it still carries ideological baggage that tips it into woke-lean territory. The film frames its protagonist's Communist associations sympathetically, treats the security hearing as a political persecution narrative, and centers the story's moral weight on American guilt over the bomb rather than the strategic necessity that ended the war and saved an estimated half-million American lives. The characters who challenge Oppenheimer are portrayed as opportunists or ideologues -- Lewis Strauss as a petty bureaucrat, not a legitimate security officer. It's the only Nolan film where you can feel the politics pushing on the frame. Still worth watching. Just know what you're watching.</p>
+      <p><a href="/reviews/oppenheimer-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Oppenheimer</a></p>
+
+      <hr>
+
+      <div class="listicle-conclusion">
+        <h3>Browse More at VirtueVigil</h3>
+        <p>Five out of six Nolan films score traditional. That's a better track record than almost any director working at his budget and profile. The Dark Knight Rises and Inception sit near the top of everything VirtueVigil has ever reviewed. Oppenheimer is the exception -- a film that uses Nolan's visual and structural authority to package a sympathetic take on a man whose politics were a legitimate national security concern. All six films are reviewed in full at VirtueVigil with complete trope audits, creative team profiles, and parental guidance assessments. Browse the full database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> or see how other directors' filmographies score on our <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
       </div>
     </article>`
   }));
