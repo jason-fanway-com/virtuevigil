@@ -12,6 +12,18 @@
     "poster": "/images/posters/wonder-woman-2017.jpg"
   },
   {
+    "slug": "wolf-of-wall-street-2013",
+    "title": "The Wolf of Wall Street",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Crime/Drama/Dark Comedy",
+    "year": 2013,
+    "type": "film",
+    "wokeScore": 10.14,
+    "tradScore": 4.2,
+    "poster": "/images/posters/wolf-of-wall-street-2013.jpg"
+  },
+  {
     "slug": "rebel-ridge-2024",
     "title": "Rebel Ridge",
     "verdict": "TRADITIONAL",
