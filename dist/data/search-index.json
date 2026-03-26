@@ -458,7 +458,7 @@
   {
     "slug": "toy-story-4-2019",
     "title": "Toy Story 4",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Animated Adventure",
     "year": 2019,
@@ -842,7 +842,7 @@
   {
     "slug": "dont-worry-darling-2022",
     "title": "Don't Worry Darling",
-    "verdict": "STRONGLY WOKE",
+    "verdict": "WOKE",
     "platform": "Theatrical",
     "genre": "Psychological Thriller",
     "year": 2022,
@@ -914,7 +914,7 @@
   {
     "slug": "father-stu-2022",
     "title": "Father Stu",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Biography/Drama",
     "year": 2022,
@@ -974,7 +974,7 @@
   {
     "slug": "terrifier-3-2024",
     "title": "Terrifier 3",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Horror/Slasher",
     "year": 2024,
@@ -1214,7 +1214,7 @@
   {
     "slug": "avatar-the-way-of-water-2022",
     "title": "Avatar: The Way of Water",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Sci-Fi/Action/Adventure",
     "year": 2022,
@@ -1262,7 +1262,7 @@
   {
     "slug": "the-king-of-kings-2025",
     "title": "The King of Kings",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Animated Biblical Drama",
     "year": 2025,
@@ -1274,7 +1274,7 @@
   {
     "slug": "one-of-them-days-2025",
     "title": "One of Them Days",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Buddy Comedy",
     "year": 2025,
@@ -1334,7 +1334,7 @@
   {
     "slug": "the-naked-gun-2025",
     "title": "The Naked Gun",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical (Paramount Pictures)",
     "genre": "Comedy",
     "year": 2025,
@@ -1394,7 +1394,7 @@
   {
     "slug": "smile-2-2024",
     "title": "Smile 2",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Horror, Mystery, Thriller",
     "year": 2024,
@@ -1718,7 +1718,7 @@
   {
     "slug": "the-hunger-games-2012",
     "title": "The Hunger Games",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Sci-Fi / Action / YA Dystopian",
     "year": 2012,
@@ -1898,7 +1898,7 @@
   {
     "slug": "hamnet-2025",
     "title": "Hamnet",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Historical Drama/Period Film",
     "year": 2025,
@@ -1982,7 +1982,7 @@
   {
     "slug": "blue-moon-2025",
     "title": "Blue Moon",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical / Netflix",
     "genre": "Biographical Comedy-Drama",
     "year": 2025,
@@ -2510,7 +2510,7 @@
   {
     "slug": "joker-folie-a-deux-2024",
     "title": "Joker: Folie a Deux",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Musical/Drama/Thriller",
     "year": 2024,
@@ -2642,7 +2642,7 @@
   {
     "slug": "borderlands-2024",
     "title": "Borderlands",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Sci-Fi/Action/Comedy",
     "year": 2024,
@@ -2798,7 +2798,7 @@
   {
     "slug": "speak-no-evil-2024",
     "title": "Speak No Evil",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical / Peacock",
     "genre": "Horror/Thriller",
     "year": 2024,
@@ -2810,7 +2810,7 @@
   {
     "slug": "the-amateur-2025",
     "title": "The Amateur",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Action/Thriller/Spy",
     "year": 2025,
@@ -2870,7 +2870,7 @@
   {
     "slug": "the-super-mario-galaxy-movie-2026",
     "title": "The Super Mario Galaxy Movie",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Animation/Adventure/Comedy",
     "year": 2026,
@@ -3026,7 +3026,7 @@
   {
     "slug": "encanto-2021",
     "title": "Encanto",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical / Disney+",
     "genre": "Animation/Musical/Fantasy",
     "year": 2021,
@@ -3254,7 +3254,7 @@
   {
     "slug": "den-of-thieves-2-pantera-2025",
     "title": "Den of Thieves 2: Pantera",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Action/Crime",
     "year": 2025,
