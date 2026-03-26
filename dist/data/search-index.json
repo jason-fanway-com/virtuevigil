@@ -24,6 +24,18 @@
     "poster": "/images/posters/wolf-of-wall-street-2013.jpg"
   },
   {
+    "slug": "black-swan-2010",
+    "title": "Black Swan",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Psychological Thriller/Drama",
+    "year": 2010,
+    "type": "film",
+    "wokeScore": 8.88,
+    "tradScore": 7.28,
+    "poster": "/images/posters/black-swan-2010.jpg"
+  },
+  {
     "slug": "rebel-ridge-2024",
     "title": "Rebel Ridge",
     "verdict": "TRADITIONAL",
