@@ -6843,6 +6843,184 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/non-woke-romance-movies/index.html', buildListiclePage({
+    slug: 'non-woke-romance-movies',
+    title: 'Best Romantic Movies Without the Agenda',
+    description: 'The best romantic movies for conservative audiences. VirtueVigil scores 12 love stories that deliver genuine romance without progressive lectures, gender ideology, or feminist grievance.',
+    canonicalPath: 'lists/non-woke-romance-movies',
+    publishDate: '2026-03-26',
+    htmlContent: `<article class="listicle-article">
+      <p>Romance is supposed to be the one genre Hollywood cannot ruin. Two people, a spark, and the choice to pursue it -- what is political about that? Quite a lot, it turns out. The modern romance film has become a reliable delivery vehicle for feminist grievance, progressive relationship models, gender-swapped power dynamics, and the systematic dismantling of traditional courtship. Titanic lectures class. Challengers deconstructs monogamy. People We Meet on Vacation treats commitment as a trap. The Wedding Banquet turns marriage itself into an ideological battleground.</p>
+
+      <p>VirtueVigil ran the numbers. We scored every romance and romantic-adjacent film in our database on the same dual-axis Woke-Watch Scoring System we apply to every review: woke content on one axis, traditional values content on the other, with a margin that tells you which direction each film actually leans. These twelve films emerged from that process. Some are classics. Some are recent releases that flew under the culture war radar. All of them deliver genuine love stories without stopping to give you a lecture about what love is supposed to look like now. Use this list for date night, family viewing, or just a reminder that Hollywood occasionally remembers what it is supposed to be doing.</p>
+
+      <ul class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/solo-mio-2026/">Solo Mio (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>The cleanest romance in the current database and the clearest argument that traditional love stories still have an audience. Solo Mio is a faith-adjacent romantic comedy from Angel Studios about a man who falls for the one woman he cannot have -- and earns her through patience, sincerity, and genuine character rather than manipulation or status games. Woke score: 1. Trad score: 21.88. There is no feminist grievance, no deconstructed relationship model, no progressive subtext. Just two people and the question of whether they will choose each other. Date-night pick of the year.</p>
+            <a href="/reviews/solo-mio-2026/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-notebook-2004/">The Notebook (2004)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>Critics hated it at 53% on Rotten Tomatoes. Audiences never forgot it at 86%. The Notebook is one of Hollywood's most unambiguous arguments for lifelong devotion. Noah rebuilds a house on faith alone, waiting years for Allie without certainty she will return. The climax is not the rain kiss -- it is an old man reading daily to a wife who may not remember him. VirtueVigil's trope audit flagged lifelong heterosexual commitment, marriage as a lifelong covenant, and class barriers overcome by genuine character rather than resentment. Woke score: 3.4. Trad score: 17.14. The critics were wrong. This film means what it says about forever.</p>
+            <a href="/reviews/the-notebook-2004/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/forrest-gump-1994/">Forrest Gump (1994)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>Forrest Gump runs through thirty years of American history and never stops loving Jenny -- unconditionally, without agenda, and without any expectation of return. The film is not conventionally structured as a romance, but the love at its center is one of cinema's most traditional arguments: that loyalty and decency are not weaknesses, that simple men with simple values can outlast complexity and chaos, and that a man who truly loves a woman never stops. Tom Hanks won his second consecutive Oscar. VirtueVigil flagged loyalty, service, and unconditional love as the film's dominant tropes. Woke score: 3. Trad score: 17.08. Critics thought it was sentimental. They missed the argument.</p>
+            <a href="/reviews/forrest-gump-1994/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/good-will-hunting-1997/">Good Will Hunting (1997)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+11 TRAD</span>
+            </div>
+            <p>At its core, Good Will Hunting is about a man learning he deserves to be loved -- and making the terrifying choice to pursue it. Robin Williams as the therapist Sean Maguire delivers what may be cinema's finest portrayal of male mentorship, and the love story between Will and Skylar works because both characters are trying to earn something real rather than perform a relationship. The anti-elite streak and class resentment in the script add some progressive flavor, but the film's emotional DNA is traditional: mentorship matters, vulnerability is not weakness, and love is worth the risk of loss. Woke score: 6.8. Trad score: 18.2.</p>
+            <a href="/reviews/good-will-hunting-1997/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/anyone-but-you-2023/">Anyone But You (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+9 TRAD</span>
+            </div>
+            <p>The romantic comedy Hollywood forgot how to make, rediscovered by accident. Anyone But You succeeded because it remembered the genre's actual formula: two attractive people who are clearly meant for each other spend 103 minutes refusing to admit it, then admit it. There is no deconstruction, no gender-swapped power dynamic, no progressive subtext about what modern relationships are supposed to look like. Sydney Sweeney and Glen Powell have genuine chemistry. The film does not punish them for it. VirtueVigil flagged premarital intimacy and some minor progressive casting choices, but the romantic arc itself is straightforwardly traditional. Woke score: 3.75. Trad score: 12.32. A $220 million gross on a $25 million budget. The audience knew what this was and showed up for it.</p>
+            <a href="/reviews/anyone-but-you-2023/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/elemental-2023/">Elemental (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>Critics gave Elemental a middling 74%. Audiences gave it 95%. The gap is not accidental. The film is fundamentally about immigrant parental sacrifice and a daughter's love and debt to the father who gave everything so she could have a life he never did. The romance between Ember and Wade works because Ember earns it -- she has to confront her own ambitions honestly before she can accept being loved. VirtueVigil flagged immigrant parental sacrifice as sacred, earned love through patience, and family honor as dominant tropes. The immigration allegory and some progressive city-as-metaphor framing are real but do not overwhelm the film's traditional emotional core. Woke score: 12.2. Trad score: 19.74. Pixar at its most honest.</p>
+            <a href="/reviews/elemental-2023/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/black-bag-2025/">Black Bag (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+13 TRAD</span>
+            </div>
+            <p>Not a traditional romance film -- Black Bag is a spy thriller -- but its emotional engine is one of the most compelling marriage portraits in recent cinema. George Cavendish (Michael Fassbender) suspects his wife (Cate Blanchett) may be a traitor. What the film actually argues is that a marriage built on mutual respect, professional equality, and genuine love is more resilient than institutional loyalty or state pressure. VirtueVigil flagged marital love and devotion, masculine competence, and marriage as partnership as the dominant traditional tropes. Woke score: 5.94. Trad score: 18.75. Soderbergh directed this in 94 minutes and trusted his audience. The love story is quiet and earned. A rare Hollywood film that actually believes in its married couple.</p>
+            <a href="/reviews/black-bag-2025/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-gorge-2025/">The Gorge (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>Two elite soldiers are posted to guard opposite sides of a classified gorge for one year with no contact allowed. They find a way anyway. What follows is a genre romance built on genuine chemistry, the discipline of two people choosing restraint before choosing each other, and the payoff when they finally do. The horror element -- a bioweapons conspiracy in the gorge itself -- escalates the stakes in a way that makes the romance feel earned rather than inevitable. Apple TV+ delivered the best Valentine's Day film of 2025 and almost nobody noticed. Woke score: 4.2. Trad score: 12.25. Duty honored before desire is the most traditionally coded romantic premise in the database this year.</p>
+            <a href="/reviews/the-gorge-2025/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/heart-eyes-2025/">Heart Eyes (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>A Valentine's Day slasher-romance that nobody expected to work and that mostly does. Jay and Ally are coworkers who can't stand each other and get mistaken for a couple by a serial killer. Forced proximity, genuine danger, and the moment they stop pretending they don't care -- that's the whole formula, executed with competent craft and real chemistry. VirtueVigil flagged forced proximity romance leading to genuine commitment and male protectiveness as a romantic virtue. The R rating reflects the horror element rather than any progressive content. Woke score: 5.45. Trad score: 12. A straight couple choosing each other after surviving genuine danger together. The agenda here is staying alive and falling in love. That's enough.</p>
+            <a href="/reviews/heart-eyes-2025/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/materialists-2025/">Materialists (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+5 TRAD</span>
+            </div>
+            <p>A24 produced a romantic comedy that ends at the altar, and it earned that ending. Lucy Mason is a matchmaker who has found love for nine couples and can't find it for herself. Chris Evans gives his best non-Marvel performance as the ex who won't disappear. The film's central argument is that love is not a checklist -- that the person who fits your spreadsheet is not the person you choose when the spreadsheet stops mattering. VirtueVigil flagged marriage as the correct resolution of romance, love chosen over material security, and a critique of transactional romance as moral failure. Woke score: 9.18. Trad score: 13.7. Celine Song made a progressive romantic comedy that lands on traditional ground. The marriage at the end is not a compromise. It is the point.</p>
+            <a href="/reviews/materialists-2025/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/we-live-in-time-2024/">We Live in Time (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+5 TRAD</span>
+            </div>
+            <p>Andrew Garfield and Florence Pugh anchor a love story told out of sequence about a couple navigating a terminal cancer diagnosis. The film is structured to make you feel the fragmentation of a life cut short, then reassemble it into something whole. VirtueVigil flagged unconditional devotion through terminal illness and maternal sacrifice -- Almut chooses to have their child despite the risk to her own survival -- as the dominant traditional tropes. The R rating and some progressively framed elements around female career ambition keep the woke score from bottoming out, but the film's emotional argument is traditionally coded: some loves are worth more than survival, and devotion is not weakness. Woke score: 8.8. Trad score: 13.44. Bring tissues.</p>
+            <a href="/reviews/we-live-in-time-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">12</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/it-ends-with-us-2024/">It Ends with Us (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+5 TRAD</span>
+            </div>
+            <p>A romance about domestic abuse is a harder pitch than it sounds, and It Ends with Us earns its complicated territory. Blake Lively plays Lily, a woman who falls for a surgeon (Justin Baldoni) whose gentleness conceals real danger. The film's most traditional argument is its most important one: the cycle of abuse is something a woman can choose to end, and that choice requires more courage than staying. VirtueVigil flagged personal courage to leave abuse cycles, intergenerational patterns acknowledged without excuse, and a female lead who chooses self-respect over comfort. The progressive framing around female independence keeps the woke score elevated, but the film's moral center holds. Woke score: 12.18. Trad score: 17.6. The book sold 15 million copies for a reason. The film delivers on the core argument.</p>
+            <a href="/reviews/it-ends-with-us-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+      </ul>
+
+      <div class="listicle-conclusion">
+        <h3>Find More Conservative-Friendly Reviews at VirtueVigil</h3>
+        <p>Romance is not dead. It is just harder to find. The films on this list prove that love stories built on genuine commitment, earned vulnerability, and the simple premise that two people choosing each other matters -- can still be made and can still find audiences. The data says so: The Notebook earned $115 million on a $29 million budget. Anyone But You earned $220 million on $25 million. Audiences will show up for honest romance when Hollywood bothers to deliver it. Browse every VirtueVigil romance and drama review at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a>, or check our <a href="https://virtuevigil.com/lists/family-friendly-movies-2024/">family-friendly picks</a> and <a href="https://virtuevigil.com/lists/best-conservative-movies/">all-time conservative favorites</a> for more curated lists built on real data.</p>
+      </div>
+    </article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
