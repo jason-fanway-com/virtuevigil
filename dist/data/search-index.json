@@ -1,5 +1,17 @@
 [
   {
+    "slug": "wonder-woman-2017",
+    "title": "Wonder Woman",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Superhero/Action",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 5.15,
+    "tradScore": 13.3,
+    "poster": "/images/posters/wonder-woman-2017.jpg"
+  },
+  {
     "slug": "rebel-ridge-2024",
     "title": "Rebel Ridge",
     "verdict": "TRADITIONAL",
