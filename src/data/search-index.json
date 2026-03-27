@@ -36,6 +36,18 @@
     "poster": "/images/posters/the-iron-claw-2023.jpg"
   },
   {
+    "slug": "hoosiers-1986",
+    "title": "Hoosiers",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Sports",
+    "year": 1986,
+    "type": "film",
+    "wokeScore": 2.75,
+    "tradScore": 34.51,
+    "poster": "/images/posters/hoosiers-1986.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
