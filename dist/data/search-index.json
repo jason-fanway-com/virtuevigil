@@ -12,6 +12,18 @@
     "poster": "/images/posters/sonic-3-2024.jpg"
   },
   {
+    "slug": "mufasa-lion-king-2024",
+    "title": "Mufasa: The Lion King",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated Drama Adventure",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 6.8,
+    "tradScore": 16.4,
+    "poster": "/images/posters/mufasa-lion-king-2024.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
