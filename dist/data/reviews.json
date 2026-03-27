@@ -86746,5 +86746,284 @@
       }
     ],
     "datePublished": "2026-03-27"
+  },
+  {
+    "id": "django-unchained-2012",
+    "slug": "django-unchained-2012",
+    "title": "Django Unchained",
+    "year": 2012,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Western / Action",
+    "date": "2026-03-27",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "14 min",
+    "poster": "/images/posters/django-unchained-2012.jpg",
+    "releaseDate": "2012-12-25",
+    "rating": "R",
+    "runtime": "165 min",
+    "director": "Quentin Tarantino",
+    "writers": [
+      "Quentin Tarantino"
+    ],
+    "cast": [
+      "Jamie Foxx as Django Freeman",
+      "Christoph Waltz as Dr. King Schultz",
+      "Leonardo DiCaprio as Calvin Candie",
+      "Kerry Washington as Broomhilda von Shaft",
+      "Samuel L. Jackson as Stephen",
+      "Walton Goggins as Billy Crash",
+      "Don Johnson as Big Daddy",
+      "James Remar as Ace Speck",
+      "Dennis Christopher as Leonide Moguy"
+    ],
+    "studio": "The Weinstein Company / Columbia Pictures",
+    "distributor": "The Weinstein Company",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 13.4,
+    "tradScore": 21.5,
+    "authIndex": 65,
+    "scoreMargin": "+8 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. Django Unchained is a film explicitly about American slavery. This is front and center from the first scene. The brutality of slavery, the racial dynamics of the antebellum South, and the film's use of the N-word hundreds of times are all immediately visible. No conservative viewer is surprised by the film's content. The marketing was explicit. The premise is explicit. Spike Lee's public objections before the film released ensured that every potential audience member knew exactly what they were walking into."
+    },
+    "seoTitle": "Is Django Unchained Woke? | VirtueVigil Review",
+    "seoDescription": "Django Unchained (2012) scored +8 TRAD TRADITIONAL LEAN on VirtueVigil's Woke-Watch scale. A husband rescues his wife from slavery in the most traditional story arc imaginable, wrapped in Tarantino excess. Full breakdown inside.",
+    "seoKeywords": [
+      "is django unchained woke",
+      "django unchained conservative review",
+      "django unchained traditional values",
+      "django unchained ideology",
+      "quentin tarantino django woke",
+      "django unchained parents guide",
+      "django unchained woke or not",
+      "django unchained review"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 87,
+      "rottenTomatoesAudience": 92,
+      "imdb": 8.5,
+      "metacritic": 81,
+      "oscarWins": 2,
+      "oscarCategories": "Best Original Screenplay, Best Supporting Actor (Christoph Waltz)",
+      "oscarNominations": 5,
+      "budget": "$100M",
+      "globalBoxOffice": "$425.4 million"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Quentin Tarantino",
+        "ideology": "COMPLICATED. Django Unchained is Tarantino's most overtly political film, and yet its politics are harder to pin down than they appear. The film is set in the antebellum South, depicts slavery with unflinching brutality, and ends with a Black man executing the white slaveholder class. Critics on the left celebrated it as a radical racial justice fantasy. Critics on the right condemned it for its violence and its N-word use. Neither group fully engaged with what the film actually is: a Spaghetti Western revenge story that happens to use American slavery as its backdrop, and whose moral framework is strikingly traditional. Tarantino does not make films about systems. He makes films about individuals. Django is not fighting systemic racism. He is fighting the specific men who own his wife.",
+        "profile": "Django Unchained was Tarantino's seventh film, following Inglourious Basterds (2009). It won him his second Academy Award for Best Original Screenplay. The film was inspired by Italian Spaghetti Westerns of the 1960s, particularly Django (1966) and Mandingo (1975), combined with the Nibelungen legend of Siegfried rescuing Broomhilde from the mountain of fire. Tarantino's decision to set a Western-genre revenge film against American slavery was controversial: Spike Lee refused to see it, calling it disrespectful to his ancestors. Django Unchained became one of the highest-grossing Westerns of all time."
+      },
+      "writers": {
+        "names": "Quentin Tarantino",
+        "profile": "Tarantino wrote Django Unchained as his entry into the Spaghetti Western genre, grafting the European Western revenge tradition onto American history. The script won the Oscar for Best Original Screenplay. The screenplay is structurally classical: a man is separated from his wife, he gains a skill and an ally, he travels to rescue her, and he destroys those who stand in his way. This is the Odyssey. This is every Western ever made. The slavery backdrop makes it more historically loaded but does not change the fundamental story architecture. The film's most controversial element, its use of the N-word approximately 110 times, drew sustained criticism but reflects Tarantino's characteristic immersion in his film's period and genre context."
+      },
+      "lead_producer": {
+        "name": "Stacey Sher, Reginald Hudlin, Pilar Savone",
+        "company": "The Weinstein Company / Columbia Pictures"
+      },
+      "composer": {
+        "name": "Ennio Morricone (archival), Various Artists",
+        "profile": "The Django Unchained soundtrack blends Ennio Morricone's classic Italian Western scores with contemporary hip-hop, including original tracks from Jay-Z, Rick Ross, and John Legend. The juxtaposition of spaghetti western soundscapes with modern Black music is deliberately anachronistic and ideologically deliberate: it connects Django's story to contemporary Black American experience while grounding it in the Western genre tradition. The original Django theme by Luis Bacalov opens the film."
+      },
+      "top_cast": [
+        {
+          "name": "Jamie Foxx",
+          "role": "Django Freeman"
+        },
+        {
+          "name": "Christoph Waltz",
+          "role": "Dr. King Schultz"
+        },
+        {
+          "name": "Leonardo DiCaprio",
+          "role": "Calvin Candie"
+        },
+        {
+          "name": "Kerry Washington",
+          "role": "Broomhilda von Shaft"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "role": "Stephen"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL LEAN",
+        "confidence": "moderate"
+      }
+    },
+    "fidelityCasting": {
+      "sourceType": "Original Screenplay",
+      "sourceTitle": "Django Unchained (original screenplay by Quentin Tarantino, 2012)",
+      "assessment": "Django Unchained is an original screenplay with no source material to evaluate. The characters were written for specific actors: Django was written for a Black actor and cast with Jamie Foxx. Broomhilda was written as a Black woman and cast with Kerry Washington. Calvin Candie and Big Daddy were written as white Southern slaveholders and cast accordingly. Dr. King Schultz was written as a German immigrant and cast with Christoph Waltz (Austrian). Stephen was written as an elderly Black house slave and cast with Samuel L. Jackson. The casting is entirely consistent with the film's historical setting and the screenplay's character specifications. No fidelity casting concerns apply."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "R",
+      "mpaaDescriptors": "Strong graphic violence throughout, a vicious fight, language including racial epithets",
+      "recommendedAge": "17+",
+      "contentWarnings": [
+        "Extreme graphic violence including shootings, a man being torn apart by dogs, and a brutal mandingo fight to the death",
+        "Pervasive use of the N-word throughout (approximately 110 times), primarily in period-accurate historical context",
+        "A man is whipped severely in a prolonged, graphic scene",
+        "Slavery depicted with unflinching brutality including chains, branding, and degradation",
+        "Full frontal male nudity in a brief scene",
+        "A mandingo fighting scene in which two enslaved men are forced to fight to the death with bare hands",
+        "Significant bloodshed in the film's final act, presented in stylized Western fashion",
+        "Calvin Candie's depiction of antebellum sadism is psychologically disturbing"
+      ],
+      "guidance": "Rated R. Django Unchained contains some of the most viscerally disturbing content Tarantino has put on screen, combining the genre violence of a Spaghetti Western with the historical brutality of American slavery. The whipping scene, the mandingo fight, and the use of racial language make this inappropriate for anyone under 17 and potentially deeply upsetting to adult viewers regardless of age. Parents should not allow teenagers to watch this film. The N-word usage is period-accurate but relentless. Tarantino's decision to use the Western genre to explore slavery means the film alternates between exploitation-style action sequences and genuinely horrifying depictions of real historical atrocity. Understanding the genre context helps, but does not sanitize the content. This is a film for adults who are prepared for both the violence and the historical weight."
+    },
+    "summary": {
+      "overall": "Django Unchained is the most misread film in Quentin Tarantino's filmography. Critics on the left called it a radical racial fantasy. Critics on the right called it exploitation with a woke message. Spike Lee refused to watch it. Republicans in Congress cited it as evidence of Hollywood's anti-Southern bias. Almost everyone missed what the film actually is: a classical Western revenge story whose protagonist happens to be a freed slave. The story beats are older than cinema. A man's wife is taken. He gains a skill and a partner. He travels through hostile territory to get her back. He destroys everyone in his way. Django Unchained is the Odyssey with a six-shooter and a German bounty hunter.\n\nThat framing matters because it determines how you score the film. Django Unchained is not about systemic racism. It is about one man rescuing one woman from one specific evil man. Django is not fighting the institution of slavery as a political abstraction. He is fighting Calvin Candie (Leonardo DiCaprio, spectacular) because Candie owns Broomhilda (Kerry Washington), and Broomhilda is Django's wife, and that is not acceptable. The motivation is marital. The goal is domestic. The method is violent Western justice. The film is the most traditional story Tarantino has ever told in its bones, even as its surface content involves slavery, racial violence, and the most sustained use of the N-word in mainstream American cinema.\n\nThe traditional scoring elements are extensive. The marriage covenant is sacrosanct. Django's entire purpose is recovering his wife, and the film never suggests he should have any other purpose. Broomhilda is not a plot device to be rescued so Django can find himself. She is the point. She is the reason. When Django finally reaches her, the reunion is earned and moving in ways that Tarantino's films rarely allow themselves to be. The husband-rescues-wife structure is the oldest story in Western civilization, and Django Unchained commits to it completely.\n\nMasculine competence is celebrated at every level. Django is trained by Schultz (Christoph Waltz, rightfully Oscar-winning) to be a bounty hunter, and the film watches him become one of the best. He learns to ride. He learns to shoot. He learns to read men and situations. His progression from chained prisoner to the most dangerous man in the room is presented as the natural result of talent given the freedom to develop. The film argues that Django was always exceptional; he just needed someone to remove the chains. This is a deeply conservative vision of human potential: the individual is extraordinary, and what oppresses individuals is specific evil, not abstract systems.\n\nThe film's primary villain, Calvin Candie, is a specific human monster, not a representative of an ideology. His evil is personal, sadistic, and theatrical. He is not a stand-in for white conservatism or Southern culture in general. Big Daddy (Don Johnson), another slaveholder, is a buffoon whose Klan attack is played as slapstick comedy. The film never asks you to see slavery as a systemic critique of any political position contemporary conservatives might hold. It asks you to despise specific evil men and cheer when a great shot kills them. This is Western genre morality: clear heroes, clear villains, satisfying violence.\n\nThe character of Stephen (Samuel L. Jackson) is the film's most ideologically complex creation. The head house slave who has accumulated real power within the system of slavery and uses that power to maintain the system's cruelest aspects is not a villain the progressive racial justice framework has an easy place for. Stephen is a collaborator who has chosen his own interest over his people's freedom. Tarantino does not simplify this. Stephen is genuinely frightening, genuinely intelligent, and genuinely contemptible. His confrontation with Django at the end is the film's most morally complicated moment. The film refuses to sentimentalize racial solidarity or to excuse Stephen's choices because of his circumstances.\n\nWhere the film scores on the woke side of the ledger is instructive. The film's historical revisionism, while satisfying as fantasy, does represent an ideological desire to rewrite history's outcomes. Django's ability to move through the antebellum South as effectively as he does is a fantasy that the film asks you to accept as wish fulfillment. This is not a critique of the film's quality; it is an assessment of its ideological function. Revenge fantasy historical revisionism has been a consistent tool of progressive storytelling.\n\nThe N-word controversy is worth addressing directly. Tarantino uses the word approximately 110 times. Spike Lee said this was disrespectful to Black people. Director John Singleton and Samuel L. Jackson both defended Tarantino's use. The word is used almost exclusively by white slaveholders and characters embedded in the slave economy. Tarantino's argument, consistent across his career, is that sanitizing the language of historical evil is a form of dishonesty. Django Unchained is a film about a world in which that word was the primary instrument of dehumanization, and Tarantino refuses to pretend otherwise. Conservative audiences who find the word offensive should know it is relentless throughout the film, but its use is not gratuitous. It is period-accurate linguistic horror.\n\nThe verdict: TRADITIONAL LEAN. Django Unchained is organized around the most traditional story arc in Western civilization: a husband fights to recover his wife. Its moral universe is clear: slavery is evil, its practitioners are monsters, and a righteous man is justified in destroying them. Its celebration of masculine competence, earned skill, and the marriage covenant outweighs the progressive elements of historical revenge fantasy and systemic racism framing. Tarantino made a Western. That it happens to be the most politically charged Western since The Searchers is a testament to the genre's capacity to carry serious historical weight without abandoning its traditional moral framework.",
+      "oneLiner": "A husband rescues his wife from slavery in the most traditional story arc imaginable, executed with Tarantino's signature excess and structural conservatism.",
+      "verdict": "TRADITIONAL LEAN. The marriage covenant, masculine competence, and moral clarity about specific evil give Django Unchained a stronger traditional foundation than its surface content suggests. The historical revenge fantasy and systemic racism framing keep it from scoring higher.",
+      "adultInsight": "Conservative adults who avoided Django Unchained because of its racial content are missing a film whose fundamental moral architecture is completely aligned with their values: marriage is sacred, husbands protect their wives, evil men deserve violent justice, and individual excellence is natural when freed from specific oppression. The film is not arguing that America is systemically racist and must be dismantled. It is arguing that specific men who enslaved other men were monsters and that killing those specific men was righteous. These are positions that conservatives should have no trouble endorsing. The N-word usage is genuinely relentless and will disturb many viewers regardless of ideological position. That is the price of admission for a film that refuses to aestheticize the language of slavery."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-DU-01",
+        "name": "Slavery as Ideological Horror Backdrop / Systemic Racism Frame",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": 1.0,
+        "centrality": 1.8,
+        "weightedScore": 7.2,
+        "description": "The film depicts American slavery with graphic brutality: whippings, mandingo fights, chains, branding, and degradation. While the slavery backdrop is historically accurate, the film uses it for ideological as well as dramatic purposes: to make the white Southern slaveholder class irredeemably monstrous and to frame Django's violence against them as not merely justified but righteous and cathartic. The centrality is high because the slavery setting is not incidental but the film's defining context."
+      },
+      {
+        "id": "WOKE-DU-02",
+        "name": "Historical Revenge Fantasy / Revisionist Wish Fulfillment",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 3.0,
+        "description": "Django's ability to operate as a free Black bounty hunter in the antebellum South, to bluff and outmaneuver white slaveholders, and ultimately to destroy Candieland and ride away with his wife is an explicit revenge fantasy rather than historical realism. The film is aware of this: it is doing for American slavery what Inglourious Basterds did for the Holocaust, providing the cathartic historical reversal that history denied. Revisionist fantasy as a political tool is a progressive storytelling tradition."
+      },
+      {
+        "id": "WOKE-DU-03",
+        "name": "Extreme Graphic Violence as Moral Cleansing",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 1.0,
+        "description": "The film's final act massacre at Candieland is presented as morally cleansing: every death of a white slaveholder or overseer is cause for celebration. The film encourages the audience to enjoy the spectacle of violence against these specific villains, which is a legitimate genre convention in Westerns. However, the racial dimension of the violence, in which a Black man kills white racists to the sound of hip-hop music, gives it an ideological charge beyond standard Western justice."
+      },
+      {
+        "id": "WOKE-DU-04",
+        "name": "Pervasive Use of Racial Slur for Period Authenticity",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 1.0,
+        "description": "The N-word is used approximately 110 times in the film. Tarantino has consistently defended this as period accuracy and honesty about the language of dehumanization. The defense has merit: the word was the primary linguistic tool of slavery's dehumanization project, and sanitizing it would be a form of historical dishonesty. However, the relentlessness of its use goes beyond documentary accuracy into aesthetic choice, and that choice carries ideological weight regardless of Tarantino's stated intentions."
+      },
+      {
+        "id": "WOKE-DU-05",
+        "name": "White Savior Dynamic (Schultz as Enabler)",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 0.7,
+        "description": "Dr. King Schultz is a white European who frees Django, trains him, partners with him, and provides the plan to rescue Broomhilda. The film is aware of this dynamic and partially inverts it: Schultz needs Django as much as Django needs Schultz, Schultz dies because he cannot contain his own moral outrage at Candie's slavery, and Django ultimately succeeds through his own skill and will after Schultz is gone. Nevertheless, the plot requires a white man's assistance to set Django free and give him tools. The film earns partial credit for complicating this dynamic."
+      },
+      {
+        "id": "WOKE-DU-06",
+        "name": "Southern / Conservative Culture as Default Villainous Setting",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 0.5,
+        "description": "The antebellum South is the villain's territory in Django Unchained, and the film renders it with maximally grotesque cultural detail: plantation mansions, mandingo fighting, the Klan. While this is historically grounded, contemporary Southern conservatives have noted that the film's visual vocabulary for Southern evil maps uncomfortably onto modern conservative cultural markers. This is a low-severity issue because the film is depicting a historical reality, not attacking modern conservatives, but the cultural coding is present."
+      },
+      {
+        "id": "TRAD-DU-01",
+        "name": "Marriage Covenant as Supreme Moral Motivation",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 1.0,
+        "centrality": 1.8,
+        "weightedScore": 9.0,
+        "description": "Django's entire purpose throughout the film is recovering his wife Broomhilda. There is no subplot about finding himself, discovering his identity, or achieving personal goals independent of her. She is the point. The marriage covenant, even one formed under slavery and denied legal recognition by the society that enslaved them, is treated as absolutely binding and absolutely worth dying for. Django does not consider any alternative to finding her. This is marriage as the supreme organizing commitment of a man's life, which is among the most traditional values in Western civilization."
+      },
+      {
+        "id": "TRAD-DU-02",
+        "name": "Masculine Competence Earned Through Discipline and Mentorship",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 4.0,
+        "description": "Django's transformation from chained slave to exceptional bounty hunter is depicted as the result of natural talent given room to grow through Schultz's mentorship and disciplined practice. The film watches Django learn: to shoot, to ride, to read men. His excellence is earned, not granted. The mentor-apprentice relationship between Schultz and Django follows the most traditional masculine development model: an older, skilled man sees potential in a younger man and draws it out through challenge, trust, and real-world testing."
+      },
+      {
+        "id": "TRAD-DU-03",
+        "name": "Clear Good vs. Evil Moral Universe",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 4.0,
+        "description": "Django Unchained operates in a moral universe without ambiguity at the cosmic level. Slavery is evil. Its practitioners are monsters. The Bride's cause is righteous. There is no moral relativism about whether Django is justified in killing his enemies. The film's entire structure rests on the assumption that some men deserve to die and that killing them is an act of justice rather than revenge. This is traditional Western morality: clear heroes, clear villains, and consequences that match actions."
+      },
+      {
+        "id": "TRAD-DU-04",
+        "name": "Individual Heroism Over Collective Action",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 1.5,
+        "description": "Django does not organize a slave revolt. He does not work within any institutional or collective framework. He is a lone hero with one specific goal, and he achieves it through individual excellence. The film has no interest in systemic change or collective liberation. It wants one man to rescue his wife. This is the conservative vision of heroism: individual excellence solving specific problems rather than collective action transforming systems."
+      },
+      {
+        "id": "TRAD-DU-05",
+        "name": "Loyalty and Friendship Between Men (Schultz-Django Bond)",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 1.5,
+        "description": "The partnership between Schultz and Django is one of the film's genuine emotional cores. Schultz begins by using Django as a tool and ends by dying for him, unable to shake Candie's hand after watching him torment Broomhilda. His death is triggered by honor: he cannot violate his own code by pretending to respect Candie. The bond between the two men, built on mutual respect and genuine affection, is presented as one of the few truly good things in the film's brutal world. Male friendship grounded in honor is a traditional value."
+      },
+      {
+        "id": "TRAD-DU-06",
+        "name": "Consequences for Evil / Justice is Served",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 1.5,
+        "description": "Every villain in Django Unchained gets what they deserve. Candie is shot. Big Daddy is destroyed. Stephen is crippled and then killed in the explosion of Candieland. The Brittle Brothers die. Billy Crash dies. The film does not allow a single torturer, murderer, or slave-owner to escape justice. This moral completeness, in which evil acts are met with complete and satisfying punishment, is deeply traditional. Justice is not deferred to God or history. It arrives, personally, from Django."
+      }
+    ],
+    "detailed_analysis": {
+      "western_genre_context": "Django Unchained must be understood as a Western first and a slavery film second. Tarantino spent years studying the Italian Spaghetti Western tradition, specifically Sergio Leone and the Django franchise started by Sergio Corbucci in 1966. The film's narrative structure, visual language, and moral framework all come from this tradition. The Spaghetti Western was itself a genre that appropriated American mythology to make anti-establishment, often anti-authoritarian films. Tarantino's innovation was to relocate the Western's moral framework to American history's most morally unambiguous setting: antebellum slavery. In this setting, the standard Western tropes, a lone hero with exceptional skill navigating a corrupt society to achieve a specific just goal, acquire additional weight without fundamentally changing their nature.",
+      "marriage_as_anchor": "The film's most underappreciated traditional element is its complete commitment to marriage as the organizing value of Django's life. Broomhilda is not just a goal to be achieved; she is the reason Django exists in the film. When he finally sees her after years of separation, his reaction is not triumphant but tender. The film refuses to make the reunion a power moment or an empowerment moment. It makes it a love moment. In a film full of spectacular violence, the quietest scenes are between Django and Broomhilda, and they are the most emotionally real. This is what makes Django Unchained more traditional than its marketing suggests.",
+      "stephen_character_analysis": "Samuel L. Jackson's Stephen is the film's most complex creation and the one most critics have avoided analyzing carefully. Stephen is the head house slave who has accumulated real power, real influence, and real privilege within the system of slavery by serving that system with total dedication. He is more dangerous to Django than Candie in some respects, because he has the intelligence and the institutional knowledge to see through Django's deception. Tarantino does not offer Stephen a redemption arc. Stephen's collaboration with slavery is presented as a genuine choice made for personal advantage. The film holds him responsible for that choice. In a progressive framework, systemic oppression would mitigate individual responsibility. Tarantino's framework does not: Stephen chose to serve evil, and he dies for it."
+    },
+    "comparison_films": [
+      {
+        "title": "The Searchers",
+        "year": 1956,
+        "comparison": "John Ford's masterpiece is the closest American antecedent to Django Unchained: a man driven by obsession to recover a woman taken from him, traveling through hostile territory, using violence to achieve a domestic goal. The Searchers complicated its hero's motivations in ways Ford could not fully resolve. Django Unchained is more direct: Django's motivations are pure, and his violence is unambiguously righteous. Both films are Westerns that use the rescue narrative to examine American racial history from different political angles."
+      },
+      {
+        "title": "Django (1966)",
+        "year": 1966,
+        "comparison": "Sergio Corbucci's original Django is the primary genre ancestor. Franco Nero's Django is a mysterious, coffin-dragging loner in a mud-soaked hellscape who destroys both a Confederate militia and a Mexican gang for personal reasons. Tarantino borrows the name, the opening theme, and the genre conventions while grafting on the historical weight of American slavery. The original Django is amoral. Tarantino's Django is righteous."
+      }
+    ],
+    "datePublished": "2026-03-27"
   }
 ]

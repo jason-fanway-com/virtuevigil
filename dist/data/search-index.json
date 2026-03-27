@@ -84,6 +84,18 @@
     "poster": "/images/posters/kill-bill-volume-1-2003.jpg"
   },
   {
+    "slug": "django-unchained-2012",
+    "title": "Django Unchained",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Western / Action",
+    "year": 2012,
+    "type": "film",
+    "wokeScore": 13.4,
+    "tradScore": 21.5,
+    "poster": "/images/posters/django-unchained-2012.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
