@@ -60,6 +60,18 @@
     "poster": "/images/posters/remember-the-titans-2000.jpg"
   },
   {
+    "slug": "pulp-fiction-1994",
+    "title": "Pulp Fiction",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Crime / Drama",
+    "year": 1994,
+    "type": "film",
+    "wokeScore": 17.98,
+    "tradScore": 10.08,
+    "poster": "/images/posters/pulp-fiction-1994.jpg"
+  },
+  {
     "slug": "rebel-ridge-2024",
     "title": "Rebel Ridge",
     "verdict": "TRADITIONAL",
