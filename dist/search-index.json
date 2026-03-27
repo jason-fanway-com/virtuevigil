@@ -72,6 +72,18 @@
     "poster": "/images/posters/reservoir-dogs-1992.jpg"
   },
   {
+    "slug": "kill-bill-volume-1-2003",
+    "title": "Kill Bill: Volume 1",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action / Martial Arts / Revenge",
+    "year": 2003,
+    "type": "film",
+    "wokeScore": 13.38,
+    "tradScore": 18.5,
+    "poster": "/images/posters/kill-bill-volume-1-2003.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
