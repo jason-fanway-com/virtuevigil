@@ -36,6 +36,18 @@
     "poster": "/images/posters/black-swan-2010.jpg"
   },
   {
+    "slug": "rocky-1976",
+    "title": "Rocky",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Sports",
+    "year": 1976,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 29.54,
+    "poster": "/images/posters/rocky-1976.jpg"
+  },
+  {
     "slug": "rebel-ridge-2024",
     "title": "Rebel Ridge",
     "verdict": "TRADITIONAL",
