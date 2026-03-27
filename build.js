@@ -1544,6 +1544,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/rotten-tomatoes-vs-virtuevigil/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-based-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/christopher-nolan-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/tarantino-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -7183,6 +7184,107 @@ function build() {
       <div class="listicle-conclusion">
         <h3>Find More Conservative-Friendly Picks at VirtueVigil</h3>
         <p>These eleven films share a common thread: they treat effort, character, and personal accountability as the actual point -- not as props for a message. The sports film genre is one of Hollywood's last reliable homes for traditional values, and the best entries in it are genuinely great movies, not just conservative comfort food. Browse the full VirtueVigil database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> for scores, trope audits, and parental guidance across hundreds of films. Or check our <a href="https://virtuevigil.com/lists/best-conservative-movies/">all-time conservative favorites</a>, <a href="https://virtuevigil.com/lists/best-war-movies-patriots/">best war movies for patriots</a>, and <a href="https://virtuevigil.com/lists/non-woke-action-movies-2024/">non-woke action movies</a> for more curated lists built on real data.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/tarantino-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'tarantino-movies-woke-ranking',
+    title: 'Every Quentin Tarantino Movie Ranked by Woke Score',
+    description: 'VirtueVigil scores every Quentin Tarantino film for woke content, traditional values, and language. Ranked by VVWS score.',
+    canonicalPath: 'lists/tarantino-movies-woke-ranking',
+    publishDate: '2026-03-27',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Quentin Tarantino is one of cinema's most controversial directors. His films are brutal, profane, and relentlessly stylized. The dialogue crackles with an energy that has not aged. The violence is operatic and deliberate. And for years, viewers on both sides of the political spectrum have argued about what his films actually say. Does he glorify transgression or punish it? Is he a provocateur without a conscience, or a moralist in criminal drag?</p>
+        <p>VirtueVigil ran all six major Tarantino films through the full scoring system. Every film measured on woke content, traditional values content, language, institutional framing, and character agency. No reputation, no assumptions -- just the data. The results are more nuanced than the hot takes suggest. Four of his six major films land in traditional territory. Two do not. Here is the complete ranking, from most traditional to most woke.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/once-upon-a-time-in-hollywood-2019/">Once Upon a Time in Hollywood (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+12 TRAD</span>
+            </div>
+            <p>Tarantino's most overtly nostalgic film is also his most traditionally scored. Once Upon a Time in Hollywood is a love letter to a Hollywood that no longer exists, told through two men who are being left behind by it. Rick Dalton is a TV Western actor watching the counterculture erase the world that made him; Cliff Booth is his stuntman, loyal to a fault, answering to a code of male duty that the new Hollywood finds incomprehensible. The film treats their obsolescence as a loss, not a liberation. Woke score: 6.8. Trad score: 19.25.</p>
+            <a href="/reviews/once-upon-a-time-in-hollywood-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/django-unchained-2012/">Django Unchained (2012)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>The most misread film in Tarantino's catalog. Django Unchained is not a woke revenge fantasy -- it is a story about a husband who refuses to stop fighting for his wife. Django's motivation is intensely personal and deeply traditional: marriage as a bond worth any cost, masculine duty expressed as physical protection of the woman he loves. The villain class is dehumanized because the film is a spaghetti Western where slaveholders are the outlaws, and Django is the gunslinger. The ideological framing matters less than the underlying moral structure, which is built on loyalty, love, and earned violence. Woke score: 13.4. Trad score: 21.5.</p>
+            <a href="/reviews/django-unchained-2012/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/inglourious-basterds-2009/">Inglourious Basterds (2009)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>Tarantino's masterpiece and possibly the most unambiguously pro-military film in American cinema since The Longest Day. A squad of Jewish American soldiers hunts Nazi officers through occupied France while a Jewish French woman plots her own revenge inside a Paris cinema. The film is gleefully patriotic about the project of killing fascists, and the Allied soldiers are depicted as competent, relentless, and worthy of their mission. The violence is not ironic -- it is cathartic and moral, and the film knows exactly what it is doing. Woke score: 9.35. Trad score: 16.5.</p>
+            <a href="/reviews/inglourious-basterds-2009/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/kill-bill-volume-1-2003/">Kill Bill: Volume 1 (2003)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+5 TRAD</span>
+            </div>
+            <p>Kill Bill looks at first glance like a feminist revenge fantasy, and on the surface it is: a woman slaughters dozens of people on her way to kill the man who wronged her. But the deeper scoring tells a different story. The Bride's motivation is the destruction of her family and the theft of her child -- not systemic grievance, not ideological empowerment, but a mother's fury at the specific man who took everything from her. The violence is coded as personal justice, not political statement. Her enemies are not institutions or systems; they are individuals who made choices and face consequences. Woke score: 13.38. Trad score: 18.5.</p>
+            <a href="/reviews/kill-bill-volume-1-2003/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/reservoir-dogs-1992/">Reservoir Dogs (1992)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>Tarantino's debut is 99 minutes of men in a warehouse figuring out who betrayed them, and it remains riveting cinema. The traditional elements are real: masculine loyalty, personal codes of conduct, the weight of betrayal treated as a genuine moral crisis. But the framework is fundamentally transgressive -- violent criminals as protagonists, institutional authority as the enemy, police as the threat rather than the protection. The scoring reflects a film that earns genuine traditional credit through character dynamics but tips woke through its framing of law enforcement and the normalization of criminal identity. Woke score: 20.43. Trad score: 16.38.</p>
+            <a href="/reviews/reservoir-dogs-1992/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/pulp-fiction-1994/">Pulp Fiction (1994)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-8 WOKE</span>
+            </div>
+            <p>Pulp Fiction is the most woke-leaning film in Tarantino's catalog, and the number is lower than many people expect. This is not a political film and it is not trying to be -- but the scoring reflects what is actually on screen. Extended drug use depicted without consequence, authority figures treated as threats or jokes, the absence of any moral structure that is not derived from criminal self-interest. The redemption arc for Jules Winnfield is real and genuinely moving, but it is an individual spiritual awakening, not a restoration of traditional order. A landmark film and a woke-lean one. Woke score: 17.98. Trad score: 10.08.</p>
+            <a href="/reviews/pulp-fiction-1994/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>Browse More at VirtueVigil</h3>
+        <p>Four of Tarantino's six major films score in traditional territory -- a result that will surprise anyone who has only engaged with the cultural mythology around his work. His best films are not ideological documents; they are genre exercises built around loyalty, betrayal, and violence with moral stakes. The two that tip woke do so not through political messaging but through their foundational framing: criminals as protagonists, institutions as enemies, transgression without consequence. All six films have full reviews at VirtueVigil with complete trope audits, creative team profiles, and parental guidance assessments. Browse the full database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> or explore our director rankings for <a href="https://virtuevigil.com/lists/christopher-nolan-movies-woke-ranking/">Christopher Nolan</a>, <a href="https://virtuevigil.com/lists/ryan-gosling-movies-woke-ranking/">Ryan Gosling</a>, and more on our <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
       </div>
     </article>`
   }));
