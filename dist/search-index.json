@@ -96,6 +96,18 @@
     "poster": "/images/posters/django-unchained-2012.jpg"
   },
   {
+    "slug": "inglourious-basterds-2009",
+    "title": "Inglourious Basterds",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "War / Drama / Black Comedy",
+    "year": 2009,
+    "type": "film",
+    "wokeScore": 9.35,
+    "tradScore": 16.5,
+    "poster": "/images/posters/inglourious-basterds-2009.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
