@@ -48,6 +48,18 @@
     "poster": "/images/posters/hoosiers-1986.jpg"
   },
   {
+    "slug": "miracle-2004",
+    "title": "Miracle",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Sports / History",
+    "year": 2004,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 37.38,
+    "poster": "/images/posters/miracle-2004.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
