@@ -24,6 +24,18 @@
     "poster": "/images/posters/mufasa-lion-king-2024.jpg"
   },
   {
+    "slug": "the-iron-claw-2023",
+    "title": "The Iron Claw",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Drama Biography Sports",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 9.2,
+    "tradScore": 11.1,
+    "poster": "/images/posters/the-iron-claw-2023.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
