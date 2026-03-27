@@ -127,6 +127,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/reservoir-dogs-1992/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/wonder-woman-2017/</loc>
     <lastmod>2026-03-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -2522,6 +2528,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/drama-/-sports-/-history/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/crime-/-thriller/</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -60,6 +60,18 @@
     "poster": "/images/posters/miracle-2004.jpg"
   },
   {
+    "slug": "reservoir-dogs-1992",
+    "title": "Reservoir Dogs",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Crime / Thriller",
+    "year": 1992,
+    "type": "film",
+    "wokeScore": 20.43,
+    "tradScore": 16.38,
+    "poster": "/images/posters/reservoir-dogs-1992.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
