@@ -7021,6 +7021,172 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/conservative-sports-movies/index.html', buildListiclePage({
+    slug: 'conservative-sports-movies',
+    title: 'Best Sports Movies for Conservatives (Ranked)',
+    description: 'The best sports movies for conservatives ranked by VirtueVigil. From Rocky to Miracle to Hoosiers -- films built on grit, discipline, and traditional values.',
+    canonicalPath: 'lists/conservative-sports-movies',
+    publishDate: '2026-03-27',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Hollywood has a talent for ruining sports films. Inject enough identity politics, dial down enough masculinity, and you turn a story about human excellence into a lecture about systems. The films on this list refused that bargain. Every entry here scored TRADITIONAL or higher on the VirtueVigil Woke/Traditional scoring system, meaning the values on screen -- discipline, sacrifice, family, faith, and earned victory -- carry the film without agenda getting in the way.</p>
+        <p>These are movies built around the idea that effort matters, character matters, and that winning and losing both teach something worth learning. From a working-class boxer in Philadelphia to a college hockey team that beat the Soviets, these are the sports films conservatives can watch without bracing for a lecture. Ranked from highest traditional score to lowest -- the cream at the top.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/miracle-2004/">Miracle (2004)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+36 TRAD</span>
+            </div>
+            <p>The highest traditional score in VirtueVigil's sports film library. Kurt Russell's Herb Brooks is the embodiment of demanding, unapologetic masculine leadership -- a coach who tells his players he will push them until they break, then breaks them into something better. The 1980 U.S. Olympic hockey team's defeat of the Soviet Union is treated as exactly what it was: a patriotic triumph, a statement about American will, and a moment when a country that needed to believe in something finally got it. Woke score: 1.4. Trad score: 37.38.</p>
+            <a href="/reviews/miracle-2004/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hoosiers-1986/">Hoosiers (1986)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+32 TRAD</span>
+            </div>
+            <p>Forty years old and still the standard. Hoosiers is a hymn to discipline, redemption through accountability, and the transformative power of a community that demands excellence from its own. Gene Hackman's Coach Dale does not coddle. He does not explain himself. He builds men before he builds a basketball team, and the film never once suggests those are separate projects. Faith, hard work, and earned victory -- no other sports film in Hollywood history packs those values more tightly. Woke score: 2.75. Trad score: 34.51.</p>
+            <a href="/reviews/hoosiers-1986/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/rocky-1976/">Rocky (1976)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>The American Dream as a boxing movie. Sylvester Stallone's Rocky Balboa is a working-class man who wants nothing more than to go the distance with the heavyweight champion of the world -- not to win, but to prove he was not just another bum from the neighborhood. Rocky is about dignity, devotion, self-discipline, and the value of trying against impossible odds. Fifty years later, it has not aged by a single frame. Woke score: 1.4. Trad score: 29.54.</p>
+            <a href="/reviews/rocky-1976/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/ford-v-ferrari-2019/">Ford v Ferrari (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>The best American sports film in years. Matt Damon and Christian Bale play two craftsmen -- a car designer and a driver -- who build something extraordinary against the wishes of committees, bureaucrats, and corporate suits who prefer manageable mediocrity over dangerous excellence. Ford v Ferrari is an unapologetic celebration of male competence, loyalty, and the idea that some things are worth fighting for even when the institution does not want you to. The Le Mans sequences are the finest racing photography ever committed to film. Woke score: 2. Trad score: 22.05.</p>
+            <a href="/reviews/ford-v-ferrari-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gran-turismo-2023/">Gran Turismo (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>A gamer becomes a real Le Mans racer through obsession, discipline, and one coach willing to see what no one else would. Gran Turismo is a father-son film first, a racing film second, and a story about earning what you want through relentless work third. The film takes its video game premise seriously enough to build real emotional stakes around it, anchored by a mentorship relationship that codes deeply traditional -- belief, discipline, accountability, and the responsibility that comes with seeing potential in someone. Woke score: 3.3. Trad score: 22.68.</p>
+            <a href="/reviews/gran-turismo-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/creed-iii-2023/">Creed III (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+17 TRAD</span>
+            </div>
+            <p>Michael B. Jordan's directorial debut is the most traditionally grounded major film of 2023. Adonis Creed cannot outrun his past: a childhood friend shows up demanding a reckoning for a secret Adonis has carried for twenty years, and the film treats guilt as real, inescapable, and requiring confrontation rather than therapy. Personal accountability is not a talking point here -- it is the entire spine of the narrative. The Katsura-inspired fight sequences are extraordinary, but it is the moral architecture underneath them that makes Creed III essential. Woke score: 5.1. Trad score: 22.4.</p>
+            <a href="/reviews/creed-iii-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/f1-2025/">F1 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+17 TRAD</span>
+            </div>
+            <p>Top Gun: Maverick on a racetrack. Brad Pitt plays a disgraced former driver given one last chance to mentor a young hotshot and reclaim something he threw away decades ago. F1 is old-school Hollywood: unapologetic masculinity, the pursuit of excellence, mentorship as a moral responsibility, and zero political lecture. The practical racing footage, filmed during actual Grand Prix weekends, is staggering. A film that remembered the first rule of entertainment: make the audience feel something real. Woke score: 5.52. Trad score: 22.68.</p>
+            <a href="/reviews/f1-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/air-2023/">Air (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+13 TRAD</span>
+            </div>
+            <p>The story of how Nike signed Michael Jordan and changed sports marketing forever, told as a film about belief, risk, and a mother who out-negotiated an entire corporation to get her son a fair deal. The American entrepreneurial spirit runs through every frame: capitalism working, conviction rewarded, a mid-tier company betting everything on one idea and being right. Ben Affleck and Matt Damon understand that the best business stories are just stories about people deciding what they are willing to fight for. Woke score: 2.4. Trad score: 15.2.</p>
+            <a href="/reviews/air-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/remember-the-titans-2000/">Remember the Titans (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>Denzel Washington plays Coach Herman Boone, who integrates a Virginia high school football team in 1971 by pushing every player past their comfort zone until the only thing left is the team. Remember the Titans earns its traditional score not through its racial integration subject matter but through its actual methodology: brutal shared suffering, accountability to each other, demanding the same standard from every man regardless of background. The film's argument is that discipline and shared mission break down division faster than dialogue ever could. Woke score: 9.14. Trad score: 16.24.</p>
+            <a href="/reviews/remember-the-titans-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/space-jam-a-new-legacy-2021/">Space Jam: A New Legacy (2021)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+4 TRAD</span>
+            </div>
+            <p>A father-son film wrapped in LeBron James and Looney Tunes IP. The movie is messy and corporate-branded in ways that undercut its better instincts, but the emotional core -- a driven father who has pushed his son toward his own dreams instead of the son's -- is handled with surprising honesty. LeBron's arc requires genuine humility, not just a learning moment, and the film earns the reconciliation. Not the strongest entry on this list, but the traditional family values at the center are real. Woke score: 5.2. Trad score: 8.89.</p>
+            <a href="/reviews/space-jam-a-new-legacy-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-iron-claw-2023/">The Iron Claw (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>The most emotionally devastating entry on this list. Sean Durkin's portrait of the Von Erich wrestling dynasty examines what happens when traditional masculinity is weaponized by a father who cannot distinguish between building sons and breaking them. The Iron Claw is a film about the costs of strength worship -- not an argument against masculine values but an honest examination of what those values look like when love is withheld. It earns its mixed score by asking hard questions without pretending the answers are simple. Woke score: 9.2. Trad score: 11.1.</p>
+            <a href="/reviews/the-iron-claw-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>Find More Conservative-Friendly Picks at VirtueVigil</h3>
+        <p>These eleven films share a common thread: they treat effort, character, and personal accountability as the actual point -- not as props for a message. The sports film genre is one of Hollywood's last reliable homes for traditional values, and the best entries in it are genuinely great movies, not just conservative comfort food. Browse the full VirtueVigil database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> for scores, trope audits, and parental guidance across hundreds of films. Or check our <a href="https://virtuevigil.com/lists/best-conservative-movies/">all-time conservative favorites</a>, <a href="https://virtuevigil.com/lists/best-war-movies-patriots/">best war movies for patriots</a>, and <a href="https://virtuevigil.com/lists/non-woke-action-movies-2024/">non-woke action movies</a> for more curated lists built on real data.</p>
+      </div>
+    </article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
