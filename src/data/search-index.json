@@ -48,6 +48,18 @@
     "poster": "/images/posters/rocky-1976.jpg"
   },
   {
+    "slug": "remember-the-titans-2000",
+    "title": "Remember the Titans",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Drama / Sports / Biography",
+    "year": 2000,
+    "type": "film",
+    "wokeScore": 9.14,
+    "tradScore": 16.24,
+    "poster": "/images/posters/remember-the-titans-2000.jpg"
+  },
+  {
     "slug": "rebel-ridge-2024",
     "title": "Rebel Ridge",
     "verdict": "TRADITIONAL",
