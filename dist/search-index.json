@@ -60,6 +60,18 @@
     "poster": "/images/posters/red-one-2024.jpg"
   },
   {
+    "slug": "godzilla-minus-one-2023",
+    "title": "Godzilla Minus One",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Drama/Sci-Fi",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 5.6,
+    "tradScore": 24.78,
+    "poster": "/images/posters/godzilla-minus-one-2023.jpg"
+  },
+  {
     "slug": "sonic-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL LEAN",
