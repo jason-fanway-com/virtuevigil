@@ -108,6 +108,18 @@
     "poster": "/images/posters/inglourious-basterds-2009.jpg"
   },
   {
+    "slug": "john-wick-2014",
+    "title": "John Wick",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Thriller / Neo-Noir",
+    "year": 2014,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 14.65,
+    "poster": "/images/posters/john-wick-2014.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
