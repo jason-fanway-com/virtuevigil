@@ -120,6 +120,18 @@
     "poster": "/images/posters/john-wick-2014.jpg"
   },
   {
+    "slug": "the-avengers-2012",
+    "title": "The Avengers",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Superhero / Science Fiction",
+    "year": 2012,
+    "type": "film",
+    "wokeScore": 4.5,
+    "tradScore": 16.4,
+    "poster": "/images/posters/the-avengers-2012.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",

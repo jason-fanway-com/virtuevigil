@@ -163,6 +163,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/the-avengers-2012/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/wonder-woman-2017/</loc>
     <lastmod>2026-03-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -2588,6 +2594,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/action-/-thriller-/-neo-noir/</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/action-/-superhero-/-science-fiction/</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
