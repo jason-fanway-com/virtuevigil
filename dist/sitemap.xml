@@ -169,6 +169,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/fight-club-1999/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/wonder-woman-2017/</loc>
     <lastmod>2026-03-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -2600,6 +2606,12 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/action-/-superhero-/-science-fiction/</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/drama-/-thriller-/-psychological/</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

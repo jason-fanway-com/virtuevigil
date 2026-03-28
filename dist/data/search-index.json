@@ -132,6 +132,18 @@
     "poster": "/images/posters/the-avengers-2012.jpg"
   },
   {
+    "slug": "fight-club-1999",
+    "title": "Fight Club",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Drama / Thriller / Psychological",
+    "year": 1999,
+    "type": "film",
+    "wokeScore": 17.34,
+    "tradScore": 9.94,
+    "poster": "/images/posters/fight-club-1999.jpg"
+  },
+  {
     "slug": "wonder-woman-2017",
     "title": "Wonder Woman",
     "verdict": "TRADITIONAL LEAN",
