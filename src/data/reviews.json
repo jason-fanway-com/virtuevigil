@@ -88888,5 +88888,152 @@
       "anime 2025 woke review",
       "chainsaw man reze arc VVWS score"
     ]
+  },
+  {
+    "id": "red-one-2024",
+    "slug": "red-one-2024",
+    "title": "Red One",
+    "year": 2024,
+    "type": "film",
+    "platform": "Theatrical / Prime Video",
+    "genre": "Action/Adventure/Christmas Comedy",
+    "date": "2026-03-28",
+    "datePublished": "2026-03-28",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "10 min",
+    "poster": "/images/posters/red-one-2024.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 5.35,
+    "tradScore": 16.44,
+    "authIndex": 66,
+    "scoreMargin": "+11 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. Red One is exactly what the marketing promised: Dwayne Johnson and Chris Evans racing around the globe to save Christmas. The film's woke elements, primarily the female boss character and the absent-father subplot, are both front and center from the first act. Nothing is hidden. Nothing is revealed late as an ideological gotcha. The conservative payoff, Christmas saved, father reconciled with son, family restored, is genuine and well-earned. Critics hated it (31% RT). Audiences loved it (92% audience score). The critic-audience gap tells you everything you need to know about where this film's values actually land."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Jake Kasdan",
+        "ideology": "MAINSTREAM COMMERCIAL. Kasdan is a Hollywood lifer whose father Lawrence Kasdan wrote The Empire Strikes Back and Raiders of the Lost Ark. Jake directed the two Jumanji reboots (Welcome to the Jungle, The Next Level), which were enormous financial successes built on broad entertainment values. He has no political reputation and no track record of ideological filmmaking. He makes crowd-pleasers.",
+        "profile": "Born in 1975, Jake Kasdan grew up in Hollywood as the son of screenwriter-director Lawrence Kasdan. His early career included Zero Effect (1998) and Walk Hard: The Dewey Cox Story (2007). His commercial breakthrough came with Jumanji: Welcome to the Jungle (2017), which grossed $962 million worldwide, and its sequel Jumanji: The Next Level (2019, $800M). Red One is his biggest-budget production yet, reuniting him with Dwayne Johnson and given Amazon's full theatrical-plus-streaming muscle. Kasdan's films don't have political subtext. They have action sequences, buddy comedy, and crowd-pleasing third-act resolutions. Red One is entirely consistent with his brand."
+      },
+      "writer": {
+        "name": "Chris Morgan",
+        "profile": "Chris Morgan is the primary architect of the Fast & Furious franchise, having written or co-written eight installments from Tokyo Drift through F9. His screenplays are built around a consistent philosophy: found family, loyalty, sacrifice, and the idea that crew is the most important thing in the world. Red One carries the same DNA. Morgan's films don't have progressive messages. They have masculine codes of loyalty and brotherhood wrapped in spectacle. His addition to a Christmas action-comedy is entirely predictable in the best sense."
+      }
+    },
+    "fidelityCasting": true,
+    "summary": {
+      "overall": "Critics destroyed this movie. 31% on Rotten Tomatoes. 'Dopey,' 'formulaic,' 'overstuffed.' The usual verdict when professional critics encounter a movie built entirely for an audience they don't belong to.\n\nAudiences gave it 92%. It was Amazon's second-biggest theatrical release ever. Over 50 million households watched it on Prime in its first month. That gap between critic contempt and audience enthusiasm is a reliable signal in 2024: the movie is doing something critics don't like.\n\nWhat Red One does is simple. It takes Christmas seriously as an institution worth protecting. It takes the father-son bond seriously as something broken that needs repair. And it takes the buddy formula seriously enough to make Callum and Jack actually entertaining company for two hours.\n\nThe absent-father subplot is genuinely conservative in its resolution. Callum realizes his job consumed him. He missed his son's life. The film doesn't excuse this or blame the mother or the system. It makes Callum account for it, repair it, and choose differently. That's personal responsibility in a Christmas bow.\n\nIs it a great film? No. The plot is messy, the villain motivations are thin, and some action sequences overstay their welcome. But it's earnest, funny, and built on values that are worth defending. The critics' problem with it says more about critics than about the movie.",
+      "adultInsight": "Exactly the kind of film critics dismiss and audiences love. Built on simple but genuine traditional values: Christmas as worth protecting, fatherhood as a responsibility, loyalty as the highest virtue. Callum's arc, from absent workaholic to present and committed father, is handled with more sincerity than the blockbuster packaging suggests. A solid family film that lands its conservative emotional beats.",
+      "parentalGuidance": "Rated PG-13 for action, some violence, and language. Appropriate for ages 10+. Content includes: sustained action-comedy violence (entirely cartoonish and bloodless, PG-adjacent in practice), brief mild language, a couple of suggestive one-liners, and a subplot about a father who was absent from his child's life. No sexual content. No political lectures. No identity ideology. One of the safer PG-13 films of 2024 for family viewing."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-FEMAUTH-001",
+        "name": "Female Authority / Female Boss",
+        "category": "woke",
+        "severity": 2,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 1.4,
+        "description": "Lucy Liu plays Zoe Harlow, Callum's commanding officer at ELF (Extremely Large Fighters, the North Pole's security apparatus). She's competent and plays the straight-laced foil to Johnson and Evans' double-act. Her gender is never commented on or politicized. She's a functional character, not a statement."
+      },
+      {
+        "id": "WOKE-ABSENTF-002",
+        "name": "Broken Family / Absent Father Setup",
+        "category": "woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 1.8,
+        "weightedScore": 3.6,
+        "description": "The film's emotional engine is Callum's estrangement from his son Drew. He was consumed by work. He missed Drew's life. This is positioned as the film's primary emotional problem that needs resolving. Worth flagging because it uses the broken family as its starting point, though the resolution is decidedly conservative: he fixes it."
+      },
+      {
+        "id": "WOKE-ENV-003",
+        "name": "Brief Environmental Reference",
+        "category": "woke",
+        "severity": 1,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 0.35,
+        "description": "One passing joke references North Pole climate concerns. It's a throwaway gag, not a lecture. Included for completeness but it barely registers."
+      },
+      {
+        "id": "TRAD-CHRISTMAS-001",
+        "name": "Christmas as Institution Worth Protecting",
+        "category": "trad",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 5.04,
+        "description": "The entire film is built around the premise that Christmas, Santa Claus, and the tradition of gift-giving are worth going to extraordinary lengths to defend. Not once does the film hedge, subvert, or put sarcasm quotes around the holiday. Christmas is good. It should be saved. Full stop."
+      },
+      {
+        "id": "TRAD-FATHERRECONCILE-002",
+        "name": "Father-Son Reconciliation / Family Redemption",
+        "category": "trad",
+        "severity": 4,
+        "authenticity": 1.0,
+        "centrality": 1.8,
+        "weightedScore": 7.2,
+        "description": "The film's heart is Callum and Drew's broken relationship being repaired. Drew is a lonely kid who lost faith in Christmas because his father's absences taught him nothing good ever came through. Callum saves Christmas in part as an act of love for his son. The reunion is earned and emotionally genuine. Conservative families who've dealt with absent fathers and the work of rebuilding those bonds will feel this one."
+      },
+      {
+        "id": "TRAD-DUTY-003",
+        "name": "Heroic Duty / Putting the Mission First",
+        "category": "trad",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "Callum is a professional who takes his responsibilities seriously even when the stakes seem absurd. He doesn't quit. He doesn't cut corners. He does the job. Jack learns to do the same. The film consistently rewards competence, commitment, and follow-through."
+      },
+      {
+        "id": "TRAD-BELIEFREWARDED-004",
+        "name": "Faith / Belief Rewarded",
+        "category": "trad",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The film's resolution hinges on Jack restoring his childhood belief in Christmas, which is what allows him to help save Santa. There's genuine respect for the idea that some things deserve belief even when cynicism is easier. Gryla is also ultimately redeemed by her own child's love. Belief, family, and forgiveness are the operative values."
+      }
+    ],
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Action, some violence, and language",
+      "recommendedAge": "10+",
+      "contentWarnings": [
+        "Sustained action sequences throughout; mostly cartoonish and bloodless",
+        "Some mild language; no heavy profanity",
+        "A couple of mild suggestive remarks (blink-and-miss)",
+        "A subplot involving an absent father and his estranged son",
+        "Brief creature violence involving mythological beings (Gryla, Krampus's associates)",
+        "No sexual content, no drug use, no gore"
+      ],
+      "guidance": "Rated PG-13 for action, some violence, and language. In practice this is one of the tamest PG-13 films of 2024 and would likely be PG under older standards. The action is entirely family-friendly: cartoonish fights, impossible stunts, and holiday-themed mayhem. The emotional subplot about an absent father is handled maturely but accessibly. No political content. No identity messaging. One of the safest and most traditionally coded Christmas films of recent years. Appropriate for ages 10 and up without hesitation."
+    },
+    "rtScore": "31%",
+    "imdbScore": "6.2/10",
+    "boxOffice": "$183 million worldwide theatrically against a $250 million budget (theatrical loss). Amazon Prime Video milestone: 50M+ households in first month. One of Prime's biggest streaming hits. Audience Score: 92% RT. CinemaScore: B+.",
+    "seoKeywords": [
+      "is red one woke",
+      "red one 2024 woke review",
+      "red one conservative review",
+      "red one dwayne johnson christmas traditional values",
+      "is red one safe for kids",
+      "red one parents guide",
+      "red one woke or based",
+      "red one ideology review",
+      "red one 2024 family movie",
+      "virtuevigil red one",
+      "red one amazon prime woke score",
+      "red one christmas conservative",
+      "red one dwayne johnson chris evans review",
+      "red one 2024 age rating"
+    ]
   }
 ]
