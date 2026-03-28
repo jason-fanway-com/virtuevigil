@@ -96,6 +96,18 @@
     "poster": "/images/posters/the-creator-2023.jpg"
   },
   {
+    "slug": "thanksgiving-2023",
+    "title": "Thanksgiving",
+    "verdict": "MIXED",
+    "platform": "Theatrical (TriStar Pictures / Sony)",
+    "genre": "Horror/Slasher/Thriller",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 9.18,
+    "tradScore": 8.68,
+    "poster": "/images/posters/thanksgiving-2023.jpg"
+  },
+  {
     "slug": "sonic-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL LEAN",
