@@ -12,6 +12,18 @@
     "poster": "/images/posters/coco-2017.jpg"
   },
   {
+    "slug": "zootopia-2016",
+    "title": "Zootopia",
+    "verdict": "WOKE LEAN",
+    "platform": "Disney+ / Theatrical",
+    "genre": "Animated Comedy/Mystery",
+    "year": 2016,
+    "type": "film",
+    "wokeScore": 21.48,
+    "tradScore": 12.32,
+    "poster": "/images/posters/zootopia-2016.jpg"
+  },
+  {
     "slug": "sonic-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL LEAN",
