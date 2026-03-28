@@ -130,13 +130,48 @@ function isWokeTrap(r) {
   return false;
 }
 
-// Build category data
+// Build category data — uses canonical genre taxonomy
+const CANONICAL_GENRES_NAV = {
+  'Action': 'action', 'Adventure': 'adventure', 'Animation': 'animation',
+  'Comedy': 'comedy', 'Crime': 'crime', 'Documentary': 'documentary',
+  'Drama': 'drama', 'Family': 'family', 'Fantasy': 'fantasy',
+  'Horror': 'horror', 'Musical': 'musical', 'Mystery': 'mystery',
+  'Romance': 'romance', 'Sci-Fi': 'sci-fi', 'Superhero': 'superhero',
+  'Sports': 'sports', 'Thriller': 'thriller', 'War': 'war', 'Western': 'western',
+};
+const GENRE_KEYWORDS_NAV = {
+  'Action': ['action', 'martial arts', 'military'], 'Adventure': ['adventure'],
+  'Animation': ['animation', 'animated', 'anime'], 'Comedy': ['comedy', 'buddy', 'satir'],
+  'Crime': ['crime', 'noir', 'heist'], 'Documentary': ['documentary', 'concert'],
+  'Drama': ['drama', 'biographical', 'biography', 'biopic', 'coming-of-age', 'period', 'regency'],
+  'Family': ['family'], 'Fantasy': ['fantasy', 'epic', 'supernatural', 'gothic'],
+  'Horror': ['horror', 'slasher', 'survival'], 'Musical': ['musical'],
+  'Mystery': ['mystery'], 'Romance': ['romance', 'romantic'],
+  'Sci-Fi': ['sci-fi', 'sci fi', 'science fiction', 'dystopian'],
+  'Superhero': ['superhero'], 'Sports': ['sports'],
+  'Thriller': ['thriller', 'suspense', 'spy', 'psychological'],
+  'War': ['war'], 'Western': ['western'],
+};
+
+function classifyGenreNav(rawGenre) {
+  if (!rawGenre) return ['Drama'];
+  const lower = rawGenre.toLowerCase();
+  const matched = [];
+  for (const [canonical, keywords] of Object.entries(GENRE_KEYWORDS_NAV)) {
+    if (keywords.some(kw => lower.includes(kw)) && !matched.includes(canonical)) {
+      matched.push(canonical);
+    }
+  }
+  return matched.length ? matched.slice(0, 2) : ['Drama'];
+}
+
 function getCategories() {
   const cats = {};
   const types = { film: 0, series: 0 };
   let trapCount = 0;
   reviews.forEach(r => {
-    if (r.genre) cats[r.genre] = (cats[r.genre] || 0) + 1;
+    const genres = classifyGenreNav(r.genre);
+    genres.forEach(g => { cats[g] = (cats[g] || 0) + 1; });
     // Normalise: treat both 'series' and 'tv' as series
     if (r.type === 'film') types.film++;
     else if (r.type === 'series' || r.type === 'tv') types.series++;
@@ -361,7 +396,7 @@ function sidebarHTML() {
           <a href="/category/series/">Series Reviews <span class="count">${cats.types.series}</span></a>
           <a href="/category/woke-traps/">Woke Trap Alerts <span class="count">${cats.trapCount}</span></a>
           ${Object.entries(cats.genres).sort((a, b) => b[1] - a[1]).map(([g, c]) =>
-            `<a href="/category/${g.toLowerCase().replace(/\s+/g, '-')}/">${esc(g)} <span class="count">${c}</span></a>`
+            `<a href="/category/${CANONICAL_GENRES_NAV[g] || g.toLowerCase().replace(/\s+/g, '-')}/">${esc(g)} <span class="count">${c}</span></a>`
           ).join('\n          ')}
         </div>
       </div>
@@ -7621,13 +7656,48 @@ function build() {
   const trapReviews = reviews.filter(r => isWokeTrap(r));
   if (trapReviews.length) catMap['Woke Trap Alerts'] = { slug: 'woke-traps', reviews: trapReviews };
 
-  // By genre
-  reviews.forEach(r => {
-    if (r.genre) {
-      const slug = r.genre.toLowerCase().replace(/\s+/g, '-');
-      if (!catMap[r.genre]) catMap[r.genre] = { slug, reviews: [] };
-      catMap[r.genre].reviews.push(r);
+  // By genre — CANONICAL TAXONOMY (19 categories, no freeform explosion)
+  const GENRE_MAP = {
+    'Action':      { slug: 'action',      keywords: ['action', 'martial arts', 'military'] },
+    'Adventure':   { slug: 'adventure',   keywords: ['adventure'] },
+    'Animation':   { slug: 'animation',   keywords: ['animation', 'animated', 'anime'] },
+    'Comedy':      { slug: 'comedy',      keywords: ['comedy', 'buddy', 'satir'] },
+    'Crime':       { slug: 'crime',       keywords: ['crime', 'noir', 'heist'] },
+    'Documentary': { slug: 'documentary', keywords: ['documentary', 'concert'] },
+    'Drama':       { slug: 'drama',       keywords: ['drama', 'biographical', 'biography', 'biopic', 'coming-of-age', 'period', 'regency'] },
+    'Family':      { slug: 'family',      keywords: ['family'] },
+    'Fantasy':     { slug: 'fantasy',     keywords: ['fantasy', 'epic', 'supernatural', 'gothic'] },
+    'Horror':      { slug: 'horror',      keywords: ['horror', 'slasher', 'survival'] },
+    'Musical':     { slug: 'musical',     keywords: ['musical'] },
+    'Mystery':     { slug: 'mystery',     keywords: ['mystery'] },
+    'Romance':     { slug: 'romance',     keywords: ['romance', 'romantic'] },
+    'Sci-Fi':      { slug: 'sci-fi',      keywords: ['sci-fi', 'sci fi', 'science fiction', 'dystopian'] },
+    'Superhero':   { slug: 'superhero',   keywords: ['superhero'] },
+    'Sports':      { slug: 'sports',      keywords: ['sports'] },
+    'Thriller':    { slug: 'thriller',    keywords: ['thriller', 'suspense', 'spy', 'psychological'] },
+    'War':         { slug: 'war',         keywords: ['war'] },
+    'Western':     { slug: 'western',     keywords: ['western'] },
+  };
+
+  function classifyGenre(rawGenre) {
+    if (!rawGenre) return ['Drama'];
+    const lower = rawGenre.toLowerCase();
+    const matched = [];
+    for (const [canonical, { keywords }] of Object.entries(GENRE_MAP)) {
+      if (keywords.some(kw => lower.includes(kw)) && !matched.includes(canonical)) {
+        matched.push(canonical);
+      }
     }
+    return matched.length ? matched.slice(0, 2) : ['Drama'];
+  }
+
+  reviews.forEach(r => {
+    const categories = classifyGenre(r.genre);
+    categories.forEach(cat => {
+      const { slug } = GENRE_MAP[cat];
+      if (!catMap[cat]) catMap[cat] = { slug, reviews: [] };
+      catMap[cat].reviews.push(r);
+    });
   });
 
   Object.entries(catMap).forEach(([name, { slug, reviews: catRevs }]) => {
