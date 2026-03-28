@@ -1545,6 +1545,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-faith-based-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/christopher-nolan-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/tarantino-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/woke-animated-kids-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -7285,6 +7286,159 @@ function build() {
       <div class="listicle-conclusion">
         <h3>Browse More at VirtueVigil</h3>
         <p>Four of Tarantino's six major films score in traditional territory -- a result that will surprise anyone who has only engaged with the cultural mythology around his work. His best films are not ideological documents; they are genre exercises built around loyalty, betrayal, and violence with moral stakes. The two that tip woke do so not through political messaging but through their foundational framing: criminals as protagonists, institutions as enemies, transgression without consequence. All six films have full reviews at VirtueVigil with complete trope audits, creative team profiles, and parental guidance assessments. Browse the full database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> or explore our director rankings for <a href="https://virtuevigil.com/lists/christopher-nolan-movies-woke-ranking/">Christopher Nolan</a>, <a href="https://virtuevigil.com/lists/ryan-gosling-movies-woke-ranking/">Ryan Gosling</a>, and more on our <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/woke-animated-kids-movies/index.html', buildListiclePage({
+    slug: 'woke-animated-kids-movies',
+    title: '10 Woke Animated Movies Parents Should Know About',
+    description: 'We scored the most popular animated kids movies for woke content. Here are the ones parents should know about before hitting play.',
+    canonicalPath: 'lists/woke-animated-kids-movies',
+    publishDate: '2026-03-28',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Animated movies are supposed to be safe. You queue something up for the kids, sit down with a bowl of popcorn, and trust that Disney or Pixar or DreamWorks did their job. But over the past decade, the most popular animated films have quietly become some of the most ideologically loaded content in your household. Not loudly. Not with a warning label. Just woven into the story, scored as entertainment, and delivered to your children at the age when beliefs are formed.</p>
+        <p>VirtueVigil built a scoring system to measure exactly this. Every film gets a Woke Score and a Traditional Score, run through our Woke-Watch Scoring System with documented trope analysis and an Authority Index that measures how explicitly the messaging is pushed. The animated films on this list all scored above 10 on our woke scale. Several scored far higher. The rankings below represent what the data actually shows, not editorial opinion. Before you hit play on movie night, here is what you are actually putting on.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/zootopia-2-2025/">Zootopia 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+              <span class="score-badge">-38 WOKE</span>
+            </div>
+            <p>The highest woke score of any animated kids film in our database by a wide margin. The entire plot is built around systemic exclusion: reptiles were exiled from Zootopia through manufactured fear and a stolen legacy, and the heroines must dismantle the structures built on that theft. A mandatory couples therapy subplot is injected with no organic story justification, and the villain family is explicitly coded as old-money aristocracy built on stolen labor. The original Zootopia was ideological. The sequel turns the dial to maximum.</p>
+            <a href="/reviews/zootopia-2-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/strange-world-2022/">Strange World (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-15 WOKE</span>
+            </div>
+            <p>Disney's least-seen animated film of recent years features the studio's first openly gay animated lead character, Ethan Clade, whose crush on another boy is integrated into the story at every level: parental teasing, dating advice from dad, and a confirmed relationship at the end. This is not a background moment. It is woven throughout. The film also carries a heavy environmental message and a three-generation father-son story that partially offsets the ideology, but the gay teen lead in a children's film is the defining element.</p>
+            <a href="/reviews/strange-world-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/turning-red-2022/">Turning Red (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-13 WOKE</span>
+            </div>
+            <p>Pixar's puberty allegory frames a daughter's rebellion against her mother's traditional Chinese-Canadian expectations as the emotionally correct choice. The family's generational ritual, passed down for centuries, is presented as toxic control rather than cultural gift. The father is present but functionally powerless throughout. Every major decision in the story is made by women, the spiritual lineage is matrilineal, and the film's thesis is that a girl's body and autonomy supersede any parental or traditional authority over it. Traditional culture is reframed as oppression that Mei must escape to grow.</p>
+            <a href="/reviews/turning-red-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/zootopia-2016/">Zootopia (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-9 WOKE</span>
+            </div>
+            <p>The filmmakers confirmed in interviews that Zootopia's predator-prey dynamic is a deliberate systemic racism allegory. The conspiracy plot involves the majority group manufacturing fear of a minority to reassert control. Judy Hopps overcomes institutional male skepticism at every turn. The film's moral is stated explicitly: prejudice is not individual failure but a systemic response to fear that society must consciously combat. It is brilliant filmmaking in service of a clear progressive framework, and your children will absorb that framework without realizing they are being taught.</p>
+            <a href="/reviews/zootopia-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/kpop-demon-hunters-2025/">KPop Demon Hunters (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-8 WOKE</span>
+            </div>
+            <p>The Netflix animated musical builds its spiritual framework entirely around Korean shamanism, a female-only tradition where power comes from song, self-acceptance, and ritual rather than faith or divine grace. The boy band are literally demons who steal female fans and drain female power. Director Maggie Kang explicitly confirmed that lead character Rumi's arc parallels a coming-out narrative: she hides her true nature from shame and is forcibly outed. The film's central thesis is that shame is the real enemy, and radical self-acceptance is how you defeat it.</p>
+            <a href="/reviews/kpop-demon-hunters-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/wish-2023/">Wish (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-6 WOKE</span>
+            </div>
+            <p>Disney's 100th anniversary film opens with an aggressively diverse cast design that has no cultural justification for the Mediterranean island setting: every ethnicity, body type, and physical disability appears in the first five minutes by clear design-by-checklist. Asha's seven friends are built around a visible diversity template. The film's core liberty message is actually anti-collectivist, which is a net positive, but the forced demographic diversity and the king-as-paternalistic-villain framework carry enough ideological weight to land in woke territory.</p>
+            <a href="/reviews/wish-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/frozen-ii-2019/">Frozen II (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-5 WOKE</span>
+            </div>
+            <p>The entire mystery of Frozen II resolves into a colonial guilt story. King Runeard built a dam to weaken indigenous people, murdered their leader, and lied about it for generations. Anna's decision to destroy the dam, knowing it could destroy their kingdom, is framed as the only morally acceptable choice: structures built on colonial exploitation must be dismantled regardless of the cost to those who benefit. The film applies a direct reparations framework to a children's fantasy. The Northuldra are the noble, nature-connected indigenous people; the Arendellians are the corrupt Western kingdom.</p>
+            <a href="/reviews/frozen-ii-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/toy-story-4-2019/">Toy Story 4 (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-9 WOKE</span>
+            </div>
+            <p>Toy Story 4 quietly dismantles everything the first three films argued. Woody's defining values -- loyalty, purpose, commitment to a child -- are reframed as unhealthy attachments he needed to transcend. He abandons his friends and his purpose to live freely, and the film frames this as wisdom. Bo Peep's self-directed life without a child is presented as aspirational. This is the therapeutic-culture worldview applied to a franchise that was built on the opposite premise: the authentic self supersedes prior commitments. Your children will not notice the philosophical reversal. That is the point.</p>
+            <a href="/reviews/toy-story-4-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/lightyear-2022/">Lightyear (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>Pixar's Buzz Lightyear origin film features the studio's first same-sex kiss in a feature film, restored specifically in response to the Florida "Don't Say Gay" bill controversy after being cut. Tim Allen, who voiced Buzz across four films and is publicly conservative, was replaced by Chris Evans without explanation. The ensemble casts no white male characters of significance besides Buzz himself. The same-sex relationship is presented without commentary as entirely normal, which was the stated intent of the film's production team.</p>
+            <a href="/reviews/lightyear-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/spider-man-across-the-spider-verse-2023/">Spider-Man: Across the Spider-Verse (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">-2 WOKE</span>
+            </div>
+            <p>The Spider-Society is explicitly framed as an oppressive institution enforcing predetermined suffering, and the film sides unambiguously with Miles's self-determination against it. Spider-Punk is the film's coolest character and a named anarchist, present to deliver anti-institutional ideology with good aesthetics. A transgender pride flag is prominently displayed in Gwen Stacy's bedroom as a deliberate visual statement confirmed by the production team. Miles repeatedly deceives his parents throughout, and the film excuses this entirely by his good intentions. Technically the lowest woke score on this list, but the anarchist framing and ideological visuals are worth flagging.</p>
+            <a href="/reviews/spider-man-across-the-spider-verse-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>Browse More at VirtueVigil</h3>
+        <p>Every film on this list reached your living room through a trusted brand. Disney. Pixar. Netflix. DreamWorks. The studios that built your nostalgia also built these movies, and they built them with intention. VirtueVigil exists to give parents the data before the credits roll. Browse our full database of scored reviews at <a href="https://virtuevigil.com/reviews/">VirtueVigil.com</a> to check any film before movie night. Knowledge is the only filter that works.</p>
       </div>
     </article>`
   }));
