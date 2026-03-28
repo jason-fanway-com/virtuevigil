@@ -88491,5 +88491,243 @@
       "zootopia systemic racism"
     ],
     "datePublished": "2026-03-28"
+  },
+  {
+    "id": "greatest-showman-2017",
+    "slug": "greatest-showman-2017",
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "type": "film",
+    "platform": "Disney+ / Theatrical",
+    "genre": "Musical Drama/Biopic",
+    "date": "2026-03-28",
+    "author": "Debra Ducane",
+    "readTime": "10 min",
+    "poster": "/images/posters/greatest-showman-2017.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 7.28,
+    "tradScore": 20.58,
+    "authIndex": 89,
+    "scoreMargin": "+13 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. The Greatest Showman is visible about everything it is. The interracial romance between Anne and Phillip is established clearly in the first half of the film. The circus cast of 'freaks' is introduced early as the film's moral center. The critique of aristocratic snobbery is present from the opening act. Nothing is hidden past the 50 percent mark. Woke trap requires margin negative AND content hidden past 50 percent runtime. The margin here is positive, and the woke content visible from early in the film. This film is what it appears to be."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 55,
+      "rottenTomatoesAudience": 90,
+      "imdb": 7.6,
+      "metacritic": 48,
+      "oscarNominations": 1,
+      "oscarCategories": "Best Original Song ('This Is Me')",
+      "goldenGlobeWins": 1,
+      "goldenGlobeCategories": "Best Original Song ('This Is Me')",
+      "boxOffice": "$435M worldwide",
+      "budget": "$84M"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Michael Gracey",
+        "ideology": "CENTER. Michael Gracey is an Australian commercial director whose feature debut this was. He does not have a significant political footprint. His background is in music video and advertising direction. The film reflects his craft-over-ideology instincts: the sequences are designed for maximum emotional impact and visual spectacle. His collaboration with producers Laurence Mark and the writers shaped the film's values, but Gracey himself is primarily a craftsman rather than an ideologue.",
+        "profile": "Michael Gracey had directed hundreds of commercials and music videos before The Greatest Showman. The film was the culmination of a decade-long development process that began when Hugh Jackman saw a performance by circus acrobats and conceived of a P.T. Barnum musical. Gracey was brought in for his visual and musical sensibility. His direction prioritizes kinetic energy and emotional directness over historical fidelity or psychological complexity. Critics who wanted a serious examination of P.T. Barnum's actual legacy found his approach frustrating. Audiences who wanted to feel inspired by a showman's story found it exhilarating. The 55% critic score versus 90% audience score split is one of the starkest critical/audience divides in recent Hollywood history and tells you something important about what kind of film this is."
+      },
+      "writers": {
+        "names": "Jenny Bicks & Bill Condon",
+        "profile": "Jenny Bicks is a television writer (Men in Trees, The Big C) making her feature film debut. Bill Condon is a veteran Hollywood writer-director (Gods and Monsters, Chicago, Dreamgirls, Beauty and the Beast 2017). Their screenplay takes enormous liberties with P.T. Barnum's actual biography. The real Barnum was a complicated figure: a showman who exploited his performers, a politician, a promoter of fraudulent exhibits, and also a genuine champion of entertainers from marginalized groups. The film invents Philip Carlyle (Barnum's fictional partner, loosely based on James Anthony Bailey), the Jenny Lind affair (depicted as emotional rather than physical), and substantially rewrites the circus performers' relationships with Barnum. The screenplay's choice to center the film on Barnum's marriage, his ambition, and his eventual humility creates a traditionally structured story about a man who almost loses everything that matters by chasing what does not."
+      },
+      "lead_producer": {
+        "name": "Laurence Mark, Peter Chernin, Jenno Topping, James Mangold",
+        "company": "Chernin Entertainment / TSG Entertainment / 20th Century Fox"
+      },
+      "composer": {
+        "name": "Benj Pasek & Justin Paul (songs); John Debney (score)",
+        "profile": "Benj Pasek and Justin Paul are arguably the dominant musical theater and film songwriting duo of their generation. Coming off La La Land (2016) and Dear Evan Hansen, their Greatest Showman songbook became a cultural phenomenon. 'This Is Me' won the Golden Globe for Best Original Song and was nominated for the Oscar. 'The Greatest Show,' 'A Million Dreams,' 'Never Enough,' and 'Rewrite the Stars' became some of the most streamed songs of 2017-2018. The soundtrack album reached number one in both the US and UK and spent years on the Billboard 200. Pasek and Paul write in the tradition of maximalist emotional pop theater: big melodies, direct emotional statements, anthemic refrains. The critical complaint that the songs feel like Spotify playlists rather than character-driven musical theater is fair, but the songs connect with audiences precisely because they are not subtle."
+      },
+      "production_designer": {
+        "name": "Nathan Crowley",
+        "profile": "Nathan Crowley is a veteran production designer whose credits include Batman Begins, The Dark Knight, and Interstellar. His design for The Greatest Showman is deliberately impressionistic rather than historically accurate. The circus tent, the performers' costumes, and the New York cityscape are heightened versions of the 1860s-1880s period, designed to feel mythological rather than documentary. Crowley's instinct to create an idealized American past rather than a realistic one suits the film's hagiographic approach to Barnum."
+      },
+      "top_cast": [
+        {
+          "name": "Hugh Jackman",
+          "role": "P.T. Barnum"
+        },
+        {
+          "name": "Michelle Williams",
+          "role": "Charity Barnum"
+        },
+        {
+          "name": "Zac Efron",
+          "role": "Phillip Carlyle"
+        },
+        {
+          "name": "Zendaya",
+          "role": "Anne Wheeler"
+        },
+        {
+          "name": "Rebecca Ferguson",
+          "role": "Jenny Lind"
+        },
+        {
+          "name": "Sam Humphrey",
+          "role": "Tom Thumb (Charles Stratton)"
+        },
+        {
+          "name": "Keala Settle",
+          "role": "The Bearded Lady (Lettie Lutz)"
+        },
+        {
+          "name": "Yahya Abdul-Mateen II",
+          "role": "W.D. Wheeler (Anne's brother)"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL",
+        "confidence": "high"
+      }
+    },
+    "fidelityCasting": {
+      "sourceType": "Biographical Film",
+      "sourceTitle": "Life of P.T. Barnum",
+      "assessment": "The film takes significant liberties with Barnum's biography and invents major characters. Philip Carlyle is a composite fiction. The Jenny Lind affair is heavily fictionalized. The circus performers' relationships with Barnum are idealized well beyond historical record. Hugh Jackman's Barnum is a heroic figure; the real Barnum was considerably more exploitative and morally complex. For casting specifically: the decision to cast Zendaya (biracial, Black and white) as Anne Wheeler creates an interracial romance with Zac Efron's Phillip Carlyle that is not historically based (both characters are fictional). Keala Settle's casting as the Bearded Lady is excellent: a plus-size Polynesian-American woman in a role celebrating non-conforming bodies. Sam Humphrey, who has achondroplasia, was cast as Tom Thumb, and the film's treatment of the historical Charles Stratton as a dignified man rather than an exhibit is the closest it comes to honest engagement with Barnum's complicated legacy. No original race-swapping controversies attach to this film, as the principals are fictional."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG",
+      "mpaaDescriptors": "thematic elements including a brawl",
+      "recommendedAge": "6+",
+      "contentWarnings": [
+        "A circus tent fire sequence involves real danger and injury to characters. Not graphic but tense.",
+        "Anti-circus protesters become violent, attacking performers. The hostility toward the circus cast on the basis of their appearance may be upsetting to children who identify with outsiders.",
+        "Barnum's ambition strains his marriage to the point of near-breakup. Marital tension is depicted honestly.",
+        "The character of Jenny Lind makes a sexual advance toward Barnum that he rebuffs. Brief and not explicit.",
+        "Class prejudice and social exclusion are themes throughout. Characters are looked down on for not being 'respectable' by wealthy elites.",
+        "An interracial romance is a significant plot element. Anne and Phillip face social hostility because of their relationship.",
+        "No profanity. No graphic violence. No nudity."
+      ],
+      "guidance": "Rated PG. One of the most family-friendly musicals of the past decade. The Greatest Showman is appropriate for all ages and particularly good for children 6 and up. The fire sequence and the mob violence against performers are the most intense moments. The film's celebration of the circus cast, people who do not fit conventional standards of appearance or ability, is handled with dignity rather than condescension. The interracial romance between Anne and Phillip is depicted without political commentary: they are simply two people who fall in love despite social obstacles. Parents who want to watch with very young children should preview the fire and mob sequences. The marital tension between Barnum and Charity is depicted honestly but resolves into genuine reconciliation. 'This Is Me' has become an anthem for children who feel like outsiders. The film earns that use."
+    },
+    "summary": {
+      "overall": "The Greatest Showman is critic-proof. It has been critic-proof since it opened Christmas 2017 to 55% on Rotten Tomatoes and then proceeded to play in theaters for months, drive one of the most commercially successful soundtracks of the decade, and become a film that millions of families have watched dozens of times. The audience is always right eventually. On this film, they were right immediately.\n\nHugh Jackman plays P.T. Barnum, the 19th-century showman who built the circus that became the most famous entertainment enterprise in American history. The film is not a biography. It is a myth. It takes the broad strokes of Barnum's life, his rise from poverty, his marriage to the wealthy Charity Hallett, his creation of Barnum's American Museum, his relationship with Swedish opera singer Jenny Lind, and his eventual return to what mattered, and turns them into something closer to a fable about the American Dream and the cost of ambition.\n\nConservative audiences should understand this going in: The Greatest Showman is one of the most pro-traditional-values films Hollywood has produced in the last decade. Not in a preachy way. Not in a lecture-you way. In the oldest way: by telling a story about a man who almost destroys his marriage and family chasing fame, loses everything in a fire, and chooses to come home.\n\nThe film's central argument is that family, and specifically the marriage covenant, is more valuable than success. Barnum spends two hours trying to impress people who will never respect him. His wife, Charity, simply loves him. The scene where he chases Jenny Lind's tour of high society, abandoning his family and his circus, while Charity sits at home with their daughters, is not subtle. Neither is the reconciliation, which requires Barnum to publicly admit that what he built with his outcasts was worth more than the respectability he was chasing. This is not a progressive message. This is the oldest story in the American cultural tradition: the man who leaves home for glory and learns too late what home was worth.\n\nThe circus performers are the film's moral conscience. Keala Settle's 'This Is Me' is the emotional high point, a song about rejecting the shame that the world's contempt is designed to produce. The film presents these characters not as objects of progressive pity but as people with dignity who chose to stop hiding. There is a critique of Barnum embedded here: a more honest film would note that he exploited people he claimed to celebrate. The filmmakers are not interested in that critique. They want the myth, not the man. Whether that is a flaw or a feature depends on what you want from cinema.\n\nThe interracial romance between Phillip Carlyle and Anne Wheeler is handled cleanly. The film does not shy away from the social hostility they face, but it presents that hostility as wrong without making it the entire point. Phillip must choose between his family's social standing and the woman he loves. He chooses her. This is a love story, not a political statement.\n\nCritically, the film was savaged for being a hagiographic, emotionally manipulative, historically inaccurate musical. All of that is true. It is also one of the most joyful, emotionally honest films about marriage, ambition, and homecoming that Hollywood has made in years. Those two things coexist. The critics who hated it were grading it against a film it never wanted to be. Audiences who loved it were responding to what it actually is: a spectacular, emotionally direct celebration of the American Dream, marriage, and the dignity of people who do not fit in.\n\nThe score: +13 TRAD. This is a Traditional film by our system, and the number understates how thoroughly it earns that designation. The American Dream, the marriage commitment, entrepreneurial ambition, humility before family, community, and the dignity of the outcast as a specifically Christian value (the last shall be first) are all present and central. The woke elements, the interracial romance and the celebration of non-conforming bodies, are real but do not constitute a progressive agenda in the film's context. They are in service of the story's conservative core, not in competition with it.",
+      "oneLiner": "Hollywood's most critic-proof musical is also one of its most traditionally-values-aligned films: a joyful, spectacular celebration of the American Dream, marriage, and what a man almost loses when he chases what does not matter.",
+      "verdict": "TRADITIONAL. The Greatest Showman wears its values on its sleeve: family over fame, marriage over ambition, and the dignity of everyone the world treats as too different to matter. The critics hated it. Audiences have loved it for eight years. The audiences were right.",
+      "adultInsight": "Conservative adults who have avoided The Greatest Showman because it seems like a feel-good pop musical should reconsider. The film is exactly what it looks like on the surface: Hugh Jackman being magnificent, a soundtrack that lodges in your brain permanently, and an emotional argument that your family is more important than what strangers think of you. But underneath that surface is a genuinely traditional moral structure. P.T. Barnum is not a hero. He is a man who is given everything he needs in Charity's love and his daughters' devotion, and spends most of the film being insufficiently grateful for it. The film does not excuse his behavior. It holds it up and lets you see the cost. The reconciliation, when it comes, is earned through genuine loss and genuine humility. That is how marriage actually works. The film's treatment of the circus performers as people with inherent dignity rather than spectacles is rooted in the Christian understanding of human worth that conservatives claim to believe in. The interracial romance is not a political statement in this film. It is a love story. Anne Wheeler and Phillip Carlyle are two people who fall in love and face a society that disapproves. The film sides with them. So does any honest conservative reading of Christian teaching on the matter."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-309",
+        "name": "Celebration of Outcasts as Moral Exemplars",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 3.78,
+        "description": "The circus cast, people who do not conform to conventional standards of appearance, ability, or social acceptability, are presented as the film's moral center. 'This Is Me,' the film's signature anthem, is a rejection-of-shame statement that has become an anthem for LGBTQ communities and others who feel socially excluded. The film frames non-conformity as inherently dignified and the social pressure to conform as the enemy. This resonates with progressive identity politics, though the film's frame is more universalist than specifically political."
+      },
+      {
+        "id": "WOKE-310",
+        "name": "Interracial Romance (Anne Wheeler and Phillip Carlyle)",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "Anne Wheeler (Black) and Phillip Carlyle (white) fall in love. The film depicts their romance as genuine and their social obstacles as unjust. This is historically anachronistic in the film's setting, and the film acknowledges the social hostility they face. The romance is not politically belabored but is a significant subplot and generates one of the film's best musical numbers ('Rewrite the Stars')."
+      },
+      {
+        "id": "WOKE-311",
+        "name": "Critique of Aristocratic Elitism and Class Snobbery",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 1.4,
+        "description": "The wealthy critics, the theater establishment, and the social elites who dismiss Barnum and his performers are the film's villains by implication. Their judgment of what constitutes respectable entertainment is presented as classist and morally empty. Phillip Carlyle's father cuts him off for associating with the circus. The press ridicules the performers. The film's sympathy is entirely with the working-class entertainment against the gatekeepers of high culture. This is a populist critique of elitism that has both conservative and progressive valences."
+      },
+      {
+        "id": "TRAD-310",
+        "name": "American Dream and Self-Made Man Narrative",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "Phineas Taylor Barnum rises from a tailor's son, born into poverty, to become the most famous entertainer in America through vision, hard work, and relentless self-promotion. The film celebrates this arc without irony. The America it depicts is one where talent and hustle can overcome humble origins. No systemic barriers are presented as insurmountable. No institutions are blamed for keeping him down. His failures are his own choices. His success is his own achievement. This is the American Dream narrative in its purest cinematic form."
+      },
+      {
+        "id": "TRAD-311",
+        "name": "Marriage Covenant as Central Value",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 5.04,
+        "description": "The film's central story is a marriage story. Barnum and Charity have been in love since childhood. She marries him against her family's wishes. He builds their life from nothing. The film's conflict is that his ambition begins to corrode the marriage: he chases respectability, pursues an emotionally charged relationship with Jenny Lind, and leaves his family to tour Europe. The film treats this as a near-fatal mistake. The reconciliation after the fire, when Barnum comes home, is the film's emotional climax. The marriage is the thing worth fighting for. Not the career. Not the reputation. The marriage."
+      },
+      {
+        "id": "TRAD-312",
+        "name": "Entrepreneurial Spirit and Visionary Risk-Taking",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 5.04,
+        "description": "Barnum is a builder. He sees an opportunity, takes a risk, and creates something from nothing. The film treats his entrepreneurialism as a positive force. He recruits performers others have rejected, builds an audience from the ground up, and turns an impossible idea into the greatest show on earth. This is the conservative vision of capitalism: individual creativity creating value, building community, and generating opportunity for people who had none. The film never treats his profit motive as inherently suspect."
+      },
+      {
+        "id": "TRAD-313",
+        "name": "Redemption Through Humility and Return to Family",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "Barnum's arc follows the classical prodigal son structure: he is given everything, leaves in pursuit of what he thinks he wants, loses it all, and returns to what he had. The fire that destroys his circus is the crucible. His willingness to accept Phillip's partnership and rebuild smaller, humbler, closer to what he started, is the film's central moral choice. He chooses family and community over the prestige he chased. This is the traditional story structure of hubris and humility."
+      },
+      {
+        "id": "TRAD-314",
+        "name": "Found Family and Community as Refuge",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The circus performers are not just employees. They are a community. They defend each other from the protesters. They grieve together when the tent burns. They rebuild together. The film presents this found family not as a replacement for traditional family (Barnum's biological family is the heart of the film) but as an extension of the same principle: people bound by love and loyalty to each other are stronger together than apart. This is a conservative communal value."
+      }
+    ],
+    "comparison_films": [
+      {
+        "title": "La La Land",
+        "year": 2016,
+        "comparison": "Both are musical films with Pasek and Paul involvement. La La Land is a bittersweet story about the cost of ambition. The Greatest Showman is an optimistic story about the redemption of ambition. Both center romantic relationships under pressure from career choices. La La Land accepts the loss; The Greatest Showman refuses it. Audiences preferred the latter's resolution."
+      },
+      {
+        "title": "Moulin Rouge!",
+        "year": 2001,
+        "comparison": "Both are maximalist musical spectacles that use 19th-century settings to tell emotional stories about love, ambition, and belonging. Moulin Rouge ends in tragedy; The Greatest Showman ends in triumph. Both have soundtrack albums that outperformed the films' critical receptions commercially."
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "year": 2018,
+        "comparison": "Both are biopics that take enormous liberties with their subjects' actual biographies in service of emotional myth-making. Both were critically dismissed and audience-loved. Both feature a charismatic lead performance that carries the film past its screenplay's weaknesses. Bohemian Rhapsody is more explicit about its subject's personal life; The Greatest Showman is more hagiographic. Both are better experienced as emotional entertainment than as biography."
+      }
+    ],
+    "seoTitle": "The Greatest Showman (2017) Review: Is Hugh Jackman's Musical Woke? | VirtueVigil Conservative Analysis",
+    "seoDescription": "VirtueVigil's conservative review of The Greatest Showman (2017). $435M box office, 90% audience score. We score the family values, American Dream themes, and what parents need to know. Verdict: TRADITIONAL (+13 TRAD).",
+    "seoKeywords": [
+      "the greatest showman review",
+      "the greatest showman woke",
+      "is the greatest showman woke",
+      "greatest showman conservative review",
+      "greatest showman family values",
+      "greatest showman parents guide",
+      "greatest showman 2017 review",
+      "greatest showman traditional values",
+      "virtuevigil greatest showman",
+      "greatest showman this is me",
+      "greatest showman american dream"
+    ],
+    "datePublished": "2026-03-28"
   }
 ]

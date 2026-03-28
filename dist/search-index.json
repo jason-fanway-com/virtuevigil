@@ -24,6 +24,18 @@
     "poster": "/images/posters/zootopia-2016.jpg"
   },
   {
+    "slug": "greatest-showman-2017",
+    "title": "The Greatest Showman",
+    "verdict": "TRADITIONAL",
+    "platform": "Disney+ / Theatrical",
+    "genre": "Musical Drama/Biopic",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 7.28,
+    "tradScore": 20.58,
+    "poster": "/images/posters/greatest-showman-2017.jpg"
+  },
+  {
     "slug": "sonic-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL LEAN",
