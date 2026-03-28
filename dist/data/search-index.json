@@ -84,6 +84,18 @@
     "poster": "/images/posters/the-covenant-2023.jpg"
   },
   {
+    "slug": "the-creator-2023",
+    "title": "The Creator",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Theatrical (20th Century Studios)",
+    "genre": "Action/Sci-Fi",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 35.88,
+    "tradScore": 4.9,
+    "poster": "/images/posters/the-creator-2023.jpg"
+  },
+  {
     "slug": "sonic-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL LEAN",
