@@ -36,6 +36,18 @@
     "poster": "/images/posters/greatest-showman-2017.jpg"
   },
   {
+    "slug": "chainsaw-man-reze-arc-2025",
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Anime/Action/Romance-Horror",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 13.1,
+    "tradScore": 11.76,
+    "poster": "/images/posters/chainsaw-man-reze-arc-2025.jpg"
+  },
+  {
     "slug": "sonic-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL LEAN",
