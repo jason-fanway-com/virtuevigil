@@ -184,11 +184,12 @@ function getCategories() {
 // TEMPLATE PARTS
 // ============================================
 
-function htmlHead({ title, description, keywords, canonical, ogType, ogImage, structuredData, breadcrumbs, extraHead }) {
+function htmlHead({ title, description, keywords, canonical, ogType, ogImage, structuredData, breadcrumbs, faqSchema, extraHead }) {
   // Build structured data array (supports multiple JSON-LD blocks)
   const ldBlocks = [];
   if (structuredData) ldBlocks.push(structuredData);
   if (breadcrumbs) ldBlocks.push(breadcrumbs);
+  if (faqSchema) ldBlocks.push(faqSchema);
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -987,6 +988,136 @@ function whereToWatchBlock(r) {
 </div>`;
 }
 
+// ============================================
+// FAQ SCHEMA HELPER (JSON-LD FAQPage for SEO)
+// ============================================
+
+function truncate(str, max) {
+  if (!str) return '';
+  str = String(str).replace(/\s+/g, ' ').trim();
+  return str.length <= max ? str : str.slice(0, max - 3) + '...';
+}
+
+function buildReviewFaqSchema(r) {
+  const title = r.title || 'This title';
+  const year = r.year ? ` (${r.year})` : '';
+  const verdict = r.verdict || 'MIXED';
+  const scoreMargin = r.scoreMargin || 'N/A';
+  const tradScore = r.tradScore != null ? r.tradScore : 'N/A';
+  const wokeScore = r.wokeScore != null ? r.wokeScore : 'N/A';
+
+  // Q1: Is it woke?
+  const summarySnippet = r.summary && r.summary.overall
+    ? truncate(r.summary.overall.replace(/[^\x20-\x7E]/g, '').replace(/\s+/g, ' '), 120)
+    : '';
+  const a1 = truncate(
+    `${verdict} -- ${title} scores ${scoreMargin} on the VirtueVigil VVWS scale.` +
+    (summarySnippet ? ` ${summarySnippet}` : ''),
+    300
+  );
+
+  // Q2: VirtueVigil score
+  const a2 = truncate(
+    `VirtueVigil scores ${title} as ${verdict} with a margin of ${scoreMargin}. Traditional score: ${tradScore}, Woke score: ${wokeScore}.`,
+    300
+  );
+
+  // Q3: Safe for kids -- use summary.parentalGuidance if available
+  let a3;
+  if (r.summary && r.summary.parentalGuidance) {
+    a3 = truncate(r.summary.parentalGuidance.replace(/[^\x20-\x7E]/g, '').replace(/\s+/g, ' '), 300);
+  } else {
+    const vUpper = verdict.toUpperCase();
+    if (vUpper.includes('STRONGLY TRADITIONAL') || vUpper.includes('STRONGLY TRAD')) {
+      a3 = `${title} is rated ${verdict} -- generally safe for families and children with traditional values.`;
+    } else if (vUpper === 'TRADITIONAL' || vUpper === 'TRAD') {
+      a3 = `${title} scores TRADITIONAL on VirtueVigil. Generally appropriate for family viewing. Check the full review for content details.`;
+    } else if (vUpper.includes('LEAN')) {
+      a3 = `${title} leans traditional but contains some content parents should review before watching with younger children.`;
+    } else if (vUpper === 'MIXED') {
+      a3 = `${title} scored MIXED on VirtueVigil. Parental discretion advised -- review the full analysis for specific content flags.`;
+    } else if (vUpper.includes('WOKE TRAP')) {
+      a3 = `${title} is flagged as a WOKE TRAP -- content is more progressive than marketing suggests. Caution for families.`;
+    } else if (vUpper.includes('STRONGLY WOKE')) {
+      a3 = `${title} scored STRONGLY WOKE. Not recommended for conservative families. Contains heavy progressive messaging.`;
+    } else if (vUpper.includes('WOKE')) {
+      a3 = `${title} scored WOKE on VirtueVigil. Contains progressive content -- not recommended for conservative family viewing.`;
+    } else {
+      a3 = `See the full VirtueVigil review of ${title} for a complete parental guidance assessment.`;
+    }
+    a3 = truncate(a3, 300);
+  }
+
+  // Q4: Woke tropes -- handle both array (VVWS) and object ({woke_tropes, traditional_tropes}) formats
+  let a4;
+  let wokeTropes = [];
+  const ta = r.tropeAudit;
+  if (Array.isArray(ta)) {
+    wokeTropes = ta
+      .filter(t => (t.category || '').toLowerCase() === 'woke')
+      .slice(0, 3)
+      .map(t => t.name);
+  } else if (ta && Array.isArray(ta.woke_tropes)) {
+    wokeTropes = ta.woke_tropes.slice(0, 3).map(t => t.name);
+  }
+  if (wokeTropes.length > 0) {
+    a4 = truncate(`Woke content identified in ${title}: ${wokeTropes.join('; ')}.`, 300);
+  } else {
+    a4 = `No significant woke content identified in ${title} by VirtueVigil's trope audit.`;
+  }
+
+  // Q5: Would conservatives enjoy it?
+  let a5;
+  const vUpper = verdict.toUpperCase();
+  if (vUpper.includes('STRONGLY TRADITIONAL') || vUpper.includes('STRONGLY TRAD')) {
+    a5 = truncate(`Yes -- conservatives will thoroughly enjoy ${title}. It scores ${verdict} and strongly affirms traditional values.`, 300);
+  } else if (vUpper === 'TRADITIONAL' || vUpper === 'TRAD') {
+    a5 = truncate(`Yes -- ${title} scores TRADITIONAL on VirtueVigil. Conservatives should find it worth watching.`, 300);
+  } else if (vUpper.includes('LEAN')) {
+    a5 = truncate(`Probably -- ${title} leans traditional with minor progressive elements. Most conservatives will enjoy it with minor caveats.`, 300);
+  } else if (vUpper === 'MIXED') {
+    a5 = truncate(`Mixed bag -- ${title} has both traditional and progressive elements. Conservative viewers may enjoy parts but should read the full review first.`, 300);
+  } else if (vUpper.includes('STRONGLY WOKE')) {
+    a5 = truncate(`No -- ${title} scored STRONGLY WOKE on VirtueVigil. Heavy progressive messaging throughout.`, 300);
+  } else if (vUpper.includes('WOKE')) {
+    a5 = truncate(`Unlikely -- ${title} scored WOKE on VirtueVigil. Contains significant progressive content most conservatives will find objectionable.`, 300);
+  } else {
+    a5 = truncate(`See the full VirtueVigil review of ${title} for a conservative viewer recommendation.`, 300);
+  }
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `Is ${title}${year} woke?`,
+        "acceptedAnswer": { "@type": "Answer", "text": a1 }
+      },
+      {
+        "@type": "Question",
+        "name": `What is the VirtueVigil score for ${title}?`,
+        "acceptedAnswer": { "@type": "Answer", "text": a2 }
+      },
+      {
+        "@type": "Question",
+        "name": `Is ${title} safe for kids?`,
+        "acceptedAnswer": { "@type": "Answer", "text": a3 }
+      },
+      {
+        "@type": "Question",
+        "name": `What woke content appears in ${title}?`,
+        "acceptedAnswer": { "@type": "Answer", "text": a4 }
+      },
+      {
+        "@type": "Question",
+        "name": `Would conservatives enjoy ${title}?`,
+        "acceptedAnswer": { "@type": "Answer", "text": a5 }
+      }
+    ]
+  };
+}
+
 function buildReviewPage(r) {
   const vc = verdictClass(r.verdict);
   const hasTrap = isWokeTrap(r);
@@ -1031,7 +1162,9 @@ function buildReviewPage(r) {
     { name: r.title, url: canonical }
   ]);
 
-  return `${htmlHead({ title, description: desc, keywords: kw, canonical, ogType: 'article', ogImage, structuredData, breadcrumbs: reviewBreadcrumbs, extraHead: '<style>.review-detail::before{display:none!important;content:none!important;}</style>' })}
+  const faqSchema = buildReviewFaqSchema(r);
+
+  return `${htmlHead({ title, description: desc, keywords: kw, canonical, ogType: 'article', ogImage, structuredData, breadcrumbs: reviewBreadcrumbs, faqSchema, extraHead: '<style>.review-detail::before{display:none!important;content:none!important;}</style>' })}
 <body>
   ${topBanner()}
   ${siteHeader('index')}
@@ -7629,6 +7762,136 @@ function build() {
         <h3>Browse More at VirtueVigil</h3>
         <p>These ten films share something that separates them from the war movies Hollywood usually greenlights: they believe the men who served were worth honoring. Not deconstructing, not interrogating, not using as vessels for political statements about American foreign policy -- honoring. That is a harder thing to do than it sounds in 2026, and every film on this list pulls it off. If you want to dig deeper into any of these -- full scores, trope audits, parental guidance, creative team ideology breakdowns -- every review is waiting at <a href="https://virtuevigil.com/reviews/">VirtueVigil</a>. Browse the full library, filter by genre, and find exactly what to watch and what to skip.</p>
       </div>
+    </article>`
+  }));
+
+  writePage('lists/most-woke-movies-decade/index.html', buildListiclePage({
+    slug: 'most-woke-movies-decade',
+    title: '15 Most Woke Movies of the Decade (2015-2025) | VirtueVigil Rankings',
+    description: 'The definitive ranking of the most ideologically woke films from 2015 to 2025, scored and analyzed using the VirtueVigil methodology. Fifteen films that pushed progressive messaging harder than anything else the decade produced.',
+    canonicalPath: 'lists/most-woke-movies-decade',
+    publishDate: '2026-03-28',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Ten years. Hundreds of films. One question: which movies pushed progressive ideology the hardest?</p>
+
+        <p>VirtueVigil launched to answer exactly that question with data instead of opinion. Every film in our database is scored on the same methodology: woke content density, traditional content density, authenticity index, and a final scoreMargin that tells you at a glance how ideologically loaded a film is and in which direction. The scoreMargin runs from strongly positive (STRONGLY TRADITIONAL) to strongly negative (STRONGLY WOKE). The films on this list are the decade's most extreme negative scorers.</p>
+
+        <p>The range covered is 2015 through 2025. That window captures the full arc of Hollywood's progressive turn: from the first waves of post-2015 identity politics content through the peak woke era of 2022-2024 and into the current moment where some studios are quietly pulling back while others are doubling down. Every film here has been reviewed in full. Every score is real. Nothing is based on impressions or cultural reputation. These are the numbers.</p>
+
+        <p>Rankings run from #15 (least woke of the top 15) to #1 (most woke of the decade). The scoreMargin is the key metric. Lower is more woke.</p>
+      </div>
+
+      <hr>
+
+      <h2>#15 - Captain Marvel (2019)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 19.44 &bull; <strong>Score Margin:</strong> -16 WOKE &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Superhero / Sci-Fi</p>
+      <p>Marvel's first solo female superhero film arrived in 2019 as a deliberate statement about female competence and male gatekeeping. Brie Larson's Carol Danvers is positioned from the opening frames as a hero whose power is suppressed by male authority figures who demand she control her emotions. Every male character who questions her is proven wrong. The film is less interested in exploring its protagonist as a character than in using her as a vehicle for a thesis about women being held back by men who fear them. The flashbacks structure the entire origin story around a series of moments where men told Carol she could not do something and she did it anyway. That is not subtext. That is the script. Woke Score 19.44, ScoreMargin -16.</p>
+      <p><a href="/reviews/captain-marvel-2019/">Read the full VirtueVigil review of Captain Marvel</a></p>
+
+      <hr>
+
+      <h2>#14 - Birds of Prey (2020)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 23.34 &bull; <strong>Score Margin:</strong> -18 WOKE &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Superhero Action / Dark Comedy</p>
+      <p>Birds of Prey arrived with a full title that announced its intentions: Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn). Emancipation is the operative word. Every element of the film is structured around Harley Quinn's liberation from the Joker and from male control more broadly. The villains are predatory men. The allies are women who have been victimized by men. The climax is a group of women defeating a man who collected and traded female victims as trophies. Director Cathy Yan was explicit in interviews about the film's feminist intent. Margot Robbie produced it with the same intent. The final cut delivered on both counts. ScoreMargin -18, landing it comfortably in WOKE territory for the decade list.</p>
+      <p><a href="/reviews/birds-of-prey-2020/">Read the full VirtueVigil review of Birds of Prey</a></p>
+
+      <hr>
+
+      <h2>#13 - Don't Worry Darling (2022)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 21.84 &bull; <strong>Score Margin:</strong> -19 WOKE &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Psychological Thriller</p>
+      <p>Olivia Wilde's second feature is a psychological thriller about a woman who slowly realizes the idyllic 1950s suburb she lives in is a constructed simulation designed to keep women compliant and subordinate. The twist -- that the men in the community have literally imprisoned their wives in a shared delusion while their actual bodies lie comatose -- is the film's entire thesis rendered as horror. The 1950s setting is not nostalgic. It is a horror environment. Every element of postwar American domesticity is reframed as a trap: the cooking, the neighborhood socializing, the supportive wife role, the deferential behavior. Florence Pugh carries the film through its slower first two acts with committed intensity. ScoreMargin -19, Woke Score 21.84.</p>
+      <p><a href="/reviews/dont-worry-darling-2022/">Read the full VirtueVigil review of Don't Worry Darling</a></p>
+
+      <hr>
+
+      <h2>#12 - MaXXXine (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 32.0 &bull; <strong>Score Margin:</strong> -18 WOKE &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Horror/Crime</p>
+      <p>Ti West completed his X trilogy with the most ideologically explicit entry: a feminist manifesto wrapped in slasher aesthetics set against the backdrop of 1985 Hollywood and the Satanic Panic. Mia Goth stars as Maxine Minx, a survivor whose ambition is framed as righteous defiance against a patriarchal entertainment industry. The film explicitly connects the religious right with misogyny and violence. Every male character in a position of authority is either predatory, incompetent, or both. West is a skilled craftsman, which means the ideology is embedded so smoothly into the genre mechanics that it never announces itself as a lecture -- it just keeps reinforcing the same message across 103 minutes. Woke Score 32, ScoreMargin -18.</p>
+      <p><a href="/reviews/maxxxine-2024/">Read the full VirtueVigil review of MaXXXine</a></p>
+
+      <hr>
+
+      <h2>#11 - Glass Onion: A Knives Out Mystery (2022)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 42.0 &bull; <strong>Score Margin:</strong> -24 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Mystery/Comedy</p>
+      <p>Rian Johnson followed up Knives Out with a film whose central villain is an Elon Musk stand-in: a tech billionaire who surrounds himself with disruptors and contrarians while actually being a mediocre fraud propped up by the labor of a smarter woman he took credit for. The entire plot is constructed to deliver one thesis: powerful tech bros are con men, and the women and minorities around them do the real work. Johnson is a skilled writer and the film is genuinely entertaining. He is also completely sincere about the politics. Miles Bron is not a character who happens to be a villain. He is a specific cultural target: the self-made billionaire mythology that Johnson considers a lie. Glass Onion earned a Woke Score of 42 and a ScoreMargin of -24 STRONGLY WOKE.</p>
+      <p><a href="/reviews/glass-onion-2022/">Read the full VirtueVigil review of Glass Onion</a></p>
+
+      <hr>
+
+      <h2>#10 - Emilia Perez (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 28.0 &bull; <strong>Score Margin:</strong> -22 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Musical/Crime/Drama</p>
+      <p>Jacques Audiard made a French film about a Mexican cartel boss who transitions to a woman and received 13 Oscar nominations -- the most ever for a non-English-language film. The film is genuinely strange and visually inventive: musical numbers, cartel violence, and identity transformation blended in ways that defy easy categorization. The Academy celebrated it. Conservative critics objected to its central premise. Progressive critics found its depiction of Mexican culture offensive. The film steamrolled both objections toward its awards run. The scoring reflects how the transition is framed: as liberation and moral rebirth, with the cartel past explicitly coded as a male identity to be discarded. Woke Score 28, ScoreMargin -22.</p>
+      <p><a href="/reviews/emilia-perez-2024/">Read the full VirtueVigil review of Emilia Perez</a></p>
+
+      <hr>
+
+      <h2>#9 - Immaculate (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 29.0 &bull; <strong>Score Margin:</strong> -21 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Horror</p>
+      <p>Sydney Sweeney produced and stars in this film about an American nun impregnated without consent at an Italian convent. Sweeney spent years developing the project specifically as a vehicle for its central argument. The film uses Catholic iconography and the horror genre to deliver a forceful case for bodily autonomy. Every element of the convent setting is repurposed as a symbol of institutional control over women's bodies. The nuns who enforce the convent's rules are complicit in that control. The ending is one of the most explicit statements in recent mainstream horror: a woman destroys the institution that violated her rather than accept the role assigned to her. There is no ambiguity about what Immaculate is arguing. Woke Score 29, ScoreMargin -21.</p>
+      <p><a href="/reviews/immaculate-2024/">Read the full VirtueVigil review of Immaculate</a></p>
+
+      <hr>
+
+      <h2>#8 - Anora (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 36.0 &bull; <strong>Score Margin:</strong> -26 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Drama</p>
+      <p>Sean Baker won Best Picture at the 97th Academy Awards for this story of a Brooklyn sex worker who marries the son of a Russian oligarch, only to have the marriage annulled when his family intervenes. The film is sympathetic to its protagonist in a way that implicitly challenges conventional moral frameworks at every turn. Baker's filmmaking is naturalistic and humane, which makes the ideological content harder to isolate and easier to absorb. The sex work is presented without judgment or consequence. Class structures are interrogated without resolution. The ending refuses redemption through traditional means. A consensus choice for the industry's most prestigious awards, and a film whose progressive framework is so embedded in the storytelling that it never needs to announce itself. Woke Score 36, ScoreMargin -26.</p>
+      <p><a href="/reviews/anora-2024/">Read the full VirtueVigil review of Anora</a></p>
+
+      <hr>
+
+      <h2>#7 - The Substance (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 37.0 &bull; <strong>Score Margin:</strong> -24 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Horror</p>
+      <p>Coralie Fargeat delivered a body horror film about a fading TV star who uses a black-market drug to create a younger version of herself. The film is a furious attack on Hollywood ageism and the male gaze, delivered with Cronenbergian excess and feminist fury. It does not pretend to be subtle. Demi Moore gives a career-redefining performance as a woman literally torn apart by the demand to stay young and desirable. The body horror is the ideology made physical: beauty standards rendered as grotesque physical destruction. Fargeat turns the camera itself into a weapon, forcing the audience to confront what it is being shown. One of the most visually striking and deliberately provocative films of the decade. Woke Score 37, ScoreMargin -24.</p>
+      <p><a href="/reviews/the-substance-2024/">Read the full VirtueVigil review of The Substance</a></p>
+
+      <hr>
+
+      <h2>#6 - Saltburn (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 35.0 &bull; <strong>Score Margin:</strong> -32 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Thriller</p>
+      <p>Emerald Fennell followed Promising Young Woman with a film about class, desire, and predation set in an English country estate. Barry Keoghan plays a scholarship student who infiltrates an aristocratic family and systematically destroys them. The film reads as a class revenge fantasy: the outsider defeats the entitled by being willing to do what they would never do. Every member of the aristocratic family is either oblivious, complicit in their own destruction, or too consumed by privilege to see what is happening in front of them. Fennell makes the Saltburn estate itself into a monument to inherited wealth that deserves to be taken. The ending is designed to be transgressive in a way that rewards the predator and punishes the privileged. ScoreMargin -32, STRONGLY WOKE.</p>
+      <p><a href="/reviews/saltburn-2023/">Read the full VirtueVigil review of Saltburn</a></p>
+
+      <hr>
+
+      <h2>#5 - Barbie (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 48.0 &bull; <strong>Score Margin:</strong> -32 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Comedy</p>
+      <p>Greta Gerwig and Noah Baumbach wrote a film that grossed $1.44 billion worldwide while delivering a sustained feminist critique of patriarchy to the broadest possible audience. Barbie enters the real world and discovers the patriarchy. Ken discovers the patriarchy and decides he wants it. The real world is run by men who control Mattel. Barbie Land is a utopia run by women. The entire film is structured around the thesis that male authority is a recent historical invention and a problem to be solved. Ryan Gosling's Ken became the breakout character of the summer partly because Gosling played the material with committed comedic sincerity that made the critique go down easier than a lecture would have. Mattel approved a film that used their IP to critique male institutional power. The scoreMargin reflects how consistently the film pursues that goal. Woke Score 48, ScoreMargin -32.</p>
+      <p><a href="/reviews/barbie-2023/">Read the full VirtueVigil review of Barbie</a></p>
+
+      <hr>
+
+      <h2>#4 - Heretic (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 41.0 &bull; <strong>Score Margin:</strong> -27 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Horror</p>
+      <p>Hugh Grant plays a soft-spoken man who traps two Mormon missionaries and proceeds to dismantle their faith using logic, manipulation, and film analysis. This is not a horror film that happens to include religion. It is an anti-Christian argument dressed in genre clothing. The film is intelligent, well-acted, and completely sincere in its goal of demonstrating that religion is a control mechanism invented and maintained by men to manage human behavior. Grant's performance is magnetic and terrifying because the character is articulate and persuasive, not because he is physically threatening. Directors Scott Beck and Bryan Woods constructed a philosophical trap as airtight as the physical one their characters are caught in. One of the most ideologically dense films of the decade. Woke Score 41, ScoreMargin -27.</p>
+      <p><a href="/reviews/heretic-2024/">Read the full VirtueVigil review of Heretic</a></p>
+
+      <hr>
+
+      <h2>#3 - Poor Things (2023)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 47.0 &bull; <strong>Score Margin:</strong> -38 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Sci-Fi and Fantasy</p>
+      <p>Yorgos Lanthimos directed Emma Stone in a film about a woman brought back to life with her own baby's brain who then spends the film sexually awakening, intellectually developing, and ultimately refusing to be controlled by any man. Bella Baxter is framed as the ideal feminist subject: born without social conditioning, she discovers sex, politics, and self-determination without the constraints of Victorian morality. Every male character in her orbit wants to own her. None of them succeed. The film won the Palme d'Or at Cannes, Best Picture at the BAFTAs, and Best Actress for Stone at the Oscars. Stone also won the Oscar. Lanthimos constructs the entire film as a Victorian allegory for female liberation, with the grotesque production design amplifying how monstrous the world of male authority looks from the outside. Woke Score 47, ScoreMargin -38.</p>
+      <p><a href="/reviews/poor-things-2023/">Read the full VirtueVigil review of Poor Things</a></p>
+
+      <hr>
+
+      <h2>#2 - Zootopia 2 (2025)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 91.0 &bull; <strong>Score Margin:</strong> -38 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Animation</p>
+      <p>Disney's sequel to the 2016 diversity allegory arrived in 2025 and pushed the ideology of the original into overdrive. The first Zootopia used its predator/prey dynamic as a metaphor for racial bias and systemic prejudice. The sequel uses the same framework but with the subtlety removed. The messaging around acceptance, identity, and institutional bias is front-loaded, explicit, and relentless. The Woke Score of 91 is the highest of any film in the VirtueVigil database from the 2015-2025 decade. Disney made a family film with a woke content density that would be notable even in prestige adult drama. The ScoreMargin of -38 places it neck-and-neck with Poor Things for the second slot. The Woke Score is what separates them: 91 versus 47 is not close.</p>
+      <p><a href="/reviews/zootopia-2-2025/">Read the full VirtueVigil review of Zootopia 2</a></p>
+
+      <hr>
+
+      <h2>#1 - Conclave (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 42.6 &bull; <strong>Score Margin:</strong> -39 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE &bull; <strong>Genre:</strong> Thriller</p>
+      <p>Edward Berger's prestige thriller about electing a new Pope is the most ideologically woke film of the decade by scoreMargin. Ralph Fiennes leads an ensemble through Vatican corridors where every conversation is a proxy battle between tradition and reform. Cardinals who represent conservative positions are portrayed as corrupt, power-hungry, or complicit. The reformist faction is given moral clarity throughout. The film is elegantly shot and expertly acted, which makes the ideology easier to absorb and harder to identify. It earns the VirtueVigil Woke Trap designation: the political content is buried under prestige filmmaking until the final act, where a twist involving intersex identity reframes everything that came before as a setup for a progressive revelation. The film received 8 Academy Award nominations. The highest scoreMargin in the decade at -39, making it the undisputed #1 most woke film of 2015-2025. Woke Score 42.6, ScoreMargin -39 STRONGLY WOKE.</p>
+      <p><a href="/reviews/conclave-2024/">Read the full VirtueVigil review of Conclave</a></p>
+
+      <hr>
+
+      <h2>Methodology</h2>
+      <p>All scores are generated using the VirtueVigil scoring system, which measures the density and intensity of ideological content across multiple categories: gender politics, religious critique, racial messaging, sexual content framing, institutional critique, and character framing. The scoreMargin is the net difference between woke content points and traditional content points. A more negative scoreMargin means higher net woke content relative to traditional content. The Woke Score measures raw woke content density independently. For films where both metrics are available, the scoreMargin is the primary ranking criterion because it reflects the net ideological direction of the film, not just the gross woke content volume.</p>
+      <p>This list covers films reviewed by VirtueVigil released between 2015 and 2025. Scores are final once published. For a full list of every film in the database, visit <a href="https://virtuevigil.com/reviews/">VirtueVigil.com/reviews/</a>. For annual rankings, see our <a href="/lists/most-woke-movies-2024/">2024</a>, <a href="/lists/most-woke-movies-2023/">2023</a>, <a href="/lists/most-woke-movies-2021/">2021</a>, and <a href="/lists/most-woke-movies-2019/">2019</a> lists.</p>
     </article>`
   }));
 
