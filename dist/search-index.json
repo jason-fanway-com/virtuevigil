@@ -72,6 +72,18 @@
     "poster": "/images/posters/godzilla-minus-one-2023.jpg"
   },
   {
+    "slug": "the-covenant-2023",
+    "title": "Guy Ritchie's The Covenant",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (MGM / Amazon)",
+    "genre": "Action/War/Thriller",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 5.67,
+    "tradScore": 21.28,
+    "poster": "/images/posters/the-covenant-2023.jpg"
+  },
+  {
     "slug": "sonic-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL LEAN",
