@@ -1546,6 +1546,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/christopher-nolan-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/tarantino-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-animated-kids-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/patriotic-war-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -7439,6 +7440,159 @@ function build() {
       <div class="listicle-conclusion">
         <h3>Browse More at VirtueVigil</h3>
         <p>Every film on this list reached your living room through a trusted brand. Disney. Pixar. Netflix. DreamWorks. The studios that built your nostalgia also built these movies, and they built them with intention. VirtueVigil exists to give parents the data before the credits roll. Browse our full database of scored reviews at <a href="https://virtuevigil.com/reviews/">VirtueVigil.com</a> to check any film before movie night. Knowledge is the only filter that works.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/patriotic-war-movies/index.html', buildListiclePage({
+    slug: 'patriotic-war-movies',
+    title: '10 War Movies That Honor America (Ranked by VirtueVigil Score)',
+    description: 'The best war movies that honor sacrifice, duty, and American values -- ranked by VirtueVigil\'s traditional values scoring system.',
+    canonicalPath: 'lists/patriotic-war-movies',
+    publishDate: '2026-03-28',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Hollywood has made a habit of turning war movies into lectures. The soldier is traumatized. The mission is wrong. The government is corrupt. The enemy has a point. You sit down expecting to feel proud of the men who served, and instead you leave feeling guilty for ever having felt proud in the first place. That is a deliberate choice, and it has been made repeatedly for decades.</p>
+        <p>But not always. Some films get it right. Some filmmakers still understand that honoring sacrifice is not propaganda -- it is truth. The men who stormed Omaha Beach, who held the line in Korea, who came back from four tours in Iraq carrying weight that never fully lifts -- they deserve better than being reduced to cautionary tales about American imperialism. The films on this list give them something better: dignity. These are the war and patriotic films that VirtueVigil ranks highest on traditional values, scored by real data from our Woke-Watch system. No lectures. No agenda. Just films that honor the people who served.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/reagan-2024/">Reagan (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+42 TRAD</span>
+            </div>
+            <p>Reagan is not a biopic -- it is a monument. Sean McNamara's film frames Ronald Reagan's life through the eyes of a fictional KGB agent who spent his career monitoring the man the Soviets called "the Crusader," and his grudging respect for Reagan provides the film's only real dramatic tension. It worships its subject unapologetically, and for the audience this film was made for -- those who believe Reagan saved the world from communism -- every frame delivers exactly what they came for.</p>
+            <a href="/reviews/reagan-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/miracle-2004/">Miracle (2004)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+36 TRAD</span>
+            </div>
+            <p>Miracle is not really a sports film about hockey. It is a film about what kind of man it takes to build a team capable of doing the impossible, and Kurt Russell disappears into Herb Brooks in a way that is genuinely impressive. The 1980 US Olympic team's defeat of the Soviet Union is one of the most famous moments in American history, and this film earns every bit of the pride it asks you to feel -- not through manipulation, but through honest depiction of sacrifice, preparation, and national identity at its best.</p>
+            <a href="/reviews/miracle-2004/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+34 TRAD</span>
+            </div>
+            <p>Clint Eastwood made American Sniper at 84 years old and it is among the most confident directorial efforts of his career. Bradley Cooper's portrayal of Chris Kyle earns its emotion through accumulation -- four tours of duty, the weight of what he carries home, and what happens to a man whose inner life is largely inaccessible to him but whose values never waver. It holds the record as the highest-grossing war film in American history, and that number is not an accident.</p>
+            <a href="/reviews/american-sniper-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>The first twenty-five minutes of Saving Private Ryan are among the most important minutes in the history of American cinema -- not because they are the most technically impressive war footage ever shot, but because they make you understand at a cellular level what those men went through on June 6, 1944. The film holds the horror of combat and the dignity of sacrifice in the same frame simultaneously and without contradiction, and its final scene, where an aged Ryan asks his wife if he earned his life, is one of the most deeply conservative thesis statements ever put on screen.</p>
+            <a href="/reviews/saving-private-ryan-1998/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-terminal-list-2022/">The Terminal List (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+24 TRAD</span>
+            </div>
+            <p>The Terminal List has a 40% on Rotten Tomatoes from critics and a 94% audience score -- a gap that tells you everything about where this show sits culturally. Commander James Reece's platoon is sacrificed in Syria as the cover-up of an illegal pharmaceutical trial run on special operators by a defense contractor, and Chris Pratt plays the resulting revenge mission with the systematic patience of a man who has been trained to complete what he starts. With essentially zero woke content and eight episodes of pure American warrior storytelling, this is exactly what the critics hated and exactly what audiences loved.</p>
+            <a href="/reviews/the-terminal-list-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-patriot-2000/">The Patriot (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>The Patriot is the kind of film Hollywood stopped making around the time it started worrying about how America looked to foreign markets -- unabashedly pro-American, pro-family, and pro-violent-resistance-to-tyranny. Benjamin Martin does not want to fight, and then a British colonel murders his fourteen-year-old son in front of the family and burns his house down. Roland Emmerich executes the premise with visceral skill, and the ambush sequences, where Martin's militia fights from cover while the British form their rigid lines, capture the tactical asymmetry that made the Revolution possible.</p>
+            <a href="/reviews/the-patriot-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/top-gun-maverick-2022/">Top Gun: Maverick (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>Top Gun: Maverick is the best American action film in at least a decade -- a film that remembered something most of Hollywood has forgotten: audiences want to feel something, not be taught something. Where the original was swagger and sensation, Maverick is weight and reckoning, with the surrogate father-son dynamic between Cruise and Miles Teller carrying genuine emotional force. There is no hidden progressive agenda and no third-act pivot to messaging; it is one of the most ideologically consistent films Hollywood has produced in a decade.</p>
+            <a href="/reviews/top-gun-maverick-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Hacksaw Ridge is one of the most purely traditional films Hollywood has produced in the last twenty years -- a story about faith that takes that faith seriously in a way most war films do not dare. Desmond Doss is not a conscientious objector in the progressive sense; he is a Seventh-day Adventist who believes killing is wrong because God says so in the Bible, and he holds his ground not because of ideology but because of Scripture. The film earns its depiction of institutional pressure, battlefield chaos, and the miraculous endurance of one man's convictions through honest, unflinching filmmaking.</p>
+            <a href="/reviews/hacksaw-ridge-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/war-machine-2026/">War Machine (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+18 TRAD</span>
+            </div>
+            <p>War Machine is a glorious throwback to the testosterone-fueled sci-fi action films of the 1980s and 1990s, and it does not apologize for it. Alan Ritchson plays a haunted Afghanistan veteran whose squad encounters an unstoppable alien threat during a wilderness training exercise, and the film celebrates masculine competence, military brotherhood, and American grit with the same relaxed confidence that made Reacher a phenomenon. When most 2026 action films feel obligated to deconstruct their heroes, War Machine simply and unapologetically celebrates them.</p>
+            <a href="/reviews/war-machine-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-ministry-of-ungentlemanly-warfare-2024/">The Ministry of Ungentlemanly Warfare (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+9 TRAD</span>
+            </div>
+            <p>Guy Ritchie's WWII action-comedy is based on Operation Postmaster, a real SOE mission in which a small team of British irregulars hijacked a Nazi supply ship resupplying German U-boats -- a mission that was unauthorized, technically illegal under international law, and completely successful. Ritchie structures the film as an ensemble heist, with Henry Cavill playing team leader Gus March-Phillipps as a man of effortless physical authority who kills Germans with the same relaxed competence that other men use to make tea. In 2024, a studio release that celebrates masculine competence, Western civilization, and the willingness to fight dirty without a moment of second-guessing itself is a genuinely unusual and welcome thing.</p>
+            <a href="/reviews/the-ministry-of-ungentlemanly-warfare-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>Browse More at VirtueVigil</h3>
+        <p>These ten films share something that separates them from the war movies Hollywood usually greenlights: they believe the men who served were worth honoring. Not deconstructing, not interrogating, not using as vessels for political statements about American foreign policy -- honoring. That is a harder thing to do than it sounds in 2026, and every film on this list pulls it off. If you want to dig deeper into any of these -- full scores, trope audits, parental guidance, creative team ideology breakdowns -- every review is waiting at <a href="https://virtuevigil.com/reviews/">VirtueVigil</a>. Browse the full library, filter by genre, and find exactly what to watch and what to skip.</p>
       </div>
     </article>`
   }));
