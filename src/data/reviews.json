@@ -88013,5 +88013,237 @@
       }
     ],
     "datePublished": "2026-03-27"
+  },
+  {
+    "id": "coco-2017",
+    "slug": "coco-2017",
+    "title": "Coco",
+    "year": 2017,
+    "type": "film",
+    "platform": "Disney+ / Theatrical",
+    "genre": "Animated Adventure/Fantasy",
+    "date": "2026-03-28",
+    "author": "Debra Ducane",
+    "readTime": "11 min",
+    "poster": "/images/posters/coco-2017.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 4.0,
+    "tradScore": 18.34,
+    "authIndex": 92,
+    "scoreMargin": "+14 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. Coco's celebration of Mexican culture and Dia de los Muertos is visible from the first frame. There is no bait-and-switch. The spiritual framework (ancestor veneration, Land of the Dead) is front and center in the marketing, the trailers, and the opening minutes. Conservative families knew exactly what they were walking into. The film's core message, that family and honoring your ancestors is the most important thing in life, is not hidden. It is the entire point. Woke trap requires margin negative AND woke content hidden until over 50 percent runtime. Neither condition is met here."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 97,
+      "rottenTomatoesAudience": 95,
+      "imdb": 8.4,
+      "metacritic": 81,
+      "oscarWins": 2,
+      "oscarCategories": "Best Animated Feature, Best Original Song ('Remember Me')",
+      "goldenGlobeWins": 2,
+      "boxOffice": "$807.1M worldwide",
+      "budget": "$175M"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Lee Unkrich & Adrian Molina",
+        "ideology": "CENTER. Lee Unkrich is a Pixar veteran who co-directed Toy Story 3, one of the most emotionally and thematically traditional films in the Pixar canon. Adrian Molina is Mexican American and served as co-director and co-screenwriter. Neither has a significant ideological footprint outside their filmography. Unkrich left Pixar in 2019 after 25 years. The film was explicitly made in consultation with Mexican cultural advisors and community members to ensure authentic representation.",
+        "profile": "Lee Unkrich joined Pixar in 1994 and edited A Bug's Life, Toy Story 2, and Monsters, Inc. before co-directing Finding Nemo and co-directing Toy Story 3, which won the Best Animated Feature Oscar. Coco was his passion project: he spent six years developing it with the Mexican American team around him, including co-writer Adrian Molina. Unkrich has spoken about the film's origin in his childhood fascination with Dia de los Muertos imagery. He spent years in research trips to Mexico and worked closely with a cultural trust to avoid appropriation. Adrian Molina grew up in a Mexican American household and brought authentic cultural knowledge to the screenplay. His influence is visible in the film's specificity: the ofrenda tradition, the role of marigold petals, the relationship between music and memory in Mexican culture."
+      },
+      "writers": {
+        "names": "Matthew Aldrich, Adrian Molina (story by Lee Unkrich, Jason Katz, Matthew Aldrich, Adrian Molina)",
+        "profile": "The screenplay is the product of a long development process that went through multiple story iterations. Matthew Aldrich is the credited co-writer alongside Molina. The story's central engine, a child's love of music in conflict with a family ban, came early. The Land of the Dead and the mechanics of remembrance came later. The writing team spent significant time researching how Dia de los Muertos actually works: the offering table, the belief that the dead can visit the living during those days, the requirement that the living remember the dead to sustain them in the afterlife. The screenplay's decision to make the villain not an outside threat but a figure within the family tradition itself (a beloved ancestor who murdered) gives the film moral complexity that most animated features avoid."
+      },
+      "lead_producer": {
+        "name": "Darla K. Anderson",
+        "company": "Pixar Animation Studios / Walt Disney Pictures"
+      },
+      "composer": {
+        "name": "Michael Giacchino (score); Germaine Franco & Adrian Molina (songs including 'Remember Me')",
+        "profile": "Michael Giacchino is one of Hollywood's most reliably skilled composers, with Oscar wins for Up (2009) and credits including The Incredibles, Ratatouille, and the Star Trek reboot. His Coco score blends traditional Mexican instrumentation (guitarron, vihuela, mariachi brass) with orchestral sweep. The original songs, particularly 'Remember Me,' were written by Kristen Anderson-Lopez and Robert Lopez, who wrote 'Let It Go' for Frozen. 'Remember Me' won the Best Original Song Oscar. It functions on multiple emotional registers throughout the film: as a cynical commercial ballad, a tender lullaby, and finally an act of memory that saves a life."
+      },
+      "production_designer": {
+        "name": "Harley Jessup",
+        "profile": "The visual design drew from extensive research into both contemporary and historical Mexico. The Land of the Dead is designed as a towering, luminescent city that represents the accumulation of human memory made physical. The color palette, saturated marigold oranges, deep purples, vibrant blues, has become one of the most distinctive visual signatures in Pixar history. The film uses color temperature to separate the worlds: warm natural light for the living world of Santa Cecilia, cool supernatural radiance for the Land of the Dead."
+      },
+      "top_cast": [
+        {
+          "name": "Anthony Gonzalez",
+          "role": "Miguel Rivera"
+        },
+        {
+          "name": "Gael Garcia Bernal",
+          "role": "Hector"
+        },
+        {
+          "name": "Benjamin Bratt",
+          "role": "Ernesto de la Cruz"
+        },
+        {
+          "name": "Alanna Ubach",
+          "role": "Mama Imelda"
+        },
+        {
+          "name": "Renee Victor",
+          "role": "Abuela"
+        },
+        {
+          "name": "Ana Ofelia Murguia",
+          "role": "Mama Coco"
+        },
+        {
+          "name": "Edward James Olmos",
+          "role": "Chicharron"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL",
+        "confidence": "high"
+      }
+    },
+    "fidelityCasting": {
+      "sourceType": "Original Film",
+      "sourceTitle": "N/A (Original Production)",
+      "assessment": "Coco is an original Pixar creation, not an adaptation. The film made a deliberate and commendable casting decision: the entire principal voice cast is Latino. Anthony Gonzalez (Mexican American), Gael Garcia Bernal (Mexican), Benjamin Bratt (Peruvian/German American), Alanna Ubach (Mexican American), and Ana Ofelia Murguia (Mexican) give the film cultural authenticity that extends beyond research trips and production design. This is race-conscious casting in service of cultural authenticity rather than ideological revisionism. There is no original source material to be faithful to, no European characters replaced, no historical record distorted. The film was built from the ground up to be a Mexican story told by Mexican and Mexican American artists."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG",
+      "mpaaDescriptors": "thematic elements",
+      "recommendedAge": "6+",
+      "contentWarnings": [
+        "Death is a constant presence. The film is set partly in the Land of the Dead and deals directly with mortality, memory, and what happens when people are forgotten.",
+        "The villain poisons a character on screen. The scene is not graphic but involves someone collapsing and dying.",
+        "A character faces the threat of 'final death' (being forgotten forever), which is presented as a fate worse than physical death and may be distressing to young children who have lost grandparents.",
+        "Alebrije creatures (spirit animals) are fantastical but some may frighten very young children.",
+        "Brief mild language. No profanity.",
+        "Some scenes in the Land of the Dead involve skeletal figures in genuinely tense situations.",
+        "The film takes Dia de los Muertos tradition seriously as a spiritual framework. No Christian content is present. Parents may want to discuss the film's cosmology with children."
+      ],
+      "guidance": "Rated PG. Coco is one of the best-made animated films of the last decade and appropriate for most children 6 and up, with parental guidance for younger viewers. The death themes are handled with extraordinary care: the film does not frighten children away from death but helps them understand grief, memory, and love across generations. The villain reveal in the third act may surprise and upset younger children. For religious families: the film's spiritual framework is Dia de los Muertos tradition, not Christianity. The Land of the Dead operates on secular logic (you exist as long as you are remembered). This is worth discussing with children, though the film's message about loving your family and honoring those who came before you is deeply consonant with Christian values about honoring parents and preserving memory. No profanity, no sexual content, no graphic violence."
+    },
+    "summary": {
+      "overall": "There are animated films that earn their reputation and animated films that coast on it. Coco earns every bit of its 97% Rotten Tomatoes score, its two Oscars, and its place in the conversation about the greatest Pixar films ever made. It is also, by any honest reckoning, one of the most thematically traditional films Pixar has produced.\n\nThe premise: 12-year-old Miguel Rivera wants to be a musician. His family, scarred by a great-great-grandfather who abandoned them for a career in music, has banned music entirely for three generations. On Dia de los Muertos, Miguel accidentally enters the Land of the Dead. To return to the living, he must get a blessing from a family member before sunrise. The ancestor he finds is not who he expects.\n\nThe film's central argument is this: your family is your identity, your inheritance, and your obligation. Not just the living family but the dead ones too. The ofrenda, the offering table where photographs of deceased relatives are placed so they can visit on Dia de los Muertos, is the film's central image and central metaphor. You sustain the people who loved you by remembering them. When you forget them, they cease to exist. This is not a progressive value. This is an ancient human value found in cultures across millennia and every religious tradition on earth.\n\nWhat makes Coco exceptional rather than merely good is the third-act reversal. Without spoiling it for the few who have not seen it: the film sets up one story and delivers a completely different one. The villain is not an outsider. The real wound is inside the family itself. And the resolution requires not just remembering but forgiving, reconciling, and choosing love over pride across generations. That is an extraordinarily sophisticated moral for a children's film.\n\nMiguel's journey is also a study in traditional masculinity done right. He is not passive. He makes decisions, faces consequences, and takes responsibility for them. His determination to pursue music is genuine and his willingness to reconsider when faced with the full truth of his family's history is not weakness but growth. The mentorship relationship between Miguel and Hector, the sad, funny, lonely skeleton he meets in the Land of the Dead, is one of Pixar's warmest ever. Hector teaches Miguel music. Miguel teaches Hector that the people who love you are more important than the fame you chased.\n\nFrom a VirtueVigil scoring standpoint, the woke elements are real but minor. The film operates within a non-Christian spiritual framework: Dia de los Muertos is Catholic in origin but is practiced with pre-colonial indigenous additions that make it syncretic rather than orthodox. The Land of the Dead follows secular logic. Abuela's iron control over the family qualifies as a matriarchal structure. These elements are worth noting but they do not define the film's message. The film's message is profoundly conservative: honor your ancestors, love your family, and understand that your choices echo across generations.\n\nA note on the culture war around this film: some conservative commentators flagged Coco as 'woke' because it features Mexican culture and a largely Latino cast. That is not what woke means. Cultural specificity is not ideology. A film set in a Mexican village about a Mexican family celebrating a Mexican tradition is not making a political statement by being Mexican. The film does not critique America, does not push progressive social values, and does not lecture its audience about race. It tells a story about a boy who loves his dead great-great-great-grandmother so much that his love saves her from oblivion. That is not woke. That is universal.\n\nThe animation is, frankly, stunning. The Land of the Dead sequences rank among the most visually ambitious work Pixar has ever done. The marigold bridge, the luminescent city of the dead stacked into impossible heights, the moment late in the film when Miguel plays guitar and a single old woman remembers, are images that stay with you long after the credits roll.\n\nBottom line: Coco is a masterpiece of traditional values wrapped in Mexican culture. Conservative families should not only feel safe watching it. They should feel proud that filmmaking this committed to family, memory, and love exists at this scale.",
+      "oneLiner": "Pixar's most emotionally devastating and thematically conservative film tells a story about family, ancestors, and the terrible cost of forgetting the people who loved you.",
+      "verdict": "A flat-out masterpiece. Coco is everything a traditional family film should be: it takes children seriously, treats death with honesty, centers family as the highest value, and delivers a moral about love and memory that adults need as badly as kids do.",
+      "adultInsight": "Conservative adults should watch Coco without hesitation and without the cultural suspicion some in our circles have applied to it. The film is not a Trojan horse. It is not sneaking progressive values past your defenses. It is telling you, as directly as any film since It's a Wonderful Life, that the people who loved you and the choices you make for your family are the only things that matter. The Dia de los Muertos framework will be unfamiliar to some Christian viewers. Treat it the way you would treat a story set in ancient Rome: the cosmology is not your cosmology, but the moral truths underneath it are. Abuela's multigenerational ban on music, maintained from pride and pain rather than wisdom, is a warning about how families pass trauma across generations instead of healing it. Miguel's willingness to love his great-great-grandmother even after learning the truth about her choices is a portrait of grace. If you have been avoiding this film because some culture war commentator called it woke, stop avoiding it. It is the most pro-family film Pixar has made since Toy Story 3."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-301",
+        "name": "Non-Christian Spiritual Framework (Dia de los Muertos)",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The entire film operates within a Dia de los Muertos cosmology. The Land of the Dead, the requirement of memory for continued existence, the ofrenda tradition, and the spirit guide alebrije all derive from Mexican syncretic tradition rather than Christian theology. God, prayer, and religious faith are absent. The spiritual framework is presented as real and functional within the film's universe. This is culturally authentic (Dia de los Muertos has genuine pre-colonial and Catholic roots in Mexican culture) but presents a complete spiritual worldview outside Christianity to a young audience."
+      },
+      {
+        "id": "WOKE-302",
+        "name": "Matriarchal Family Authority Structure",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 1.4,
+        "description": "Abuela Elena is the unquestioned authority figure in the Rivera family. Her decree banning music has governed the family for three generations. Miguel's father and grandfather defer to her completely. While the film ultimately critiques Abuela's rigid authority as stemming from unprocessed grief rather than wisdom, her position as the family's ruling figure represents a matriarchal structure that the film never directly challenges in principle, only in this specific application."
+      },
+      {
+        "id": "WOKE-303",
+        "name": "Rehabilitation of Suppressed Family History",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 0.5,
+        "description": "The film's plot involves recovering a suppressed truth about the family's past. The established family narrative is revealed to be built on a lie. While this is a mystery plot mechanic rather than a political statement about historical suppression, it follows a pattern common in progressive narratives about recovering erased histories. The impact is minimal because the suppressed truth here is personal (a betrayal within the family) rather than systemic."
+      },
+      {
+        "id": "TRAD-301",
+        "name": "Family as the Supreme Value",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "Coco's central argument is that family is the most important thing in human life. Not career, not fame, not ambition. The film's villain is a man who chose fame over family and is revealed as a murderer. Its hero is a boy who risks everything to return to the family that loves him. The climax turns entirely on whether a dying old woman can remember her father's song. The Land of the Dead's mechanics, you only continue to exist as long as the living remember you, make family literally the source of immortality. This is the most unambiguous, unironic celebration of family as supreme value in Pixar's filmography."
+      },
+      {
+        "id": "TRAD-302",
+        "name": "Ancestor Veneration and Heritage as Living Obligation",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 5.04,
+        "description": "The film treats the dead not as gone but as present, as stakeholders in the choices of the living. The ofrenda is not a quaint custom. It is a responsibility. Forgetting your ancestors has consequences: they are erased from existence. This is ancestor veneration elevated to cosmological principle. Conservative viewers from every culture recognize this instinct: honoring those who came before you, carrying their memory, and understanding that you are the product of their choices. The film gives this instinct narrative stakes."
+      },
+      {
+        "id": "TRAD-303",
+        "name": "Sacrifice, Forgiveness, and Reconciliation",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "The emotional resolution of Coco requires forgiveness across generations. Imelda must forgive Hector for abandoning the family, even after death. Miguel must forgive both his family for the ban on music and his idol for the betrayal. Mama Coco must remember her father not as the monster the family made him but as the loving man who wrote her a song. The film argues that holding onto grievance across generations is destructive and that love requires choosing to remember with mercy rather than anger. This is a Christian value, even if the film does not use Christian language."
+      },
+      {
+        "id": "TRAD-304",
+        "name": "Young Man Guided by Elders and Mentors",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "Miguel's journey is structured as a mentorship narrative. Hector, the failed musician who chose fame and lost his family, teaches Miguel everything he needs to know about music, and in doing so teaches him what matters more than music. The film's mechanics require Miguel to listen to his elders, trust the guidance of those with more experience, and ultimately defer to the wisdom embedded in his family's traditions even when those traditions have been distorted. This is the classical coming-of-age structure: the young man learns from those who came before."
+      },
+      {
+        "id": "TRAD-305",
+        "name": "Clear Moral Universe with Genuine Villains and Heroes",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "Despite its sophistication, Coco operates within a clear moral framework. There is a real villain who commits a real wrong for selfish reasons. There are real heroes who sacrifice for love. The universe has stakes. Choices have consequences. The villain is not misunderstood and does not receive redemption. The film trusts children to understand that some people make evil choices and face earned consequences. This is moral clarity delivered without cruelty, which is exactly what traditional storytelling does at its best."
+      }
+    ],
+    "comparison_films": [
+      {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "comparison": "Both directed by Lee Unkrich. Both are Pixar films that treat mortality, legacy, and love across generations with genuine emotional weight. Toy Story 3's themes of letting go are complemented by Coco's themes of holding on to memory. Together they form Unkrich's thematic thesis: what matters is love that lasts beyond the physical."
+      },
+      {
+        "title": "Encanto",
+        "year": 2021,
+        "comparison": "Both films center a multigenerational family with a suppressed founding wound. Both involve a protagonist who discovers the truth behind a family myth. But Encanto's resolution leans toward dismantling tradition in favor of individual expression, while Coco's resolution leans toward restoring corrupted tradition to its true loving form. Coco is the more conservative film by a significant margin."
+      },
+      {
+        "title": "Soul",
+        "year": 2020,
+        "comparison": "Both are Pixar films set partly in an afterlife and both examine what makes a life meaningful. Soul asks what you live for. Coco asks who you live for. Coco gives the more satisfying traditional answer: the people who love you."
+      }
+    ],
+    "seoTitle": "Coco (2017) Review: Is Disney's Pixar Masterpiece Woke? | VirtueVigil Conservative Analysis",
+    "seoDescription": "VirtueVigil's conservative review of Coco (2017). Two Oscars, 97% on Rotten Tomatoes. We score the woke elements, family values, ancestor themes, and what parents need to know. Verdict: TRADITIONAL (+14 TRAD).",
+    "seoKeywords": [
+      "coco 2017 review",
+      "coco pixar woke",
+      "coco conservative review",
+      "is coco woke",
+      "coco family values",
+      "coco parents guide",
+      "coco dia de los muertos",
+      "coco virtuevigil review",
+      "pixar coco traditional values",
+      "coco movie rating parents"
+    ],
+    "datePublished": "2026-03-28"
   }
 ]

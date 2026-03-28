@@ -1,5 +1,17 @@
 [
   {
+    "slug": "coco-2017",
+    "title": "Coco",
+    "verdict": "TRADITIONAL",
+    "platform": "Disney+ / Theatrical",
+    "genre": "Animated Adventure/Fantasy",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 18.34,
+    "poster": "/images/posters/coco-2017.jpg"
+  },
+  {
     "slug": "sonic-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL LEAN",
