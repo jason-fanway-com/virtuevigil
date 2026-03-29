@@ -84,6 +84,18 @@
     "poster": "/images/posters/uncut-gems-2019.jpg"
   },
   {
+    "slug": "deadpool-2016",
+    "title": "Deadpool",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Superhero / Action Comedy",
+    "year": 2016,
+    "type": "film",
+    "wokeScore": 7.84,
+    "tradScore": 9.8,
+    "poster": "/images/posters/deadpool-2016.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
