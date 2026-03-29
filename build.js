@@ -8016,6 +8016,160 @@ function build() {
     </article>`
   }));
 
+  writePage('lists/superhero-movies-traditional-values/index.html', buildListiclePage({
+    slug: 'superhero-movies-traditional-values',
+    title: '10 Superhero Movies Ranked by Traditional Values Score',
+    description: 'Which superhero films score highest for traditional values? VirtueVigil ranks 10 standout picks by TRAD score, from The Incredibles to The Avengers.',
+    canonicalPath: 'lists/superhero-movies-traditional-values',
+    publishDate: '2026-03-29',
+    htmlContent: `<article class="listicle">
+  <div class="listicle-intro">
+    <p>Not all superhero movies are created equal. While Hollywood's comic book franchises have drifted steadily toward progressive ideology, a number of standout films have bucked the trend, delivering sacrifice, duty, family, and moral clarity in place of identity lectures. VirtueVigil scored every superhero film in our database using the Woke-Watch Scoring System, and the results reveal something the box office already knows: the best superhero films are the most traditional ones.</p>
+    <p>This list ranks the 10 highest-scoring superhero movies for traditional values. These are films that celebrate excellence, honor sacrifice, affirm the importance of family, and treat heroism as a genuine moral calling. From animated masterpieces to gritty crime films to galaxy-spanning space operas, the common thread is the same: great heroes are defined by what they give up, not what they gain.</p>
+  </div>
+
+  <ol class="listicle-items">
+
+    <li class="listicle-item">
+      <div class="listicle-rank">1</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/the-incredibles-2004/">The Incredibles (2004)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+          <span class="score-badge">+23 TRAD</span>
+        </div>
+        <p>The most explicitly conservative animated film Pixar ever made earns the top spot by a wide margin. Brad Bird's masterpiece is a defense of excellence against enforced mediocrity, a celebration of the nuclear family, and a precise takedown of the participation-trophy mentality. When Dash says 'Everyone's special is just another way of saying no one is,' he is delivering the film's thesis in one line. Syndrome, the villain, literally plans to eliminate distinction so no one can be exceptional. The Parr family wins by being exactly who they are.</p>
+        <a href="/reviews/the-incredibles-2004/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">2</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+19 TRAD</span>
+        </div>
+        <p>The highest-scoring live-action superhero film in our database earns it through genuine sacrifice. Peter Parker loses everything, including the memories of everyone he loves, and the film treats that loss with moral weight rather than reversing it cheaply. No woke messaging, no identity politics, just a teenage boy choosing responsibility over his own happiness. The scene where Andrew Garfield catches MJ is one of the most emotionally earned moments in superhero cinema history.</p>
+        <a href="/reviews/spider-man-no-way-home-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">3</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/the-dark-knight-2008/">The Dark Knight (2008)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+16 TRAD</span>
+        </div>
+        <p>Christopher Nolan's crime masterpiece is also a deeply conservative film. Batman takes on the moral burden of dirty work so ordinary people can live clean lives, and the film presents this as genuine heroism rather than fascism. The Joker's nihilism is wrong: the civilians on those ferries prove it. Harvey Dent's fall is a traditional tragedy about the fragility of virtue under pressure. The Bat ends the film choosing hope over vengeance, having paid the full cost for protecting a city that despises him.</p>
+        <a href="/reviews/the-dark-knight-2008/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">4</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/guardians-of-the-galaxy-2014/">Guardians of the Galaxy (2014)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+15 TRAD</span>
+        </div>
+        <p>Five broken people choosing to be responsible for each other is the oldest conservative argument about community. James Gunn built every character around a specific grief, and the film is about what happens when damaged people decide to show up for each other anyway. Groot's sacrifice wraps the whole team in his branches and says 'We are Groot' before absorbing an impact that would have killed them all. Peter Quill's 26-year vigil for his dead mother, preserved in a mixtape, gives the film its emotional core.</p>
+        <a href="/reviews/guardians-of-the-galaxy-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">5</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/avengers-infinity-war-2018/">Avengers: Infinity War (2018)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+15 TRAD</span>
+        </div>
+        <p>The MCU's best film is its most traditionally weighted. Thanos wins by treating individual lives as expendable in service of an abstraction. Every hero who resists him does so out of personal loyalty, familial love, and individual commitment rather than utilitarian calculation. The film says these responses are right even when they lose. Loki dies for Thor. Gamora is sacrificed on the Soul Stone. Strange gives up the Time Stone to save Tony Stark. Individual love over abstract principle is a conservative moral framework.</p>
+        <a href="/reviews/avengers-infinity-war-2018/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">6</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/venom-the-last-dance-2024/">Venom: The Last Dance (2024)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+14 TRAD</span>
+        </div>
+        <p>Strip out the cosmic mythology and what you have is a loyalty story: one partner chooses the other over their own survival. Venom merges with the Xenophages and leads them into the acid tanks to save Eddie Brock. Three films of bickering codependency built something real, and this film honors it with a genuine sacrifice that Tom Hardy plays with actual grief. No gender lectures, no diversity speeches, no ideology beyond 'love someone enough to die for them.' In 2024, that alone makes it stand out.</p>
+        <a href="/reviews/venom-the-last-dance-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">7</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/the-batman-2022/">The Batman (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+14 TRAD</span>
+        </div>
+        <p>Matt Reeves made a three-hour neo-noir crime film that happens to star a man in a rubber suit, and it is extraordinary. Bruce Wayne's moral arc moves from vengeance to hope, and the film earns that arc. Batman's absolute moral code against killing defines his identity. Paul Dano's Riddler is a precise rendering of online radicalization: legitimate grievances do not justify terrorism. The finale has Batman holding a torch in floodwater to guide survivors, choosing protection over punishment. That is a traditional hero's resolution.</p>
+        <a href="/reviews/the-batman-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">8</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/shazam-fury-of-the-gods-2023/">Shazam! Fury of the Gods (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+12 TRAD</span>
+        </div>
+        <p>Critics abandoned it. Families loved it. The 84% audience score reflects what happens when a superhero film prioritizes family dynamics over spectacle. The Vasquez foster family is the rare depiction of the foster care system as a site of genuine love and loyalty. Billy Batson's arc is about worthiness, and the film's answer is that love and sacrifice confer worthiness rather than innate specialness. That is grace theology in a PG-13 package, and it works.</p>
+        <a href="/reviews/shazam-fury-of-the-gods-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">9</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/the-avengers-2012/">The Avengers (2012)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+12 TRAD</span>
+        </div>
+        <p>The pre-woke MCU at its best. Loki's speech about humans being made to be ruled is presented as unambiguously evil, and an elderly German man standing up to him is presented as heroic. Tony Stark's arc ends with the narcissist choosing sacrifice. Steve Rogers' moral clarity is treated as strength, not naivety. The film's entire moral framework is duty over self, and it delivers that message without a single lecture. This is the MCU before the ideology captured it.</p>
+        <a href="/reviews/the-avengers-2012/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">10</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/avengers-doomsday-2026/">Avengers: Doomsday (2026)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+14 TRAD</span>
+        </div>
+        <p>The Russo Brothers return with Robert Downey Jr. as Doctor Doom, and the premise is built around a question conservatives can respect: can one sufficiently powerful person impose a better world by force? The Avengers answer no. Doom's totalitarianism is the villain, the heroes' defense of freedom and individual dignity is the virtue. The Russos directed four of the MCU's most traditionally-coded films. Pre-release review based on trailers and available materials; full review coming December 2026.</p>
+        <a href="/reviews/avengers-doomsday-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+      </div>
+    </li>
+
+  </ol>
+
+  <div class="listicle-conclusion">
+    <h2>What Makes a Superhero Film Traditional?</h2>
+    <p>The pattern across every film on this list is the same: the best superhero movies are built on sacrifice, not on identity. The hero who gives something up, whether it is memories, relationships, reputation, or life itself, scores higher than the hero who wins by being the most diverse person in the room. The Incredibles defends excellence against enforced equality. Spider-Man erases himself from everyone he loves. Batman chooses hope over vengeance at enormous personal cost. These are traditional moral frameworks dressed in capes and CGI, and audiences respond to them because they are fundamentally true.</p>
+    <p>The MCU's Phase Four collapse is instructive. The films that bombed, The Marvels, Doctor Strange in the Multiverse of Madness, Thor: Love and Thunder, all ranked at the bottom of our traditional values scoring. The films that resonated, Spider-Man: No Way Home, Guardians of the Galaxy, Avengers: Infinity War, scored at the top. The correlation between traditional values and commercial success is not a coincidence. Audiences want heroes who pay real prices. Browse all our <a href="/reviews/">superhero film reviews</a> at VirtueVigil to see the full scoring breakdown for every cape, cowl, and cosmic threat in the database.</p>
+  </div>
+</article>`
+  }));
+
   // --- Subscriber pages ---
   console.log('\nBuilding subscriber pages:');
   writePage('subscribe/index.html', buildSubscribePage());
