@@ -288,6 +288,18 @@
     "poster": "/images/posters/the-grand-budapest-hotel-2014.jpg"
   },
   {
+    "slug": "moonrise-kingdom-2012",
+    "title": "Moonrise Kingdom",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Romantic Comedy Drama",
+    "year": 2012,
+    "type": "film",
+    "wokeScore": 5.88,
+    "tradScore": 7.84,
+    "poster": "/images/posters/moonrise-kingdom-2012.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
