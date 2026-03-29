@@ -252,6 +252,18 @@
     "poster": "/images/posters/the-wedding-singer-1998.jpg"
   },
   {
+    "slug": "grown-ups-2010",
+    "title": "Grown Ups",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Comedy",
+    "year": 2010,
+    "type": "film",
+    "wokeScore": 2.5,
+    "tradScore": 21.7,
+    "poster": "/images/posters/grown-ups-2010.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",

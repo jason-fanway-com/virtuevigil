@@ -94234,5 +94234,235 @@
       }
     ],
     "datePublished": "2026-03-29"
+  },
+  {
+    "id": "grown-ups-2010",
+    "slug": "grown-ups-2010",
+    "title": "Grown Ups",
+    "year": 2010,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Comedy",
+    "date": "2026-03-29",
+    "author": "Debra Ducane",
+    "readTime": "9 min",
+    "poster": "/images/posters/grown-ups-2010.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2.5,
+    "tradScore": 21.7,
+    "authIndex": 86,
+    "scoreMargin": "+19 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Grown Ups is transparent from its first scene: five middle-aged men reconnect after their basketball coach dies and try to recapture something they've lost. The values are visible throughout."
+    },
+    "seoTitle": "Grown Ups (2010) Review: Adam Sandler's Most Traditional Film Gets the VirtueVigil Treatment",
+    "seoDescription": "VirtueVigil reviews Grown Ups (2010). Adam Sandler's nostalgia comedy about friendship, fatherhood, and technology scores Strongly Traditional. Full woke score, tropes, and parental guidance.",
+    "seoKeywords": [
+      "Grown Ups review",
+      "Grown Ups 2010 woke score",
+      "Grown Ups traditional values",
+      "is Grown Ups woke",
+      "Grown Ups VirtueVigil",
+      "Adam Sandler Grown Ups conservative review",
+      "Grown Ups parents guide",
+      "best traditional comedies"
+    ],
+    "summary": {
+      "overall": "Grown Ups might be the most explicitly conservative mainstream comedy of its era, and the critics who demolished it on Rotten Tomatoes (10%) probably sensed that without being able to articulate it.\n\nThe film follows five men who were childhood basketball teammates in 1978. When their beloved coach dies decades later, they reunite at a lake house with their families for the Fourth of July weekend. That is the entire premise. There is no external antagonist, no ticking clock, no high-concept twist. Just five middle-aged men trying to figure out what they lost somewhere between childhood and suburban comfort.\n\nWhat they lost, the film is clear about, is presence. They are distracted by their phones, their careers, their status symbols, and their inability to simply be with the people they love. Lenny Feder (Sandler) is a Hollywood agent whose kids have never climbed a tree or jumped off a rope swing. His wife (Salma Hayek) is a fashion designer consumed by work. His children are soft, indoor creatures who spend their days on devices. The contrast with the 1978 kids, who played outside and competed and got dirty and lost and won, is the film's central argument.\n\nGrown Ups is a film about what we traded away. It says that outdoor play, physical competition, genuine friendship, time in nature, and community belonging are not just nostalgic luxuries but essential components of a good life. When Lenny's children discover they actually love swimming and rope swings and being outside, it is presented as a moral awakening, not just a cute moment.\n\nThe four other male friendships are drawn broadly but warmly. Eric (Kevin James) is henpecked and insecure, still nursing from his wife at 30-something (played for absurdist comedy). Kurt (Chris Rock) does not work while his wife carries the family, and the film gently but clearly frames this as a problem. Higgins (David Spade) is a promiscuous man-child who gets his comeuppance. Rob (Rob Schneider) has a much older wife and is surrounded by her daughters in a comedic inversion of the normal family structure.\n\nThe gender dynamics in Grown Ups are worth examining carefully because critics frequently attacked them as sexist. The film is affectionately mocking of men who have abdicated their masculine roles. Eric is ribbed for being dominated. Kurt is ribbed for not working. Higgins is ribbed for refusing commitment. The film is not arguing that women should submit to men. It is arguing that men should step up, be present, be capable, and stop using their families as background noise for their own comfort.\n\nFatherhood is everywhere in this film. Every male arc is ultimately about the relationship between father and child. Lenny reconnects with his children by disconnecting them from technology and taking them outside. The rope swing sequence is the film's emotional heart: children discovering what childhood actually feels like.\n\nThe Fourth of July setting is not incidental. The film is set during a holiday that celebrates national founding, community, and continuity. The fireworks finale, with all five families watching together, is a deliberately patriotic image. The film is celebrating something specific: an American summer, a community of people who know each other, the kind of belonging that does not require Instagram to be real.\n\nGrown Ups has genuine comedic shortcomings. The humor is broad, some jokes rely on cruelty to peripheral characters, and the plot is essentially nonexistent. The critical reaction was not entirely unfounded: this is not a well-constructed film. But its underlying values are the clearest statement of traditional masculinity and family-first values in the Sandler catalog.\n\nThe 10% on Rotten Tomatoes versus the audience score (well above average) is its own culture-war data point. Critics saw a celebration of things they find culturally retrograde. Regular audiences saw a film about people they recognized. Both groups were right about what the film was doing. They just evaluated it differently.",
+      "oneLiner": "Five middle-aged men reconnect at a lake house and rediscover what matters: presence, physical play, friendship, and the families waiting for them to pay attention.",
+      "verdict": "STRONGLY TRADITIONAL. A Fourth of July weekend with no agenda except celebrating friendship, fatherhood, outdoor play, and what we traded away for screens and status. Critics hated it for this. Audiences loved it for the same reason.",
+      "adultInsight": "Conservative adults who never watched Grown Ups because of the critical drubbing should give it a chance. The critics' reaction and the audience's reaction map almost perfectly onto the culture war. This is a film about things liberal critics find retrograde: men who should be men, children who should play outside, families who put down their phones and show up. Its execution is rough and some jokes land poorly. But the values are the clearest statement of traditional masculinity and family presence in any mainstream Hollywood comedy of the last twenty years. That is worth something.",
+      "parentalGuidance": "Rated PG-13. Crude humor throughout, mild language, some crude sexual references, and humor that some will find demeaning to peripheral characters. The film contains a nursing gag involving an adult. No graphic content. Appropriate for 13 and up."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-GU-01",
+        "name": "Crude and Crass Humor",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 2.0,
+        "description": "Persistent crude humor including a prolonged nursing gag, physical comedy at the expense of peripheral characters, and crude sexual references. The humor is broad and sometimes mean. Not ideologically progressive but culturally coarse."
+      },
+      {
+        "id": "WOKE-GU-02",
+        "name": "Male Buffoonery (Played Affectionately)",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 0.5,
+        "description": "The male characters are frequently the butt of physical humor and domestic ribbing. The film pokes fun at them, though it ultimately respects them. Minor."
+      },
+      {
+        "id": "TRAD-GU-01",
+        "name": "Screen-Free Childhood as Moral Imperative",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "The film's central argument: technology and indoor comfort are stealing real childhood from children. Lenny's children have never climbed a tree. The film's emotional payoff comes when they discover outdoor play, physical challenge, and unstructured time. This is a conservative cultural argument made in 2010, before the smartphone-and-kids debate became mainstream."
+      },
+      {
+        "id": "TRAD-GU-02",
+        "name": "Male Friendship as Sacred",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "The film treats male friendship as something worth protecting across decades. The five men's bond from 1978 is genuine and forms the emotional backbone. They show up for each other without being asked. This is traditional masculinity in its healthiest form: men who trust each other, compete with each other, and care for each other."
+      },
+      {
+        "id": "TRAD-GU-03",
+        "name": "Fatherhood Requires Presence",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 3.5,
+        "description": "The film's strongest moral statement: being a father is not about providing financially but about being present. Lenny has a successful career and a beautiful family, but he is not really there. The weekend at the lake is about him learning to be actually present with his children. The rope swing moment is the payoff: his son's joy at doing something physical and real is what good fathering looks like."
+      },
+      {
+        "id": "TRAD-GU-04",
+        "name": "Mentor Honored in Death (Coach Fees)",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "Coach Robert Fees is honored throughout the film. His death brings the five men together. His values, embodied in the championship trophy and in the men's memories of him, represent the standard they have been falling short of. The film treats the teacher-student relationship as formative and worth commemorating. Honoring your mentors is a deeply traditional value."
+      },
+      {
+        "id": "TRAD-GU-05",
+        "name": "Patriotic Holiday Setting",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 1.05,
+        "description": "The Fourth of July weekend is not incidental. The fireworks finale, the American summer setting, and the celebration of community and belonging carry a patriotic warmth. The film is explicitly American in its affection for the specific kind of summer it depicts."
+      },
+      {
+        "id": "TRAD-GU-06",
+        "name": "Men Should Step Up (Anti-Abdication)",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "The film is gentle but pointed in its critique of men who have abdicated their roles. Kurt does not work. Eric is dominated. Higgins refuses to commit. The arcs push all of them toward stepping up, being present, and being the men their families need. The film is not punishing these characters for their failures. It is inviting them back to something better."
+      },
+      {
+        "id": "TRAD-GU-07",
+        "name": "Competition and Physical Challenge as Healthy",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The film celebrates competition, physical activity, and sport as essential goods. The basketball game that bookends the film, the rope swing, the outdoor play, are all presented as how people, especially boys and men, become their best selves. The absence of competition and physical challenge is implicitly identified as what has softened the men and their children."
+      },
+      {
+        "id": "TRAD-GU-08",
+        "name": "Continuity Across Generations",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 1.05,
+        "description": "The 1978 championship and Coach Fees' legacy connect the men's childhoods to their children's present. The film argues that something essential is passed down through these connections. Children who understand where their fathers came from have something children who don't are missing."
+      }
+    ],
+    "creative_team": {
+      "director": {
+        "name": "Dennis Dugan",
+        "ideology": "CENTER. Same journeyman director as Happy Gilmore and Big Daddy. No political ideology in his work.",
+        "profile": "Dugan's last major Sandler collaboration. Grown Ups gave him the loosest possible structure (five friends at a lake house) and he filled it with energy and warmth even when the plot is essentially nonexistent."
+      },
+      "writers": {
+        "names": "Adam Sandler, Fred Wolf",
+        "profile": "Sandler wrote Grown Ups with Fred Wolf, drawing heavily on personal experience and friendship. The film was written around Sandler's actual friendships with Kevin James, Chris Rock, David Spade, and Rob Schneider. The result is warm but thin: a movie made by friends having fun rather than a tightly crafted script."
+      },
+      "lead_producer": {
+        "name": "Jack Giarraputo, Adam Sandler",
+        "company": "Columbia Pictures / Happy Madison Productions"
+      },
+      "composer": {
+        "name": "Rupert Gregson-Williams",
+        "profile": "Light, unobtrusive comedy scoring."
+      },
+      "top_cast": [
+        {
+          "name": "Adam Sandler",
+          "role": "Lenny Feder"
+        },
+        {
+          "name": "Kevin James",
+          "role": "Eric Lamonsoff"
+        },
+        {
+          "name": "Chris Rock",
+          "role": "Kurt McKenzie"
+        },
+        {
+          "name": "David Spade",
+          "role": "Marcus Higgins"
+        },
+        {
+          "name": "Rob Schneider",
+          "role": "Rob Hilliard"
+        },
+        {
+          "name": "Salma Hayek",
+          "role": "Roxanne Chase-Feder"
+        },
+        {
+          "name": "Maria Bello",
+          "role": "Sally Lamonsoff"
+        },
+        {
+          "name": "Maya Rudolph",
+          "role": "Deanne McKenzie"
+        }
+      ]
+    },
+    "fidelityCasting": {
+      "sourceType": "Original Screenplay",
+      "sourceTitle": "N/A",
+      "assessment": "Original production. No source material fidelity to assess."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Crude material including suggestive references, language and some male rear nudity",
+      "recommendedAge": "13+",
+      "contentWarnings": [
+        "Persistent crude humor throughout",
+        "A nursing gag involving an adult character (prolonged comedic bit)",
+        "Brief male rear nudity (played for comedy)",
+        "Crude sexual references",
+        "Some humor that targets peripheral characters harshly",
+        "Mild language throughout"
+      ],
+      "guidance": "Rated PG-13. Grown Ups is crude in execution but traditional in values. The Fourth of July family reunion setting, the fatherhood themes, and the film's clear celebration of outdoor activity, friendship, and family presence make this suitable for mature teenagers. The nursing gag is the most objectionable element for younger viewers. The values throughout are worth discussing."
+    },
+    "comparison_films": [
+      {
+        "title": "City Slickers",
+        "year": 1991,
+        "comparison": "Both films follow middle-aged men reconnecting with what matters through a communal experience away from their normal lives. City Slickers is more dramatically coherent and emotionally sophisticated. Grown Ups is warmer and more directly celebratory about the experience. Both score traditionally."
+      },
+      {
+        "title": "The Sandlot",
+        "year": 1993,
+        "comparison": "Grown Ups is essentially a middle-aged version of The Sandlot's nostalgia for a specific kind of childhood: outdoor, physical, communal, and unsupervised. Both films argue that what children are missing today is what these kids had then."
+      }
+    ],
+    "datePublished": "2026-03-29"
   }
 ]
