@@ -1762,6 +1762,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-faith-based-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/christopher-nolan-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/tarantino-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/tom-hanks-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-animated-kids-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/patriotic-war-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
@@ -7506,6 +7507,77 @@ function build() {
         <p>Four of Tarantino's six major films score in traditional territory -- a result that will surprise anyone who has only engaged with the cultural mythology around his work. His best films are not ideological documents; they are genre exercises built around loyalty, betrayal, and violence with moral stakes. The two that tip woke do so not through political messaging but through their foundational framing: criminals as protagonists, institutions as enemies, transgression without consequence. All six films have full reviews at VirtueVigil with complete trope audits, creative team profiles, and parental guidance assessments. Browse the full database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> or explore our director rankings for <a href="https://virtuevigil.com/lists/christopher-nolan-movies-woke-ranking/">Christopher Nolan</a>, <a href="https://virtuevigil.com/lists/ryan-gosling-movies-woke-ranking/">Ryan Gosling</a>, and more on our <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
       </div>
     </article>`
+  }));
+
+  writePage('lists/tom-hanks-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'tom-hanks-movies-woke-ranking',
+    title: 'Every Tom Hanks Movie Ranked by Woke Score',
+    description: "We scored every Tom Hanks movie using VirtueVigil's woke scoring system. From Forrest Gump to Captain Phillips, here's where America's actor stands.",
+    canonicalPath: 'lists/tom-hanks-movies-woke-ranking',
+    publishDate: '2026-03-29',
+    htmlContent: `<article class="listicle-article">
+
+  <p>Tom Hanks has appeared in more beloved American films than almost any actor of his generation. He has been a Vietnam veteran's son running across history, a soldier saving Private Ryan, a man stranded alone on an island for four years, a sea captain taken hostage by Somali pirates, and a grumpy widower rediscovering life in a Swedish suburb. But what does the actual content of his films say about traditional values? VirtueVigil ran every Tom Hanks film in its database through its full dual-axis scoring system, and the results deliver a clear verdict: Tom Hanks is one of the most traditionally aligned actors in Hollywood today.</p>
+
+  <p>These are not gut feelings or cultural impressions. Every score below reflects a complete trope audit measuring ideology on both axes: woke content versus traditional values content, with a margin that tells you exactly where each film lands. The films are ranked from most traditionally scored to least. All five have full reviews at VirtueVigil with complete scoring breakdowns, trope audits, creative team profiles, and parental guidance assessments.</p>
+
+  <hr>
+
+  <h2>#1 - <a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+    <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +28 TRAD</span>
+  </div>
+  <p>Saving Private Ryan sits at the top of this list for a reason. Steven Spielberg's D-Day epic is one of the most unambiguously traditional films in the VirtueVigil database. It scores a margin of +28 TRAD, the kind of number usually reserved for explicitly faith-based productions. The film treats sacrifice as real and costly, duty as non-negotiable, and military valor as something worth depicting with full honesty and full respect. Tom Hanks as Captain Miller is not a conflicted antihero uncertain of America's mission. He is a man who knows what he is there to do, does it, and pays the ultimate price. The Omaha Beach sequence alone contains more genuine moral seriousness than most full films. This is the gold standard of what Hollywood can do when it trusts its audience enough to tell the truth about war.</p>
+  <p><a href="/reviews/saving-private-ryan-1998/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Saving Private Ryan</a></p>
+
+  <hr>
+
+  <h2>#2 - <a href="/reviews/cast-away-2000/">Cast Away (2000)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +17 TRAD</span>
+  </div>
+  <p>Cast Away is a survival story stripped to its absolute essentials: one man, one island, four years, and the question of whether the human will to live is stronger than despair. Tom Hanks as Chuck Noland does not survive by accessing some inner progressive consciousness or by dismantling social systems. He survives through discipline, ingenuity, and a stubborn refusal to give up. The film scores +17 TRAD because its entire premise is built on traditional values: self-reliance, endurance, personal responsibility, and the weight of commitment to another person. When Chuck finally gets home and faces the life that moved on without him, the film is honest about the cost of survival in ways that softer Hollywood productions never would be. There are no villains here. Just circumstance, character, and consequence.</p>
+  <p><a href="/reviews/cast-away-2000/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cast Away</a></p>
+
+  <hr>
+
+  <h2>#3 - <a href="/reviews/forrest-gump-1994/">Forrest Gump (1994)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +14 TRAD</span>
+  </div>
+  <p>Forrest Gump scores +14 TRAD and holds up as one of the most honest celebrations of American traditional values in mainstream cinema history. The film works because Forrest is not ironic about any of it. He loves his mama. He serves his country. He keeps his promises to Bubba. He raises his son. He runs because he feels like it and stops when he is done. The film's genius is using Forrest's uncomplicated moral clarity as a mirror for the chaos of the 1960s and 70s, and the mirror consistently shows that the people who were certain about their counterculture convictions left a trail of wreckage, while the man who simply tried to do right by the people he loved ended up building something worth having. VirtueVigil scores it TRADITIONAL with a +14 margin. No surprises there.</p>
+  <p><a href="/reviews/forrest-gump-1994/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Forrest Gump</a></p>
+
+  <hr>
+
+  <h2>#4 - <a href="/reviews/a-man-called-otto-2022/">A Man Called Otto (2022)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +9 TRAD</span>
+  </div>
+  <p>A Man Called Otto is a smaller, quieter film than the others on this list, and its +9 TRAD score reflects that. Tom Hanks plays Otto Anderson, a grumpy widower in a Pittsburgh suburb who has decided the world no longer needs him, until his new neighbors give him a reason to reconsider. The film is a genuine argument for community, for the bonds between neighbors, and for the idea that even a man who has lost everything still has obligations to the people around him. VirtueVigil's TRADITIONAL LEAN verdict captures it accurately: this is a film with traditional values at its core, but with enough progressive flourishes in its supporting cast to keep it from scoring higher. Worth watching. Better than its marketing suggested.</p>
+  <p><a href="/reviews/a-man-called-otto-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Man Called Otto</a></p>
+
+  <hr>
+
+  <h2>#5 - <a href="/reviews/captain-phillips-2013/">Captain Phillips (2013)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +6 TRAD</span>
+  </div>
+  <p>Captain Phillips scores the lowest on this list at +6 TRAD, which still puts it firmly in traditional-lean territory. Paul Greengrass's film is a gripping procedural about the 2009 hijacking of the Maersk Alabama by Somali pirates, and Tom Hanks delivers one of his most raw performances as the title character. The film earns its TRADITIONAL LEAN classification through its portrayal of duty, professional competence under pressure, and the eventual decisive response from the U.S. military. It loses ground in the traditional scoring for spending considerable screen time on the economic desperation driving the hijackers, framing that trends toward systemic explanation rather than individual moral accountability. The result is a film that respects traditional values without being built on them from the ground up. Still a strong recommendation for conservative audiences.</p>
+  <p><a href="/reviews/captain-phillips-2013/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain Phillips</a></p>
+
+  <hr>
+
+  <div class="listicle-conclusion">
+    <h3>America's Actor Delivers</h3>
+    <p>Five films. All five score traditional or better. That is not a fluke. Tom Hanks has spent three decades choosing projects that take duty, sacrifice, family, and endurance seriously. The data confirms what audiences already sensed: this is an actor whose body of work consistently reflects traditional American values, from the beaches of Normandy to a deserted Pacific island to a Pittsburgh neighborhood. VirtueVigil has full reviews for every film on this list with complete trope audits, scoring breakdowns, and parental guidance. Browse all reviews at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a>, or explore our other actor rankings and director breakdowns on the <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
+  </div>
+</article>`
   }));
 
   writePage('lists/woke-animated-kids-movies/index.html', buildListiclePage({
