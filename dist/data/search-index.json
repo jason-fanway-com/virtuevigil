@@ -156,6 +156,18 @@
     "poster": "/images/posters/et-the-extra-terrestrial-1982.jpg"
   },
   {
+    "slug": "schindlers-list-1993",
+    "title": "Schindler's List",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Historical Drama",
+    "year": 1993,
+    "type": "film",
+    "wokeScore": 4.9,
+    "tradScore": 22.82,
+    "poster": "/images/posters/schindlers-list-1993.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
