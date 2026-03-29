@@ -60,6 +60,18 @@
     "poster": "/images/posters/a-man-called-otto-2022.jpg"
   },
   {
+    "slug": "brave-the-dark-2025",
+    "title": "Brave the Dark",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (Angel Studios)",
+    "genre": "Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 1.35,
+    "tradScore": 26.18,
+    "poster": "/images/posters/brave-the-dark-2025.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
