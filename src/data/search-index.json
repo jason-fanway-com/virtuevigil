@@ -120,6 +120,18 @@
     "poster": "/images/posters/the-lion-king-1994.jpg"
   },
   {
+    "slug": "the-incredibles-2004",
+    "title": "The Incredibles",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated / Superhero / Family",
+    "year": 2004,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 24.85,
+    "poster": "/images/posters/the-incredibles-2004.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
