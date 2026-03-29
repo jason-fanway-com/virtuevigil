@@ -216,6 +216,18 @@
     "poster": "/images/posters/happy-gilmore-1996.jpg"
   },
   {
+    "slug": "billy-madison-1995",
+    "title": "Billy Madison",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Comedy",
+    "year": 1995,
+    "type": "film",
+    "wokeScore": 4.5,
+    "tradScore": 12.15,
+    "poster": "/images/posters/billy-madison-1995.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
