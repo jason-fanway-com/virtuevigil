@@ -1118,6 +1118,53 @@ function buildReviewFaqSchema(r) {
   };
 }
 
+// Related reviews: same genre bucket, same verdict tier, exclude self. Max 8.
+function getRelatedReviews(r) {
+  const myGenres = classifyGenreNav(r.genre);
+  const myVerdict = (r.verdict || '').toUpperCase();
+  const scored = reviews
+    .filter(other => other.slug !== r.slug)
+    .map(other => {
+      let score = 0;
+      const otherGenres = classifyGenreNav(other.genre);
+      const sharedGenres = myGenres.filter(g => otherGenres.includes(g));
+      score += sharedGenres.length * 3;
+      const ov = (other.verdict || '').toUpperCase();
+      if (ov === myVerdict) score += 2;
+      else if (ov.includes('TRADITIONAL') && myVerdict.includes('TRADITIONAL')) score += 1;
+      else if (ov.includes('WOKE') && myVerdict.includes('WOKE')) score += 1;
+      if (other.type === r.type) score += 1;
+      return { review: other, score };
+    })
+    .filter(s => s.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 8)
+    .map(s => s.review);
+  return scored;
+}
+
+function relatedReviewsBlock(r) {
+  const related = getRelatedReviews(r);
+  if (related.length === 0) return '';
+  return `
+      <section class="related-reviews" style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px;">
+        <h3 style="margin: 0 0 1rem 0; font-size: 1.1rem; color: var(--accent, #e2b55a);">
+          <i class="fas fa-film" style="margin-right: 0.5rem;"></i>Related Reviews
+        </h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 0.75rem;">
+          ${related.map(rel => {
+            const relVc = verdictClass(rel.verdict);
+            const badge = (rel.verdict || 'MIXED').toUpperCase();
+            return `<a href="/reviews/${rel.slug}/" style="text-decoration:none; display:flex; flex-direction:column; gap:0.25rem; padding:0.5rem; border-radius:8px; background:rgba(255,255,255,0.03); transition:background 0.2s;" onmouseover="this.style.background='rgba(255,255,255,0.08)'" onmouseout="this.style.background='rgba(255,255,255,0.03)'">
+              ${posterHTML(rel, 'thumb')}
+              <span style="font-size:0.8rem; font-weight:600; color:#eee; line-height:1.2;">${esc(rel.title)}</span>
+              <span class="verdict verdict-badge ${relVc}" style="font-size:0.6rem; padding:1px 4px; align-self:flex-start;">${badge}</span>
+            </a>`;
+          }).join('')}
+        </div>
+      </section>`;
+}
+
 function buildReviewPage(r) {
   const vc = verdictClass(r.verdict);
   const hasTrap = isWokeTrap(r);
@@ -1218,6 +1265,8 @@ function buildReviewPage(r) {
           ${whereToWatchBlock(r)}
         </div>
       </article>
+
+      ${relatedReviewsBlock(r)}
 
       <!-- Comments Section -->
       <div class="comments-section" data-slug="${esc(r.slug)}">
