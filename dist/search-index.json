@@ -24,6 +24,18 @@
     "poster": "/images/posters/the-bad-guys-2-2025.jpg"
   },
   {
+    "slug": "cast-away-2000",
+    "title": "Cast Away",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Survival",
+    "year": 2000,
+    "type": "film",
+    "wokeScore": 1.75,
+    "tradScore": 18.97,
+    "poster": "/images/posters/cast-away-2000.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
