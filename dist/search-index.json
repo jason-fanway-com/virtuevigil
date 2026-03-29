@@ -48,6 +48,18 @@
     "poster": "/images/posters/captain-phillips-2013.jpg"
   },
   {
+    "slug": "a-man-called-otto-2022",
+    "title": "A Man Called Otto",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Drama / Comedy-Drama",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 5.5,
+    "tradScore": 14,
+    "poster": "/images/posters/a-man-called-otto-2022.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
