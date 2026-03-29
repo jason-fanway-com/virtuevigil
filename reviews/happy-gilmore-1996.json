@@ -1,0 +1,223 @@
+{
+  "id": "happy-gilmore-1996",
+  "slug": "happy-gilmore-1996",
+  "title": "Happy Gilmore",
+  "year": 1996,
+  "type": "film",
+  "platform": "Theatrical",
+  "genre": "Sports Comedy",
+  "date": "2026-03-29",
+  "author": "Debra Ducane",
+  "readTime": "9 min",
+  "poster": "/images/posters/happy-gilmore-1996.jpg",
+  "verdict": "TRADITIONAL",
+  "wokeScore": 3.7,
+  "tradScore": 17.15,
+  "authIndex": 88,
+  "scoreMargin": "+13 TRAD",
+  "preRelease": false,
+  "wokeTrap": false,
+  "woke_trap_assessment": {
+    "is_trap": false,
+    "explanation": "Happy Gilmore makes no attempt to disguise what it is. A volatile, working-class hockey player takes up golf to save his grandmother's house. The humor is crude and the conflicts are physical. Nothing is hidden."
+  },
+  "seoTitle": "Happy Gilmore (1996) Review: Adam Sandler's Golf Classic Gets the VirtueVigil Woke Score Treatment",
+  "seoDescription": "Is Happy Gilmore woke? VirtueVigil scores Adam Sandler's 1996 sports comedy. We break down the tropes, trad values, parental guidance, and why this film still holds up for conservative audiences.",
+  "seoKeywords": [
+    "Happy Gilmore review",
+    "Happy Gilmore woke score",
+    "Happy Gilmore 1996 conservative review",
+    "is Happy Gilmore woke",
+    "Adam Sandler movies woke",
+    "Happy Gilmore parents guide",
+    "Happy Gilmore VirtueVigil",
+    "Adam Sandler conservative",
+    "Happy Gilmore traditional values"
+  ],
+  "summary": {
+    "overall": "Happy Gilmore is thirty years old and it still makes people laugh. That is not nothing. Most comedies from the mid-nineties feel like archaeology. This one feels like something you put on when you need to turn your brain off and enjoy ninety minutes of a man hitting golf balls through windshields and punching Bob Barker in the face.\n\nThe setup is simple. Happy Gilmore is a failed hockey player with a ferocious slap shot and no skating skill. When the IRS seizes his grandmother's house, he discovers his hockey swing translates to insane golf distances. He enters the PGA tour to win prize money and save Grandma's home. Standing in his way: Shooter McGavin, a preening professional golfer who represents every sleek, manicured, establishment figure Happy cannot stand.\n\nThe film's entire ideological DNA is working-class vs. country-club. Happy is loud, undisciplined, and furious. He plays for his grandmother. Shooter plays for himself, for endorsements, for the trophies. The audience is clearly meant to root for the outsider who fights the entrenched establishment. This is not woke politics. It is the oldest populist story in American entertainment: the underdog who refuses to be polished into something acceptable.\n\nThe treatment of Grandma is the film's most genuinely warm element. Happy's entire motivation is saving her house. Not fame. Not proving something to ex-girlfriends. Not self-actualization. He loves his grandmother and will make a spectacle of himself to keep a roof over her head. That is a traditional value and the film sells it without irony.\n\nThe romance with Virginia (Julie Bowen), the tour's PR rep, is thin but functional. She is not a progressive fantasy. She is a woman doing her job who falls for the guy who works hardest. Their relationship has no lecture attached to it.\n\nIs Happy Gilmore crude? Absolutely. The violence is cartoonish and constant. The language would make a school principal faint. Bob Barker takes a fist to the face. The film does not apologize for any of it. This is a PG-13 comedy from an era before studios started attaching therapy sessions to their comedies.\n\nShooter McGavin, played with gleeful nastiness by Christopher McDonald, is one of the better antagonists in nineties comedy. He is rich, connected, and dirty when no one is watching. He sabotages Happy's game, hires goons, schemes constantly, and gets demolished in the end. The film's moral universe is clear: arrogance, cheating, and contempt for working people gets punished. Hard work for someone you love gets rewarded.\n\nThe comedy has not aged uniformly. Some of the broad physical gags land exactly as intended. Others land with the specific thud of 1996. But the emotional core has held up better than most films of this type, because it is built on something real: a grandson who loves his grandmother and will embarrass himself completely to protect her.",
+    "oneLiner": "A crude, funny, working-class sports comedy about a man who fights the golf establishment to save his grandmother's house. Thirty years later, it still works.",
+    "verdict": "TRADITIONAL. The working-class-versus-country-club populism, the devotion to family (specifically to Grandma), and the clear moral universe where cheaters lose and hard workers win all push this firmly into traditional territory. The crude humor and mild sexual content drag the woke score slightly, but not enough to matter.",
+    "adultInsight": "Conservative adults who remember Happy Gilmore fondly will find it holds up. The class dynamics age well. A loud, rough-edged outsider beats the polished establishment. Grandma is the hero's whole world. The villain cheats and gets caught. The humor is pre-woke: physical, crude, and never ideological. There is no lecture, no progressive thesis, and no character whose arc is really about teaching the audience a social justice lesson. It is just a funny movie about a violent man who becomes a golfer. Sometimes that is enough.",
+    "parentalGuidance": "Rated PG-13. Frequent crude humor and mild language. Cartoonish physical violence throughout, including a man punching Bob Barker and a fight with an alligator. One brief sexual scene (non-explicit). No nudity. Best suited for 13 and up. Not appropriate for younger children due to language and the normalized depiction of rage as comedy."
+  },
+  "tropeAudit": [
+    {
+      "id": "WOKE-HG-01",
+      "name": "Crude Humor Normalizing Aggression",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": 1.0,
+      "centrality": 1.0,
+      "weightedScore": 2.0,
+      "description": "Happy's anger management issues are played entirely for laughs. His explosions of violence on the golf course are never treated as a genuine problem to address, only as entertainment. The film celebrates his inability to control himself and frames rage as charm rather than as something to work through."
+    },
+    {
+      "id": "WOKE-HG-02",
+      "name": "Disrespect for Authority / Anti-Establishment Ethos",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": 1.0,
+      "centrality": 0.5,
+      "weightedScore": 0.5,
+      "description": "Happy consistently defies tour officials, rules, and social norms. The film treats institutional authority with contempt. While this is populist rather than politically progressive, it frames rule-breaking as heroism."
+    },
+    {
+      "id": "WOKE-HG-03",
+      "name": "Minor Sexual Content",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": 1.0,
+      "centrality": 0.5,
+      "weightedScore": 0.5,
+      "description": "A brief non-explicit sexual encounter. Not ideologically charged but worth noting for parental guidance."
+    },
+    {
+      "id": "WOKE-HG-04",
+      "name": "Mockery of Elites / Class Contempt (Upward)",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 0.7,
+      "description": "The film presents the golf establishment as corrupt, vain, and deserving of humiliation. While this populism is conservative in flavor, the reflex to mock all institutional excellence and refinement leans left of center."
+    },
+    {
+      "id": "TRAD-HG-01",
+      "name": "Filial Devotion as Primary Motivation",
+      "category": "Traditional",
+      "severity": 5,
+      "authenticity": 0.7,
+      "centrality": 1.8,
+      "weightedScore": 6.3,
+      "description": "Happy's entire journey is motivated by love for his grandmother. He does not enter golf for fame, money for its own sake, or self-discovery. He enters to save Grandma's house. This is the most traditional motivation in the film, and the film never questions it or undermines it with irony. The grandmother-grandson relationship is treated with genuine warmth throughout."
+    },
+    {
+      "id": "TRAD-HG-02",
+      "name": "Work Ethic and Talent Development",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 2.8,
+      "description": "Happy Gilmore trains hard, improves his game, and earns his victories. He does not win through luck or systemic advantages. His natural talent (the slap shot swing) is raw material that he refines with effort and guidance from Chubbs Peterson. The mentor relationship with Chubbs is genuinely touching."
+    },
+    {
+      "id": "TRAD-HG-03",
+      "name": "Cheater Gets Punished",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 2.8,
+      "description": "Shooter McGavin cheats, schemes, hires goons, and manipulates the tournament. He loses. The film's moral arc is completely clear: dishonesty and selfishness lead to public humiliation. Happy's integrity, however rough around the edges, is rewarded. The moral universe is functional."
+    },
+    {
+      "id": "TRAD-HG-04",
+      "name": "Working-Class Authenticity vs. Upper-Class Pretension",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 2.1,
+      "description": "Happy is unpolished, loud, and working-class. The film treats this as a virtue rather than something to overcome. He does not become refined. He wins as himself. The contrast with the manicured, country-club golf world is the film's central comedic engine and its moral argument."
+    },
+    {
+      "id": "TRAD-HG-05",
+      "name": "Mentor Relationship (Chubbs Peterson)",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 0.5,
+      "weightedScore": 1.05,
+      "description": "Chubbs Peterson functions as a traditional mentor figure: experienced, patient, and investing his wisdom in the next generation. He believes in Happy when nobody else does. His death midway through the film is treated with genuine grief, not brushed aside for a joke. The mentorship model is presented as foundational to Happy's growth."
+    },
+    {
+      "id": "TRAD-HG-06",
+      "name": "Self-Sacrifice for Family",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 2.1,
+      "description": "Happy subjects himself to public humiliation, physical punishment, and institutional contempt for the singular goal of saving his grandmother's home. Self-sacrifice in service of family is the film's emotional spine. The climax delivers this payoff without reservations."
+    }
+  ],
+  "creative_team": {
+    "director": {
+      "name": "Dennis Dugan",
+      "ideology": "CENTER. Career comedy director whose filmography tracks closely with Sandler's output. No notable political ideology embedded in his directing choices. Craftsman rather than auteur.",
+      "profile": "Dennis Dugan directed multiple Adam Sandler vehicles including Billy Madison's follow-up companion pieces. He is a reliable comedy journeyman whose primary skill is staying out of the way of Sandler's comedic instincts."
+    },
+    "writers": {
+      "names": "Tim Herlihy, Adam Sandler",
+      "profile": "Tim Herlihy was Sandler's Harvard roommate and primary writing collaborator through Happy Madison's early peak. Their partnership produced several of the most commercially successful comedies of the nineties. The scripts are built around Sandler's persona: working-class outsider, fierce loyalty to family, hostility toward pretension. These are genuine values, not performance."
+    },
+    "lead_producer": {
+      "name": "Robert Simonds",
+      "company": "Universal Pictures / Happy Madison Productions"
+    },
+    "composer": {
+      "name": "Mark Mothersbaugh",
+      "profile": "Founder of Devo, but also one of Hollywood's most prolific comedy composers. His bouncy, slightly manic score fits Happy Gilmore's energy perfectly."
+    },
+    "top_cast": [
+      {
+        "name": "Adam Sandler",
+        "role": "Happy Gilmore"
+      },
+      {
+        "name": "Christopher McDonald",
+        "role": "Shooter McGavin"
+      },
+      {
+        "name": "Julie Bowen",
+        "role": "Virginia Venit"
+      },
+      {
+        "name": "Frances Bay",
+        "role": "Grandma"
+      },
+      {
+        "name": "Carl Weathers",
+        "role": "Chubbs Peterson"
+      },
+      {
+        "name": "Bob Barker",
+        "role": "Himself"
+      }
+    ]
+  },
+  "fidelityCasting": {
+    "sourceType": "Original Screenplay",
+    "sourceTitle": "N/A",
+    "assessment": "Original production. No source material fidelity to assess."
+  },
+  "parentalGuidance": {
+    "mpaaRating": "PG-13",
+    "mpaaDescriptors": "Crude humor, mild language, and violence",
+    "recommendedAge": "13+",
+    "contentWarnings": [
+      "Frequent crude humor, physical comedy, and slapstick violence",
+      "Happy punches Bob Barker in a comedic fight sequence",
+      "A fight with an alligator (comedic, no realistic gore)",
+      "Mild to moderate language throughout",
+      "One brief non-explicit sexual scene",
+      "Happy's anger and violent outbursts are played for laughs rather than treated as problems"
+    ],
+    "guidance": "Rated PG-13. Happy Gilmore is appropriate for teenagers and adults. The violence is cartoonish and the sexuality is brief and non-explicit. Language is mild by adult standards. The core family values theme (saving Grandma's house) is genuinely warm and a good discussion point. Not recommended for children under 12."
+  },
+  "comparison_films": [
+    {
+      "title": "Caddyshack",
+      "year": 1980,
+      "comparison": "Both are sports comedies that use golf as a vehicle for class warfare humor. Caddyshack is raunchier and more anarchic. Happy Gilmore is warmer at its core because the motivation is family rather than pure antiestablishment chaos."
+    },
+    {
+      "title": "Billy Madison",
+      "year": 1995,
+      "comparison": "The companion piece in Sandler's early catalog. Same comedic DNA, slightly less family warmth. Happy Gilmore has the cleaner moral arc."
+    }
+  ],
+  "datePublished": "2026-03-29"
+}

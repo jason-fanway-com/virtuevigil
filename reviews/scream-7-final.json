@@ -1,0 +1,372 @@
+{
+  "title": "Scream 7",
+  "slug": "scream-7",
+  "date": "2026-02-17",
+  "type": "film",
+  "year": 2026,
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Slasher"
+  ],
+  "platform": "Theatrical",
+  "runtime": "TBD",
+  "verdict": "TRADITIONAL LEAN",
+  "woke_score": 4.375,
+  "traditional_score": 20.56,
+  "composite_score": 2,
+  "confidence": "low-medium",
+  "poster": null,
+  "woke_trap": false,
+  "woke_trap_pct": null,
+  "pre_release": true,
+  "release_date": "2026-02-27",
+  "tagline": "Motherhood and family protection drive the emotional core, but the franchise's progressive meta-commentary DNA will persist.",
+  "overview": "Kevin Williamson returns to direct the franchise he created, with Neve Campbell back as Sidney Prescott after sitting out the sixth installment. The plot centers on Sidney's daughter Tatum (Isabel May) being targeted by a new Ghostface, positioning motherhood and family defense as the central dramatic engine. Williamson co-wrote with Guy Busick (who penned the more progressive recent entries), creating a creative tension between traditional and progressive impulses. The returning cast is massive: Courteney Cox, David Arquette (likely flashback), Matthew Lillard, Scott Foley, Jasmin Savoy Brown. Joel McHale plays Sidney's husband, grounding the story in a nuclear family under siege. Pre-release signals suggest a course correction toward emotional sincerity over meta-commentary, but Busick's involvement means progressive elements will persist. Conservative horror fans should find the traditional core stronger than expected, though Mindy's meta-commentary will likely carry some progressive seasoning.",
+  "adult_insight": "Conservative adult viewers should approach Scream 7 with context. The franchise's last two entries leaned into progressive meta-commentary that alienated traditional horror fans. Williamson's return as director signals a potential course correction. His horror work has always operated on conservative moral logic even when his cultural politics are liberal. The motherhood premise is genuinely traditional. The Barrera firing and franchise reset suggest a studio prioritizing IP legacy over progressive star power. But temper expectations: Guy Busick co-wrote this, and his fingerprints will be on the meta-commentary. This is likely a film where the emotional core is traditional and the intellectual wrapper is progressive. For horror-tolerant conservatives, that trade may be worth it.",
+  "parental_guidance": "This is emphatically not a children's movie. Rated R for graphic slasher violence, strong language, and likely some sexual content. A teenager is the killer's primary target. Characters audiences care about will die on screen. The violence is intense, sustained, and realistic within the genre. Minimum age 16, recommended 17+. For mature teens who can handle the content, the franchise raises interesting questions about moral frameworks in horror (the 'rules' that punish transgression), generational conflict, and how meta-commentary shapes audience expectations.",
+  "tropes": [
+    {
+      "id": "WOKE-012",
+      "name": "The Fourth-Wall Troll",
+      "category": "Woke",
+      "severity": 2.5,
+      "predicted": true,
+      "timestamp": "Expected throughout via Mindy",
+      "quote": "Franchise pattern: Mindy delivers meta-commentary monologues that double as cultural commentary on toxic fandom and legacy audiences.",
+      "context": "Organic to the franchise's self-aware structure. Scream has always been meta. But recent entries weaponized the meta-commentary against conservative cultural positions.",
+      "impact": "Will shape how progressive the film feels intellectually, even if the emotional core is traditional.",
+      "verdict": "Predicted woke. Severity depends on how much latitude Williamson gives Busick's writing instincts.",
+      "authenticity": "Neutral. Meta-commentary is the franchise's DNA, but the progressive edge is a recent addition."
+    },
+    {
+      "id": "WOKE-006",
+      "name": "Infallible Youth",
+      "category": "Woke",
+      "severity": 2,
+      "predicted": true,
+      "timestamp": "Expected in generational dynamics",
+      "quote": "Franchise pattern: newer generation consistently positioned as morally and intellectually superior to legacy characters.",
+      "context": "Baked into Scream's meta-DNA. The 'rules' evolve with each generation and the new generation 'gets it' better. Sidney's centrality may counterbalance.",
+      "impact": "Moderate. Could undermine legacy character authority or could be balanced by Sidney's maternal wisdom.",
+      "verdict": "Predicted mild woke.",
+      "authenticity": "Natural. Genre convention as much as ideology."
+    },
+    {
+      "id": "WOKE-002",
+      "name": "Tokenized Representation",
+      "category": "Woke",
+      "severity": 1,
+      "predicted": true,
+      "timestamp": "Background element",
+      "quote": "Celeste O'Connor (nonbinary actor) cast in unspecified role. Mindy is openly queer. Diverse ensemble.",
+      "context": "The franchise has historically integrated diverse cast organically. Mindy's queerness has been a character trait, not a PSA.",
+      "impact": "Trace level. Unlikely to register as forced unless the film makes it a speech.",
+      "verdict": "Predicted trace woke.",
+      "authenticity": "Natural. Franchise has always cast broadly."
+    },
+    {
+      "id": "TRADITIONAL-045",
+      "name": "Defense of the Innocent",
+      "category": "Traditional",
+      "severity": 4,
+      "predicted": true,
+      "timestamp": "Central premise",
+      "quote": "Sidney's daughter is targeted by Ghostface. The entire plot is a mother defending her child.",
+      "context": "Not subtext. The confirmed premise is built entirely around maternal protection. Trailers emphasize Sidney's ferocity as a protector.",
+      "impact": "Defines the film. This is the emotional thesis.",
+      "verdict": "Predicted strongly traditional. The load-bearing wall of the movie.",
+      "authenticity": "Organic. The franchise's most traditional premise yet."
+    },
+    {
+      "id": "TRADITIONAL-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 3,
+      "predicted": true,
+      "timestamp": "Sidney's entire arc across seven films",
+      "quote": "Sidney has survived six Ghostface killing sprees and rebuilt her life each time. Her return after the real-world pay dispute adds meta-resonance.",
+      "context": "Sidney is the franchise's moral center because she endures. She doesn't break. She fights, survives, rebuilds.",
+      "impact": "Central to character. Audiences root for Sidney because she embodies perseverance.",
+      "verdict": "Predicted traditionally coded.",
+      "authenticity": "Organic. Seven films of established character."
+    },
+    {
+      "id": "TRADITIONAL-026",
+      "name": "Self-Sacrificing Hero",
+      "category": "Traditional",
+      "severity": 2,
+      "predicted": true,
+      "timestamp": "Franchise pattern; Dewey's legacy",
+      "quote": "At least one character per Scream film makes a self-sacrificing stand. Dewey's death in 2022 is the franchise's most powerful sacrifice.",
+      "context": "The franchise consistently rewards selflessness. Characters who fight for others survive; those motivated by selfishness die.",
+      "impact": "Reinforces traditional moral framework.",
+      "verdict": "Predicted traditional.",
+      "authenticity": "Natural. Established franchise pattern."
+    },
+    {
+      "id": "TRADITIONAL-044",
+      "name": "Sacred Institution of Marriage",
+      "category": "Traditional",
+      "severity": 2,
+      "predicted": true,
+      "timestamp": "Sidney and Mark Evans",
+      "quote": "Joel McHale is confirmed as Mark Evans, Sidney's husband and a police officer. Sidney has built a stable nuclear family.",
+      "context": "The franchise has traditionally focused on single/dating young people. Placing a married couple at the center is a notable shift toward traditional family structure.",
+      "impact": "Sidney's marriage represents the stability that Ghostface threatens. The nuclear family under siege is a deeply traditional dramatic framework.",
+      "verdict": "Predicted traditional.",
+      "authenticity": "Natural. Organic character progression for Sidney."
+    },
+    {
+      "id": "TRADITIONAL-033",
+      "name": "Wise Elder",
+      "category": "Traditional",
+      "severity": 1.5,
+      "predicted": true,
+      "timestamp": "Gale, legacy character returns",
+      "quote": "Gale Weathers has evolved from mercenary journalist to seasoned survivor. Legacy character returns suggest the film values institutional memory.",
+      "context": "Whether the film respects or undermines legacy character wisdom will be a key signal.",
+      "impact": "Background to supporting. Depends on execution.",
+      "verdict": "Predicted mild traditional.",
+      "authenticity": "Natural."
+    }
+  ],
+  "creative_team": {
+    "cast": [
+      {
+        "actor": "Neve Campbell",
+        "role": "Sidney Prescott"
+      },
+      {
+        "actor": "Courteney Cox",
+        "role": "Gale Weathers"
+      },
+      {
+        "actor": "Isabel May",
+        "role": "Tatum"
+      },
+      {
+        "actor": "Jasmin Savoy Brown",
+        "role": "Mindy Meeks-Martin"
+      },
+      {
+        "actor": "Mason Gooding",
+        "role": "Chad Meeks-Martin"
+      },
+      {
+        "actor": "Joel McHale",
+        "role": "Mark Evans"
+      },
+      {
+        "actor": "Mckenna Grace",
+        "role": "TBD"
+      },
+      {
+        "actor": "Anna Camp",
+        "role": "TBD"
+      },
+      {
+        "actor": "Jimmy Tatro",
+        "role": "TBD"
+      },
+      {
+        "actor": "Celeste O'Connor",
+        "role": "TBD"
+      },
+      {
+        "actor": "Mark Consuelos",
+        "role": "TBD"
+      },
+      {
+        "actor": "Matthew Lillard",
+        "role": "Stu Macher"
+      },
+      {
+        "actor": "Scott Foley",
+        "role": "Roman Bridger"
+      },
+      {
+        "actor": "David Arquette",
+        "role": "Dewey Riley"
+      }
+    ],
+    "director": {
+      "name": "Kevin Williamson",
+      "filmography": [
+        {
+          "title": "Scream",
+          "year": 1996,
+          "themes": "Genre-defining slasher; conservative moral framework as postmodern horror"
+        },
+        {
+          "title": "Scream 2",
+          "year": 1997,
+          "themes": "Meta-commentary expanded; moral core maintained"
+        },
+        {
+          "title": "I Know What You Did Last Summer",
+          "year": 1997,
+          "themes": "Guilt-and-punishment slasher; traditional moral logic"
+        },
+        {
+          "title": "Dawson's Creek (creator)",
+          "year": 1998,
+          "themes": "Culturally liberal; earnest about family and relationships"
+        },
+        {
+          "title": "The Faculty",
+          "year": 1998,
+          "themes": "Conformity vs individuality allegory"
+        },
+        {
+          "title": "The Vampire Diaries (creator)",
+          "year": 2009,
+          "themes": "Supernatural romance; traditional structures, progressive casting over time"
+        },
+        {
+          "title": "Scream 7",
+          "year": 2026,
+          "themes": "First directorial outing in franchise"
+        }
+      ],
+      "ideological_tendency": "MIXED",
+      "ideological_notes": "Horror work runs on conservative moral logic. TV work trends culturally liberal. Openly gay writer in traditionally conservative genres. Strength is emotional sincerity over political messaging.",
+      "consistency": "Split between horror (traditional) and TV (liberal)"
+    },
+    "producers": [
+      {
+        "name": "Paul Neinstein",
+        "company": "Spyglass Media",
+        "ideological_signal": "NEUTRAL",
+        "notes": "Studio fired Barrera over political speech — anti-woke corporate decision."
+      },
+      {
+        "name": "William Sherak",
+        "company": "Project X Entertainment",
+        "ideological_signal": "NEUTRAL",
+        "notes": "Franchise producer."
+      }
+    ],
+    "writer": {
+      "name": "Kevin Williamson & Guy Busick (screenplay); James Vanderbilt & Guy Busick (story)",
+      "sole_credit": false,
+      "ideological_signal": "MIXED",
+      "notes": "Williamson leans traditional in horror. Busick and Vanderbilt wrote the more progressive recent entries. The collaboration creates genuine creative tension."
+    },
+    "composer": {
+      "name": "TBD",
+      "ideological_signal": "NEUTRAL",
+      "notes": "Brian Tyler scored the previous two entries."
+    },
+    "prediction_indicator": {
+      "director_signal": "MIXED",
+      "producer_signal": "NEUTRAL",
+      "cast_signal": "MIXED",
+      "composer_signal": "NEUTRAL",
+      "pre_viewing_prediction": "MIXED with TRADITIONAL LEAN (+1 to +4)",
+      "actual_verdict": "TBD (pre-release)",
+      "prediction_accurate": null,
+      "reasoning": "Williamson's directorial control should moderate progressive meta-commentary. Motherhood premise is inherently traditional. But Busick's co-writing credit means progressive elements will persist. The franchise's DNA is genuinely split."
+    }
+  },
+  "fidelity_casting": {
+    "score": "N/A",
+    "fcs_numeric": null,
+    "assessments": [
+      {
+        "character": "All characters",
+        "actor": null,
+        "description": "Original franchise — no source material to compare against",
+        "historically_plausible": true,
+        "prevalence": "N/A",
+        "notes": "Scream is original IP. Fidelity Casting Score does not apply to original properties."
+      }
+    ],
+    "overall_assessment": "N/A — Original franchise. No source novel, comic, or historical record to assess casting fidelity against."
+  },
+  "tropeAudit": [
+    {
+      "id": "WOKE-012",
+      "name": "The Fourth-Wall Troll",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Moderate",
+      "weightedScore": 2.0,
+      "description": "Franchise pattern: Mindy delivers meta-commentary monologues doubling as cultural commentary on toxic fandom and legacy audiences. Organic to franchise DNA but progressive edge is recent addition."
+    },
+    {
+      "id": "WOKE-006",
+      "name": "Infallible Youth",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Newer generation consistently positioned as morally and intellectually superior to legacy characters. Genre convention as much as ideology, but present."
+    },
+    {
+      "id": "WOKE-002",
+      "name": "Tokenized Representation",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "Celeste O'Connor cast in unspecified role. Mindy is openly queer. Diverse ensemble. Franchise has historically integrated diverse cast organically."
+    },
+    {
+      "id": "TRAD-045",
+      "name": "Defense of the Innocent",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 5.04,
+      "description": "Sidney's daughter is targeted by Ghostface. The entire plot is a mother defending her child. The emotional thesis of the film."
+    },
+    {
+      "id": "TRAD-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 3.78,
+      "description": "Sidney has survived six Ghostface killing sprees and rebuilt her life each time. She embodies perseverance across seven films."
+    },
+    {
+      "id": "TRAD-026",
+      "name": "Self-Sacrificing Hero",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Franchise consistently rewards selflessness. Characters who fight for others survive; those motivated by selfishness die. Dewey's death in 2022 is the franchise's most powerful sacrifice."
+    },
+    {
+      "id": "TRAD-044",
+      "name": "Sacred Institution of Marriage",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Joel McHale confirmed as Sidney's husband Mark Evans. The nuclear family under siege is a deeply traditional dramatic framework."
+    },
+    {
+      "id": "TRAD-033",
+      "name": "Wise Elder",
+      "category": "Traditional",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "Gale Weathers has evolved from mercenary journalist to seasoned survivor. Legacy character returns suggest the film values institutional memory."
+    }
+  ],
+  "wokeScore": 3.75,
+  "tradScore": 11.97,
+  "scoreMargin": "+8 TRAD"
+}

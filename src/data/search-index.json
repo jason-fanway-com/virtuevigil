@@ -204,6 +204,18 @@
     "poster": "/images/posters/bridge-of-spies-2015.jpg"
   },
   {
+    "slug": "happy-gilmore-1996",
+    "title": "Happy Gilmore",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Sports Comedy",
+    "year": 1996,
+    "type": "film",
+    "wokeScore": 3.7,
+    "tradScore": 17.15,
+    "poster": "/images/posters/happy-gilmore-1996.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",

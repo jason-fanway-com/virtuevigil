@@ -1,0 +1,300 @@
+{
+  "id": "scream-7",
+  "slug": "scream-7",
+  "title": "Scream 7",
+  "year": 2026,
+  "type": "film",
+  "platform": "Theatrical",
+  "genre": "Horror/Slasher",
+  "date": "2026-02-28",
+  "author": "VirtueVigil Editorial Team",
+  "readTime": "11 min",
+  "poster": "/images/posters/scream-7.jpg",
+  "verdict": "TRADITIONAL LEAN",
+  "wokeScore": 12.46,
+  "tradScore": 18.62,
+  "authIndex": 62,
+  "scoreMargin": "+6 TRAD",
+  "preRelease": false,
+  "wokeTrap": {
+    "present": false,
+    "degree": null,
+    "explanation": "Scream 7 is not a woke trap. The film wears its meta-commentary on its sleeve from the first scene. Conservative viewers who have watched any Scream sequel know what they are getting: self-aware slasher with genre deconstruction baked in. There is no delayed ideological pivot. The progressive elements that exist are mild and embedded in the franchise DNA rather than injected for this installment. The motherhood and family defense themes are presented earnestly. If anything, the behind-the-scenes controversy creates a perception of wokeness that the actual film does not deliver."
+  },
+  "woke_trap_assessment": {
+    "is_trap": false,
+    "explanation": "NOT A WOKE TRAP. The discourse around Scream 7 is far more politically charged than the film itself. Melissa Barrera was fired by Spyglass Media in November 2023 after sharing pro-Palestine social media posts that the studio deemed antisemitic. Jenna Ortega then exited, later confirming it was not scheduling but solidarity with Barrera and dissatisfaction with the production chaos. This triggered Boycott Scream 7 trending on social media and pro-Palestine protests at the premiere. None of this is in the movie. The actual film is a straightforward slasher about a mother protecting her daughter from a new Ghostface. Its progressive elements are legacy franchise features (queer-coded Mindy, meta self-awareness) rather than new insertions. Conservative audiences expecting a woke lecture will find a surprisingly traditional family-under-siege horror film with some genre-typical meta seasoning. The real story here is that a major studio fired a lead actress for political speech, hired back the original star after a salary dispute, and delivered a film that critics hate (47% RT) but audiences are enjoying (74% audience score) to the tune of a franchise-record $59M opening weekend. The boycott failed spectacularly."
+  },
+  "creative_team": {
+    "director": {
+      "name": "Kevin Williamson",
+      "ideology": "MIXED. Gay horror auteur whose genre work runs on conservative moral logic while his TV work trends culturally liberal",
+      "profile": "Kevin Williamson created the Scream franchise with the 1996 original, which he wrote for Wes Craven to direct. He went on to write Scream 2 (1997) and Scream 4 (2011), and Scream 7 marks his directorial debut in the franchise. His broader career is a fascinating ideological split: the horror work (Scream, I Know What You Did Last Summer, The Faculty) operates on deeply conservative moral frameworks where transgression is punished and survival requires discipline and virtue. His television work (Dawson's Creek, The Vampire Diaries, Tell Me a Story) trends culturally progressive, with earnest exploration of sexuality, identity, and social dynamics. Williamson is openly gay, which gives him an unusual position in horror: he writes from inside the genre's conservative moral logic while living outside its cultural assumptions. Scream 7 is his most personal franchise entry, made possible only because Neve Campbell agreed to return and the original directors (Gillett and Bettinelli-Olpin) departed after the Barrera firing. His directorial choices here favor emotional sincerity over political messaging. The film cares about Sidney as a mother more than it cares about commentary."
+    },
+    "writer": {
+      "name": "Kevin Williamson and Guy Busick (screenplay), James Vanderbilt and Guy Busick (story)",
+      "profile": "Williamson and Busick share screenplay credit, with Vanderbilt and Busick credited for the story. Busick co-wrote Scream (2022) and Scream VI with Vanderbilt, both of which leaned harder into progressive meta-commentary than previous entries. The $500,000 rewrite after Barrera's firing meant the entire Sam Carpenter storyline was scrapped and replaced with Sidney's daughter Tatum as the new central figure. This creative tension between Williamson's traditional horror instincts and Busick's progressive sensibilities is visible in the final product. The emotional core (motherhood, family defense) reads as Williamson. The meta-commentary (AI deepfakes, toxic nostalgia, horror legacy sequel critique) reads as Busick. The killer reveal and motivations are the weakest element, suggesting the rewrite damaged the structural foundation."
+    },
+    "lead_producer": {
+      "name": "Paul Neinstein / William Sherak",
+      "company": "Spyglass Media / Project X Entertainment"
+    },
+    "top_cast": [
+      {
+        "name": "Neve Campbell",
+        "role": "Sidney Prescott Evans"
+      },
+      {
+        "name": "Courteney Cox",
+        "role": "Gale Weathers"
+      },
+      {
+        "name": "Isabel May",
+        "role": "Tatum Evans"
+      },
+      {
+        "name": "Jasmin Savoy Brown",
+        "role": "Mindy Meeks-Martin"
+      },
+      {
+        "name": "Mason Gooding",
+        "role": "Chad Meeks-Martin"
+      },
+      {
+        "name": "Joel McHale",
+        "role": "Mark Evans"
+      },
+      {
+        "name": "Anna Camp",
+        "role": "Jessica (Ghostface)"
+      },
+      {
+        "name": "Mckenna Grace",
+        "role": "Hannah"
+      },
+      {
+        "name": "Ethan Embry",
+        "role": "Marco (Ghostface)"
+      },
+      {
+        "name": "Matthew Lillard",
+        "role": "Stu Macher (AI deepfake)"
+      },
+      {
+        "name": "Jimmy Tatro",
+        "role": "Scott"
+      },
+      {
+        "name": "Michelle Randolph",
+        "role": "Madison"
+      },
+      {
+        "name": "Sam Rechner",
+        "role": "Ben"
+      },
+      {
+        "name": "Celeste O'Connor",
+        "role": "Chloe"
+      },
+      {
+        "name": "Asa Germann",
+        "role": "Lucas"
+      },
+      {
+        "name": "David Arquette",
+        "role": "Dewey Riley (AI deepfake)"
+      },
+      {
+        "name": "Scott Foley",
+        "role": "Roman Bridger (AI deepfake)"
+      },
+      {
+        "name": "Laurie Metcalf",
+        "role": "Nancy Loomis (AI deepfake)"
+      },
+      {
+        "name": "Mark Consuelos",
+        "role": "Sheriff"
+      },
+      {
+        "name": "Tim Simons",
+        "role": "Supporting"
+      }
+    ],
+    "prediction": {
+      "verdict": "TRADITIONAL LEAN",
+      "confidence": "high"
+    }
+  },
+  "fidelity_casting": {
+    "score": "FAITHFUL",
+    "rating": 0,
+    "summary": "Scream 7 respects franchise continuity completely. All returning legacy characters are played by their original actors. New characters extend the canon without contradicting it. No race-swapping or gender-swapping of established roles. Sidney's daughter Tatum is a new character and is cast age-appropriately. The deepfake cameos (David Arquette, Matthew Lillard, Scott Foley, Laurie Metcalf) use the original actors, which is a clever narrative device that also honors casting fidelity.",
+    "detailed_analysis": "This is the seventh film in a franchise established in 1996. Neve Campbell returns as Sidney Prescott after a salary dispute kept her out of Scream VI. Courteney Cox returns as Gale Weathers. Jasmin Savoy Brown and Mason Gooding reprise their roles from the 2022 and 2023 entries. The deepfake twist allows David Arquette, Matthew Lillard, Scott Foley, and Laurie Metcalf to appear as their original characters without requiring implausible survival retcons. Joel McHale as Sidney's husband Mark Evans is a new character. Isabel May as Tatum Evans is a new character. No established character has been recast, race-swapped, or gender-swapped. The franchise continuity is fully respected."
+  },
+  "summary": {
+    "overall": "Kevin Williamson finally gets to direct the franchise he created three decades ago, and the result is a film that knows exactly what it wants to be emotionally but cannot figure out how to get there structurally. Scream 7 opens this weekend to a franchise-record $59 million, making it the number one movie in America despite a 47% Rotten Tomatoes critics score and a boycott campaign that was trending on social media for months. The gap between the cultural conversation around this film and the actual content of the film is wider than anything in the franchise's history.\n\nThe plot: Sidney Prescott (Neve Campbell) has built a quiet life in the small town of Pine Grove with her husband Mark (Joel McHale) and teenage daughter Tatum (Isabel May, named after Sidney's murdered best friend from the original). When a new Ghostface killer emerges claiming to be Stu Macher, the original killer Sidney put down with a television set to the head in 1996, her carefully constructed peace is shattered. Tatum becomes the primary target. The opening sequence is the film's best work: a couple (Jimmy Tatro and Michelle Randolph) has booked a stay at the Macher House, now converted into an Airbnb-style true crime experience. It is gruesome, funny, and meta in exactly the way Scream should be. Tatro takes a knife to the head. Randolph is burned alive. The tone is set.\n\nFrom there, the film shifts to Pine Grove and slows down considerably. Williamson clearly wants to build the mother-daughter relationship between Sidney and Tatum before the bloodbath begins, and these scenes work. Campbell has never been better in this role. She plays Sidney as a woman who has survived so much violence that she cannot stop scanning for threats, even in her own home. When Tatum's boyfriend Ben (Sam Rechner) climbs through her bedroom window, Sidney's reaction is not parental annoyance but genuine physiological terror. When Tatum borrows a blazer that Sidney happened to be wearing the night Billy Loomis held a gun to her head, Campbell plays the recognition with a physical flinch that says more than dialogue could. This is a performance built on three decades of character history, and it shows.\n\nThe kills are brutal. Mckenna Grace's Hannah is slammed into a wall on a theater harness and eviscerated, her intestines spilling onto the stage. Celeste O'Connor's Chloe is slid across a bar into shattered glass, a shard puncturing her throat. Asa Germann's Lucas has his head impaled on a beer tap, with beer flowing from his mouth. Sam Rechner's Ben is gutted in front of Tatum on the street. The body count hits ten, tying Scream 2 and Scream 3. Williamson is not shy about the violence, and the practical effects work is some of the best the franchise has produced.\n\nThe problems begin with the Ghostface reveal, which critics have rightly identified as the weakest in the franchise. Three killers: Jessica (Anna Camp), Sidney's seemingly friendly neighbor who was inspired by Sidney's memoir to murder her abusive husband and then became obsessively fixated on Sidney as a symbol; Marco (Ethan Embry), a psychiatric orderly and former Google employee who built the AI deepfake of Stu Macher; and Karl Gibbs (Mark Consuelos), a Stab-obsessed institution patient who is dispatched early. Jessica's motivation has potential but is underdeveloped. Marco's motivation is barely addressed. The AI deepfake conceit, where Marco uses his tech skills to create convincing video of Stu, then cycles through deepfakes of previous Ghostface killers (Laurie Metcalf's Nancy Loomis, Scott Foley's Roman Bridger, David Arquette's Dewey Riley), is the film's most ambitious idea and its most divisive. It works as meta-commentary on nostalgia culture and the AI-driven resurrection of the dead. It does not work as a satisfying mystery resolution.\n\nThe film's meta-commentary on AI and toxic nostalgia is timely but shallow. Mindy (Jasmin Savoy Brown) delivers the obligatory rules monologue, this time about how legacy sequels keep resurrecting what should stay dead. There is a scene where the Stu deepfake interacts with Gale Weathers that multiple critics have interpreted as a sly dig at Spyglass for firing Melissa Barrera. If intentional, it is the kind of self-aware provocation the franchise does well. If not, it is an extraordinary coincidence.\n\nThe Barrera situation is the elephant in every room this film walks through. Melissa Barrera was fired from Scream 7 in November 2023 after sharing pro-Palestine social media posts that Spyglass Media deemed antisemitic. Jenna Ortega, who played Barrera's on-screen sister Tara, initially cited scheduling conflicts with Netflix's Wednesday but later confirmed to The Cut that she left because of the Barrera situation and the production falling apart. The original directors Tyler Gillett and Matt Bettinelli-Olpin also departed. The entire Sam and Tara Carpenter storyline from Scream (2022) and Scream VI was abandoned, requiring a $500,000 rewrite that pivoted the story back to Sidney. Neve Campbell, who had publicly criticized her lowball salary offer for Scream VI, was brought back with significantly improved terms.\n\nNone of this backstage chaos is visible in the final product in any direct way, but its effects are everywhere. The film feels like two movies awkwardly stitched together: a genuine, emotionally grounded Sidney Prescott story (Williamson's vision) bolted onto a convoluted triple-killer mystery with an AI gimmick (the rewrite scaffolding). The seams show. The pacing sags in the middle. Characters who should matter, like Mark Consuelos's sheriff, feel like afterthoughts. Chad and Mindy show up halfway through and inject energy, but they are not given enough to do.\n\nFor the VirtueVigil audience, the ideological read is straightforward. Scream 7 is a surprisingly traditional film wrapped in the franchise's standard meta-progressive packaging. The emotional engine is a mother defending her daughter. The nuclear family is presented as worth fighting for. Sidney's husband Mark is supportive and competent without being emasculated. The killers' motivation is explicitly about twisted fandom and obsession, not systemic critique. The meta-commentary on AI and nostalgia is culturally relevant but not politically pointed. Mindy is queer-coded as always, but this is legacy franchise DNA, not new insertion. The biggest progressive element is arguably the film's implicit commentary on itself: a franchise that fired a Latina actress for political speech and brought back the white original lead, then made a movie about how nostalgia for the past can be weaponized. Whether that irony is intentional or accidental is the most interesting question Scream 7 raises, and it is a question the film has no interest in answering.\n\nThe audience clearly does not care about any of this. $59 million opening weekend. 74% audience score. The boycott was a cultural event that failed as an economic one. Scream 7 is the number one movie in America because enough people wanted to see Sidney Prescott come back and stab Ghostface in the face. On that specific promise, the film delivers.",
+    "adultInsight": "Conservative adults will find more to like here than in the previous two Scream entries. The core story is a mother fighting to protect her daughter from a serial killer. Sidney and Mark's marriage is presented as a genuine partnership. The nuclear family is the thing worth defending. The meta-commentary is present but lighter than Scream VI. Mindy's queer identity is background texture, not a sermon. The biggest potential irritant is the AI deepfake plot device, which some viewers will find gimmicky rather than clever. The violence is extreme and sustained. The killer reveal is weak. But the emotional sincerity of Campbell's performance anchors the whole thing. If you can tolerate franchise horror and do not need your entertainment to be explicitly conservative, Scream 7 will not offend you. It will just disappoint you slightly with its third act.",
+    "parentalGuidance": "Rated R. Recommended minimum age: 16, ideally 17+. The violence in Scream 7 is graphic, sustained, and creative in ways designed to shock. Specific content parents should know about: a character is burned alive in the opening scene; a teenage girl is eviscerated on stage with her intestines visible; a character has his head impaled on a beer tap; a character is gutted in the street; multiple characters are stabbed repeatedly; one killer is shot approximately fifteen times in the head. There is mild sexual content (a boyfriend climbing through a bedroom window, some flirtation). Language is strong throughout. The film's themes of parental trauma, obsessive fandom, and AI-generated deception of the dead are worth discussing with mature teens who can handle the violence. Younger viewers should not see this film under any circumstances."
+  },
+  "tropeAudit": [
+    {
+      "id": "WOKE-012",
+      "name": "Meta Self-Awareness as Progressive Commentary",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "The Scream franchise has been meta since 1996, but the recent entries have sharpened the self-referential commentary into something more explicitly progressive. Mindy's rules monologue in Scream 7 addresses legacy sequels, nostalgia exploitation, and the impossibility of originality in franchise horror. This is the franchise's DNA rather than a new injection, but it carries a progressive cultural critique about who stories belong to and who gets to tell them."
+    },
+    {
+      "id": "WOKE-006",
+      "name": "Queer Identity as Background Texture",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.7,
+      "description": "Mindy Meeks-Martin (Jasmin Savoy Brown) has been openly queer since Scream (2022). In Scream 7, her identity is present but not foregrounded as a plot element. She is defined by her analytical intelligence and media savvy rather than her sexuality. This is representation that has been normalized across two previous films."
+    },
+    {
+      "id": "WOKE-050",
+      "name": "Implicit Critique of Corporate Power",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Low",
+      "weightedScore": 1.0,
+      "description": "The film's meta-commentary on nostalgia exploitation and the AI resurrection of dead franchise characters can be read as a critique of corporate Hollywood's willingness to mine intellectual property at the expense of original storytelling. The Macher House Airbnb in the opening scene literalizes the commodification of trauma. Whether this is progressive commentary or just good meta-horror is debatable."
+    },
+    {
+      "id": "WOKE-002",
+      "name": "Diverse Ensemble Cast",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.7,
+      "description": "The cast includes Jasmin Savoy Brown and Mason Gooding (Black), Celeste O'Connor (Black), and a generally diverse ensemble. This is consistent with the franchise's casting approach since Scream (2022) and does not feel forced or tokenized. The diversity is not narratively significant."
+    },
+    {
+      "id": "WOKE-044",
+      "name": "Female Empowerment Through Violence",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "Sidney Prescott has been a final girl archetype for thirty years, and this entry continues the tradition of her fighting back with lethal force. Tatum is being groomed as her successor. Gale Weathers literally runs over a Ghostface killer with a car. The film presents women as competent combatants, but this is deeply organic to the slasher genre rather than an ideological insertion. The franchise invented this trope's modern form."
+    },
+    {
+      "id": "WOKE-060",
+      "name": "AI and Technology as Social Commentary",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": "Moderate",
+      "centrality": "High",
+      "weightedScore": 5.4,
+      "description": "The film's central plot device is an AI deepfake of Stu Macher used to terrorize Sidney. This expands into deepfakes of multiple dead characters. The film explicitly frames AI as dangerous, deceptive, and capable of weaponizing the dead against the living. While this is timely social commentary rather than strictly progressive ideology, it aligns with progressive anxieties about technology, consent, and the ethics of resurrection. It is the most ideologically loaded element in the film."
+    },
+    {
+      "id": "WOKE-070",
+      "name": "Jessica's Feminist Origin Story",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "Moderate",
+      "centrality": "Low",
+      "weightedScore": 0.5,
+      "description": "Ghostface killer Jessica's backstory involves murdering her abusive husband after being inspired by Sidney's survivor memoir. While the film does not endorse her actions, the origin story frames female empowerment through violence as a corrupted but understandable impulse. This is a trace-level feminist element that is undercut by Jessica being the villain."
+    },
+    {
+      "id": "TRAD-045",
+      "name": "Maternal Protection as Central Theme",
+      "category": "Traditional",
+      "severity": 5,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 6.3,
+      "description": "The entire film is built on Sidney Prescott defending her teenage daughter from a serial killer. This is the most traditionally coded premise in the franchise's history. Sidney's maternal instinct is presented as her greatest strength, not a limitation. Her trauma is reframed not as personal suffering but as preparation for protecting the next generation. The motherhood theme is the emotional spine of the film and is treated with complete sincerity."
+    },
+    {
+      "id": "TRAD-044",
+      "name": "Nuclear Family Under Siege",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 5.04,
+      "description": "Sidney, Mark, and Tatum form a nuclear family unit that is explicitly the thing worth defending. Mark (Joel McHale) is a competent, supportive husband who is wounded but survives. The family home is invaded. The family fights back together. The film never questions the value of the family structure. This is a home invasion horror film at its core, and the home is a traditional nuclear family."
+    },
+    {
+      "id": "TRAD-041",
+      "name": "Perseverance Through Decades of Trauma",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.8,
+      "description": "Sidney Prescott has survived seven films worth of serial killers. The film frames this not as victimhood but as resilience. She has built a life, raised a daughter, maintained a marriage, and refuses to be defined by her trauma. When violence finds her again, she does not crumble. She fights. This is a deeply conservative view of adversity: it does not break you, it forges you."
+    },
+    {
+      "id": "TRAD-026",
+      "name": "Passing the Torch to the Next Generation",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "The film's final beat is Sidney promising to teach Tatum how to defend herself. Gale hands Mindy the microphone for a live broadcast. The new core three (Tatum, Mindy, Chad) are positioned as successors to the original trio (Sidney, Gale, Dewey). This generational handoff is presented as natural and earned rather than imposed. It respects the elders while empowering the young."
+    },
+    {
+      "id": "TRAD-033",
+      "name": "Consequences for Transgression",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "The Scream franchise has always operated on slasher moral logic: transgression invites punishment. The opening couple dies partly because they have commodified real trauma into a vacation experience. The killers all die. Characters who are careless about safety are more vulnerable. While Scream self-consciously deconstructs these rules, it also follows them. The moral framework is conservative even when the commentary is not."
+    },
+    {
+      "id": "TRAD-055",
+      "name": "Heroic Competence of Legacy Characters",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.7,
+      "description": "Gale Weathers runs over a Ghostface killer with her car. Sidney dispatches multiple threats with lethal efficiency. These are experienced warriors, not helpless victims. The film treats earned competence with respect. The legacy characters are not sidelined or undermined to elevate the younger cast."
+    }
+  ],
+  "celebrity_mentions": [
+    {
+      "name": "Melissa Barrera",
+      "context": "Fired from Scream 7 by Spyglass Media in November 2023 after sharing pro-Palestine social media posts. Her character Sam Carpenter from Scream (2022) and Scream VI was written out entirely, requiring a $500,000 script rewrite. Barrera responded to pro-Palestine protesters at the Scream 7 premiere. Her firing is the central real-world controversy surrounding this film."
+    },
+    {
+      "name": "Jenna Ortega",
+      "context": "Initially cited scheduling conflicts with Wednesday Season 2 for her departure from Scream 7. Later confirmed in a May 2025 interview with The Cut that she left because of the Melissa Barrera firing and the production chaos, not scheduling. Her character Tara Carpenter was also written out of the film."
+    },
+    {
+      "name": "Neve Campbell",
+      "context": "Returned to the franchise after publicly criticizing her salary offer for Scream VI, which she declined. Given significantly improved terms for Scream 7. Her return as Sidney Prescott is the film's strongest asset and the reason the film works emotionally."
+    },
+    {
+      "name": "Matthew Lillard",
+      "context": "Returns as Stu Macher via AI deepfake technology within the film's narrative. Does not physically appear on set in the traditional sense. The long-running fan theory that Stu survived is addressed and left deliberately ambiguous."
+    },
+    {
+      "name": "Kevin Williamson",
+      "context": "Created the Scream franchise with the 1996 original. Makes his directorial debut in the franchise with Scream 7 after the departure of previous directors. Responded to pro-Palestine protesters at the premiere by saying everyone has a right to protest."
+    }
+  ],
+  "seo": {
+    "titleTag": "Is Scream 7 Woke? Melissa Barrera Controversy & VVWS Review | VirtueVigil",
+    "metaDescription": "VirtueVigil scores Scream 7 (2026) with full VVWS trope analysis. $59M franchise-best opening despite boycott. Melissa Barrera fired, Jenna Ortega quit, Neve Campbell returned. Traditional Lean verdict with +6 TRAD margin. Full woke trap assessment, creative team profiles, and parental guidance.",
+    "keywords": "is scream 7 woke, scream 7 review, scream 7 melissa barrera fired, scream 7 boycott, scream 7 jenna ortega, scream 7 conservative review, scream 7 woke score, scream 7 neve campbell, scream 7 ai ghostface, virtuevigil scream 7, scream 7 opening weekend, scream 7 box office, scream 7 rotten tomatoes, scream 7 culture war, scream 7 pro palestine controversy"
+  },
+  "spoiler_alert": true
+}

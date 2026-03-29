@@ -1,0 +1,211 @@
+{
+  "id": "amsterdam-2022",
+  "slug": "amsterdam-2022",
+  "title": "Amsterdam",
+  "year": 2022,
+  "type": "film",
+  "platform": "Theatrical / Streaming (Disney+)",
+  "genre": "Mystery, Comedy, Thriller",
+  "date": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "author": "VirtueVigil Editorial Team",
+  "readTime": "10 min",
+  "poster": "/images/posters/amsterdam-2022.jpg",
+  "verdict": "MIXED",
+  "wokeScore": 10.49,
+  "tradScore": 9.24,
+  "authIndex": 61,
+  "scoreMargin": "-1 WOKE",
+  "preRelease": false,
+  "wokeTrap": false,
+  "woke_trap_assessment": {
+    "is_trap": false,
+    "explanation": "Margin is negative but content is not hidden. Amsterdam's anti-fascist political premise is front and center from the opening frames. The film is based on the real 1933 Business Plot and its opposition to American fascism is the stated subject. Conservative viewers will know exactly what they are watching within the first act. No trap."
+  },
+  "externalScores": {
+    "rottenTomatoesCritic": 33,
+    "rottenTomatoesAudience": 62,
+    "imdb": 6.2,
+    "metacritic": 41,
+    "oscarNominations": 0,
+    "budget": "$80M",
+    "boxOffice": "$31.2M worldwide (box office bomb)"
+  },
+  "creative_team": {
+    "director": {
+      "name": "David O. Russell",
+      "ideology": "LEFT-LEANING. Russell is an Academy Award nominated filmmaker (American Hustle, Silver Linings Playbook, The Fighter) with a long track record of humanist, character-driven films. Amsterdam is his most explicitly political film and his most troubled production. His personal history is complicated by harassment allegations from multiple collaborators, a fact the film's critics noted with some irony given its anti-fascist, pro-decency themes.",
+      "profile": "David O. Russell is one of the most decorated American directors of the 21st century, with six Academy Award nominations across his career. Amsterdam represents a significant departure from his signature style: where The Fighter and Silver Linings Playbook were intimate character studies, Amsterdam is an ambitious political satire with a cast of nearly twenty notable performers and a plot drawn from real historical events. The result is, by critical consensus, a failure of execution rather than ambition. Russell's instinct to stuff every frame with incident and every scene with overlapping dialogue overwhelms the story. The film grossed $31M against an $80M budget, making it one of the largest box-office bombs of 2022. Russell has not directed another film since."
+    },
+    "writer": {
+      "name": "David O. Russell",
+      "profile": "Russell wrote the original screenplay. The story is loosely based on the real Business Plot of 1933, in which a group of wealthy American industrialists allegedly approached retired Marine General Smedley Butler and asked him to lead a coup against FDR and install a fascist government. Butler reported the plot to Congress. The film takes this kernel and builds an ensemble mystery-comedy around it. The screenplay's ambitions exceed its execution: there are too many characters, too many tonal registers, and too many subplots for any one of them to land with full force."
+    },
+    "lead_producer": {
+      "name": "Arnon Milchan, Matthew Budman, Anthony Katagas, David O. Russell, Christian Bale",
+      "company": "Regency Enterprises / 20th Century Studios"
+    },
+    "composer": {
+      "name": "Daniel Pemberton",
+      "profile": "British film composer with a strong track record in period films (Spider-Man: Into the Spider-Verse, All the Money in the World, King Arthur: Legend of the Sword). His Amsterdam score is appropriately jazzy and propulsive for the 1930s New York setting, one of the film's few consistent pleasures."
+    },
+    "top_cast": [
+      {
+        "name": "Christian Bale",
+        "role": "Burt Berendsen",
+        "notes": "A character actor disguised as a movie star, and Amsterdam asks him to do both simultaneously. Burt is a WWI veteran doctor with a glass eye and a complicated marriage who is dragged into a conspiracy he barely understands. Bale brings his usual total commitment. Unfortunately the script does not give him enough room to build the character we need."
+      },
+      {
+        "name": "John David Washington",
+        "role": "Harold Woodman",
+        "notes": "Harold is the film's most quietly compelling character: a Black lawyer in 1930s New York who navigates racism with pragmatic dignity. Washington underplays effectively but the script repeatedly sidelines him to make room for the ensemble."
+      },
+      {
+        "name": "Margot Robbie",
+        "role": "Valerie Voze",
+        "notes": "Robbie is charming in a role that does not give her much to do. Valerie functions primarily as the mystery the two men are trying to solve. She is a nurse, a free spirit, and an heiress, and none of those identities quite cohere."
+      },
+      {
+        "name": "Robert De Niro",
+        "role": "General Gil Dillenbeck",
+        "notes": "Loosely based on General Smedley Butler, the real-life Marine who blew the whistle on the actual Business Plot. De Niro plays him with gruff authority. His climactic speech about decency and democracy is the film's best scene."
+      },
+      {
+        "name": "Rami Malek and Anya Taylor-Joy",
+        "role": "Tom and Libby Voze",
+        "notes": "Malek and Taylor-Joy play the film's primary villains with a gleeful eccentricity that briefly elevates the movie every time they appear. They are clearly having the most fun on set."
+      }
+    ],
+    "prediction": {
+      "verdict": "MIXED - confirmed",
+      "confidence": "high"
+    }
+  },
+  "fidelityCasting": {
+    "sourceType": "Historical Events (loosely)",
+    "sourceTitle": "The Business Plot (1933)",
+    "assessment": "Amsterdam is a fictional story inspired by the real Business Plot of 1933. The characters are invented, not adaptations of historical figures, with the partial exception of General Dillenbeck (based on Smedley Butler). The interracial friendship between Burt and Harold and the central mystery plot are original creations. There is no casting fidelity concern for the fictional characters. The decision to cast John David Washington as Harold adds a racial dimension to the 1930s setting that the script uses to address Jim Crow realities; this is a creative choice rather than an adaptation issue."
+  },
+  "parentalGuidance": {
+    "mpaaRating": "R",
+    "mpaaDescriptors": "Brief violence and bloody images, and some sexuality",
+    "recommendedAge": "15+",
+    "contentWarnings": [
+      "Brief wartime violence and battlefield injury imagery",
+      "A dead body is featured prominently in early scenes",
+      "Brief sexual content and period-era references to sex work",
+      "Political violence and assassination themes",
+      "Depictions of racial discrimination in 1930s America",
+      "References to forced sterilization programs"
+    ],
+    "parentalNotes": "Amsterdam is rated R but its content is relatively mild for the rating. The primary concern for conservative families is the film's overt anti-fascist political messaging and its depictions of 1930s racial discrimination. Older teens may find the historical thriller elements engaging. The film is dense with plot and character and may lose younger viewers."
+  },
+  "summary": {
+    "overall": "Amsterdam is a film about friendship, decency, and the courage it takes to defend democracy against people with money and no conscience. It is also, unfortunately, a mess.\n\nDavid O. Russell assembled one of the most impressive casts of 2022. Christian Bale, Margot Robbie, John David Washington, Robert De Niro, Rami Malek, Anya Taylor-Joy, Taylor Swift, Chris Rock, Michael Shannon, Timothy Olyphant, Zoe Saldana, Mike Myers. He gave them a story based on a real 1933 conspiracy in which American industrialists allegedly tried to recruit a retired general to lead a fascist coup against FDR. The premise is genuinely fascinating. The execution is not.\n\nThe film opens in Amsterdam itself, with three young people (Burt, Harold, and Valerie) recovering from WWI wounds and living freely and happily in an interwar European city. Their friendship is warm and specific, and the Amsterdam sections are the film at its best. Then we cut to 1933 New York, a murder mystery, a conspiracy, and approximately fifteen subplots introduced over two hours that never quite snap together.\n\nRussell's signature style, the overlapping dialogue, the manic energy, the refusal to let a scene breathe, works brilliantly in claustrophobic settings (The Fighter's family scenes, Silver Linings Playbook's dinner table fights). It does not work in an ensemble mystery-thriller where you need the audience to track plot logic. By the midpoint, I lost confidence that the film was going to pull its threads together. It does not, quite.\n\nThere is real content here for conservative viewers to engage with, though not in the way Russell likely intended. The film's patriotism is genuine. General Dillenbeck's speech about the nature of decency and the duty to report evil rather than accommodate it is one of the better pieces of writing in any 2022 film. The friendship between Burt and Harold, a white doctor and a Black lawyer in 1930s New York, is built on loyalty and mutual respect rather than progressive performance. These men are friends because they saved each other's lives in a French trench. That kind of bond transcends the cultural politics of any given moment.\n\nBut Amsterdam is also explicitly anti-fascist in a way that carries contemporary resonance. Russell is clearly making a film about more than 1933. The industrialists who want to install a puppet dictator are not subtle allegories. The film wants you to draw the line to the present. That is a choice, and it is a left-leaning one.\n\nThe bottom line: Amsterdam is a box-office bomb for reasons that have nothing to do with its politics. It is structurally undisciplined, tonally inconsistent, and overloaded with characters. The friendships at its core are worth saving from the wreckage. The political messaging is clear and center-left. The score lands exactly where the math puts it: MIXED.",
+    "oneLiner": "A fascinating premise about real 1933 fascist conspirators, undermined by David O. Russell's inability to focus. The friendship at its core is genuinely moving. The politics are clearly left-leaning. Worth watching for the cast alone.",
+    "verdict": "Amsterdam has the bones of a great film buried under too many characters and too much plot. Its anti-fascist messaging is explicit but its celebration of male loyalty, patriotism, and moral courage pulls in the opposite direction. The scores reflect the genuine split.",
+    "adultInsight": "Conservative adults should approach Amsterdam with calibrated expectations. The film is flawed but not contemptible. Its celebration of the three-way friendship between Burt, Harold, and Valerie is built on loyalty, sacrifice, and shared suffering, values that transcend the film's political framing. Robert De Niro's scene as General Dillenbeck describing why decent people must not look away from evil is worth the price of admission. The anti-fascist messaging is real and intentional. But unlike films that smuggle ideology into entertainment, Amsterdam announces its politics openly, which at least respects the audience.",
+    "parentalGuidance": "Rated R. Suitable for adults and older teens. Historical thriller content, brief violence, 1930s racial discrimination depicted. The political messaging is anti-fascist and moderately left-leaning."
+  },
+  "tropeAudit": [
+    {
+      "id": "WOKE-201",
+      "name": "Anti-Fascist / Anti-Nationalist Political Messaging",
+      "category": "Woke",
+      "severity": 4,
+      "authenticity": 0.7,
+      "centrality": 1.8,
+      "weightedScore": 5.04,
+      "description": "Amsterdam is explicitly and unapologetically anti-fascist. The Business Plot provides historical cover, but Russell is clearly making a film about contemporary resonance. The industrialist villains who want to install a puppet leader resonate beyond 1933. The film's opening and closing narration make the contemporary application explicit. This is the film's political spine, not a subtheme."
+    },
+    {
+      "id": "WOKE-202",
+      "name": "Interracial Friendship as Moral Center / 1930s Race Politics",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 1.4,
+      "description": "The friendship between Burt (white) and Harold (Black) in 1930s America is depicted with warmth and specificity. Harold's daily navigation of Jim Crow humiliation is shown without excessive dramatization. The film is not primarily about race, but it does not pretend racial inequality did not exist. Harold is the most dignified character in the film. The casting of John David Washington in the role adds additional contemporary resonance."
+    },
+    {
+      "id": "WOKE-203",
+      "name": "Anti-Corporate / Anti-Industrial Power Structure",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": 1.0,
+      "centrality": 1.0,
+      "weightedScore": 3.0,
+      "description": "The villains are explicitly wealthy industrialists who view democracy as an obstacle to profit. The film depicts a cabal of businessmen willing to overthrow the American government for economic advantage. This is historically based (the real Business Plot), but Russell frames it with obvious contemporary intent. The critique of concentrated corporate power is sustained and intentional."
+    },
+    {
+      "id": "WOKE-204",
+      "name": "Eugenics / Forced Sterilization Depicted as Elite Villainy",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 0.5,
+      "weightedScore": 1.05,
+      "description": "The conspiracy includes a forced sterilization clinic operated by the cabal. This is historically accurate (the eugenics movement was active and influential in 1930s America) but the film uses it to paint the villains in maximally sinister terms. The connection between fascism, corporate power, and eugenics is made explicit."
+    },
+    {
+      "id": "TRAD-201",
+      "name": "Patriotism / Defending American Democracy",
+      "category": "Trad",
+      "severity": 4,
+      "authenticity": 0.7,
+      "centrality": 1.8,
+      "weightedScore": 5.04,
+      "description": "The film's central act is an American general choosing to defend the Republic against a coup attempt by powerful men who believe themselves above the law. Dillenbeck's speech about what America is and what it owes its citizens is genuinely moving patriotism, not the performative kind. The film treats democratic institutions as worth protecting and its heroes as people willing to risk their lives to protect them."
+    },
+    {
+      "id": "TRAD-202",
+      "name": "Veterans / Military Brotherhood",
+      "category": "Trad",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 2.1,
+      "description": "The film's entire moral architecture is built on the WWI bond between Burt and Harold. They are brothers because they bled together in France. That bond is treated as sacred and real, not as a progressive multicultural statement. The film respects military service without glorifying war. Burt's medical practice treating veterans is depicted with quiet reverence."
+    },
+    {
+      "id": "TRAD-203",
+      "name": "Male Loyalty and Moral Courage",
+      "category": "Trad",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 2.1,
+      "description": "The two male leads demonstrate the kind of loyalty that the film treats as morally foundational. Harold stays at Burt's side despite every rational reason to walk away. Burt risks everything to help a woman he barely knows because Harold asks him to. Dillenbeck refuses a bribe and delivers the truth. Male loyalty, kept promises, and physical courage in service of something larger are all treated as unambiguous virtues."
+    }
+  ],
+  "detailed_analysis": "Amsterdam represents a test case for VirtueVigil's methodology. A film can be explicitly anti-fascist, feature a left-leaning director making a clear contemporary political statement, and still score MIXED when its trad elements are genuinely strong.\n\nThe WWI brotherhood of Burt and Harold is the real heart of the film. Their friendship is not a diversity exercise. It is built on shared suffering, kept promises, and years of working alongside each other. The film understands that this kind of bond is worth more than ideology.\n\nRussell is a flawed filmmaker making an ambitious film that does not quite work. His contempt for fascism is clear. His admiration for ordinary decency is also clear. Both are present in equal measure, and the MIXED verdict reflects that accurately.\n\nThe box-office failure has nothing to do with politics. It failed because it is structurally chaotic and too long. The Friends of Amsterdam deserve a better film than they got.",
+  "comparison_films": [
+    {
+      "title": "Knives Out (2019)",
+      "reason": "Similar ensemble mystery structure; also politically left-leaning; better executed"
+    },
+    {
+      "title": "The Big Short (2015)",
+      "reason": "Same producer (Adam McKay) with similar anti-elite messaging; far more effective"
+    },
+    {
+      "title": "Three Days of the Condor (1975)",
+      "reason": "The kind of paranoid political thriller Amsterdam aspired to be"
+    }
+  ],
+  "seoTitle": "Amsterdam (2022) Review: Woke or Conservative? | VirtueVigil VVWS Score",
+  "seoDescription": "VirtueVigil's full VVWS analysis of Amsterdam (2022). Christian Bale, Margot Robbie, and Robert De Niro in David O. Russell's anti-fascist thriller. Score: -1 WOKE. Verdict: MIXED.",
+  "seoKeywords": [
+    "Amsterdam 2022 review",
+    "Amsterdam 2022 woke",
+    "Amsterdam David O Russell review",
+    "Amsterdam VirtueVigil",
+    "is Amsterdam woke",
+    "Amsterdam 2022 conservative review",
+    "Christian Bale Margot Robbie Amsterdam",
+    "Amsterdam Business Plot 1933",
+    "Amsterdam VVWS score",
+    "Amsterdam 2022 political message"
+  ]
+}

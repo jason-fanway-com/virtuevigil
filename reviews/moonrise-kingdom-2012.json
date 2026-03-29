@@ -1,0 +1,210 @@
+{
+  "id": "moonrise-kingdom-2012",
+  "slug": "moonrise-kingdom-2012",
+  "title": "Moonrise Kingdom",
+  "year": 2012,
+  "type": "film",
+  "platform": "Theatrical",
+  "genre": "Romantic Comedy Drama",
+  "date": "2026-03-29",
+  "author": "Debra Ducane",
+  "readTime": "10 min",
+  "poster": "/images/posters/moonrise-kingdom-2012.jpg",
+  "verdict": "MIXED",
+  "wokeScore": 5.88,
+  "tradScore": 7.84,
+  "authIndex": 87,
+  "scoreMargin": "+2 TRAD",
+  "preRelease": false,
+  "wokeTrap": false,
+  "woke_trap_assessment": {
+    "is_trap": false,
+    "explanation": "Moonrise Kingdom makes clear from its first scene that it is about two twelve-year-olds who run away together and the dysfunctional adult world they are escaping. The anti-authority elements are front and center."
+  },
+  "seoTitle": "Moonrise Kingdom (2012) Review: Wes Anderson's Romantic Film Scored for Traditional Values",
+  "seoDescription": "VirtueVigil reviews Moonrise Kingdom (2012). Wes Anderson's beloved coming-of-age romance scores MIXED. Full woke score, trope breakdown, and what conservative families need to know.",
+  "seoKeywords": [
+    "Moonrise Kingdom review",
+    "Moonrise Kingdom woke score",
+    "Moonrise Kingdom conservative review",
+    "is Moonrise Kingdom woke",
+    "Wes Anderson Moonrise Kingdom traditional values",
+    "Moonrise Kingdom VirtueVigil",
+    "Moonrise Kingdom parents guide"
+  ],
+  "summary": {
+    "overall": "Moonrise Kingdom is Wes Anderson's most sincere film, and sincerity is the quality he is most often accused of lacking. Two twelve-year-olds, Sam and Suzy, fall in love through pen-pal letters and run away together to a secret cove on their small New England island. The adults in their lives, all of them broken in various ways, chase after them.\n\nThe film is unambiguously romantic in the old sense. Sam and Suzy are not engaging in precocious sexual rebellion. They are two lonely, misunderstood children who recognized each other and chose each other. The letter-writing courtship, the careful planning of their escape, the way they speak to each other with complete seriousness, these are the behaviors of people who understand that what they have found is rare and worth protecting.\n\nFor conservatives, the film presents a genuine tension. On one hand, its central act is two children defying adult authority and running away from home. On the other hand, the film is extremely clear that the adults they are running from are dysfunctional. Suzy's parents (Bill Murray and Frances McDormand) are in a loveless marriage. Her mother is having an affair with the island's police captain (Bruce Willis). Sam is a foster child whose guardians have already called to say they cannot take him back. The adult world in Moonrise Kingdom is not a reasonable authority that children are childishly rejecting. It is a broken system that has failed these children.\n\nThe film's treatment of Sam and Suzy's romance is respectful in a way that is rare in any era. They talk to each other honestly. Sam tells Suzy she is troubled; Suzy tells Sam he is also troubled. They accept each other's faults and love each other anyway. This is not a puppy romance played for cuteness. It is a portrait of genuine emotional recognition between two people.\n\nThere is a scene where Sam and Suzy dance together on a beach in their underwear that has generated more critical handwringing than the film deserves. Anderson shoots this with the same careful distance and gentle irony he applies to everything. It is not sexualized. It is about two children being innocent together.\n\nThe adult characters are the film's most complicated element. They are all flawed: the parents whose marriage is hollow, the scout master (Edward Norton) who means well but cannot hold his troop together, the social worker (Tilda Swinton) who represents a government system that is cold and bureaucratic. The film is gentle about their failures. It understands that adults break down not from malice but from the accumulation of life's weight.\n\nThe resolution is traditional in one important way: the adults come together to rescue the children and the community is reconstituted around the children's need. Sam gets new guardians in the police captain, who steps up. The community functions. The film believes in the community, even the broken one, as the structure that protects children.\n\nWhere the film loses conservative points: the casual normalization of marital infidelity as a background fact of adult life, the anti-authority framing of the children's rebellion as heroic, and Anderson's consistent ironic detachment from the family structures he depicts. The Bishops' hollow marriage is presented with gentle affectionate melancholy rather than moral seriousness about what has been lost.\n\nMoonrise Kingdom is a film that conservatives can enjoy while being clear-eyed about its worldview. It celebrates love, loyalty, and the courage to choose someone. Its critique of adult dysfunction is occasionally more honest than comfortable. And its portrait of two children treating each other with complete seriousness is one of the most genuinely romantic things Anderson has ever put on screen.",
+    "oneLiner": "Two lonely twelve-year-olds run away together in 1965 New England in Wes Anderson's most sincere film. A gentle romance that celebrates genuine love and belonging.",
+    "verdict": "MIXED. The film's central romance celebrates genuine love, loyalty, and courageous commitment. The anti-authority framing, the normalization of adult marital failure, and Anderson's ironic detachment from traditional family structures keep the trad score from pulling away from the woke score significantly.",
+    "adultInsight": "Conservative adults who have written off Wes Anderson should approach Moonrise Kingdom with some openness. This is a film about two children recognizing each other as the people they belong with, protecting that recognition from a world that wants to separate them, and ultimately finding a community willing to accommodate them. The critique of adult dysfunction is accurate in a way that should resonate with anyone who has watched the collapse of marriage culture. The film is not celebrating the breakdown of family. It is mourning it, gently, from inside the rubble.",
+    "parentalGuidance": "Rated PG-13. Brief scene of two twelve-year-olds dancing in underwear (non-sexual, but worth parental awareness). A brief kiss. Mild language. Stylized violence in one sequence. A character is struck by lightning. References to a child's home life involving foster placement. Appropriate for 12 and up with parental engagement regarding the adult dysfunction in the background."
+  },
+  "tropeAudit": [
+    {
+      "id": "WOKE-MK-01",
+      "name": "Anti-Authority Framing of Children's Rebellion",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 1.8,
+      "weightedScore": 3.78,
+      "description": "The film's central narrative celebrates two children defying the adult world. While the adults are genuinely dysfunctional and the children are sympathetically drawn, the anti-authority framing positions institutional authority (social services, the scout system, parental authority) as the obstacle to love rather than as a legitimate framework deserving respect."
+    },
+    {
+      "id": "WOKE-MK-02",
+      "name": "Normalization of Marital Infidelity",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": 0.7,
+      "centrality": 0.5,
+      "weightedScore": 0.7,
+      "description": "Suzy's mother is having an affair with the island police captain. This is presented as a background fact of adult life, handled with melancholy rather than moral seriousness. The film does not condemn infidelity as a moral failure."
+    },
+    {
+      "id": "WOKE-MK-03",
+      "name": "Dysfunctional Family as Normal Adult State",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": 0.7,
+      "centrality": 0.5,
+      "weightedScore": 0.7,
+      "description": "The film presents adult dysfunction, broken marriages, failed parenting, and institutional inadequacy as the expected background of modern life. While this is honest, it normalizes family breakdown without the moral weight the subject deserves."
+    },
+    {
+      "id": "WOKE-MK-04",
+      "name": "Anderson's Ironic Detachment from Tradition",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 0.7,
+      "description": "Anderson's ironic framing keeps the film at emotional arm's length from the consequences of marital breakdown and parental failure. His aesthetic sensibility is more comfortable mourning dysfunction than demanding something better."
+    },
+    {
+      "id": "TRAD-MK-01",
+      "name": "Devoted Romantic Love as the Highest Good",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": 0.7,
+      "centrality": 1.8,
+      "weightedScore": 5.04,
+      "description": "Sam and Suzy's romance is sincere, committed, and treated with complete seriousness. They wrote letters. They planned. They chose each other. The film presents this level of devotion, at twelve, as more adult than the adults around them. Genuine romantic love as a guiding commitment is the film's highest value."
+    },
+    {
+      "id": "TRAD-MK-02",
+      "name": "Community Reconstitutes to Protect the Child",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 0.5,
+      "weightedScore": 1.05,
+      "description": "The film's resolution involves the community gathering to find and protect Sam and Suzy. The police captain steps up to become Sam's guardian. The system, imperfect as it is, bends toward the child's need. The film believes in community as the structure that ultimately protects those who need protection."
+    },
+    {
+      "id": "TRAD-MK-03",
+      "name": "Belonging as a Fundamental Human Need",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 0.5,
+      "weightedScore": 1.05,
+      "description": "Both Sam and Suzy are desperately lonely before they find each other. The film treats belonging, to a person, to a place, to a community, as a fundamental human need that modern adult dysfunction denies to children. The ache for belonging that drives both characters is the most emotionally honest element of the film."
+    },
+    {
+      "id": "TRAD-MK-04",
+      "name": "Loyalty to the Chosen Person",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": 0.7,
+      "centrality": 0.5,
+      "weightedScore": 0.7,
+      "description": "Sam and Suzy's commitment to each other survives every obstacle the adult world throws at it. They are separated, threatened with institutional placement, and still choose each other. Their loyalty is the film's moral center."
+    }
+  ],
+  "creative_team": {
+    "director": {
+      "name": "Wes Anderson",
+      "ideology": "CENTER-LEFT to LEFT. See Grand Budapest Hotel profile. Moonrise Kingdom is Anderson's most sentimental and least ironic film, suggesting that his affection for childhood innocence and genuine romantic love exceeds his usual ironic framing.",
+      "profile": "Moonrise Kingdom is Anderson's most warmly received film among audiences who find his other work too precious. It earned him his first Academy Award nomination for Best Original Screenplay and was shot on location in Rhode Island, giving it a grounded, textural quality his studio-built films sometimes lack."
+    },
+    "writers": {
+      "names": "Wes Anderson, Roman Coppola",
+      "profile": "Anderson and Roman Coppola wrote the original screenplay. The story draws from Anderson's affection for the specific texture of 1960s New England, its camping culture, its music, and its geography. The period setting is used to evoke a time when children could still have genuine adventures outside adult supervision."
+    },
+    "lead_producer": {
+      "name": "Wes Anderson, Scott Rudin, Jeremy Dawson",
+      "company": "Indian Paintbrush / American Empirical Pictures (Focus Features)"
+    },
+    "composer": {
+      "name": "Alexandre Desplat",
+      "profile": "Desplat scored his second Anderson collaboration. The score incorporates Benjamin Britten's 'The Young Person's Guide to the Orchestra' as a structural element, which is both formally clever and emotionally appropriate. The Britten piece is introduced in-world as a record Suzy plays, and its use throughout the film ties the children's story to the tradition of great music."
+    },
+    "top_cast": [
+      {
+        "name": "Jared Gilman",
+        "role": "Sam Shakusky"
+      },
+      {
+        "name": "Kara Hayward",
+        "role": "Suzy Bishop"
+      },
+      {
+        "name": "Bruce Willis",
+        "role": "Captain Sharp"
+      },
+      {
+        "name": "Edward Norton",
+        "role": "Scout Master Ward"
+      },
+      {
+        "name": "Bill Murray",
+        "role": "Walt Bishop"
+      },
+      {
+        "name": "Frances McDormand",
+        "role": "Laura Bishop"
+      },
+      {
+        "name": "Tilda Swinton",
+        "role": "Social Services"
+      },
+      {
+        "name": "Harvey Keitel",
+        "role": "Commander Pierce"
+      }
+    ]
+  },
+  "fidelityCasting": {
+    "sourceType": "Original Screenplay",
+    "sourceTitle": "N/A",
+    "assessment": "Original production. No source material fidelity to assess."
+  },
+  "parentalGuidance": {
+    "mpaaRating": "PG-13",
+    "mpaaDescriptors": "Sexual content and smoking",
+    "recommendedAge": "12+",
+    "contentWarnings": [
+      "Sam and Suzy dance together in their underwear on a beach (non-explicit, but worth parental awareness)",
+      "A brief kiss between twelve-year-olds with some mild sexual curiosity",
+      "Mild language",
+      "Stylized action including a child being struck by lightning",
+      "A character is stabbed with scissors (non-graphic, Anderson's stylized treatment)",
+      "Adult marital infidelity is a background element",
+      "A child with an unstable foster placement background"
+    ],
+    "guidance": "Rated PG-13. Moonrise Kingdom is gentler than its rating suggests. The PG-13 stems primarily from the underwear beach scene and mild sexual curiosity between twelve-year-olds, both handled with Anderson's characteristic non-explicit artfulness. The most significant parental concern is the background adult dysfunction, including marital infidelity, which may require discussion with younger viewers. Appropriate for 12 and up."
+  },
+  "comparison_films": [
+    {
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "comparison": "Anderson's companion piece. Both films score MIXED at VirtueVigil for the same reasons: genuine emotional conservatism (love, loyalty, mentorship) wrapped in an aesthete's ironic sensibility and progressive political texture."
+    },
+    {
+      "title": "Stand By Me",
+      "year": 1986,
+      "comparison": "Both films celebrate childhood adventure and the specific kind of intensity that preteens bring to friendship and love. Stand By Me is more masculine and more directly emotional. Moonrise Kingdom is more romantic and more stylized. Both argue that childhood experience is more serious than adults give it credit for."
+    }
+  ],
+  "datePublished": "2026-03-29"
+}

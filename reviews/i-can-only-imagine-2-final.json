@@ -1,0 +1,312 @@
+{
+  "title": "I Can Only Imagine 2",
+  "slug": "i-can-only-imagine-2",
+  "date": "2026-02-17",
+  "type": "film",
+  "year": 2026,
+  "genre": [
+    "Drama",
+    "Music",
+    "Faith"
+  ],
+  "platform": "Theatrical",
+  "runtime": "TBD",
+  "verdict": "STRONGLY TRADITIONAL",
+  "woke_score": 0,
+  "traditional_score": 35,
+  "composite_score": 7,
+  "confidence": "high",
+  "poster": null,
+  "woke_trap": false,
+  "woke_trap_pct": null,
+  "tagline": "A sincere faith sequel that celebrates family, suffering, and trust in God's plan. Zero woke content.",
+  "overview": "The first \"I Can Only Imagine\" was a bonafide miracle at the box office. Eighty-three million dollars on a budget that most Marvel movies spend on catering. Eight years later the Erwin Brothers are back with a sequel, and the question hanging over it is simple: can they do it again?\n\nShort answer: not quite. But that's okay. This is still one of the safest bets for conservative families hitting theaters in 2026.\n\nThe film picks up with Bart Millard (John Michael Finley) stuck in a creative rut. MercyMe is still touring, still packing arenas, but Bart hasn't written anything close to the song that made him famous. His oldest son Sam (Sammy Dell) has been diagnosed with type 1 diabetes, and Bart's response is to wrap the kid in bubble wrap and smother him with worry. Meanwhile Milo Ventimiglia shows up as Tim Timmons, a real-life musician who opens for MercyMe and whose cancer diagnosis becomes the emotional gut punch of the whole movie. Dennis Quaid pops back in through flashbacks as Bart's deceased father Arthur, connecting this story to the redemption arc of the original.\n\nThe structure jumps around in time more than it needs to. There are stretches where the filmmakers can't seem to decide if this is Bart's story, Tim's story, or Sam's story. The concert sequences run long and occasionally feel like extended music videos for songs you can already stream. And yeah, Sam's diabetes subplot sometimes leans into melodrama that overstates how scary the condition is for a teenager who's managing it. Though to be fair, the film is showing us Bart's fear, not Sam's reality. Any parent who's watched their kid get a serious diagnosis will recognize that irrational protectiveness.\n\nOn the woke spectrum, this film is spotless. Zero. Nothing. Not a trace. There's no identity politics wedged into the narrative. The cast is diverse the way a real touring band's crew would be diverse. Nobody is checking boxes. Nobody is delivering speeches about representation. The film's worldview is unapologetically, unashamedly Christian. Prayer works here. Faith isn't deconstructed or treated with ironic distance. It's presented as the answer, full stop.\n\nWhere the movie genuinely shines is in how it handles suffering. Lesser faith films treat hardship as a speed bump on the way to a happy ending. This one lets the pain sit. Tim Timmons' cancer is not wrapped up in a neat bow. The film earns its tears instead of demanding them. Bart's arc from control freak to trusting father mirrors the spiritual message without beating you over the head with it. The marriage between Bart and Shannon (Sophie Skelton) is portrayed as genuinely loving but under real strain. That's so much more compelling than the perfect-marriage fantasy you get from most Christian films.\n\nIt's not as emotionally devastating as the original. It doesn't have that singular song-origin moment that made the first film unforgettable. But it's honest. And in 2026 that counts for a lot.",
+  "adult_insight": "Conservative adult viewers will find nothing to worry about here. The Erwin Brothers have a perfect track record of delivering sincere, faith-first content, and this sequel is no exception. The craft criticisms are real: the pacing drags in spots, the time-jumping structure can be disorienting, and it doesn't reach the emotional heights of the original. But the spiritual core is genuine, the performances are committed, and the treatment of suffering as a pathway to deeper faith rather than a reason to abandon it is refreshingly mature for the genre. This is one of the increasingly rare wide-release films that conservative families can attend without any ideological anxiety whatsoever.",
+  "parental_guidance": "This is an easy recommendation for families. No violence, no sexual content, no language concerns. The emotional intensity comes from a child's diabetes diagnosis, a friend's cancer journey, and the fear of losing people you love. Sensitive younger children may find the hospital scenes and discussions of mortality upsetting, but for most kids 8 and up this is perfectly appropriate. The film provides excellent conversation starters about trusting God through hardship, dealing with illness in the family, and the difference between protecting someone and controlling them.",
+  "tropes": [
+    {
+      "id": "TRADITIONAL-043",
+      "name": "Faith in Adversity",
+      "category": "Traditional",
+      "severity": 5,
+      "timestamp": "Throughout the entire film",
+      "quote": "The entire narrative is organized around faith tested by creative drought, a child's illness, and a friend's cancer. Prayer is shown as genuine and effective.",
+      "context": "This is the film's thesis. Bart's faith is tested from every angle and deepens through suffering rather than breaking. Impossible to discuss the movie without this trope.",
+      "impact": "Defines the entire viewing experience. This is a film about faith, made for people of faith, by people of faith.",
+      "verdict": "Authentically traditional. The defining trope of the film.",
+      "authenticity": "Organic. Based on real events in real people's lives."
+    },
+    {
+      "id": "TRADITIONAL-045",
+      "name": "Defense of the Innocent",
+      "category": "Traditional",
+      "severity": 4,
+      "timestamp": "Throughout; Bart and Sam's storyline",
+      "quote": "Bart's overprotectiveness of Sam after the diabetes diagnosis drives the father-son conflict.",
+      "context": "The father-son dynamic is the emotional core. Bart's protectiveness is presented as flawed but rooted in love. The arc is learning to trust God with his child's safety.",
+      "impact": "Central plotline. The audience connects with Bart because every parent understands the impulse to protect your kid from everything.",
+      "verdict": "Authentically traditional. Paternal protection presented without irony.",
+      "authenticity": "Organic. Based on Bart Millard's real experience."
+    },
+    {
+      "id": "TRADITIONAL-026",
+      "name": "Self-Sacrificing Hero",
+      "category": "Traditional",
+      "severity": 3,
+      "timestamp": "Tim Timmons' storyline",
+      "quote": "Tim continues to minister and make music despite his cancer diagnosis, sacrificing comfort for calling.",
+      "context": "Tim Timmons is a real person. His continued ministry during cancer treatment provides the film's most emotionally devastating moments.",
+      "impact": "The emotional gut punch of the film. His sacrifice gives weight to the faith message.",
+      "verdict": "Authentically traditional. Real-life sacrifice portrayed with genuine tenderness.",
+      "authenticity": "Organic. Based on Tim Timmons' actual life."
+    },
+    {
+      "id": "TRADITIONAL-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 3,
+      "timestamp": "Bart's creative journey",
+      "quote": "Bart pushes through creative block. MercyMe continues to tour and minister despite personal struggles.",
+      "context": "Hard work and dedication to craft and calling, presented without irony or subversion.",
+      "impact": "Reinforces the film's message that purpose requires perseverance through difficulty.",
+      "verdict": "Authentically traditional.",
+      "authenticity": "Organic."
+    },
+    {
+      "id": "TRADITIONAL-044",
+      "name": "Sacred Institution of Marriage",
+      "category": "Traditional",
+      "severity": 3,
+      "timestamp": "Bart and Shannon's relationship throughout",
+      "quote": "The marriage is portrayed as genuinely loving but under real strain. It is tested and holds.",
+      "context": "Far more compelling than the perfect-marriage fantasy of lesser faith films. The strain makes the endurance meaningful.",
+      "impact": "Models marriage as something worth fighting for, not a given.",
+      "verdict": "Authentically traditional.",
+      "authenticity": "Organic."
+    },
+    {
+      "id": "TRADITIONAL-036",
+      "name": "Traditional Femininity",
+      "category": "Traditional",
+      "severity": 2,
+      "timestamp": "Shannon's role throughout",
+      "quote": "Shannon (Sophie Skelton) serves as supportive wife and mother navigating family crisis.",
+      "context": "Shannon's role is primarily relational: wife, mother, emotional anchor. Presented positively and without condescension.",
+      "impact": "Provides the domestic grounding that makes Bart's external journey feel real.",
+      "verdict": "Authentically traditional.",
+      "authenticity": "Organic."
+    },
+    {
+      "id": "TRADITIONAL-033",
+      "name": "Wise Elder",
+      "category": "Traditional",
+      "severity": 2,
+      "timestamp": "Dennis Quaid's flashback appearances",
+      "quote": "Arthur's legacy provides guidance and emotional grounding even after his death.",
+      "context": "Connects to the first film's redemption arc. Arthur's past abuse and redemption echo as lessons for Bart's own fathering.",
+      "impact": "Adds generational depth to the story.",
+      "verdict": "Authentically traditional.",
+      "authenticity": "Organic."
+    },
+    {
+      "id": "TRADITIONAL-048",
+      "name": "Restored Home",
+      "category": "Traditional",
+      "severity": 2,
+      "timestamp": "Final act resolution",
+      "quote": "Bart learns to let go. The family unit is strengthened through crisis rather than broken by it.",
+      "context": "The narrative arc drives toward family restoration through faith. Classic traditional structure.",
+      "impact": "Satisfying resolution that reinforces the film's thesis.",
+      "verdict": "Authentically traditional.",
+      "authenticity": "Organic."
+    }
+  ],
+  "creative_team": {
+    "cast": [
+      {
+        "actor": "John Michael Finley",
+        "role": "Bart Millard"
+      },
+      {
+        "actor": "Milo Ventimiglia",
+        "role": "Tim Timmons"
+      },
+      {
+        "actor": "Dennis Quaid",
+        "role": "Arthur Millard"
+      },
+      {
+        "actor": "Sophie Skelton",
+        "role": "Shannon Millard"
+      },
+      {
+        "actor": "Sammy Dell",
+        "role": "Sam Millard"
+      },
+      {
+        "actor": "Tamiko Robinson Steele",
+        "role": "Ensemble"
+      }
+    ],
+    "director": {
+      "name": "Andrew Erwin & Jon Erwin",
+      "filmography": [
+        {
+          "title": "Woodlawn",
+          "year": 2015,
+          "themes": "Faith-based football drama"
+        },
+        {
+          "title": "I Can Only Imagine",
+          "year": 2018,
+          "themes": "Faith-based biographical drama; $83M phenomenon"
+        },
+        {
+          "title": "I Still Believe",
+          "year": 2020,
+          "themes": "Faith-based romance; Jeremy Camp biopic"
+        },
+        {
+          "title": "American Underdog",
+          "year": 2021,
+          "themes": "Kurt Warner biopic; faith and perseverance"
+        },
+        {
+          "title": "Jesus Revolution",
+          "year": 2023,
+          "themes": "1970s Jesus Movement drama"
+        },
+        {
+          "title": "I Can Only Imagine 2",
+          "year": 2026,
+          "themes": "Faith sequel; family, suffering, trust in God"
+        }
+      ],
+      "ideological_tendency": "STRONGLY TRADITIONAL",
+      "ideological_notes": "The most consistently traditional filmmaking team in Hollywood. Five for five on explicitly faith-based, culturally conservative content before this sequel.",
+      "consistency": "Perfectly consistent across entire career"
+    },
+    "producers": [],
+    "writer": {
+      "name": "Alex Cramer & Jon Erwin",
+      "sole_credit": false,
+      "ideological_signal": "STRONGLY TRADITIONAL",
+      "notes": "Faith-based screenwriting team. Same ideological lane as the directors."
+    },
+    "composer": {
+      "name": "Unknown",
+      "ideological_signal": "NEUTRAL",
+      "notes": "MercyMe's music features prominently."
+    },
+    "prediction_indicator": {
+      "director_signal": "STRONGLY TRADITIONAL",
+      "producer_signal": "NEUTRAL",
+      "cast_signal": "TRADITIONAL-LEANING",
+      "composer_signal": "NEUTRAL",
+      "pre_viewing_prediction": "STRONGLY TRADITIONAL (very high confidence)",
+      "actual_verdict": "STRONGLY TRADITIONAL (score: +7)",
+      "prediction_accurate": true,
+      "reasoning": "The Erwin Brothers have never made a film that isn't explicitly faith-based and culturally conservative. A sequel to their biggest hit was guaranteed to stay in the same lane."
+    }
+  },
+  "fidelity_casting": {
+    "score": "FAITHFUL",
+    "fcs_numeric": 0,
+    "assessments": [
+      {
+        "character": "All major characters",
+        "actor": null,
+        "description": "Based on real people (Bart Millard, Tim Timmons, MercyMe)",
+        "historically_plausible": true,
+        "prevalence": "Accurate",
+        "notes": "Casting matches the real individuals faithfully. No race swaps, gender changes, or historical incongruities."
+      }
+    ],
+    "overall_assessment": "Faithful adaptation of real people's stories. No fidelity concerns."
+  },
+  "tropeAudit": [
+    {
+      "id": "TRAD-043",
+      "name": "Faith in Adversity",
+      "category": "Traditional",
+      "severity": 5,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 6.3,
+      "description": "The entire narrative is organized around faith tested by creative drought, a child's illness, and a friend's cancer. Prayer is shown as genuine and effective. The defining trope of the film."
+    },
+    {
+      "id": "TRAD-045",
+      "name": "Defense of the Innocent",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 5.04,
+      "description": "Bart's overprotectiveness of Sam after the diabetes diagnosis drives the father-son conflict. Paternal protection presented without irony; the arc is learning to trust God with his child's safety."
+    },
+    {
+      "id": "TRAD-026",
+      "name": "Self-Sacrificing Hero",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 3.78,
+      "description": "Tim Timmons continues to minister and make music despite his cancer diagnosis, sacrificing comfort for calling. Based on the real Tim Timmons' actual life."
+    },
+    {
+      "id": "TRAD-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "Bart pushes through creative block. MercyMe continues to tour and minister despite personal struggles. Hard work and dedication to craft presented without irony."
+    },
+    {
+      "id": "TRAD-044",
+      "name": "Sacred Institution of Marriage",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "Bart and Shannon's marriage is portrayed as genuinely loving but under real strain. It is tested and holds. Far more compelling than the perfect-marriage fantasy of lesser faith films."
+    },
+    {
+      "id": "TRAD-036",
+      "name": "Traditional Femininity",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Shannon serves as supportive wife and mother navigating family crisis. Presented positively and without condescension. Provides the domestic grounding for Bart's journey."
+    },
+    {
+      "id": "TRAD-033",
+      "name": "Wise Elder",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Arthur's legacy provides guidance and emotional grounding even after death. Connects to the first film's redemption arc, adding generational depth."
+    },
+    {
+      "id": "TRAD-048",
+      "name": "Restored Home",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Bart learns to let go. The family unit is strengthened through crisis rather than broken by it. Classic traditional structure."
+    }
+  ],
+  "wokeScore": 0.0,
+  "tradScore": 23.52,
+  "scoreMargin": "+24 TRAD"
+}

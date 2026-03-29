@@ -1,0 +1,186 @@
+{
+  "id": "billy-madison-1995",
+  "slug": "billy-madison-1995",
+  "title": "Billy Madison",
+  "year": 1995,
+  "type": "film",
+  "platform": "Theatrical",
+  "genre": "Comedy",
+  "date": "2026-03-29",
+  "author": "Debra Ducane",
+  "readTime": "8 min",
+  "poster": "/images/posters/billy-madison-1995.jpg",
+  "verdict": "TRADITIONAL LEAN",
+  "wokeScore": 4.5,
+  "tradScore": 12.15,
+  "authIndex": 85,
+  "scoreMargin": "+8 TRAD",
+  "preRelease": false,
+  "wokeTrap": false,
+  "woke_trap_assessment": {
+    "is_trap": false,
+    "explanation": "Billy Madison is immediately and unambiguously what it presents itself as: a dumb, loud comedy about a rich man-child going back to school. No hidden agenda whatsoever."
+  },
+  "seoTitle": "Billy Madison (1995) Review: Adam Sandler's Classic Scored for Traditional Values",
+  "seoDescription": "VirtueVigil scores Billy Madison. Is Adam Sandler's 1995 comedy woke or traditional? We break down the tropes, the values, parental guidance, and what conservative families should know.",
+  "seoKeywords": [
+    "Billy Madison review",
+    "Billy Madison woke score",
+    "Billy Madison 1995 conservative review",
+    "is Billy Madison woke",
+    "Adam Sandler Billy Madison traditional values",
+    "Billy Madison VirtueVigil",
+    "Billy Madison parents guide"
+  ],
+  "summary": {
+    "overall": "Billy Madison is not a film you defend to people who don't already like it. It operates on a specific frequency: loud, dumb, cheerfully juvenile, and completely unconcerned with whether you think it is smart. That is its whole deal. Either you're on that wavelength or you spend ninety minutes waiting for it to become something it was never trying to be.\n\nThe setup is minimal. Billy Madison is a 27-year-old slacker who has coasted on his father's hotel empire. When his father prepares to hand the company to a sleazy executive, Billy must prove himself by repeating grades 1 through 12 in 24 weeks. If he graduates, the company is his. If he fails, Eric Gordon runs everything.\n\nThe moral spine is simple and old-fashioned: earning what you have. Billy did not earn his wealth or his position. His father loves him but recognizes the company needs someone who actually worked for it. The entire film is built around the premise that coasting on inherited wealth is not acceptable. Billy must prove himself the honest way. No shortcuts, no buying his way through, no charm-offensives. He has to actually learn the material and pass the tests.\n\nThe villain, Eric Gordon, represents corrupt ambition: a man who will lie, cheat, blackmail, and eventually pull a gun to get what he wants. When he loses in the end, it is a clean moral statement. The system punishes cheating and rewards legitimate effort, even when the effort comes from a man who still laughs at his own fart jokes.\n\nThe film's treatment of family is warm. Brian Madison genuinely loves his son. He is not a cold corporate titan who views Billy as a disappointment. He holds high standards because he believes Billy is capable of meeting them. That is a functioning father-son relationship, and the film takes it seriously even when Billy is screaming at a penguin.\n\nWhat holds Billy Madison back from a higher traditional score is the meanness that shows up occasionally. Some jokes punch at genuinely vulnerable targets. The humor celebrates immaturity in ways that go beyond innocent silliness. Billy starts the film as someone who has never had to try at anything, and while his arc is redemptive, the comedy along the way normalizes a certain kind of entitled behavior.\n\nBut the resolution is clear. Hard work pays off. Corruption gets exposed and punished. A father passes his legacy to a son who actually earned it. The love story with Veronica (Bridgette Wilson) is uncomplicated: she likes him because he changed, not because he was always great. There is something traditional in that basic premise. You have to earn the girl by becoming someone worth earning.\n\nThis is not a great film. It is a very effective delivery mechanism for one specific type of humor. As a cultural artifact, it is notably conservative in its underlying assumptions about inheritance, work ethic, and the nature of success, even when the execution is aggressively stupid.",
+    "oneLiner": "A rich man-child repeats school to earn his father's company in a loud, stupid, funny comedy with a genuinely conservative moral core.",
+    "verdict": "TRADITIONAL LEAN. The work-ethic redemption arc, the punishment of corrupt ambition, and the father-son legacy framework push this clearly into traditional territory. The crude humor and occasional meanness keep it from scoring higher.",
+    "adultInsight": "Conservative adults who can tolerate Sandler's early-period chaos will find Billy Madison has a sturdier moral core than its reputation suggests. The central premise is explicitly about earning your inheritance rather than assuming it. The villain is a corporate schemer who cheats to win and loses badly. The father-son relationship is warm, demanding, and functional. It is not a film you recommend for its craft. But its underlying values are sound.",
+    "parentalGuidance": "Rated PG-13. Crude humor, mild language, brief sexuality, and cartoon violence. One scene involves a character brandishing a weapon. The humor is broad and juvenile. The film's values are fine; the execution is rowdy. Appropriate for teenagers."
+  },
+  "tropeAudit": [
+    {
+      "id": "WOKE-BM-01",
+      "name": "Normalizing Immaturity / Arrested Development",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": 1.0,
+      "centrality": 1.0,
+      "weightedScore": 3.0,
+      "description": "Billy's extended adolescence is the film's comic engine. While the narrative eventually punishes it with a redemption arc, a significant portion of the runtime celebrates a grown man behaving like a child. The film treats adult irresponsibility as entertainment, and the comedy is entirely on Billy's side even during his worst moments."
+    },
+    {
+      "id": "WOKE-BM-02",
+      "name": "Crude Humor / Potty Comedy",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": 1.0,
+      "centrality": 1.0,
+      "weightedScore": 1.0,
+      "description": "Persistent juvenile humor throughout. Not ideologically charged but culturally corrosive in its normalization of adult childishness."
+    },
+    {
+      "id": "WOKE-BM-03",
+      "name": "Mild Sexual Content",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": 1.0,
+      "centrality": 0.5,
+      "weightedScore": 0.5,
+      "description": "Brief non-explicit sexual humor. Minor."
+    },
+    {
+      "id": "TRAD-BM-01",
+      "name": "Earning Your Inheritance (Work Ethic Redemption)",
+      "category": "Traditional",
+      "severity": 5,
+      "authenticity": 0.7,
+      "centrality": 1.8,
+      "weightedScore": 6.3,
+      "description": "The film's central premise is explicitly conservative: you do not deserve what you have not earned. Billy coasted on his father's wealth and must prove himself through legitimate effort. His graduation proves he actually learned the material. No shortcuts. No bought-and-paid-for degrees. The redemption is genuine work."
+    },
+    {
+      "id": "TRAD-BM-02",
+      "name": "Father-Son Legacy and Standards",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 2.8,
+      "description": "Brian Madison holds high standards for his son because he believes Billy is capable of meeting them. The relationship is loving but demanding, which is the most functional form of fatherhood. Billy rising to meet those standards is the film's emotional payoff."
+    },
+    {
+      "id": "TRAD-BM-03",
+      "name": "Corruption Gets Punished",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": 0.7,
+      "centrality": 1.0,
+      "weightedScore": 2.1,
+      "description": "Eric Gordon blackmails, lies, and eventually pulls a weapon. He is publicly exposed and humiliated. The film delivers unambiguous moral clarity: cheating does not work. The honest path, however difficult, beats the corrupt shortcut."
+    },
+    {
+      "id": "TRAD-BM-04",
+      "name": "Love Earned Through Change",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": 0.7,
+      "centrality": 0.75,
+      "weightedScore": 1.05,
+      "description": "Veronica respects Billy because he actually changes. She does not love the charming slacker version of him. She connects with the man who tried hard, showed up, and earned something. The romance is built on growth, not on the protagonist being lovable despite his flaws."
+    }
+  ],
+  "creative_team": {
+    "director": {
+      "name": "Tamra Davis",
+      "ideology": "CENTER-LEFT. Indie filmmaker who directed CB4 and later Crossroads (Britney Spears vehicle). No notable political ideology embedded in Billy Madison, which she helmed as a competent comedy director without a strong personal vision.",
+      "profile": "Tamra Davis was a working director in the nineties whose work spanned music videos, indie films, and studio comedies. She brought no particular auteur vision to Billy Madison, which was the right call. The film belongs to Sandler and Herlihy's sensibility."
+    },
+    "writers": {
+      "names": "Tim Herlihy, Adam Sandler",
+      "profile": "The same team as Happy Gilmore. Herlihy and Sandler built their early scripts around a consistent worldview: working-class or middle-class protagonists, fierce family loyalty, contempt for inherited privilege without earned merit, and comedy through outsider behavior. Billy Madison is the most explicit statement of these themes."
+    },
+    "lead_producer": {
+      "name": "Robert Simonds",
+      "company": "Universal Pictures / Happy Madison Productions"
+    },
+    "composer": {
+      "name": "Randy Edelman",
+      "profile": "Journeyman Hollywood composer whose cheerful, energetic scoring style fits Sandler's comedies well."
+    },
+    "top_cast": [
+      {
+        "name": "Adam Sandler",
+        "role": "Billy Madison"
+      },
+      {
+        "name": "Darren McGavin",
+        "role": "Brian Madison"
+      },
+      {
+        "name": "Bridgette Wilson",
+        "role": "Veronica Vaughn"
+      },
+      {
+        "name": "Bradley Whitford",
+        "role": "Eric Gordon"
+      },
+      {
+        "name": "Josh Mostel",
+        "role": "Principal Max Anderson"
+      }
+    ]
+  },
+  "fidelityCasting": {
+    "sourceType": "Original Screenplay",
+    "sourceTitle": "N/A",
+    "assessment": "Original production. No source material fidelity to assess."
+  },
+  "parentalGuidance": {
+    "mpaaRating": "PG-13",
+    "mpaaDescriptors": "Crude humor, mild sexuality, language, and brief violence",
+    "recommendedAge": "13+",
+    "contentWarnings": [
+      "Persistent crude and juvenile humor throughout",
+      "Brief non-explicit sexual humor",
+      "A character brandishes a weapon in the climax",
+      "Mild language throughout",
+      "Some humor targets people presented as unintelligent"
+    ],
+    "guidance": "Rated PG-13. Billy Madison is standard Sandler-era crude comedy. The values are solid, the execution is rowdy. Fine for teenagers who like this style of humor. The redemption arc and work ethic themes are worth discussing with younger viewers."
+  },
+  "comparison_films": [
+    {
+      "title": "Happy Gilmore",
+      "year": 1996,
+      "comparison": "The companion piece in Sandler's early catalog. Happy Gilmore has a warmer emotional core (saving Grandma). Billy Madison has a cleaner moral premise (earning inheritance). Both are TRADITIONAL in their underlying values."
+    },
+    {
+      "title": "Back to School",
+      "year": 1986,
+      "comparison": "Rodney Dangerfield's take on the same premise: a working-class adult goes back to college to connect with his son. That one is funnier and warmer. Billy Madison is louder and dumber. Both celebrate the anti-establishment outsider succeeding in an academic environment that dismisses him."
+    }
+  ],
+  "datePublished": "2026-03-29"
+}

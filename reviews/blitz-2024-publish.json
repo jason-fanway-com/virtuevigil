@@ -1,0 +1,647 @@
+{
+  "title": "Blitz",
+  "slug": "blitz-2024",
+  "date": "2026-02-16",
+  "type": "film",
+  "year": 2024,
+  "genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "platform": "Apple TV+",
+  "runtime": "120 min",
+  "verdict": "WOKE",
+  "scores": {
+    "woke": 11,
+    "traditional": 7,
+    "composite": -4
+  },
+  "confidence": "HIGH",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWY0YzRiNGUtMjdkOS00YjE0LTgyZjctMWRiNDlhOGI0NmY2XkEyXkFqcGc@._V1_.jpg",
+  "spoiler_alert": "⚠️ SPOILER ALERT: This review contains detailed plot analysis and may reveal key story elements.",
+  "woke_trap_assessment": {
+    "is_woke_trap": false,
+    "summary": "NOT A WOKE TRAP — This film does not disguise its ideological agenda. The racial themes are present from the opening minutes and remain consistent throughout. McQueen is forthright about his intentions. Conservative viewers will know what they are getting into from the first act. While the film's traditional elements (maternal devotion, homecoming narrative, wartime perseverance) are genuinely compelling, they coexist openly with the woke framing rather than being used as bait."
+  },
+  "creative_team": {
+    "director": {
+      "name": "Steve McQueen",
+      "ideological_tendency": "STRONGLY WOKE",
+      "consistency": "Consistent across entire career (excluding Shame)",
+      "filmography": [
+        {
+          "title": "Hunger",
+          "year": 2008,
+          "assessment": "IRA hunger strike; state as oppressor. Not explicitly racial but establishes core pattern."
+        },
+        {
+          "title": "Shame",
+          "year": 2011,
+          "assessment": "Sexual addiction character study. No overt political thesis."
+        },
+        {
+          "title": "12 Years a Slave",
+          "year": 2013,
+          "assessment": "American slavery; racial injustice. Best Picture winner. Cemented McQueen as racial-justice filmmaker."
+        },
+        {
+          "title": "Widows",
+          "year": 2018,
+          "assessment": "Heist genre with racial and gender politics layered throughout."
+        },
+        {
+          "title": "Small Axe (anthology)",
+          "year": 2020,
+          "assessment": "London's West Indian community; institutional racism. Dedicated to George Floyd and BLM."
+        },
+        {
+          "title": "Blitz",
+          "year": 2024,
+          "assessment": "WWII London through racial lens. Subject of this review."
+        }
+      ],
+      "notes": "5 of 6 feature projects center race, colonialism, or institutional oppression. Art installation 'End Credits' focused on persecution of Paul Robeson. Progressive racial politics is his primary artistic project."
+    },
+    "writer": {
+      "name": "Steve McQueen",
+      "sole_credit": true,
+      "ideological_signal": "STRONGLY WOKE",
+      "notes": "Same as director. No co-writer to moderate. Ideological framing is undiluted."
+    },
+    "producers": [
+      {
+        "name": "Tim Bevan & Eric Fellner",
+        "company": "Working Title Films",
+        "ideological_signal": "NEUTRAL",
+        "notes": "Britain's premier prestige house. Ideologically mixed output."
+      },
+      {
+        "name": "Arnon Milchan & Yariv Milchan",
+        "company": "New Regency",
+        "ideological_signal": "NEUTRAL",
+        "notes": "Major Hollywood financier. Follows talent and awards potential."
+      },
+      {
+        "name": "Steve McQueen",
+        "company": null,
+        "ideological_signal": "STRONGLY WOKE",
+        "notes": "See director profile."
+      },
+      {
+        "name": "Anita Overland",
+        "company": null,
+        "ideological_signal": "NEUTRAL",
+        "notes": "Long-time McQueen collaborator."
+      },
+      {
+        "name": "Adam Somner",
+        "company": null,
+        "ideological_signal": "NEUTRAL",
+        "notes": "Logistics producer. Spielberg/Nolan collaborator."
+      },
+      {
+        "name": "Michael Schaefer",
+        "company": "New Regency",
+        "ideological_signal": "NEUTRAL",
+        "notes": "Studio executive."
+      }
+    ],
+    "composer": {
+      "name": "Hans Zimmer",
+      "ideological_signal": "NEUTRAL",
+      "notes": "Works across the ideological spectrum. Signals blockbuster production values, not politics."
+    },
+    "top_cast": [
+      {
+        "actor": "Saoirse Ronan",
+        "role": "Rita"
+      },
+      {
+        "actor": "Elliott Heffernan",
+        "role": "George"
+      },
+      {
+        "actor": "Harris Dickinson",
+        "role": "Jack"
+      }
+    ],
+    "full_cast": [
+      {
+        "actor": "Elliott Heffernan",
+        "role": "George"
+      },
+      {
+        "actor": "Saoirse Ronan",
+        "role": "Rita"
+      },
+      {
+        "actor": "Harris Dickinson",
+        "role": "Jack"
+      },
+      {
+        "actor": "Benjamin Clementine",
+        "role": "Ife"
+      },
+      {
+        "actor": "Kathy Burke",
+        "role": "Beryl"
+      },
+      {
+        "actor": "Paul Weller",
+        "role": "Gerald"
+      },
+      {
+        "actor": "Stephen Graham",
+        "role": "Albert"
+      },
+      {
+        "actor": "Leigh Gill",
+        "role": "Mickey Davies"
+      },
+      {
+        "actor": "Mica Ricketts",
+        "role": "Jess"
+      },
+      {
+        "actor": "CJ Beckford",
+        "role": "Marcus"
+      },
+      {
+        "actor": "Alex Jennings",
+        "role": "Victor Smythe"
+      },
+      {
+        "actor": "Joshua McGuire",
+        "role": "Clive"
+      },
+      {
+        "actor": "Hayley Squires",
+        "role": "Tilda"
+      },
+      {
+        "actor": "Erin Kellyman",
+        "role": "Doris"
+      },
+      {
+        "actor": "Sally Messham",
+        "role": "Agnes"
+      }
+    ],
+    "prediction": {
+      "director_signal": "STRONGLY WOKE",
+      "producer_signal": "NEUTRAL",
+      "cast_signal": "PRESTIGE NEUTRAL",
+      "composer_signal": "NEUTRAL",
+      "pre_viewing_prediction": "WOKE (high confidence)",
+      "actual_verdict": "WOKE (score: -4)",
+      "prediction_accurate": true,
+      "reasoning": "McQueen has never made a film that doesn't center racial or institutional critique (excluding Shame). A WWII film written and directed solely by McQueen was virtually guaranteed to apply his racial lens to British wartime history. Prediction confirmed."
+    }
+  },
+  "fidelity_casting": {
+    "score": "ENHANCED",
+    "summary": "Historically defensible but amplified beyond demographic prevalence.",
+    "overall_assessment": "Casting is grounded in historical reality — mixed-race children, Black wardens, and diverse East End communities all existed. However, the film elevates uncommon realities to central narrative positions and frames diversity as the defining feature of the Blitz experience. This is not revisionism (the people existed) but enhancement (their centrality and moral authority are amplified beyond demographic prevalence). McQueen is curating real history, not inventing it — but the curation itself is the ideological act.",
+    "assessments": [
+      {
+        "character": "George",
+        "actor": "Elliott Heffernan",
+        "description": "Biracial child in 1940s London",
+        "historically_plausible": true,
+        "prevalence": "Uncommon",
+        "notes": "Mixed-race children existed in wartime London, particularly in port cities and the East End. Film inspired by a real Imperial War Museum photograph. Real but represented a small minority."
+      },
+      {
+        "character": "Ife",
+        "actor": "Benjamin Clementine",
+        "description": "Nigerian ARP warden",
+        "historically_plausible": true,
+        "prevalence": "Rare",
+        "notes": "West African and Caribbean men did serve as ARP wardens. London's Black population circa 1940 was roughly 7,000-10,000 in a city of 8 million. Central moral-authority role amplifies a marginal historical reality."
+      },
+      {
+        "character": "Shelter population",
+        "actor": null,
+        "description": "Multiethnic East End shelter scene",
+        "historically_plausible": true,
+        "prevalence": "Plausible but staged",
+        "notes": "The East End was genuinely diverse. The film stages diversity as moral lesson, which is modern editorial framing on real demographics."
+      },
+      {
+        "character": "White British majority cast",
+        "actor": null,
+        "description": "Majority of named characters are white British",
+        "historically_plausible": true,
+        "prevalence": "Accurate",
+        "notes": "Accurately reflects the overwhelming demographic reality of 1940s London."
+      }
+    ]
+  },
+  "overview": "Steve McQueen's \"Blitz\" arrives dressed in the clothing of a wartime survival story. The kind of tale that should celebrate British resilience, familial devotion, and the quiet heroism of ordinary people under extraordinary duress. And to be fair, those elements genuinely exist here, more than a first viewing might suggest. Saoirse Ronan delivers a deeply committed performance as Rita, a mother whose entire being is organized around recovering her evacuated son. Young Elliott Heffernan carries real emotional weight as nine-year-old George navigating a bombed-out London. The Blitz itself is rendered with impressive craft. But McQueen isn't content to tell a straightforward story about survival and love. He's interested in using the Second World War as a backdrop for a modern lecture on race, colonialism, and institutional bigotry. The war is not the subject. It's the set dressing.\n\nThe film's central conceit, that George is mixed-race in 1940s London, is historically plausible and could have been handled with subtlety. Instead, McQueen layers racial incident upon racial incident until the cumulative effect feels less like honest storytelling and more like a prosecutorial brief against Britain itself. George is bullied on the evacuation train for his hair. Called a slur by a neighborhood boy. His father Marcus is beaten by racist thugs and then arrested by the very police who should have protected him, after which he's deported to Grenada and never seen again. Rita is shamed at a pub for having a mixed-race child. A colonial sugar display features grotesque caricature statues of Black men. Each scene, taken individually, reflects genuine historical reality; McQueen is curating and emphasizing real history, not fabricating it. The East End was multiethnic. The shelter campaign was real. Colonial displays did exist. But the editorial emphasis is relentless, and the cumulative rhythm transforms documentation into argument.\n\nThe character of Ife, a Nigerian ARP warden played by Benjamin Clementine, functions almost entirely as a mouthpiece for contemporary diversity rhetoric. When a family in a shelter puts up a sheet to separate themselves from their Sikh neighbor, Ife delivers a unity speech that would sound perfectly at home in a 2024 corporate DEI seminar. That he is subsequently killed feels less like a tragic consequence of war and more like a calculated martyrdom designed to amplify his message. The shelter scene, with its parade of multiethnic East Enders, is staged as a corrective to what McQueen apparently considers an overly white popular memory of the Blitz. The demographics are historically defensible. The framing as a moral lesson is the modern imposition.\n\nWhere the film genuinely succeeds, and where our initial review didn't give sufficient credit, is on traditional terms. The mother-son bond is the emotional engine of the film, and it operates on entirely traditional terms. Rita isn't coded as a modern activist; she's coded as a devoted mother. Her singing, her emotional vulnerability, her entire arc is maternal to its core. This is traditional femininity presented without irony. The entire plot is fundamentally a homecoming narrative: George's desperate odyssey across London, Rita's relentless search, and the bittersweet reunion that restores the family unit. Grandfather Gerald functions as the family's elder anchor, a quiet patriarch whose death carries weight precisely because he fills the role of the wise elder who stayed behind so the young could be sent to safety.\n\nConservative viewers should be aware that this film uses a beloved period of British history primarily as a vehicle for racial grievance. But they should also know that the traditional bones of the story are stronger than the woke dressing suggests. The result is a film at war with itself: technically accomplished, emotionally powerful in its traditional elements, and ideologically heavy-handed in its progressive ones.\n\nFor conservative viewers who choose to engage, this film is worth understanding as a representative example of how prestige historical filmmaking deploys contemporary identity politics, while inadvertently demonstrating that traditional narrative structures still do the emotional heavy lifting. The craft is undeniable. The agenda is unmistakable. And the traditional heart, despite McQueen's best efforts to subordinate it, is what makes the film matter.",
+  "adult_insight": "Adult conservative viewers should approach \"Blitz\" as a case study in how prestige cinema curates real history to advance modern ideological arguments. Steve McQueen is a genuinely talented filmmaker, and the technical achievement here is considerable. The bombing sequences are visceral, the period detail is meticulous, and Saoirse Ronan's performance anchors the film with real emotional gravity. None of this should be dismissed.\n\nCritically, McQueen is not fabricating history. The East End was multiethnic. The campaign to open Tube stations as shelters was real. Colonial displays with grotesque imagery existed. Deportations happened. The issue is editorial emphasis: McQueen curates and foregrounds these elements until they become the entire story, crowding out the genuine cross-community solidarity that also defined the Blitz. Knowing that the underlying history is real, rather than invented, should change how conservative viewers engage with the argument. This isn't a filmmaker lying about the past; it's a filmmaker selecting which truths to tell.\n\nEngage with this film critically and you'll find it illuminating, not for what it reveals about the 1940s, but for what it reveals about the assumptions and priorities of contemporary progressive filmmaking. Note, too, that the film's emotional power comes entirely from its traditional elements: the mother's devotion, the child's journey home, the grandfather's sacrifice. McQueen can't escape the fact that traditional narrative structures carry his film where ideology alone could not.",
+  "parental_guidance": "Parents should exercise significant caution with \"Blitz.\" The war violence is realistic and sustained: a child character (Tommy) is killed by a train, George nearly drowns in a flooding Tube station, Gerald is killed in a bombing, and buildings collapse throughout. It's not gratuitous, but it is intense and may be distressing for sensitive viewers of any age.\n\nBeyond the physical danger, the racial content requires careful parental engagement. George is subjected to sustained racial bullying by other children, including being mocked for his hair texture and called a racial slur. His father is beaten and deported in a flashback that presents British institutions as systemically racist. These scenes are emotionally intense and are presented with limited counterbalancing positive experiences from British society.\n\nThis film is not appropriate for children under 12. For teenagers, it could serve as a valuable starting point for a conversation about how filmmakers curate and emphasize real history to advance specific arguments. Parents should be prepared to discuss the difference between acknowledging that racism existed in wartime Britain and accepting the film's thesis that racism was the defining feature of wartime Britain. Equally, parents can point to the film's own traditional elements, the mother's devotion, the grandfather's sacrifice, the homecoming, as evidence that even a filmmaker with a progressive agenda cannot tell a compelling story without traditional narrative structures.",
+  "tropes": [
+    {
+      "id": "WOKE-004",
+      "name": "Institutional Evil",
+      "category": "Woke",
+      "severity": 3,
+      "timestamp": "Early in the film, flashback sequence",
+      "scene": "Marcus is beaten by racist thugs, arrested by police who refuse to believe he is the victim, and deported to Grenada.",
+      "context": "This flashback establishes the film's central thesis. The police are presented as representatives of a system structurally incapable of recognizing Black victimhood. The deportation adds government-level institutional cruelty.",
+      "impact": "Sets the ideological tone for everything that follows. By framing the family's fracture as systemic racism, the film ensures every subsequent hardship is read through a racial lens.",
+      "verdict": "Heavily woke. The framing reflects a modern systemic racism framework rather than a nuanced historical portrait.",
+      "authenticity": "Mixed. Individual racist incidents and deportations occurred. The coordinated institutional framing is McQueen's editorial emphasis on real but selectively curated history."
+    },
+    {
+      "id": "WOKE-009",
+      "name": "The Victimhood Meritocracy",
+      "category": "Woke",
+      "severity": 2,
+      "timestamp": "Approximately 15-25 minutes, evacuation train",
+      "scene": "George is bullied on the evacuation train by other children who mock his hair texture, centering his trauma on racial identity.",
+      "context": "Evacuation was traumatic for all children. By centering George's trauma on racial bullying, the film elevates racial victimhood above shared suffering.",
+      "impact": "Establishes George as a victim of racism first and a victim of war second, creating a hierarchy of suffering.",
+      "verdict": "Woke. Emotionally effective but ideologically pointed.",
+      "authenticity": "Mixed. Mixed-race children did face additional challenges. The emphasis reflects editorial priorities rather than fabrication."
+    },
+    {
+      "id": "WOKE-008",
+      "name": "The Bigoted Traditionalist",
+      "category": "Woke",
+      "severity": 2,
+      "timestamp": "Approximately 20 minutes, flashback",
+      "scene": "A neighborhood boy calls George a racial slur, establishing civilian society as hostile to mixed-race children.",
+      "context": "This flashback layers onto the evacuation bullying to build a picture of society racist at every level. The bigot is presented as typical rather than an outlier.",
+      "impact": "Reinforces the argument that racism is woven into ordinary British life with no positive counterexamples offered.",
+      "verdict": "Woke. Uses a child's cruelty to indict an entire social milieu.",
+      "authenticity": "Mixed. Such incidents occurred. The absence of positive responses is editorial, but the incident is not implausible."
+    },
+    {
+      "id": "WOKE-003",
+      "name": "The Girl Boss",
+      "category": "Woke",
+      "severity": 1,
+      "timestamp": "Approximately 30-50 minutes, munitions factory and BBC broadcast",
+      "scene": "Rita's colleagues hijack a BBC broadcast to demand underground stations be opened as shelters.",
+      "context": "Based on a real historical campaign. The dramatization heightens but does not fabricate the core event.",
+      "impact": "Historically grounded but framed to maximize the women-vs-establishment dynamic.",
+      "verdict": "Mildly woke. Draws on real history but frames it for maximum progressive effect.",
+      "authenticity": "Mixed. Factory work is authentic. The broadcast hijacking is a dramatized version of a real campaign."
+    },
+    {
+      "id": "WOKE-001",
+      "name": "The Marginalized Savant",
+      "category": "Woke",
+      "severity": 3,
+      "timestamp": "Approximately 55-65 minutes, shelter sequence",
+      "scene": "Ife, a Nigerian ARP warden, delivers an impassioned unity speech when a family separates from their Sikh neighbor.",
+      "context": "Ife is positioned as the wisest character in the shelter. His speech articulates the film's thesis about diversity. His subsequent death transforms him into a martyr.",
+      "impact": "The film's ideological centerpiece. Minority characters exist primarily to educate and morally elevate white characters.",
+      "verdict": "Strongly woke. Ife is a textbook marginalized savant.",
+      "authenticity": "Mixed. Nigerian wardens existed in wartime London. Ife's speech reads as modern advocacy, but the multiethnic shelter population is historically defensible."
+    },
+    {
+      "id": "WOKE-017",
+      "name": "Globalist Utopia",
+      "category": "Woke",
+      "severity": 2,
+      "timestamp": "Approximately 55-65 minutes, shelter sequence",
+      "scene": "The shelter scene showcases the multiethnic East End: Nigerian, Sikh, Jewish, and white British characters sharing space.",
+      "context": "McQueen uses the shelter as a microcosm of his ideal diverse society.",
+      "impact": "Reframes the Blitz shelter as a laboratory for multicultural harmony.",
+      "verdict": "Woke. Less interested in historical complexity than in modeling a diverse utopia.",
+      "authenticity": "Mixed. The East End was genuinely diverse. The staging as a moral lesson is the modern imposition."
+    },
+    {
+      "id": "WOKE-024",
+      "name": "The Colonialist Villain",
+      "category": "Woke",
+      "severity": 2,
+      "timestamp": "Approximately 70-80 minutes, George's journey",
+      "scene": "George encounters a colonial sugar display with grotesque caricature statues of Black men.",
+      "context": "Limited narrative function. Exists to remind the audience of Britain's colonial legacy.",
+      "impact": "Draws a direct line from colonialism to the racism George experiences.",
+      "verdict": "Strongly woke. Serves primarily as ideological commentary.",
+      "authenticity": "Mixed. Such displays existed. Their inclusion is editorial but not fabricated."
+    },
+    {
+      "id": "WOKE-020",
+      "name": "Anti-Western Revisionism",
+      "category": "Woke",
+      "severity": 3,
+      "timestamp": "Throughout the film",
+      "scene": "The cumulative racial incidents reframe the Blitz from British unity to British racism and imperial guilt.",
+      "context": "McQueen systematically challenges the traditional memory of the Blitz as Britain's finest hour.",
+      "impact": "Undermines a foundational story of modern British identity.",
+      "verdict": "Strongly woke. The film's primary project is to revise Western historical memory along racial lines.",
+      "authenticity": "Mixed. Racism existed during the Blitz. The near-total absence of cross-community solidarity creates an incomplete picture."
+    },
+    {
+      "id": "WOKE-004",
+      "name": "Institutional Evil (second instance)",
+      "category": "Woke",
+      "severity": 2,
+      "timestamp": "Approximately 40-50 minutes, pub scene",
+      "scene": "Rita is criticized at a pub for having a mixed-race son, facing social ostracism.",
+      "context": "Extends institutional evil to informal social institutions.",
+      "impact": "Ensures the racial critique is total, encompassing institutional and social dimensions.",
+      "verdict": "Woke. Completes the portrait of a comprehensively racist society.",
+      "authenticity": "Mixed. Social stigma against interracial relationships was real and documented."
+    },
+    {
+      "id": "WOKE-016",
+      "name": "Infallible Youth",
+      "category": "Woke",
+      "severity": 1,
+      "timestamp": "Throughout George's journey",
+      "scene": "Nine-year-old George navigates bombed London, survives flooding, escapes thieves, and finds his way home alone.",
+      "context": "George is more capable than most adults he encounters. However, this is also a genre convention echoing Dickens.",
+      "impact": "Subtly undermines adult authority, though the child-odyssey structure predates modern ideology.",
+      "verdict": "Borderline woke. Genre-conventional but given an anti-institutional edge.",
+      "authenticity": "Mixed. Dramatically heightened but within genre bounds."
+    },
+    {
+      "id": "WOKE-019",
+      "name": "Redeemed Criminal Systemic",
+      "category": "Woke",
+      "severity": 2,
+      "timestamp": "Approximately 65-75 minutes, George captured by thieves",
+      "scene": "A gang of thieves captures George. Their criminality is contextualized as wartime desperation.",
+      "context": "The film presents criminal behavior through a systemic lens, avoiding moral judgment.",
+      "impact": "Reinforces the thesis that individual moral failures are systemic ones.",
+      "verdict": "Woke. Systemic framing of criminality is a modern progressive framework.",
+      "authenticity": "Mixed. Wartime looting was real. The reluctance to render moral judgment reflects contemporary sensibility."
+    },
+    {
+      "id": "TRADITIONAL-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 2,
+      "timestamp": "Approximately 30-50 minutes, munitions factory",
+      "scene": "Rita works diligently in a munitions factory, contributing to the war effort through honest labor.",
+      "context": "A genuine depiction of wartime industry. The film honors rather than deconstructs traditional values here.",
+      "impact": "Celebrates hard work, duty, and sacrifice without irony.",
+      "verdict": "Authentically traditional. Rita's industrial labor is presented with genuine respect.",
+      "authenticity": "Authentic. Accurately reflects the experience of millions of wartime women."
+    },
+    {
+      "id": "TRADITIONAL-045",
+      "name": "Defense of the Innocent",
+      "category": "Traditional",
+      "severity": 3,
+      "timestamp": "Throughout the film",
+      "scene": "Rita's arc is driven by her need to protect her child. George is driven by his need to return to his mother.",
+      "context": "The mother-son bond operates on entirely traditional terms. Rita fights for her child, not an abstract cause.",
+      "impact": "The film's strongest traditional element. The bond between mother and child transcends politics.",
+      "verdict": "Authentically traditional. The maternal protective instinct is presented without irony.",
+      "authenticity": "Authentic. The emotional core that gives the film its power."
+    },
+    {
+      "id": "TRADITIONAL-026",
+      "name": "The Self-Sacrificing Hero",
+      "category": "Traditional",
+      "severity": 2,
+      "timestamp": "Throughout; Ife's death, Gerald's death",
+      "scene": "Ife dies performing his duties. Gerald is killed having stayed behind while his grandson was evacuated.",
+      "context": "Both deaths connect to traditional values of duty and sacrifice.",
+      "impact": "Provides real emotional gravity. Gerald's sacrifice resonates with conservative values of family duty.",
+      "verdict": "Traditionally framed sacrifices, though Ife's is complicated by his ideological function.",
+      "authenticity": "Authentic for Gerald. Mixed for Ife, whose sacrifice is narratively earned but ideologically leveraged."
+    },
+    {
+      "id": "TRADITIONAL-043",
+      "name": "Faith in Adversity",
+      "category": "Traditional",
+      "severity": 1,
+      "timestamp": "Throughout, particularly family scenes",
+      "scene": "The family's endurance carries an implicit thread of faith that perseverance and love will prevail.",
+      "context": "McQueen does not develop religious faith explicitly, but the family's refusal to surrender hope reflects deeper faith.",
+      "impact": "Grounds the film emotionally. The quiet heartbeat beneath the louder political arguments.",
+      "verdict": "Quietly traditional. The film cannot tell its story without this implicit faith.",
+      "authenticity": "Authentic in spirit, underdeveloped in execution."
+    },
+    {
+      "id": "TRADITIONAL-036",
+      "name": "Traditional Femininity",
+      "category": "Traditional",
+      "severity": 2,
+      "timestamp": "Throughout the film",
+      "scene": "Rita is coded as a devoted mother. Her singing, vulnerability, and arc are all maternal.",
+      "context": "Despite Girl Boss elements, Rita's deepest characterization is maternal. Ronan plays her with tenderness and fragility as much as strength.",
+      "impact": "Rita's traditional femininity is the emotional anchor of the film.",
+      "verdict": "Authentically traditional. Rita's maternal coding is genuine and unironic.",
+      "authenticity": "Authentic. Wartime motherhood portrayed with respect."
+    },
+    {
+      "id": "TRADITIONAL-048",
+      "name": "Restored Home",
+      "category": "Traditional",
+      "severity": 2,
+      "timestamp": "Final act of the film",
+      "scene": "George's odyssey is a journey home. Rita's search restores the family. The climax is their reunion.",
+      "context": "Despite losses, the emotional resolution is fundamentally conservative: the family comes back together.",
+      "impact": "The homecoming satisfies on a primal level that transcends ideology.",
+      "verdict": "Authentically traditional. The restored home is the film's emotional payoff.",
+      "authenticity": "Mixed. Bittersweet rather than triumphant, but the core restoration of mother and child is genuine."
+    },
+    {
+      "id": "TRADITIONAL-033",
+      "name": "Wise Elder",
+      "category": "Traditional",
+      "severity": 1,
+      "timestamp": "First half of the film",
+      "scene": "Grandfather Gerald provides stability and quiet authority in Marcus's absence.",
+      "context": "Gerald is the elder who stayed, who held the household together. His death removes the last male anchor.",
+      "impact": "Understated but structurally important. His death matters because he filled a traditional role the film respects.",
+      "verdict": "Quietly traditional. Gerald embodies the wise elder archetype without fanfare.",
+      "authenticity": "Authentic. The role of grandparents in wartime families is well documented."
+    }
+  ],
+  "tropeAudit": [
+    {
+      "id": "WOKE-004a",
+      "name": "Institutional Evil",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": "Moderate",
+      "centrality": "High",
+      "weightedScore": 5.4,
+      "description": "Marcus is beaten by racist thugs, arrested by police who refuse to believe he is the victim, and deported to Grenada. The police and government are presented as a coordinated system of racial oppression, establishing the film's central thesis about institutional racism."
+    },
+    {
+      "id": "WOKE-009",
+      "name": "The Victimhood Meritocracy",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Moderate",
+      "weightedScore": 2.0,
+      "description": "George is bullied on the evacuation train for his hair texture, centering his trauma on racial identity rather than the shared suffering of all evacuated children. Creates a hierarchy of victimhood."
+    },
+    {
+      "id": "WOKE-008",
+      "name": "The Bigoted Traditionalist",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Low",
+      "weightedScore": 1.0,
+      "description": "A neighborhood boy calls George a racial slur. The bigot is presented as typical of traditional British working-class culture rather than an outlier. No positive community counterexamples offered."
+    },
+    {
+      "id": "WOKE-003",
+      "name": "The Girl Boss",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 0.7,
+      "description": "Rita's colleagues hijack a BBC broadcast to demand Tube stations be opened as shelters. Based on a real historical campaign but dramatized to maximize the women-vs-establishment dynamic."
+    },
+    {
+      "id": "WOKE-001",
+      "name": "The Marginalized Savant",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": "Low",
+      "centrality": "High",
+      "weightedScore": 7.56,
+      "description": "Ife, a Nigerian ARP warden, delivers the film's ideological centerpiece speech about unity and diversity. His subsequent death transforms him into a martyr. A textbook marginalized savant whose purpose is to deliver the progressive message."
+    },
+    {
+      "id": "WOKE-017",
+      "name": "Globalist Utopia",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Moderate",
+      "weightedScore": 2.0,
+      "description": "The shelter scene showcases the multiethnic East End as a microcosm of an ideal diverse society. Demographics are historically defensible but staged as a moral lesson."
+    },
+    {
+      "id": "WOKE-024",
+      "name": "The Colonialist Villain",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Low",
+      "weightedScore": 1.0,
+      "description": "George encounters a colonial sugar display with grotesque caricature statues of Black men. Minimal narrative function; exists to link wartime racism to deeper colonial legacy."
+    },
+    {
+      "id": "WOKE-020",
+      "name": "Anti-Western Revisionism",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": "Moderate",
+      "centrality": "High",
+      "weightedScore": 5.4,
+      "description": "The cumulative racial incidents reframe the Blitz from British unity to British racism and imperial guilt. McQueen systematically challenges the traditional memory of Britain's finest hour."
+    },
+    {
+      "id": "WOKE-004b",
+      "name": "Institutional Evil (social)",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Low",
+      "weightedScore": 1.0,
+      "description": "Rita is criticized at a pub for having a mixed-race son. Extends institutional evil to informal social institutions, completing the portrait of a comprehensively racist society."
+    },
+    {
+      "id": "WOKE-016",
+      "name": "Infallible Youth",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 0.7,
+      "description": "Nine-year-old George navigates bombed London alone, more capable than most adults. Genre-conventional (Dickens) but given an anti-institutional edge by the film's framework."
+    },
+    {
+      "id": "WOKE-019",
+      "name": "Redeemed Criminal Systemic",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Low",
+      "weightedScore": 1.0,
+      "description": "A gang of thieves captures George. Their criminality is contextualized as wartime desperation rather than moral failure, applying a modern progressive systemic lens."
+    },
+    {
+      "id": "TRAD-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Rita works diligently in a munitions factory, contributing to the war effort through honest labor. Celebrates hard work and duty without irony."
+    },
+    {
+      "id": "TRAD-045",
+      "name": "Defense of the Innocent",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 3.78,
+      "description": "Rita's entire arc is driven by maternal protection. George is driven to return home. The mother-son bond is the film's emotional engine, operating on entirely traditional terms."
+    },
+    {
+      "id": "TRAD-026",
+      "name": "The Self-Sacrificing Hero",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Gerald is killed in a bombing, having stayed behind while his grandson was evacuated. Ife dies performing ARP warden duties. Both connect to traditional values of duty and sacrifice."
+    },
+    {
+      "id": "TRAD-043",
+      "name": "Faith in Adversity",
+      "category": "Traditional",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "The family's endurance carries an implicit thread of faith that perseverance and love will prevail. Authentic in spirit though underdeveloped in execution."
+    },
+    {
+      "id": "TRAD-036",
+      "name": "Traditional Femininity",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 2.52,
+      "description": "Rita is fundamentally coded as a devoted mother. Her singing, emotional vulnerability, and arc are maternal to their core. Traditional femininity presented without irony."
+    },
+    {
+      "id": "TRAD-048",
+      "name": "Restored Home",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 2.52,
+      "description": "George's odyssey is a journey home. Rita's search restores the family. The homecoming narrative satisfies on a primal level that transcends ideology."
+    },
+    {
+      "id": "TRAD-033",
+      "name": "Wise Elder",
+      "category": "Traditional",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "Grandfather Gerald provides stability and quiet authority. His death is meaningful because he filled a traditional role the film treats with respect."
+    }
+  ],
+  "wokeScore": 27.76,
+  "tradScore": 12.32,
+  "scoreMargin": "-15 WOKE"
+}

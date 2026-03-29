@@ -1,0 +1,338 @@
+{
+  "title": "Eternity",
+  "slug": "eternity-2025",
+  "date": "2026-02-17",
+  "type": "film",
+  "year": 2025,
+  "genre": [
+    "Fantasy",
+    "Romance",
+    "Comedy"
+  ],
+  "platform": "A24 (Theatrical)",
+  "runtime": "114 min",
+  "verdict": "TRADITIONAL LEAN",
+  "woke_score": 3,
+  "traditional_score": 5,
+  "composite_score": 1,
+  "vvws": 1,
+  "vvws_variance": 1.0,
+  "confidence": "high",
+  "poster": null,
+  "woke_trap": false,
+  "woke_trap_pct": null,
+  "fidelity_casting_score": "N/A",
+  "fidelity_casting_label": "N/A — Original Screenplay",
+  "tagline": "A profoundly conservative message about marriage hiding inside progressive packaging.",
+  "overview": "A24 and Apple Original Films team up for \"Eternity,\" a high-concept romantic comedy set in the afterlife where newly deceased souls have one week to decide which themed paradise they'll inhabit forever. The premise is whimsical and the execution polished, with Elizabeth Olsen, Miles Teller, and Callum Turner forming a love triangle that stretches across life and death. Director David Freyne works from a script he co-wrote with Pat Cunnane, a former Senior Writer and Deputy Director of Messaging in the Obama White House. The result is a film that's smarter than it needs to be and more ideologically loaded than it first appears.\n\nThe afterlife is structured as a progressive utopia: identity-themed paradises (Queer World, Man-free World), no God, no moral judgment, consumer choice extended past death. But the emotional core is deeply traditional. Joan chooses Larry, the husband she spent 65 years with, over Luke, her passionate first love who waited 67 years for her. Larry's quiet steadiness, his self-sacrifice, and his willingness to give up paradise win over romantic intensity. The film's emotional argument is an unambiguous endorsement of lifelong marriage.\n\nConservative viewers will find the secular world-building mildly irritating but the emotional payoff genuinely affirming. This is a film where an Obama speechwriter and a queer-cinema director arrive at the conclusion that marriage is worth choosing forever.",
+  "adult_insight": "Conservative adult viewers should approach Eternity as a genuinely charming romantic comedy with progressive set dressing and a surprisingly traditional payoff. The secular afterlife cosmology will bother viewers who take eternal life seriously as a theological matter. The identity-themed paradises are played for comedy but reflect a worldview where self-actualization is the highest good. Pat Cunnane's background as an Obama political operative is worth knowing.\n\nThat said, the film's emotional argument is one of the most traditional statements about marriage in recent mainstream cinema. Joan literally risks eternal oblivion to return to her husband. Larry gives up paradise to wait for her. You will leave the theater thinking about the beauty of growing old with someone, not about Queer World.",
+  "parental_guidance": "No violence, no sexual content, no significant profanity. The film deals with death, terminal illness, and grief with a light touch. The concept of the Void (infinite darkness) may unsettle younger viewers. The complete absence of religious or spiritual content in a film about the afterlife is worth discussing with children of faith. Minimum age: 10. Recommended: 13+. Excellent conversation starter about the meaning of marriage, commitment vs. passion, and beliefs about eternity.",
+  "tropes": [
+    {
+      "id": "WOKE-009",
+      "name": "Secular Erasure",
+      "category": "Woke",
+      "severity": 3,
+      "base_weight": 3.0,
+      "intensity": 3,
+      "authenticity": "Emphasized",
+      "authenticity_modifier": 1.25,
+      "centrality": "Central",
+      "centrality_modifier": 1.5,
+      "instance_score": 16.875,
+      "timestamp": "Throughout, core world-building",
+      "quote": "A film about the afterlife with zero religious content. No God, no heaven, no hell, no reckoning. Just consumer choice extended past death.",
+      "context": "The film actively constructs an elaborate afterlife cosmology and deliberately excludes every religious dimension. The afterlife is run by bureaucratic Afterlife Coordinators. Souls pick themed paradises from a catalog.",
+      "impact": "The secular framework is the entire world. Every scene operates within it. Conservative viewers of faith will notice the absence immediately.",
+      "verdict": "The film's most significant woke element. The world-building IS the secularism.",
+      "authenticity_note": "Emphasized. The deliberate construction of an elaborate godless afterlife goes beyond creative license."
+    },
+    {
+      "id": "WOKE-015",
+      "name": "Globalist Utopia",
+      "category": "Woke",
+      "severity": 2,
+      "base_weight": 1.0,
+      "intensity": 2,
+      "authenticity": "Emphasized",
+      "authenticity_modifier": 1.25,
+      "centrality": "Background",
+      "centrality_modifier": 1.0,
+      "instance_score": 2.5,
+      "timestamp": "First act, afterlife orientation",
+      "quote": "The themed Eternities include Queer World, Man-free World, Nudist World, Weimar World (100% free of Nazis), and Smokers World.",
+      "context": "Played for comedy but normalizes a worldview where identity categories are eternal organizing principles. The afterlife is a progressive utopia of self-sorting.",
+      "impact": "Set dressing rather than plot engine. Most viewers will chuckle and move on.",
+      "verdict": "Mild but pervasive. Progressive furniture always visible.",
+      "authenticity_note": "Emphasized. The identity-themed paradises are deliberate creative choices."
+    },
+    {
+      "id": "WOKE-002",
+      "name": "Tokenized Representation",
+      "category": "Woke",
+      "severity": 1,
+      "base_weight": 1.0,
+      "intensity": 1,
+      "authenticity": "Natural",
+      "authenticity_modifier": 0.75,
+      "centrality": "Background",
+      "centrality_modifier": 0.5,
+      "instance_score": 0.375,
+      "timestamp": "Throughout, supporting cast",
+      "quote": "Da'Vine Joy Randolph and John Early are cast as afterlife coordinators with genuine character arcs.",
+      "context": "Diverse casting that serves the story. Randolph's Anna has a real arc. Not checkbox casting.",
+      "impact": "Trace-level. No reasonable viewer would identify this as agenda-driven.",
+      "verdict": "Barely qualifies. Present for completeness.",
+      "authenticity_note": "Natural. The casting fits and the performances elevate."
+    },
+    {
+      "id": "TRADITIONAL-044",
+      "name": "Sacred Institution of Marriage",
+      "category": "Traditional",
+      "severity": 5,
+      "base_weight": 3.0,
+      "intensity": 5,
+      "authenticity": "Organic",
+      "authenticity_modifier": 0.5,
+      "centrality": "Defining",
+      "centrality_modifier": 2.0,
+      "instance_score": 15.0,
+      "timestamp": "Throughout, the film's thesis",
+      "quote": "Joan risks the Void to return to Larry. Larry stays at the Junction rather than choose paradise without her. They enter a discontinued Eternity that resembles ordinary earthly life.",
+      "context": "The entire plot is a dramatic argument that committed, enduring marital love is worth choosing over youthful romantic passion. Joan watches her memories and chooses Tuesday nights over mountain paradises.",
+      "impact": "Defining. The audience leaves thinking about the beauty of growing old together.",
+      "verdict": "The strongest traditional element in any film we've reviewed this quarter.",
+      "authenticity_note": "Organic. The pro-marriage message IS the story."
+    },
+    {
+      "id": "TRADITIONAL-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 3,
+      "base_weight": 2.0,
+      "intensity": 3,
+      "authenticity": "Organic",
+      "authenticity_modifier": 0.5,
+      "centrality": "Central",
+      "centrality_modifier": 1.5,
+      "instance_score": 4.5,
+      "timestamp": "Throughout, Larry's characterization",
+      "quote": "Larry doesn't rage, doesn't manipulate. He stays at the Junction, takes a bartending job, and waits.",
+      "context": "Larry is the anti-romantic hero. He wins through accumulated quiet devotion, not grand gestures.",
+      "impact": "Larry represents a model of masculinity that values quiet faithfulness over dramatic intensity.",
+      "verdict": "Traditional masculine ideal presented without irony and rewarded by the narrative.",
+      "authenticity_note": "Organic. Larry's character doesn't work without this quality."
+    },
+    {
+      "id": "TRADITIONAL-026",
+      "name": "The Self-Sacrificing Hero",
+      "category": "Traditional",
+      "severity": 3,
+      "base_weight": 3.0,
+      "intensity": 3,
+      "authenticity": "Organic",
+      "authenticity_modifier": 0.5,
+      "centrality": "Central",
+      "centrality_modifier": 1.5,
+      "instance_score": 6.75,
+      "timestamp": "Late second act",
+      "quote": "Larry tells Joan to spend eternity with Luke because he wants her to be happy, even at the cost of his own eternal happiness.",
+      "context": "Larry's sacrifice is the film's dramatic turning point. His selflessness triggers Joan's realization about the depth of his love.",
+      "impact": "Classic self-sacrifice treated as the highest expression of love.",
+      "verdict": "Strongly traditional. Self-sacrifice as love's highest form.",
+      "authenticity_note": "Organic. This beat is the emotional hinge of the entire film."
+    },
+    {
+      "id": "TRADITIONAL-033",
+      "name": "Wise Elder",
+      "category": "Traditional",
+      "severity": 1,
+      "base_weight": 1.0,
+      "intensity": 1,
+      "authenticity": "Natural",
+      "authenticity_modifier": 0.75,
+      "centrality": "Supporting",
+      "centrality_modifier": 0.5,
+      "instance_score": 0.375,
+      "timestamp": "Throughout, Anna's subplot",
+      "quote": "Anna never picked an Eternity because she found herself happiest helping others.",
+      "context": "Anna found happiness in duty and service rather than hedonistic paradise. A gentle counterpoint to the afterlife's consumer framework.",
+      "impact": "Minor but warm. Service over self-interest.",
+      "verdict": "Quietly traditional.",
+      "authenticity_note": "Natural. The character fits organically."
+    },
+    {
+      "id": "TRADITIONAL-050",
+      "name": "Gender Complementarity",
+      "category": "Traditional",
+      "severity": 2,
+      "base_weight": 1.0,
+      "intensity": 2,
+      "authenticity": "Natural",
+      "authenticity_modifier": 0.75,
+      "centrality": "Supporting",
+      "centrality_modifier": 1.0,
+      "instance_score": 1.5,
+      "timestamp": "Throughout, Larry and Joan's dynamic",
+      "quote": "Souls revert to the age when they were happiest. Larry's was when Joan was pregnant with their second child. Luke's was when discussing starting a family.",
+      "context": "Larry is steady and practical. Joan is emotional and romantic. Their differences create a complete unit. Both men's peak happiness is tied to family.",
+      "impact": "Mild but present. Celebrates difference within partnership.",
+      "verdict": "Traditional gender dynamics presented warmly.",
+      "authenticity_note": "Natural. Fits the characters and story."
+    }
+  ],
+  "scoring": {
+    "model_version": "VVWS v2.0",
+    "woke_raw": 19.75,
+    "traditional_raw": 28.125,
+    "raw_difference": 8.375,
+    "normalized_vvws": 1,
+    "confidence": "HIGH",
+    "variance": 1.0,
+    "notes": "The secular afterlife world-building and progressive identity categories are real and pervasive, preventing a strong traditional score. But the emotional thesis is an unambiguous endorsement of lifelong marriage. The audience leaves thinking about the beauty of growing old together, not about Queer World."
+  },
+  "creative_team": {
+    "director": {
+      "name": "David Freyne",
+      "signal": "MODERATE PROGRESSIVE",
+      "filmography": [
+        {
+          "title": "Passing",
+          "year": 2010,
+          "type": "short",
+          "signal": "N/A"
+        },
+        {
+          "title": "The Cured",
+          "year": 2017,
+          "signal": "MILD PROGRESSIVE"
+        },
+        {
+          "title": "Dating Amber",
+          "year": 2020,
+          "signal": "PROGRESSIVE"
+        },
+        {
+          "title": "Eternity",
+          "year": 2025,
+          "signal": "MIXED"
+        }
+      ]
+    },
+    "writers": [
+      {
+        "name": "Pat Cunnane",
+        "signal": "PROGRESSIVE (background), MIXED (output)",
+        "notes": "Obama's Senior Writer and Deputy Director of Messaging. Six years at the White House. Memoir: West Winging It. Script on 2022 Black List."
+      },
+      {
+        "name": "David Freyne",
+        "signal": "MODERATE PROGRESSIVE",
+        "notes": "Co-writer and director. See director profile."
+      }
+    ],
+    "producers": [
+      {
+        "name": "Tim White & Trevor White",
+        "company": "Star Thrower Entertainment",
+        "signal": "NEUTRAL",
+        "notes": "Quality-driven indie house. Credits: King Richard, The Post, Ingrid Goes West, Fair Play, Wind River. Ideologically mixed slate."
+      }
+    ],
+    "composer": {
+      "name": "David Fleming",
+      "signal": "NEUTRAL",
+      "notes": "Rising composer. Credits: Superman (2025), The Last of Us (HBO). No political signal."
+    },
+    "prediction": {
+      "pre_viewing": "MIXED (medium confidence)",
+      "actual": "MIXED (+1)",
+      "accuracy": "Prediction confirmed. The progressive creative team produced progressive world-building but traditional emotional conclusions."
+    }
+  },
+  "tropeAudit": [
+    {
+      "id": "WOKE-009",
+      "name": "Secular Erasure",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": "Low",
+      "centrality": "High",
+      "weightedScore": 7.56,
+      "description": "A film about the afterlife with zero religious content. No God, no heaven, no hell, no reckoning. The entire world-building actively constructs an elaborate godless afterlife."
+    },
+    {
+      "id": "WOKE-015",
+      "name": "Globalist Utopia",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "Low",
+      "centrality": "Low",
+      "weightedScore": 1.4,
+      "description": "Identity-themed Eternities include Queer World, Man-free World, Nudist World. Normalizes a worldview where identity categories are eternal organizing principles. Played for comedy but persistent."
+    },
+    {
+      "id": "WOKE-002",
+      "name": "Tokenized Representation",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "Da'Vine Joy Randolph and John Early cast as afterlife coordinators with genuine character arcs. Diverse casting that serves the story, not checkbox casting."
+    },
+    {
+      "id": "TRAD-044",
+      "name": "Sacred Institution of Marriage",
+      "category": "Traditional",
+      "severity": 5,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 6.3,
+      "description": "Joan risks the Void to return to Larry. Larry stays at the Junction rather than choose paradise without her. The entire plot is a dramatic argument for committed, enduring marital love over youthful romantic passion."
+    },
+    {
+      "id": "TRAD-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "Larry doesn't rage or manipulate. He stays, takes a bartending job, and waits. The anti-romantic hero who wins through accumulated quiet devotion."
+    },
+    {
+      "id": "TRAD-026",
+      "name": "The Self-Sacrificing Hero",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 3.78,
+      "description": "Larry tells Joan to spend eternity with Luke because he wants her to be happy, even at the cost of his own eternal happiness. Classic self-sacrifice as love's highest form."
+    },
+    {
+      "id": "TRAD-033",
+      "name": "Wise Elder",
+      "category": "Traditional",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "Anna never picked an Eternity because she found herself happiest helping others. Service over self-interest. Gently counterpoints the afterlife's consumer framework."
+    },
+    {
+      "id": "TRAD-050",
+      "name": "Gender Complementarity",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Larry is steady and practical, Joan emotional and romantic. Their differences create a complete unit. Both men's peak happiness tied to family. Traditional gender dynamics presented warmly."
+    }
+  ],
+  "wokeScore": 9.31,
+  "tradScore": 13.93,
+  "scoreMargin": "+5 TRAD"
+}

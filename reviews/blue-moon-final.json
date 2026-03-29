@@ -1,0 +1,270 @@
+{
+  "title": "Is Blue Moon Woke? | VirtueVigil Review",
+  "slug": "blue-moon",
+  "byline": "VirtueVigil Editorial Team",
+  "date": "2026-02-17",
+  "film": {
+    "title": "Blue Moon",
+    "year": 2025,
+    "director": "Richard Linklater",
+    "writer": "Robert Kaplow",
+    "producers": [
+      "Mike Blizzard",
+      "John Sloss",
+      "Richard Linklater"
+    ],
+    "composer": "Graham Reynolds",
+    "distributor": "Sony Pictures Classics",
+    "runtime": 100,
+    "rated": "R",
+    "releaseDate": "2025-10-17",
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "scores": {
+    "vvws": 1,
+    "confidence": "HIGH",
+    "variance": 1.0,
+    "classification": "MIXED",
+    "fidelityCasting": "ENHANCED",
+    "wokeTrap": "NONE"
+  },
+  "wokeInstances": [
+    {
+      "trope": "WOKE-009",
+      "name": "Normalization of Non-Traditional Sexuality",
+      "base": 2.0,
+      "intensity": 4,
+      "authenticity": 0.5,
+      "authenticityLabel": "Organic",
+      "centrality": 2.0,
+      "centralityLabel": "Defining",
+      "score": 8.0,
+      "description": "Hart's homosexuality/bisexuality is the emotional core. He declares himself 'omnisexual,' flirts with a delivery boy, and his closeted existence is presented as a source of suffering. Organic because Hart was historically gay."
+    },
+    {
+      "trope": "WOKE-015",
+      "name": "The Sympathetic Outsider",
+      "base": 2.0,
+      "intensity": 3,
+      "authenticity": 0.5,
+      "authenticityLabel": "Organic",
+      "centrality": 1.5,
+      "centralityLabel": "Central",
+      "score": 4.5,
+      "description": "Hart framed as brilliant outsider — Jewish, gay, short, alcoholic — whose marginalization is society's loss. Historically authentic."
+    },
+    {
+      "trope": "WOKE-004",
+      "name": "Institutional Evil (implied)",
+      "base": 3.0,
+      "intensity": 1,
+      "authenticity": 0.5,
+      "authenticityLabel": "Organic",
+      "centrality": 0.5,
+      "centralityLabel": "Background",
+      "score": 0.75,
+      "description": "Mid-century America's treatment of gay men as systematically cruel, depicted through implication and internalized oppression rather than direct institutional confrontation."
+    }
+  ],
+  "traditionalInstances": [
+    {
+      "trope": "TRAD-038",
+      "name": "Consequences of Vice",
+      "base": 2.0,
+      "intensity": 4,
+      "authenticity": 0.5,
+      "authenticityLabel": "Organic",
+      "centrality": 2.0,
+      "centralityLabel": "Defining",
+      "score": 8.0,
+      "description": "Hart's alcoholism destroys everything — career, partnership, love, life. No redemption arc. He dies from it seven months later. Vice has consequences, period."
+    },
+    {
+      "trope": "TRAD-048",
+      "name": "Personal Accountability",
+      "base": 2.0,
+      "intensity": 3,
+      "authenticity": 0.5,
+      "authenticityLabel": "Organic",
+      "centrality": 1.5,
+      "centralityLabel": "Central",
+      "score": 4.5,
+      "description": "Hart is not presented as a victim. He sabotaged his own career through self-pity and alcoholism. The film holds him accountable even while acknowledging the constraints of his era."
+    },
+    {
+      "trope": "TRAD-041",
+      "name": "Industry & Perseverance / Artistic Discipline",
+      "base": 2.0,
+      "intensity": 3,
+      "authenticity": 0.5,
+      "authenticityLabel": "Organic",
+      "centrality": 1.5,
+      "centralityLabel": "Central",
+      "score": 4.5,
+      "description": "Hart's lament for craftsmanship and sophistication is inherently conservative. He values tradition and the old standards. The film treats this position with respect."
+    },
+    {
+      "trope": "TRAD-033",
+      "name": "Wise Elder / Respect for Legacy",
+      "base": 1.0,
+      "intensity": 2,
+      "authenticity": 0.5,
+      "authenticityLabel": "Organic",
+      "centrality": 1.0,
+      "centralityLabel": "Supporting",
+      "score": 1.0,
+      "description": "Reverence for Broadway's golden age, the Rodgers and Hart songbook, and artistic tradition. Historical cameos (E. B. White, Sondheim, George Roy Hill) create a tapestry of cultural heritage."
+    }
+  ],
+  "wokeTotal": 13.25,
+  "traditionalTotal": 18.0,
+  "rawDifference": 4.75,
+  "cast": [
+    {
+      "actor": "Ethan Hawke",
+      "role": "Lorenz Hart"
+    },
+    {
+      "actor": "Margaret Qualley",
+      "role": "Elizabeth Weiland"
+    },
+    {
+      "actor": "Bobby Cannavale",
+      "role": "Eddie"
+    },
+    {
+      "actor": "Andrew Scott",
+      "role": "Richard Rodgers"
+    },
+    {
+      "actor": "Jonah Lees",
+      "role": "Morty Rifkin"
+    },
+    {
+      "actor": "Simon Delaney",
+      "role": "Oscar Hammerstein II"
+    },
+    {
+      "actor": "Patrick Kennedy",
+      "role": "E. B. White"
+    },
+    {
+      "actor": "Cillian Sullivan",
+      "role": "Stephen Sondheim"
+    },
+    {
+      "actor": "David Rawle",
+      "role": "George Roy Hill"
+    },
+    {
+      "actor": "John Doran",
+      "role": "Weegee"
+    },
+    {
+      "actor": "Anne Brogan",
+      "role": "Frieda Hart"
+    }
+  ],
+  "mainstreamScores": {
+    "rtCritics": 93,
+    "rtAudience": null,
+    "imdb": 6.8
+  },
+  "parentalGuidance": {
+    "violence": "None",
+    "sexual": "Mild (thematic discussion of sexuality, no nudity)",
+    "language": "Moderate",
+    "substance": "Heavy thematic presence (alcoholism central to story)",
+    "scary": "Mild (emotional intensity)",
+    "minimumAge": 14,
+    "recommendedAge": 16
+  },
+  "predictionIndicator": {
+    "preViewing": "MIXED, leaning TRADITIONAL (+1 to +2)",
+    "preViewingConfidence": "moderate",
+    "actualVerdict": "MIXED (+1)",
+    "predictionResult": "confirmed"
+  },
+  "reviewBasis": "Post-release analysis",
+  "scoringModel": "VVWS v2.0",
+  "tropeAudit": [
+    {
+      "id": "WOKE-009",
+      "name": "Normalization of Non-Traditional Sexuality",
+      "category": "Woke",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 5.04,
+      "description": "Hart's homosexuality/bisexuality is the emotional core. He declares himself 'omnisexual,' flirts with a delivery boy, and his closeted existence is a source of suffering. Organic because Hart was historically gay."
+    },
+    {
+      "id": "WOKE-015",
+      "name": "The Sympathetic Outsider",
+      "category": "Woke",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 3.78,
+      "description": "Hart framed as brilliant outsider — Jewish, gay, short, alcoholic — whose marginalization is society's loss. Historically authentic portrayal."
+    },
+    {
+      "id": "WOKE-004",
+      "name": "Institutional Evil (implied)",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "Mid-century America's treatment of gay men depicted through implication and internalized oppression rather than direct institutional confrontation."
+    },
+    {
+      "id": "TRAD-038",
+      "name": "Consequences of Vice",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 5.04,
+      "description": "Hart's alcoholism destroys everything — career, partnership, love, life. No redemption arc. He dies from it seven months later. Vice has consequences, period."
+    },
+    {
+      "id": "TRAD-048",
+      "name": "Personal Accountability",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 3.78,
+      "description": "Hart is not presented as a victim. He sabotaged his own career through self-pity and alcoholism. The film holds him accountable even while acknowledging era constraints."
+    },
+    {
+      "id": "TRAD-041",
+      "name": "Industry & Perseverance / Artistic Discipline",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "Hart's lament for craftsmanship and sophistication is inherently conservative. He values tradition and the old standards. The film treats this position with respect."
+    },
+    {
+      "id": "TRAD-033",
+      "name": "Wise Elder / Respect for Legacy",
+      "category": "Traditional",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "Reverence for Broadway's golden age, the Rodgers and Hart songbook, and artistic tradition. Historical cameos create a tapestry of cultural heritage."
+    }
+  ],
+  "wokeScore": 9.17,
+  "tradScore": 11.27,
+  "scoreMargin": "+2 TRAD",
+  "verdict": "MIXED"
+}
