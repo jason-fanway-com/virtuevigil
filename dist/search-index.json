@@ -240,6 +240,18 @@
     "poster": "/images/posters/big-daddy-1999.jpg"
   },
   {
+    "slug": "the-wedding-singer-1998",
+    "title": "The Wedding Singer",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Romantic Comedy",
+    "year": 1998,
+    "type": "film",
+    "wokeScore": 2.35,
+    "tradScore": 17.5,
+    "poster": "/images/posters/the-wedding-singer-1998.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",

@@ -94020,5 +94020,219 @@
       }
     ],
     "datePublished": "2026-03-29"
+  },
+  {
+    "id": "the-wedding-singer-1998",
+    "slug": "the-wedding-singer-1998",
+    "title": "The Wedding Singer",
+    "year": 1998,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Romantic Comedy",
+    "date": "2026-03-29",
+    "author": "Debra Ducane",
+    "readTime": "9 min",
+    "poster": "/images/posters/the-wedding-singer-1998.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2.35,
+    "tradScore": 17.5,
+    "authIndex": 91,
+    "scoreMargin": "+15 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The Wedding Singer is an entirely transparent romantic comedy about two good people falling in love while engaged to the wrong people. No hidden agenda. Everything is visible from the opening scene."
+    },
+    "seoTitle": "The Wedding Singer (1998) Review: Adam Sandler's Romantic Classic Is More Traditional Than You Remember",
+    "seoDescription": "VirtueVigil reviews The Wedding Singer (1998). Adam Sandler's beloved romantic comedy scores strongly traditional. Full woke score, trope breakdown, and parental guidance for conservative families.",
+    "seoKeywords": [
+      "The Wedding Singer review",
+      "The Wedding Singer woke score",
+      "The Wedding Singer 1998 conservative review",
+      "is The Wedding Singer woke",
+      "Adam Sandler Wedding Singer traditional values",
+      "The Wedding Singer VirtueVigil",
+      "The Wedding Singer parents guide",
+      "best romantic comedies conservatives"
+    ],
+    "summary": {
+      "overall": "The Wedding Singer is the best Adam Sandler film. Not the funniest. Not the most ambitious. The best, because it is the one where his persona serves a story worth telling.\n\nRobbie Hart is a wedding singer in 1985 who gets left at the altar by his girlfriend Linda, who decided a wedding singer does not have enough ambition for her. While processing his humiliation, he falls for Julia Sullivan, a waitress engaged to a flashy, unfaithful Wall Street trader named Glenn. The film is about two genuinely good people who belong together figuring that out before Julia makes a terrible mistake.\n\nThe setting matters enormously. 1985 New Jersey is rendered with affectionate detail: big hair, neon, synthesizers, and a cultural moment that feels genuinely warmer than the cynical present. The nostalgia is not ironic. The film loves its era, which means it loves the values embedded in that era: commitment, community, the idea that there is something sacred about a wedding.\n\nRobbie's entire identity is built around weddings. He believes in the institution. He has built his career and his sense of self around celebrating the moment two people commit to each other. His devastation when Linda leaves him is not just about losing a girlfriend. It is about losing faith in the thing he has devoted his life to. His recovery arc is not about becoming someone who doesn't care about marriage. It is about finding the right person to believe in with him.\n\nJulia, played by Drew Barrymore at her most lovable, is gentle, loyal, and good. She is staying with Glenn partly out of inertia, partly out of not wanting to admit she made a mistake, and partly because she genuinely doesn't believe she deserves better. When she realizes she loves Robbie, the film does not celebrate her for leaving Glenn because independence is valuable. It celebrates her because she is choosing genuine love over comfortable settlement.\n\nGlenn is the film's villain, and he earns it. He is unfaithful, materialistic, and treats Julia as an accessory. The film is not making an argument about the institution of marriage being corrupt. It is making an argument about the institution being worth protecting from people who treat it as a status symbol.\n\nThe film has a gay character, George, who is Robbie's best friend. He is treated with warmth, not as a punchline. This is handled without any political agenda attached to it, which was actually unusual for 1998. George is simply part of the community of people Robbie loves.\n\nThe airplane finale, where Robbie serenades Julia on a flight to Las Vegas, should be unbearably cheesy. It is not. It works because the film has earned it: we have watched two people who are genuinely good for each other circle each other for ninety minutes. When they finally connect, the payoff is real.\n\nThe Wedding Singer is the cleanest argument in the Sandler catalog for traditional romantic values. Marriage matters. Choosing your partner based on character rather than status matters. Commitment means something. These are not radical ideas, but they are ideas the culture increasingly treats as quaint. This film makes them feel obvious.",
+      "oneLiner": "Two good people fall in love in 1985 New Jersey in the most traditionally romantic film in Adam Sandler's catalog.",
+      "verdict": "TRADITIONAL. The film celebrates marriage, genuine love over material status, fidelity, and community. The villain is unfaithful and materialistic. The heroes are committed and sincere. Clean moral framework from start to finish.",
+      "adultInsight": "The Wedding Singer is the rare Sandler film that conservative adults can recommend without caveats. The values are genuinely warm: marriage is sacred, fidelity matters, choosing a partner based on character beats choosing one based on money. The 1985 nostalgia is affectionate, not ironic. Drew Barrymore and Adam Sandler have genuine chemistry that makes the romance feel earned rather than manufactured. This is a film worth revisiting, and worth showing to teenagers learning what falling in love actually looks like.",
+      "parentalGuidance": "Rated PG-13. Mild language and some crude humor. Brief references to sexuality. No graphic content. The film celebrates marriage and romantic commitment. Appropriate for 12 and up. One of the more family-friendly films in Sandler's catalog."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-WS-01",
+        "name": "Gay Best Friend Character",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 1.0,
+        "description": "George is Robbie's gay best friend, treated with warmth rather than as a punchline. He is not a political statement in 1998's context, but his presence normalizes gay friendship as unremarkable within a conservative community. Minor element, not ideologically foregrounded."
+      },
+      {
+        "id": "WOKE-WS-02",
+        "name": "Mild Crude Humor",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 1.0,
+        "description": "Standard mild crude comedy. Significantly less than Sandler's other early films. Minor."
+      },
+      {
+        "id": "WOKE-WS-03",
+        "name": "Female Character Leaving Engagement",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 0.35,
+        "description": "Julia breaks her engagement to Glenn, which could read as a celebration of commitment-avoidance. But the film is clear: she is leaving because Glenn is unfaithful and the relationship is wrong. She is not leaving marriage as an institution. She is choosing a better marriage."
+      },
+      {
+        "id": "TRAD-WS-01",
+        "name": "Marriage as Sacred and Worth Defending",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "Robbie's entire identity is built around the sanctity of weddings. His devastation when Linda leaves him is not merely personal heartbreak. It is a crisis of faith in the institution he has devoted himself to. His recovery arc requires finding a partner who shares his belief that marriage means something. The film treats this as the correct worldview."
+      },
+      {
+        "id": "TRAD-WS-02",
+        "name": "Fidelity as Non-Negotiable",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "Glenn's unfaithfulness is what makes him irredeemably the wrong partner for Julia. The film does not frame infidelity as a complication or a personality quirk. It is a moral disqualification. The contrast with Robbie's complete devotion once he falls in love is the film's central moral statement."
+      },
+      {
+        "id": "TRAD-WS-03",
+        "name": "Community and Belonging",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "The film is set within a tight community of people who know each other, celebrate together, and look out for each other. Robbie's depression affects the whole community. His recovery is a communal event. The film treats community belonging as foundational to a good life, not as an optional lifestyle addition."
+      },
+      {
+        "id": "TRAD-WS-04",
+        "name": "Character Over Material Status",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "Julia is choosing between a wealthy trader (Glenn) and a working wedding singer (Robbie). The film is explicit: Glenn's money is not a virtue. His character is a flaw. Julia choosing Robbie is a choice of genuine goodness over material advantage. This is an old-fashioned moral that the film delivers without embarrassment."
+      },
+      {
+        "id": "TRAD-WS-05",
+        "name": "Romantic Love That Leads to Marriage",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The film's romantic arc leads explicitly toward marriage, not just companionship or romantic fulfillment. Robbie wants to marry Julia. Julia wants to be with someone who believes in marriage. The endpoint is a wedding, which is the film's way of saying: this is how love is supposed to end up."
+      },
+      {
+        "id": "TRAD-WS-06",
+        "name": "Eighties Nostalgia as Cultural Warmth",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 0.7,
+        "description": "The film's loving recreation of 1985 carries an implicit argument that something was worth celebrating about that era. The nostalgia is warm rather than ironic. The values embedded in the period (community, celebration, commitment) are presented as things worth preserving rather than obstacles to be outgrown."
+      }
+    ],
+    "creative_team": {
+      "director": {
+        "name": "Frank Coraci",
+        "ideology": "CENTER. Happy Madison regular director with no notable political ideology in his work.",
+        "profile": "Frank Coraci directed The Waterboy (1998) and You Don't Mess with the Zohan (2008) in the Sandler catalog. The Wedding Singer is his best work: a film that benefits from his ability to create genuine warmth without sentimentality. He lets the chemistry between Sandler and Barrymore do the work."
+      },
+      "writers": {
+        "names": "Tim Herlihy",
+        "profile": "The Wedding Singer is Tim Herlihy's most restrained and emotionally genuine script. The Sandler-Herlihy formula here is paired back from the crude comedy of their other collaborations and focused on a love story that earns its emotion. Herlihy clearly had real affection for the period and the characters."
+      },
+      "lead_producer": {
+        "name": "Robert Simonds, Jack Giarraputo",
+        "company": "New Line Cinema / Happy Madison Productions"
+      },
+      "composer": {
+        "name": "Teddy Castellucci",
+        "profile": "The score is secondary to the period soundtrack, which includes era-appropriate songs including 'You Spin Me Round,' 'Blue Monday,' and 'Do You Really Want to Hurt Me.' Billy Idol appears as himself. The period authenticity of the music is central to the film's charm."
+      },
+      "top_cast": [
+        {
+          "name": "Adam Sandler",
+          "role": "Robbie Hart"
+        },
+        {
+          "name": "Drew Barrymore",
+          "role": "Julia Sullivan"
+        },
+        {
+          "name": "Christine Taylor",
+          "role": "Holly Sullivan"
+        },
+        {
+          "name": "Allen Covert",
+          "role": "Sammy"
+        },
+        {
+          "name": "Matthew Glave",
+          "role": "Glenn Guglia"
+        },
+        {
+          "name": "Ellen Albertini Dow",
+          "role": "Rosie"
+        },
+        {
+          "name": "Billy Idol",
+          "role": "Himself"
+        }
+      ]
+    },
+    "fidelityCasting": {
+      "sourceType": "Original Screenplay",
+      "sourceTitle": "N/A",
+      "assessment": "Original production. No source material fidelity to assess."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Language and sexual references",
+      "recommendedAge": "12+",
+      "contentWarnings": [
+        "Mild language throughout",
+        "Brief sexual humor, non-explicit",
+        "A character is revealed to be unfaithful (no graphic depiction)",
+        "A gay character is present in a supporting role (treated with warmth, no political context)"
+      ],
+      "guidance": "Rated PG-13. The Wedding Singer is one of the cleanest films in Sandler's catalog. The romantic values are sound, the humor is mild by his standards, and the film's celebration of marriage and commitment is genuine. Appropriate for 12 and up. A good option for family viewing with teenagers."
+    },
+    "comparison_films": [
+      {
+        "title": "Sleepless in Seattle",
+        "year": 1993,
+        "comparison": "Both are romantic comedies built around two people who clearly belong together circling each other while engaged to or interested in the wrong person. The Wedding Singer is warmer and funnier. Both celebrate romantic love that leads to marriage."
+      },
+      {
+        "title": "Fever Pitch",
+        "year": 2005,
+        "comparison": "The Sandler-Barrymore pair reunited for 50 First Dates (2004), another warm romance. The Wedding Singer remains their best collaboration because the 1985 setting adds emotional texture that their later work lacks."
+      }
+    ],
+    "datePublished": "2026-03-29"
   }
 ]
