@@ -36,6 +36,18 @@
     "poster": "/images/posters/cast-away-2000.jpg"
   },
   {
+    "slug": "captain-phillips-2013",
+    "title": "Captain Phillips",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Thriller / Drama",
+    "year": 2013,
+    "type": "film",
+    "wokeScore": 9.55,
+    "tradScore": 15.75,
+    "poster": "/images/posters/captain-phillips-2013.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
