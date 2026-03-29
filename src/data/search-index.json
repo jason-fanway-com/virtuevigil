@@ -144,6 +144,18 @@
     "poster": "/images/posters/jaws-1975.jpg"
   },
   {
+    "slug": "et-the-extra-terrestrial-1982",
+    "title": "E.T. the Extra-Terrestrial",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Science Fiction / Family",
+    "year": 1982,
+    "type": "film",
+    "wokeScore": 2.5,
+    "tradScore": 22.96,
+    "poster": "/images/posters/et-the-extra-terrestrial-1982.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
