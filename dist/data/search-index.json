@@ -228,6 +228,18 @@
     "poster": "/images/posters/billy-madison-1995.jpg"
   },
   {
+    "slug": "big-daddy-1999",
+    "title": "Big Daddy",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Comedy Drama",
+    "year": 1999,
+    "type": "film",
+    "wokeScore": 5.5,
+    "tradScore": 17.85,
+    "poster": "/images/posters/big-daddy-1999.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
