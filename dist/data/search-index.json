@@ -96,6 +96,18 @@
     "poster": "/images/posters/deadpool-2016.jpg"
   },
   {
+    "slug": "avengers-2012",
+    "title": "The Avengers",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Superhero / Action",
+    "year": 2012,
+    "type": "film",
+    "wokeScore": 3.5,
+    "tradScore": 13.65,
+    "poster": "/images/posters/the-avengers-2012.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
