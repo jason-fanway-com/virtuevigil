@@ -94464,5 +94464,217 @@
       }
     ],
     "datePublished": "2026-03-29"
+  },
+  {
+    "id": "click-2006",
+    "slug": "click-2006",
+    "title": "Click",
+    "year": 2006,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Comedy Drama Fantasy",
+    "date": "2026-03-29",
+    "author": "Debra Ducane",
+    "readTime": "10 min",
+    "poster": "/images/posters/click-2006.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2.0,
+    "tradScore": 19.95,
+    "authIndex": 90,
+    "scoreMargin": "+18 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Click presents a workaholic father who gets a universal remote that controls time and uses it to skip the inconvenient parts of family life, until he realizes what he has skipped away. The warning is visible from act one."
+    },
+    "seoTitle": "Click (2006) Review: Adam Sandler's Most Surprisingly Moving Film Gets a VirtueVigil Score",
+    "seoDescription": "VirtueVigil reviews Click (2006). Adam Sandler's time-remote fantasy is one of Hollywood's most devastating arguments for putting family first. Full woke score, trope breakdown, and parental guidance.",
+    "seoKeywords": [
+      "Click 2006 review",
+      "Click Adam Sandler woke score",
+      "Click traditional values",
+      "is Click woke",
+      "Click VirtueVigil",
+      "Click 2006 conservative review",
+      "Click parents guide",
+      "Click movie family values"
+    ],
+    "summary": {
+      "overall": "Click is a better film than it has any right to be, and the reason is that it has something real to say and is not ashamed to say it loudly.\n\nMichael Newman is an architect grinding toward partner in a firm that keeps promising him rewards he never quite receives. He has a beautiful wife (Kate Beckinsale), two kids, a dog, and a suburban house, and he is absent from all of it because he is always working for the next thing. He finds a universal remote in a Bed, Bath, and Beyond that controls time: pause, fast forward, rewind, mute. At first he uses it to skip the annoying parts of life. Then the remote learns his preferences and starts fast-forwarding automatically. He blinks and finds himself at 60, estranged from his wife, having missed his children's childhoods, his father's final years, his dog's death, his entire actual life.\n\nThis is a Christmas Carol structure and the film is not embarrassed about it. Michael is Scrooge. The remote is the three spirits combined. The message is identical: you cannot buy back time, and the life you sacrifice for career success is the only life you had.\n\nThe film's emotional gut-punch comes in the third act. Michael fast-forwards into a future where he is obese, estranged, successful, and completely alone. His father has died. He missed it. His son is getting married and Michael has to drag himself from a hospital bed to attend. The relationship with his wife is gone. He gave everything to career advancement and the thing he advanced toward is ashes.\n\nChristopher Walken's Morty, the otherworldly remote-vendor, watches Michael's tragedy with something like compassion. He is not a villain dispensing punishment. He is an observer who knows what Michael is choosing and cannot stop him. The film presents Morty as a kind of angel, though the film is careful not to make this explicitly religious. The message is clear enough without it: someone is watching, the choices matter, and time does not reverse.\n\nThe final sequence, where Michael in the rain outside his son's wedding finally breaks and begs his family not to make his mistake, is devastating. Kate Beckinsale crying over her ex-husband's collapsed body while he tries to communicate the one thing that matters before he dies is one of the more genuinely moving scenes in any Sandler film. The film earns this. It has built Michael's losses carefully and specifically.\n\nClick has been dismissed as a manipulative tearjerker in a Sandler comedy wrapper. That dismissal is cynical. The film is manipulative in the way all morality tales are manipulative: it makes you feel the cost of a wrong choice until you understand viscerally why it is wrong. That is what stories are supposed to do.\n\nThe gender dynamics are conventional in the best sense: Michael has a wife who loves him and children who need him and a father who wants to spend time with him. He neglects all of them for work. The film is not making a feminist argument about work-life balance. It is making an argument about what men owe their families. A man who chooses career over family makes a catastrophic error. The film does not qualify this or complicate it. The error is the error.\n\nFor conservative audiences, Click is a gift. It is a mainstream Hollywood comedy that delivers a thoroughly traditional moral: the family you have is more valuable than the success you are chasing. Presence matters. Time is finite. Choose accordingly.",
+      "oneLiner": "A workaholic father with a time-remote skips the inconvenient parts of family life and wakes up at 60 to find he skipped everything that mattered. One of Hollywood's most devastating arguments for putting family first.",
+      "verdict": "STRONGLY TRADITIONAL. The entire film is a warning against career idolatry and absence from family. The conclusion is unambiguous: work cannot substitute for presence. Family is what matters. The film is a traditional morality tale in comedy packaging.",
+      "adultInsight": "Click is the Sandler film most likely to make a grown man cry in his car afterward. The film's central argument is completely conservative: your family needs you there, not just financially successful. The workaholic culture that American men inhabit is presented as a path to tragedy, not a virtue. For fathers who find themselves always working for the next thing, this film is a warning worth taking seriously. The Christmastime-and-dying-in-the-rain ending sounds manipulative. Watching it, it does not feel that way. It feels earned.",
+      "parentalGuidance": "Rated PG-13. Crude humor and some sexual content in the comedy first half, including crude jokes involving the remote control. The second half becomes genuinely sad and emotionally heavy, with extended sequences of Michael's estrangement from his family and his father's death. Children under 12 should probably not watch this. For teenagers and adults, the emotional themes are worth the discomfort."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-CL-01",
+        "name": "Crude Comedy (First Half)",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 1.0,
+        "description": "The film's first half plays Michael's remote-control discoveries for broad comedy, including some crude sexual humor. The crude jokes are not the point of the film, but they are present."
+      },
+      {
+        "id": "WOKE-CL-02",
+        "name": "Brief Crude Sexual Humor",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 1.0,
+        "description": "Several sexual jokes early in the film. Minor but worth noting for parental guidance."
+      },
+      {
+        "id": "TRAD-CL-01",
+        "name": "Career Idolatry as Tragedy",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "The film's entire narrative is a warning against prioritizing career advancement over family presence. Michael sacrifices his actual life for work promotions and ends up alone, having missed his children's childhoods, his father's death, and the marriage he took for granted. The film makes the cost visceral and specific."
+      },
+      {
+        "id": "TRAD-CL-02",
+        "name": "Father Presence as Irreplaceable",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 3.5,
+        "description": "Michael's absence from his children's formative years is the specific tragedy the film catalogs. His son grows up to be a replica of Michael the workaholic, because the only model he had was absence. The cycle of paternal absence propagating through generations is the film's most conservative and most devastating insight."
+      },
+      {
+        "id": "TRAD-CL-03",
+        "name": "Marriage as the Relationship Worth Everything",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "The relationship between Michael and Donna is the film's emotional center. His loss of her to his fast-forwarded future self is the wound that motivates the final act. The film treats the marriage as the most valuable thing Michael had and squandered. The ending's hope is built on the possibility of saving that marriage."
+      },
+      {
+        "id": "TRAD-CL-04",
+        "name": "Son-Father Relationship Across Generations",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "Michael's father (Henry Winkler) wants time with his son. Michael is always too busy. He fast-forwards past his father's visit. His father dies in the fast-forwarded future before Michael can say goodbye. The film treats this as one of the most tragic costs of Michael's choices. The reconciliation scene in the hospital, where Michael finally grieves for his father, is one of the film's most honest emotional moments."
+      },
+      {
+        "id": "TRAD-CL-05",
+        "name": "Deathbed Wisdom as the Film's Moral",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 1.4,
+        "description": "Michael's collapse outside his son's wedding, his desperate attempt to communicate the only truth that matters, and the film's use of Morty as a kind of guardian angel are all traditional storytelling devices: the dying man who finally understands what he should have valued. The film belongs in the tradition of It's a Wonderful Life and A Christmas Carol."
+      },
+      {
+        "id": "TRAD-CL-06",
+        "name": "Time Is Finite, Choose Wisely",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The remote control makes literal what every workaholic tells himself: I will just skip the parts I don't want to deal with now and get back to them later. The film shows that there is no getting back. Skipped time is gone. The traditional wisdom that time is the only genuinely finite resource is the film's central metaphor."
+      },
+      {
+        "id": "TRAD-CL-07",
+        "name": "Redemption Through Recognition",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 1.05,
+        "description": "The film ends with Michael waking up and having the chance to make different choices. He has not escaped the consequences of his past decisions, but he has been given the rare gift of knowing what those decisions cost. The Scrooge-style redemption is traditional in its structure: recognition, repentance, and the chance to begin again."
+      }
+    ],
+    "creative_team": {
+      "director": {
+        "name": "Frank Coraci",
+        "ideology": "CENTER. The Wedding Singer director returns. Coraci handles the tonal shifts between comedy and tearjerker with more skill here than in any of his other Sandler collaborations.",
+        "profile": "Click is Coraci's best film. He navigates the difficult tonal transition from broad comedy to genuine tragedy with surprising grace. The scenes of Michael fast-forwarding through his life are visually inventive and emotionally specific."
+      },
+      "writers": {
+        "names": "Steve Koren, Mark O'Keefe",
+        "profile": "Koren and O'Keefe also wrote Bruce Almighty (2003), another Jim Carrey vehicle about a man given divine powers that examine what matters in life. The morality tale structure is consistent across their work: everyman receives extraordinary power, misuses it, and pays a cost that teaches him what he should have valued all along."
+      },
+      "lead_producer": {
+        "name": "Jack Giarraputo, Neal H. Moritz",
+        "company": "Columbia Pictures / Happy Madison Productions"
+      },
+      "composer": {
+        "name": "Rupert Gregson-Williams",
+        "profile": "Competent dramatic scoring that handles the comedy-to-tragedy transition reasonably well."
+      },
+      "top_cast": [
+        {
+          "name": "Adam Sandler",
+          "role": "Michael Newman"
+        },
+        {
+          "name": "Kate Beckinsale",
+          "role": "Donna Newman"
+        },
+        {
+          "name": "Christopher Walken",
+          "role": "Morty"
+        },
+        {
+          "name": "David Hasselhoff",
+          "role": "John Ammer"
+        },
+        {
+          "name": "Henry Winkler",
+          "role": "Ted Newman"
+        },
+        {
+          "name": "Julie Kavner",
+          "role": "Trudy Newman"
+        }
+      ]
+    },
+    "fidelityCasting": {
+      "sourceType": "Original Screenplay",
+      "sourceTitle": "N/A",
+      "assessment": "Original production. No source material fidelity to assess."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Crude and sexual humor, language, and a brief drug reference",
+      "recommendedAge": "13+",
+      "contentWarnings": [
+        "Crude sexual humor in the film's first half",
+        "Mild language throughout",
+        "A brief drug reference",
+        "Extended emotionally heavy sequences in the third act, including a parent's death and family estrangement",
+        "The father's collapsed body in the rain sequence may be distressing for sensitive viewers",
+        "The film's PG-13 rating undersells the emotional heaviness of the second half"
+      ],
+      "guidance": "Rated PG-13. Click is more emotionally complex than its rating suggests. The crude comedy of the first half gives way to genuine tragedy in the second. The film's emotional impact on adults can be significant. For younger children, the extended sequences of family estrangement and missed time may be confusing or distressing without adult context. Recommended for 13 and up, with parental engagement encouraged for younger teens."
+    },
+    "comparison_films": [
+      {
+        "title": "A Christmas Carol",
+        "year": 1843,
+        "comparison": "Click is explicitly a Christmas Carol adaptation. The remote is the three spirits. Morty is a combination of them. The structure is identical. The morality is identical: a man who has sacrificed the right things for the wrong things is shown the cost before it is too late."
+      },
+      {
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "comparison": "Both films use a supernatural intervention to show a man the cost of his choices. George Bailey sees what the world would be without him. Michael Newman sees what his life looks like when he skips the parts he thought were inconvenient. Both arrive at the same conclusion: the family and community you have are the measure of your life."
+      }
+    ],
+    "datePublished": "2026-03-29"
   }
 ]

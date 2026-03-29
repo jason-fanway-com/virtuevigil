@@ -264,6 +264,18 @@
     "poster": "/images/posters/grown-ups-2010.jpg"
   },
   {
+    "slug": "click-2006",
+    "title": "Click",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Comedy Drama Fantasy",
+    "year": 2006,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 19.95,
+    "poster": "/images/posters/click-2006.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
