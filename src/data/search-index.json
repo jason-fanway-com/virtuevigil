@@ -300,6 +300,18 @@
     "poster": "/images/posters/moonrise-kingdom-2012.jpg"
   },
   {
+    "slug": "the-royal-tenenbaums-2001",
+    "title": "The Royal Tenenbaums",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Comedy Drama",
+    "year": 2001,
+    "type": "film",
+    "wokeScore": 7,
+    "tradScore": 9.1,
+    "poster": "/images/posters/the-royal-tenenbaums-2001.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
