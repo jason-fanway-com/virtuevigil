@@ -276,6 +276,18 @@
     "poster": "/images/posters/click-2006.jpg"
   },
   {
+    "slug": "the-grand-budapest-hotel-2014",
+    "title": "The Grand Budapest Hotel",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Comedy Adventure",
+    "year": 2014,
+    "type": "film",
+    "wokeScore": 7.1,
+    "tradScore": 10.64,
+    "poster": "/images/posters/the-grand-budapest-hotel-2014.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
