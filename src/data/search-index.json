@@ -108,6 +108,18 @@
     "poster": "/images/posters/the-avengers-2012.jpg"
   },
   {
+    "slug": "the-lion-king-1994",
+    "title": "The Lion King",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated / Drama / Musical",
+    "year": 1994,
+    "type": "film",
+    "wokeScore": 1.05,
+    "tradScore": 24.85,
+    "poster": "/images/posters/the-lion-king-1994.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
