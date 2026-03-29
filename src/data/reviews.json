@@ -92186,5 +92186,209 @@
       }
     ],
     "datePublished": "2026-03-29"
+  },
+  {
+    "id": "jaws-1975",
+    "slug": "jaws-1975",
+    "title": "Jaws",
+    "year": 1975,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Thriller",
+    "date": "2026-03-29",
+    "author": "Debra Ducane",
+    "readTime": "10 min",
+    "poster": "/images/posters/jaws-1975.jpg",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 3.5,
+    "tradScore": 18.48,
+    "authIndex": 94,
+    "scoreMargin": "+15 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Jaws has no woke content hidden until after the midpoint. The film is straightforwardly about three men hunting a dangerous shark. There is no progressive ideology lurking beneath the surface. What you see in the first ten minutes is what you get for the full two hours."
+    },
+    "seoTitle": "Jaws (1975) Review: Spielberg's Summer Classic Scores Traditional | VirtueVigil",
+    "seoDescription": "VirtueVigil reviews Jaws (1975). Spielberg's landmark thriller earns a TRADITIONAL verdict. Three competent men protect their community from genuine evil. Classic masculine heroism, institutional courage, and the defense of family. Conservative film fans, this one's yours.",
+    "seoKeywords": [
+      "Jaws 1975 review",
+      "Jaws conservative review",
+      "Jaws woke or traditional",
+      "Spielberg Jaws VirtueVigil",
+      "Jaws classic film review",
+      "is Jaws woke",
+      "Jaws 1975 traditional values",
+      "Spielberg traditional films",
+      "Jaws Roy Scheider Richard Dreyfuss"
+    ],
+    "summary": {
+      "overall": "Fifty years later, Jaws is still the template. Not just for summer blockbusters, which it invented, but for a certain kind of American story: a man comes to a new community, finds it threatened, and risks everything to protect it. That story is not complicated. It is also not woke.\n\nChief Brody (Roy Scheider) is a New York cop who moved to Amity Island because he thought small-town life would be safer for his family. It is not. A great white shark starts killing swimmers. The mayor, Vaughn (Murray Hamilton), wants to keep the beaches open because the Fourth of July tourist money is the lifeblood of the town. Brody knows they should close the beaches. The tension between institutional cowardice and individual conscience is the film's real engine, and it runs cleaner than almost any thriller made since.\n\nWhat makes Jaws hold up is the characterization. These are three actual men with distinct personalities, histories, and fears. Brody is afraid of the water. Quint (Robert Shaw), the weathered shark hunter, carries the specific trauma of the Indianapolis disaster, a real WWII event where hundreds of sailors were left in the water after their ship sank and sharks killed nearly half of them. His monologue about that experience is the best scene in the film and one of the best scenes in American cinema. Hooper (Richard Dreyfuss) is the young oceanographer, educated and enthusiastic, who provides the technical knowledge but has to earn the respect of the working-class Quint. The dynamic between these three men, the friction, the mutual testing, the eventual unity, is pure traditional masculinity in action.\n\nThe film has almost no ideology. It has a corrupt politician who prioritizes money over lives, which is not a liberal critique of capitalism. It is a conservative critique of civic cowardice: someone in authority failing in his duty to protect his community. Brody is not fighting the system. He is trying to do his job and being blocked by a man who won't do his. When Brody finally kills the shark, it is not a metaphor for anything. It is a man defending his town.\n\nFamily matters here in a way that feels real rather than obligatory. The scene where Brody's son mimics his body language at the dinner table is one of the most quietly observed moments in the film. Brody looks at his kid, puts his arm around him, and you understand everything about this man's motivation without a single line of dialogue. He is doing all of this for his family. That is not a progressive sentiment. That is the oldest story there is.\n\nThe technical achievement is separate from the ideology but inseparable from the experience. The mechanical shark failing constantly forced Spielberg to not show it, which made it scarier. The John Williams score is so embedded in the culture that it has become its own shorthand for dread. The underwater point-of-view shots, borrowed from Hitchcock, turned something as common as a swimming crowd into a landscape of vulnerability. This is craft in service of storytelling, the opposite of ideology in service of craft.\n\nQuint's death is earned. The film does not sentimentalize it or turn it into a speech. He goes down fighting, which is the only way a man like Quint would go. Brody, the amateur, finishes the job. The ending is not triumphant in a Hollywood way. It is relieved. Two men swimming back to shore after barely surviving, with one of their crew dead. The shark is gone. The town is safe. That will have to be enough.\n\nJaws is not a film that needs defending on ideological grounds. It simply does not have the problems that make modern blockbusters exhausting. No lectures. No tokenism. No character whose primary function is to represent a demographic rather than drive a story. Three men on a boat, doing a dangerous job, protecting people they care about. That is a traditional story. It is also a great one.",
+      "oneLiner": "Three men on a boat. One monster to kill. Zero lectures. Jaws is the American thriller at its purest.",
+      "verdict": "TRADITIONAL. Three competent men protect their community from genuine evil. Family, duty, and masculine courage are the film's core values. The corrupt mayor is a civic failure, not a systemic villain. This is classic American storytelling at its best.",
+      "adultInsight": "Conservative adults should return to Jaws not out of nostalgia but because it is a useful corrective to what blockbusters have become. The film trusts its audience to understand that people die in the ocean, that civic leaders sometimes fail, and that competent men sometimes have to take matters into their own hands. It does not moralize about any of this. The closest thing to a political element is the mayor prioritizing money over safety, which reads today as a critique of short-sighted institutional leadership regardless of political affiliation. Quint's Indianapolis monologue is worth showing to any young person as an example of how American cinema used to honor military sacrifice with dignity and specificity rather than generic flag-waving. The scene was ad-libbed substantially by Robert Shaw and represents a kind of masculine grief that is almost impossible to find in contemporary blockbusters.",
+      "parentalGuidance": "Rated PG (1975 rating; would likely be PG-13 today). Two graphic shark attack deaths, including one involving a child swimmer. Quint's death is intense and drawn out. Some strong language for its era. The Indianapolis monologue contains disturbing descriptions of shark attacks on sailors. Generally appropriate for ages 12 and up, though sensitive children may be disturbed by the opening attack."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-JAWS-01",
+        "name": "Male Competence Triad (Three Men, Distinct Skills)",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "Jaws centers on three men with distinct, complementary competencies: Brody the lawman with civic authority, Quint the veteran hunter with hard-won expertise, and Hooper the educated scientist with technical knowledge. Their friction and eventual unity is the film's emotional and narrative core. The film presents masculine competence not as toxic but as essential: these men are good at what they do, and people's survival depends on that. No character exists to subvert or critique their masculinity."
+      },
+      {
+        "id": "TRAD-JAWS-02",
+        "name": "Family as Motivation (Brody's Wife and Sons)",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "Chief Brody's motivation is explicit and domestic: he moved to Amity to give his family a safe life. The scene where his son mimics his posture at the dinner table is one of cinema's great understated family moments. His wife, Ellen, is a supportive and grounded presence rather than an adversarial counterpoint. The nuclear family structure is treated as a genuine good worth protecting, not as a constraint to be overcome."
+      },
+      {
+        "id": "TRAD-JAWS-03",
+        "name": "Civic Duty vs. Institutional Cowardice",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "Mayor Vaughn prioritizes tourism revenue over public safety, a failure of civic duty rather than a systemic critique. Brody represents the individual conscience standing against institutional pressure. The film's moral is conservative: those in authority have a duty to protect, and when they fail it, ordinary men must step up. This is not anti-government in the progressive sense; it is pro-responsibility in the traditional sense."
+      },
+      {
+        "id": "TRAD-JAWS-04",
+        "name": "Sacrifice and Veteran Honor (Quint and Indianapolis)",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 0.8,
+        "weightedScore": 2.8,
+        "description": "Quint's Indianapolis monologue is a meditation on military sacrifice, trauma, and survival guilt. He lost friends to sharks after their ship was sunk in WWII. The film treats this history with specificity and weight rather than generic sentiment. Quint's death in battle is earned and not sentimentalized. The film honors the sacrifices of men who served without turning it into a recruiting poster."
+      },
+      {
+        "id": "TRAD-JAWS-05",
+        "name": "Good vs. Evil (Genuine Monster, No Moral Ambiguity)",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "The shark is a monster. It is not misunderstood. It is not the victim of human encroachment on its habitat. It is a killing machine that must be stopped. The film never asks the audience to sympathize with it or question whether killing it is the right choice. This clear moral universe, where the threat is real and the response is justified, is a traditional storytelling value that Jaws maintains without apology."
+      },
+      {
+        "id": "TRAD-JAWS-06",
+        "name": "Working-Class Expertise Respected (Quint vs. Hooper)",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 0.8,
+        "weightedScore": 1.68,
+        "description": "The dynamic between Quint, the rough working-class shark hunter, and Hooper, the credentialed oceanographer, resolves in Quint's favor on questions of practical wisdom. Hooper's education is useful but his experience is limited. Quint's expertise, earned through decades of hard work rather than academic study, is treated with genuine respect. The film does not privilege credentialism over earned competence."
+      },
+      {
+        "id": "WOKE-JAWS-01",
+        "name": "Institutional Authority Undermined (Mayor as Villain)",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 2.0,
+        "description": "Mayor Vaughn is the film's only human antagonist, and he represents institutional authority prioritizing economic interests over public safety. While the critique is conservative in spirit (civic duty, not systemic analysis), it does frame the official authority figure as an obstacle to doing the right thing. The resolution requires the protagonists to act without full institutional support."
+      },
+      {
+        "id": "WOKE-JAWS-02",
+        "name": "Minor Female Marginalization (Ellen Brody as Background)",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 1.0,
+        "description": "Ellen Brody has limited screen time and agency. She is a supportive wife and mother, which reads as traditional but also means she is largely passive in the story's main conflict. This is a very minor element in a film not particularly concerned with representing women, and it reads more as a product of its era than an ideological choice."
+      },
+      {
+        "id": "WOKE-JAWS-03",
+        "name": "Hooper's Class Antagonism (Credentialed Elite vs. Working Class)",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 0.5,
+        "description": "Hooper's early scenes carry some class tension: he is wealthy, educated, and talks over working-class men like Quint. The film resolves this in Quint's favor, but the initial presentation of Hooper as the credentialed outsider who does not understand the community he is helping includes mild progressive class framing that positions establishment expertise as initially suspect."
+      }
+    ],
+    "creative_team": {
+      "director": {
+        "name": "Steven Spielberg",
+        "ideology": "CENTER-LEFT. Spielberg's politics lean liberal but his 1970s work, including Jaws, is largely pre-ideological in its subject matter. He has since directed explicitly political films (Lincoln, Schindler's List) that reflect progressive sympathies, but Jaws was made as a pure commercial thriller.",
+        "profile": "Steven Spielberg was 26 when he directed Jaws. It was his third theatrical feature and the film that invented the summer blockbuster. Spielberg drew from Hitchcock's techniques, particularly the manipulation of audience knowledge and point-of-view, to create sustained suspense despite mechanical failures with the shark prop. His instinct to conceal the threat rather than reveal it transformed the limitations of production into a storytelling advantage. Jaws launched Spielberg's career as the defining popular filmmaker of his generation."
+      },
+      "writers": {
+        "names": "Peter Benchley (novel), Carl Gottlieb (screenplay)",
+        "profile": "Peter Benchley's 1974 novel was a best-seller before the film began production. Benchley wrote early drafts of the screenplay but Carl Gottlieb was brought in to rewrite it, collaborating with Spielberg and the cast during filming. Many of the best lines, including Brody's famous 'you're gonna need a bigger boat,' were improvised on set. Gottlieb's revisions focused the story on the three central characters and eliminated subplots from the novel, including an affair between Ellen Brody and Hooper."
+      },
+      "composer": {
+        "name": "John Williams",
+        "profile": "John Williams' score for Jaws is one of the most recognizable in film history. The two-note motif representing the shark, written for bass instruments, has become cultural shorthand for approaching danger. Williams won the Academy Award for Best Original Dramatic Score, beginning his legendary collaboration with Spielberg that would produce scores for Raiders of the Lost Ark, E.T., Schindler's List, and many others."
+      },
+      "top_cast": [
+        {
+          "name": "Roy Scheider",
+          "role": "Chief Martin Brody"
+        },
+        {
+          "name": "Robert Shaw",
+          "role": "Quint"
+        },
+        {
+          "name": "Richard Dreyfuss",
+          "role": "Matt Hooper"
+        },
+        {
+          "name": "Lorraine Gary",
+          "role": "Ellen Brody"
+        },
+        {
+          "name": "Murray Hamilton",
+          "role": "Mayor Larry Vaughn"
+        }
+      ]
+    },
+    "fidelityCasting": {
+      "sourceType": "Novel",
+      "sourceTitle": "Jaws (1974) by Peter Benchley",
+      "assessment": "The casting is faithful to the source material. All three central characters are white American men as written in the novel. The film eliminated the novel's adulterous subplot (Ellen Brody and Hooper) and made the characters significantly more sympathetic than in the book. No race-swapping or revisionism. Hooper was made significantly less arrogant than in the novel, which improved the character substantially."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG",
+      "mpaaDescriptors": "Shark attack violence, some language",
+      "recommendedAge": "12+",
+      "contentWarnings": [
+        "Graphic shark attack deaths, including a young boy swimmer",
+        "Quint's extended death sequence is intense and disturbing",
+        "Indianapolis monologue contains descriptions of mass death by shark attack",
+        "Some strong language by 1975 standards",
+        "Skinny-dipping scene (brief, non-graphic)"
+      ],
+      "guidance": "Rated PG when PG-13 did not exist (its violence helped create that rating). Generally appropriate for ages 12 and up. The opening attack death and the death of a child swimmer are the most disturbing moments for younger viewers. Quint's death is extended and brutal. The Indianapolis monologue is emotionally harrowing rather than graphically violent. Conservative families will find the values entirely acceptable: family, duty, courage, civic responsibility. Nothing objectionable ideologically."
+    },
+    "comparison_films": [
+      {
+        "title": "The Thing",
+        "year": 1982,
+        "comparison": "Both are ensemble films about men confronting a predatory creature in an isolated setting. Both deal with the slow erosion of institutional certainty and the need for individual courage when systems fail. The Thing is more paranoid and nihilistic; Jaws is more optimistic. Both are testosterone-driven thrillers with no gender politics."
+      },
+      {
+        "title": "Duel",
+        "year": 1971,
+        "comparison": "Spielberg's own TV film that presaged Jaws. A lone man pursued by an implacable, seemingly sentient threat. Both films use the unseen or partially-seen antagonist to maximize dread. Duel is essentially the proof-of-concept for Jaws' approach to building tension."
+      }
+    ],
+    "datePublished": "2026-03-29"
   }
 ]

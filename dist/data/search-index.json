@@ -132,6 +132,18 @@
     "poster": "/images/posters/the-incredibles-2004.jpg"
   },
   {
+    "slug": "jaws-1975",
+    "title": "Jaws",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Thriller",
+    "year": 1975,
+    "type": "film",
+    "wokeScore": 3.5,
+    "tradScore": 18.48,
+    "poster": "/images/posters/jaws-1975.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
