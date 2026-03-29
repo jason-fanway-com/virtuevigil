@@ -168,6 +168,18 @@
     "poster": "/images/posters/schindlers-list-1993.jpg"
   },
   {
+    "slug": "catch-me-if-you-can-2002",
+    "title": "Catch Me If You Can",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Crime / Drama",
+    "year": 2002,
+    "type": "film",
+    "wokeScore": 6.3,
+    "tradScore": 11.76,
+    "poster": "/images/posters/catch-me-if-you-can-2002.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
