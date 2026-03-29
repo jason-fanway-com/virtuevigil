@@ -312,6 +312,18 @@
     "poster": "/images/posters/the-royal-tenenbaums-2001.jpg"
   },
   {
+    "slug": "fantastic-mr-fox-2009",
+    "title": "Fantastic Mr. Fox",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated Comedy Adventure",
+    "year": 2009,
+    "type": "film",
+    "wokeScore": 2.95,
+    "tradScore": 14,
+    "poster": "/images/posters/fantastic-mr-fox-2009.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
