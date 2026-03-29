@@ -192,6 +192,18 @@
     "poster": "/images/posters/lincoln-2012.jpg"
   },
   {
+    "slug": "bridge-of-spies-2015",
+    "title": "Bridge of Spies",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Historical Thriller / Drama",
+    "year": 2015,
+    "type": "film",
+    "wokeScore": 2.1,
+    "tradScore": 19.32,
+    "poster": "/images/posters/bridge-of-spies-2015.jpg"
+  },
+  {
     "slug": "coco-2017",
     "title": "Coco",
     "verdict": "TRADITIONAL",
