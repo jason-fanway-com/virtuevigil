@@ -8310,4 +8310,204 @@ function build() {
 
 build();
 
+// ============================================
+// STANDALONE LISTICLE EXPORTS (called after build)
+// ============================================
+
+function buildAdamSandlerListicle() {
+  writePage('lists/adam-sandler-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'adam-sandler-movies-woke-ranking',
+    title: 'Every Adam Sandler Movie Ranked by Woke Score',
+    description: "VirtueVigil scored every Adam Sandler movie in its database for woke content and traditional values. Ranked from least woke to most woke using real data.",
+    canonicalPath: 'lists/adam-sandler-movies-woke-ranking',
+    publishDate: '2026-03-29',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Adam Sandler is one of the most consistently misread figures in Hollywood. Critics wrote him off thirty years ago. His films kept making money. His audiences kept coming back. The conventional explanation is that his comedy appeals to the lowest common denominator. The data tells a different story. VirtueVigil ran every Adam Sandler film in its database through the full dual-axis scoring system, and the results are striking: six of his seven films score TRADITIONAL or better. One lands TRADITIONAL LEAN. Zero score woke.</p>
+        <p>These are not impressions. Every score below reflects a complete trope audit measuring woke content versus traditional values content, with a scoreMargin that tells you exactly where each film lands. The films are ranked from least woke to most woke. All seven have full reviews at VirtueVigil with complete scoring breakdowns, trope audits, creative team profiles, and parental guidance assessments.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/click-2006/">Click (2006)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+18 TRAD</span>
+            </div>
+            <p>Click is the least woke film in Sandler's catalog and one of the most traditionally scored comedies of the 2000s. A workaholic architect gets a universal remote that lets him fast-forward through life, and the film is bracingly honest about where that leads: he skips the inconvenient parts, misses the whole thing, and loses everyone who mattered. The message is not subtle and it does not need to be. Work is not the point. Family is the point. The film earns a woke score of 2.0 because it contains almost nothing that scores against traditional values. It is a morality play dressed as a comedy, and the moral is one that conservatives have been arguing for decades. Woke score: 2.0. Trad score: 19.95.</p>
+            <a href="/reviews/click-2006/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-wedding-singer-1998/">The Wedding Singer (1998)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+15 TRAD</span>
+            </div>
+            <p>The Wedding Singer is the best Adam Sandler film in the database, and the scoring reflects it. Robbie Hart wants one thing: to marry the right person and spend his life with her. When that falls apart, he rebuilds through work and genuine connection, not through irony or self-destruction. The film is a romantic comedy where the romance is earned and the comedy does not undercut it. Julia Sullivan is the kind of female lead that mid-nineties Hollywood occasionally still produced: a woman with clear values, a specific loyalty, and the dignity to act on both. The film scores +15 TRAD, the highest traditional margin in Sandler's catalog, because it is built entirely on the premise that love, commitment, and decency are worth fighting for. Woke score: 2.35. Trad score: 17.5.</p>
+            <a href="/reviews/the-wedding-singer-1998/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/grown-ups-2010/">Grown Ups (2010)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Grown Ups is the film critics hated most and the data defends most aggressively. A group of childhood friends reunites after their basketball coach dies, and the film is a sustained argument that the values they grew up with, competition, physical play, male friendship, family loyalty, and time away from screens, are better than what replaced them. The humor is almost entirely at the expense of modern softness: kids who refuse to climb trees, men who have been domesticated past the point of usefulness, cultural attitudes that treat ordinary masculine behavior as a problem. VirtueVigil scores it +19 TRAD, the highest margin in Sandler's catalog. The critics gave it 10 percent on Rotten Tomatoes. The audience gave it an A-. Make of that what you will. Woke score: 2.5. Trad score: 21.7.</p>
+            <a href="/reviews/grown-ups-2010/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/happy-gilmore-1996/">Happy Gilmore (1996)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+13 TRAD</span>
+            </div>
+            <p>Happy Gilmore is a film about a man who refuses to stop fighting for the people he loves. The comedy is loud, the golf is absurd, and the emotional core is completely sincere: Happy enters the PGA tour to save his grandmother's house, and the film treats that motivation as legitimate and worth rooting for. He is not ironic about loving his grandmother. He is not embarrassed by the straightforwardness of his goal. VirtueVigil scores it TRADITIONAL with a +13 margin. Thirty years later it still plays because the premise is built on something real: a man with a clear duty, a specific obstacle, and the drive to see it through. Woke score: 3.7. Trad score: 17.15.</p>
+            <a href="/reviews/happy-gilmore-1996/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/billy-madison-1995/">Billy Madison (1995)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>Billy Madison is the weakest traditional scorer in Sandler's catalog, and +8 TRAD is still a solidly positive number. The film is a deliberately idiotic comedy about a rich slacker who has to repeat grades 1 through 12 to earn his inheritance, and it earns its traditional lean classification through one central arc: a man who has been given everything finally choosing to earn something. Billy's journey is not ideological. It is personal. The comedy operates at a frequency that is impossible to defend to someone who does not already like it, but the underlying structure is traditional: discipline, competence, and earned respect are the destination. Woke score: 4.5. Trad score: 12.15.</p>
+            <a href="/reviews/billy-madison-1995/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/big-daddy-1999/">Big Daddy (1999)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+12 TRAD</span>
+            </div>
+            <p>Big Daddy is the film that showed what Sandler could do when given emotional stakes that actually mattered. Sonny Koufax is a slacker who accidentally ends up raising a five-year-old, and the film is quietly insistent that fatherhood changes a man whether he planned for it or not. The comedy is Sandler-standard: irreverent, affectionate, occasionally stupid. But the arc underneath it is serious. A man who refused to grow up finds a reason to. He steps into a role he did not choose, does the work, and becomes someone worth respecting. VirtueVigil scores it TRADITIONAL at +12. The fatherhood theme carries the traditional scoring, and the film earns every point of it. Woke score: 5.5. Trad score: 17.85.</p>
+            <a href="/reviews/big-daddy-1999/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/uncut-gems-2019/">Uncut Gems (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+3 TRAD</span>
+            </div>
+            <p>Uncut Gems is the most woke-adjacent film in Sandler's catalog and still lands TRADITIONAL LEAN. The Safdie brothers built a film designed to induce sustained panic: Howard Ratner, a gambling-addicted jeweler in New York's Diamond District, is in perpetual freefall, and the film never lets up. The traditional scoring is the lowest of any Sandler film in the database because the film's entire framework is transgression and compulsion, with no restoration of order, no earned discipline, no family saved. What keeps it out of woke territory is that it does not endorse what it depicts. Howard's destruction is presented as exactly that: destruction. The film is not a celebration. It is a warning. Woke score: 6.23. Trad score: 8.75.</p>
+            <a href="/reviews/uncut-gems-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Sandler Verdict</h3>
+        <p>Seven films. Six score TRADITIONAL. One scores TRADITIONAL LEAN. Zero score woke. The critics who dismissed Adam Sandler for three decades were measuring the wrong thing. His comedy is crude and his characters are often immature, but the values underneath his best work are consistently traditional: family duty, male friendship, earned competence, and the idea that love is worth fighting for rather than ironic about. The data is not ambiguous. All seven films have full reviews at VirtueVigil with complete trope audits, scoring breakdowns, and parental guidance assessments. Browse all reviews at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a>, or explore more on the <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+function buildWesAndersonListicle() {
+  writePage('lists/wes-anderson-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'wes-anderson-movies-woke-ranking',
+    title: 'Every Wes Anderson Movie Ranked by Woke Score',
+    description: "VirtueVigil scored every Wes Anderson movie in its database on woke content and traditional values. Ranked from most traditional to most woke using real data.",
+    canonicalPath: 'lists/wes-anderson-movies-woke-ranking',
+    publishDate: '2026-03-29',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Wes Anderson is one of the most distinctive voices in American cinema and one of the most ideologically ambiguous. His films look like nothing else ever made. They move at a pace that is entirely his own. And they have attracted decades of debate about what, if anything, they actually believe. Are they ironic? Sincere? Nostalgic? Critical of nostalgia? Both at once?</p>
+        <p>VirtueVigil ran every Wes Anderson film in its database through the full dual-axis scoring system to cut through the aesthetic and find out what the content actually says. The results are more varied than a single cultural narrative would suggest. One film scores TRADITIONAL by a convincing margin. Two score MIXED. One scores TRADITIONAL LEAN. The ranking below runs from most traditional to most woke. All four have full reviews with complete trope audits, creative team profiles, and parental guidance assessments.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/fantastic-mr-fox-2009/">Fantastic Mr. Fox (2009)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+11 TRAD</span>
+            </div>
+            <p>Fantastic Mr. Fox is Wes Anderson's most straightforward moral tale and the easiest film in his catalog to defend to a traditional audience. The film is about a father who cannot stop being what he is, a fox who steals, and the cost that imposes on his family. Mr. Fox's journey is an arc of accountability: he causes a crisis through his own irresponsibility, risks everything his family depends on, and ultimately steps up to protect them. The family unit is the center of the film. Masculine competence is presented as real and valuable. The villains are industrial and unambiguously threatening. VirtueVigil scores it TRADITIONAL at +11, the highest margin in Anderson's catalog. The stop-motion aesthetic is immaculate. The moral structure is even cleaner. Woke score: 2.95. Trad score: 14.0.</p>
+            <a href="/reviews/fantastic-mr-fox-2009/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-grand-budapest-hotel-2014/">The Grand Budapest Hotel (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+4 TRAD</span>
+            </div>
+            <p>The Grand Budapest Hotel is Anderson's most accessible film and the one most people encounter first. M. Gustave is a concierge who runs his hotel with an exacting devotion to craft, elegance, and service, values that the film presents as genuinely worth preserving against the encroachment of fascist modernity. The film is elegiac in the way the best nostalgia is: not pretending the past was perfect, but insisting that some things in it were worth keeping. The traditional scoring reflects that framing, with credits earned through loyalty, mentorship, and the treatment of institutional duty as something real. The woke score of 7.1 reflects the film's more cosmopolitan and ambiguous elements. The result is TRADITIONAL LEAN at +4. A film that respects tradition without being simple about it. Woke score: 7.1. Trad score: 10.64.</p>
+            <a href="/reviews/the-grand-budapest-hotel-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/moonrise-kingdom-2012/">Moonrise Kingdom (2012)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>Moonrise Kingdom is Wes Anderson's most sincere film, and its +2 TRAD margin reflects how evenly the content balances. Two twelve-year-olds run away together on a New England island in 1965, and the film treats their bond with complete seriousness. The romantic commitment between Sam and Suzy is not played for irony or cuteness. It is presented as real, and the film respects it. The traditional scoring credits include the genuine depiction of childhood loyalty and the framing of their relationship as a bond worth protecting. The woke scoring reflects a film that consistently frames authority structures, the Scouts, the family, the social order, as institutions that failed its protagonists. The result is a MIXED verdict: a film with real traditional instincts and a consistent institutional skepticism that keeps it from scoring higher. Woke score: 5.88. Trad score: 7.84.</p>
+            <a href="/reviews/moonrise-kingdom-2012/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-royal-tenenbaums-2001/">The Royal Tenenbaums (2001)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>The Royal Tenenbaums is Anderson's most emotionally ambitious film and the one that reveals both his strengths and his limits most clearly. Royal Tenenbaum is a patriarch who failed his family spectacularly, and the film is about whether a man like that can earn anything back in the time he has left. The traditional scoring reflects genuine credits: the weight of fatherhood is taken seriously, the family unit is the center of the entire film, and Royal's desire for redemption is presented as real and worth tracking. The woke scoring reflects a film populated by characters whose failures are framed partly as the inheritance of Royal's dysfunction, and a consistent visual and tonal stance of detached irony that keeps the traditional content from landing with full force. Tied with Moonrise Kingdom at +2 TRAD, but with a higher woke score of 7.0 versus 5.88, making it the most woke-adjacent film in Anderson's catalog. Woke score: 7.0. Trad score: 9.1.</p>
+            <a href="/reviews/the-royal-tenenbaums-2001/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Anderson Verdict</h3>
+        <p>Four films. One TRADITIONAL, one TRADITIONAL LEAN, two MIXED. Zero woke. Wes Anderson is not a traditional filmmaker in any conventional sense, but he is also not an ideological one. His films are built on a specific kind of nostalgia for craft, loyalty, and institutional elegance, and that nostalgia generates real traditional scoring even when his framing is ironic. Fantastic Mr. Fox is the clearest argument for Anderson as a filmmaker with traditional values. The Royal Tenenbaums is the clearest argument against it. Both are in the database with full reviews at VirtueVigil. Browse all reviews at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a>, or explore our other director rankings on the <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+buildAdamSandlerListicle();
+buildWesAndersonListicle();
+
 module.exports = { buildListiclePage, writePage };
