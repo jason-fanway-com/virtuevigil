@@ -1,5 +1,17 @@
 [
   {
+    "slug": "smile-2022",
+    "title": "Smile",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Paramount+",
+    "genre": "Horror / Psychological Thriller",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 5.04,
+    "tradScore": 14.82,
+    "poster": "/images/posters/smile-2022.jpg"
+  },
+  {
     "slug": "dhurandhar-the-revenge-2026",
     "title": "Dhurandhar: The Revenge",
     "verdict": "STRONGLY TRADITIONAL",
