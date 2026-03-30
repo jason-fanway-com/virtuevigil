@@ -8815,4 +8815,228 @@ function buildAppleTvWokeRankingListicle() {
       </div>
     </article>`
   }));
+
+  writePage('lists/conservative-movies-amazon-prime/index.html', buildListiclePage({
+    slug: 'conservative-movies-amazon-prime',
+    title: 'Best Movies on Amazon Prime for Conservatives (2025)',
+    description: 'Skip the woke picks. These are the best movies on Amazon Prime for conservatives, ranked by VirtueVigil\'s Traditional Values score.',
+    canonicalPath: 'lists/conservative-movies-amazon-prime',
+    publishDate: '2026-03-30',
+    htmlContent: `<article class="listicle-article">
+
+<p>Amazon Prime Video has quietly become one of the better platforms for conservative viewers. While Netflix and Disney+ have leaned hard into progressive content, Prime Video's MGM library and original films include a surprising number of movies that score high on VirtueVigil's Traditional Values scale. The challenge is finding them without wading through the noise. That is what this list does.</p>
+
+<p>Every film below is currently available on Amazon Prime Video and has been scored by VirtueVigil's Woke-Watch Scoring System. We rank them by Traditional Values score, not critic ratings or awards. Critics gave Road House a 40 percent on Rotten Tomatoes. Audiences gave it 92 percent. Reagan scored zero Oscar nominations. Conservative audiences made it a hit. The VirtueVigil score is the one that matters if you want to know what a film actually says about family, faith, duty, and the values under attack everywhere else on your screen.</p>
+
+<hr>
+
+<h2>#1 &mdash; <a href="/reviews/reagan-2024/">Reagan (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 44.28</span>
+  <span class="mini-score woke">WOKE: 2.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +42 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Biopic/Drama &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+
+<p>The highest Traditional Values score of any film on Amazon Prime Video. Dennis Quaid's portrayal of Ronald Reagan is an unashamed tribute to the 40th president's faith, anti-communism, and marriage to Nancy. Jon Voight narrates. Dennis Quaid carries the film with conviction and the Ron-and-Nancy love story is the emotional center. Conservative adults will find it deeply satisfying. Critics will not. That split tells you everything you need to know about whether to watch it.</p>
+
+<p><a href="/reviews/reagan-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Reagan</a></p>
+
+<hr>
+
+<h2>#2 &mdash; <a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 36.6</span>
+  <span class="mini-score woke">WOKE: 2.45</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +34 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> War/Drama/Biography &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+
+<p>The highest-grossing war film in American history and one of VirtueVigil's top-scored films of all time. Clint Eastwood made a film about a sheepdog and refused to apologize for it. Bradley Cooper's performance is career-defining and the film takes military service seriously without turning it into either propaganda or critique. For VirtueVigil audiences, this is essential viewing and a strong STRONGLY TRADITIONAL score. No other streaming platform has a war film this clean at this level of craft.</p>
+
+<p><a href="/reviews/american-sniper-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of American Sniper</a></p>
+
+<hr>
+
+<h2>#3 &mdash; <a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 30.8</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +27 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Thriller/Drama &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+
+<p>Studios sat on this film for five years. When it finally released, audiences showed up in massive numbers while media critics rushed to discredit it. Jim Caviezel plays a former DHS agent on a mission to rescue trafficked children in Colombia. The media's QAnon smear was not a critique of the film's content but a guilt-by-association attack on its audience. Sound of Freedom is morally serious, faith-anchored, and unapologetic about what it believes. Bill Camp's Vampiro is the film's quiet emotional center.</p>
+
+<p><a href="/reviews/sound-of-freedom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sound of Freedom</a></p>
+
+<hr>
+
+<h2>#4 &mdash; <a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.46</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +22 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+
+<p>Amazon's biggest original action film of 2025 and a worthy sequel to the fan-favorite original. Ben Affleck returns as Christian Wolff, the forensic accountant with autism who happens to be a world-class operative. The autism characterization is thoughtful and non-patronizing. The message that competent individuals with personal integrity outperform compromised institutions is not subtle. It does not need to be. Affleck and Jon Bernthal have genuine chemistry and the film earns its emotional beats without sentimentalizing them.</p>
+
+<p><a href="/reviews/the-accountant-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Accountant 2</a></p>
+
+<hr>
+
+<h2>#5 &mdash; <a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 21.35</span>
+  <span class="mini-score woke">WOKE: 2.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> War/Drama/Biography &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+
+<p>One of the most purely traditional films Hollywood has produced in the last twenty years. Desmond Doss is not a conscientious objector in the progressive sense. He is a man of deep Christian faith who chose to serve his country without carrying a weapon, then saved 75 men at Hacksaw Ridge through sheer courage and conviction. Mel Gibson directs with the brutal honesty the story demands. Faith is not decoration here. It is the spine of the entire film.</p>
+
+<p><a href="/reviews/hacksaw-ridge-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Hacksaw Ridge</a></p>
+
+<hr>
+
+<h2>#6 &mdash; <a href="/reviews/inception-2010/">Inception (2010)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 20.44</span>
+  <span class="mini-score woke">WOKE: 2.9</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +18 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sci-Fi/Action/Thriller &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+
+<p>Christopher Nolan's heist-in-dreams masterpiece is built on masculine grief, fatherly love, and moral accountability. Cobb is a father fighting to return to his children while reckoning with genuine culpability. No progressive agenda, no ideological lectures, and the diversity in the cast is incidental rather than performative. One of the most ideologically clean mainstream blockbusters of its era and one of the best films on Prime Video regardless of politics.</p>
+
+<p><a href="/reviews/inception-2010/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Inception</a></p>
+
+<hr>
+
+<h2>#7 &mdash; <a href="/reviews/the-covenant-2023/">Guy Ritchie's The Covenant (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 21.28</span>
+  <span class="mini-score woke">WOKE: 5.67</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> War/Action/Drama &bull; <strong>Platform:</strong> Amazon Prime Video (MGM)</p>
+
+<p>One of the most criminally overlooked war films of recent years. A US Army Sergeant, left for dead in Afghanistan, is saved by his local interpreter at enormous personal risk. What follows is a story about honor, loyalty, and paying your debts when the system refuses to. The Covenant's conservatism is practical: you honor your commitments or you are nothing. Guy Ritchie made an MGM film that works perfectly for the Prime Video library it now calls home.</p>
+
+<p><a href="/reviews/the-covenant-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guy Ritchie's The Covenant</a></p>
+
+<hr>
+
+<h2>#8 &mdash; <a href="/reviews/a-working-man-2025/">A Working Man (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 17.36</span>
+  <span class="mini-score woke">WOKE: 1</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Amazon Prime Video (MGM)</p>
+
+<p>Jason Statham plays a British veteran turned construction worker who goes to war against a trafficking operation after a colleague's daughter is taken. Critics hated it. Audiences loved it. Both are telling the truth about different things. The film validates that trained, disciplined men have a role to play in a world full of predators. No apologies, no ambiguity, no lectures. Just a working man doing what working men do.</p>
+
+<p><a href="/reviews/a-working-man-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Working Man</a></p>
+
+<hr>
+
+<h2>#9 &mdash; <a href="/reviews/interstellar-2014/">Interstellar (2014)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 23.16</span>
+  <span class="mini-score woke">WOKE: 7.72</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +15 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sci-Fi/Drama/Adventure &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+
+<p>Nolan's space epic is built on fatherhood as a literally universal force. Cooper is not an absent father learning to be present. He is a deeply present father forced away from his children, who carries that cost across the entire film and across time itself. Masculine duty and sacrifice are treated as heroic without irony. One of Hollywood's most traditionally grounded blockbusters, wrapped in genuine science and extraordinary filmmaking that rewards every rewatch.</p>
+
+<p><a href="/reviews/interstellar-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Interstellar</a></p>
+
+<hr>
+
+<h2>#10 &mdash; <a href="/reviews/road-house-2024/">Road House (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 18</span>
+  <span class="mini-score woke">WOKE: 4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +14 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Amazon Prime Video (Original)</p>
+
+<p>Amazon's 2024 action remake delivers exactly what the premise promises: a masculine genre film built on traditional action-movie values. The hero is physically and morally capable. The villain is punished. The community is defended. Jake Gyllenhaal is a compelling lead and Conor McGregor's on-screen villain presence is undeniable. Critics gave it 40 percent on Rotten Tomatoes. Audiences gave it 92 percent. The gap tells you who this film was made for.</p>
+
+<p><a href="/reviews/road-house-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Road House</a></p>
+
+<hr>
+
+<h2>#11 &mdash; <a href="/reviews/air-2023/">Air (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 15.2</span>
+  <span class="mini-score woke">WOKE: 2.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +13 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Drama/Sports &bull; <strong>Platform:</strong> Amazon Prime Video (MGM)</p>
+
+<p>The story of how Nike signed Michael Jordan and changed sports history, told as a film about American entrepreneurial conviction. Capitalism working. Belief rewarded. A mother protecting her son's legacy. Ben Affleck directs with precision and zero ideology. Phil Knight is not the villain. The deal is good for everyone involved. That alone makes it an outlier on any streaming platform in 2024, and it is one of the best films in the MGM library now living on Prime Video.</p>
+
+<p><a href="/reviews/air-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Air</a></p>
+
+<hr>
+
+<h2>#12 &mdash; <a href="/reviews/red-one-2024/">Red One (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 16.44</span>
+  <span class="mini-score woke">WOKE: 5.35</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +11 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Comedy/Family &bull; <strong>Platform:</strong> Amazon Prime Video (Original)</p>
+
+<p>Critics gave it 31 percent on Rotten Tomatoes. Audiences gave it 92 percent and made it Amazon's second-biggest theatrical release ever. A Christmas action-comedy built on simple but genuine values: the holiday is worth protecting, fatherhood is a responsibility you cannot outsource, and loyalty is the highest virtue. Callum's arc from absent workaholic to present and committed father is handled with more sincerity than the blockbuster packaging suggests.</p>
+
+<p><a href="/reviews/red-one-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Red One</a></p>
+
+      <div class="listicle-conclusion">
+        <h3>Your Prime Video Watch List</h3>
+        <p>These twelve films represent the best of what Amazon Prime Video has to offer conservative viewers in 2025. Amazon's MGM acquisition gave the platform a deep catalog of traditional action and drama that Netflix and Disney+ cannot match. The lesson of this list: the studio films that critics dismissed and audiences loved are almost always the ones that score highest on VirtueVigil. That gap between critic scores and audience scores is a reliable signal. Trust the audience data.</p>
+        <p>Every film here has been independently scored by VirtueVigil's Woke-Watch Scoring System, so you know exactly what you are getting before you press play. Browse our full database at <a href="https://virtuevigil.com/reviews/">VirtueVigil.com</a> for hundreds more reviews, ranked by Traditional Values score and organized by platform, genre, and year. For more platform-specific guides, see our <a href="/lists/best-conservative-movies-netflix-2025/">Best Conservative Movies on Netflix</a> and <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a> lists.</p>
+      </div>
+    </article>`
+  }));
 }
