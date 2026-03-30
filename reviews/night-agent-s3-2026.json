@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "12 min",
   "poster": "/images/posters/night-agent-s3-2026.jpg",
-  "verdict": "MIXED",
+  "verdict": "TRADITIONAL",
   "wokeScore": 22,
   "tradScore": 38,
   "authIndex": 68,
@@ -44,21 +44,66 @@
       "profile": "The Night Agent's score is functional and effective: driving percussion for action sequences, atmospheric tension for suspense scenes, restrained emotion for character beats. It serves the show without calling attention to itself."
     },
     "top_cast": [
-      { "name": "Gabriel Basso", "role": "Peter Sutherland" },
-      { "name": "Genesis Rodriguez", "role": "Isabel De Leon" },
-      { "name": "Fola Evans-Akingbola", "role": "Chelsea Arrington" },
-      { "name": "David Lyons", "role": "Adam" },
-      { "name": "Stephen Moyer", "role": "The Father" },
-      { "name": "Callum Vinson", "role": "The Son" },
-      { "name": "Louis Herthum", "role": "Jacob Monroe" },
-      { "name": "Jennifer Morrison", "role": "First Lady Jenny Hagan" },
-      { "name": "Ward Horton", "role": "President Richard Hagan" },
-      { "name": "Suraj Sharma", "role": "Jay Batra" },
-      { "name": "Amanda Warren", "role": "Catherine" },
-      { "name": "Albert Jones", "role": "Aiden Mosley" },
-      { "name": "David Zayas", "role": "Undisclosed" },
-      { "name": "Timothy Hutton", "role": "Undisclosed" },
-      { "name": "Michaela Watkins", "role": "Undisclosed" }
+      {
+        "name": "Gabriel Basso",
+        "role": "Peter Sutherland"
+      },
+      {
+        "name": "Genesis Rodriguez",
+        "role": "Isabel De Leon"
+      },
+      {
+        "name": "Fola Evans-Akingbola",
+        "role": "Chelsea Arrington"
+      },
+      {
+        "name": "David Lyons",
+        "role": "Adam"
+      },
+      {
+        "name": "Stephen Moyer",
+        "role": "The Father"
+      },
+      {
+        "name": "Callum Vinson",
+        "role": "The Son"
+      },
+      {
+        "name": "Louis Herthum",
+        "role": "Jacob Monroe"
+      },
+      {
+        "name": "Jennifer Morrison",
+        "role": "First Lady Jenny Hagan"
+      },
+      {
+        "name": "Ward Horton",
+        "role": "President Richard Hagan"
+      },
+      {
+        "name": "Suraj Sharma",
+        "role": "Jay Batra"
+      },
+      {
+        "name": "Amanda Warren",
+        "role": "Catherine"
+      },
+      {
+        "name": "Albert Jones",
+        "role": "Aiden Mosley"
+      },
+      {
+        "name": "David Zayas",
+        "role": "Undisclosed"
+      },
+      {
+        "name": "Timothy Hutton",
+        "role": "Undisclosed"
+      },
+      {
+        "name": "Michaela Watkins",
+        "role": "Undisclosed"
+      }
     ],
     "prediction": {
       "verdict": "MIXED",

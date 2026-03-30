@@ -14,7 +14,7 @@
   "wokeScore": 15.6,
   "tradScore": 27.51,
   "authIndex": 55,
-  "scoreMargin": "+12 TRADITIONAL",
+  "scoreMargin": "+12 TRAD",
   "preRelease": false,
   "wokeTrap": {
     "present": false,
@@ -40,13 +40,34 @@
       "company": "High Bridge Productions / Bristol Circle Entertainment / Sony Pictures Television"
     },
     "top_cast": [
-      { "actor": "Rhea Seehorn", "role": "Carol Sturka" },
-      { "actor": "Karolina Wydra", "role": "Zosia" },
-      { "actor": "Carlos-Manuel Vesga", "role": "Manousos Oviedo" },
-      { "actor": "Miriam Shor", "role": "Helen L. Umstead" },
-      { "actor": "Samba Schutte", "role": "Koumba Diabate" },
-      { "actor": "Menik Gooneratne", "role": "Laxmi" },
-      { "actor": "Darinka Arones", "role": "Kusimayu" }
+      {
+        "actor": "Rhea Seehorn",
+        "role": "Carol Sturka"
+      },
+      {
+        "actor": "Karolina Wydra",
+        "role": "Zosia"
+      },
+      {
+        "actor": "Carlos-Manuel Vesga",
+        "role": "Manousos Oviedo"
+      },
+      {
+        "actor": "Miriam Shor",
+        "role": "Helen L. Umstead"
+      },
+      {
+        "actor": "Samba Schutte",
+        "role": "Koumba Diabate"
+      },
+      {
+        "actor": "Menik Gooneratne",
+        "role": "Laxmi"
+      },
+      {
+        "actor": "Darinka Arones",
+        "role": "Kusimayu"
+      }
     ],
     "prediction": {
       "verdict": "TRADITIONAL",

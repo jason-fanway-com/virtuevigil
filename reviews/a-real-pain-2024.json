@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "9 min",
   "poster": "/images/posters/a-real-pain-2024.jpg",
-  "verdict": "MIXED",
+  "verdict": "TRADITIONAL LEAN",
   "wokeScore": 12,
   "tradScore": 16,
   "authIndex": 57,
@@ -40,13 +40,34 @@
       "company": "Fruit Tree / Rego Park Pictures"
     },
     "top_cast": [
-      { "name": "Jesse Eisenberg", "role": "David Kaplan" },
-      { "name": "Kieran Culkin", "role": "Benji Kaplan" },
-      { "name": "Will Sharpe", "role": "James" },
-      { "name": "Jennifer Grey", "role": "Marcia" },
-      { "name": "Kurt Egyiawan", "role": "Eloge" },
-      { "name": "Liza Sadovy", "role": "Tour Guide" },
-      { "name": "Daniel Oreskes", "role": "Mark" }
+      {
+        "name": "Jesse Eisenberg",
+        "role": "David Kaplan"
+      },
+      {
+        "name": "Kieran Culkin",
+        "role": "Benji Kaplan"
+      },
+      {
+        "name": "Will Sharpe",
+        "role": "James"
+      },
+      {
+        "name": "Jennifer Grey",
+        "role": "Marcia"
+      },
+      {
+        "name": "Kurt Egyiawan",
+        "role": "Eloge"
+      },
+      {
+        "name": "Liza Sadovy",
+        "role": "Tour Guide"
+      },
+      {
+        "name": "Daniel Oreskes",
+        "role": "Mark"
+      }
     ],
     "prediction": {
       "verdict": "MIXED",

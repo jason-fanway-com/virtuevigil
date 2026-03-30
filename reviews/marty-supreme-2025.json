@@ -10,9 +10,9 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "12 min",
   "poster": "/images/posters/marty-supreme-2025.jpg",
-  "verdict": "MIXED",
-  "wokeScore": 15.80,
-  "tradScore": 17.20,
+  "verdict": "TRADITIONAL LEAN",
+  "wokeScore": 15.8,
+  "tradScore": 17.2,
   "authIndex": 78,
   "scoreMargin": "+1 TRAD",
   "preRelease": false,
@@ -62,15 +62,42 @@
       "profile": "Jennifer Venditti has cast all Safdie brothers features and is known for discovering unconventional talent. Her most notable casting choices for Marty Supreme include Kevin O'Leary (yes, the Shark Tank investor) as Milton Rockwell, Abel Ferrara (the underground filmmaker) as criminal Ezra, and real-life table tennis champion Koto Kawaguchi as Endo."
     },
     "top_cast": [
-      { "name": "Timothée Chalamet", "role": "Marty Mauser" },
-      { "name": "Gwyneth Paltrow", "role": "Kay Stone (aging actress)" },
-      { "name": "Tyler Okonma (Tyler, the Creator)", "role": "Wally (Marty's best friend)" },
-      { "name": "Odessa A'zion", "role": "Rachel Mizler (Marty's pregnant lover)" },
-      { "name": "Kevin O'Leary", "role": "Milton Rockwell (pen magnate)" },
-      { "name": "Penn Jillette", "role": "Vic Kravitz" },
-      { "name": "Emory Cohen", "role": "Ira (Rachel's husband)" },
-      { "name": "Abel Ferrara", "role": "Ezra (criminal)" },
-      { "name": "Koto Kawaguchi", "role": "Koto Endo (Japanese champion)" }
+      {
+        "name": "Timothée Chalamet",
+        "role": "Marty Mauser"
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "role": "Kay Stone (aging actress)"
+      },
+      {
+        "name": "Tyler Okonma (Tyler, the Creator)",
+        "role": "Wally (Marty's best friend)"
+      },
+      {
+        "name": "Odessa A'zion",
+        "role": "Rachel Mizler (Marty's pregnant lover)"
+      },
+      {
+        "name": "Kevin O'Leary",
+        "role": "Milton Rockwell (pen magnate)"
+      },
+      {
+        "name": "Penn Jillette",
+        "role": "Vic Kravitz"
+      },
+      {
+        "name": "Emory Cohen",
+        "role": "Ira (Rachel's husband)"
+      },
+      {
+        "name": "Abel Ferrara",
+        "role": "Ezra (criminal)"
+      },
+      {
+        "name": "Koto Kawaguchi",
+        "role": "Koto Endo (Japanese champion)"
+      }
     ],
     "prediction": {
       "verdict": "MIXED",

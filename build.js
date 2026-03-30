@@ -1765,6 +1765,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/tom-hanks-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-animated-kids-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/patriotic-war-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/anti-woke-action-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -8509,5 +8510,309 @@ function buildWesAndersonListicle() {
 
 buildAdamSandlerListicle();
 buildWesAndersonListicle();
+buildAntiWokeActionMoviesListicle();
+buildAppleTvWokeRankingListicle();
 
 module.exports = { buildListiclePage, writePage };
+
+function buildAntiWokeActionMoviesListicle() {
+  writePage('lists/anti-woke-action-movies/index.html', buildListiclePage({
+    slug: 'anti-woke-action-movies',
+    title: '10 Best Anti-Woke Action Movies (Ranked by VirtueVigil Score)',
+    description: 'Hollywood action films that reject progressive ideology and deliver raw masculinity, duty, and consequence. Ranked by VirtueVigil TraditionalScore, with full data.',
+    canonicalPath: 'lists/anti-woke-action-movies',
+    publishDate: '2026-03-30',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Action movies used to be the last genre Hollywood could not lecture you through. The formula was simple: a man with a mission, real stakes, enemies worth fighting, and no mandatory diversity briefing between the shootouts. That era has been steadily eroded. Modern action blockbusters routinely sideline competence in favor of identity, rewrite masculine heroism as toxic, and use the genre's built-in momentum to deliver ideology before the audience notices.</p>
+        <p>But not every action film surrendered. Some pushed back. Some ignored the memo entirely. And some were made by filmmakers who understood that an action movie is a moral argument delivered at gunpoint, and who had something genuinely traditional to argue.</p>
+        <p>VirtueVigil scored every film on this list using the dual-axis system: WokeScore (density of progressive ideological content) and TraditionalScore (density of content affirming duty, sacrifice, family, competence, and earned hierarchy). The margin between those two numbers determines the verdict. Every film here earned STRONGLY TRADITIONAL. They are ranked by TraditionalScore margin, highest first. All have full reviews with complete trope audits, creative team profiles, and parental guidance at VirtueVigil.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+34 TRAD</span>
+            </div>
+            <p>The most commercially successful war film in American history did not succeed by accident. Clint Eastwood made a film about Chris Kyle that treated military service as a genuine moral calling rather than a trauma to be processed and apologized for. Kyle is a sheepdog, a protector, a man who believed the job was worth doing and paid the full price for that belief. The film does not flinch from the cost. It does not moralize about civilian casualties in ways that undermine the mission. It does not deliver the progressive war-film standard of a soldier whose real enemy is his own country. Kyle's faith is presented as real and grounding. His marriage is depicted as a bond worth protecting. The cost to his family is portrayed with honesty, not used as evidence against the war. Critics called it propaganda. Audiences bought $350 million worth of tickets. VirtueVigil scores it STRONGLY TRADITIONAL at +34, the highest margin of any action film in the database. WokeScore: 2.45. TradScore: 36.6.</p>
+            <a href="/reviews/american-sniper-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gladiator-2000/">Gladiator (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+31 TRAD</span>
+            </div>
+            <p>Ridley Scott made the defining action epic of its era by centering a man who wants nothing more than to go home. Maximus is not complicated by modern standards. He is loyal to his emperor, devoted to his family, and willing to die for both. The film treats masculine virtue, duty, and sacrifice with complete sincerity. There is no ironic distance. The corruption is real, the villain is genuinely villainous, and the hero's grief is not processed through therapy but through purpose. Best Picture winner. Joaquin Phoenix's Commodus is one of cinema's great portraits of entitled weakness as a civilizational threat. The Senate scenes read differently today than they did in 2000. Gladiator holds a WokeScore of 1.7 and a TradScore of 32.2 because it never apologizes for what it is: an argument that some things are worth dying for. Margin: +31 TRAD.</p>
+            <a href="/reviews/gladiator-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>The first twenty-five minutes are the most important minutes in the history of American war cinema. Not because they are technically masterful, though they are. Because they refuse to make heroism look clean. Spielberg shows what Omaha Beach actually cost, then builds a film around whether that cost was worth paying. The answer, delivered through Captain Miller's entire arc, is yes. Not without grief. Not without doubt. But yes. The Greatest Generation framing is not nostalgic in the soft sense. It is moral. These men made choices that required everything. The film honors that without sentimentality. Private Ryan's closing question to his wife, asking if he earned what was spent on him, is the most traditionally-framed question an American film has asked in the last thirty years. WokeScore: 2.5. TradScore: 30.8. Margin: +28 TRAD.</p>
+            <a href="/reviews/saving-private-ryan-1998/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+27 TRAD</span>
+            </div>
+            <p>Studios sat on this film for five years. Disney acquired it through the Fox deal and shelved it. Angel Studios released it in July 2023. It outgrossed Indiana Jones and the Dial of Destiny on its opening weekend. That gap between institutional suppression and audience demand tells you exactly what kind of film this is. Tim Ballard's story, a former Homeland Security agent who goes off-book to rescue children from trafficking networks, is the kind of masculine mission narrative that Hollywood has spent a decade trying to disqualify. The film does not moralize about Ballard's methods. His faith drives his actions and the film treats that faith as the source of his moral clarity rather than his blind spot. Jim Caviezel delivers a performance of quiet controlled fury. The WokeScore of 4.2 reflects nothing in the content itself, only the trafficking subject matter. TradScore: 30.8. Margin: +27 TRAD.</p>
+            <a href="/reviews/sound-of-freedom-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/john-wick-chapter-4-2023/">John Wick: Chapter 4 (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>The purest action film of the last decade scores STRONGLY TRADITIONAL with a WokeScore of 0.5, the second-lowest in the entire VirtueVigil database. That near-zero score is not accidental. Chad Stahelski built an action universe governed entirely by masculine codes: honor, oath-keeping, debt, and consequence. The High Table is a corrupt institution, but the film's critique is not progressive. It is monarchist. Power is corrupt because it has forgotten its obligations, not because hierarchy itself is illegitimate. John Wick fights to be free of obligation while simultaneously being defined entirely by it. The film runs nearly three hours and never lectures. Every character operates by a code. The violence has weight because the rules have weight. An action film that believes in masculine honor as a real thing worth dying for. TradScore: 23.52. Margin: +23 TRAD.</p>
+            <a href="/reviews/john-wick-chapter-4-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-terminal-list-2022/">The Terminal List (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+24 TRAD</span>
+            </div>
+            <p>Forty percent on Rotten Tomatoes from critics. Ninety-four percent audience score. That gap is not a data anomaly. It is a cultural statement. The Terminal List is a military action thriller made for the audience that critics do not review for. Chris Pratt stars as a Navy SEAL whose unit is ambushed and whose family is murdered, and who proceeds to work through a list of people responsible with methodical, unapologetic violence. The show does not interrogate his methods. It does not ask whether his grief is making him irrational. It treats his mission as just and his competence as the only relevant variable. The government corruption runs up the chain to political appointees. The SEAL community loyalty is presented as the last honest institution. Amazon Prime aired it and reportedly did not know what to do with the response. WokeScore: 2.8. TradScore: 26.64. Margin: +24 TRAD.</p>
+            <a href="/reviews/the-terminal-list-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/top-gun-maverick-2022/">Top Gun: Maverick (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>The best American action film of the 2020s remembered something most of Hollywood had forgotten: audiences want to feel something, and the thing they want to feel is not guilt. Tom Cruise produced and starred in a sequel that took thirty-six years to make and justified every year of the wait. Maverick is a film about masculine mastery, institutional loyalty, mentorship, and the willingness to fly the mission when everyone says it cannot be done. The DEI casting is minimal and unobtrusive. The story is about competence. The F/A-18 sequences are practical photography achievements. The villain is a hostile state actor, not American military culture. No one gives a speech about systemic problems. The WokeScore of 1.05 is the third-lowest in the database. It made $1.5 billion. The audience was waiting. TradScore: 21.28. Margin: +20 TRAD.</p>
+            <a href="/reviews/top-gun-maverick-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-dark-knight-rises-2012/">The Dark Knight Rises (2012)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>When Occupy Wall Street's David Graeber publicly called The Dark Knight Rises anti-Occupy propaganda, he handed Christopher Nolan the clearest possible endorsement. The film released during the height of the movement and depicted a populist uprising led by a demagogue as civilizational destruction. Bane is not a misguided idealist. He is a liar who uses class resentment as a cover for nihilism. The kangaroo courts, the seized wealth, the mob justice, the cities liberated into chaos: Nolan filmed a conservative vision of what happens when institutional order collapses. Batman's return is not a metaphor for reclaiming privilege. It is an argument that someone has to protect civilization from the people who would burn it down for ideological satisfaction. The film ends with legacy, self-sacrifice, and institutional renewal. WokeScore: 4.2. TradScore: 24.78. Margin: +21 TRAD.</p>
+            <a href="/reviews/the-dark-knight-rises-2012/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-beekeeper-2024/">The Beekeeper (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>Jason Statham vs. a phone scam operation backed by the CIA and run by the former President's son. It is exactly as blunt as that sounds and it works precisely because of that bluntness. The Beekeeper is a populist action film that identified the correct cultural enemy (organized fraud targeting vulnerable elderly people, protected by political elites), gave the audience a man capable of dismantling it, and got out of his way. Statham's Adam Clay does not have moral complexity. He has a code. He protects the hive. When the hive is attacked he responds with professional violence and zero apology. The film does not critique his methods. It celebrates his effectiveness. The villain is the political class. The hero is the man outside institutional protection who operates by older rules. WokeScore: 4.25. TradScore: 25.48. Margin: +21 TRAD.</p>
+            <a href="/reviews/the-beekeeper-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>Christian Wolff is one of the most genuinely unusual heroes in recent action cinema: a forensic accountant with high-functioning autism, a private moral code he never explains or justifies, and the capacity for precise tactical violence when the code is violated. The Accountant 2 delivers a sequel that trusts its audience to have kept up with the original. No new-viewer onboarding. No recalibrated politics. The same hero, the same code, the same refusal to apologize for what he is. The film's trafficking subplot pushes into Sound of Freedom territory without the religious framing, and its willingness to depict predatory networks as real, organized, and politically protected is a choice most studio films would not make in 2025. Ben Affleck carries the lead role with a performance that rewards close watching. WokeScore: 4.2. TradScore: 26.46. Margin: +22 TRAD.</p>
+            <a href="/reviews/the-accountant-2-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>What These Films Have in Common</h3>
+        <p>Look at the data across these ten films and a pattern emerges. WokeScores cluster between 0.5 and 4.25. Not a single film on this list scores above 5 on the woke axis. That is not a coincidence. The films that score highest on the traditional axis tend to be the ones that simply do not engage with progressive frameworks at all. They are not anti-woke in a reactive sense. They are pre-woke in a structural one: built around masculine competence, defined enemies, earned loyalty, and consequences that follow from choices.</p>
+        <p>The outlier worth noting is The Dark Knight Rises, which scores the highest WokeScore on the list at 4.2 and still earns STRONGLY TRADITIONAL at +21. Nolan makes films dense enough to earn scores on both axes. What keeps his work on this list is the ideological clarity of the outcome: civilization is worth defending, populism is a lie, and the man willing to take the cost of protection is worth more than the crowd demanding it be done for free.</p>
+        <p>All ten films have full reviews at VirtueVigil with complete trope breakdowns, creative team profiles, and parental guidance. Browse the full database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a>, explore our other ranked lists at <a href="https://virtuevigil.com/lists/">virtuevigil.com/lists/</a>, or start with our <a href="/lists/best-conservative-movies/">Best Conservative Movies</a> and <a href="/lists/conservative-sports-movies/">Best Conservative Sports Movies</a> lists for more curated picks.</p>
+      </div>
+    </article>`
+  }));
+}
+
+function buildAppleTvWokeRankingListicle() {
+  writePage('lists/apple-tv-woke-ranking/index.html', buildListiclePage({
+    slug: 'apple-tv-woke-ranking',
+    title: 'Every Apple TV+ Movie and Show Ranked by Woke Score',
+    description: 'VirtueVigil ranks every Apple TV+ movie and show by Woke Score. From F1\'s pure traditionalism to Killers of the Flower Moon\'s progressive reframing.',
+    canonicalPath: 'lists/apple-tv-woke-ranking',
+    publishDate: '2026-03-30',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Apple TV+ has positioned itself as the prestige alternative to Netflix and HBO. With massive budgets, A-list talent, and Oscar ambitions, the platform has produced some of the most talked-about titles of recent years. But how does Apple's library stack up on the values meter?</p>
+        <p>VirtueVigil ran every Apple TV+ title in our database through the full VVWS scoring system. The results tell an interesting story: Apple is not the most woke platform in the streaming wars, but it is not clean either. You will find genuinely great traditional content here alongside films that use wartime nostalgia as a delivery vehicle for progressive ideology. Here is every Apple TV+ title we have reviewed, ranked from most traditional to most woke.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/f1-2025/">F1 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+17 TRAD</span>
+            </div>
+            <p>The highest-scoring traditional title on Apple TV+ and one of the cleanest blockbusters of 2025. F1 is a pure comeback story: a broken man finds redemption through grit, self-sacrifice, and refusal to quit. Brad Pitt's character prays before every race and earns respect the old-fashioned way. Nobody lectures you. Nobody deconstructs masculinity. Apple and Warner Bros. co-produced exactly the kind of film Hollywood stopped making. WokeScore: 5.52. TradScore: 22.68. Margin: +17 TRAD.</p>
+            <a href="/reviews/f1-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/pluribus-2025/">Pluribus (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+12 TRAD</span>
+            </div>
+            <p>Vince Gilligan's post-Breaking Bad series is the rarest thing in modern prestige TV: a show that genuinely refuses to tell you what to think. Pluribus earns its traditional score not by preaching conservative values but by trusting the audience with moral complexity and individual agency. Rhea Seehorn won a Golden Globe for her performance. The traditional score here reflects restraint, not agenda. WokeScore: 15.6. TradScore: 27.51. Margin: +12 TRAD.</p>
+            <a href="/reviews/pluribus-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-gorge-2025/">The Gorge (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>A high-concept action film about two elite soldiers guarding opposite sides of a classified gorge. The Gorge earns its traditional lean through duty, sacrifice, and earned romantic chemistry between its leads. The military framing is respectful throughout and the film never weaponizes its premise for social commentary. A solid pick for conservative viewers who like genre entertainment that does not lecture. WokeScore: 4.2. TradScore: 12.25. Margin: +8 TRAD.</p>
+            <a href="/reviews/the-gorge-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/eternity/">Eternity (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>A24 and Apple co-produced this afterlife romantic comedy starring Elizabeth Olsen, Miles Teller, and Callum Turner. Eternity is surprisingly clean for an A24 joint: no significant sexual content, no violence, no agenda-driven messaging. The traditional lean comes from its premise treating love and sacrifice as meaningful across eternity. Light fare, but values-safe fare. WokeScore: 3. TradScore: 5. Margin: +2 TRAD.</p>
+            <a href="/reviews/eternity/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/argylle-2024/">Argylle (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>Matthew Vaughn's spy comedy is loud, exhausting, and overcrowded, but its values profile comes out slightly traditional. Argylle features a female protagonist who grows into competence rather than being handed it, and the film's conventional romantic resolution lands on traditional ground. The progressive elements are surface-level and easily tuned out. Traditional lean by default rather than by design. WokeScore: 11.2. TradScore: 13. Margin: +2 TRAD.</p>
+            <a href="/reviews/argylle-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/napoleon-2023/">Napoleon (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+1 TRAD</span>
+            </div>
+            <p>Ridley Scott's historical epic is a film at war with itself. The battle sequences honor military courage and tactical genius in ways that feel genuinely classical. But Scott's portrait of Napoleon the man is deliberately small, undermining heroism at every turn. The film scores traditional by the narrowest possible margin. Conservatives who came for an epic will leave with mixed feelings. WokeScore: 10.18. TradScore: 11.28. Margin: +1 TRAD.</p>
+            <a href="/reviews/napoleon-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/severance-s2/">Severance - Season 2 (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-2 WOKE</span>
+            </div>
+            <p>Apple TV+'s flagship prestige series tips slightly woke in its second season, but the score reflects the show's genuine craft more than ideological alarm. The anti-corporate themes are structurally embedded in the world-building rather than grafted on, and the series respects its audience enough to present themes rather than sermons. Woke lean, but earned through storytelling rather than lecturing. WokeScore: 6. TradScore: 4. Margin: -2 WOKE.</p>
+            <a href="/reviews/severance-s2/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/blitz-2024/">Blitz (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>Steve McQueen's WWII film arrives dressed as a wartime survival story and pivots into racial grievance framing once the audience is invested. Blitz uses the London Blitz as a backdrop but spends significant runtime on identity-based moral authority and systemic framing. Saoirse Ronan delivers a committed performance that deserved a better film. A woke trap in structure if not in official classification. WokeScore: 11. TradScore: 7. Margin: -4 WOKE.</p>
+            <a href="/reviews/blitz-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/killers-of-the-flower-moon-2023/">Killers of the Flower Moon (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>Scorsese's three-and-a-half-hour historical epic about the Osage murders is a genuine cinematic achievement that tips woke through its framing choices. The film scores progressive not by inventing grievances but by structuring its moral universe around collective guilt and systemic culpability at the expense of individual moral accounting. The traditionalist case study buried inside this film never gets to breathe. WokeScore: 19. TradScore: 15. Margin: -4 WOKE.</p>
+            <a href="/reviews/killers-of-the-flower-moon-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Apple TV+ Verdict</h3>
+        <p>Apple TV+ is not the most woke platform in streaming, but it is not a safe harbor either. The library splits roughly into thirds: genuinely traditional content like F1 and Pluribus, competent middle-ground entertainment like The Gorge and Argylle, and progressive-leaning titles like Blitz that use prestige aesthetics to smuggle in ideology.</p>
+        <p>The good news is that Apple's best titles are genuinely good. F1 and Pluribus belong on any conservative streaming list. The Gorge is solid genre entertainment with a clean values profile. The warning flags are specific: if a title has Steve McQueen's name on it, read the full review before you sit down. If it involves Scorsese and historical American injustice, expect the framing to tip progressive even when the filmmaking is exceptional.</p>
+        <p>Browse our full review database at <a href="https://virtuevigil.com">VirtueVigil</a> for detailed trope audits, parental guidance, and woke trap detection on every title we have covered. For more platform-specific guides, see our <a href="/lists/best-conservative-movies-netflix-2025/">Best Conservative Movies on Netflix</a> and <a href="/lists/disney-woke-movies-ranked/">Disney Woke Movies Ranked</a> lists.</p>
+      </div>
+    </article>`
+  }));
+}

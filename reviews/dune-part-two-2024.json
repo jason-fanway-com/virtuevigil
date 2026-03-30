@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "10 min",
   "poster": "/images/posters/dune-part-two-2024.jpg",
-  "verdict": "MILD TRAD",
+  "verdict": "TRADITIONAL",
   "wokeScore": 10,
   "tradScore": 20,
   "authIndex": 67,
@@ -40,18 +40,54 @@
       "company": "Legendary Pictures"
     },
     "top_cast": [
-      { "name": "Timothée Chalamet", "role": "Paul Atreides / Muad'Dib" },
-      { "name": "Zendaya", "role": "Chani" },
-      { "name": "Austin Butler", "role": "Feyd-Rautha Harkonnen" },
-      { "name": "Florence Pugh", "role": "Princess Irulan Corrino" },
-      { "name": "Rebecca Ferguson", "role": "Lady Jessica" },
-      { "name": "Josh Brolin", "role": "Gurney Halleck" },
-      { "name": "Javier Bardem", "role": "Stilgar" },
-      { "name": "Stellan Skarsgård", "role": "Baron Vladimir Harkonnen" },
-      { "name": "Dave Bautista", "role": "Glossu Rabban" },
-      { "name": "Christopher Walken", "role": "Emperor Shaddam IV" },
-      { "name": "Léa Seydoux", "role": "Lady Margot" },
-      { "name": "Anya Taylor-Joy", "role": "Alia Atreides" }
+      {
+        "name": "Timothée Chalamet",
+        "role": "Paul Atreides / Muad'Dib"
+      },
+      {
+        "name": "Zendaya",
+        "role": "Chani"
+      },
+      {
+        "name": "Austin Butler",
+        "role": "Feyd-Rautha Harkonnen"
+      },
+      {
+        "name": "Florence Pugh",
+        "role": "Princess Irulan Corrino"
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "role": "Lady Jessica"
+      },
+      {
+        "name": "Josh Brolin",
+        "role": "Gurney Halleck"
+      },
+      {
+        "name": "Javier Bardem",
+        "role": "Stilgar"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "role": "Baron Vladimir Harkonnen"
+      },
+      {
+        "name": "Dave Bautista",
+        "role": "Glossu Rabban"
+      },
+      {
+        "name": "Christopher Walken",
+        "role": "Emperor Shaddam IV"
+      },
+      {
+        "name": "Léa Seydoux",
+        "role": "Lady Margot"
+      },
+      {
+        "name": "Anya Taylor-Joy",
+        "role": "Alia Atreides"
+      }
     ],
     "prediction": {
       "verdict": "MILD TRAD",

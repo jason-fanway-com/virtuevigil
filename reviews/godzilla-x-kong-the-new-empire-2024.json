@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "8 min",
   "poster": "/images/posters/godzilla-x-kong-the-new-empire-2024.jpg",
-  "verdict": "NOT WOKE",
+  "verdict": "TRADITIONAL LEAN",
   "wokeScore": 6,
   "tradScore": 14,
   "authIndex": 78,
@@ -40,13 +40,34 @@
       "company": "Legendary Pictures"
     },
     "top_cast": [
-      { "name": "Rebecca Hall", "role": "Dr. Ilene Andrews" },
-      { "name": "Brian Tyree Henry", "role": "Bernie Hayes" },
-      { "name": "Dan Stevens", "role": "Trapper" },
-      { "name": "Kaylee Hottle", "role": "Jia" },
-      { "name": "Alex Ferns", "role": "Mikael" },
-      { "name": "Fala Chen", "role": "Iwi Queen" },
-      { "name": "Rachel House", "role": "Hampton" }
+      {
+        "name": "Rebecca Hall",
+        "role": "Dr. Ilene Andrews"
+      },
+      {
+        "name": "Brian Tyree Henry",
+        "role": "Bernie Hayes"
+      },
+      {
+        "name": "Dan Stevens",
+        "role": "Trapper"
+      },
+      {
+        "name": "Kaylee Hottle",
+        "role": "Jia"
+      },
+      {
+        "name": "Alex Ferns",
+        "role": "Mikael"
+      },
+      {
+        "name": "Fala Chen",
+        "role": "Iwi Queen"
+      },
+      {
+        "name": "Rachel House",
+        "role": "Hampton"
+      }
     ],
     "prediction": {
       "verdict": "NOT WOKE",

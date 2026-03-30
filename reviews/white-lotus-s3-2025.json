@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "16 min",
   "poster": "/images/posters/white-lotus-s3-2025.jpg",
-  "verdict": "MIXED",
+  "verdict": "WOKE LEAN",
   "wokeScore": 42,
   "tradScore": 34,
   "authIndex": 78,
@@ -44,22 +44,70 @@
       "profile": "Chilean-born, London-based composer who has scored all three seasons of The White Lotus. His hypnotic, percussive, and often unsettling scores have become iconic, blending electronic textures with world music elements. The Season 3 score incorporates Thai musical influences and maintains the series' signature eerie, seductive atmosphere. Won the Primetime Emmy for Outstanding Original Main Title Theme Music for Season 3."
     },
     "top_cast": [
-      { "name": "Walton Goggins", "role": "Rick Hatchett" },
-      { "name": "Aimee Lou Wood", "role": "Chelsea" },
-      { "name": "Jason Isaacs", "role": "Timothy Ratliff" },
-      { "name": "Parker Posey", "role": "Victoria Ratliff" },
-      { "name": "Carrie Coon", "role": "Laurie Duffy" },
-      { "name": "Leslie Bibb", "role": "Kate Bohr" },
-      { "name": "Michelle Monaghan", "role": "Jaclyn Lemon" },
-      { "name": "Patrick Schwarzenegger", "role": "Saxon Ratliff" },
-      { "name": "Sam Nivola", "role": "Lochlan Ratliff" },
-      { "name": "Sarah Catherine Hook", "role": "Piper Ratliff" },
-      { "name": "Natasha Rothwell", "role": "Belinda Lindsey" },
-      { "name": "Lalisa Manobal (Lisa)", "role": "Mook" },
-      { "name": "Sam Rockwell", "role": "Frank" },
-      { "name": "Scott Glenn", "role": "Jim Hollinger" },
-      { "name": "Jon Gries", "role": "Greg Hunt" },
-      { "name": "Charlotte Le Bon", "role": "Chloe" }
+      {
+        "name": "Walton Goggins",
+        "role": "Rick Hatchett"
+      },
+      {
+        "name": "Aimee Lou Wood",
+        "role": "Chelsea"
+      },
+      {
+        "name": "Jason Isaacs",
+        "role": "Timothy Ratliff"
+      },
+      {
+        "name": "Parker Posey",
+        "role": "Victoria Ratliff"
+      },
+      {
+        "name": "Carrie Coon",
+        "role": "Laurie Duffy"
+      },
+      {
+        "name": "Leslie Bibb",
+        "role": "Kate Bohr"
+      },
+      {
+        "name": "Michelle Monaghan",
+        "role": "Jaclyn Lemon"
+      },
+      {
+        "name": "Patrick Schwarzenegger",
+        "role": "Saxon Ratliff"
+      },
+      {
+        "name": "Sam Nivola",
+        "role": "Lochlan Ratliff"
+      },
+      {
+        "name": "Sarah Catherine Hook",
+        "role": "Piper Ratliff"
+      },
+      {
+        "name": "Natasha Rothwell",
+        "role": "Belinda Lindsey"
+      },
+      {
+        "name": "Lalisa Manobal (Lisa)",
+        "role": "Mook"
+      },
+      {
+        "name": "Sam Rockwell",
+        "role": "Frank"
+      },
+      {
+        "name": "Scott Glenn",
+        "role": "Jim Hollinger"
+      },
+      {
+        "name": "Jon Gries",
+        "role": "Greg Hunt"
+      },
+      {
+        "name": "Charlotte Le Bon",
+        "role": "Chloe"
+      }
     ],
     "prediction": {
       "verdict": "MIXED",
@@ -123,7 +171,7 @@
       "severity": 5,
       "authenticity": 0.8,
       "centrality": 0.6,
-      "weightedScore": 2.40,
+      "weightedScore": 2.4,
       "description": "Belinda's continuing storyline examines how the luxury hospitality industry traps workers, particularly workers of color, in proximity to wealth without allowing genuine upward mobility. In Season 1, Tanya dangled a business opportunity that never materialized. In Season 3, Belinda is on a work exchange that is supposed to advance her career but instead places her in another position of servitude to wealthy guests. Thai service workers are similarly positioned: Mook, Gaitok, and others serve with dignity but have no path to the wealth they facilitate.",
       "verdict": "Moderate woke element. The show's race-and-class analysis is genuinely insightful but consistently progressive."
     },
@@ -134,7 +182,7 @@
       "severity": 4,
       "authenticity": 0.6,
       "centrality": 0.5,
-      "weightedScore": 1.20,
+      "weightedScore": 1.2,
       "description": "The show critiques the commodification of Buddhism by Western tourists while treating Buddhist practice itself with genuine respect. Piper's conversion is presented sincerely. But the show has no interest in defending Western religious traditions or exploring how faith might ground characters positively. Christianity and Western institutional religion are simply absent from the moral universe of the show.",
       "verdict": "Minor woke element. Eastern spirituality respected; Western religion invisible."
     },
@@ -189,7 +237,7 @@
       "severity": 5,
       "authenticity": 0.8,
       "centrality": 0.9,
-      "weightedScore": 3.60,
+      "weightedScore": 3.6,
       "description": "The show refuses to designate heroes or villains. Every character is morally compromised. Every ideology is tested. The audience must do their own moral reasoning rather than accepting a pre-packaged message. This intellectual seriousness is a traditional virtue: it treats the audience as adults capable of nuanced thought.",
       "verdict": "Genuine traditional element. Moral ambiguity as intellectual respect for the audience."
     },

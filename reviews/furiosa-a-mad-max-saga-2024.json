@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "11 min",
   "poster": "/images/posters/furiosa-a-mad-max-saga-2024.jpg",
-  "verdict": "NOT WOKE",
+  "verdict": "TRADITIONAL",
   "wokeScore": 8,
   "tradScore": 22,
   "authIndex": 78,
@@ -40,16 +40,46 @@
       "company": "Kennedy Miller Mitchell"
     },
     "top_cast": [
-      { "name": "Anya Taylor-Joy", "role": "Furiosa" },
-      { "name": "Chris Hemsworth", "role": "Dementus" },
-      { "name": "Tom Burke", "role": "Praetorian Jack" },
-      { "name": "Alyla Browne", "role": "Young Furiosa" },
-      { "name": "Lachy Hulme", "role": "Immortan Joe" },
-      { "name": "Charlee Fraser", "role": "Mary Jabassa" },
-      { "name": "Nathan Jones", "role": "Rictus Erectus" },
-      { "name": "John Howard", "role": "The People Eater" },
-      { "name": "Angus Sampson", "role": "The Organic Mechanic" },
-      { "name": "Josh Helman", "role": "Scrotus" }
+      {
+        "name": "Anya Taylor-Joy",
+        "role": "Furiosa"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "role": "Dementus"
+      },
+      {
+        "name": "Tom Burke",
+        "role": "Praetorian Jack"
+      },
+      {
+        "name": "Alyla Browne",
+        "role": "Young Furiosa"
+      },
+      {
+        "name": "Lachy Hulme",
+        "role": "Immortan Joe"
+      },
+      {
+        "name": "Charlee Fraser",
+        "role": "Mary Jabassa"
+      },
+      {
+        "name": "Nathan Jones",
+        "role": "Rictus Erectus"
+      },
+      {
+        "name": "John Howard",
+        "role": "The People Eater"
+      },
+      {
+        "name": "Angus Sampson",
+        "role": "The Organic Mechanic"
+      },
+      {
+        "name": "Josh Helman",
+        "role": "Scrotus"
+      }
     ],
     "prediction": {
       "verdict": "NOT WOKE",

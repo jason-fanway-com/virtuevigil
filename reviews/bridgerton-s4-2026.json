@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "14 min",
   "poster": "/images/posters/bridgerton-s4-2026.jpg",
-  "verdict": "WOKE",
+  "verdict": "STRONGLY WOKE",
   "wokeScore": 58,
   "tradScore": 18,
   "authIndex": 52,
@@ -44,22 +44,70 @@
       "profile": "Oscar-winning composer Kris Bowers has scored all four seasons of Bridgerton and the spinoff Queen Charlotte: A Bridgerton Story. His approach is the show's musical signature: orchestral string arrangements that reimagine contemporary pop songs (Charli xcx, Olivia Rodrigo, Taylor Swift, Teddy Swims for Season 4) as classical ballroom pieces. The conceit perfectly encapsulates Bridgerton's entire project: modern sensibilities wearing period costume."
     },
     "top_cast": [
-      { "name": "Luke Thompson", "role": "Benedict Bridgerton" },
-      { "name": "Yerin Ha", "role": "Sophie Baek" },
-      { "name": "Katie Leung", "role": "Lady Araminta Gun" },
-      { "name": "Isabella Wei", "role": "Posy Li" },
-      { "name": "Michelle Mao", "role": "Rosamund Li" },
-      { "name": "Golda Rosheuvel", "role": "Queen Charlotte" },
-      { "name": "Ruth Gemmell", "role": "Violet Bridgerton" },
-      { "name": "Adjoa Andoh", "role": "Lady Danbury" },
-      { "name": "Hannah Dodd", "role": "Francesca Bridgerton" },
-      { "name": "Masali Baduza", "role": "Michaela Stirling" },
-      { "name": "Victor Alli", "role": "John Stirling, Earl of Kilmartin" },
-      { "name": "Nicola Coughlan", "role": "Penelope Featherington-Bridgerton" },
-      { "name": "Luke Newton", "role": "Colin Bridgerton" },
-      { "name": "Claudia Jessie", "role": "Eloise Bridgerton" },
-      { "name": "Emma Naomi", "role": "Alice Mondrich" },
-      { "name": "Hugh Sachs", "role": "Brimsley" }
+      {
+        "name": "Luke Thompson",
+        "role": "Benedict Bridgerton"
+      },
+      {
+        "name": "Yerin Ha",
+        "role": "Sophie Baek"
+      },
+      {
+        "name": "Katie Leung",
+        "role": "Lady Araminta Gun"
+      },
+      {
+        "name": "Isabella Wei",
+        "role": "Posy Li"
+      },
+      {
+        "name": "Michelle Mao",
+        "role": "Rosamund Li"
+      },
+      {
+        "name": "Golda Rosheuvel",
+        "role": "Queen Charlotte"
+      },
+      {
+        "name": "Ruth Gemmell",
+        "role": "Violet Bridgerton"
+      },
+      {
+        "name": "Adjoa Andoh",
+        "role": "Lady Danbury"
+      },
+      {
+        "name": "Hannah Dodd",
+        "role": "Francesca Bridgerton"
+      },
+      {
+        "name": "Masali Baduza",
+        "role": "Michaela Stirling"
+      },
+      {
+        "name": "Victor Alli",
+        "role": "John Stirling, Earl of Kilmartin"
+      },
+      {
+        "name": "Nicola Coughlan",
+        "role": "Penelope Featherington-Bridgerton"
+      },
+      {
+        "name": "Luke Newton",
+        "role": "Colin Bridgerton"
+      },
+      {
+        "name": "Claudia Jessie",
+        "role": "Eloise Bridgerton"
+      },
+      {
+        "name": "Emma Naomi",
+        "role": "Alice Mondrich"
+      },
+      {
+        "name": "Hugh Sachs",
+        "role": "Brimsley"
+      }
     ],
     "prediction": {
       "verdict": "WOKE",

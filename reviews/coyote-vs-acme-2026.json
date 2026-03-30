@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "8 min",
   "poster": "/images/posters/coyote-vs-acme-2026.jpg",
-  "verdict": "MILD TRAD",
+  "verdict": "TRADITIONAL LEAN",
   "wokeScore": 9,
   "tradScore": 16,
   "authIndex": 64,
@@ -40,14 +40,38 @@
       "company": "Warner Animation Group / Ketchup Entertainment"
     },
     "top_cast": [
-      { "name": "Will Forte", "role": "Kevin Avery (Wile E. Coyote's attorney)" },
-      { "name": "John Cena", "role": "Buddy Crane (Acme Corporation's attorney)" },
-      { "name": "Lana Condor", "role": "Paige Avery (Kevin's niece/legal assistant)" },
-      { "name": "Luis Guzmán", "role": "The Judge" },
-      { "name": "P.J. Byrne", "role": "Bill Pellicano (Acme attorney)" },
-      { "name": "Tone Bell", "role": "Undisclosed" },
-      { "name": "Martha Kelly", "role": "Undisclosed" },
-      { "name": "Eric Bauza", "role": "Bugs Bunny / Multiple Looney Tunes characters (voice)" }
+      {
+        "name": "Will Forte",
+        "role": "Kevin Avery (Wile E. Coyote's attorney)"
+      },
+      {
+        "name": "John Cena",
+        "role": "Buddy Crane (Acme Corporation's attorney)"
+      },
+      {
+        "name": "Lana Condor",
+        "role": "Paige Avery (Kevin's niece/legal assistant)"
+      },
+      {
+        "name": "Luis Guzmán",
+        "role": "The Judge"
+      },
+      {
+        "name": "P.J. Byrne",
+        "role": "Bill Pellicano (Acme attorney)"
+      },
+      {
+        "name": "Tone Bell",
+        "role": "Undisclosed"
+      },
+      {
+        "name": "Martha Kelly",
+        "role": "Undisclosed"
+      },
+      {
+        "name": "Eric Bauza",
+        "role": "Bugs Bunny / Multiple Looney Tunes characters (voice)"
+      }
     ],
     "prediction": {
       "verdict": "MILD TRAD",

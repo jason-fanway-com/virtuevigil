@@ -14,7 +14,7 @@
   "wokeScore": 16,
   "tradScore": 12,
   "authIndex": 65,
-  "scoreMargin": "-4 WOKE LEAN",
+  "scoreMargin": "-4 WOKE",
   "preRelease": false,
   "wokeTrap": {
     "present": false,
@@ -40,10 +40,22 @@
       "company": "El Deseo / Sony Pictures Classics"
     },
     "top_cast": [
-      { "actor": "Tilda Swinton", "role": "Martha" },
-      { "actor": "Julianne Moore", "role": "Ingrid" },
-      { "actor": "John Turturro", "role": "Damian" },
-      { "actor": "Alessandro Nivola", "role": "Fred" }
+      {
+        "actor": "Tilda Swinton",
+        "role": "Martha"
+      },
+      {
+        "actor": "Julianne Moore",
+        "role": "Ingrid"
+      },
+      {
+        "actor": "John Turturro",
+        "role": "Damian"
+      },
+      {
+        "actor": "Alessandro Nivola",
+        "role": "Fred"
+      }
     ],
     "prediction": {
       "verdict": "WOKE LEAN",

@@ -10,11 +10,11 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "8 min",
   "poster": "/images/posters/jurassic-world-rebirth-2025.jpg",
-  "verdict": "MILD WOKE",
+  "verdict": "WOKE LEAN",
   "wokeScore": 14,
   "tradScore": 10,
   "authIndex": 42,
-  "scoreMargin": "+4 WOKE",
+  "scoreMargin": "-4 WOKE",
   "preRelease": false,
   "wokeTrap": {
     "present": false,
@@ -40,16 +40,46 @@
       "company": "Amblin Entertainment / Universal Pictures"
     },
     "top_cast": [
-      { "name": "Scarlett Johansson", "role": "Zora Bennett" },
-      { "name": "Mahershala Ali", "role": "Duncan Kincaid" },
-      { "name": "Jonathan Bailey", "role": "Dr. Henry Loomis" },
-      { "name": "Rupert Friend", "role": "Martin Krebs" },
-      { "name": "Manuel Garcia-Rulfo", "role": "Reuben Delgado" },
-      { "name": "Luna Blaise", "role": "Teresa Delgado" },
-      { "name": "David Iacono", "role": "Xavier Dobbs" },
-      { "name": "Audrina Miranda", "role": "Isabella Delgado" },
-      { "name": "Philippine Velge", "role": "Nina" },
-      { "name": "Ed Skrein", "role": "Bobby Atwater" }
+      {
+        "name": "Scarlett Johansson",
+        "role": "Zora Bennett"
+      },
+      {
+        "name": "Mahershala Ali",
+        "role": "Duncan Kincaid"
+      },
+      {
+        "name": "Jonathan Bailey",
+        "role": "Dr. Henry Loomis"
+      },
+      {
+        "name": "Rupert Friend",
+        "role": "Martin Krebs"
+      },
+      {
+        "name": "Manuel Garcia-Rulfo",
+        "role": "Reuben Delgado"
+      },
+      {
+        "name": "Luna Blaise",
+        "role": "Teresa Delgado"
+      },
+      {
+        "name": "David Iacono",
+        "role": "Xavier Dobbs"
+      },
+      {
+        "name": "Audrina Miranda",
+        "role": "Isabella Delgado"
+      },
+      {
+        "name": "Philippine Velge",
+        "role": "Nina"
+      },
+      {
+        "name": "Ed Skrein",
+        "role": "Bobby Atwater"
+      }
     ],
     "prediction": {
       "verdict": "MILD WOKE",

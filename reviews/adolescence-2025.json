@@ -10,11 +10,11 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "11 min",
   "poster": "/images/posters/adolescence-2025.jpg",
-  "verdict": "MODERATELY WOKE",
+  "verdict": "WOKE LEAN",
   "wokeScore": 22.54,
   "tradScore": 14.76,
   "authIndex": 88,
-  "scoreMargin": "+8 WOKE",
+  "scoreMargin": "-8 WOKE",
   "preRelease": false,
   "wokeTrap": {
     "present": false,
@@ -63,17 +63,50 @@
       "profile": "Shaheen Baig auditioned over 500 boys for the role of Jamie Miller before discovering Owen Cooper, a 13-year-old with no prior professional acting experience, through a demo tape. Baig found Cooper and several young cast members through Drama MOB in Manchester and Articulate Drama School and Agency in Bradford, community drama schools serving students from underrepresented backgrounds."
     },
     "top_cast": [
-      { "name": "Stephen Graham", "role": "Eddie Miller (Jamie's father)" },
-      { "name": "Owen Cooper", "role": "Jamie Miller (13-year-old accused)" },
-      { "name": "Ashley Walters", "role": "DI Luke Bascombe (lead detective)" },
-      { "name": "Erin Doherty", "role": "Briony Ariston (forensic psychologist)" },
-      { "name": "Faye Marsay", "role": "DS Misha Frank" },
-      { "name": "Christine Tremarco", "role": "Manda Miller (Jamie's mother)" },
-      { "name": "Mark Stanley", "role": "Paul Barlow" },
-      { "name": "Hannah Walters", "role": "Mrs Bailey" },
-      { "name": "Amelie Pease", "role": "Lisa Miller (Jamie's sister)" },
-      { "name": "Jo Hartley", "role": "Mrs Fenumore" },
-      { "name": "Emilia Holliday", "role": "Katie Leonard (victim)" }
+      {
+        "name": "Stephen Graham",
+        "role": "Eddie Miller (Jamie's father)"
+      },
+      {
+        "name": "Owen Cooper",
+        "role": "Jamie Miller (13-year-old accused)"
+      },
+      {
+        "name": "Ashley Walters",
+        "role": "DI Luke Bascombe (lead detective)"
+      },
+      {
+        "name": "Erin Doherty",
+        "role": "Briony Ariston (forensic psychologist)"
+      },
+      {
+        "name": "Faye Marsay",
+        "role": "DS Misha Frank"
+      },
+      {
+        "name": "Christine Tremarco",
+        "role": "Manda Miller (Jamie's mother)"
+      },
+      {
+        "name": "Mark Stanley",
+        "role": "Paul Barlow"
+      },
+      {
+        "name": "Hannah Walters",
+        "role": "Mrs Bailey"
+      },
+      {
+        "name": "Amelie Pease",
+        "role": "Lisa Miller (Jamie's sister)"
+      },
+      {
+        "name": "Jo Hartley",
+        "role": "Mrs Fenumore"
+      },
+      {
+        "name": "Emilia Holliday",
+        "role": "Katie Leonard (victim)"
+      }
     ],
     "prediction": {
       "verdict": "MODERATELY WOKE",

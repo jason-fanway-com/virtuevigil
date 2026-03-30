@@ -14,7 +14,10 @@
   "rating": "R",
   "runtime": "89 min",
   "director": "Johannes Roberts",
-  "writers": ["Johannes Roberts", "Ernest Riera"],
+  "writers": [
+    "Johannes Roberts",
+    "Ernest Riera"
+  ],
   "cast": [
     "Johnny Sequoyah as Lucy Pinborough",
     "Jessica Alexander as Hannah",
@@ -27,7 +30,7 @@
   ],
   "studio": "18Hz Productions",
   "distributor": "Paramount Pictures",
-  "verdict": "MIXED",
+  "verdict": "TRADITIONAL LEAN",
   "wokeScore": 10,
   "tradScore": 12,
   "authIndex": 30,

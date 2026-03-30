@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "12 min",
   "poster": "/images/posters/black-panther-2018.jpg",
-  "verdict": "BALANCED",
+  "verdict": "TRADITIONAL LEAN",
   "wokeScore": 18.82,
   "tradScore": 20.03,
   "authIndex": 68,
@@ -40,18 +40,54 @@
       "profile": "Swedish composer who won the Academy Award for Best Original Score for Black Panther. He traveled to Senegal and South Africa to record with local musicians. His score blends traditional African instrumentation with orchestral and hip-hop elements. Other credits include Tenet, The Mandalorian, and Creed."
     },
     "top_cast": [
-      {"name": "Chadwick Boseman", "role": "T'Challa / Black Panther"},
-      {"name": "Michael B. Jordan", "role": "Erik Killmonger"},
-      {"name": "Lupita Nyong'o", "role": "Nakia"},
-      {"name": "Danai Gurira", "role": "Okoye"},
-      {"name": "Martin Freeman", "role": "Everett K. Ross"},
-      {"name": "Daniel Kaluuya", "role": "W'Kabi"},
-      {"name": "Letitia Wright", "role": "Shuri"},
-      {"name": "Winston Duke", "role": "M'Baku"},
-      {"name": "Sterling K. Brown", "role": "N'Jobu"},
-      {"name": "Angela Bassett", "role": "Ramonda"},
-      {"name": "Forest Whitaker", "role": "Zuri"},
-      {"name": "Andy Serkis", "role": "Ulysses Klaue"}
+      {
+        "name": "Chadwick Boseman",
+        "role": "T'Challa / Black Panther"
+      },
+      {
+        "name": "Michael B. Jordan",
+        "role": "Erik Killmonger"
+      },
+      {
+        "name": "Lupita Nyong'o",
+        "role": "Nakia"
+      },
+      {
+        "name": "Danai Gurira",
+        "role": "Okoye"
+      },
+      {
+        "name": "Martin Freeman",
+        "role": "Everett K. Ross"
+      },
+      {
+        "name": "Daniel Kaluuya",
+        "role": "W'Kabi"
+      },
+      {
+        "name": "Letitia Wright",
+        "role": "Shuri"
+      },
+      {
+        "name": "Winston Duke",
+        "role": "M'Baku"
+      },
+      {
+        "name": "Sterling K. Brown",
+        "role": "N'Jobu"
+      },
+      {
+        "name": "Angela Bassett",
+        "role": "Ramonda"
+      },
+      {
+        "name": "Forest Whitaker",
+        "role": "Zuri"
+      },
+      {
+        "name": "Andy Serkis",
+        "role": "Ulysses Klaue"
+      }
     ],
     "top_performers": [
       {

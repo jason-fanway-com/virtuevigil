@@ -10,11 +10,11 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "9 min",
   "poster": "/images/posters/people-we-meet-on-vacation-2026.jpg",
-  "verdict": "MILD WOKE",
+  "verdict": "WOKE LEAN",
   "wokeScore": 14,
   "tradScore": 11,
   "authIndex": 44,
-  "scoreMargin": "+3 WOKE",
+  "scoreMargin": "-3 WOKE",
   "preRelease": false,
   "wokeTrap": {
     "present": true,
@@ -40,17 +40,50 @@
       "company": "Netflix"
     },
     "top_cast": [
-      { "name": "Emily Bader", "role": "Poppy Wright" },
-      { "name": "Tom Blyth", "role": "Alex Nilsen" },
-      { "name": "Sarah Catherine Hook", "role": "Sarah (Alex's girlfriend)" },
-      { "name": "Lucien Laviscount", "role": "Trey (Poppy's boyfriend/coworker)" },
-      { "name": "Miles Heizer", "role": "David (Alex's brother)" },
-      { "name": "Tommy Do", "role": "Nam (David's fiancé)" },
-      { "name": "Lukas Gage", "role": "Buck (Canadian party guy)" },
-      { "name": "Jameela Jamil", "role": "Swapna (Poppy's boss)" },
-      { "name": "Molly Shannon", "role": "Wanda (Poppy's mom)" },
-      { "name": "Alan Ruck", "role": "Jimmy (Poppy's dad)" },
-      { "name": "Alice Lee", "role": "Rachel (Poppy's friend)" }
+      {
+        "name": "Emily Bader",
+        "role": "Poppy Wright"
+      },
+      {
+        "name": "Tom Blyth",
+        "role": "Alex Nilsen"
+      },
+      {
+        "name": "Sarah Catherine Hook",
+        "role": "Sarah (Alex's girlfriend)"
+      },
+      {
+        "name": "Lucien Laviscount",
+        "role": "Trey (Poppy's boyfriend/coworker)"
+      },
+      {
+        "name": "Miles Heizer",
+        "role": "David (Alex's brother)"
+      },
+      {
+        "name": "Tommy Do",
+        "role": "Nam (David's fiancé)"
+      },
+      {
+        "name": "Lukas Gage",
+        "role": "Buck (Canadian party guy)"
+      },
+      {
+        "name": "Jameela Jamil",
+        "role": "Swapna (Poppy's boss)"
+      },
+      {
+        "name": "Molly Shannon",
+        "role": "Wanda (Poppy's mom)"
+      },
+      {
+        "name": "Alan Ruck",
+        "role": "Jimmy (Poppy's dad)"
+      },
+      {
+        "name": "Alice Lee",
+        "role": "Rachel (Poppy's friend)"
+      }
     ],
     "prediction": null
   },

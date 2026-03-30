@@ -1,7 +1,7 @@
 {
   "id": "emilia-perez-2024",
   "slug": "emilia-perez-2024",
-  "title": "Emilia P\u00e9rez",
+  "title": "Emilia Pérez",
   "year": 2024,
   "type": "film",
   "platform": "Netflix",
@@ -14,7 +14,7 @@
   "wokeScore": 28,
   "tradScore": 6,
   "authIndex": 40,
-  "scoreMargin": "-22 STRONGLY WOKE",
+  "scoreMargin": "-22 WOKE",
   "preRelease": false,
   "wokeTrap": {
     "present": false,
@@ -40,12 +40,30 @@
       "company": "Why Not Productions / Netflix"
     },
     "top_cast": [
-      { "actor": "Zoe Salda\u00f1a", "role": "Rita Mora Castro" },
-      { "actor": "Karla Sof\u00eda Gasc\u00f3n", "role": "Emilia P\u00e9rez / Juan 'Manitas' Del Monte" },
-      { "actor": "Selena Gomez", "role": "Jessi Del Monte" },
-      { "actor": "Adriana Paz", "role": "Epifan\u00eda" },
-      { "actor": "Mark Ivanir", "role": "Dr. Wasserman" },
-      { "actor": "Edgar Ram\u00edrez", "role": "Gustavo Brun" }
+      {
+        "actor": "Zoe Saldaña",
+        "role": "Rita Mora Castro"
+      },
+      {
+        "actor": "Karla Sofía Gascón",
+        "role": "Emilia Pérez / Juan 'Manitas' Del Monte"
+      },
+      {
+        "actor": "Selena Gomez",
+        "role": "Jessi Del Monte"
+      },
+      {
+        "actor": "Adriana Paz",
+        "role": "Epifanía"
+      },
+      {
+        "actor": "Mark Ivanir",
+        "role": "Dr. Wasserman"
+      },
+      {
+        "actor": "Edgar Ramírez",
+        "role": "Gustavo Brun"
+      }
     ],
     "prediction": {
       "verdict": "STRONGLY WOKE",
@@ -126,7 +144,7 @@
     }
   ],
   "seo": {
-    "titleTag": "Is Emilia P\u00e9rez Woke? | VirtueVigil",
+    "titleTag": "Is Emilia Pérez Woke? | VirtueVigil",
     "metaDescription": "VirtueVigil reviews Emilia Perez (2024), Jacques Audiard's transgender cartel musical starring Zoe Saldana and Karla Sofia Gascon. Is it woke? Our VVWS analysis reveals a score of STRONGLY WOKE -22, with transgender identity and social justice activism at the center of a film that managed to alienate both progressives and conservatives.",
     "keywords": "emilia perez, is emilia perez woke, emilia perez review, emilia perez 2024, jacques audiard, zoe saldana, karla sofia gascon, selena gomez, emilia perez oscar, transgender movie, netflix, woke movie, virtuevigil"
   },
@@ -157,15 +175,15 @@
       "relevance": "His outsider gaze - telling stories about communities he does not belong to - is both his artistic method and the source of Emilia Perez's most damaging criticism."
     },
     {
-      "name": "Zoe Salda\u00f1a",
+      "name": "Zoe Saldaña",
       "role": "Rita Mora Castro",
       "ideology": "Mainstream Hollywood progressive",
       "track_record": "Known primarily for blockbuster franchises (Avatar, Guardians of the Galaxy, Star Trek). This is her most dramatic and politically engaged role. Won the Oscar for Best Supporting Actress - her first. Dominican American heritage adds authentic Latina representation.",
       "relevance": "Her performance is the film's most universally praised element. Her Oscar win was celebrated as historic for Dominican American representation."
     },
     {
-      "name": "Karla Sof\u00eda Gasc\u00f3n",
-      "role": "Emilia P\u00e9rez / Juan 'Manitas' Del Monte",
+      "name": "Karla Sofía Gascón",
+      "role": "Emilia Pérez / Juan 'Manitas' Del Monte",
       "ideology": "Openly progressive on trans rights",
       "track_record": "Spanish actress who publicly transitioned in 2018. Known in Spanish-language television. This is her breakthrough international film role. Became the first openly transgender person nominated for an acting Oscar - a milestone that was both celebrated and contested.",
       "relevance": "Her casting provides the film's most significant claim to authentic representation, though some critics argued the film still failed to serve her character with adequate depth."

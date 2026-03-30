@@ -10,9 +10,9 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "12 min",
   "poster": "/images/posters/frankenstein-2025.jpg",
-  "verdict": "MIXED",
-  "wokeScore": 18.20,
-  "tradScore": 22.50,
+  "verdict": "TRADITIONAL LEAN",
+  "wokeScore": 18.2,
+  "tradScore": 22.5,
   "authIndex": 82,
   "scoreMargin": "+4 TRAD",
   "preRelease": false,
@@ -62,14 +62,38 @@
       "profile": "Robin D. Cook assembled a cast that blends art-house credibility with commercial star power. The decision to cast Mia Goth in a dual role as both Victor's mother Claire and his love interest Elizabeth was del Toro's explicit Freudian choice, designed to literalize Victor's unresolved maternal attachment."
     },
     "top_cast": [
-      { "name": "Oscar Isaac", "role": "Victor Frankenstein" },
-      { "name": "Jacob Elordi", "role": "The Creature" },
-      { "name": "Mia Goth", "role": "Elizabeth / Claire (dual role)" },
-      { "name": "Christoph Waltz", "role": "Heinrich Harlander (arms dealer/patron)" },
-      { "name": "Charles Dance", "role": "Leopold Frankenstein (Victor's father)" },
-      { "name": "Felix Kammerer", "role": "William Frankenstein (Victor's brother)" },
-      { "name": "Lars Mikkelsen", "role": "Captain Anderson" },
-      { "name": "Christian Convery", "role": "Young Victor" }
+      {
+        "name": "Oscar Isaac",
+        "role": "Victor Frankenstein"
+      },
+      {
+        "name": "Jacob Elordi",
+        "role": "The Creature"
+      },
+      {
+        "name": "Mia Goth",
+        "role": "Elizabeth / Claire (dual role)"
+      },
+      {
+        "name": "Christoph Waltz",
+        "role": "Heinrich Harlander (arms dealer/patron)"
+      },
+      {
+        "name": "Charles Dance",
+        "role": "Leopold Frankenstein (Victor's father)"
+      },
+      {
+        "name": "Felix Kammerer",
+        "role": "William Frankenstein (Victor's brother)"
+      },
+      {
+        "name": "Lars Mikkelsen",
+        "role": "Captain Anderson"
+      },
+      {
+        "name": "Christian Convery",
+        "role": "Young Victor"
+      }
     ],
     "prediction": {
       "verdict": "MIXED",

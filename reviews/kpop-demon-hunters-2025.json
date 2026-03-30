@@ -10,11 +10,11 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "13 min",
   "poster": "/images/posters/kpop-demon-hunters-2025.jpg",
-  "verdict": "MODERATELY WOKE",
+  "verdict": "WOKE LEAN",
   "wokeScore": 24.18,
   "tradScore": 16.42,
   "authIndex": 85,
-  "scoreMargin": "+8 WOKE",
+  "scoreMargin": "-8 WOKE",
   "preRelease": false,
   "wokeTrap": {
     "present": false,
@@ -64,25 +64,76 @@
       "profile": "The visual design was influenced by concert lighting, editorial photography, music videos, anime, and Korean dramas. The animation was produced by Sony Pictures Imageworks, the same studio behind Spider-Man: Into the Spider-Verse. The visual style blends 3D CG animation with stylized 2D elements, creating a distinctive look that reviewers compared favorably to the Spider-Verse aesthetic."
     },
     "top_cast": [
-      { "name": "Arden Cho", "role": "Rumi (lead vocalist/leader of Huntrix)" },
-      { "name": "May Hong", "role": "Mira (main dancer of Huntrix)" },
-      { "name": "Ji-young Yoo", "role": "Zoey (rapper/lyricist of Huntrix)" },
-      { "name": "Ahn Hyo-seop", "role": "Jinu (leader of Saja Boys)" },
-      { "name": "Yunjin Kim", "role": "Celine (former demon hunter/foster mother)" },
-      { "name": "Daniel Dae Kim", "role": "Healer Han" },
-      { "name": "Ken Jeong", "role": "Bobby (Huntrix's manager)" },
-      { "name": "Lee Byung-hun", "role": "Gwi-Ma (demon king)" },
-      { "name": "Joel Kim Booster", "role": "Romance Saja" },
-      { "name": "SungWon Cho", "role": "Abby Saja" },
-      { "name": "Liza Koshy", "role": "TV Host" }
+      {
+        "name": "Arden Cho",
+        "role": "Rumi (lead vocalist/leader of Huntrix)"
+      },
+      {
+        "name": "May Hong",
+        "role": "Mira (main dancer of Huntrix)"
+      },
+      {
+        "name": "Ji-young Yoo",
+        "role": "Zoey (rapper/lyricist of Huntrix)"
+      },
+      {
+        "name": "Ahn Hyo-seop",
+        "role": "Jinu (leader of Saja Boys)"
+      },
+      {
+        "name": "Yunjin Kim",
+        "role": "Celine (former demon hunter/foster mother)"
+      },
+      {
+        "name": "Daniel Dae Kim",
+        "role": "Healer Han"
+      },
+      {
+        "name": "Ken Jeong",
+        "role": "Bobby (Huntrix's manager)"
+      },
+      {
+        "name": "Lee Byung-hun",
+        "role": "Gwi-Ma (demon king)"
+      },
+      {
+        "name": "Joel Kim Booster",
+        "role": "Romance Saja"
+      },
+      {
+        "name": "SungWon Cho",
+        "role": "Abby Saja"
+      },
+      {
+        "name": "Liza Koshy",
+        "role": "TV Host"
+      }
     ],
     "singing_cast": [
-      { "name": "Ejae", "role": "Rumi's singing voice" },
-      { "name": "Audrey Nuna", "role": "Mira's singing voice" },
-      { "name": "Rei Ami", "role": "Zoey's singing voice" },
-      { "name": "Andrew Choi", "role": "Jinu's singing voice" },
-      { "name": "Lea Salonga", "role": "Celine's singing voice" },
-      { "name": "Kevin Woo", "role": "Mystery Saja's singing voice" }
+      {
+        "name": "Ejae",
+        "role": "Rumi's singing voice"
+      },
+      {
+        "name": "Audrey Nuna",
+        "role": "Mira's singing voice"
+      },
+      {
+        "name": "Rei Ami",
+        "role": "Zoey's singing voice"
+      },
+      {
+        "name": "Andrew Choi",
+        "role": "Jinu's singing voice"
+      },
+      {
+        "name": "Lea Salonga",
+        "role": "Celine's singing voice"
+      },
+      {
+        "name": "Kevin Woo",
+        "role": "Mystery Saja's singing voice"
+      }
     ],
     "prediction": {
       "verdict": "MODERATELY WOKE",

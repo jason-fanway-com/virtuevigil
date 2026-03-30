@@ -10,7 +10,7 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "9 min",
   "poster": "/images/posters/sinners-2025.jpg",
-  "verdict": "MIXED",
+  "verdict": "TRADITIONAL LEAN",
   "wokeScore": 15,
   "tradScore": 19,
   "authIndex": 72,
@@ -40,16 +40,46 @@
       "company": "Proximity Media"
     },
     "top_cast": [
-      { "name": "Michael B. Jordan", "role": "Smoke / Stack (twin brothers)" },
-      { "name": "Hailee Steinfeld", "role": "Mary" },
-      { "name": "Miles Caton", "role": "Sammie Moore" },
-      { "name": "Jack O'Connell", "role": "Remmick" },
-      { "name": "Wunmi Mosaku", "role": "Annie" },
-      { "name": "Jayme Lawson", "role": "Pearline" },
-      { "name": "Omar Benson Miller", "role": "Cornbread" },
-      { "name": "Delroy Lindo", "role": "Delta Slim" },
-      { "name": "Li Jun Li", "role": "Grace Chow" },
-      { "name": "Peter Dreimanis", "role": "Bert" }
+      {
+        "name": "Michael B. Jordan",
+        "role": "Smoke / Stack (twin brothers)"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "role": "Mary"
+      },
+      {
+        "name": "Miles Caton",
+        "role": "Sammie Moore"
+      },
+      {
+        "name": "Jack O'Connell",
+        "role": "Remmick"
+      },
+      {
+        "name": "Wunmi Mosaku",
+        "role": "Annie"
+      },
+      {
+        "name": "Jayme Lawson",
+        "role": "Pearline"
+      },
+      {
+        "name": "Omar Benson Miller",
+        "role": "Cornbread"
+      },
+      {
+        "name": "Delroy Lindo",
+        "role": "Delta Slim"
+      },
+      {
+        "name": "Li Jun Li",
+        "role": "Grace Chow"
+      },
+      {
+        "name": "Peter Dreimanis",
+        "role": "Bert"
+      }
     ],
     "prediction": {
       "verdict": "MIXED",

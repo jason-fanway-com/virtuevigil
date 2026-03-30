@@ -10,11 +10,11 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "9 min",
   "poster": "/images/posters/better-man-2024.jpg",
-  "verdict": "MIXED",
+  "verdict": "TRADITIONAL LEAN",
   "wokeScore": 10,
   "tradScore": 12,
   "authIndex": 70,
-  "scoreMargin": "+2 MIXED",
+  "scoreMargin": "+2 TRAD",
   "preRelease": false,
   "wokeTrap": {
     "present": false,
@@ -40,13 +40,34 @@
       "company": "Paramount Pictures"
     },
     "top_cast": [
-      { "actor": "Jonno Davies", "role": "Robbie Williams (voice/motion capture)" },
-      { "actor": "Robbie Williams", "role": "Himself (voice)" },
-      { "actor": "Steve Pemberton", "role": "Peter Williams (Robbie's father)" },
-      { "actor": "Alison Steadman", "role": "Betty Williams (Robbie's grandmother)" },
-      { "actor": "Kate Mulvany", "role": "Janet Williams (Robbie's mother)" },
-      { "actor": "Damon Herriman", "role": "Tim Stammer (manager)" },
-      { "actor": "Raechelle Banno", "role": "Nicole Appleton" }
+      {
+        "actor": "Jonno Davies",
+        "role": "Robbie Williams (voice/motion capture)"
+      },
+      {
+        "actor": "Robbie Williams",
+        "role": "Himself (voice)"
+      },
+      {
+        "actor": "Steve Pemberton",
+        "role": "Peter Williams (Robbie's father)"
+      },
+      {
+        "actor": "Alison Steadman",
+        "role": "Betty Williams (Robbie's grandmother)"
+      },
+      {
+        "actor": "Kate Mulvany",
+        "role": "Janet Williams (Robbie's mother)"
+      },
+      {
+        "actor": "Damon Herriman",
+        "role": "Tim Stammer (manager)"
+      },
+      {
+        "actor": "Raechelle Banno",
+        "role": "Nicole Appleton"
+      }
     ],
     "prediction": {
       "verdict": "MIXED",

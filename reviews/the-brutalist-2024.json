@@ -10,11 +10,11 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "11 min",
   "poster": "/images/posters/the-brutalist-2024.jpg",
-  "verdict": "MILD WOKE",
+  "verdict": "WOKE LEAN",
   "wokeScore": 18,
   "tradScore": 14,
   "authIndex": 44,
-  "scoreMargin": "+4 WOKE",
+  "scoreMargin": "-4 WOKE",
   "preRelease": false,
   "wokeTrap": {
     "present": false,
@@ -40,16 +40,46 @@
       "company": "Andrew Lauren Productions / Brookstreet Pictures"
     },
     "top_cast": [
-      { "name": "Adrien Brody", "role": "László Tóth" },
-      { "name": "Felicity Jones", "role": "Erzsébet Tóth" },
-      { "name": "Guy Pearce", "role": "Harrison Lee Van Buren Sr." },
-      { "name": "Joe Alwyn", "role": "Harry Lee Van Buren Jr." },
-      { "name": "Raffey Cassidy", "role": "Zsófia" },
-      { "name": "Stacy Martin", "role": "Maggie" },
-      { "name": "Isaach De Bankolé", "role": "Gordon" },
-      { "name": "Alessandro Nivola", "role": "Attila" },
-      { "name": "Ariane Labed", "role": "Helga" },
-      { "name": "Jonathan Hyde", "role": "Leslie Woodrow" }
+      {
+        "name": "Adrien Brody",
+        "role": "László Tóth"
+      },
+      {
+        "name": "Felicity Jones",
+        "role": "Erzsébet Tóth"
+      },
+      {
+        "name": "Guy Pearce",
+        "role": "Harrison Lee Van Buren Sr."
+      },
+      {
+        "name": "Joe Alwyn",
+        "role": "Harry Lee Van Buren Jr."
+      },
+      {
+        "name": "Raffey Cassidy",
+        "role": "Zsófia"
+      },
+      {
+        "name": "Stacy Martin",
+        "role": "Maggie"
+      },
+      {
+        "name": "Isaach De Bankolé",
+        "role": "Gordon"
+      },
+      {
+        "name": "Alessandro Nivola",
+        "role": "Attila"
+      },
+      {
+        "name": "Ariane Labed",
+        "role": "Helga"
+      },
+      {
+        "name": "Jonathan Hyde",
+        "role": "Leslie Woodrow"
+      }
     ],
     "prediction": {
       "verdict": "MILD WOKE",

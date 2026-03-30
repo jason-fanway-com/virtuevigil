@@ -10,11 +10,11 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "8 min",
   "poster": "/images/posters/lilo-and-stitch-2025.jpg",
-  "verdict": "MILD WOKE",
+  "verdict": "WOKE LEAN",
   "wokeScore": 17,
   "tradScore": 11,
   "authIndex": 48,
-  "scoreMargin": "+6 WOKE",
+  "scoreMargin": "-6 WOKE",
   "preRelease": false,
   "wokeTrap": {
     "present": true,
@@ -41,16 +41,46 @@
       "company": "Rideback / Walt Disney Pictures"
     },
     "top_cast": [
-      { "name": "Maia Kealoha", "role": "Lilo" },
-      { "name": "Sydney Agudong", "role": "Nani" },
-      { "name": "Chris Sanders", "role": "Stitch (voice)" },
-      { "name": "Zach Galifianakis", "role": "Jumba" },
-      { "name": "Billy Magnussen", "role": "Pleakley" },
-      { "name": "Courtney B. Vance", "role": "Cobra Bubbles" },
-      { "name": "Tia Carrere", "role": "Mrs. Kekoa" },
-      { "name": "Amy Hill", "role": "Tutu" },
-      { "name": "Kaipo Dudoit", "role": "David" },
-      { "name": "Hannah Waddingham", "role": "Grand Councilwoman (voice)" }
+      {
+        "name": "Maia Kealoha",
+        "role": "Lilo"
+      },
+      {
+        "name": "Sydney Agudong",
+        "role": "Nani"
+      },
+      {
+        "name": "Chris Sanders",
+        "role": "Stitch (voice)"
+      },
+      {
+        "name": "Zach Galifianakis",
+        "role": "Jumba"
+      },
+      {
+        "name": "Billy Magnussen",
+        "role": "Pleakley"
+      },
+      {
+        "name": "Courtney B. Vance",
+        "role": "Cobra Bubbles"
+      },
+      {
+        "name": "Tia Carrere",
+        "role": "Mrs. Kekoa"
+      },
+      {
+        "name": "Amy Hill",
+        "role": "Tutu"
+      },
+      {
+        "name": "Kaipo Dudoit",
+        "role": "David"
+      },
+      {
+        "name": "Hannah Waddingham",
+        "role": "Grand Councilwoman (voice)"
+      }
     ],
     "prediction": {
       "verdict": "MIXED",
