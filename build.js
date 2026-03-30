@@ -1766,6 +1766,8 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/woke-animated-kids-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/patriotic-war-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/anti-woke-action-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-action-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -9205,6 +9207,352 @@ function buildAppleTvWokeRankingListicle() {
         <h3>The Highest Traditional Scores on VirtueVigil</h3>
         <p>The VirtueVigil scale is built to measure both directions. High woke scores warn you. High traditional scores reward you. This list shows what the top of the traditional side looks like: faith epics that treat God as real, patriotic films that treat America as worth defending, sports stories where discipline and sacrifice mean something, and animated films that trust kids with genuine moral stakes.</p>
         <p>Not every film here is a clean win. Zootopia 2 and Scarpetta score high on traditional content but get outpaced by their woke scores. That's worth knowing too. The database is honest about what's in every film, not just the headline verdict. Browse hundreds more scored reviews at <a href="https://virtuevigil.com/reviews/">virtuevigil.com</a>. Every film is ranked by both tradScore and wokeScore so you can make the call yourself. For more positive picks, see our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a> and <a href="/lists/highest-woke-scores-all-time/">10 Movies With the Highest Woke Scores Ever</a>.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/best-action-movies-2024/index.html', buildListiclePage({
+    slug: 'best-action-movies-2024',
+    title: 'Best Action Movies of 2024 Ranked by Values (VirtueVigil Scores)',
+    description: 'VirtueVigil ranks the best action movies of 2024 by traditional values scores. Real data, no agenda. Find which action films 2024 actually earned their keep.',
+    canonicalPath: 'lists/best-action-movies-2024',
+    publishDate: '2026-03-30',
+    htmlContent: `<article class="listicle-article">
+      <p>Hollywood action films get judged on box office and explosions. VirtueVigil judges them on something the industry pretends does not exist: values content. Every film in our database is scored on both a Woke Score and a Traditional Score using the same methodology across every review. The rankings below are sorted by net traditional margin, meaning the gap between traditional content and progressive ideology. The bigger the gap, the cleaner the film scores on values.</p>
+
+      <p>These ten action films from 2024 topped the field. Some are franchise blockbusters. One is a Japanese anime theatrical release. All of them earned their ranking through actual story content, not perception or cultural reputation. Here is where the 2024 action genre really stood when you run the numbers.</p>
+
+      <ul class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/solo-leveling-reawakening-2024/">Solo Leveling: ReAwakening (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+27 TRAD</span>
+            </div>
+            <p>The highest net traditional score of any action film released in 2024, and it is not close. This theatrical compilation of the Solo Leveling anime series follows Sung Jin-Woo, a hunter who rises from the weakest rank to become the most powerful fighter alive through discipline, sacrifice, and a refusal to quit. VirtueVigil flagged meritocracy as the supreme value, self-improvement through suffering as the heroic arc, and a complete absence of progressive ideology throughout. Woke score: 1.26. Trad score: 28.35. Net margin: +27.09 traditional. A near-perfect values score for an action film.</p>
+            <a href="/reviews/solo-leveling-reawakening-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-beekeeper-2024/">The Beekeeper (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>Jason Statham plays a retired government operative who discovers his elderly landlady was scammed out of her life savings by a politically connected fraud operation. What follows is a one-man war carried out with precision and zero tolerance for injustice. VirtueVigil flagged vigilante protection of the vulnerable, stoic masculine competence, elder care as a sacred obligation, and villains who receive real consequences. Woke score: 4.25. Trad score: 25.48. Net margin: +21.23. The second-highest traditional margin in 2024 action.</p>
+            <a href="/reviews/the-beekeeper-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/transformers-one-2024/">Transformers One (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>The animated origin story of Optimus Prime and Megatron is the best Transformers film in decades, and it got there by taking the friendship between those two characters seriously as a moral tragedy. The film earns its traditional score through sacred male friendship depicted without irony, heroic self-sacrifice as the defining test of character, clear distinctions between good and evil, and hard work as the only path to earned excellence. Woke score: 2. Trad score: 18.48. Net margin: +16.48. Franchise filmmaking that respects the source material and its audience.</p>
+            <a href="/reviews/transformers-one-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gladiator-ii-2024/">Gladiator II (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>Ridley Scott returned to Rome and built a sequel around personal honor, martial virtue, and what it costs a man to betray his own values. Paul Mescal carries the film as Lucius, and Denzel Washington commands the screen as the opportunistic Macrinus. VirtueVigil flagged personal honor as the supreme value, institutional corruption as the true villain, and the classical framework of duty, sacrifice, and earned glory throughout. Woke score: 7. Trad score: 22.84. Net margin: +15.84. A confident sequel that trusts the tradition it came from.</p>
+            <a href="/reviews/gladiator-ii-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/twisters-2024/">Twisters (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+15 TRAD</span>
+            </div>
+            <p>Lee Isaac Chung directed one of the rare modern blockbusters built for the whole country instead of just the coasts. Glen Powell plays a cowboy storm chaser whose heroism is rooted in competence and courage, not politics. Heartland communities are shown with genuine dignity, and the film avoids climate change moralizing entirely, focusing instead on human courage against natural forces. Woke score: 10.08. Trad score: 24.64. Net margin: +14.56. The feel-good crowd-pleaser of the 2024 action calendar.</p>
+            <a href="/reviews/twisters-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/furiosa-a-mad-max-saga-2024/">Furiosa: A Mad Max Saga (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>The internet spent months labeling this film woke. The VirtueVigil data disagrees. Anya Taylor-Joy plays a woman kidnapped from her home as a child who spends the entire film fighting to return, driven by family loyalty and survival instinct rather than ideological identity. George Miller earns the traditional score through home and family as the ultimate motivation, a protagonist who earns every victory through suffering and discipline, and male villains who face genuine consequences. Woke score: 8. Trad score: 22. Net margin: +14. Judge it on the numbers.</p>
+            <a href="/reviews/furiosa-a-mad-max-saga-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/road-house-2024/">Road House (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>Nobody expected the Road House remake to work, let alone score as a masculinity-affirming values film. Jake Gyllenhaal plays Dalton, a former UFC fighter who takes a bouncer job at a Florida Keys bar and ends up defending an entire community against organized crime. VirtueVigil flagged masculine competence as the heroic core, community defense as the central moral obligation, consequence culture with villains who actually get punished, and redemption through service rather than therapy. Woke score: 4. Trad score: 18. Net margin: +14. Exactly what the genre used to deliver as a matter of course.</p>
+            <a href="/reviews/road-house-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/sonic-the-hedgehog-3-2024/">Sonic the Hedgehog 3 (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>The best installment in the Sonic franchise gets darker without losing its values foundation. Keanu Reeves voices Shadow the Hedgehog in a storyline centered on grief, government overreach, and the path to redemption through truth rather than power. VirtueVigil flagged chosen family earned through loyalty and sacrifice, grief treated with real emotional dignity, self-sacrifice as the highest moral expression, and government overreach positioned as the antagonist force. Woke score: 4.2. Trad score: 18.34. Net margin: +14.14. Safe for families. Worth watching for everyone else.</p>
+            <a href="/reviews/sonic-the-hedgehog-3-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/rebel-ridge-2024/">Rebel Ridge (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+10 TRAD</span>
+            </div>
+            <p>Jeremy Saulnier's Netflix action thriller follows Terry Richmond, a Marine veteran who arrives in a small Louisiana town to post bail for his cousin and discovers a local police force engaged in systematic civil asset forfeiture and corruption. Aaron Pierre carries the film with controlled intensity. VirtueVigil flagged institutional accountability as the central value, veteran competence and discipline as the heroic foundation, rule of law restored through individual courage, and government corruption punished without ideological framing. Woke score: 8.18. Trad score: 18.5. Net margin: +10.32. A lean, efficient thriller with real values underneath.</p>
+            <a href="/reviews/rebel-ridge-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/venom-the-last-dance-2024/">Venom: The Last Dance (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>Tom Hardy closes out his three-film commitment to this character in a finale that understands exactly what it is. The Eddie and Venom dynamic remains one of the most oddly charming pairings in franchise history, and the film builds toward a conclusion that earns its emotional weight through loyalty and sacrifice rather than spectacle alone. VirtueVigil flagged loyalty as the ultimate virtue, sacrifice for others as the highest moral act, redemption of a former adversary, and individual courage over institutional cowardice throughout. Woke score: 3.5. Trad score: 17.07. Net margin: +13.57. A clean close to a franchise that consistently avoided the lecture.</p>
+            <a href="/reviews/venom-the-last-dance-2024/" class="listicle-cta">Read the VirtueVigil review</a>
+          </div>
+        </li>
+
+      </ul>
+
+      <div class="listicle-conclusion">
+        <h3>The Best Action Films of 2024 on Values</h3>
+        <p>Every film on this list earned its ranking through actual story content. No reputation bonus, no genre exception, no ideological benefit of the doubt. Solo Leveling leads by a wide margin because it treats meritocracy and self-improvement as the literal point of the story, not as props. The Beekeeper follows because it treats elder protection and masculine accountability as real obligations, not character quirks. The rest of the list reflects 2024 action output that understood the deal: give the audience a hero worth following, consequences worth believing, and a story that respects the values of its viewers.</p>
+        <p>Not every film here is perfect on the woke side. Twisters carries a moderate woke score. Furiosa carries one too. But the traditional content in those films is real and substantial, and the net margin is what the ranking reflects. That is the VirtueVigil methodology: honest accounting on both sides of the ledger, no selective scoring, no agenda in either direction.</p>
+        <p>See all our movie reviews at <a href="https://virtuevigil.com/reviews/">VirtueVigil.com</a>. Full trope audits, creative team profiles, parental guidance, and woke and traditional scores for every film in the database. For more curated picks, see our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>, <a href="/lists/non-woke-action-movies-2024/">Non-Woke Action Movies 2024</a>, and <a href="/lists/highest-traditional-scores-all-time/">10 Movies With the Highest Traditional Scores Ever</a>.</p>
+      </div>
+
+      <style>
+      .listicle-article { max-width: 860px; }
+      .listicle-intro p { color: #bbb; line-height: 1.75; margin-bottom: 16px; font-size: 1.05rem; }
+      .listicle-items { list-style: none; padding: 0; margin: 32px 0 0; }
+      .listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+      .listicle-item:last-child { border-bottom: none; }
+      .listicle-rank { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; background: rgba(201,168,76,0.12); border: 2px solid rgba(201,168,76,0.4); display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; }
+      .listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.25rem; margin: 0 0 10px; }
+      .listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+      .listicle-content h2 a:hover { color: #c9a84c; }
+      .listicle-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+      .verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+      .verdict-badge.traditional { background: rgba(39,174,96,0.15); color: #2ecc71; border: 1px solid #2ecc71; }
+      .verdict-badge.mixed { background: rgba(230,126,34,0.12); color: #e67e22; border: 1px solid #e67e22; }
+      .verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+      .verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+      .score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+      .listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+      .listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+      .listicle-cta:hover { background: rgba(201,168,76,0.1); }
+      .listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+      .listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+      .listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+      .listicle-conclusion a { color: #c9a84c; }
+      @media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+      </style>
+    </article>`
+  }));
+
+  writePage('lists/best-faith-movies-2024/index.html', buildListiclePage({
+    slug: 'best-faith-movies-2024',
+    title: 'Best Faith-Based Movies of All Time Ranked by VirtueVigil Score',
+    description: 'The definitive ranking of the best faith-based and Christian films ever made, scored by VirtueVigil. Find films that celebrate traditional values, faith, and moral clarity.',
+    canonicalPath: 'lists/best-faith-movies-2024',
+    publishDate: '2026-03-30',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Faith-based cinema occupies a strange position in contemporary Hollywood. When a film treats faith as the source of a character's strength, courage, or moral clarity, it becomes suspect to the critical establishment. When a film treats faith as a psychological disorder or a tool of oppression, the same critics celebrate it as daring and honest. VirtueVigil exists partly to document what the data actually shows about movies that engage with faith and traditional values.</p>
+
+        <p>This list ranks the highest-scoring faith-adjacent and explicitly Christian films in the VirtueVigil database. We have measured each film using the same dual-scoring system: the Traditional Score measures the presence of faith-positive content, family values, moral clarity, and masculine virtue. The Woke Score measures the presence of progressive ideological content. The gap between these two numbers tells you what kind of film you are watching.</p>
+
+        <p>The films below are sorted by Traditional Score from highest to lowest. Every film in this list scored TRADITIONAL or STRONGLY TRADITIONAL on the VirtueVigil verdict scale, meaning the values content dominates the narrative. No films that score higher on woke ideology than traditional values appear here, regardless of their faith elements.</p>
+      </div>
+
+      <ul class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-passion-of-the-christ-2004/">The Passion of the Christ (2004)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 45.29</span>
+              <span class="score-badge">WOKE: 0</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Biblical Drama &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Mel Gibson</p>
+            <p>Mel Gibson spent 30 million dollars of his own money to make a film in Aramaic and Latin about the final 12 hours of Christ's life. No major studio would finance it. No studio would distribute it. Gibson self-distributed and the film became the highest-grossing independent film ever made at $611 million worldwide. The Passion focuses relentlessly on physical and spiritual suffering without apologizing for its theological framework. This is a film about redemption through sacrifice, delivered with uncompromising sincerity. VirtueVigil's highest Traditional Score in the entire database: 45.29. Woke Score: 0. The gap tells you everything you need to know. This is cinema built on faith as its foundation, not faith as decoration.</p>
+            <a href="/reviews/the-passion-of-the-christ-2004/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/reagan-2024/">Reagan (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 44.28</span>
+              <span class="score-badge">WOKE: 2.4</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Biography/Drama &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Sean McNamara</p>
+            <p>Dennis Quaid's portrayal of Ronald Reagan is an unapologetic act of devotion. The film frames Reagan's life as a providential story: a man called to challenge communism, to speak truth to power, and to believe that America's best days lay ahead. Faith is central to Reagan's character arc. He is portrayed as someone whose faith informed his political convictions, not despite them. The mainstream critics dismissed it (18% on Rotten Tomatoes). The audience embraced it (98% audience score). That gap reflects the film's clear values alignment. Traditional Score: 44.28. Woke Score: 2.4. This is a film made for an audience whose values Hollywood typically ignores, and it earns every point.</p>
+            <a href="/reviews/reagan-2024/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/miracle-2004/">Miracle (2004)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 37.38</span>
+              <span class="score-badge">WOKE: 1.4</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Sports/Drama/History &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Gavin O'Connor</p>
+            <p>The 1980 Miracle on Ice told straight, with discipline, sacrifice, and masculine accountability as the core of the narrative. Coach Herb Brooks builds a team through relentless standards and the demand that his players become worthy of the moment history has placed them in. American exceptionalism is not a subtext. It is the thesis. The film shows what it means for a group of young men to represent something larger than themselves and to rise to meet that responsibility. Traditional Score: 37.38. Woke Score: 1.4. One of the most purely patriotic sports films ever made, and it endures because it earns what it claims.</p>
+            <a href="/reviews/miracle-2004/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 36.6</span>
+              <span class="score-badge">WOKE: 2.45</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> War/Biography/Drama &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Clint Eastwood</p>
+            <p>Clint Eastwood's account of Chris Kyle, the deadliest sniper in US military history, centers faith as Kyle's moral anchor. Bradley Cooper delivers a career-defining performance as a man whose faith sustains him through the moral complexities of combat, whose duty to his brothers defines him more than the politics surrounding the war, and who struggles with what it costs to be good at killing. The film does not ask you to question whether Kyle's service was justified. It asks you to understand what it meant for Kyle to answer that call. Traditional Score: 36.6. Woke Score: 2.45. A war film that trusts the audience to draw its own conclusions rather than spelling out an ideology.</p>
+            <a href="/reviews/american-sniper-2014/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 30.8</span>
+              <span class="score-badge">WOKE: 4.2</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller/Biography &bull; <strong>Platform:</strong> Streaming &bull; <strong>Director:</strong> Alejandro Monteverde</p>
+            <p>Angel Studios' breakout film that proved the faith-based audience could move the market independently. Jim Caviezel plays Tim Ballard, a Homeland Security agent who resigns his position to rescue children from sex traffickers in South America. The film frames Ballard's mission as explicitly faith-driven: he is sustained by his Christian conviction that these children are worth any personal cost to save. Disney shelved it for three years. Angel Studios released it. The audience crowdfunded marketing and drove a $250 million worldwide gross, making it the most commercially successful independent release in modern history. Traditional Score: 30.8. Woke Score: 4.2. A film about moral absolutes and the willingness to sacrifice everything for the vulnerable.</p>
+            <a href="/reviews/sound-of-freedom-2023/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/david-2025/">David (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 28</span>
+              <span class="score-badge">WOKE: 2</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Animation/Musical/Biblical Epic &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Phil Weinstein</p>
+            <p>Angel Studios followed The King of Kings with this animated musical covering the life of David from shepherd boy through Goliath and into the complexities of kingship. The decision to make this biblical epic a musical was bold and executed flawlessly. The songs advance the narrative rather than pausing it. The film does not flinch from David's failures: Bathsheba, Uriah's death, and the moral darkness in a king's choices are all present. Traditional Score: 28. Woke Score: 2. Two biblically faithful animated musicals from the same studio in one year would have been unimaginable a decade ago. The audience for these films is large and underserved.</p>
+            <a href="/reviews/david-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/brave-the-dark-2025/">Brave the Dark (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">TRAD: 26.18</span>
+              <span class="score-badge">WOKE: 1.35</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Distributor:</strong> Angel Studios</p>
+            <p>Angel Studios continues its pattern of backing faith-forward narratives with this drama about a young woman navigating doubt, faith, and the cost of moral conviction. Traditional Score: 26.18. Woke Score: 1.35. The film treats faith as something worth struggling for, not something to be overcome. It presents religious conviction as a legitimate source of strength and meaning, an increasingly rare stance in contemporary cinema. A solid entry in the expanding catalog of faith-positive theatrical releases.</p>
+            <a href="/reviews/brave-the-dark-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-king-of-kings-2025/">The King of Kings (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">TRAD: 19.6</span>
+              <span class="score-badge">WOKE: 0</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Animation/Biblical Epic &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Distributor:</strong> Angel Studios</p>
+            <p>Angel Studios' animated retelling of the life of Jesus frames the Gospel as history told through a literary conceit to Mark Twain. Kenneth Branagh anchors the story with thoughtful narration. The Gospel sequences are handled with reverence that mainstream studios no longer attempt. Angel Studios crowdfunded the marketing campaign directly from their audience, proving a new model for faith-based theatrical distribution. Traditional Score: 19.6. Woke Score: 0. For families seeking a film that treats the Gospel as historically grounded narrative rather than mythology, this is the current standard.</p>
+            <a href="/reviews/the-king-of-kings-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/cabrini-2024/">Cabrini (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">TRAD: 15</span>
+              <span class="score-badge">WOKE: 3</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Biography/Drama/Faith &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Alejandro Monteverde</p>
+            <p>The story of Francesca Cabrini, an Italian immigrant nun who became America's first canonized saint. Director Alejandro Monteverde brings earnest reverence to the material. Cristiana Dell'Anna plays Cabrini as someone driven by pure conviction, fighting city officials, church bureaucrats, and a hostile Archbishop to build hospitals and schools for New York's most desperate immigrants in the 1880s. The film does not editorialize. It shows a woman whose faith was the source of her strength. Traditional Score: 15. Woke Score: 3. A quiet success for faith-based theatrical distribution proving there is an audience for stories about actual saints doing actual good.</p>
+            <a href="/reviews/cabrini-2024/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+      </ul>
+
+      <div class="listicle-conclusion">
+        <h3>What These Films Have in Common</h3>
+        <p>Every film on this list treats faith, moral conviction, or traditional values as sources of genuine strength rather than problems to overcome. None of them apologize for their theological premises. Some are animated. Some are biopics. Some are historical dramas. Some are action thrillers. But they all share a conviction that there is something worth defending about the values they represent.</p>
+
+        <p>The Traditional Scores are VirtueVigil's measurement of how much faith-positive and values-positive content is present in each film relative to the film's runtime. The Woke Scores measure the inverse. The gap between them tells you whether a filmmaker believes the story they are telling, or whether they are delivering it reluctantly while winking at the camera.</p>
+
+        <p>These nine films do not wink. They believe. And audiences have responded by showing up, staying loyal, and building a market that Hollywood can no longer ignore. For more faith-centered content recommendations, browse our full <a href="/reviews/">review database</a> and filter by Traditional Score. Every film is scored using the same methodology so you can trust the numbers. Find more traditional picks on our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a> list, or explore the opposite end of the spectrum with <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a>.</p>
       </div>
     </article>`
   }));
