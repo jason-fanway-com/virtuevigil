@@ -9039,4 +9039,173 @@ function buildAppleTvWokeRankingListicle() {
       </div>
     </article>`
   }));
+
+  writePage('lists/highest-traditional-scores-all-time/index.html', buildListiclePage({
+    slug: 'highest-traditional-scores-all-time',
+    title: '10 Movies With the Highest Traditional Scores Ever',
+    description: 'VirtueVigil ranks the 10 movies with the highest traditional values scores ever -- from faith epics to patriotic classics.',
+    canonicalPath: 'lists/highest-traditional-scores-all-time',
+    publishDate: '2026-03-30',
+    htmlContent: `<article class="listicle-article">
+      <p>Most of what VirtueVigil does is warn you. Our database is built on the premise that the movies Hollywood sends into your living room are not always what they look like on the poster. We flag the woke traps. We score the ideology. We tell you what you're getting before you press play.</p>
+
+      <p>But the scale cuts both ways. High traditional scores exist, and the films that earn them are worth knowing by name. A high traditional score means a film earns points across categories like faith, masculine virtue, family structure, patriotism, and moral accountability. It means the story treats those values as real, not as punchlines or problems to be overcome. This list collects the ten films in our database that scored highest on the traditional values axis. Some are recent. Some are classics. All of them are worth your time.</p>
+
+      <hr>
+
+      <h2>#1 &mdash; <a href="/reviews/zootopia-2-2025/">Zootopia 2 (2025)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score trad">TRAD: 53</span>
+        <span class="mini-score woke">WOKE: 91</span>
+        <span class="mini-score" style="color:var(--accent-red);">MARGIN: -38 WOKE</span>
+      </div>
+
+      <p>Zootopia 2 scores highest on raw traditional content in our entire database, largely because it depicts a functioning society, institutions, family bonds, and civic order with real coherence. The problem: it scores even higher on woke ideology, producing a net margin of -38 WOKE. The traditional content is real, but it's in service of a progressive allegory about systemic exclusion and historical revisionism. Highest trad score in the database. Still a woke film.</p>
+
+      <p><a href="/reviews/zootopia-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Zootopia 2</a></p>
+
+      <hr>
+
+      <h2>#2 &mdash; <a href="/reviews/youngblood-2026/">Youngblood (2026)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">TRAD: 52</span>
+        <span class="mini-score woke">WOKE: 48</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +4 TRAD</span>
+      </div>
+
+      <p>A pre-release hockey film that projects high scores on both sides of the scale. Youngblood earns its traditional score through sport-as-character-building, masculine mentorship, and team sacrifice. The identity politics elements are present enough to push the woke score close behind. It's a near-even split, which puts it here on raw tradScore alone. Worth monitoring when it releases.</p>
+
+      <p><a href="/reviews/youngblood-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Youngblood</a></p>
+
+      <hr>
+
+      <h2>#3 &mdash; <a href="/reviews/the-passion-of-the-christ-2004/">The Passion of the Christ (2004)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 45.29</span>
+        <span class="mini-score woke">WOKE: 0</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +45 TRAD</span>
+      </div>
+
+      <p>Mel Gibson funded this himself, shot it in Aramaic and Latin, and watched it gross $612 million on pure word of mouth. Zero woke score. Faith is not background texture here. It is the entire structure of the film. The Passion is the most commercially successful act of religious devotion in Hollywood history, and it earns a near-perfect score on traditional values with nothing holding it back on the other side.</p>
+
+      <p><a href="/reviews/the-passion-of-the-christ-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Passion of the Christ</a></p>
+
+      <hr>
+
+      <h2>#4 &mdash; <a href="/reviews/reagan-2024/">Reagan (2024)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 44.28</span>
+        <span class="mini-score woke">WOKE: 2.4</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +42 TRAD</span>
+      </div>
+
+      <p>Sean McNamara's 14-years-in-the-making biopic does not attempt to balance its subject. It worships him. Reagan is scored as a monument to patriotism, anti-communism, faith in American institutions, and masculine leadership. A tiny woke score of 2.4 keeps the net margin at +42. If you believe Ronald Reagan was chosen by God and saved the world from communism, this film will feel exactly right. Dennis Quaid commits fully to the premise.</p>
+
+      <p><a href="/reviews/reagan-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Reagan</a></p>
+
+      <hr>
+
+      <h2>#5 &mdash; <a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/">The SpongeBob Movie: Search for SquarePants (2025)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 43.1</span>
+        <span class="mini-score woke">WOKE: 1.28</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +42 TRAD</span>
+      </div>
+
+      <p>The fourth SpongeBob theatrical film earns its score by doing something almost exotic in 2025 animation: it just tells a story. Friendship. Courage. A surrogate father figure who tells his young charge that being big isn't about size, it's about bravery. No ideology, no allegory, no lectures. A clean +42 TRAD margin with a 1.28 woke score that amounts to almost nothing. One of the highest-scoring children's films in the database.</p>
+
+      <p><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The SpongeBob Movie: Search for SquarePants</a></p>
+
+      <hr>
+
+      <h2>#6 &mdash; <a href="/reviews/scarpetta/">Scarpetta (2026)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score trad">TRAD: 42</span>
+        <span class="mini-score woke">WOKE: 58</span>
+        <span class="mini-score" style="color:var(--accent-red);">MARGIN: -16 WOKE</span>
+      </div>
+
+      <p>Like Zootopia 2, Scarpetta scores high on traditional content because it's built around professional excellence, institutional authority, and moral accountability. Dr. Kay Scarpetta operates with conviction and discipline. But the woke score outpaces the trad score by 16 points. This pre-release preview lands here on raw tradScore, not net margin. Approach with caution when it releases.</p>
+
+      <p><a href="/reviews/scarpetta/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Scarpetta</a></p>
+
+      <hr>
+
+      <h2>#7 &mdash; <a href="/reviews/goat-2026/">GOAT (2026)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">TRAD: 41</span>
+        <span class="mini-score woke">WOKE: 37</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +4 TRAD</span>
+      </div>
+
+      <p>A Sony Pictures Animation kids' sports film about a small goat with enormous dreams. The traditional content is genuine: hard work, athletic discipline, the cost of excellence. The film earns a legitimate 41 tradScore. The woke score trails by only 4 points, making this a close call. It's a fun film. Just not a clean one.</p>
+
+      <p><a href="/reviews/goat-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of GOAT</a></p>
+
+      <hr>
+
+      <h2>#8 &mdash; <a href="/reviews/ne-zha-2-2025/">Ne Zha 2 (2025)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 38.57</span>
+        <span class="mini-score woke">WOKE: 0</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +39 TRAD</span>
+      </div>
+
+      <p>The Chinese animated sequel scored zero on the woke side and 38.57 on traditional values. The film is built on destiny, sacrifice, and the bond between a father and son that crosses death itself. Yang Yu made something Western animation studios spent years failing to produce: a story about duty and love that earns every emotional moment. A masterpiece by any metric, and one of the cleanest net scores in the entire database.</p>
+
+      <p><a href="/reviews/ne-zha-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ne Zha 2</a></p>
+
+      <hr>
+
+      <h2>#9 &mdash; <a href="/reviews/night-agent-s3-2026/">The Night Agent: Season 3 (2026)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 38</span>
+        <span class="mini-score woke">WOKE: 22</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+      </div>
+
+      <p>Netflix's most reliable action franchise delivers a third season that earns its 38 tradScore through patriotic duty, masculine competence, and institutional loyalty. The show doesn't ambush you with ideology. Progressive elements are minor and integrated into story rather than substituted for it. If you liked Seasons 1 and 2, this is more of the same, and the traditional content holds.</p>
+
+      <p><a href="/reviews/night-agent-s3-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Night Agent: Season 3</a></p>
+
+      <hr>
+
+      <h2>#10 &mdash; <a href="/reviews/miracle-2004/">Miracle (2004)</a></h2>
+
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 37.38</span>
+        <span class="mini-score woke">WOKE: 1.4</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +36 TRAD</span>
+      </div>
+
+      <p>The 1980 Miracle on Ice told straight, with no apologies and no irony. Herb Brooks builds a team through discipline, sacrifice, and masculine accountability. American exceptionalism is the thesis of the film, not a subtext. The woke score is 1.4. The net margin is +36. One of the most purely patriotic sports films ever made, and it holds up two decades later because it earns what it claims.</p>
+
+      <p><a href="/reviews/miracle-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Miracle</a></p>
+
+      <div class="listicle-conclusion">
+        <h3>The Highest Traditional Scores on VirtueVigil</h3>
+        <p>The VirtueVigil scale is built to measure both directions. High woke scores warn you. High traditional scores reward you. This list shows what the top of the traditional side looks like: faith epics that treat God as real, patriotic films that treat America as worth defending, sports stories where discipline and sacrifice mean something, and animated films that trust kids with genuine moral stakes.</p>
+        <p>Not every film here is a clean win. Zootopia 2 and Scarpetta score high on traditional content but get outpaced by their woke scores. That's worth knowing too. The database is honest about what's in every film, not just the headline verdict. Browse hundreds more scored reviews at <a href="https://virtuevigil.com/reviews/">virtuevigil.com</a>. Every film is ranked by both tradScore and wokeScore so you can make the call yourself. For more positive picks, see our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a> and <a href="/lists/highest-woke-scores-all-time/">10 Movies With the Highest Woke Scores Ever</a>.</p>
+      </div>
+    </article>`
+  }));
 }
