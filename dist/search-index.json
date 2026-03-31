@@ -36,6 +36,16 @@
     "poster": "/images/posters/the-pitt-2025.jpg"
   },
   {
+    "slug": "society-of-the-snow-2023",
+    "title": "Society of the Snow",
+    "verdict": "STRONGLY TRADITIONAL",
+    "genre": "Drama / Biography / Adventure",
+    "year": 2023,
+    "wokeScore": 1.4,
+    "tradScore": 31.99,
+    "poster": null
+  },
+  {
     "slug": "smile-2022",
     "title": "Smile",
     "verdict": "TRADITIONAL",

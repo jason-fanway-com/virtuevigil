@@ -97140,5 +97140,133 @@
       "adultInsight": "Carry-On earns its traditional score through consistent heroism, family stakes, and respect for law enforcement. Ethan's choice to protect 250 strangers at personal cost is framed as the only morally serious option for a man of character. The film has zero political agenda and treats Christmas, family, and duty with genuine reverence.",
       "parentalGuidance": "Rated PG-13. Action violence throughout including gunfights and physical confrontations. Moderate profanity. A pregnant girlfriend is a plot element but there is no explicit sexual content. Appropriate for teens 13 and older."
     }
+  },
+  {
+    "slug": "society-of-the-snow-2023",
+    "title": "Society of the Snow",
+    "year": 2023,
+    "genre": "Drama / Biography / Adventure",
+    "director": "J.A. Bayona",
+    "cast": [
+      "Enzo Vogrincic",
+      "Agustin Pardella",
+      "Matias Recalt",
+      "Esteban Bigliardi"
+    ],
+    "datePublished": "2026-03-31",
+    "posterImage": "/images/posters/society-of-the-snow-2023.jpg",
+    "synopsis": "In October 1972, a Uruguayan rugby team's charter flight crashes into the Andes mountains, leaving 29 survivors stranded in one of the most hostile environments on earth. With no rescue coming and supplies gone, the survivors face an impossible moral decision about how to stay alive. Over 72 days, they forge bonds of brotherhood, faith, and sacrifice that would define the rest of their lives.",
+    "wokeScore": 1.4,
+    "tradScore": 31.99,
+    "scoreMargin": "+31 TRAD",
+    "verdict": "STRONGLY TRADITIONAL",
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Society of the Snow is unambiguously traditional in its values and presentation from the first frame. No woke content is present in any meaningful quantity. This is not a trap."
+    },
+    "tropes": [
+      {
+        "name": "Catholic Faith as Sustaining Force",
+        "type": "trad",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "description": "The survivors are Uruguayan Catholics and their faith is not peripheral decoration. Prayer, the Rosary, and theological reasoning about the morality of cannibalism are woven through the entire film. The opening mass scene foreshadows the film's central moral question. Faith does not give easy answers, but it gives the men a framework to bear what no human being should have to bear.",
+        "weightedScore": 6.3
+      },
+      {
+        "name": "Male Brotherhood and Solidarity",
+        "type": "trad",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "description": "The survivors are a rugby team, and that bond of masculine solidarity is the emotional spine of the film. They do not turn on each other. They organize, delegate, take care of the wounded, and protect the weakest among them. This is a portrait of men behaving with extraordinary dignity under pressure, and the film respects it without irony.",
+        "weightedScore": 6.3
+      },
+      {
+        "name": "Respect for the Dead",
+        "type": "trad",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "description": "The decision to consume the bodies of friends who died in the crash is framed not as brutality but as a sacred act of receiving a gift. The survivors explicitly articulate that the dead are giving their bodies so the living can continue. Bayona films this with profound reverence. The dead are never reduced to objects.",
+        "weightedScore": 5.04
+      },
+      {
+        "name": "Selfless Sacrifice for the Group",
+        "type": "trad",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "description": "Roberto Canessa and Nando Parrado undertake a 12-day trek across the Andes in winter without proper equipment because they are the only ones strong enough. They choose near-certain death to save those left behind. The film does not sensationalize this. It presents it as what it is: the purest form of sacrifice.",
+        "weightedScore": 6.3
+      },
+      {
+        "name": "Courage in the Face of Hopeless Odds",
+        "type": "trad",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "description": "When survivors hear on a transistor radio that the official search has been called off, they do not collapse into despair. They resolve to save themselves. This is not naive optimism; they have watched people die for weeks. It is a choice to refuse surrender, which the film presents as a moral act.",
+        "weightedScore": 2.8
+      },
+      {
+        "name": "Historical Accuracy Over Ideology",
+        "type": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "description": "The film is based on Pablo Vierci's book with direct involvement from survivors. The creative team consulted extensively with victims' families. There is no reimagining of the characters for modern politics, no retrofitted diversity, and no contemporary commentary shoe-horned in. It tells the story as it happened.",
+        "weightedScore": 2.1
+      },
+      {
+        "name": "Vague Anti-Religion Subtext",
+        "type": "woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "description": "In a handful of scenes, the film briefly flirts with the idea that faith alone is insufficient without human action, which can read as a mild secularist corrective. The film ultimately affirms faith rather than undermines it, but the moments are present and deliberate.",
+        "weightedScore": 1.4
+      },
+      {
+        "name": "Perseverance and the Will to Live",
+        "type": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "description": "Narrator Numa Turcatti's internal monologue frames survival as a moral obligation to those who love you. Giving up is framed as a betrayal of the people waiting at home. This is a deeply traditional value proposition: you endure because others depend on you.",
+        "weightedScore": 2.1
+      },
+      {
+        "name": "Family as Anchor and Purpose",
+        "type": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Low",
+        "description": "The men keep photos of their families close. Nando Parrado's grief over his mother and sister who died in the crash, and his fierce determination to return to his father, drives the climactic rescue attempt. Family is the reason to survive.",
+        "weightedScore": 1.05
+      }
+    ],
+    "creative_team": {
+      "director_notes": "J.A. Bayona (A Monster Calls, Jurassic World: Fallen Kingdom) is a Spanish director known for emotionally grounded, visually immersive filmmaking. He approached this project with documented humility, spending years with survivors and families before shooting.",
+      "writer_notes": "Bayona co-wrote with Bernat Vilaplana, adapting Pablo Vierci's book. The screenplay stays close to the documented record and avoids political editorializing.",
+      "known_bias": "No documented progressive agenda from the filmmakers. The involvement of actual survivors as consultants and their public praise of the final film suggests no distortion of their story or values."
+    },
+    "parental_guidance": {
+      "rating": "R",
+      "violence": "Graphic depiction of a plane crash, injuries, and death. The film does not shy away from the physical reality of the survivors' situation including cannibalism depicted with gravity, not shock value.",
+      "language": "Moderate. Primarily in Spanish with subtitles.",
+      "sexual_content": "None.",
+      "recommended_age": "16+"
+    },
+    "seoTitle": "Society of the Snow (2023) Review | VirtueVigil",
+    "metaDescription": "Society of the Snow is a stunning, faith-soaked survival epic with a STRONGLY TRADITIONAL verdict. Brotherhood, sacrifice, and Catholic faith on full display. +28 TRAD.",
+    "reviewBody": "There are films that remind you what cinema can do when it stops trying to be clever. Society of the Snow is one of them.\n\nJ.A. Bayona's account of the 1972 Andes plane crash is the kind of film that lands like a physical weight on your chest and refuses to lift. It is harrowing, yes, but it is also quietly, stubbornly affirming in ways that most modern survival dramas no longer dare to be.\n\nThe story is well-known. A Uruguayan rugby team's charter flight clips a mountain peak and breaks apart over the Andes. Of the 45 people on board, 29 survive the initial crash into a snowfield at 11,700 feet. No rescue comes. Food runs out. And the survivors face a moral question so extreme that most people spend their whole lives never having to consider anything close to it.\n\nWhat separates this film from the 1993 Hollywood version Alive is that Bayona and his team built it from the inside. They spent years with survivors and family members. They cast unknown Uruguayan and Argentine actors. They filmed in the actual Andes. The result is a film that feels completely true, even when what it is depicting is almost unbelievable.\n\nThe Catholic faith of these men is not incidental. It is structural. The film opens with a Mass. The moral debate over whether consuming the bodies of their dead friends constitutes sin or sacrament is handled with the kind of theological seriousness you rarely see on a streaming platform. Bayona does not resolve the question cheaply. But the film clearly respects faith as a genuine source of strength, not a target for deconstruction.\n\nWhat strikes hardest, though, is the brotherhood. These men are a rugby team. They know how to function as a unit, how to suppress ego in service of the group, how to take care of the hurt and the weak without making them feel like a burden. When two of the strongest survivors volunteer to walk across the Andes in winter with no map and no guarantee of anything, it is not presented as heroism. It is presented as duty. That distinction matters.\n\nNarrator Numa Turcatti frames the entire story through the lens of obligation. You survive because people love you. Giving up is not a private choice. It is a betrayal of everyone waiting at home.\n\nThis is one of the best films Netflix has ever funded, and almost certainly the most traditionally-minded. It will make you think about faith, sacrifice, and what men are capable of when everything else is stripped away. Score: +28 TRAD.",
+    "summary": {
+      "overall": "There are films that remind you what cinema can do when it stops trying to be clever. Society of the Snow is one of them.\n\nJ.A. Bayona's account of the 1972 Andes plane crash is the kind of film that lands like a physical weight on your chest and refuses to lift. It is harrowing, yes, but it is also quietly, stubbornly affirming in ways that most modern survival dramas no longer dare to be.\n\nThe story is well-known. A Uruguayan rugby team's charter flight clips a mountain peak and breaks apart over the Andes. Of the 45 people on board, 29 survive the initial crash into a snowfield at 11,700 feet. No rescue comes. Food runs out. And the survivors face a moral question so extreme that most people spend their whole lives never having to consider anything close to it.\n\nWhat separates this film from the 1993 Hollywood version Alive is that Bayona and his team built it from the inside. They spent years with survivors and family members. They cast unknown Uruguayan and Argentine actors. They filmed in the actual Andes. The result is a film that feels completely true, even when what it is depicting is almost unbelievable.\n\nThe Catholic faith of these men is not incidental. It is structural. The film opens with a Mass. The moral debate over whether consuming the bodies of their dead friends constitutes sin or sacrament is handled with the kind of theological seriousness you rarely see on a streaming platform. Bayona does not resolve the question cheaply. But the film clearly respects faith as a genuine source of strength, not a target for deconstruction.\n\nWhat strikes hardest, though, is the brotherhood. These men are a rugby team. They know how to function as a unit, how to suppress ego in service of the group, how to take care of the hurt and the weak without making them feel like a burden. When two of the strongest survivors volunteer to walk across the Andes in winter with no map and no guarantee of anything, it is not presented as heroism. It is presented as duty. That distinction matters.\n\nNarrator Numa Turcatti frames the entire story through the lens of obligation. You survive because people love you. Giving up is not a private choice. It is a betrayal of everyone waiting at home.\n\nThis is one of the best films Netflix has ever funded, and almost certainly the most traditionally-minded. It will make you think about faith, sacrifice, and what men are capable of when everything else is stripped away. Score: +28 TRAD.",
+      "adultInsight": "Society of the Snow is one of the most genuinely faith-affirming films of the decade. The Catholic faith of the survivors is not set dressing. It is the structural spine of how these men made sense of an impossible situation. The film treats prayer, moral theology, and brotherhood with the seriousness they deserve. This is required viewing for anyone who wants to see what traditional values look like under maximum pressure.",
+      "parentalGuidance": "Rated R. Graphic depiction of a plane crash, injuries, and death. The cannibalism is depicted with gravity rather than shock value, but it is clearly shown. No sexual content. Spanish language with subtitles. Recommended for viewers 16 and older, or mature 14-15 year olds with parental discussion."
+    },
+    "date": "2026-03-31"
   }
 ]
