@@ -1780,6 +1780,9 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/most-woke-movies-2025/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/woke-horror-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/disney-plus-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/date-night-movies-non-woke/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/wokest-streaming-movies-2025-2026/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/best-family-values-movies-all-time/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -9107,6 +9110,9 @@ buildNetflixWokeRankedListicle();
 buildAmazonPrimeWokeRankingListicle();
 buildBestTraditionalMovies2024Listicle();
 buildMostWokeMovies2022Listicle();
+buildDateNightMoviesListicle();
+buildWokestStreaming2025_2026Listicle();
+buildBestFamilyValuesAllTimeListicle();
 
 module.exports = { buildListiclePage, writePage };
 
@@ -12228,6 +12234,282 @@ function buildMostWokeMovies2022Listicle() {
       <div class="listicle-conclusion">
         <h3>2022: The Woke Year in Review</h3>
         <p>Glass Onion tops the 2022 list at plus 24 woke margin, the largest gap of any film we reviewed that year. Rian Johnson built an entire film around the thesis that billionaires are idiots propped up by sycophants, and delivered it as a crowd-pleasing mystery. Don't Worry Darling and Strange World follow close behind. The traditional end of the 2022 spectrum is equally striking: Top Gun: Maverick scored strongly traditional and became one of the highest-grossing films of the year. The audience verdict on ideology is built into the box office numbers. Browse all 2022 reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or see the full year-by-year woke rankings on the <a href="/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Best Date Night Movies That Won't Lecture You
+// ============================================
+function buildDateNightMoviesListicle() {
+  // Filter: romance-adjacent genres, trad >= woke
+  let dateNight = reviews.filter(r => {
+    if (r.type === 'article') return false;
+    const g = (r.genre || '').toLowerCase();
+    const hasRomance = g.includes('romance') || g.includes('romantic') || g.includes('rom') || g.includes('love story');
+    return hasRomance && (r.tradScore || 0) >= (r.wokeScore || 0);
+  });
+  dateNight.sort((a, b) => {
+    const marginA = (a.tradScore || 0) - (a.wokeScore || 0);
+    const marginB = (b.tradScore || 0) - (b.wokeScore || 0);
+    return marginB - marginA;
+  });
+  const top12 = dateNight.slice(0, 12);
+
+  function verdictBadgeClass(verdict) {
+    if (!verdict) return 'mixed';
+    const v = verdict.toUpperCase();
+    if (v.startsWith('MIXED')) return 'mixed';
+    if (v.includes('TRADITIONAL') || v.includes('TRAD')) return 'traditional';
+    if (v.includes('WOKE')) return 'woke';
+    return 'mixed';
+  }
+
+  const descriptions = {
+    'solo-mio-2026': 'Kevin James delivers a surprisingly heartfelt performance as a widowed Italian-American chef who rediscovers love while cooking in Rome. The film celebrates marriage, family loyalty, and the transformative power of genuine connection without a single progressive lecture. Pure romance, earned emotions, zero ideology.',
+    'the-wedding-singer-1998': 'Adam Sandler and Drew Barrymore have effortless chemistry in this 1985-set love story about two good people who find each other at exactly the right time. The film believes in romance without irony, treats kindness as attractive, and ends with a declaration of love on an airplane that still works nearly three decades later.',
+    'forrest-gump-1994': 'Tom Hanks anchors one of cinema\'s purest arguments for decency and devotion. Forrest loves Jenny across decades, through war, fame, and heartbreak. The romance is not the whole movie, but it is the emotional spine, and it rewards lifelong loyalty without apology.',
+    'the-notebook-2004': 'Hollywood\'s most unambiguous argument for lifelong devotion. Noah writes 365 letters. Allie comes back. James Garner reads to Gena Rowlands in a memory care unit and you will cry. The film treats marriage as sacred and love as something you fight for, not something that expires when feelings change.',
+    'good-will-hunting-1997': 'Robin Williams at his absolute best. A story about a damaged young genius who has to learn that being loved is not weakness. The romance between Will and Skylar is honest and flawed, and the film treats masculine vulnerability as courage rather than a political statement.',
+    'anyone-but-you-2023': 'A rom-com that remembers what rom-coms are supposed to be: two attractive people with chemistry, a misunderstanding, a beautiful location, and a satisfying resolution. Sydney Sweeney and Glen Powell make it work through sheer charm and the script stays out of its own way.',
+    'the-gorge-2025': 'Two elite soldiers stationed on opposite sides of a classified gorge fall in love across the divide and discover something monstrous below. The romance is genuine, the action is sharp, and the film earns its emotional payoff through restraint rather than spectacle.',
+    'elemental-2023': 'Pixar delivers a gorgeous allegory about immigrant sacrifice and family honor wrapped inside an interracial love story between fire and water. The father-daughter relationship is the most traditionally grounded storyline Pixar has produced in years, and the romance earns every beat.',
+    'heart-eyes-2025': 'A Valentine\'s Day slasher where the couple at the center has real chemistry and actual courage. The horror elements serve the romance rather than undermining it, and the film treats mutual protection and sacrifice as genuinely romantic.',
+    'it-ends-with-us-2024': 'Blake Lively stars in an adaptation that takes domestic violence seriously without turning it into a political pamphlet. The film believes in the courage required to leave and the strength of genuine love. Messy behind the scenes, but the story on screen lands.',
+    'we-live-in-time-2024': 'Florence Pugh and Andrew Garfield deliver two of the finest performances in recent romantic cinema. A non-linear love story about a couple facing terminal illness that earns every tear through craft and commitment rather than manipulation.',
+    'materialists-2025': 'Celine Song\'s sophisticated romantic comedy argues that love is not a checklist. Chris Evans gives his best non-Marvel performance, the dialogue is sharp and adult, and the film ends where all good love stories should: with a genuine commitment.'
+  };
+
+  const rows = top12.map((r, i) => {
+    const vc = verdictBadgeClass(r.verdict);
+    const verdictText = r.verdict ? esc(r.verdict) : 'N/A';
+    const wokeDisplay = r.wokeScore != null ? r.wokeScore : 'N/A';
+    const tradDisplay = r.tradScore != null ? r.tradScore : 'N/A';
+    const margin = (r.tradScore || 0) - (r.wokeScore || 0);
+    const marginStr = margin > 0 ? `+${margin.toFixed(0)} TRAD` : `${margin.toFixed(0)} WOKE`;
+    const desc = descriptions[r.slug] || '';
+    return `
+        <li class="listicle-item">
+          <div class="listicle-rank">${i + 1}</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/${esc(r.slug)}/">${esc(r.title)}</a> (${r.year})</h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge ${vc}">${verdictText}</span>
+              <span class="score-badge">${marginStr}</span>
+            </div>
+            <div class="listicle-scores">
+              <span class="mini-score trad">TRAD: ${tradDisplay}</span>
+              <span class="mini-score woke">WOKE: ${wokeDisplay}</span>
+            </div>
+            <p class="listicle-description">${desc}</p>
+          </div>
+        </li>`;
+  }).join('\n');
+
+  writePage('lists/date-night-movies-non-woke/index.html', buildListiclePage({
+    slug: 'date-night-movies-non-woke',
+    title: '10 Best Date Night Movies That Won\'t Lecture You',
+    description: 'The best romantic movies for couples who want genuine love stories without progressive lectures. Ranked by VirtueVigil\'s traditional score margin.',
+    canonicalPath: 'lists/date-night-movies-non-woke',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Finding a romantic movie that actually believes in romance should not be this hard. But Hollywood has spent the last decade deconstructing love stories, replacing genuine chemistry with ideological messaging, and turning date night into a lecture. VirtueVigil ran every romance-adjacent film in our database through the dual-axis scoring system and extracted the ones where the traditional score meets or exceeds the woke score. These are films that believe in love, commitment, and earned emotion.</p>
+        <p>The list is sorted by score margin: the gap between traditional score and woke score. A higher margin means the film leans more heavily toward traditional values like devotion, sacrifice, family loyalty, and romantic commitment. Every title links to a full VirtueVigil review with trope audits, parental guidance, and complete scoring breakdowns.</p>
+        <p>Related: <a href="/lists/best-traditional-movies-2025/">Best Traditional Movies of 2025</a>, <a href="/lists/best-family-values-movies-all-time/">Best Family Values Movies of All Time</a>, <a href="/lists/best-conservative-movies/">Best Conservative Movies</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+        ${rows}
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Date Night Verdict</h3>
+        <p>Romance is not dead. It just requires better curation. Solo Mio leads the pack with a plus 21 traditional margin, proving that heartfelt love stories with zero ideological interference still get made. The Notebook and Forrest Gump remain timeless choices that treat devotion as heroic rather than outdated. Newer entries like The Gorge, Heart Eyes, and Materialists show that filmmakers who trust their audience can still deliver genuine chemistry without a progressive footnote. The common thread across all ${top12.length} films: they let love be the point, not a vehicle for something else. Browse the full VirtueVigil database at <a href="/reviews/">virtuevigil.com/reviews/</a> for complete reviews, or explore more curated lists at <a href="/lists/">our lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Wokest Movies Streaming Right Now (2025-2026)
+// ============================================
+function buildWokestStreaming2025_2026Listicle() {
+  // Filter: year 2025 or 2026, (wokeScore - tradScore) > 5
+  let wokest = reviews.filter(r => {
+    if (r.type === 'article') return false;
+    return (r.year === 2025 || r.year === 2026) && ((r.wokeScore || 0) - (r.tradScore || 0)) > 5;
+  });
+  wokest.sort((a, b) => {
+    const marginA = (a.wokeScore || 0) - (a.tradScore || 0);
+    const marginB = (b.wokeScore || 0) - (b.tradScore || 0);
+    return marginB - marginA;
+  });
+  const top10 = wokest.slice(0, 10);
+
+  function verdictBadgeClass(verdict) {
+    if (!verdict) return 'mixed';
+    const v = verdict.toUpperCase();
+    if (v.startsWith('MIXED')) return 'mixed';
+    if (v.includes('TRADITIONAL') || v.includes('TRAD')) return 'traditional';
+    if (v.includes('WOKE')) return 'woke';
+    return 'mixed';
+  }
+
+  const descriptions = {
+    'zootopia-2-2025': 'Disney doubles down on progressive allegory with a sequel that wraps racial justice and institutional critique inside a buddy-cop animated adventure. The animation is gorgeous and the mystery plot works, but the ideological framework is front and center from the opening sequence. The woke margin of plus 38 is the highest of any 2025 or 2026 release in our database.',
+    'the-moment-2026': 'Charli XCX stars in, co-writes, and produces a $4 million A24 mockumentary about her own cultural influence. The result is a self-referential progressive manifesto disguised as comedy. If you are not already immersed in the pop-culture progressive ecosystem, this will feel like watching an inside joke you were never invited to.',
+    'bugonia-2025': 'Yorgos Lanthimos delivers a darkly funny black comedy thriller that wraps a radical anti-capitalist, environmentalist manifesto inside an alien-conspiracy kidnapping plot. Two conspiracy theorists kidnap a tech CEO they believe is an alien. The satirical targets are exclusively corporate power, environmental destruction, and capitalist greed.',
+    'clown-in-a-cornfield-2025': 'A slasher film with a clear political agenda concealed until past the midpoint. The town\'s conservative elder generation are literally the monsters, and the progressive teenagers are the heroes who survive by fighting back against tradition. Competent genre craft, transparent ideology.',
+    'scarpetta': 'Nicole Kidman stars in a thriller adaptation that reframes Patricia Cornwell\'s beloved forensic pathologist through a contemporary progressive lens. The film emphasizes systemic institutional failure and gendered power dynamics over the procedural mystery that made the source material a bestseller.',
+    'the-wedding-banquet-2025': 'A remake of Ang Lee\'s 1993 classic that strips away the original\'s emotional complexity in favor of straightforward progressive celebration. The first film took conservative parents seriously. This version treats their perspective as the obstacle to be overcome rather than a genuine worldview worth engaging.',
+    'nightbitch': 'Amy Adams transforms into a dog as a metaphor for maternal rage and identity erasure. The first half is a grounded character study of parental exhaustion. The second half abandons that restraint for a feminist-body-horror allegory that treats the nuclear family structure as the source of the problem rather than the context for it.',
+    'the-bride-2026': 'Maggie Gyllenhaal\'s gothic horror romance reimagines the Bride of Frankenstein story through an explicitly feminist lens. The creature\'s awakening is framed as liberation from male control, and the film\'s sympathies are entirely with destruction of patriarchal authority. Visually striking, ideologically unambiguous.',
+    'now-you-see-me-now-you-don-t': 'A glossy heist fantasy that moralizes theft as justice and uses progressive political talking points as applause lines. The core engine of the film is not clever magic but redistribution. Every reveal and twist serves the thesis that stealing from the powerful is inherently virtuous.',
+    'wuthering-heights': 'A race-swapped adaptation of Emily Bronte\'s classic that reimagines Heathcliff and Cathy through a contemporary lens. The casting choices and directorial framing shift a story about obsessive love into a statement about racial exclusion and class oppression, adding ideological weight the source material never carried.'
+  };
+
+  const rows = top10.map((r, i) => {
+    const vc = verdictBadgeClass(r.verdict);
+    const verdictText = r.verdict ? esc(r.verdict) : 'N/A';
+    const wokeDisplay = r.wokeScore != null ? r.wokeScore : 'N/A';
+    const tradDisplay = r.tradScore != null ? r.tradScore : 'N/A';
+    const wokeMargin = (r.wokeScore || 0) - (r.tradScore || 0);
+    const marginStr = wokeMargin > 0 ? `+${wokeMargin.toFixed(0)} WOKE` : `+${Math.abs(wokeMargin).toFixed(0)} TRAD`;
+    const desc = descriptions[r.slug] || '';
+    return `
+        <li class="listicle-item">
+          <div class="listicle-rank">${i + 1}</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/${esc(r.slug)}/">${esc(r.title)}</a> (${r.year})</h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge ${vc}">${verdictText}</span>
+              <span class="score-badge">${marginStr}</span>
+            </div>
+            <div class="listicle-scores">
+              <span class="mini-score woke">WOKE: ${wokeDisplay}</span>
+              <span class="mini-score trad">TRAD: ${tradDisplay}</span>
+            </div>
+            <p class="listicle-description">${desc}</p>
+          </div>
+        </li>`;
+  }).join('\n');
+
+  writePage('lists/wokest-streaming-movies-2025-2026/index.html', buildListiclePage({
+    slug: 'wokest-streaming-movies-2025-2026',
+    title: 'The Wokest Movies Streaming Right Now (2025-2026)',
+    description: 'The most ideologically progressive movies released in 2025 and 2026, ranked by woke score margin. A warning list for conservative viewers.',
+    canonicalPath: 'lists/wokest-streaming-movies-2025-2026',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Not every woke movie announces itself in the trailer. Some hide behind genre conventions, star power, or legacy franchises. VirtueVigil scored every 2025 and 2026 release in our database and extracted the titles where the woke score exceeds the traditional score by more than 5 points. These are the films with the most aggressive progressive content currently streaming or in theaters.</p>
+        <p>This is a warning list, not a quality ranking. Several of these films are well-made by talented filmmakers. The issue is not craft but content: every title below contains significant progressive ideological framing that conservative viewers should know about before pressing play. The list is sorted by woke margin, the gap between woke score and traditional score, with the most aggressively progressive films at the top.</p>
+        <p>Related: <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a>, <a href="/lists/best-traditional-movies-2025/">Best Traditional Movies of 2025</a>, <a href="/lists/best-traditional-movies-2026/">Best Traditional Movies of 2026</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+        ${rows}
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The 2025-2026 Woke Streaming Verdict</h3>
+        <p>Zootopia 2 dominates this list with a staggering plus 38 woke margin, the largest of any recent release in our database. Disney continues to lead Hollywood's progressive output, but they are not alone. A24 (The Moment), Lanthimos (Bugonia), and legacy franchise sequels (Now You See Me, Wuthering Heights) all deliver substantial ideological content that conservative audiences deserve to know about in advance. The pattern is consistent: the most progressive content arrives wrapped in the most accessible packaging. Animated sequels, heist fantasies, gothic romances, and horror films all serve as delivery mechanisms. VirtueVigil exists so you see the ideology before you commit two hours. Browse the full database at <a href="/reviews/">virtuevigil.com/reviews/</a> for complete reviews with trope audits and scoring breakdowns, or find traditional alternatives on our <a href="/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: 10 Movies With the Best Family Values (All Time)
+// ============================================
+function buildBestFamilyValuesAllTimeListicle() {
+  // Filter: any year, not article, tradScore >= 20, (tradScore - wokeScore) >= 15
+  let familyValues = reviews.filter(r => {
+    if (r.type === 'article') return false;
+    return (r.tradScore || 0) >= 20 && ((r.tradScore || 0) - (r.wokeScore || 0)) >= 15;
+  });
+  familyValues.sort((a, b) => {
+    const marginA = (a.tradScore || 0) - (a.wokeScore || 0);
+    const marginB = (b.tradScore || 0) - (b.wokeScore || 0);
+    return marginB - marginA;
+  });
+  const top15 = familyValues.slice(0, 15);
+
+  function verdictBadgeClass(verdict) {
+    if (!verdict) return 'mixed';
+    const v = verdict.toUpperCase();
+    if (v.startsWith('MIXED')) return 'mixed';
+    if (v.includes('TRADITIONAL') || v.includes('TRAD')) return 'traditional';
+    if (v.includes('WOKE')) return 'woke';
+    return 'mixed';
+  }
+
+  const descriptions = {
+    'the-passion-of-the-christ-2004': 'Mel Gibson funded it himself, shot it in Aramaic and Latin, and grossed $612 million worldwide. The Passion of the Christ is the most commercially successful act of cinematic devotion in Hollywood history. It presents the crucifixion with unflinching reverence and treats faith as the most serious subject a film can address. No hedging, no ironic distance, no progressive reframing.',
+    'reagan-2024': 'Dennis Quaid delivers a warm, reverent portrait of the 40th President that does not pretend to be a balanced documentary. This is a monument, not a biopic. The film celebrates Reagan\'s faith, his marriage to Nancy, his confrontation with the Soviet Union, and his unwavering belief in American exceptionalism. Fourteen years in the making and unapologetically traditional from first frame to last.',
+    'the-spongebob-movie-search-for-squarepants-2025': 'The fourth SpongeBob theatrical outing tells a straightforward story about friendship and courage with refreshing simplicity. It delivers its moral without a lecture, earns its emotional beats through character rather than formula, and contains zero progressive messaging. Family entertainment that actually serves the whole family.',
+    'ne-zha-2-2025': 'One of the most extraordinary animated films made anywhere in the world in the past decade. Ne Zha 2 celebrates filial duty, self-sacrifice, and the bond between father and son with an emotional intensity that Western animation rarely attempts. Chinese mythology treated with genuine reverence and spectacular visual craft.',
+    'miracle-2004': 'One of the most purely patriotic American sports films ever made. Kurt Russell as Herb Brooks leads the 1980 U.S. hockey team against the Soviets with total, unironic commitment to American exceptionalism, team discipline, and the belief that hard work and sacrifice can defeat seemingly impossible odds.',
+    'american-sniper-2014': 'The highest-grossing war film in American history earned that record. Clint Eastwood made a film about a sheepdog protecting his flock and refused to apologize for it. Chris Kyle\'s story is presented as heroic service, not a political debate. The film treats military sacrifice as noble and marriage as something worth fighting to preserve.',
+    'hoosiers-1986': 'Forty years old and still the standard. Hoosiers is the most purely traditional sports film ever made: a hymn to discipline, community, redemption, and masculine accountability. Gene Hackman coaches a tiny Indiana high school team to the state championship through sheer willpower and the belief that preparation defeats talent.',
+    'gladiator-2000': 'A man of honor in a corrupt empire. Ridley Scott\'s masterpiece is twenty-five years old and still hits harder than almost anything made since. Russell Crowe\'s Maximus fights not for glory but for the memory of his murdered wife and son. Duty, sacrifice, loyalty, and the refusal to kneel before corrupt authority.',
+    'am-i-racist-2024': 'Matt Walsh goes undercover as a bumbling white ally in the DEI industrial complex and exposes the absurdity from the inside. Part Borat, part investigative journalism, entirely committed to demonstrating that the racial grievance industry profits from the problems it claims to solve.',
+    'paddington-2-2017': 'A perfect film. Paddington 2 is funny, warm, morally serious, and built on values that deserve to be celebrated without embarrassment: community, kindness, loyalty, and honest work. Hugh Grant is magnificent as the villain. The marmalade sandwich scene in prison is one of the great sequences in modern family cinema.',
+    'how-to-train-your-dragon-2025': 'Dean DeBlois directed all three animated films and insisted on full creative control for the live-action remake. The result is a faithful adaptation that treats the bond between a boy and his dragon as genuine friendship, celebrates the courage to stand apart from your tribe, and delivers family adventure with zero ideological interference.',
+    'saving-private-ryan-1998': 'The greatest war film ever made about American soldiers. Steven Spielberg\'s opening 27 minutes at Omaha Beach remain the most devastating depiction of combat in cinema history. The film\'s central question, whether one man\'s life is worth the sacrifice of many, is answered with devastating sincerity: earn this.',
+    'rocky-1976': 'The American Dream as a boxing movie. Rocky Balboa is a nobody from Philadelphia who gets one shot and refuses to waste it. Fifty years later, the film\'s message has not aged a single day: you are not defined by where you start, but by whether you are willing to go the distance.',
+    'solo-leveling-reawakening-2024': 'A stunning anime film about the weakest hunter who refuses to quit. Solo Leveling celebrates individual determination, earned power through suffering, and the willingness to face impossible odds alone. The animation is spectacular, the story rewards perseverance, and there is zero progressive content.',
+    'sound-of-freedom-2023': 'Studios sat on this film for five years. Jim Caviezel stars as a federal agent who quits his job to rescue children from trafficking in South America. The film treats child exploitation as genuine evil worth fighting, regardless of political convenience. It grossed over $250 million on a $14.5 million budget.'
+  };
+
+  const rows = top15.map((r, i) => {
+    const vc = verdictBadgeClass(r.verdict);
+    const verdictText = r.verdict ? esc(r.verdict) : 'N/A';
+    const wokeDisplay = r.wokeScore != null ? r.wokeScore : 'N/A';
+    const tradDisplay = r.tradScore != null ? r.tradScore : 'N/A';
+    const margin = (r.tradScore || 0) - (r.wokeScore || 0);
+    const marginStr = margin > 0 ? `+${margin.toFixed(0)} TRAD` : `${margin.toFixed(0)} WOKE`;
+    const desc = descriptions[r.slug] || '';
+    return `
+        <li class="listicle-item">
+          <div class="listicle-rank">${i + 1}</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/${esc(r.slug)}/">${esc(r.title)}</a> (${r.year})</h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge ${vc}">${verdictText}</span>
+              <span class="score-badge">${marginStr}</span>
+            </div>
+            <div class="listicle-scores">
+              <span class="mini-score trad">TRAD: ${tradDisplay}</span>
+              <span class="mini-score woke">WOKE: ${wokeDisplay}</span>
+            </div>
+            <p class="listicle-description">${desc}</p>
+          </div>
+        </li>`;
+  }).join('\n');
+
+  writePage('lists/best-family-values-movies-all-time/index.html', buildListiclePage({
+    slug: 'best-family-values-movies-all-time',
+    title: '10 Movies With the Best Family Values (Ranked by VirtueVigil Score)',
+    description: 'The definitive ranking of movies with the strongest family values across all eras. Ranked by VirtueVigil traditional score margin. A watchlist for parents.',
+    canonicalPath: 'lists/best-family-values-movies-all-time',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Some films endure because they tell the truth about what matters: faith, family, sacrifice, duty, and the courage to stand for something. VirtueVigil scored every film in our database and extracted the titles with the highest traditional scores and the widest margins over their woke scores. These are the films that celebrate family values with zero apology, spanning decades from Rocky in 1976 to How to Train Your Dragon in 2025.</p>
+        <p>This is a definitive watchlist for parents, families, and anyone looking for films that reinforce rather than deconstruct traditional values. Every title below has a traditional score of 20 or higher and a margin of at least plus 15 over its woke score. The list is sorted by score margin, so the most strongly traditional films appear first. Every title links to a full VirtueVigil review with trope audits, parental guidance, and complete scoring breakdowns.</p>
+        <p>Related: <a href="/lists/best-faith-movies-2024/">Best Faith Movies of 2024</a>, <a href="/lists/date-night-movies-non-woke/">Best Date Night Movies</a>, <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+        ${rows}
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Family Values Verdict</h3>
+        <p>The Passion of the Christ leads this list at plus 45, the highest traditional margin of any film in the VirtueVigil database. Reagan and SpongeBob follow at plus 42, proving that family values content spans every genre from biblical drama to animated comedy. The list includes war films (Saving Private Ryan, American Sniper), sports classics (Rocky, Hoosiers, Miracle), family adventure (How to Train Your Dragon, Paddington 2), and documentary comedy (Am I Racist?). What connects them is not genre, era, or budget but a shared refusal to deconstruct the values they portray. These films present duty, sacrifice, faith, and family as genuinely good things, not relics to be interrogated. Bookmark this list. Share it with your family. And browse the full VirtueVigil database at <a href="/reviews/">virtuevigil.com/reviews/</a> for hundreds more scored reviews with parental guidance for every title.</p>
       </div>
     </article>`
   }));
