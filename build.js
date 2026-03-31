@@ -9103,6 +9103,10 @@ buildAppleTvWokeRankingListicle();
 buildMostWokeMovies2025Listicle();
 buildWokeHorrorMovies2025Listicle();
 buildDisneyPlusWokeRankingListicle();
+buildNetflixWokeRankedListicle();
+buildAmazonPrimeWokeRankingListicle();
+buildBestTraditionalMovies2024Listicle();
+buildMostWokeMovies2022Listicle();
 
 module.exports = { buildListiclePage, writePage };
 
@@ -11869,5 +11873,362 @@ function buildDisneyPlusWokeRankingListicle() {
       <p>The bottom half tells a different story. Soul, Coco, Spider-Man: No Way Home, and The Greatest Showman represent the platform's strongest traditionally-aligned content. These films deliver messages about family, sacrifice, heritage, and purpose that resonate with conservative values.</p>
       <p>Full reviews for every title are available at the links above. Visit our <a href="/reviews/">reviews page</a> and filter by platform for the complete and current database.</p>
     `
+  }));
+}
+
+// ============================================
+// LISTICLE: Netflix Woke Rankings (Full Catalog)
+// ============================================
+function buildNetflixWokeRankedListicle() {
+  // Filter: platform contains 'netflix' (case-insensitive)
+  const netflixReviews = reviews.filter(r =>
+    r.platform && r.platform.toLowerCase().includes('netflix') &&
+    (r.wokeScore != null || r.tradScore != null)
+  );
+  // Sort by scoreMargin = tradScore - wokeScore, descending (most traditional first)
+  netflixReviews.sort((a, b) => {
+    const marginA = (a.tradScore || 0) - (a.wokeScore || 0);
+    const marginB = (b.tradScore || 0) - (b.wokeScore || 0);
+    return marginB - marginA;
+  });
+
+  function verdictBadgeClass(verdict) {
+    if (!verdict) return 'mixed';
+    const v = verdict.toUpperCase();
+    if (v.startsWith('MIXED')) return 'mixed';
+    if (v.includes('STRONGLY TRADITIONAL') || v.includes('STRONGLY TRAD')) return 'traditional';
+    if (v.includes('TRADITIONAL') || v.includes('TRAD LEAN') || v.includes('TRADITIONAL LEAN')) return 'traditional';
+    if (v.includes('STRONGLY WOKE')) return 'woke';
+    if (v.includes('WOKE LEAN')) return 'woke';
+    if (v.includes('WOKE')) return 'woke';
+    return 'mixed';
+  }
+
+  function marginLabel(woke, trad) {
+    const margin = (trad || 0) - (woke || 0);
+    if (margin > 0) return `+${margin.toFixed(0)} TRAD`;
+    if (margin < 0) return `${margin.toFixed(0)} WOKE`;
+    return 'EVEN';
+  }
+
+  const rows = netflixReviews.map((r, i) => {
+    const vc = verdictBadgeClass(r.verdict);
+    const verdictText = r.verdict ? esc(r.verdict) : 'N/A';
+    const wokeDisplay = r.wokeScore != null ? r.wokeScore : 'N/A';
+    const tradDisplay = r.tradScore != null ? r.tradScore : 'N/A';
+    const margin = (r.tradScore || 0) - (r.wokeScore || 0);
+    const marginColor = margin > 0 ? '#2ecc71' : margin < 0 ? '#c44040' : '#c9a84c';
+    return `
+        <li class="listicle-item">
+          <div class="listicle-rank">${i + 1}</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/${esc(r.slug)}/">${esc(r.title)}${r.year ? ' (' + r.year + ')' : ''}</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge ${vc}">${verdictText}</span>
+              <span class="score-badge" style="color:${marginColor};">${marginLabel(r.wokeScore, r.tradScore)}</span>
+            </div>
+            <div class="listicle-scores">
+              <span class="mini-score woke">WOKE: ${wokeDisplay}</span>
+              <span class="mini-score trad">TRAD: ${tradDisplay}</span>
+            </div>
+          </div>
+        </li>`;
+  }).join('\n');
+
+  const wokeLean = netflixReviews.filter(r => {
+    const v = (r.verdict || '').toUpperCase();
+    return v.includes('WOKE');
+  }).length;
+  const tradLean = netflixReviews.filter(r => {
+    const v = (r.verdict || '').toUpperCase();
+    return v.includes('TRADITIONAL') || v.includes('TRAD');
+  }).length;
+  const mixed = netflixReviews.length - wokeLean - tradLean;
+
+  writePage('lists/netflix-woke-movies-ranked/index.html', buildListiclePage({
+    slug: 'netflix-woke-movies-ranked',
+    title: 'Netflix Movies Ranked by Woke Score (Full List)',
+    description: 'Every Netflix movie we\'ve reviewed, ranked from most traditional to most woke. Our full woke score breakdown for the Netflix catalog.',
+    canonicalPath: 'lists/netflix-woke-movies-ranked',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>We reviewed every Netflix title in our database and ran each one through the VirtueVigil dual-axis scoring system. The result is the most complete data-driven breakdown of Netflix's ideological profile available anywhere. Every title below has a full review at VirtueVigil with trope audits, scoring breakdowns, and parental guidance.</p>
+        <p>The list is sorted from most traditional to most woke, based on scoreMargin (tradScore minus wokeScore). A positive number means the film leans traditional. A negative number means it leans woke. The bigger the number, the stronger the lean.</p>
+        <div class="listicle-scores" style="margin:18px 0 8px;">
+          <span class="mini-score trad">TRADITIONAL / LEAN TRAD: ${tradLean}</span>
+          <span class="mini-score woke">WOKE / LEAN WOKE: ${wokeLean}</span>
+          <span class="mini-score" style="color:#c9a84c;">MIXED: ${mixed}</span>
+          <span class="mini-score" style="color:#a0a0a8;">TOTAL REVIEWED: ${netflixReviews.length}</span>
+        </div>
+        <p>Related lists: <a href="/lists/best-conservative-movies-netflix-2025/">Best Conservative Movies on Netflix</a>, <a href="/lists/netflix-woke-movies-2024-data/">Netflix Woke Data Analysis</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+        ${rows}
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Netflix Verdict</h3>
+        <p>Netflix runs two content tracks simultaneously. The mainstream entertainment track, action sequels, legacy franchise continuations, and warm family films, scores consistently traditional. The prestige track, the titles Netflix markets for awards and critical recognition, skews heavily woke. Bridgerton Season 4 and Emilia Perez dominate the woke end of this list. Peaky Blinders: The Immortal Man and Nonnas anchor the traditional end. Knowing which track you are on before you press play is exactly what VirtueVigil is here to help with. Browse all Netflix reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or see more platform rankings on the <a href="/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Amazon Prime Woke Rankings
+// ============================================
+function buildAmazonPrimeWokeRankingListicle() {
+  // Filter: platform contains 'amazon' or 'prime' (case-insensitive)
+  const amazonReviews = reviews.filter(r =>
+    r.platform && (
+      r.platform.toLowerCase().includes('amazon') ||
+      r.platform.toLowerCase().includes('prime')
+    ) &&
+    (r.wokeScore != null || r.tradScore != null)
+  );
+  // Sort by scoreMargin = tradScore - wokeScore, descending (most traditional first)
+  amazonReviews.sort((a, b) => {
+    const marginA = (a.tradScore || 0) - (a.wokeScore || 0);
+    const marginB = (b.tradScore || 0) - (b.wokeScore || 0);
+    return marginB - marginA;
+  });
+
+  function verdictBadgeClass(verdict) {
+    if (!verdict) return 'mixed';
+    const v = verdict.toUpperCase();
+    if (v.startsWith('MIXED')) return 'mixed';
+    if (v.includes('TRADITIONAL') || v.includes('TRAD')) return 'traditional';
+    if (v.includes('WOKE')) return 'woke';
+    return 'mixed';
+  }
+
+  function marginLabel(woke, trad) {
+    const margin = (trad || 0) - (woke || 0);
+    if (margin > 0) return `+${margin.toFixed(0)} TRAD`;
+    if (margin < 0) return `${margin.toFixed(0)} WOKE`;
+    return 'EVEN';
+  }
+
+  const rows = amazonReviews.map((r, i) => {
+    const vc = verdictBadgeClass(r.verdict);
+    const verdictText = r.verdict ? esc(r.verdict) : 'N/A';
+    const wokeDisplay = r.wokeScore != null ? r.wokeScore : 'N/A';
+    const tradDisplay = r.tradScore != null ? r.tradScore : 'N/A';
+    const margin = (r.tradScore || 0) - (r.wokeScore || 0);
+    const marginColor = margin > 0 ? '#2ecc71' : margin < 0 ? '#c44040' : '#c9a84c';
+    return `
+        <li class="listicle-item">
+          <div class="listicle-rank">${i + 1}</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/${esc(r.slug)}/">${esc(r.title)}${r.year ? ' (' + r.year + ')' : ''}</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge ${vc}">${verdictText}</span>
+              <span class="score-badge" style="color:${marginColor};">${marginLabel(r.wokeScore, r.tradScore)}</span>
+            </div>
+            <div class="listicle-scores">
+              <span class="mini-score woke">WOKE: ${wokeDisplay}</span>
+              <span class="mini-score trad">TRAD: ${tradDisplay}</span>
+            </div>
+          </div>
+        </li>`;
+  }).join('\n');
+
+  const wokeLean = amazonReviews.filter(r => {
+    const v = (r.verdict || '').toUpperCase();
+    return v.includes('WOKE');
+  }).length;
+  const tradLean = amazonReviews.filter(r => {
+    const v = (r.verdict || '').toUpperCase();
+    return v.includes('TRADITIONAL') || v.includes('TRAD');
+  }).length;
+  const mixed = amazonReviews.length - wokeLean - tradLean;
+
+  writePage('lists/amazon-prime-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'amazon-prime-movies-woke-ranking',
+    title: 'Amazon Prime Video Movies Ranked by Woke Score',
+    description: 'Every Amazon Prime Video movie we\'ve reviewed, ranked from most traditional to most woke.',
+    canonicalPath: 'lists/amazon-prime-movies-woke-ranking',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Amazon Prime Video has built one of the most ideologically varied catalogs in streaming. The same platform that gave us The Terminal List, one of the most traditionally-scored series in our database, also distributed Civil War and Nickel Boys. VirtueVigil scored every Amazon Prime and Amazon MGM title in our review database using the dual-axis system and ranked them from most traditional to most woke.</p>
+        <p>The ranking is based on scoreMargin (tradScore minus wokeScore). Positive means traditional lean. Negative means woke lean. Every title links to a full VirtueVigil review with complete scoring breakdowns, trope audits, and parental guidance.</p>
+        <div class="listicle-scores" style="margin:18px 0 8px;">
+          <span class="mini-score trad">TRADITIONAL / LEAN TRAD: ${tradLean}</span>
+          <span class="mini-score woke">WOKE / LEAN WOKE: ${wokeLean}</span>
+          <span class="mini-score" style="color:#c9a84c;">MIXED: ${mixed}</span>
+          <span class="mini-score" style="color:#a0a0a8;">TOTAL REVIEWED: ${amazonReviews.length}</span>
+        </div>
+        <p>Related lists: <a href="/lists/non-woke-action-movies-2024/">Best Non-Woke Action Movies</a>, <a href="/lists/best-conservative-movies/">Best Conservative Movies</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+        ${rows}
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Amazon Prime Verdict</h3>
+        <p>Amazon's content strategy is less bifurcated than Netflix's but still uneven. The Terminal List and The Accountant 2 anchor the strongly traditional end with margins above plus 20. Road House, Air, and Guy Ritchie's The Covenant fill out a solid traditional middle tier. The woke end is led by Nickel Boys, a film built entirely on racial justice framing, and Civil War, which uses deliberate moral ambiguity in ways that skew progressive. The most useful takeaway: Amazon's action output reliably skores traditional, while its prestige and art-house acquisitions reliably skew woke. Browse all Amazon reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or see the full platform comparison on the <a href="/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Best Traditional Movies of 2024
+// ============================================
+function buildBestTraditionalMovies2024Listicle() {
+  // Filter: year 2024, not article, tradScore exists
+  let movies2024 = reviews.filter(r =>
+    r.year === 2024 &&
+    r.type !== 'article' &&
+    r.tradScore != null
+  );
+  // Sort by (tradScore - wokeScore) descending
+  movies2024.sort((a, b) => {
+    const marginA = (a.tradScore || 0) - (a.wokeScore || 0);
+    const marginB = (b.tradScore || 0) - (b.wokeScore || 0);
+    return marginB - marginA;
+  });
+  // Top 20
+  const top20 = movies2024.slice(0, 20);
+
+  function verdictBadgeClass(verdict) {
+    if (!verdict) return 'mixed';
+    const v = verdict.toUpperCase();
+    if (v.startsWith('MIXED')) return 'mixed';
+    if (v.includes('TRADITIONAL') || v.includes('TRAD')) return 'traditional';
+    if (v.includes('WOKE')) return 'woke';
+    return 'mixed';
+  }
+
+  const rows = top20.map((r, i) => {
+    const vc = verdictBadgeClass(r.verdict);
+    const verdictText = r.verdict ? esc(r.verdict) : 'N/A';
+    const wokeDisplay = r.wokeScore != null ? r.wokeScore : 'N/A';
+    const tradDisplay = r.tradScore != null ? r.tradScore : 'N/A';
+    const margin = (r.tradScore || 0) - (r.wokeScore || 0);
+    const marginStr = margin > 0 ? `+${margin.toFixed(0)} TRAD` : `${margin.toFixed(0)} WOKE`;
+    return `
+        <li class="listicle-item">
+          <div class="listicle-rank">${i + 1}</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/${esc(r.slug)}/">${esc(r.title)}</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge ${vc}">${verdictText}</span>
+              <span class="score-badge">${marginStr}</span>
+            </div>
+            <div class="listicle-scores">
+              <span class="mini-score trad">TRAD: ${tradDisplay}</span>
+              <span class="mini-score woke">WOKE: ${wokeDisplay}</span>
+            </div>
+          </div>
+        </li>`;
+  }).join('\n');
+
+  writePage('lists/best-traditional-movies-2024/index.html', buildListiclePage({
+    slug: 'best-traditional-movies-2024',
+    title: 'Best Traditional Movies of 2024 (Ranked by VirtueVigil)',
+    description: 'The most traditionally-scored movies released in 2024, ranked by our tradScore minus wokeScore metric.',
+    canonicalPath: 'lists/best-traditional-movies-2024',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>2024 produced more than its share of ideologically aggressive films. It also produced some of the most traditionally-scored content in recent memory. VirtueVigil ran every 2024 release in our database through the dual-axis scoring system and extracted the top 20 by scoreMargin, the gap between traditional score and woke score. A higher positive margin means a stronger traditional lean.</p>
+        <p>These are not quality rankings. They are ideological rankings. A film at the top of this list scored high on traditional values content, with duty, family, sacrifice, earned competence, and moral clarity measured and documented. Every title links to a full VirtueVigil review with complete trope audits and parental guidance.</p>
+        <p>Related: <a href="/lists/most-woke-movies-2024/">Most Woke Movies of 2024</a>, <a href="/lists/best-conservative-movies/">Best Conservative Movies</a>, <a href="/lists/non-woke-action-movies-2024/">Non-Woke Action Movies 2024</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+        ${rows}
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>2024 Traditional Movies: The Takeaway</h3>
+        <p>Reagan leads the list at plus 42, the highest traditional margin of any 2024 film in our database. Am I Racist? and Solo Leveling: ReAwakening follow close behind. The Beekeeper, Horizon, and The Wild Robot round out a strong top 6. What connects these films is not genre or budget but a consistent willingness to present duty, sacrifice, and earned authority as genuinely valuable rather than problems to be deconstructed. Browse all 2024 reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or compare with the <a href="/lists/most-woke-movies-2024/">Most Woke Movies of 2024</a> list.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Most Woke Movies of 2022
+// ============================================
+function buildMostWokeMovies2022Listicle() {
+  // Filter: year 2022, not article, wokeScore exists
+  let movies2022 = reviews.filter(r =>
+    r.year === 2022 &&
+    r.type !== 'article' &&
+    r.wokeScore != null
+  );
+  // Sort by (wokeScore - tradScore) descending (most woke first)
+  movies2022.sort((a, b) => {
+    const marginA = (a.wokeScore || 0) - (a.tradScore || 0);
+    const marginB = (b.wokeScore || 0) - (b.tradScore || 0);
+    return marginB - marginA;
+  });
+
+  function verdictBadgeClass(verdict) {
+    if (!verdict) return 'mixed';
+    const v = verdict.toUpperCase();
+    if (v.startsWith('MIXED')) return 'mixed';
+    if (v.includes('TRADITIONAL') || v.includes('TRAD')) return 'traditional';
+    if (v.includes('WOKE')) return 'woke';
+    return 'mixed';
+  }
+
+  const rows = movies2022.map((r, i) => {
+    const vc = verdictBadgeClass(r.verdict);
+    const verdictText = r.verdict ? esc(r.verdict) : 'N/A';
+    const wokeDisplay = r.wokeScore != null ? r.wokeScore : 'N/A';
+    const tradDisplay = r.tradScore != null ? r.tradScore : 'N/A';
+    const wokeMargin = (r.wokeScore || 0) - (r.tradScore || 0);
+    const wokeMarginStr = wokeMargin > 0 ? `+${wokeMargin.toFixed(0)} WOKE` : `${Math.abs(wokeMargin).toFixed(0)} TRAD LEAN`;
+    return `
+        <li class="listicle-item">
+          <div class="listicle-rank">${i + 1}</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/${esc(r.slug)}/">${esc(r.title)}</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge ${vc}">${verdictText}</span>
+              <span class="score-badge">${wokeMarginStr}</span>
+            </div>
+            <div class="listicle-scores">
+              <span class="mini-score woke">WOKE: ${wokeDisplay}</span>
+              <span class="mini-score trad">TRAD: ${tradDisplay}</span>
+            </div>
+          </div>
+        </li>`;
+  }).join('\n');
+
+  const wokeCount = movies2022.filter(r => {
+    const v = (r.verdict || '').toUpperCase();
+    return v.includes('WOKE');
+  }).length;
+
+  writePage('lists/most-woke-movies-2022/index.html', buildListiclePage({
+    slug: 'most-woke-movies-2022',
+    title: 'Most Woke Movies of 2022 (Ranked by VirtueVigil)',
+    description: 'The most woke movies of 2022, ranked by our woke score metric.',
+    canonicalPath: 'lists/most-woke-movies-2022',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>2022 was a defining year for Hollywood's ideological output. Glass Onion weaponized class resentment as comedy. Don't Worry Darling turned suburban domesticity into a prison break allegory. Strange World delivered Disney's first explicitly gay protagonist and its worst-ever opening weekend. VirtueVigil reviewed every 2022 release in our database and ranked the full set by woke margin, the gap between woke score and traditional score with the most woke films at the top.</p>
+        <p>All ${movies2022.length} films below have been scored and reviewed in full. The list runs from most woke to least woke, so the films with the highest woke content and the largest gap over their traditional scores appear first. This is comprehensive, not curated. Every 2022 title in the VirtueVigil database with a woke score is included.</p>
+        <p>Related: <a href="/lists/most-woke-movies-2024/">Most Woke Movies of 2024</a>, <a href="/lists/most-woke-movies-2023/">Most Woke Movies of 2023</a>, <a href="/lists/woke-movies-box-office-flops/">Woke Box Office Flops</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+        ${rows}
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>2022: The Woke Year in Review</h3>
+        <p>Glass Onion tops the 2022 list at plus 24 woke margin, the largest gap of any film we reviewed that year. Rian Johnson built an entire film around the thesis that billionaires are idiots propped up by sycophants, and delivered it as a crowd-pleasing mystery. Don't Worry Darling and Strange World follow close behind. The traditional end of the 2022 spectrum is equally striking: Top Gun: Maverick scored strongly traditional and became one of the highest-grossing films of the year. The audience verdict on ideology is built into the box office numbers. Browse all 2022 reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or see the full year-by-year woke rankings on the <a href="/lists/">lists page</a>.</p>
+      </div>
+    </article>`
   }));
 }
