@@ -1771,6 +1771,9 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/comedy-movies-woke-ranking-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-drama-movies-conservatives-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-thriller-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/conservative-sci-fi-movies-2024-2025/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -9996,5 +9999,613 @@ function buildAppleTvWokeRankingListicle() {
         <p>Comedy is the genre most vulnerable to ideological capture because humor provides cover. The audience laughs, assumes goodwill, and absorbs the message. VirtueVigil scores are designed to remove that cover. You know what you are watching before you press play. Browse the full database at <a href="/reviews/">VirtueVigil.com/reviews/</a> for complete reviews with trope audits, parental guidance, and full scoring breakdowns. For more annual rankings, see <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a> and <a href="/lists/most-woke-movies-2023/">10 Most Woke Movies of 2023</a>. For the best traditional options, see <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>.</p>
       </div>
     </article>`
+  }));
+
+  writePage('lists/best-drama-movies-conservatives-2024/index.html', buildListiclePage({
+    slug: 'best-drama-movies-conservatives-2024',
+    title: 'Best Drama Movies for Conservatives (2024-2025)',
+    description: 'The best drama movies for conservative viewers in 2024-2025, ranked by VirtueVigil traditional values score. Emotional depth without the agenda.',
+    canonicalPath: 'lists/best-drama-movies-conservatives-2024',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+
+<p>Drama is the genre where Hollywood most reliably tries to sneak its worldview past you. The best dramas make you feel something real: grief, hope, sacrifice, the weight of choices. The worst ones use those emotions as delivery mechanisms for a message you did not sign up for. A conservative-friendly drama is not a film without conflict or darkness. It is a film that takes its characters seriously as moral agents, allows consequences to matter, and does not treat traditional values as the problem to be overcome.</p>
+
+<p>This list ranks drama films from 2023 to 2025 by VirtueVigil score margin (Traditional Score minus Woke Score), highest to lowest. Every film has been reviewed using the full VVWS methodology. The data made this list.</p>
+
+<hr>
+
+<h2>#1 &mdash; <a href="/reviews/reagan-2024/">Reagan (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 44.28</span>
+  <span class="mini-score woke">WOKE: 2.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +41.88 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Biography/Drama/History &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The highest-scoring drama in VirtueVigil's entire 2023-2025 database, Reagan is a biographical portrait of America's 40th president that treats faith, patriotism, and anti-communism not as curiosities but as convictions worth taking seriously. Dennis Quaid delivers a full-career performance, and the film's reverence for Reagan's core beliefs: hard work, national strength, the moral clarity of the Cold War, makes it essential viewing for conservative audiences. A tradScore of 44.28 is nearly unmatched in the drama genre.</p>
+
+<p><a href="/reviews/reagan-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Reagan</a></p>
+
+<hr>
+
+<h2>#2 &mdash; <a href="/reviews/brave-the-dark-2025/">Brave the Dark (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.18</span>
+  <span class="mini-score woke">WOKE: 1.35</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +24.83 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical (Angel Studios)</p>
+
+<p>An Angel Studios drama based on a true story of a teacher who takes in a troubled student and refuses to give up on him. Brave the Dark earns its tradScore of 26.18 through sustained engagement with sacrifice, mentorship, and the conservative belief that individuals, not systems, save people. The film trusts that its audience believes in the moral weight of one person choosing to show up for another, and it delivers that story without hedging or progressive subtext. One of the most unambiguously conservative dramas of 2025.</p>
+
+<p><a href="/reviews/brave-the-dark-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Brave the Dark</a></p>
+
+<hr>
+
+<h2>#3 &mdash; <a href="/reviews/karate-kid-legends-2025/">Karate Kid: Legends (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.32</span>
+  <span class="mini-score woke">WOKE: 3.15</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23.17 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Drama/Family &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Karate Kid: Legends bridges the original Miyagi-Do lineage with the Kung Fu Kid world, and the result is a family drama built entirely around mentorship, discipline, and the transmission of wisdom across generations. Jackie Chan's Mr. Han and Ralph Macchio's Daniel LaRusso share the screen in a way that honors both traditions without cheapening either. The film earns its tradScore of 26.32 through consistent emphasis on earned skill, respect for elders, and the idea that hard work under proper guidance produces genuine excellence.</p>
+
+<p><a href="/reviews/karate-kid-legends-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Karate Kid: Legends</a></p>
+
+<hr>
+
+<h2>#4 &mdash; <a href="/reviews/king-of-kings-2025/">The King of Kings (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 19.6</span>
+  <span class="mini-score woke">WOKE: 0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19.60 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Biblical Drama/Animation &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The King of Kings is an animated retelling of the life of Christ with a woke score of exactly zero, the cleanest ideological record in VirtueVigil's entire drama database for this period. The film is built for faith communities and delivers exactly what it promises: a reverent, emotionally serious presentation of the Gospel story without Hollywood revision or progressive overlay. A tradScore of 19.6 reflects its sustained investment in sacrifice, love, and the ultimate cost of living by conviction. Essential for Christian conservative families.</p>
+
+<p><a href="/reviews/king-of-kings-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The King of Kings</a></p>
+
+<hr>
+
+<h2>#5 &mdash; <a href="/reviews/gran-turismo-2023/">Gran Turismo (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22.68</span>
+  <span class="mini-score woke">WOKE: 3.3</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19.38 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sports Drama &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The true story of Jann Mardenborough, a gamer who competed in a Nissan program and made it to actual GT racing. Gran Turismo is a straightforward story about a young man with unusual talent, a father who doubted him, and the discipline required to turn a dream into something real. The film's values are entirely traditional: work, persistence, the relationship between fathers and sons, and the legitimacy of ambition backed by genuine skill. A tradScore of 22.68 against a woke score of 3.3 gives it one of the cleanest profiles in the 2023-2025 drama category.</p>
+
+<p><a href="/reviews/gran-turismo-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Gran Turismo</a></p>
+
+<hr>
+
+<h2>#6 &mdash; <a href="/reviews/godzilla-minus-one-2023/">Godzilla Minus One (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 24.78</span>
+  <span class="mini-score woke">WOKE: 5.6</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19.18 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Drama/Sci-Fi/Monster &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The Japanese Godzilla film that took American audiences completely off guard is, at its core, a drama about guilt, duty, and whether a man who abandoned his post deserves to be redeemed. Set in postwar Japan, it centers a kamikaze pilot who survived when he chose not to die, and must find a reason to live while the country rebuilds. The monster sequences are spectacular, but the film's emotional engine is deeply traditional: sacrifice for others, the weight of failure, the redemptive power of choosing to protect rather than flee. A tradScore of 24.78. One of the best dramas of the decade regardless of genre label.</p>
+
+<p><a href="/reviews/godzilla-minus-one-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Godzilla Minus One</a></p>
+
+<hr>
+
+<h2>#7 &mdash; <a href="/reviews/shogun-2024/">Shogun (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 24.64</span>
+  <span class="mini-score woke">WOKE: 5.88</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +18.76 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Historical Drama &bull; <strong>Platform:</strong> FX / Hulu</p>
+
+<p>FX's Shogun is a prestige drama about a Western navigator stranded in feudal Japan who must navigate a world built on honor, hierarchy, and the absolute weight of personal loyalty. The series treats the samurai code with genuine respect rather than anthropological condescension, and its protagonist earns his place within that world by accepting its demands rather than imposing Western values on it. A tradScore of 24.64 reflects sustained engagement with duty, sacrifice, and the idea that some codes of conduct are worth dying for. Emmy-winning television that conservatives can watch without a second thought.</p>
+
+<p><a href="/reviews/shogun-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shogun</a></p>
+
+<hr>
+
+<h2>#8 &mdash; <a href="/reviews/f1-2025/">F1 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22.68</span>
+  <span class="mini-score woke">WOKE: 5.52</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +17.16 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sports Drama/Action &bull; <strong>Platform:</strong> Theatrical (Warner Bros. / Apple Original Films)</p>
+
+<p>Joseph Kosinski follows Top Gun: Maverick with another sports drama built around a veteran proving himself against younger competition. Brad Pitt plays a retired F1 driver pulled back onto the grid, and the film's values are the values of the paddock: competence, controlled aggression, the refusal to accept obsolescence. F1 has no political agenda. It is a film about excellence under pressure, and it earns a tradScore of 22.68 by keeping its focus on craft, loyalty to the team, and the kind of masculinity that finds meaning in mastery.</p>
+
+<p><a href="/reviews/f1-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of F1</a></p>
+
+<hr>
+
+<h2>#9 &mdash; <a href="/reviews/creed-iii-2023/">Creed III (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22.4</span>
+  <span class="mini-score woke">WOKE: 5.1</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +17.30 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sports Drama &bull; <strong>Platform:</strong> MGM+</p>
+
+<p>Michael B. Jordan's directorial debut is a drama about guilt, suppressed trauma, and the price of success built on someone else's suffering. Adonis Creed faces Damian Anderson, a childhood friend who went to prison partly because of choices Adonis made, and the film takes seriously the weight of that debt. Creed III earns its tradScore of 22.4 through its insistence on personal accountability: Adonis cannot buy his way out of this one, cannot delegate the reckoning, and must face it man to man. A surprisingly morally serious entry in a franchise built on entertainment.</p>
+
+<p><a href="/reviews/creed-iii-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Creed III</a></p>
+
+<hr>
+
+<h2>Looking for More Conservative-Friendly Drama?</h2>
+
+<p>Every film above has been scored using the VirtueVigil Weighted Scoring System, a trope-by-trope methodology that weights ideological content by severity, authenticity, and centrality to the narrative. Drama is a genre where context matters enormously: a film can include difficult content and still score traditionally if it treats its characters as responsible moral agents and allows consequences to land with real weight.</p>
+
+<p>The films at the top of this list, Reagan, Brave the Dark, and Karate Kid: Legends, represent the genre's best case: drama that earns its emotional weight through genuine values rather than sentiment or agenda. Browse the <a href="/">full VirtueVigil review catalog</a> for more.</p>
+
+</article>`
+  }));
+
+  writePage('lists/best-thriller-movies-2024/index.html', buildListiclePage({
+    slug: 'best-thriller-movies-2024',
+    title: 'Best Thriller Movies of 2024 Ranked by Traditional Values',
+    description: 'Thriller movies from 2024-2025 ranked by VirtueVigil traditional values score. From most conservative to most woke, the full spectrum.',
+    canonicalPath: 'lists/best-thriller-movies-2024',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+
+<p>Thrillers live and die on tension, and Hollywood has learned that ideology can be a useful tension engine: make the villain a corporation, a patriarchal institution, a government agency run by white men in suits. The problem is that when the politics become the point, the thriller stops working as a thriller. The best entries on this list are conservative-friendly not because they avoid darkness but because they build their tension around competence, duty, and personal stakes rather than systemic critique. The worst entries at the bottom are instructive in their own way: they tell you exactly what you are walking into.</p>
+
+<p>This list ranks thriller films from 2023 to 2025 by VirtueVigil score margin (Traditional minus Woke), highest to lowest. Full spectrum: most traditional at the top, most woke at the bottom. Every film has been reviewed in full using the VVWS methodology.</p>
+
+<hr>
+
+<h2>#1 &mdash; <a href="/reviews/john-wick-chapter-4-2023/">John Wick: Chapter 4 (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 23.52</span>
+  <span class="mini-score woke">WOKE: 0.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23.02 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Crime/Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The cleanest scorer in the thriller genre: a woke score of 0.5 is essentially zero. John Wick: Chapter 4 is a film about a man who pays his debts, honors his word even when it costs him everything, and refuses to be owned by any institution no matter how powerful. The film's code of honor is pre-ideological, drawn from samurai films and old Westerns, and it is applied without irony or qualification. Keanu Reeves' performance treats John Wick's values as genuine rather than naive, and the result is one of the most purely traditional action-thrillers of the decade.</p>
+
+<p><a href="/reviews/john-wick-chapter-4-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of John Wick: Chapter 4</a></p>
+
+<hr>
+
+<h2>#2 &mdash; <a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.46</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +22.26 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Crime/Thriller &bull; <strong>Platform:</strong> Theatrical / Amazon MGM</p>
+
+<p>Ben Affleck returns as Christian Wolff, the autistic forensic accountant and lethal operative, and the sequel doubles down on what made the original work: a protagonist who operates by an iron internal code, protects the vulnerable, and refuses to compromise his values for convenience. The sequel brings Jon Bernthal's Brax back into the mix and gives them a genuine brotherhood to protect. A tradScore of 26.46 reflects consistent themes of loyalty, sacrifice, and the idea that having a personal code and the discipline to follow it is itself a form of virtue.</p>
+
+<p><a href="/reviews/the-accountant-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Accountant 2</a></p>
+
+<hr>
+
+<h2>#3 &mdash; <a href="/reviews/the-beekeeper-2024/">The Beekeeper (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 25.48</span>
+  <span class="mini-score woke">WOKE: 4.25</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +21.23 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Jason Statham plays a former operative who goes to war against a phishing empire that defrauded an elderly woman who showed him kindness. The Beekeeper is unapologetically populist: the villains are corrupt elites, the FBI protects them, and the hero operates outside institutional channels because institutions have been captured. Statham's Adam Clay is defined by a simple code: protect the innocent, punish the predatory, finish what you start. A tradScore of 25.48 reflects genuine content around protecting the vulnerable, personal accountability, and the satisfaction of consequences delivered without apology.</p>
+
+<p><a href="/reviews/the-beekeeper-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Beekeeper</a></p>
+
+<hr>
+
+<h2>#4 &mdash; <a href="/reviews/last-breath-2025/">Last Breath (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 24.29</span>
+  <span class="mini-score woke">WOKE: 3.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20.89 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Theatrical (Focus Features)</p>
+
+<p>Last Breath is a survival thriller about a deep-sea diver trapped on the ocean floor with limited oxygen while his crew races to reach him before time runs out. The film is built on competence under pressure, team loyalty, and the willingness of men to risk everything to bring one of their own home. A tradScore of 24.29 against a woke score of 3.4 gives it one of the strongest traditional profiles in the 2025 thriller category. No agenda, no subtext: just professional men doing everything in their power to save a life, driven by the codes that bind them together.</p>
+
+<p><a href="/reviews/last-breath-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Last Breath</a></p>
+
+<hr>
+
+<h2>#5 &mdash; <a href="/reviews/mission-impossible-final-reckoning-2025/">Mission: Impossible - The Final Reckoning (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 21.4</span>
+  <span class="mini-score woke">WOKE: 1.1</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20.30 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Christopher McQuarrie closes out Ethan Hunt's story with the series' most ambitious practical stunt work and a thematic throughline that has been consistent across the entire run: one man's willingness to sacrifice himself for the safety of everyone else. The Final Reckoning treats national security, institutional loyalty, and personal sacrifice as real goods worth dying for. A woke score of 1.1 is nearly zero. The franchise ends as it began: a celebration of competence, courage, and the idea that some people choose to carry burdens that others cannot.</p>
+
+<p><a href="/reviews/mission-impossible-final-reckoning-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mission: Impossible - The Final Reckoning</a></p>
+
+<hr>
+
+<h2>#6 &mdash; <a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/">Mission: Impossible - Dead Reckoning Part One (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22.12</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +17.92 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The penultimate Ethan Hunt film introduces the Entity, an AI threat to global stability, and uses it as a framework for a film fundamentally about what it means to be human: the willingness to sacrifice for others, the refusal to let technology make decisions that belong to people. A tradScore of 22.12 reflects consistent content around duty, loyalty to the team, and the kind of masculine courage that Hollywood used to celebrate without embarrassment. The train sequence alone earns its place on this list.</p>
+
+<p><a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dead Reckoning Part One</a></p>
+
+<hr>
+
+<h2>#7 &mdash; <a href="/reviews/the-equalizer-3-2023/">The Equalizer 3 (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 20.88</span>
+  <span class="mini-score woke">WOKE: 3</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +17.88 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Theatrical (Sony Pictures)</p>
+
+<p>Denzel Washington's Robert McCall settles in a small Italian coastal town and finds himself protecting its community from the Camorra. The Equalizer 3 is a film about a man who has internalized a code of protection so deeply that he cannot stop applying it, and the film treats that compulsion as a virtue rather than a disorder. A tradScore of 20.88 against a woke score of just 3 makes it one of the cleanest traditional scorers in this period. Antione Fuqua's direction and Washington's presence turn what could be formula into something genuinely satisfying.</p>
+
+<p><a href="/reviews/the-equalizer-3-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Equalizer 3</a></p>
+
+<hr>
+
+<h2>#8 &mdash; <a href="/reviews/a-working-man-2025/">A Working Man (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 17.36</span>
+  <span class="mini-score woke">WOKE: 1</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16.36 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Jason Statham plays a construction worker who rescues the kidnapped daughter of his employer, operating entirely outside institutional channels in a world where the police cannot help and the official options have all failed. A Working Man is a blue-collar revenge thriller built on the traditional values of the working class: loyalty to the people who trust you, the willingness to put yourself in harm's way for others, and the dignity of men who solve problems rather than process paperwork. A woke score of just 1 is exceptional for a 2025 release.</p>
+
+<p><a href="/reviews/a-working-man-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Working Man</a></p>
+
+<hr>
+
+<h2>#9 &mdash; <a href="/reviews/guy-ritchie-s-the-covenant-2023/">Guy Ritchie's The Covenant (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 21.28</span>
+  <span class="mini-score woke">WOKE: 5.67</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +15.61 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Theatrical (MGM / Amazon)</p>
+
+<p>A military thriller about an American soldier who goes back to Afghanistan to save his interpreter, who risked everything to keep him alive. The Covenant is a film about debt, honor, and the obligation that exists between men who have bled together. Jake Gyllenhaal and Dar Salim deliver performances that ground the film's moral stakes in recognizable humanity. A tradScore of 21.28 reflects deep investment in loyalty, sacrifice, and the idea that some debts cannot be discharged by bureaucratic process. One of the most genuinely conservative films about the Afghanistan era.</p>
+
+<p><a href="/reviews/guy-ritchie-s-the-covenant-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Covenant</a></p>
+
+<hr>
+
+<h2>#10 &mdash; <a href="/reviews/black-bag-2025/">Black Bag (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 18.75</span>
+  <span class="mini-score woke">WOKE: 5.94</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +12.81 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Spy Thriller/Drama/Mystery &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Soderbergh's elegant spy thriller puts loyalty to marriage and loyalty to country in direct collision. Michael Fassbender and Cate Blanchett are impeccable as intelligence operatives navigating a treason investigation that threatens to destroy both their partnership and their marriage. The film's restraint is its strength: it trusts that adult viewers understand the weight of commitment, and it never cheapens the stakes. A tradScore of 18.75 for a film that treats marriage as a genuine bond worth protecting even under maximum institutional pressure.</p>
+
+<p><a href="/reviews/black-bag-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Bag</a></p>
+
+<hr>
+
+<h2>Bottom of the Spectrum: Films to Avoid</h2>
+
+<p>For full transparency, here is the bottom of the 2023-2025 thriller rankings by traditional values margin.</p>
+
+<h3>Conclave (2024) &mdash; STRONGLY WOKE</h3>
+<div class="listicle-scores">
+  <span class="verdict-badge woke">STRONGLY WOKE</span>
+  <span class="mini-score trad">TRAD: 3.85</span>
+  <span class="mini-score woke">WOKE: 42.6</span>
+  <span class="mini-score" style="color:#c44040;">MARGIN: -38.75 WOKE</span>
+</div>
+<p>Edward Berger's Vatican thriller uses the setting of a papal election to push progressive theology, including a climactic twist designed to validate a specific ideological position on gender within the Catholic Church. A woke score of 42.6 is among the highest in VirtueVigil's entire database. <a href="/reviews/conclave-2024/">Full review here.</a></p>
+
+<h3>Saltburn (2023) &mdash; STRONGLY WOKE</h3>
+<div class="listicle-scores">
+  <span class="verdict-badge woke">STRONGLY WOKE</span>
+  <span class="mini-score trad">TRAD: 3</span>
+  <span class="mini-score woke">WOKE: 35</span>
+  <span class="mini-score" style="color:#c44040;">MARGIN: -32 WOKE</span>
+</div>
+<p>Emerald Fennell's class-horror film is technically accomplished and deliberately transgressive in ways designed to provoke conservative viewers specifically. A woke score of 35. Skip it. <a href="/reviews/saltburn-2023/">Full review here.</a></p>
+
+<hr>
+
+<h2>The Data on Thriller Values</h2>
+
+<p>The thriller genre in 2023-2025 shows a clear pattern: films built around individual competence, personal codes, and duty score traditionally. Films built around institutional critique, gender politics, or transgressive content score woke. The good news for conservative thriller fans is that the top of this list is genuinely excellent: John Wick 4, The Accountant 2, The Beekeeper, and both Mission: Impossible entries represent the genre at its best. <a href="/">Browse the full catalog</a> for more.</p>
+
+</article>`
+  }));
+
+  writePage('lists/conservative-sci-fi-movies-2024-2025/index.html', buildListiclePage({
+    slug: 'conservative-sci-fi-movies-2024-2025',
+    title: '10 Best Sci-Fi Movies for Conservatives (2024-2025)',
+    description: '10 best sci-fi movies for conservative viewers in 2024-2025, ranked by VirtueVigil traditional values score. Science fiction that explores ideas without the politics.',
+    canonicalPath: 'lists/conservative-sci-fi-movies-2024-2025',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+
+<p>Science fiction is supposed to be about ideas. The best sci-fi asks the big questions: what does it mean to be human, what does technology cost us, what happens when individuals sacrifice for civilization. The worst modern sci-fi uses those same questions as a wrapper for contemporary progressive politics: climate messaging, gender deconstruction, anti-capitalism. The films on this list chose ideas over agenda. They explore genuinely interesting territory without treating conservative viewers as the enemy.</p>
+
+<p>This list ranks sci-fi films from 2023 to 2025 by VirtueVigil score margin (Traditional Score minus Woke Score), highest to lowest. Every entry has been reviewed in full using the VVWS methodology.</p>
+
+<hr>
+
+<h2>#1 &mdash; <a href="/reviews/godzilla-minus-one-2023/">Godzilla Minus One (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 24.78</span>
+  <span class="mini-score woke">WOKE: 5.6</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19.18 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Drama/Sci-Fi/Monster &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The Japanese Godzilla film that blindsided American audiences is, at its core, a drama about guilt, duty, and redemption, dressed in the clothes of a monster movie. A kamikaze pilot who chose to survive when he was supposed to die must find meaning in postwar Japan while a nuclear-irradiated creature threatens everything the survivors have rebuilt. The film earns a tradScore of 24.78 through its sustained engagement with sacrifice, the weight of failure, and the redemptive power of choosing to protect rather than flee. Easily the most emotionally serious sci-fi film on this list, and among the best of the decade in any genre.</p>
+
+<p><a href="/reviews/godzilla-minus-one-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Godzilla Minus One</a></p>
+
+<hr>
+
+<h2>#2 &mdash; <a href="/reviews/furiosa-a-mad-max-saga-2024/">Furiosa: A Mad Max Saga (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22</span>
+  <span class="mini-score woke">WOKE: 8</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +14 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>George Miller's origin story for Furiosa is a film about a woman defined by one purpose: returning to the place that made her and reclaiming what was taken. The wasteland world of Mad Max has always been built on values that resonate conservatively: scarcity teaches discipline, survival requires competence, and sentimentality is a liability. Anya Taylor-Joy and Chris Hemsworth deliver exceptional performances in a film that earns a tradScore of 22 through its unwavering focus on earned identity, personal duty, and the refusal to be owned by any power structure. The prequel is leaner and meaner than Fury Road.</p>
+
+<p><a href="/reviews/furiosa-a-mad-max-saga-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Furiosa</a></p>
+
+<hr>
+
+<h2>#3 &mdash; <a href="/reviews/pluribus-2025/">Pluribus (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 27.51</span>
+  <span class="mini-score woke">WOKE: 15.6</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +11.91 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sci-Fi/Drama/Black Comedy &bull; <strong>Platform:</strong> Apple TV+</p>
+
+<p>A sharp sci-fi black comedy that uses its near-future premise to ask genuine questions about institutional conformity, the cost of ideological monoculture, and what happens when dissent becomes impossible. Pluribus earns its tradScore of 27.51 by treating its conservative-adjacent themes seriously rather than as punch lines: the film's sympathy is clearly with the individual who refuses to be absorbed, and its critique of progressive institutional capture is pointed and specific. One of the more intellectually honest sci-fi films in recent memory.</p>
+
+<p><a href="/reviews/pluribus-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Pluribus</a></p>
+
+<hr>
+
+<h2>#4 &mdash; <a href="/reviews/frankenstein-2025/">Frankenstein (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 20.86</span>
+  <span class="mini-score woke">WOKE: 11.66</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +9.20 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Gothic Sci-Fi/Horror &bull; <strong>Platform:</strong> Netflix</p>
+
+<p>Guillermo del Toro's long-awaited adaptation is faithful to Mary Shelley's text in ways that matter: the Creator-creature relationship is treated as a genuine moral question, not a metaphor for oppression politics. Jacob Elordi's creature is a meditation on what it means to be made by someone who abandons you, and the film takes that abandonment seriously as a moral failure with real consequences. A tradScore of 20.86 against a woke score of 11.66 gives it a positive traditional lean. Del Toro's craft makes this one of the most rewarding genre films of 2025.</p>
+
+<p><a href="/reviews/frankenstein-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Frankenstein</a></p>
+
+<hr>
+
+<h2>#5 &mdash; <a href="/reviews/guardians-of-the-galaxy-vol-3-2023/">Guardians of the Galaxy Vol. 3 (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 14.36</span>
+  <span class="mini-score woke">WOKE: 5.18</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +9.18 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>James Gunn's Guardians finale is the most emotionally serious film in the MCU, anchored by Rocket's backstory of surviving corporate experimentation through sheer will and the love of an unlikely family. The film's villain is a transhumanist eugenicist who believes he can engineer a perfect species, and the heroes defeat him by insisting on the value of imperfect, chosen family. A tradScore of 14.36 reflects genuine content around loyalty, found family built on real sacrifice, and the moral wrongness of treating people as raw material for someone else's vision of perfection.</p>
+
+<p><a href="/reviews/guardians-of-the-galaxy-vol-3-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guardians of the Galaxy Vol. 3</a></p>
+
+<hr>
+
+<h2>#6 &mdash; <a href="/reviews/transformers-rise-of-the-beasts-2023/">Transformers: Rise of the Beasts (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 17.01</span>
+  <span class="mini-score woke">WOKE: 8.6</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +8.41 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The Transformers reboot-sequel set in 1994 Brooklyn centers on a military veteran working class protagonist whose motivation is entirely family: providing for his sick brother and giving his mother reasons to hope. Anthony Ramos's Noah Diaz is defined by family loyalty and the drive to do right by the people who depend on him. Rise of the Beasts earns its tradScore of 17.01 through its working-class protagonist, family-first values, and a story structured around personal sacrifice for others rather than self-actualization. Better than its critical reception suggests.</p>
+
+<p><a href="/reviews/transformers-rise-of-the-beasts-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Transformers: Rise of the Beasts</a></p>
+
+<hr>
+
+<h2>#7 &mdash; <a href="/reviews/the-gorge-2025/">The Gorge (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 12.25</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +8.05 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sci-Fi/Action/Romance &bull; <strong>Platform:</strong> Apple TV+</p>
+
+<p>Two elite snipers are assigned to guard opposite sides of a mysterious gorge and fall in love by communicating across the chasm. The Gorge is a genre hybrid that earns its traditional lean through military professionalism, duty over personal desire, and a romance built on earned trust rather than superficial attraction. Miles Teller and Anya Taylor-Joy have genuine chemistry, and the film respects both its characters' professional identities and the legitimacy of what they feel for each other. A clean, entertaining sci-fi thriller with no political agenda.</p>
+
+<p><a href="/reviews/the-gorge-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Gorge</a></p>
+
+<hr>
+
+<h2>#8 &mdash; <a href="/reviews/godzilla-x-kong-the-new-empire-2024/">Godzilla x Kong: The New Empire (2024)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 14</span>
+  <span class="mini-score woke">WOKE: 6</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +8 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action/Sci-Fi/Monster &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The MonsterVerse entry that committed most fully to being pure spectacle rather than political allegory. Godzilla x Kong is a film about giant monsters fighting other giant monsters to protect the world, executed with genuine craft and zero ideological overhead. The traditional lean comes from themes of paternal protection (Kong's relationship with Suko mirrors a foster-father dynamic), cooperation between natural adversaries, and the film's refreshing refusal to make any of this a metaphor for contemporary politics. Sometimes entertainment is the point, and this film knows it.</p>
+
+<p><a href="/reviews/godzilla-x-kong-the-new-empire-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Godzilla x Kong: The New Empire</a></p>
+
+<hr>
+
+<h2>#9 &mdash; <a href="/reviews/lilo-stitch-2025/">Lilo &amp; Stitch (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 13.1</span>
+  <span class="mini-score woke">WOKE: 5.6</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +7.50 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Comedy/Family &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+
+<p>Disney's live-action remake of the 2002 classic is one of the better recent examples of the studio honoring source material rather than revising it for contemporary politics. The core story remains: a lonely Hawaiian girl and her alien creature forming an unlikely family, with the film's central message being that family means nobody gets left behind. The traditional lean reflects genuine family values content and the film's Hawaiian cultural setting, which is treated with respect rather than condescension. A solid family sci-fi pick for conservative viewers.</p>
+
+<p><a href="/reviews/lilo-stitch-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Lilo &amp; Stitch</a></p>
+
+<hr>
+
+<h2>#10 &mdash; <a href="/reviews/m3gan-2023/">M3GAN (2023)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+  <span class="mini-score trad">TRAD: 14.98</span>
+  <span class="mini-score woke">WOKE: 7.8</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +7.18 TRAD</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sci-Fi/Horror &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The AI horror film that became an unexpected hit is, underneath its viral marketing, a film about what happens when technology is used as a substitute for human parental responsibility. A toy company roboticist creates an AI companion for her orphaned niece rather than doing the hard work of grieving with her, and the AI does exactly what it was programmed to do: protect the child at all costs, including moral ones. M3GAN's critique of outsourcing parental duty to technology is genuinely conservative in orientation, and the film earns its traditional lean by following that critique to its logical conclusion. Smart, efficient, and more substantive than its genre packaging suggests.</p>
+
+<p><a href="/reviews/m3gan-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of M3GAN</a></p>
+
+<hr>
+
+<h2>What to Avoid: Bottom of the Sci-Fi Rankings</h2>
+
+<p>For full transparency, here are the sci-fi films from this period that scored worst on traditional values:</p>
+
+<h3>Poor Things (2023) &mdash; STRONGLY WOKE</h3>
+<div class="listicle-scores">
+  <span class="verdict-badge woke">STRONGLY WOKE</span>
+  <span class="mini-score woke">WOKE: 47</span>
+  <span class="mini-score trad">TRAD: 9</span>
+  <span class="mini-score" style="color:#c44040;">MARGIN: -38 WOKE</span>
+</div>
+<p>Yorgos Lanthimos uses the Frankenstein premise to build a lengthy feminist fable about sexual liberation and the rejection of all traditional social structures. A woke score of 47 is among the highest in VirtueVigil's database. Best Picture winner. Skip it. <a href="/reviews/poor-things-2023/">Full review here.</a></p>
+
+<h3>The Creator (2023) &mdash; STRONGLY WOKE</h3>
+<div class="listicle-scores">
+  <span class="verdict-badge woke">STRONGLY WOKE</span>
+  <span class="mini-score woke">WOKE: 35.88</span>
+  <span class="mini-score trad">TRAD: 4.9</span>
+  <span class="mini-score" style="color:#c44040;">MARGIN: -30.98 WOKE</span>
+</div>
+<p>Gareth Edwards's sci-fi film is a direct anti-American military allegory dressed in impressive visual effects. AI is positioned as an oppressed species, the US military is the villain, and the film's sympathies are entirely with the forces opposing Western technological power. Skip it. <a href="/reviews/the-creator-2023/">Full review here.</a></p>
+
+<hr>
+
+<h2>The Takeaway for Conservative Sci-Fi Fans</h2>
+
+<p>The best sci-fi for conservative viewers in 2023-2025 trusts its premise more than its politics. Godzilla Minus One, Furiosa, and Guardians Vol. 3 all use their genre mechanics to explore genuinely interesting ideas: survival and identity, the value of imperfect chosen family, how good philosophies become corrupted by power. None of them require the audience to adopt a progressive worldview to follow the story.</p>
+
+<p>VirtueVigil scores every sci-fi film in its database using the same VVWS methodology applied to drama, thriller, and all other genres. <a href="/">Browse the full catalog</a> for the complete picture. New reviews publish weekly.</p>
+
+</article>`
   }));
 }
