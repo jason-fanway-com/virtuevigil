@@ -1750,6 +1750,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/methodology.html`, changefreq: 'monthly', priority: '0.6' },
     { loc: `${SITE_URL}/woke-trap.html`, changefreq: 'monthly', priority: '0.7' },
     { loc: `${SITE_URL}/oscars-2026/`, changefreq: 'daily', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2021/`, changefreq: 'monthly', priority: '0.8' },
@@ -2588,6 +2589,275 @@ function buildPrivacyPage() {
   </article>
 
   ${simpleFooter()}
+${pageScripts()}
+</body>
+</html>`;
+}
+
+// ============================================
+// LISTS HUB PAGE
+// ============================================
+
+function buildListsHubPage() {
+  const title = 'Browse All Movie Lists';
+  const description = '71 movie lists ranked by woke score, director, streaming platform, and genre. Find the best and most woke movies of 2024, 2025, and beyond.';
+  const canonical = `${SITE_URL}/lists/`;
+
+  const categories = [
+    {
+      name: 'By Director / Actor',
+      icon: 'fa-film',
+      slugs: [
+        'a24-movies-woke-ranking',
+        'adam-sandler-movies-woke-ranking',
+        'christopher-nolan-movies-ranked',
+        'christopher-nolan-movies-woke-ranking',
+        'tarantino-movies-woke-ranking',
+        'tom-hanks-movies-woke-ranking',
+        'wes-anderson-movies-woke-ranking'
+      ]
+    },
+    {
+      name: 'By Platform',
+      icon: 'fa-tv',
+      slugs: [
+        'amazon-prime-movies-woke-ranking',
+        'apple-tv-woke-ranking',
+        'appletv-plus-movies-woke-ranking',
+        'best-conservative-movies-netflix-2025',
+        'conservative-movies-amazon-prime',
+        'disney-plus-movies-woke-ranking',
+        'disney-woke-movies-ranked',
+        'hbo-max-shows-woke-ranking',
+        'netflix-woke-movies-2024-data',
+        'netflix-woke-movies-ranked',
+        'paramount-plus-woke-ranking',
+        'pixar-movies-woke-ranking',
+        'wokest-streaming-movies-2025-2026'
+      ]
+    },
+    {
+      name: 'By Year / Era',
+      icon: 'fa-calendar-alt',
+      slugs: [
+        'most-woke-movies-2019',
+        'most-woke-movies-2021',
+        'most-woke-movies-2022',
+        'most-woke-movies-2023',
+        'most-woke-movies-2024',
+        'most-woke-movies-2024-complete',
+        'most-woke-movies-2025',
+        'most-woke-movies-2026',
+        'most-woke-movies-decade',
+        'disappointing-woke-movies-2025'
+      ]
+    },
+    {
+      name: 'Top Picks',
+      icon: 'fa-star',
+      slugs: [
+        'anti-woke-action-movies',
+        'best-action-movies-2024',
+        'best-conservative-movies',
+        'best-drama-movies-conservatives-2024',
+        'best-faith-based-movies',
+        'best-faith-movies-2024',
+        'best-family-values-movies-all-time',
+        'best-non-woke-romance-movies',
+        'best-thriller-movies-2024',
+        'best-traditional-movies-2024',
+        'best-traditional-movies-2025',
+        'best-traditional-movies-2026',
+        'best-war-movies-patriots',
+        'clean-movies-for-kids-2024',
+        'conservative-movies-2026',
+        'conservative-movies-to-watch-2025',
+        'conservative-sci-fi-movies',
+        'conservative-sci-fi-movies-2024-2025',
+        'conservative-sports-movies',
+        'date-night-movies-non-woke',
+        'family-friendly-movies-2024',
+        'marvel-movies-traditional-values',
+        'non-woke-action-movies-2024',
+        'non-woke-romance-movies',
+        'patriotic-war-movies',
+        'superhero-movies-traditional-values'
+      ]
+    },
+    {
+      name: 'Rankings &amp; Research',
+      icon: 'fa-chart-bar',
+      slugs: [
+        'audience-vs-critic-scores-conservative',
+        'canceled-movies-reviewed',
+        'dc-movies-woke-ranking',
+        'highest-traditional-scores-all-time',
+        'hollywood-anti-american-movies',
+        'mcu-movies-ranked-woke-score',
+        'movies-attacking-traditional-values',
+        'rotten-tomatoes-vs-virtuevigil',
+        'woke-movies-box-office-flops'
+      ]
+    },
+    {
+      name: 'By Genre',
+      icon: 'fa-masks-theater',
+      slugs: [
+        'comedy-movies-woke-ranking-2024',
+        'woke-animated-kids-movies',
+        'woke-horror-movies-2024',
+        'woke-horror-movies-2025'
+      ]
+    },
+    {
+      name: 'Woke Tracking',
+      icon: 'fa-exclamation-triangle',
+      slugs: [
+        'woke-sequels-more-woke-than-original',
+        'woke-trap-movies-list'
+      ]
+    }
+  ];
+
+  function slugToTitle(slug) {
+    const special = {
+      'a24-movies-woke-ranking': 'A24 Movies Woke Ranking',
+      'appletv-plus-movies-woke-ranking': 'Apple TV+ Movies Woke Ranking',
+      'hbo-max-shows-woke-ranking': 'HBO Max Shows Woke Ranking',
+      'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
+      'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
+      'most-woke-movies-2024-complete': 'Most Woke Movies of 2024 (Complete)',
+      'conservative-sci-fi-movies-2024-2025': 'Conservative Sci-Fi Movies 2024\u20132025',
+      'wokest-streaming-movies-2025-2026': 'Wokest Streaming Movies 2025\u20132026',
+      'rotten-tomatoes-vs-virtuevigil': 'Rotten Tomatoes vs VirtueVigil',
+      'best-conservative-movies-netflix-2025': 'Best Conservative Movies on Netflix 2025',
+      'conservative-movies-amazon-prime': 'Conservative Movies on Amazon Prime',
+      'best-family-values-movies-all-time': 'Best Family Values Movies of All Time',
+      'best-drama-movies-conservatives-2024': 'Best Drama Movies for Conservatives 2024',
+      'date-night-movies-non-woke': 'Date Night Movies (Non-Woke)',
+      'marvel-movies-traditional-values': 'Marvel Movies with Traditional Values',
+      'superhero-movies-traditional-values': 'Superhero Movies with Traditional Values',
+      'best-war-movies-patriots': 'Best War Movies for Patriots',
+      'woke-sequels-more-woke-than-original': 'Woke Sequels More Woke Than the Original',
+      'most-woke-movies-decade': 'Most Woke Movies of the Decade',
+      'highest-traditional-scores-all-time': 'Highest Traditional Scores of All Time',
+      'audience-vs-critic-scores-conservative': 'Audience vs Critic Scores (Conservative)',
+      'movies-attacking-traditional-values': 'Movies Attacking Traditional Values',
+      'hollywood-anti-american-movies': 'Hollywood Anti-American Movies',
+      'clean-movies-for-kids-2024': 'Clean Movies for Kids 2024',
+      'best-non-woke-romance-movies': 'Best Non-Woke Romance Movies',
+      'family-friendly-movies-2024': 'Family-Friendly Movies 2024',
+      'best-faith-based-movies': 'Best Faith-Based Movies',
+      'non-woke-action-movies-2024': 'Non-Woke Action Movies 2024',
+      'non-woke-romance-movies': 'Non-Woke Romance Movies',
+      'apple-tv-woke-ranking': 'Apple TV Woke Ranking',
+      'woke-movies-box-office-flops': 'Woke Movies Box Office Flops',
+      'anti-woke-action-movies': 'Anti-Woke Action Movies'
+    };
+    if (special[slug]) return special[slug];
+    return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+  }
+
+  // Build all 71 URLs for ItemList
+  const allSlugs = categories.reduce((acc, cat) => acc.concat(cat.slugs), []);
+  const itemListElements = allSlugs.map((slug, i) =>
+    `{"@type":"ListItem","position":${i + 1},"url":"${SITE_URL}/lists/${slug}/"}`
+  );
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": title,
+    "description": description,
+    "url": canonical,
+    "publisher": {
+      "@type": "Organization",
+      "name": "VirtueVigil",
+      "logo": { "@type": "ImageObject", "url": `${SITE_URL}/images/logo.svg` }
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": allSlugs.length,
+      "itemListElement": allSlugs.map((slug, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `${SITE_URL}/lists/${slug}/`
+      }))
+    }
+  };
+
+  const breadcrumbs = breadcrumbLD([
+    { name: "Home", url: SITE_URL },
+    { name: "Lists", url: canonical }
+  ]);
+
+  const sectionsHTML = categories.map(cat => {
+    const cards = cat.slugs.map(slug =>
+      `          <a href="/lists/${slug}/" class="list-card">
+            <span class="card-title">${slugToTitle(slug)}</span>
+            <i class="fas fa-arrow-right card-arrow"></i>
+          </a>`
+    ).join('\n');
+    return `      <section class="list-section">
+        <h2><i class="fas ${cat.icon}"></i> ${cat.name}</h2>
+        <div class="lists-grid">
+${cards}
+        </div>
+      </section>`;
+  }).join('\n\n');
+
+  return `${htmlHead({
+    title: `${title} | VirtueVigil`,
+    description,
+    canonical,
+    ogType: 'website',
+    structuredData,
+    breadcrumbs,
+    extraHead: `<style>
+    .lists-hub-intro { max-width: 720px; margin: 0 auto 2rem; text-align: center; }
+    .lists-hub-intro .lead { color: var(--text-secondary, #94a3b8); font-size: 1.1rem; margin-top: 0.5rem; }
+    .list-section { margin-bottom: 2.5rem; }
+    .list-section h2 { font-family: 'Cinzel', serif; font-size: 1.35rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border, rgba(255,255,255,0.08)); }
+    .list-section h2 i { margin-right: 0.5rem; opacity: 0.7; font-size: 1rem; }
+    .lists-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 0.75rem; }
+    .list-card { display: flex; align-items: center; justify-content: space-between; padding: 0.85rem 1rem; background: var(--card-bg, rgba(255,255,255,0.03)); border: 1px solid var(--border, rgba(255,255,255,0.06)); border-radius: 8px; text-decoration: none; color: var(--text-primary, #e2e8f0); transition: background 0.2s, border-color 0.2s; }
+    .list-card:hover { background: var(--card-hover, rgba(255,255,255,0.06)); border-color: var(--accent, #c9a84c); }
+    .list-card .card-title { font-weight: 500; font-size: 0.95rem; line-height: 1.3; }
+    .list-card .card-arrow { color: var(--accent, #c9a84c); font-size: 0.85rem; flex-shrink: 0; margin-left: 0.75rem; opacity: 0.6; transition: opacity 0.2s, transform 0.2s; }
+    .list-card:hover .card-arrow { opacity: 1; transform: translateX(3px); }
+    .lists-bottom-cta { text-align: center; margin: 3rem 0 1rem; }
+    .lists-bottom-cta a { color: var(--accent, #c9a84c); text-decoration: none; font-weight: 600; }
+    .lists-bottom-cta a:hover { text-decoration: underline; }
+    @media (max-width: 640px) { .lists-grid { grid-template-columns: 1fr; } }
+    </style>`
+  })}
+<body>
+  ${topBanner()}
+  ${siteHeader('lists')}
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>${title}</h1>
+      <p class="lead">71 curated rankings and guides &mdash; ranked by woke score, director, platform, and more.</p>
+    </div>
+  </section>
+
+  <div class="page-layout">
+    ${sidebarHTML()}
+    <main class="main-content" role="main">
+      <article class="listicle-article">
+
+${sectionsHTML}
+
+      <div class="lists-bottom-cta">
+        <p><a href="/">&larr; Back to All Reviews</a> &nbsp;&middot;&nbsp; <a href="/">More Reviews &rarr;</a></p>
+      </div>
+
+      </article>
+    </main>
+  </div>
+
+  ${fullFooter()}
 ${pageScripts()}
 </body>
 </html>`;
@@ -14341,4 +14611,8 @@ function buildAudienceVsCriticScoresListicle() {
       </div>
     </article>`
   }));
+
+  // --- Lists Hub Page ---
+  console.log('\nBuilding lists hub page:');
+  writePage('lists/index.html', buildListsHubPage());
 }
