@@ -1783,6 +1783,10 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/date-night-movies-non-woke/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/wokest-streaming-movies-2025-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-family-values-movies-all-time/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/appletv-plus-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/conservative-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/disappointing-woke-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/pixar-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -9113,6 +9117,10 @@ buildMostWokeMovies2022Listicle();
 buildDateNightMoviesListicle();
 buildWokestStreaming2025_2026Listicle();
 buildBestFamilyValuesAllTimeListicle();
+buildAppleTvPlusMoviesWokeRankingListicle();
+buildConservativeMovies2026Listicle();
+buildDisappointingWokeMovies2025Listicle();
+buildPixarMoviesWokeRankingListicle();
 
 module.exports = { buildListiclePage, writePage };
 
@@ -12510,6 +12518,619 @@ function buildBestFamilyValuesAllTimeListicle() {
       <div class="listicle-conclusion">
         <h3>The Family Values Verdict</h3>
         <p>The Passion of the Christ leads this list at plus 45, the highest traditional margin of any film in the VirtueVigil database. Reagan and SpongeBob follow at plus 42, proving that family values content spans every genre from biblical drama to animated comedy. The list includes war films (Saving Private Ryan, American Sniper), sports classics (Rocky, Hoosiers, Miracle), family adventure (How to Train Your Dragon, Paddington 2), and documentary comedy (Am I Racist?). What connects them is not genre, era, or budget but a shared refusal to deconstruct the values they portray. These films present duty, sacrifice, faith, and family as genuinely good things, not relics to be interrogated. Bookmark this list. Share it with your family. And browse the full VirtueVigil database at <a href="/reviews/">virtuevigil.com/reviews/</a> for hundreds more scored reviews with parental guidance for every title.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Apple TV+ Movies Woke Ranking
+// ============================================
+function buildAppleTvPlusMoviesWokeRankingListicle() {
+  writePage('lists/appletv-plus-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'appletv-plus-movies-woke-ranking',
+    title: 'Every Apple TV+ Movie Ranked by Woke Score',
+    description: 'We scored every Apple TV+ film in our database. See which are safe to watch and which push an agenda.',
+    canonicalPath: 'lists/appletv-plus-movies-woke-ranking',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Apple TV+ markets itself as premium prestige content, but does premium mean agenda-free? VirtueVigil has scored every Apple TV+ film in our database using our proprietary Traditional/Woke scoring system. The results are mixed. While several Apple TV+ films earn strong traditional scores, particularly their action and sports content, the platform has also greenlit content with clear ideological messaging. With Apple spending billions on original content, conservative families deserve to know exactly what they are paying for. Here is every scored Apple TV+ film, ranked from most traditional to most woke.</p>
+        <p>Apple has cultivated a reputation for quality over quantity, releasing fewer titles per year than Netflix or Amazon but investing more per project. That strategy means each title carries more weight in defining the platform's identity. When Apple greenlights a Martin Scorsese historical epic about the systematic murder of Indigenous Americans, that is not a niche catalogue filler. It is a flagship statement. When they produce F1 with Brad Pitt praying before every race and earning redemption through grit, that is equally deliberate. The list below covers every Apple TV+ title VirtueVigil has reviewed, sorted by net score margin from most traditional to most woke.</p>
+        <p>Related: <a href="/lists/disney-plus-movies-woke-ranking/">Disney+ Woke Ranking</a>, <a href="/lists/netflix-woke-movies-ranked/">Netflix Woke Ranking</a>, <a href="/lists/amazon-prime-movies-woke-ranking/">Amazon Prime Woke Ranking</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/f1-2025/">F1 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+17 TRAD</span>
+            </div>
+            <p>The crown jewel of Apple TV+ for conservative viewers. Brad Pitt delivers an old-school redemption story about a broken Formula One driver who returns to the sport and earns everything the hard way. The character prays before races, mentors a younger driver with quiet authority, and never once gets lectured about privilege or identity. Apple and Warner Bros. produced a film that feels like it was made in a different decade, one where masculinity, discipline, and self-sacrifice were allowed to be heroic without qualification. The highest traditional margin on the platform by a wide margin.</p>
+            <a href="/reviews/f1-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/pluribus-2025/">Pluribus (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+12 TRAD</span>
+            </div>
+            <p>Vince Gilligan's first project after Better Call Saul is the rarest thing in modern prestige television: a series that trusts its audience with genuine moral ambiguity. Pluribus earns its traditional score not through overt conservative messaging but through something more valuable, a refusal to preach. The show respects individual agency, treats its characters as morally responsible adults, and never reduces complex situations to ideological talking points. Rhea Seehorn won a Golden Globe for her performance. Conservative viewers will appreciate a show that treats them like adults capable of forming their own conclusions.</p>
+            <a href="/reviews/pluribus-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-gorge-2025/">The Gorge (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>A high-concept action film about two elite soldiers stationed on opposite sides of a classified gorge. The Gorge earns its traditional lean through themes of military duty, personal sacrifice, and earned romantic chemistry that develops organically rather than being imposed by the screenplay. The film treats its military characters with genuine respect and never uses the premise as a vehicle for anti-war or anti-authority messaging. Conservative viewers looking for solid genre entertainment on Apple TV+ should start here after F1.</p>
+            <a href="/reviews/the-gorge-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/eternity/">Eternity (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>A24 and Apple co-produced this afterlife romantic comedy starring Elizabeth Olsen, Miles Teller, and Callum Turner. What is surprising about Eternity is how clean it plays for an A24 release. No significant sexual content, no violence, no ideological agenda. The traditional lean comes from its core premise: love and sacrifice have meaning that transcends death. The film treats commitment as something worth fighting for across eternity. Light and charming, with a values profile that will not cause any alarms for conservative families.</p>
+            <a href="/reviews/eternity/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/argylle-2024/">Argylle (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>Matthew Vaughn's spy comedy is loud, overstuffed, and frequently exhausting, but it lands slightly traditional on the values scale. The female protagonist grows into competence through experience rather than being handed superhero status from the opening frame. The romantic subplot resolves conventionally. The progressive elements are surface-level window dressing that never amounts to sustained ideological messaging. Not a recommendation on quality, but a film that conservative viewers can watch without encountering an agenda. Traditional lean by default rather than conviction.</p>
+            <a href="/reviews/argylle-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/napoleon-2023/">Napoleon (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+1 TRAD</span>
+            </div>
+            <p>Ridley Scott's historical epic is a film at war with itself. The battle sequences honor military courage, tactical genius, and the grandeur of classical warfare in ways that feel authentically traditional. But Scott's portrait of Napoleon the man is deliberately small, petty, and unheroic, systematically undermining the very martial masculinity the action sequences celebrate. The result is a film that scores traditional by the narrowest possible margin. Conservatives who came for an epic will find one on the battlefield and something far less satisfying in the drawing room.</p>
+            <a href="/reviews/napoleon-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/severance-s2/">Severance - Season 2 (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-2 WOKE</span>
+            </div>
+            <p>Apple TV+'s flagship prestige series tips into woke territory in its second season, but the margin is slim enough that the classification matters more than the alarm level. The anti-corporate themes are structurally embedded in the world-building rather than grafted onto a story that does not need them. Severance respects its audience enough to present themes rather than deliver sermons. It is woke lean, but it earns that lean through genuine storytelling craft rather than ideological hectoring. Conservative viewers who enjoy the show should not feel lectured, though the framework is unmistakably progressive.</p>
+            <a href="/reviews/severance-s2/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/blitz-2024/">Blitz (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>Steve McQueen's WWII film arrives dressed as a wartime survival story about a mother searching for her evacuated son during the London Blitz. It pivots into racial grievance framing once the audience is emotionally invested. McQueen uses the Blitz as a backdrop for exploring how wartime Britain treated its non-white citizens, spending significant runtime on identity-based moral authority and systemic framing. Saoirse Ronan delivers a committed performance that deserved a film more interested in her character than in its thesis. A values bait-and-switch that conservative viewers should approach with awareness.</p>
+            <a href="/reviews/blitz-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/killers-of-the-flower-moon-2023/">Killers of the Flower Moon (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>Martin Scorsese's three-and-a-half-hour historical epic about the systematic murder of Osage Nation members is undeniably powerful filmmaking. The woke lean comes not from inventing grievances but from structuring the film's entire moral universe around collective white guilt and systemic culpability. Individual moral accountability is consistently subordinated to institutional critique. Leonardo DiCaprio and Robert De Niro deliver career-level performances inside a framework that treats American history as a progressive cautionary tale. The traditional elements are genuine but never allowed to breathe freely within the ideological structure.</p>
+            <a href="/reviews/killers-of-the-flower-moon-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Apple TV+ Verdict</h3>
+        <p>Apple TV+ is a platform of contrasts. Its best traditional content, F1 and Pluribus, ranks among the best on any streaming service. Its mid-tier offerings like The Gorge, Eternity, and Argylle are safe viewing for conservative families. But the platform has also bankrolled prestige projects with clear progressive framing, from McQueen's racial revisionism in Blitz to Scorsese's institutional guilt narrative in Killers of the Flower Moon. The pattern is instructive: Apple's action and genre content tends traditional, while its prestige drama and historical content tends woke. Use VirtueVigil's individual reviews to navigate specific titles, and bookmark this page as we add more Apple TV+ reviews to the database. Browse all scored reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or explore more platform rankings on our <a href="/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Conservative Movies 2026
+// ============================================
+function buildConservativeMovies2026Listicle() {
+  writePage('lists/conservative-movies-2026/index.html', buildListiclePage({
+    slug: 'conservative-movies-2026',
+    title: 'Top 10 Movies Conservatives Should Watch in 2026',
+    description: '2026 is shaping up to be a great year for traditional values on screen. Here are the 10 must-watch films.',
+    canonicalPath: 'lists/conservative-movies-2026',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Hollywood may be struggling at the box office but 2026 is already delivering content that conservative families can celebrate. VirtueVigil has scored 61 2026 releases so far and the picture is encouraging: 45 of them score as Traditional. Whether you want faith-based films, patriotic narratives, or just movies that tell a story without pushing an agenda, 2026 has options. Here are the 10 highest-scoring traditional films of 2026 so far.</p>
+        <p>What makes 2026 different from recent years is the breadth of genres represented. This is not a list dominated by faith-based films and documentaries the way traditional top-ten lists have been in the past. You will find a First Lady biopic, a Yellowstone-universe Western, a hard sci-fi adaptation, a Pixar sequel, a family comedy, and a Hunger Games prequel all scoring traditional. Studios are learning, slowly, that conservative audiences represent a massive underserved market. The box office is rewarding films that respect their audience instead of lecturing them.</p>
+        <p>Rankings are sorted by VirtueVigil traditional score margin (Traditional Score minus Woke Score), highest to lowest. Every title links to a full VirtueVigil review with trope audits, parental guidance, and detailed scoring breakdowns.</p>
+        <p>Related: <a href="/lists/best-traditional-movies-2025/">Best Traditional Movies of 2025</a>, <a href="/lists/best-family-values-movies-all-time/">Best Family Values Movies of All Time</a>, <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/melania-2026/">Melania (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>A biographical drama about Melania Trump that treats its subject with dignity and respect. The film focuses on her immigrant journey, her devotion to family, and her quiet strength under relentless public scrutiny. Conservative audiences will find a portrait that honors resilience, marriage, and maternal sacrifice without apology. Hollywood would never have made this film voluntarily, which is exactly why it matters that it got made.</p>
+            <a href="/reviews/melania-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/solo-mio/">Solo Mio (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>A heartfelt romance that believes in love as something worth fighting for. Solo Mio earns its traditional score through genuine emotional commitment between its leads, a narrative structure that treats devotion as heroic, and a complete absence of progressive subtext. The film does not deconstruct romance or question whether traditional love stories are outdated. It simply tells one with sincerity and craft. A rare find in modern cinema and the kind of date-night film that conservative couples have been starving for.</p>
+            <a href="/reviews/solo-mio/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/i-can-only-imagine-2/">I Can Only Imagine 2 (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>The sequel to the 2018 faith-based hit that grossed $86 million on a $7 million budget. I Can Only Imagine 2 continues the story of MercyMe lead singer Bart Millard with the same uncompromising commitment to Christian faith that made the original a phenomenon. The film treats redemption, grace, and worship as genuinely transformative forces rather than quaint relics. Faith-based filmmaking that has learned how to compete at a professional craft level without diluting its message.</p>
+            <a href="/reviews/i-can-only-imagine-2/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/1923-s2/">1923 - Season 2 (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>Taylor Sheridan's Yellowstone prequel returns with Harrison Ford and Helen Mirren in a story about defending family land, honoring ancestral legacy, and the cost of building something worth keeping. The Dutton saga has always been about the clash between traditional American values and the forces trying to dismantle them, and Season 2 leans harder into that thesis than ever. Sheridan writes characters who fight for what they have built without apology. Conservative viewers have made the Yellowstone universe a cultural phenomenon for exactly this reason.</p>
+            <a href="/reviews/1923-s2/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/send-help-2026/">Send Help (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>A survival comedy that earns its traditional score through old-fashioned resourcefulness, self-reliance, and humor that punches at situations rather than demographics. Send Help does not need to deconstruct anything. It builds a simple premise, executes it with energy and wit, and never pauses to deliver a lecture. The traditional margin of plus 7 reflects content that respects its audience consistently from start to finish. A refreshing throwback to comedy that trusts laughs over messaging.</p>
+            <a href="/reviews/send-help-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/project-hail-mary-2026/">Project Hail Mary (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>Ryan Gosling stars in the adaptation of Andy Weir's bestselling novel about a lone astronaut who must save Earth. Project Hail Mary is the spiritual successor to The Martian: a story about human ingenuity, scientific problem-solving, sacrifice, and the refusal to give up when the odds are impossible. The film treats competence as heroic and individual determination as the engine of survival. No identity politics, no institutional critique. Just a man, a mission, and the will to get the job done. Exactly the kind of sci-fi that conservative audiences have been asking for.</p>
+            <a href="/reviews/project-hail-mary-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/coyote-vs-acme-2026/">Coyote vs Acme (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>The Looney Tunes courtroom comedy that Warner Bros. initially shelved before fan outcry forced a reversal. Coyote vs Acme is a family film that treats its source material with affection rather than ironic distance. Wile E. Coyote sues the Acme Corporation for faulty products, and the result is genuinely funny physical comedy built on classic cartoon DNA. No progressive messaging, no identity subtext, no deconstruction of beloved characters. A family-friendly comedy that lets its humor do the talking.</p>
+            <a href="/reviews/coyote-vs-acme-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/dune-part-three-2026/">Dune Part Three (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>Denis Villeneuve completes his Dune trilogy with a film that honors Frank Herbert's themes of duty, legacy, and the terrible cost of leadership. Dune Part Three is a prestige blockbuster that takes its source material's warnings about messianic power seriously without reducing those warnings to contemporary political allegory. The film treats its characters as people shaped by history, faith, and responsibility rather than as vehicles for modern ideological messaging. A rare example of Hollywood adapting complex source material without injecting progressive framing that the author never intended.</p>
+            <a href="/reviews/dune-part-three-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/sunrise-on-the-reaping-2026/">The Hunger Games: Sunrise on the Reaping (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>The fifth Hunger Games film explores the Second Quarter Quell through Haymitch Abernathy's origin story. Sunrise on the Reaping scores traditional through its unflinching portrayal of government tyranny, its celebration of individual courage against totalitarian control, and its refusal to soften the consequences of state power. The Hunger Games franchise has always contained themes that resonate with conservative audiences, and this prequel crystallizes those themes more clearly than any entry since the original. A story about resisting centralized authority that never flinches.</p>
+            <a href="/reviews/sunrise-on-the-reaping-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/scary-movie-6-2026/">Scary Movie 6 (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+6 TRAD</span>
+            </div>
+            <p>The return of the Scary Movie franchise delivers exactly what its audience wants: irreverent comedy that mocks Hollywood trends rather than genuflecting before them. Scary Movie 6 earns its traditional lean by treating nothing as sacred, including progressive sacred cows. The Wayans brothers built this franchise on equal-opportunity satire, and the latest installment continues that tradition. Comedy that punches in every direction is inherently anti-ideological, and that is why conservative audiences have always felt comfortable with this franchise even when the humor gets crude.</p>
+            <a href="/reviews/scary-movie-6-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The 2026 Verdict So Far</h3>
+        <p>Forty-five out of sixty-one 2026 releases scoring traditional is a number that would have been unthinkable three years ago. The market is speaking, and studios are starting to listen. Melania proves that conservative biographical content can reach mainstream audiences. Project Hail Mary proves that sci-fi can celebrate human ingenuity without progressive footnotes. 1923 Season 2 proves that the Yellowstone universe remains the most reliably traditional franchise in entertainment. And I Can Only Imagine 2 proves that faith-based filmmaking continues to improve in craft while holding its theological ground. Bookmark this page as VirtueVigil will update it throughout 2026 as new releases are scored. Browse all reviewed titles at <a href="/reviews/">virtuevigil.com/reviews/</a> or explore our complete <a href="/lists/">curated lists</a> for more recommendations.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Disappointing Woke Movies 2025
+// ============================================
+function buildDisappointingWokeMovies2025Listicle() {
+  writePage('lists/disappointing-woke-movies-2025/index.html', buildListiclePage({
+    slug: 'disappointing-woke-movies-2025',
+    title: 'Most Disappointing Movies of 2025 (And Why They Went Woke)',
+    description: 'These 2025 movies had potential but wasted it pushing an agenda. VirtueVigil breaks down exactly how each film failed.',
+    canonicalPath: 'lists/disappointing-woke-movies-2025',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>2025 delivered some genuinely disappointing films, not just because they were bad movies, but because they had potential they squandered by injecting ideology where story should have been. From horror films that replaced scares with lectures to comedy sequels that abandoned their core audience, these are the 2025 releases that earned woke scores in VirtueVigil's database. Some were predictable. Others were genuine surprises. All of them let their audience down. Ranked from most woke to least woke.</p>
+        <p>What makes a disappointing woke movie different from a straightforwardly woke one? Expectations. When Zootopia 2 scored net woke plus 38, that was consistent with Disney's trajectory. Nobody was surprised. But when a franchise comedy sequel, a Marvel team-up, or a high-concept horror film with a genuinely promising premise pivots into ideological messaging, the disappointment is sharper because the potential was real. These are films that had the talent, the budgets, and the audience goodwill to succeed, and chose to spend that capital on progressive messaging instead of storytelling.</p>
+        <p>Each entry below includes the VirtueVigil woke margin, a breakdown of why the film scores the way it does, and a link to the full review with detailed trope audits and parental guidance.</p>
+        <p>Related: <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a>, <a href="/lists/best-traditional-movies-2025/">Best Traditional Movies of 2025</a>, <a href="/lists/woke-horror-movies-2025/">Woke Horror Movies of 2025</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/clown-in-a-cornfield-2025/">Clown in a Cornfield (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">STRONGLY WOKE</span>
+              <span class="score-badge">-18 WOKE</span>
+            </div>
+            <p>The most aggressively ideological horror film of 2025 and the biggest disappointment on this list. The premise, a killer clown terrorizing a small town, should deliver straightforward slasher fun. Instead, the film turns its conservative townspeople into the actual monsters and frames the progressive teenager protagonists as the moral heroes who survive by rejecting tradition. The clown is not the villain. Traditional small-town America is the villain. A promising genre premise wasted on a political lecture disguised as a slasher film. The minus 18 woke margin is the worst on this list by a significant distance.</p>
+            <a href="/reviews/clown-in-a-cornfield-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-wedding-banquet-2025/">The Wedding Banquet (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">STRONGLY WOKE</span>
+              <span class="score-badge">-15 WOKE</span>
+            </div>
+            <p>A remake of Ang Lee's 1993 classic that strips away everything that made the original compelling. The 1993 film treated its conservative Asian parents with genuine empathy and presented their worldview as something real and worth engaging with, even as the story resolved in a progressive direction. The 2025 remake abandons that nuance entirely. Traditional family expectations are presented as obstacles to be overcome rather than perspectives to be understood. The parents exist only to be educated by their children. A remake that fundamentally misunderstands why the original worked.</p>
+            <a href="/reviews/the-wedding-banquet-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/now-you-see-me-now-you-don-t/">Now You See Me: Now You Don't (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">STRONGLY WOKE</span>
+              <span class="score-badge">-11 WOKE</span>
+            </div>
+            <p>The third installment in the heist franchise takes the Robin Hood framing of the first two films and cranks the progressive dial to maximum. What used to be a fun popcorn franchise about clever magic tricks has become a delivery vehicle for wealth redistribution moralizing and anti-establishment talking points. Every reveal and twist serves the thesis that stealing from the powerful is inherently virtuous. The magic is secondary to the messaging. Conservative audiences who enjoyed the original for its spectacle will find this sequel has traded entertainment for ideology.</p>
+            <a href="/reviews/now-you-see-me-now-you-don-t/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/presence-2025/">Presence (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">STRONGLY WOKE</span>
+              <span class="score-badge">-10 WOKE</span>
+            </div>
+            <p>Steven Soderbergh's ghost story had everything going for it: a talented director, a clever found-footage-adjacent concept, and a genuinely creepy first act. Then it pivots. The ghost story becomes a vehicle for exploring themes of victimhood, complicity, and systemic harm. The haunting is not about scares but about accountability. The family is not in danger from a supernatural entity but from their own moral failures as framed through a progressive lens. A film that starts as horror and ends as a lecture, wasting a concept that could have been genuinely frightening.</p>
+            <a href="/reviews/presence-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/back-in-action-2025/">Back in Action (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-2 WOKE</span>
+            </div>
+            <p>Jamie Foxx and Cameron Diaz reunite for a Netflix action comedy about retired spies pulled back into the game. The minus 2 woke margin is slim, but the disappointment is real because this film had star power, a fun premise, and no reason to inject progressive messaging. The woke lean comes from consistent small choices: how authority figures are portrayed, which characters get to be competent, and a subplot that prioritizes progressive family dynamics over the spy premise the audience came for. A film that could have been a clean fun action comedy chose to be slightly less than that.</p>
+            <a href="/reviews/back-in-action-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/companion-2025/">Companion (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-2 WOKE</span>
+            </div>
+            <p>A sci-fi thriller about artificial companions that had genuine potential as a straightforward genre exercise. Instead, Companion uses its AI premise to explore themes of autonomy, consent, and power dynamics through a lens that consistently frames traditional relationship structures as inherently exploitative. The film is competently made and occasionally genuinely tense, which makes the ideological undercurrent more frustrating. A better version of this film exists where the thriller mechanics drive the story instead of serving the thesis.</p>
+            <a href="/reviews/companion-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/thunderbolts/">Thunderbolts* (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-2 WOKE</span>
+            </div>
+            <p>Marvel's anti-hero team-up had the chance to course-correct after years of declining audience trust. Instead, Thunderbolts delivers another MCU entry where the ideological framing, including how authority is portrayed, which characters are given moral clarity, and how the team dynamic resolves, consistently tips progressive. The woke margin of minus 2 is small enough that many viewers will not notice. But for conservative Marvel fans hoping this would signal a return to the franchise's earlier neutrality, it is another disappointment in a long line of them.</p>
+            <a href="/reviews/thunderbolts/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/one-of-them-days-2025/">One of Them Days (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-2 WOKE</span>
+            </div>
+            <p>A buddy comedy that earns its woke lean through consistent framing choices rather than overt messaging. One of Them Days presents its characters' financial struggles through a systemic lens, treats institutional authority with reflexive suspicion, and resolves its conflicts in ways that prioritize collective solidarity over individual responsibility. The comedy works often enough to make the ideological lean frustrating rather than alienating. A slightly different screenplay could have delivered the same laughs without the progressive scaffolding.</p>
+            <a href="/reviews/one-of-them-days-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/a-minecraft-movie/">A Minecraft Movie (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-1 WOKE</span>
+            </div>
+            <p>The live-action Minecraft adaptation scores only minus 1 woke, making it the mildest entry on this list. But it makes the list because Minecraft is one of the most beloved family-friendly properties in the world, and even a slight woke lean represents a missed opportunity. The film could have been perfectly clean entertainment. Instead, small casting and writing choices nudge it just past the neutral line. For a property this universally loved by children, even a margin of minus 1 is a choice that did not need to be made.</p>
+            <a href="/reviews/a-minecraft-movie/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/black-mirror-s7/">Black Mirror - Season 7 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-1 WOKE</span>
+            </div>
+            <p>Charlie Brooker's anthology series returns with another season of technology-anxiety parables. Black Mirror has always carried progressive assumptions about power, surveillance, and human nature, but Season 7 tips the balance just far enough to register on VirtueVigil's system. The woke lean is structural rather than overt: the episodes consistently frame institutional authority, corporate power, and traditional social structures as the source of technological harm rather than examining how individuals misuse tools. A slim margin, but a consistent directional choice across the season.</p>
+            <a href="/reviews/black-mirror-s7/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Disappointment Verdict</h3>
+        <p>The pattern on this list is instructive. The most disappointing entries are not the ones with the highest woke scores. Clown in a Cornfield at minus 18 and The Wedding Banquet at minus 15 are aggressively woke, but the real disappointments are the films at minus 1 and minus 2 that could have been clean. A Minecraft Movie did not need a woke lean. Thunderbolts did not need to continue Marvel's progressive drift. Back in Action had two of the most bankable stars in Hollywood and a premise that required zero ideology. These films chose to include progressive framing when they had every reason not to, and that choice is the common thread connecting every entry on this list. For films that got it right in 2025, see our companion list: <a href="/lists/best-traditional-movies-2025/">Best Traditional Movies of 2025</a>. Browse all scored reviews at <a href="/reviews/">virtuevigil.com/reviews/</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Pixar Movies Woke Ranking
+// ============================================
+function buildPixarMoviesWokeRankingListicle() {
+  writePage('lists/pixar-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'pixar-movies-woke-ranking',
+    title: 'Every Pixar Movie Ranked by Woke Score (All Time)',
+    description: 'Pixar has drifted dramatically from its family-friendly roots. We scored every Pixar film to show when the shift happened.',
+    canonicalPath: 'lists/pixar-movies-woke-ranking',
+    publishDate: '2026-03-31',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>For two decades Pixar was the gold standard for family entertainment. The Incredibles celebrated traditional masculine heroism, Coco honored ancestral family bonds, and Soul explored purpose and meaning with genuine depth. But somewhere around 2019 something changed. Toy Story 4 introduced ideological subtext. Turning Red became a coming-of-age story that many parents found inappropriate for young children. Lightyear introduced content that prompted boycotts. VirtueVigil has scored every Pixar film in our database to show exactly when and how the shift happened. The data tells a clear story. Here are all scored Pixar films ranked from most traditional to most woke.</p>
+        <p>What the rankings reveal is not a gradual drift but a sharp inflection point. Every Pixar film released before 2019 in our database scores traditional. Every Pixar film released from 2019 onward scores either barely traditional or outright woke. The Incredibles at plus 23 and Turning Red at minus 13 represent opposite poles of what Pixar is capable of producing. Understanding where a Pixar film falls on that spectrum is essential for parents deciding what their children should watch. The studio's brand trust, built over decades, means parents often press play without checking. This list is the check.</p>
+        <p>Rankings are sorted by net traditional margin (Traditional Score minus Woke Score), from most traditional to most woke. Every title links to a full VirtueVigil review with complete trope audits, parental guidance, and scoring breakdowns.</p>
+        <p>Related: <a href="/lists/disney-plus-movies-woke-ranking/">Disney+ Woke Ranking</a>, <a href="/lists/best-family-values-movies-all-time/">Best Family Values Movies</a>, <a href="/lists/woke-animated-kids-movies/">Woke Animated Kids Movies</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-incredibles-2004/">The Incredibles (2004)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>The most traditional Pixar film ever made by a margin that is not even close. Brad Bird's superhero family saga is a full-throated celebration of excellence, individual achievement, nuclear family structure, and traditional masculine heroism. Bob Parr is a husband and father who protects his family, Elastigirl supports her husband while being formidable in her own right, and the villain's entire philosophy, that "when everyone is super, no one will be," is an explicit rejection of forced egalitarianism. The Incredibles is not just a great Pixar film. It is the clearest statement of traditional values the studio has ever produced, and nothing in their subsequent catalogue comes within 5 points of its score.</p>
+            <a href="/reviews/the-incredibles-2004/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/soul-2020/">Soul (2020)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+18 TRAD</span>
+            </div>
+            <p>Pete Docter's meditation on purpose, passion, and the meaning of life is the last great traditional Pixar film. Soul explores what it means to have a calling, treats artistic vocation as something sacred rather than commodified, and resolves its central question by affirming that life itself, ordinary messy beautiful life, is the point. The film features Pixar's first Black lead in a story that treats his identity as incidental to his humanity rather than as a thesis statement. No progressive messaging, no institutional critique, no deconstruction of traditional values. Just a deeply felt film about what makes existence worthwhile.</p>
+            <a href="/reviews/soul-2020/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/coco-2017/">Coco (2017)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>Pixar's love letter to Mexican culture and the Day of the Dead is a gorgeous celebration of ancestral bonds, family loyalty, and honoring the dead. Coco treats tradition as something worth preserving rather than interrogating. The film's emotional core, a great-grandmother's memory connecting generations across death itself, is as traditional a theme as animation has ever explored. The cultural specificity strengthens rather than dilutes the universality of its message. Every family, regardless of background, can see their own bonds reflected in the Rivera family's story. Pixar at its best.</p>
+            <a href="/reviews/coco-2017/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/inside-out-2-2024/">Inside Out 2 (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+10 TRAD</span>
+            </div>
+            <p>The highest-grossing animated film of all time earned that distinction by doing something radical for modern Pixar: it told a story that parents and children could enjoy together without an ideological asterisk. Inside Out 2 explores the anxiety of adolescence through the same clever emotional-personification framework as the original, and it resolves its central conflict by affirming that anxiety is a natural part of growth rather than a systemic failure to be blamed on external structures. The film grossed $1.7 billion because audiences were desperate for exactly this: Pixar being Pixar without the progressive footnotes.</p>
+            <a href="/reviews/inside-out-2-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/elemental-2023/">Elemental (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>Pixar's immigrant allegory about a fire-element girl and a water-element boy uses its elemental world-building to explore themes of family expectation, cultural identity, and intergenerational sacrifice. Elemental scores traditional because it treats parental sacrifice and family obligation with genuine respect rather than framing them as oppressive structures to escape. The immigrant parents are not villains to be overcome but people whose sacrifices deserve honor even when the next generation chooses a different path. A film that could have easily tipped woke but chose to honor its traditional themes instead.</p>
+            <a href="/reviews/elemental-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hoppers-2026/">Hoppers (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>Pixar's 2026 release scores traditional by the narrowest margin in this ranking. Hoppers is a time-travel adventure about a grandmother and granddaughter that treats intergenerational bonds with warmth and affection. The traditional lean comes from its respect for elder wisdom and family continuity. The reason the margin is only plus 2 is that the film also carries traces of the progressive framing that has characterized recent Pixar output. It is traditional, but barely, and future Pixar releases will determine whether this represents a genuine course correction or a temporary pause.</p>
+            <a href="/reviews/hoppers-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/lightyear-2022/">Lightyear (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>The Toy Story spin-off that prompted international boycotts and became one of Pixar's biggest commercial failures. Lightyear's woke score is driven by its inclusion of a same-sex relationship and kiss in a children's film, content that multiple countries banned and that many conservative parents consider inappropriate regardless of how briefly it appears on screen. Beyond that specific content, the film also restructures the Buzz Lightyear character in ways that diminish the heroic individualism that made the original character iconic. It grossed $226 million against a $200 million budget. The market delivered its verdict.</p>
+            <a href="/reviews/lightyear-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/toy-story-4-2019/">Toy Story 4 (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-9 WOKE</span>
+            </div>
+            <p>The inflection point. Toy Story 3 ended the franchise perfectly: Woody chose loyalty, Andy passed his toys to a new child, and the circle of purpose continued. Toy Story 4 dismantled that ending. Woody abandons his kid, leaves his community, and chooses individual self-actualization over duty and loyalty. The film reframes the entire Toy Story philosophy: purpose is no longer found in serving others but in liberating yourself from obligation. Bo Peep returns reimagined as an independent adventurer who has rejected the domestic role she previously embodied. The ideological shift is unmistakable, and it marks the exact moment Pixar's traditional identity fractured.</p>
+            <a href="/reviews/toy-story-4-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/turning-red-2022/">Turning Red (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-13 WOKE</span>
+            </div>
+            <p>The most woke Pixar film in the database and the clearest example of the studio's post-2019 trajectory. Turning Red is a coming-of-age story about a 13-year-old girl who transforms into a giant red panda when she experiences strong emotions, an obvious puberty metaphor that many parents found far too explicit for Pixar's core audience of young children. The film frames parental authority as the antagonist, treats cultural tradition as something to be selectively discarded, and resolves its conflict by having the protagonist reject her mother's values in favor of individual self-expression. Domee Shi directed with genuine craft and cultural specificity, which makes the ideological choices more effective and more concerning for conservative parents.</p>
+            <a href="/reviews/turning-red-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Pixar Verdict</h3>
+        <p>The data tells a clear story with a clear inflection point. Pre-2019 Pixar produced films that earned strong traditional scores: The Incredibles at plus 23, Soul at plus 18, Coco at plus 14. Post-2019 Pixar introduced ideological content that earned woke scores: Toy Story 4 at minus 9, Turning Red at minus 13, Lightyear at minus 4. The market noticed. Inside Out 2 grossed $1.7 billion by returning to traditional Pixar values. Lightyear and Turning Red underperformed commercially. The lesson is not subtle, and the box office numbers are not ambiguous. Parents who grew up trusting the Pixar brand should no longer press play automatically. Check the VirtueVigil score first. Browse all Pixar reviews and hundreds more at <a href="/reviews/">virtuevigil.com/reviews/</a>, or explore our complete <a href="/lists/">curated lists</a> for more family viewing guidance.</p>
       </div>
     </article>`
   }));
