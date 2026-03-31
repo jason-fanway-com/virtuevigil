@@ -97011,5 +97011,134 @@
       "metaDescription": "The Pitt Season 2 reviewed. VirtueVigil verdict: STRONGLY WOKE (-20). Emmy-winning medical drama uses its ER setting for gun control and anti-ICE advocacy. Full conservative viewer guide.",
       "keywords": "is the pitt woke, the pitt hbo woke review, the pitt season 2 review conservative, the pitt ice episode woke, the pitt gun control episode, noah wyle the pitt review, is the pitt worth watching conservative"
     }
+  },
+  {
+    "slug": "carry-on-2024",
+    "title": "Carry-On",
+    "year": 2024,
+    "genre": "Action / Thriller",
+    "director": "Jaume Collet-Serra",
+    "cast": [
+      "Taron Egerton",
+      "Jason Bateman",
+      "Sofia Carson",
+      "Danielle Deadwyler",
+      "Theo Rossi",
+      "Logan Marshall-Green"
+    ],
+    "datePublished": "2026-03-31",
+    "posterImage": "/images/posters/carry-on-2024.jpg",
+    "synopsis": "On Christmas Eve, TSA officer Ethan Kopek is blackmailed by a mysterious traveler who threatens to kill everyone he loves unless Ethan allows a dangerous package onto a packed passenger flight. Outgunned and alone, Ethan must outwit a ruthless terrorist operation using nothing but his wits and the training he has always wanted to put to real use. It is a contained thriller in the Die Hard mold, built around one man doing the right thing when it costs him everything.",
+    "wokeScore": 3.0,
+    "tradScore": 20.23,
+    "scoreMargin": "+17 TRAD",
+    "verdict": "TRADITIONAL",
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The film scores positive on the traditional side from start to finish. No bait-and-switch woke content appears late in the runtime. What you see in the trailer is what you get."
+    },
+    "tropes": [
+      {
+        "name": "Working-Class Hero",
+        "type": "trad",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "description": "Ethan Kopek is a TSA agent who wants to become a police officer. He is not a superhero or a billionaire. He is a guy doing a modest job with discipline and ambition. The film never mocks his aspiration. His competence is earned, not given.",
+        "weightedScore": 5.04
+      },
+      {
+        "name": "Protecting Family as Motivator",
+        "type": "trad",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "description": "The villain's leverage over Ethan is entirely personal. He threatens Ethan's pregnant girlfriend and his loved ones. Ethan's willingness to put himself through hell to protect his unborn child and partner is the emotional engine of the film.",
+        "weightedScore": 5.04
+      },
+      {
+        "name": "Christmas Setting as Moral Backdrop",
+        "type": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "description": "The film leans into Christmas without embarrassment. Decorations, carols, and the sanctity of the holiday add genuine stakes. The idea that families should be together safe on Christmas Day is treated as a universal good worth fighting for.",
+        "weightedScore": 2.1
+      },
+      {
+        "name": "Self-Sacrifice and Duty",
+        "type": "trad",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "description": "Ethan ultimately chooses the safety of 250 strangers on that plane over his own safety and comfort. He does not take the easy way out. The film frames this choice as the only morally serious one a man of character could make.",
+        "weightedScore": 2.8
+      },
+      {
+        "name": "Law Enforcement Portrayed Positively",
+        "type": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "description": "FBI agent Nora Parisi (Danielle Deadwyler) is competent, sharp, and treated as a genuine ally. The film does not portray law enforcement as bumbling or corrupt. The system is working; it is just being subverted by one very bad actor.",
+        "weightedScore": 2.1
+      },
+      {
+        "name": "Gender-Swapped Authority Figure",
+        "type": "woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "description": "The FBI lead is a woman. In the original story structure this role would historically default to a male agent. Danielle Deadwyler plays it well and the character is not preachy, but the casting choice reads as intentional optics rather than story necessity.",
+        "weightedScore": 1.0
+      },
+      {
+        "name": "Villain as Ideological Cipher",
+        "type": "woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "description": "Jason Bateman's mysterious villain has no clear political motive; the threat is loosely framed as general anti-government or corporate grievance. The ambiguity keeps the film from having a villain audiences can actually understand, which is a mild ideological cop-out.",
+        "weightedScore": 2.0
+      },
+      {
+        "name": "Fatherhood and New Life as Stakes",
+        "type": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "description": "The revelation that Ethan's girlfriend is pregnant sharpens his resolve. Protecting the next generation is literally what he is fighting for. The film treats the unborn child as a full, meaningful life worth defending without any hedging.",
+        "weightedScore": 2.1
+      },
+      {
+        "name": "Meritocratic Advancement",
+        "type": "trad",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Low",
+        "description": "Ethan wants to move up from TSA to police work. His drive comes from personal ambition and a genuine desire to serve. There is no suggestion that systemic barriers are holding him back. Hard work and competence are presented as the path forward.",
+        "weightedScore": 1.05
+      }
+    ],
+    "creative_team": {
+      "director_notes": "Jaume Collet-Serra (Jungle Cruise, Black Adam) is a journeyman genre director with no strong political track record. His films tend toward competent entertainment over message-making.",
+      "writer_notes": "T.J. Fixman has written primarily video game scripts (Ratchet and Clank series). This is his most prominent film credit. The screenplay is plot-forward with minimal ideological freight.",
+      "known_bias": "No documented ideological agenda from the principal creative team. Netflix as distributor trends progressive but did not visibly impose a message on this project."
+    },
+    "parental_guidance": {
+      "rating": "PG-13",
+      "violence": "Action violence throughout. Gunfights, threats, and physical confrontations. No gore but intensity is consistent.",
+      "language": "Moderate profanity. No extreme language.",
+      "sexual_content": "Minimal. A pregnant girlfriend is mentioned. No explicit content.",
+      "recommended_age": "13+"
+    },
+    "seoTitle": "Carry-On (2024) Review | VirtueVigil",
+    "metaDescription": "Carry-On is a Die Hard-style Netflix thriller that earns a TRADITIONAL verdict. A working-class hero protects family and country. Score: +15 TRAD.",
+    "reviewBody": "Netflix does not often deliver a film that feels this old-fashioned in the best sense. Carry-On is a Christmas Eve thriller in the Die Hard tradition: one man, one airport, an impossible situation, and the decision to do the right thing when everything is on the line.\n\nTaron Egerton plays Ethan Kopek, a TSA agent who wants to be a cop and works with quiet discipline at LAX. When a mysterious stranger (Jason Bateman, playing against type with cold menace) approaches him before his shift, the trap snaps shut fast. Let a package through security or watch your pregnant girlfriend die. The premise is clean and the film never complicates it with unnecessary subplots.\n\nWhat works here from a values standpoint is almost everything structural. Ethan is a working-class man with ambitions and a moral spine. The film does not sneer at his job or his aspiration to move up through law enforcement. It treats both as legitimate and worth respecting. When the pregnancy reveal lands, the stakes crystallize: he is fighting for his unborn child, his partner, and 250 strangers who have no idea what is happening above them.\n\nThe Christmas setting is not cosmetic. Director Jaume Collet-Serra and writer T.J. Fixman use it the way the best holiday thrillers do, as a reminder that families being together and safe is not a small thing. That is worth protecting. Ethan's final choice reinforces this directly.\n\nFBI agent Nora Parisi (Danielle Deadwyler) is the best kind of supporting character: sharp, credible, and not there to lecture anyone. She figures things out in real time and acts. Law enforcement in this film is competent and good-faith, which alone puts it above half the genre output of the last five years.\n\nThe film is not perfect. Bateman's villain is deliberately opaque about his motivations in a way that reads as ideological caution rather than genuine mystery. A clearer motive would have made the threat more coherent. And the gender casting of the FBI lead is a choice that feels more like optics than storytelling, though Deadwyler earns her scenes.\n\nBut these are minor complaints against a film that runs on genuine heroism, family stakes, and competence under pressure. Carry-On does what thrillers are supposed to do: it makes you care whether one man lives or dies, and it reminds you why protecting the people you love is worth any cost.\n\nThis is the rare Netflix action film you can watch with your family and recommend without reservations. Score: +17 TRAD.",
+    "summary": {
+      "overall": "Netflix does not often deliver a film that feels this old-fashioned in the best sense. Carry-On is a Christmas Eve thriller in the Die Hard tradition: one man, one airport, an impossible situation, and the decision to do the right thing when everything is on the line.\n\nTaron Egerton plays Ethan Kopek, a TSA agent who wants to be a cop and works with quiet discipline at LAX. When a mysterious stranger (Jason Bateman, playing against type with cold menace) approaches him before his shift, the trap snaps shut fast. Let a package through security or watch your pregnant girlfriend die. The premise is clean and the film never complicates it with unnecessary subplots.\n\nWhat works here from a values standpoint is almost everything structural. Ethan is a working-class man with ambitions and a moral spine. The film does not sneer at his job or his aspiration to move up through law enforcement. It treats both as legitimate and worth respecting. When the pregnancy reveal lands, the stakes crystallize: he is fighting for his unborn child, his partner, and 250 strangers who have no idea what is happening above them.\n\nThe Christmas setting is not cosmetic. Director Jaume Collet-Serra and writer T.J. Fixman use it the way the best holiday thrillers do, as a reminder that families being together and safe is not a small thing. That is worth protecting. Ethan's final choice reinforces this directly.\n\nFBI agent Nora Parisi (Danielle Deadwyler) is the best kind of supporting character: sharp, credible, and not there to lecture anyone. She figures things out in real time and acts. Law enforcement in this film is competent and good-faith, which alone puts it above half the genre output of the last five years.\n\nThe film is not perfect. Bateman's villain is deliberately opaque about his motivations in a way that reads as ideological caution rather than genuine mystery. A clearer motive would have made the threat more coherent. And the gender casting of the FBI lead is a choice that feels more like optics than storytelling, though Deadwyler earns her scenes.\n\nBut these are minor complaints against a film that runs on genuine heroism, family stakes, and competence under pressure. Carry-On does what thrillers are supposed to do: it makes you care whether one man lives or dies, and it reminds you why protecting the people you love is worth any cost.\n\nThis is the rare Netflix action film you can watch with your family and recommend without reservations. Score: +17 TRAD.",
+      "adultInsight": "Carry-On earns its traditional score through consistent heroism, family stakes, and respect for law enforcement. Ethan's choice to protect 250 strangers at personal cost is framed as the only morally serious option for a man of character. The film has zero political agenda and treats Christmas, family, and duty with genuine reverence.",
+      "parentalGuidance": "Rated PG-13. Action violence throughout including gunfights and physical confrontations. Moderate profanity. A pregnant girlfriend is a plot element but there is no explicit sexual content. Appropriate for teens 13 and older."
+    }
   }
 ]

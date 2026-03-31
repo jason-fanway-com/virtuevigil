@@ -5350,5 +5350,15 @@
     "wokeScore": 18.4,
     "tradScore": 11.2,
     "poster": "/images/posters/butterfly-dreams-2026.jpg"
+  },
+  {
+    "slug": "carry-on-2024",
+    "title": "Carry-On",
+    "verdict": "TRADITIONAL",
+    "genre": "Action / Thriller",
+    "year": 2024,
+    "wokeScore": 3,
+    "tradScore": 20.23,
+    "poster": null
   }
 ]
