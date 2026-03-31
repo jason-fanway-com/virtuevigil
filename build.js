@@ -1777,6 +1777,9 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/paramount-plus-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-2025/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/woke-horror-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/disney-plus-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -9097,6 +9100,9 @@ buildAdamSandlerListicle();
 buildWesAndersonListicle();
 buildAntiWokeActionMoviesListicle();
 buildAppleTvWokeRankingListicle();
+buildMostWokeMovies2025Listicle();
+buildWokeHorrorMovies2025Listicle();
+buildDisneyPlusWokeRankingListicle();
 
 module.exports = { buildListiclePage, writePage };
 
@@ -11184,5 +11190,684 @@ function buildAppleTvWokeRankingListicle() {
 <p>VirtueVigil scores every sci-fi film in its database using the same VVWS methodology applied to drama, thriller, and all other genres. <a href="/">Browse the full catalog</a> for the complete picture. New reviews publish weekly.</p>
 
 </article>`
+  }));
+}
+
+function buildMostWokeMovies2025Listicle() {
+  writePage('lists/most-woke-movies-2025/index.html', buildListiclePage({
+    slug: 'most-woke-movies-2025',
+    title: 'Most Woke Movies of 2025: Full Year Ranked by VirtueVigil',
+    description: '2025 was a watershed year for ideological content in mainstream film and television. Here are the 15 most woke films and shows of 2025, ranked by VirtueVigil\'s scoring system.',
+    canonicalPath: 'lists/most-woke-movies-2025',
+    publishDate: '2026-03-31',
+    htmlContent: `
+      <p>2025 was a watershed year for ideological content in mainstream film and television. From a Netflix sequel that scored the highest woke net in our database to a festival darling reframing parenthood as horror, the year pushed boundaries that previous years only approached. This list covers the 15 most ideologically progressive titles in VirtueVigil's 2025 review database. Not a quality ranking. A consumer protection list. If you are a conservative viewer trying to decide what to watch, you deserve to know what is coming before you press play.</p>
+      <p>Rankings are sorted by net woke score (Woke Score minus Traditional Score), highest to lowest. All scores are generated using the VirtueVigil Woke Score system.</p>
+
+      <hr>
+      <h2>#1 &mdash; <a href="/reviews/zootopia-2-2025/">Zootopia 2 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 91.0</span>
+        <span class="mini-score trad">TRAD: 53.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +38.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Netflix</p>
+      <p>The highest woke net in VirtueVigil's entire 2025 database. Raw scores of woke 91 and trad 53. This Netflix animated sequel operates at an ideological intensity that dwarfs anything else released in 2025. A net woke score of plus 38 is not an edge case. It is a statement.</p>
+      <p><a href="/reviews/zootopia-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#2 &mdash; <a href="/reviews/bugonia-2025/">Bugonia (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 28.94</span>
+        <span class="mini-score trad">TRAD: 8.48</span>
+        <span class="mini-score" style="color:#c44040;">NET: +20.46 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Streaming</p>
+      <p>Net woke plus 20.46. Horror genre packaging delivering progressive themes around identity, bodily autonomy, and systemic critique. The raw scores reflect a film that is not subtle about where it stands.</p>
+      <p><a href="/reviews/bugonia-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#3 &mdash; <a href="/reviews/clown-in-a-cornfield-2025/">Clown in a Cornfield (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 23.0</span>
+        <span class="mini-score trad">TRAD: 5.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +18.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Theatrical</p>
+      <p>Net woke plus 18. Inverts the traditional slasher formula: small-town traditionalism is monstrous, progressive outsiders are the moral center. A trad score of 5 confirms almost no counterweight to the progressive framing.</p>
+      <p><a href="/reviews/clown-in-a-cornfield-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#4 &mdash; <a href="/reviews/the-wedding-banquet-2025/">The Wedding Banquet (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 19.0</span>
+        <span class="mini-score trad">TRAD: 4.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +15.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Theatrical</p>
+      <p>Net woke plus 15. Trad score of only 4 offers almost no traditional counterweight. Queer identity and non-traditional family structures as the unambiguous moral center, with traditional family expectations framed consistently as the obstacle.</p>
+      <p><a href="/reviews/the-wedding-banquet-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#5 &mdash; <a href="/reviews/kpop-demon-hunters-2025/">KPop Demon Hunters (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 24.18</span>
+        <span class="mini-score trad">TRAD: 16.42</span>
+        <span class="mini-score" style="color:#c44040;">NET: +7.76 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Streaming</p>
+      <p>Net woke plus 7.76. Consistent identity and representation messaging woven through genre packaging. Ideological framing consistently points progressive.</p>
+      <p><a href="/reviews/kpop-demon-hunters-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#6 &mdash; <a href="/reviews/presence-2025/">Presence (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 18.1</span>
+        <span class="mini-score trad">TRAD: 8.5</span>
+        <span class="mini-score" style="color:#c44040;">NET: +9.6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Theatrical</p>
+      <p>Net woke plus 9.6. Uses its ghost story premise to explore themes of victimhood, complicity, and systemic harm.</p>
+      <p><a href="/reviews/presence-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#7 &mdash; <a href="/reviews/now-you-see-me-now-you-don-t/">Now You See Me: Now You Don't (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 18.0</span>
+        <span class="mini-score trad">TRAD: 7.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +11.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Theatrical</p>
+      <p>Net woke plus 11. Anti-establishment messaging inside heist mechanics. Has not softened its ideological position from previous entries.</p>
+      <p><a href="/reviews/now-you-see-me-now-you-don-t/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#8 &mdash; <a href="/reviews/adolescence-2025/">Adolescence (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 22.54</span>
+        <span class="mini-score trad">TRAD: 14.76</span>
+        <span class="mini-score" style="color:#c44040;">NET: +7.78 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Streaming</p>
+      <p>Net woke plus 7.78. Consistently attributes harmful youth behavior to systemic failures and online radicalization, with the implicit argument that conservative and traditionalist online spaces are the primary vector.</p>
+      <p><a href="/reviews/adolescence-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#9 &mdash; <a href="/reviews/avatar-fire-and-ash-2025/">Avatar: Fire and Ash (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">WOKE: 21.6</span>
+        <span class="mini-score trad">TRAD: 13.4</span>
+        <span class="mini-score" style="color:#c44040;">NET: +8.2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Theatrical</p>
+      <p>Net woke plus 8.2. Indigenous rights advocacy, anti-colonial messaging, and environmentalist themes as primary narrative drivers. Net woke plus 8.2 for the most expensive filmmaking enterprise in history is a deliberate choice.</p>
+      <p><a href="/reviews/avatar-fire-and-ash-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#10 &mdash; <a href="/reviews/the-ugly-stepsister-2025/">The Ugly Stepsister (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">WOKE: 18.12</span>
+        <span class="mini-score trad">TRAD: 11.24</span>
+        <span class="mini-score" style="color:#c44040;">NET: +6.88 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Streaming</p>
+      <p>Net woke plus 6.88. Body horror reimagining of Cinderella delivering feminist critique of beauty standards and patriarchal social structures.</p>
+      <p><a href="/reviews/the-ugly-stepsister-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#11 &mdash; <a href="/reviews/the-white-lotus-season-3-2025/">The White Lotus: Season 3 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">WOKE: 19.5</span>
+        <span class="mini-score trad">TRAD: 12.8</span>
+        <span class="mini-score" style="color:#c44040;">NET: +6.7 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> HBO</p>
+      <p>Net woke plus 6.7. Prestige television as class warfare satire, operating through irony and implication rather than direct messaging.</p>
+      <p><a href="/reviews/the-white-lotus-season-3-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#12 &mdash; <a href="/reviews/death-of-a-unicorn-2025/">Death of a Unicorn (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">WOKE: 16.9</span>
+        <span class="mini-score trad">TRAD: 12.3</span>
+        <span class="mini-score" style="color:#c44040;">NET: +4.6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Theatrical (A24)</p>
+      <p>Net woke plus 4.6. A24 fantasy horror using corporate exploitation as anti-capitalist messaging. A film worth watching with awareness of its framing.</p>
+      <p><a href="/reviews/death-of-a-unicorn-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#13 &mdash; <a href="/reviews/andor-s2/">Andor - Season 2 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">WOKE: 15.0</span>
+        <span class="mini-score trad">TRAD: 10.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +5.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Disney+</p>
+      <p>Net woke plus 5. The most ideologically self-aware Star Wars content Disney has produced. Operates explicitly as anti-fascist political fiction.</p>
+      <p><a href="/reviews/andor-s2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#14 &mdash; <a href="/reviews/g20-2025/">G20 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">WOKE: 14.46</span>
+        <span class="mini-score trad">TRAD: 7.6</span>
+        <span class="mini-score" style="color:#c44040;">NET: +6.86 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Streaming</p>
+      <p>Net woke plus 6.86. A female president action film with consistent progressive framing around female leadership, institutional corruption, and international power structures.</p>
+      <p><a href="/reviews/g20-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#15 &mdash; <a href="/reviews/captain-america-brave-new-world-2025/">Captain America: Brave New World (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">WOKE: 14.58</span>
+        <span class="mini-score trad">TRAD: 10.08</span>
+        <span class="mini-score" style="color:#c44040;">NET: +4.5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Net woke plus 4.5. Contemporary political themes packaged inside franchise mechanics. Exactly the kind of mixed signal that makes it harder for conservative viewers to calibrate without a resource like VirtueVigil.</p>
+      <p><a href="/reviews/captain-america-brave-new-world-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>What 2025 Tells Us About 2026</h2>
+      <p>The Zootopia 2 number (net woke plus 38) stands apart from everything else on this list. It redefines the ceiling. If an animated children's sequel can post those numbers, the question for 2026 is not whether the ceiling will be tested again, it is which film will do it.</p>
+      <p>The pattern in positions two through eight: horror and genre films as the primary delivery mechanism. Bugonia, Clown in a Cornfield, Presence, The Ugly Stepsister. The genre is the vehicle. The ideology is the cargo.</p>
+      <p>Full reviews for every film on this list are available at the links above. For the complete 2025 database, visit our <a href="/reviews/">reviews page</a> and filter by year.</p>
+      <p>Looking for the other side of 2025? See our companion list: <a href="/lists/best-traditional-movies-2025/">Most Traditional Movies of 2025.</a></p>
+    `
+  }));
+}
+
+function buildWokeHorrorMovies2025Listicle() {
+  writePage('lists/woke-horror-movies-2025/index.html', buildListiclePage({
+    slug: 'woke-horror-movies-2025',
+    title: 'Woke Horror Movies of 2025 Ranked: From Most to Least Ideological',
+    description: 'Every 2025 horror and thriller ranked by woke score. From Bugonia at the top to The Accountant 2 at the bottom. VirtueVigil\'s complete ideological ranking of the 2025 horror genre.',
+    canonicalPath: 'lists/woke-horror-movies-2025',
+    publishDate: '2026-03-31',
+    htmlContent: `
+      <p>The horror genre is Hollywood's most reliable ideological testing ground. It normalizes transgressive themes under the cover of darkness and jump scares. In 2025, horror brought us films about trans identity horror, feminist body autonomy metaphors, and queer coming-of-age wrapped in genre packaging. This list ranks every 2025 horror and thriller in VirtueVigil's database, from the most ideologically loaded to the clearest choice for traditional viewers.</p>
+      <p>Rankings are sorted by net woke score (Woke Score minus Traditional Score), highest to lowest. Positive numbers indicate woke lean. Negative numbers indicate traditional lean.</p>
+
+      <hr>
+      <h2>#1 &mdash; <a href="/reviews/bugonia-2025/">Bugonia (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 28.94</span><span class="mini-score trad">TRAD: 8.48</span><span class="mini-score" style="color:#c44040;">NET: +20.46 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>The most ideologically loaded horror film of 2025 by net score. Net woke plus 20.46. Genre mechanics as a delivery system for progressive themes around identity, bodily autonomy, and systemic power.</p>
+      <p><a href="/reviews/bugonia-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#2 &mdash; <a href="/reviews/clown-in-a-cornfield-2025/">Clown in a Cornfield (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 23.0</span><span class="mini-score trad">TRAD: 5.0</span><span class="mini-score" style="color:#c44040;">NET: +18.0 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net woke plus 18. Small-town traditionalism is the monster, progressive outsiders are the moral center. Conservative viewers are the explicit antagonists of this film's worldview.</p>
+      <p><a href="/reviews/clown-in-a-cornfield-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#3 &mdash; <a href="/reviews/now-you-see-me-now-you-don-t/">Now You See Me: Now You Don't (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 18.0</span><span class="mini-score trad">TRAD: 7.0</span><span class="mini-score" style="color:#c44040;">NET: +11.0 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net woke plus 11. Anti-establishment messaging inside heist mechanics.</p>
+      <p><a href="/reviews/now-you-see-me-now-you-don-t/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#4 &mdash; <a href="/reviews/presence-2025/">Presence (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 18.1</span><span class="mini-score trad">TRAD: 8.5</span><span class="mini-score" style="color:#c44040;">NET: +9.6 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net woke plus 9.6. Ghost story framing victimhood, complicity, and systemic harm.</p>
+      <p><a href="/reviews/presence-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#5 &mdash; <a href="/reviews/the-ugly-stepsister-2025/">The Ugly Stepsister (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">WOKE</span><span class="mini-score woke">WOKE: 18.12</span><span class="mini-score trad">TRAD: 11.24</span><span class="mini-score" style="color:#c44040;">NET: +6.88 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net woke plus 6.88. Body horror Cinderella reimagining delivering feminist critique of beauty standards and patriarchal social structures.</p>
+      <p><a href="/reviews/the-ugly-stepsister-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#6 &mdash; <a href="/reviews/g20-2025/">G20 (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">WOKE</span><span class="mini-score woke">WOKE: 14.46</span><span class="mini-score trad">TRAD: 7.6</span><span class="mini-score" style="color:#c44040;">NET: +6.86 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net woke plus 6.86. Female president action thriller with progressive messaging around female leadership and institutional corruption.</p>
+      <p><a href="/reviews/g20-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#7 &mdash; <a href="/reviews/death-of-a-unicorn-2025/">Death of a Unicorn (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">WOKE</span><span class="mini-score woke">WOKE: 16.9</span><span class="mini-score trad">TRAD: 12.3</span><span class="mini-score" style="color:#c44040;">NET: +4.6 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Fantasy (A24)</p>
+      <p>Net woke plus 4.6. Corporate exploitation of a mythological creature as anti-capitalist messaging.</p>
+      <p><a href="/reviews/death-of-a-unicorn-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#8 &mdash; <a href="/reviews/captain-america-brave-new-world-2025/">Captain America: Brave New World (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 14.58</span><span class="mini-score trad">TRAD: 10.08</span><span class="mini-score" style="color:#c44040;">NET: +4.5 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net woke plus 4.5. Contemporary political themes inside franchise mechanics. Mixed signal for conservative viewers.</p>
+      <p><a href="/reviews/captain-america-brave-new-world-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#9 &mdash; <a href="/reviews/it-was-just-an-accident-2025/">It Was Just an Accident (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 16.59</span><span class="mini-score trad">TRAD: 13.02</span><span class="mini-score" style="color:#c44040;">NET: +3.57 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net woke plus 3.57. High raw scores on both sides. Net lean is modest but consistent.</p>
+      <p><a href="/reviews/it-was-just-an-accident-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#10 &mdash; <a href="/reviews/the-housemaid-2025/">The Housemaid (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 8.0</span><span class="mini-score trad">TRAD: 5.0</span><span class="mini-score" style="color:#c44040;">NET: +3.0 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net woke plus 3. Modest ideological lean in a thriller about class and exploitation.</p>
+      <p><a href="/reviews/the-housemaid-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#11 &mdash; <a href="/reviews/chainsaw-man-reze-arc-2025/">Chainsaw Man - The Movie: Reze Arc (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 13.1</span><span class="mini-score trad">TRAD: 11.76</span><span class="mini-score" style="color:#c44040;">NET: +1.34 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Horror</p>
+      <p>Net woke plus 1.34. Essentially neutral. Anime horror bringing its source material's moral ambiguity intact.</p>
+      <p><a href="/reviews/chainsaw-man-reze-arc-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#12 &mdash; <a href="/reviews/yellowjackets/">Yellowjackets (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 8.0</span><span class="mini-score trad">TRAD: 6.0</span><span class="mini-score" style="color:#c44040;">NET: +2.0 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller (Showtime)</p>
+      <p>Net woke plus 2. Mild lean within prestige survival thriller.</p>
+      <p><a href="/reviews/yellowjackets/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#13 &mdash; <a href="/reviews/28-years-later-2025/">28 Years Later (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRAD LEAN</span><span class="mini-score woke">WOKE: 11.94</span><span class="mini-score trad">TRAD: 12.46</span><span class="mini-score" style="color:#2d6a2d;">NET: +0.52 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 0.52. Essentially neutral. Danny Boyle's long-awaited sequel is ideologically balanced. A safe recommendation for traditional horror fans.</p>
+      <p><a href="/reviews/28-years-later-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#14 &mdash; <a href="/reviews/m3gan-2-0-2025/">M3GAN 2.0 (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRAD LEAN</span><span class="mini-score woke">WOKE: 8.92</span><span class="mini-score trad">TRAD: 10.82</span><span class="mini-score" style="color:#2d6a2d;">NET: +1.9 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Sci-Fi</p>
+      <p>Net trad plus 1.9. Messaging about the dangers of AI and over-reliance on technology as a parenting substitute.</p>
+      <p><a href="/reviews/m3gan-2-0-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#15 &mdash; <a href="/reviews/sinners-2025/">Sinners (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 15.0</span><span class="mini-score trad">TRAD: 19.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +4.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 4. Ryan Coogler's vampire horror set in 1930s Mississippi. Strong family, community bonds, and heroic resistance narrative. A notable exception in the 2025 woke-leaning horror landscape.</p>
+      <p><a href="/reviews/sinners-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#16 &mdash; <a href="/reviews/the-secret-agent-2025/">The Secret Agent (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 17.0</span><span class="mini-score trad">TRAD: 18.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +1.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net trad plus 1. Nearly neutral. High raw scores on both sides indicate a densely ideological text in both directions.</p>
+      <p><a href="/reviews/the-secret-agent-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#17 &mdash; <a href="/reviews/bring-her-back-2025/">Bring Her Back (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 8.54</span><span class="mini-score trad">TRAD: 10.92</span><span class="mini-score" style="color:#2d6a2d;">NET: +2.38 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 2.38. Themes of accepting loss and respecting the natural order.</p>
+      <p><a href="/reviews/bring-her-back-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#18 &mdash; <a href="/reviews/primate-2025/">Primate (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 10.0</span><span class="mini-score trad">TRAD: 12.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +2.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 2. Survival mechanics and natural order themes. Acceptable viewing for traditional audiences.</p>
+      <p><a href="/reviews/primate-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#19 &mdash; <a href="/reviews/hurry-up-tomorrow/">Hurry Up Tomorrow (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 4.0</span><span class="mini-score trad">TRAD: 5.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +1.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net trad plus 1. Low raw scores on both sides. Minimal ideological freight in either direction.</p>
+      <p><a href="/reviews/hurry-up-tomorrow/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#20 &mdash; <a href="/reviews/five-nights-at-freddys-2-2025/">Five Nights at Freddy's 2 (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 3.0</span><span class="mini-score trad">TRAD: 8.19</span><span class="mini-score" style="color:#2d6a2d;">NET: +5.19 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 5.19. Family-centered horror. Traditional themes of protecting children and family loyalty.</p>
+      <p><a href="/reviews/five-nights-at-freddys-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#21 &mdash; <a href="/reviews/drop-2025/">Drop (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 5.6</span><span class="mini-score trad">TRAD: 10.5</span><span class="mini-score" style="color:#2d6a2d;">NET: +4.9 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net trad plus 4.9. Conventional genre mechanics and protective family themes. A reliable choice for conservative audiences.</p>
+      <p><a href="/reviews/drop-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#22 &mdash; <a href="/reviews/the-monkey-2025/">The Monkey (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 14.0</span><span class="mini-score trad">TRAD: 22.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +8.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 8. Stephen King adaptation. Family bonds, confronting inherited evil, and personal responsibility. Strongly recommended.</p>
+      <p><a href="/reviews/the-monkey-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#23 &mdash; <a href="/reviews/nobody-2-2025/">Nobody 2 (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 8.96</span><span class="mini-score trad">TRAD: 15.12</span><span class="mini-score" style="color:#2d6a2d;">NET: +6.16 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net trad plus 6.16. Protecting family, masculine competence. A solid recommendation for conservative action-thriller fans.</p>
+      <p><a href="/reviews/nobody-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#24 &mdash; <a href="/reviews/heart-eyes-2025/">Heart Eyes (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 5.45</span><span class="mini-score trad">TRAD: 12.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +6.55 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Romance</p>
+      <p>Net trad plus 6.55. Valentine's Day horror with romantic and protective love themes.</p>
+      <p><a href="/reviews/heart-eyes-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#25 &mdash; <a href="/reviews/ballerina-2025/">From the World of John Wick: Ballerina (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 11.28</span><span class="mini-score trad">TRAD: 18.76</span><span class="mini-score" style="color:#2d6a2d;">NET: +7.48 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net trad plus 7.48. John Wick spinoff. Revenge, loyalty, and lethal competence themes.</p>
+      <p><a href="/reviews/ballerina-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#26 &mdash; <a href="/reviews/anaconda-2025/">Anaconda (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 4.4</span><span class="mini-score trad">TRAD: 12.18</span><span class="mini-score" style="color:#2d6a2d;">NET: +7.78 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Horror</p>
+      <p>Net trad plus 7.78. Low woke content. A clean recommendation for conservative audiences.</p>
+      <p><a href="/reviews/anaconda-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#27 &mdash; <a href="/reviews/the-conjuring-last-rites-2025/">The Conjuring: Last Rites (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 2.0</span><span class="mini-score trad">TRAD: 10.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +8.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 8. Faith, family protection, and the battle between good and evil in explicitly Catholic terms. Nearly woke-free. A top recommendation.</p>
+      <p><a href="/reviews/the-conjuring-last-rites-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#28 &mdash; <a href="/reviews/black-phone-2-2025/">The Black Phone 2 (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 2.0</span><span class="mini-score trad">TRAD: 10.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +8.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 8. Childhood resilience, brotherly protection, overcoming predatory evil. Very low woke content. A recommended entry for conservative audiences.</p>
+      <p><a href="/reviews/black-phone-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#29 &mdash; <a href="/reviews/the-gorge-2025/">The Gorge (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 4.2</span><span class="mini-score trad">TRAD: 12.25</span><span class="mini-score" style="color:#2d6a2d;">NET: +8.05 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller (Apple TV+)</p>
+      <p>Net trad plus 8.05. Romance-action thriller with strong traditional content in love story, duty, and heroic sacrifice elements.</p>
+      <p><a href="/reviews/the-gorge-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#30 &mdash; <a href="/reviews/havoc-2025/">Havoc (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 8.4</span><span class="mini-score trad">TRAD: 17.22</span><span class="mini-score" style="color:#2d6a2d;">NET: +8.82 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller (Netflix)</p>
+      <p>Net trad plus 8.82. Tom Hardy. Masculine competence, redemption, and protection themes.</p>
+      <p><a href="/reviews/havoc-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#31 &mdash; <a href="/reviews/flight-risk-2025/">Flight Risk (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 2.1</span><span class="mini-score trad">TRAD: 10.99</span><span class="mini-score" style="color:#2d6a2d;">NET: +8.89 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net trad plus 8.89. Mel Gibson action-thriller with very low woke content. Law enforcement competence and protective instincts. A highly recommended choice for traditional thriller fans.</p>
+      <p><a href="/reviews/flight-risk-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#32 &mdash; <a href="/reviews/dracula/">Dracula: A Love Tale (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 3.0</span><span class="mini-score trad">TRAD: 12.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +9.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Romance</p>
+      <p>Net trad plus 9. Gothic framework, romantic loyalty themes. Very low woke content.</p>
+      <p><a href="/reviews/dracula/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#33 &mdash; <a href="/reviews/together-2025/">Together (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 7.0</span><span class="mini-score trad">TRAD: 16.0</span><span class="mini-score" style="color:#2d6a2d;">NET: +9.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 9. Marriage, commitment, and facing adversity together. A solid recommendation for traditional horror audiences.</p>
+      <p><a href="/reviews/together-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#34 &mdash; <a href="/reviews/wolf-man-2025/">Wolf Man (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 9.8</span><span class="mini-score trad">TRAD: 18.9</span><span class="mini-score" style="color:#2d6a2d;">NET: +9.1 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 9.1. Family protection and paternal sacrifice themes. A recommended choice for traditional audiences who can handle intense creature horror.</p>
+      <p><a href="/reviews/wolf-man-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#35 &mdash; <a href="/reviews/the-amateur-2025/">The Amateur (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 4.9</span><span class="mini-score trad">TRAD: 14.62</span><span class="mini-score" style="color:#2d6a2d;">NET: +9.72 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net trad plus 9.72. Loyalty, love, and retributive justice themes. Low woke score.</p>
+      <p><a href="/reviews/the-amateur-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#36 &mdash; <a href="/reviews/until-dawn-2025/">Until Dawn (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 2.2</span><span class="mini-score trad">TRAD: 12.2</span><span class="mini-score" style="color:#2d6a2d;">NET: +10.0 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Net trad plus 10. Video game adaptation with survival horror mechanics and consequences-of-choices framework. Very low woke content. A top-tier recommendation.</p>
+      <p><a href="/reviews/until-dawn-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#37 &mdash; <a href="/reviews/alto-knights-2025/">The Alto Knights (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 2.1</span><span class="mini-score trad">TRAD: 13.58</span><span class="mini-score" style="color:#2d6a2d;">NET: +11.48 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime/Thriller</p>
+      <p>Net trad plus 11.48. Loyalty, honor, and old-world code themes. Very low woke content.</p>
+      <p><a href="/reviews/alto-knights-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#38 &mdash; <a href="/reviews/black-bag-2025/">Black Bag (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 5.94</span><span class="mini-score trad">TRAD: 18.75</span><span class="mini-score" style="color:#2d6a2d;">NET: +12.81 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net trad plus 12.81. Soderbergh spy thriller. Marital loyalty and professional integrity. Low woke content.</p>
+      <p><a href="/reviews/black-bag-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#39 &mdash; <a href="/reviews/weapons-2025/">Weapons (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 6.2</span><span class="mini-score trad">TRAD: 22.04</span><span class="mini-score" style="color:#2d6a2d;">NET: +15.84 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller</p>
+      <p>Net trad plus 15.84. Community, protection, and small-town themes. A highly recommended choice for conservative audiences.</p>
+      <p><a href="/reviews/weapons-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#40 &mdash; <a href="/reviews/a-working-man-2025/">A Working Man (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">STRONGLY TRAD</span><span class="mini-score woke">WOKE: 1.0</span><span class="mini-score trad">TRAD: 17.36</span><span class="mini-score" style="color:#2d6a2d;">NET: +16.36 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net trad plus 16.36. Jason Statham. Woke score of 1. Masculine competence, child protection, and justice themes. A top recommendation.</p>
+      <p><a href="/reviews/a-working-man-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#41 &mdash; <a href="/reviews/mission-impossible-final-reckoning-2025/">Mission: Impossible - The Final Reckoning (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">STRONGLY TRAD</span><span class="mini-score woke">WOKE: 1.1</span><span class="mini-score trad">TRAD: 21.4</span><span class="mini-score" style="color:#2d6a2d;">NET: +20.3 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net trad plus 20.3. Near-zero woke content. Self-sacrifice, institutional loyalty, and defense of freedom from totalitarian AI threat. A top recommendation.</p>
+      <p><a href="/reviews/mission-impossible-final-reckoning-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#42 &mdash; <a href="/reviews/last-breath-2025/">Last Breath (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">STRONGLY TRAD</span><span class="mini-score woke">WOKE: 3.4</span><span class="mini-score trad">TRAD: 24.29</span><span class="mini-score" style="color:#2d6a2d;">NET: +20.89 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net trad plus 20.89. Very low woke content. Brotherhood, sacrifice, and perseverance. One of the most traditionally-leaning films of 2025. Strongly recommended.</p>
+      <p><a href="/reviews/last-breath-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#43 &mdash; <a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">STRONGLY TRAD</span><span class="mini-score woke">WOKE: 4.2</span><span class="mini-score trad">TRAD: 26.46</span><span class="mini-score" style="color:#2d6a2d;">NET: +22.26 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller</p>
+      <p>Net trad plus 22.26. The highest traditional net on this list. Family loyalty, protecting the vulnerable, and justice themes. Woke score of 4.2. The top recommendation for conservative action-thriller audiences.</p>
+      <p><a href="/reviews/the-accountant-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>Reading This List</h2>
+      <p>The top tier (Bugonia through G20) represents horror as ideological delivery system. The bottom half (The Conjuring through The Accountant 2) represents horror and thriller filmmaking where the genre's traditional strengths are still allowed to function as intended. These are the films worth seeking out.</p>
+      <p>Full reviews for every title are available at the links above. For the complete VirtueVigil horror database, visit our <a href="/category/horror/">horror category</a> and <a href="/category/thriller/">thriller category</a>.</p>
+    `
+  }));
+}
+
+function buildDisneyPlusWokeRankingListicle() {
+  writePage('lists/disney-plus-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'disney-plus-movies-woke-ranking',
+    title: 'Every Disney+ Movie Ranked by Woke Score',
+    description: 'Every Disney+ title in VirtueVigil\'s database ranked by net woke score. From Strange World at the top to Spider-Man: No Way Home at the bottom. The complete parent\'s guide to Disney+ ideology.',
+    canonicalPath: 'lists/disney-plus-movies-woke-ranking',
+    publishDate: '2026-03-31',
+    htmlContent: `
+      <p>Disney+ is the most politically contentious streaming platform in America right now. When parents search for what to watch with their kids, Disney+ sits in an awkward middle ground between beloved classics and new releases that have sparked national debates. This list ranks every Disney+ title in VirtueVigil's database by net woke score. Decide for yourself what that means for your family's watch list.</p>
+      <p>Rankings are sorted by net woke score (Woke Score minus Traditional Score), highest to lowest. Positive numbers indicate woke lean. Negative numbers indicate traditional lean.</p>
+
+      <hr>
+      <h2>#1 &mdash; <a href="/reviews/strange-world-2022/">Strange World (2022)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 27.5</span><span class="mini-score trad">TRAD: 12.32</span><span class="mini-score" style="color:#c44040;">NET: +15.18 WOKE</span></div>
+      <p>The most ideologically concentrated Disney+ title in VirtueVigil's database by net score. Features Disney's first openly gay teen protagonist. Net woke plus 15.18. A deliberate statement. Notable box office disappointment; its ideological content is widely cited as a contributing factor among conservative family audiences who opted out.</p>
+      <p><a href="/reviews/strange-world-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#2 &mdash; <a href="/reviews/turning-red-2022/">Turning Red (2022)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 17.85</span><span class="mini-score trad">TRAD: 4.55</span><span class="mini-score" style="color:#c44040;">NET: +13.3 WOKE</span></div>
+      <p>Net woke plus 13.3. Trad score of 4.55 reflects almost no traditional counterweight. Frames coming-of-age as a rejection of parental control and traditional family expectations. One of the most explicit ideological statements in Pixar's catalog.</p>
+      <p><a href="/reviews/turning-red-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#3 &mdash; <a href="/reviews/zootopia-2016/">Zootopia (2016)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 21.48</span><span class="mini-score trad">TRAD: 12.32</span><span class="mini-score" style="color:#c44040;">NET: +9.16 WOKE</span></div>
+      <p>Net woke plus 9.16. Built its entire narrative around a systemic racism allegory presented to children as universal truth. Well-made animation. Fully intentional ideology.</p>
+      <p><a href="/reviews/zootopia-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#4 &mdash; <a href="/reviews/wish-2023/">Wish (2023)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">WOKE</span><span class="mini-score woke">WOKE: 17.45</span><span class="mini-score trad">TRAD: 11.9</span><span class="mini-score" style="color:#c44040;">NET: +5.55 WOKE</span></div>
+      <p>Net woke plus 5.55. Individual empowerment against institutional control. Consistent with Disney's newer tradition of positioning traditional power structures as the obstacle to authentic self-expression.</p>
+      <p><a href="/reviews/wish-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#5 &mdash; <a href="/reviews/mulan-2020/">Mulan (2020)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 20.78</span><span class="mini-score trad">TRAD: 17.64</span><span class="mini-score" style="color:#c44040;">NET: +3.14 WOKE</span></div>
+      <p>Net woke plus 3.14. High raw scores on both sides. The traditional score comes from Chinese cultural setting and honor-based values. The woke score comes from feminist framing and Western progressive lens applied to a traditional story. Also notable for its production amid Xinjiang controversy.</p>
+      <p><a href="/reviews/mulan-2020/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#6 &mdash; <a href="/reviews/andor-s2/">Andor - Season 2 (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">WOKE</span><span class="mini-score woke">WOKE: 15.0</span><span class="mini-score trad">TRAD: 10.0</span><span class="mini-score" style="color:#c44040;">NET: +5.0 WOKE</span></div>
+      <p>Net woke plus 5. The most ideologically self-aware Star Wars content on the platform. Operates explicitly as anti-fascist political fiction.</p>
+      <p><a href="/reviews/andor-s2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#7 &mdash; <a href="/reviews/black-widow-2021/">Black Widow (2021)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">WOKE</span><span class="mini-score woke">WOKE: 16.95</span><span class="mini-score trad">TRAD: 12.13</span><span class="mini-score" style="color:#c44040;">NET: +4.82 WOKE</span></div>
+      <p>Net woke plus 4.82. Feminist critique of exploitation, female objectification in intelligence work, and patriarchal institutional control.</p>
+      <p><a href="/reviews/black-widow-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#8 &mdash; <a href="/reviews/deadpool-wolverine-2024/">Deadpool &amp; Wolverine (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 11.0</span><span class="mini-score trad">TRAD: 8.0</span><span class="mini-score" style="color:#c44040;">NET: +3.0 WOKE</span></div>
+      <p>Net woke plus 3. Mild ideological lean in a film primarily designed as entertainment spectacle. Accessible for conservative viewers who can handle R-rated content and meta-humor.</p>
+      <p><a href="/reviews/deadpool-wolverine-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#9 &mdash; <a href="/reviews/cruella-2021/">Cruella (2021)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 14.0</span><span class="mini-score trad">TRAD: 12.0</span><span class="mini-score" style="color:#c44040;">NET: +2.0 WOKE</span></div>
+      <p>Net woke plus 2. Nearly neutral. Largely succeeds as entertainment while carrying modest ideological freight.</p>
+      <p><a href="/reviews/cruella-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#10 &mdash; <a href="/reviews/amsterdam-2022/">Amsterdam (2022)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 10.49</span><span class="mini-score trad">TRAD: 9.24</span><span class="mini-score" style="color:#c44040;">NET: +1.25 WOKE</span></div>
+      <p>Net woke plus 1.25. Essentially neutral. The anti-fascist historical allegory sits alongside genuine friendship and loyalty themes.</p>
+      <p><a href="/reviews/amsterdam-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#11 &mdash; <a href="/reviews/predator-badlands/">Predator: Badlands (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">WOKE</span><span class="mini-score woke">WOKE: 9.0</span><span class="mini-score trad">TRAD: 5.0</span><span class="mini-score" style="color:#c44040;">NET: +4.0 WOKE</span></div>
+      <p>Net woke plus 4. Predator franchise entry with moderate woke lean. Notable lean for an action franchise that traditionally attracted conservative audiences.</p>
+      <p><a href="/reviews/predator-badlands/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#12 &mdash; <a href="/reviews/kingdom-of-the-planet-of-the-apes-2024/">Kingdom of the Planet of the Apes (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRAD LEAN</span><span class="mini-score woke">WOKE: 12.6</span><span class="mini-score trad">TRAD: 14.2</span><span class="mini-score" style="color:#2d6a2d;">NET: +1.6 TRAD</span></div>
+      <p>Net trad plus 1.6. Nearly neutral. Survival, leadership, and community protection themes balance the progressive oppressor-oppressed framing. A reasonable recommendation for conservative sci-fi fans.</p>
+      <p><a href="/reviews/kingdom-of-the-planet-of-the-apes-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#13 &mdash; <a href="/reviews/the-menu-2022/">The Menu (2022)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 9.3</span><span class="mini-score trad">TRAD: 9.66</span><span class="mini-score" style="color:#2d6a2d;">NET: +0.36 TRAD</span></div>
+      <p>Net trad plus 0.36. Essentially neutral. Dark satire where the valorization of authentic, simple pleasures over elite pretension generates some traditional content. A genuinely balanced ideological profile.</p>
+      <p><a href="/reviews/the-menu-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#14 &mdash; <a href="/reviews/thunderbolts-2025/">Thunderbolts* (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRAD LEAN</span><span class="mini-score woke">WOKE: 11.08</span><span class="mini-score trad">TRAD: 12.94</span><span class="mini-score" style="color:#2d6a2d;">NET: +1.86 TRAD</span></div>
+      <p>Net trad plus 1.86. Slight traditional lean. Redemption, trauma recovery, and finding purpose through community. A mild positive recommendation for conservative MCU fans.</p>
+      <p><a href="/reviews/thunderbolts-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#15 &mdash; <a href="/reviews/freakier-friday-2025/">Freakier Friday (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 9.68</span><span class="mini-score trad">TRAD: 15.95</span><span class="mini-score" style="color:#2d6a2d;">NET: +6.27 TRAD</span></div>
+      <p>Net trad plus 6.27. Mother-daughter relationship and family reconciliation themes. A family-friendly recommendation for conservative viewers with some caveats on the updated content.</p>
+      <p><a href="/reviews/freakier-friday-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#16 &mdash; <a href="/reviews/lilo-and-stitch-2025/">Lilo &amp; Stitch (2025)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 5.6</span><span class="mini-score trad">TRAD: 13.1</span><span class="mini-score" style="color:#2d6a2d;">NET: +7.5 TRAD</span></div>
+      <p>Net trad plus 7.5. Retains ohana (family), sisterly love, and the value of belonging. Low woke content. One of the more traditionally-aligned Disney+ releases of 2025. A solid recommendation for families.</p>
+      <p><a href="/reviews/lilo-and-stitch-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#17 &mdash; <a href="/reviews/elemental-2023/">Elemental (2023)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 12.2</span><span class="mini-score trad">TRAD: 19.74</span><span class="mini-score" style="color:#2d6a2d;">NET: +7.54 TRAD</span></div>
+      <p>Net trad plus 7.54. Despite its immigrant allegory framing, earns solid traditional lean through family sacrifice, work ethic, honoring parents, and intergenerational obligation. One of the more traditionally-grounded Pixar films of recent years.</p>
+      <p><a href="/reviews/elemental-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#18 &mdash; <a href="/reviews/free-guy-2021/">Free Guy (2021)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 4.4</span><span class="mini-score trad">TRAD: 12.39</span><span class="mini-score" style="color:#2d6a2d;">NET: +7.99 TRAD</span></div>
+      <p>Net trad plus 7.99. Authenticity, genuine human connection, and the value of real-world relationships over virtual escape. Low woke content. A clean recommendation for conservative families.</p>
+      <p><a href="/reviews/free-guy-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#19 &mdash; <a href="/reviews/encanto-2021/">Encanto (2021)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 8.68</span><span class="mini-score trad">TRAD: 18.27</span><span class="mini-score" style="color:#2d6a2d;">NET: +9.59 TRAD</span></div>
+      <p>Net trad plus 9.59. Family heritage, cultural identity, and intergenerational legacy. The film's resolution centers on healing family relationships rather than rejecting them. A positive recommendation for conservative families.</p>
+      <p><a href="/reviews/encanto-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#20 &mdash; <a href="/reviews/greatest-showman-2017/">The Greatest Showman (2017)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">TRADITIONAL</span><span class="mini-score woke">WOKE: 7.28</span><span class="mini-score trad">TRAD: 20.58</span><span class="mini-score" style="color:#2d6a2d;">NET: +13.3 TRAD</span></div>
+      <p>Net trad plus 13.3. Ambition, family sacrifice, redemption, and celebration of individual difference within a community framework. One of the more traditionally-aligned Disney+ titles in the musical genre.</p>
+      <p><a href="/reviews/greatest-showman-2017/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#21 &mdash; <a href="/reviews/coco-2017/">Coco (2017)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">STRONGLY TRAD</span><span class="mini-score woke">WOKE: 4.0</span><span class="mini-score trad">TRAD: 18.34</span><span class="mini-score" style="color:#2d6a2d;">NET: +14.34 TRAD</span></div>
+      <p>Net trad plus 14.34. One of Pixar's most traditionally-grounded films. Celebration of family legacy, ancestral memory, and bonds between the living and the dead. Very low woke score of 4. A top recommendation for conservative families.</p>
+      <p><a href="/reviews/coco-2017/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#22 &mdash; <a href="/reviews/soul-2020/">Soul (2020)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">STRONGLY TRAD</span><span class="mini-score woke">WOKE: 3.2</span><span class="mini-score trad">TRAD: 21.14</span><span class="mini-score" style="color:#2d6a2d;">NET: +17.94 TRAD</span></div>
+      <p>Net trad plus 17.94. Exceptional traditional score with very low woke content. Meditation on purpose, vocation, presence, and gratitude for ordinary life. The film argues against chasing abstract dreams at the expense of living fully in the present. One of the most traditionally-aligned films on the entire platform.</p>
+      <p><a href="/reviews/soul-2020/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#23 &mdash; <a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home (2021)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad">STRONGLY TRAD</span><span class="mini-score woke">WOKE: 3.5</span><span class="mini-score trad">TRAD: 22.05</span><span class="mini-score" style="color:#2d6a2d;">NET: +18.55 TRAD</span></div>
+      <p>Net trad plus 18.55. The highest traditional net on this list. Sacrifice, personal responsibility, mentorship, redemption, and the cost of power themes. Very low woke content at 3.5. The top recommendation on this list for conservative families and action fans.</p>
+      <p><a href="/reviews/spider-man-no-way-home-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>The Disney+ Verdict for Conservative Parents</h2>
+      <p>The split is stark. The top five entries (Strange World through Wish) represent Disney's deliberate push into explicitly progressive family content. Strange World at plus 15.18 and Turning Red at plus 13.3 are not films that accidentally contain progressive elements. They are films built around progressive arguments delivered to children.</p>
+      <p>The bottom half tells a different story. Soul, Coco, Spider-Man: No Way Home, and The Greatest Showman represent the platform's strongest traditionally-aligned content. These films deliver messages about family, sacrifice, heritage, and purpose that resonate with conservative values.</p>
+      <p>Full reviews for every title are available at the links above. Visit our <a href="/reviews/">reviews page</a> and filter by platform for the complete and current database.</p>
+    `
   }));
 }
