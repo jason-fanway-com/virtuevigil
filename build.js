@@ -1769,6 +1769,8 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-action-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/hbo-max-shows-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/comedy-movies-woke-ranking-2024/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -9610,6 +9612,388 @@ function buildAppleTvWokeRankingListicle() {
         <p>The Traditional Scores are VirtueVigil's measurement of how much faith-positive and values-positive content is present in each film relative to the film's runtime. The Woke Scores measure the inverse. The gap between them tells you whether a filmmaker believes the story they are telling, or whether they are delivering it reluctantly while winking at the camera.</p>
 
         <p>These nine films do not wink. They believe. And audiences have responded by showing up, staying loyal, and building a market that Hollywood can no longer ignore. For more faith-centered content recommendations, browse our full <a href="/reviews/">review database</a> and filter by Traditional Score. Every film is scored using the same methodology so you can trust the numbers. Find more traditional picks on our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a> list, or explore the opposite end of the spectrum with <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a>.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/best-traditional-movies-2025/index.html', buildListiclePage({
+    slug: 'best-traditional-movies-2025',
+    title: '10 Best Movies of 2025 for Traditional Families',
+    description: 'VirtueVigil ranks the 10 best movies of 2025 for traditional families by net traditional margin. Every film scored, analyzed, and verified using the VirtueVigil Woke-Watch Scoring System.',
+    canonicalPath: 'lists/best-traditional-movies-2025',
+    publishDate: '2026-03-30',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>2025 has been one of the strongest years for traditional-values cinema in recent memory. While Hollywood continues to chase progressive prestige, a significant portion of the films released this year have scored heavily on the traditional side of VirtueVigil's dual-scoring system. The films on this list are not safe because they are bland. They are safe because they are built on real values: courage, family, faith, sacrifice, and masculine virtue.</p>
+
+        <p>VirtueVigil scores every film using the Woke-Watch Scoring System, a dual-scale that measures both progressive ideological content (Woke Score, 0-100) and traditional values content (Traditional Score, 0-50). The net margin is the difference. A film with a Traditional Score of 30 and a Woke Score of 3 earns a net margin of +27 TRAD. That number tells you something concrete about what the film values and what it ignores.</p>
+
+        <p>This list ranks the top 10 films released in 2025 by net traditional margin. Every film reviewed here has been scored by VirtueVigil analysts using the full methodology. No editorial thumb on the scale. The data made this list. Each entry links to the full review where you can read the complete trope audit, parental guidance, and creative team analysis.</p>
+
+        <p>These 10 films represent the best that 2025 has offered traditional families so far. If you are looking for movies you can watch with your kids without being ambushed by agendas, start here.</p>
+      </div>
+
+      <ul class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/">The SpongeBob Movie: Search for SquarePants (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 43.1</span>
+              <span class="score-badge">WOKE: 1.28</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +41.82 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Animated Comedy/Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+            <p>The fourth SpongeBob theatrical outing delivers exactly what families need: a straightforward story about friendship and courage with no hidden agenda. The film tells its moral without a lecture and does not try to be anything other than a SpongeBob movie. With a Traditional Score of 43.1 and a Woke Score of just 1.28, this is the highest net traditional margin of any 2025 film VirtueVigil has reviewed. Parents can sit down with their kids and watch something that celebrates loyalty, optimism, and doing the right thing without being surprised by an ideological third act.</p>
+            <a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/ne-zha-2-2025/">Ne Zha 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 38.57</span>
+              <span class="score-badge">WOKE: 0</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +38.57 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Animated Action/Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+            <p>The most powerful traditionally-coded animated film of 2025 did not come from Hollywood. Ne Zha 2 is a Chinese animated masterpiece rooted in Taoist mythology, built around themes of destiny, filial loyalty, sacrifice, and the courage to defy a corrupt cosmic order. A Woke Score of exactly zero. The highest-grossing animated film ever made, and it earned every dollar. The debt sons owe their fathers, the cost of personal responsibility, and respect for tradition are not incidental to this story. They are the story. Families who want animation that takes its moral framework seriously will find nothing better in 2025.</p>
+            <a href="/reviews/ne-zha-2-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/how-to-train-your-dragon-2025/">How to Train Your Dragon (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 33.2</span>
+              <span class="score-badge">WOKE: 4.7</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +28.50 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Family/Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+            <p>Dean DeBlois insisted on full creative control for the live-action remake of his animated trilogy and delivered one of 2025's most family-ready films. This is the story of a son proving himself to a disappointed father, finding courage through a forbidden friendship, and saving a community that doubted him. That story is told without condescension and without revision. A Traditional Score of 33.2 with a Woke Score of 4.7. The film is an anomaly in 2025 major studio output: a pro-family, pro-masculine-mentorship adventure that does not undermine what it celebrates. Traditional families will leave satisfied.</p>
+            <a href="/reviews/how-to-train-your-dragon-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/david-2025/">David (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 28</span>
+              <span class="score-badge">WOKE: 2</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +26.00 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Animation/Musical/Biblical Epic &bull; <strong>Platform:</strong> Theatrical</p>
+            <p>Angel Studios delivered a bold animated biblical musical telling the story of King David from shepherd boy through his defeat of Goliath and into the complexities of kingship. The songs advance the narrative rather than pausing it, and the film does not flinch from David's moral failures. The result is a biblical epic that respects its audience enough to tell the full story. Traditional Score: 28. Woke Score: 2. For families seeking a faith-grounded film that treats scripture with care and delivers it with genuine cinematic craft, David is essential 2025 viewing.</p>
+            <a href="/reviews/david-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/brave-the-dark-2025/">Brave the Dark (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 26.18</span>
+              <span class="score-badge">WOKE: 1.35</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +24.83 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical (Angel Studios)</p>
+            <p>Brave the Dark is the kind of film that almost does not get made anymore. This Angel Studios drama stars Jared Harris as a high school drama teacher in 1980s Pennsylvania who discovers one of his students is living on the streets and takes the boy in. The film treats faith as something worth struggling for, not something to be overcome, and presents conviction as a legitimate source of strength and meaning. Traditional Score: 26.18. Woke Score: 1.35. A quiet, emotionally honest story about a man who does the right thing at personal cost -- the kind of film traditional families can share and discuss.</p>
+            <a href="/reviews/brave-the-dark-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/karate-kid-legends-2025/">Karate Kid: Legends (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 26.32</span>
+              <span class="score-badge">WOKE: 3.15</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +23.17 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action/Drama/Martial Arts &bull; <strong>Platform:</strong> Theatrical</p>
+            <p>Karate Kid: Legends is what happens when a major studio actually delivers on a franchise's traditional promise. The film centers older men teaching a young man to be brave, disciplined, and honorable. Jackie Chan and Ralph Macchio both appear, passing the torch in a story about mentorship, respect, and the responsibility that comes with skill. Traditional Score: 26.32. Woke Score: 3.15. The core values of the original 1984 film -- discipline earns respect, humility precedes mastery, and a good man teaches what he knows -- are alive and intact. Traditional families get exactly what the franchise has always delivered at its best.</p>
+            <a href="/reviews/karate-kid-legends-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 26.46</span>
+              <span class="score-badge">WOKE: 4.2</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +22.26 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action/Thriller &bull; <strong>Platform:</strong> Theatrical (Amazon)</p>
+            <p>The Accountant 2 delivers a sequel as good as the original without flinching from what made the first film work. Christian Wolff -- a forensic accountant with autism who has spent his life building a code of ethics and the physical capability to enforce it -- remains one of the most compelling protagonists in contemporary action cinema. The film's traditional values content is embedded in character, not speeches: loyalty, accountability, protecting the vulnerable, and masculine competence as moral expression. Traditional Score: 26.46. Woke Score: 4.2. A film that trusts its audience and rewards them with a satisfying, values-grounded story.</p>
+            <a href="/reviews/the-accountant-2-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/last-breath-2025/">Last Breath (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 24.29</span>
+              <span class="score-badge">WOKE: 3.4</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +20.89 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Thriller/Drama (True Story) &bull; <strong>Platform:</strong> Theatrical/Netflix</p>
+            <p>Three hundred feet below the North Sea, a diver's oxygen line snaps. He has five minutes of air. The surface crew has thirty minutes to save him. Last Breath is a true story about three men, male competence under impossible pressure, and the bond of brotherhood forged in dangerous work. The film does not editorialize. It documents. Traditional Score: 24.29. Woke Score: 3.4. This is what movies about male courage look like when they are made right: no lectures, no subtext, just the raw weight of a life on the line and the men who refuse to leave a brother behind.</p>
+            <a href="/reviews/last-breath-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/mission-impossible-final-reckoning-2025/">Mission: Impossible - The Final Reckoning (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 21.4</span>
+              <span class="score-badge">WOKE: 1.1</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +20.30 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action/Spy/Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+            <p>Tom Cruise's final turn as Ethan Hunt is a triumph of old-school filmmaking values. The Final Reckoning is a film about a man who refuses to let the world be destroyed, who rallies a loyal team of friends to help him do it, and who performs death-defying practical stunts because he actually believes in the craft of cinema. No lectures. No subtext about Western institutions being the real enemy. A Traditional Score of 21.4 with a Woke Score of just 1.1. Families who want pure, honorable action filmmaking will find exactly that here. Ethan Hunt's loyalty to his team and his refusal to compromise on the mission are the moral spine of every film in the series.</p>
+            <a href="/reviews/mission-impossible-final-reckoning-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-king-of-kings-2025/">The King of Kings (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 19.6</span>
+              <span class="score-badge">WOKE: 0</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +19.60 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Animation/Biblical Epic &bull; <strong>Platform:</strong> Theatrical (Angel Studios)</p>
+            <p>Angel Studios' animated retelling of the life of Jesus is the most important faith-based film since The Passion of the Christ. Kenneth Branagh anchors the story with thoughtful narration, framing the Gospel through a literary conceit involving Mark Twain. The film treats scripture as historically grounded narrative, not mythology, and delivers it with the reverence that mainstream studios no longer attempt. Traditional Score: 19.6. Woke Score: 0. For families seeking a film that presents the Gospel with full sincerity and cinematic craft, this is the current gold standard in Christian cinema.</p>
+            <a href="/reviews/the-king-of-kings-2025/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+      </ul>
+
+      <div class="listicle-conclusion">
+        <h3>The State of Traditional Cinema in 2025</h3>
+        <p>What these 10 films share is a refusal to apologize for their values. They do not embed progressive messaging as a tax on their entertainment value. They are not traditional by default because the filmmaker forgot to add an agenda. They are traditional by conviction. Whether it is Angel Studios backing biblical epics, a Chinese animation studio building a 2-billion-dollar franchise on filial loyalty and Taoist mythology, or Tom Cruise doing real stunts because he believes cinema should earn its audience, these films represent what traditional families have always wanted from their entertainment: stories that affirm rather than undermine the values they are trying to pass on to their children.</p>
+
+        <p>The net traditional margin is VirtueVigil's most precise tool for this kind of recommendation. A film with a high Traditional Score and a low Woke Score is not merely inoffensive. It is actively values-positive. It teaches something worth knowing. The 10 films above are the highest-scoring examples of that in 2025 so far.</p>
+
+        <p>Browse the complete VirtueVigil database at <a href="/reviews/">VirtueVigil.com/reviews/</a> for full reviews of every film with trope audits, parental guidance, and VirtueVigil scores. For more curated lists, see our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>, <a href="/lists/best-faith-based-movies/">Best Faith-Based Movies</a>, and <a href="/lists/family-friendly-movies-2024/">Family-Friendly Movies of 2024</a>. For the opposite end of the spectrum, see <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a>.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/comedy-movies-woke-ranking-2024/index.html', buildListiclePage({
+    slug: 'comedy-movies-woke-ranking-2024',
+    title: 'Every Comedy Movie Ranked by Woke Score (2024)',
+    description: 'Every comedy film from 2023-2024 ranked from most woke to most traditional using VirtueVigil scores. Barbie, Mean Girls, Beetlejuice, and more -- all scored, all ranked.',
+    canonicalPath: 'lists/comedy-movies-woke-ranking-2024',
+    publishDate: '2026-03-30',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Comedy has always been the genre Hollywood uses to smuggle ideology past its guard. You laugh, your defenses drop, and by the time the film ends you have absorbed a worldview without realizing it. This is not a conspiracy theory. It is how satire works, and it is why comedy is worth watching closely.</p>
+
+        <p>VirtueVigil reviewed every major comedy release from 2023 and 2024 using the Woke-Watch Scoring System. The Woke Score measures the density and intensity of progressive ideological content. The Traditional Score measures traditional values content. The ranking below runs from most woke (highest Woke Score minus Traditional Score) to most traditional. Every film has a full review linked so you can read the complete analysis.</p>
+
+        <p>The results may surprise you. Not every film in the comedy category is a progressive manifesto. Several of the most entertaining comedies of recent years score surprisingly traditional. The data does not lie. This is the full picture of where comedy stood in 2023 and 2024, ranked by the numbers.</p>
+      </div>
+
+      <ul class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/barbie-2023/">Barbie (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">STRONGLY WOKE</span>
+              <span class="score-badge">WOKE: 48</span>
+              <span class="score-badge">TRAD: 16</span>
+              <span class="score-badge" style="color:var(--accent-rose);">NET: -32 WOKE</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Comedy/Fantasy &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Year:</strong> 2023</p>
+            <p>The highest woke score of any comedy in this ranking, and it earned every point. Greta Gerwig and Noah Baumbach made a $1.44 billion feminist manifesto wrapped in pink packaging, and the marketing was so effective that audiences paid to see it before they understood what they were buying. Barbie is a sustained critique of patriarchy, masculine authority, and the idea that men and women might have complementary rather than competing roles. The comedy is genuinely funny -- Gosling's Ken is a highlight -- but the thesis is unambiguous from the second act onward. Woke Score: 48. Traditional Score: 16. The most commercially successful progressive comedy ever made.</p>
+            <a href="/reviews/barbie-2023/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-marvels-2023/">The Marvels (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">WOKE: 22.95</span>
+              <span class="score-badge">TRAD: 8.87</span>
+              <span class="score-badge" style="color:var(--accent-rose);">NET: -14.08 WOKE</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Superhero/Action/Comedy &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Year:</strong> 2023</p>
+            <p>The film that broke the MCU's aura of commercial invincibility grossed $206 million against a $374 million budget, representing the lowest-grossing film in MCU history. The Marvels centers three female heroes whose dynamic generates the comedy, but the progressive identity-forward framing of every character relationship is the source of its woke content rather than the jokes themselves. The comedy elements are functional but rarely land, which may explain why audiences did not return for more. Woke Score: 22.95. Traditional Score: 8.87. A cautionary tale about what happens when franchise brand equity is deployed in service of ideology rather than story.</p>
+            <a href="/reviews/the-marvels-2023/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/borderlands-2024/">Borderlands (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">WOKE: 17.5</span>
+              <span class="score-badge">TRAD: 8.26</span>
+              <span class="score-badge" style="color:var(--accent-rose);">NET: -9.24 WOKE</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action/Comedy/Sci-Fi &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Year:</strong> 2024</p>
+            <p>Borderlands is what happens when a studio spends $115 million trying to convert a beloved M-rated video game into a PG-13 Guardians of the Galaxy knockoff. The film debuted at 0% on Rotten Tomatoes and earned a D+ CinemaScore. The comedy misfires almost entirely, and the forced diversity casting decisions -- made by committee rather than by creative vision -- undermine what little tonal coherence the source material could have provided. Woke Score: 17.5. Traditional Score: 8.26. A commercial and creative failure that demonstrates the cost of prioritizing identity representation over storytelling craft in a franchise adaptation.</p>
+            <a href="/reviews/borderlands-2024/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-fiction-2023/">American Fiction (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">WOKE: 13.3</span>
+              <span class="score-badge">TRAD: 5.25</span>
+              <span class="score-badge" style="color:var(--accent-rose);">NET: -8.05 WOKE</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Comedy/Drama/Satire &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Year:</strong> 2023</p>
+            <p>The most intellectually interesting comedy in this ranking, because it is willing to satirize the same progressive institutions it ultimately endorses. American Fiction follows a Black novelist who, frustrated that publishers only want trauma narratives from Black authors, writes a deliberately offensive stereotype as a joke -- only to watch it become a bestseller. The film skewers the DEI publishing industry with genuine wit, then loses its nerve in the final act. Woke Score: 13.3. Traditional Score: 5.25. Worth watching for the satirical sharpness of its first two acts even if the conclusion softens what came before.</p>
+            <a href="/reviews/american-fiction-2023/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/mean-girls-2024/">Mean Girls (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">WOKE: 15.9</span>
+              <span class="score-badge">TRAD: 9.6</span>
+              <span class="score-badge" style="color:var(--accent-rose);">NET: -6.30 WOKE</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Musical/Comedy &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Year:</strong> 2024</p>
+            <p>The fourth-generation adaptation of Tina Fey's original screenplay -- from book to film to Broadway to film again -- has been filtered through so many layers that the result is less a creative statement and more a photocopy of a photocopy. The 2024 version adds a non-binary character and updates the social media content for contemporary audiences, which generates the primary woke content. The comedy is competent but rarely inspired. Woke Score: 15.9. Traditional Score: 9.6. A franchise that originally satirized social cruelty has become a franchise that perpetuates it in more ideologically approved directions.</p>
+            <a href="/reviews/mean-girls-2024/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/beetlejuice-beetlejuice-2024/">Beetlejuice Beetlejuice (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">WOKE: 16</span>
+              <span class="score-badge">TRAD: 12</span>
+              <span class="score-badge" style="color:var(--accent-rose);">NET: -4.00 WOKE</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Comedy/Horror/Fantasy &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Year:</strong> 2024</p>
+            <p>Tim Burton made a sequel to Beetlejuice 36 years after the original, and the result delivers about 60% of the joy of the first film. The Beetlejuice sequences work -- Michael Keaton is still magnetic -- but everything around them is a mixed bag of nostalgia and new progressive elements that feel grafted on rather than organic to the story. The woke content primarily shows up in character dynamics and identity-forward framing that the original did not carry. Woke Score: 16. Traditional Score: 12. Worth watching for Keaton and the nostalgia factor, but the sequel's ideological additions weaken what the original did through pure anarchic comedy.</p>
+            <a href="/reviews/beetlejuice-beetlejuice-2024/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hit-man-2024/">Hit Man (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">WOKE: 4</span>
+              <span class="score-badge">TRAD: 4</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: 0 NEUTRAL</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Romantic Comedy/Crime &bull; <strong>Platform:</strong> Netflix &bull; <strong>Year:</strong> 2024</p>
+            <p>Richard Linklater and Glen Powell made the most pleasant surprise of 2024's theatrical calendar: a romantic crime comedy so relentlessly charming and well-paced that its missing moral center is easy to overlook on first viewing. Powell plays a philosophy professor who moonlights as a fake hitman for sting operations and falls for one of his marks. The film is funny and genuinely engaging. The comedy works because Powell commits fully to the premise. Woke Score: 4. Traditional Score: 4. Perfectly balanced at neutral -- a rare comedy that is neither a progressive lecture nor a traditional affirmation, just an enjoyable film that trusts its premise.</p>
+            <a href="/reviews/hit-man-2024/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/argylle-2024/">Argylle (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">WOKE: 11.2</span>
+              <span class="score-badge">TRAD: 13</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +1.80 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action/Comedy/Spy &bull; <strong>Platform:</strong> Theatrical (Apple) &bull; <strong>Year:</strong> 2024</p>
+            <p>Argylle wants to be the smartest spy comedy in the room and ends up being the most exhausting. Matthew Vaughn's $200 million spy spectacle drowns in its own cleverness -- a nested meta-fiction about a novelist whose fictional spy somehow predicts real CIA operations. Sam Rockwell saves it from total collapse with a genuinely funny, physically committed performance. The film leans traditional primarily through Rockwell's character, who operates on a code of loyalty and professional competence. Woke Score: 11.2. Traditional Score: 13. Worth watching for Rockwell specifically; the rest of the film collapses under its own weight.</p>
+            <a href="/reviews/argylle-2024/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/">Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">WOKE: 4.97</span>
+              <span class="score-badge">TRAD: 8.64</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +3.67 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Animated Comedy/Action &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Year:</strong> 2023</p>
+            <p>The best animated TMNT film since the 2007 theatrical entry, and one of the most visually distinctive studio animated films in recent years. Jeff Rowe created a film that looks nothing like contemporary studio animation, with rough sketch-style aesthetics and kinetic looseness that suits the turtles perfectly. The father-son relationship between Splinter and the turtles provides the emotional core, and the film's identity-politics scaffolding is relatively light. Woke Score: 4.97. Traditional Score: 8.64. A genuine family comedy that delivers laughs and warmth -- the TMNT franchise back doing what it does best.</p>
+            <a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/ghostbusters-frozen-empire-2024/">Ghostbusters: Frozen Empire (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+              <span class="score-badge">WOKE: 6</span>
+              <span class="score-badge">TRAD: 10</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +4.00 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Comedy/Action/Supernatural &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Year:</strong> 2024</p>
+            <p>Ghostbusters: Frozen Empire is the franchise's best argument for itself in decades -- a film that demonstrates what nostalgic resurrection done right looks like while also showing the limits of nostalgia as a substitute for great storytelling. The original Ghostbusters cast returns alongside the Spengler family from Afterlife. The comedy works when the generations interact with genuine warmth, and the film's traditional family values content comes primarily from the Spengler father-daughter dynamics. Woke Score: 6. Traditional Score: 10. A compromise entry that pleases without thrilling but earns a traditional lean rating and delivers solid family-friendly supernatural comedy.</p>
+            <a href="/reviews/ghostbusters-frozen-empire-2024/" class="listicle-cta">Read the full VirtueVigil review</a>
+          </div>
+        </li>
+
+      </ul>
+
+      <div class="listicle-conclusion">
+        <h3>What the Data Tells Us About Comedy and Ideology</h3>
+        <p>Looking at the full range of comedies from 2023 and 2024, a pattern emerges. The most woke comedies in this ranking are also, with the exception of Barbie, among the biggest commercial failures. The Marvels lost over $200 million. Borderlands was a catastrophe. Mean Girls underperformed expectations significantly. Barbie is the outlier: a film so skillfully marketed and executed that its progressive content delivered record-breaking revenue. But Barbie is the exception that proves the rule, not a blueprint anyone has successfully replicated.</p>
+
+        <p>The comedies that lean traditional in this ranking -- TMNT: Mutant Mayhem, Ghostbusters: Frozen Empire, Argylle -- were not blockbusters, but they did not lose fortunes either. They delivered their entertainment value without lecturing their audiences. The audience showed up and got what it paid for.</p>
+
+        <p>Comedy is the genre most vulnerable to ideological capture because humor provides cover. The audience laughs, assumes goodwill, and absorbs the message. VirtueVigil scores are designed to remove that cover. You know what you are watching before you press play. Browse the full database at <a href="/reviews/">VirtueVigil.com/reviews/</a> for complete reviews with trope audits, parental guidance, and full scoring breakdowns. For more annual rankings, see <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a> and <a href="/lists/most-woke-movies-2023/">10 Most Woke Movies of 2023</a>. For the best traditional options, see <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>.</p>
       </div>
     </article>`
   }));
