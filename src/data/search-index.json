@@ -36,6 +36,18 @@
     "poster": "/images/posters/michael-2026.jpg"
   },
   {
+    "slug": "spider-man-brand-new-day-2026",
+    "title": "Spider-Man: Brand New Day",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Superhero/Action/Adventure",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.3,
+    "tradScore": 13.09,
+    "poster": "/images/posters/spider-man-brand-new-day-2026.jpg"
+  },
+  {
     "slug": "mission-impossible-the-final-reckoning-2025",
     "title": "Mission: Impossible - The Final Reckoning",
     "verdict": "TRADITIONAL",
