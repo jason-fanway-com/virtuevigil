@@ -14015,15 +14015,17 @@ function buildChristopherNolanMoviesRankedListicle() {
 function buildMostWokeMovies2024CompleteListicle() {
   writePage('lists/most-woke-movies-2024-complete/index.html', buildListiclePage({
     slug: 'most-woke-movies-2024-complete',
-    title: 'Every Woke Movie of 2024 Ranked (Complete List)',
-    description: 'The complete ranking of every woke-scoring 2024 film in VirtueVigil\'s database, sorted from most egregious to mildly offending. Real scores, real data.',
+    title: 'Most Woke Movies of 2024: Complete Ranking (All 93 Films)',
+    description: 'Every movie VirtueVigil scored in 2024, ranked by Woke Score from highest to lowest. The most comprehensive woke movie list on the internet.',
     canonicalPath: 'lists/most-woke-movies-2024-complete',
-    publishDate: '2026-03-31',
+    publishDate: '2026-04-01',
     htmlContent: `<article class="listicle-article">
       <div class="listicle-intro">
-        <p>2024 was a rough year for traditional audiences. Here is our complete ranking of 2024 films by woke score, from most egregious to mildly offending.</p>
-        <p>VirtueVigil scored every 2024 film in our database. Of those, 33 films scored with a negative net margin, meaning their woke content outweighed their traditional content. This is the complete list, sorted from most woke to least, with real scores from our dual-axis Woke-Watch Scoring System. No editorializing about which films "feel" woke. Just the numbers. Every title links to a full review.</p>
-        <p>Related: <a href="/lists/most-woke-movies-2024/">Most Woke Movies of 2024 (Top 10)</a>, <a href="/lists/best-traditional-movies-2024/">Best Traditional Movies of 2024</a>, <a href="/lists/non-woke-action-movies-2024/">Non-Woke Action Movies 2024</a>.</p>
+        <h2 style="margin-top:0;">The Complete 2024 Dataset</h2>
+        <p>This is not a curated top-10. This is the full data dump. VirtueVigil scored 93 films from 2024. Here is every single one, ranked by Woke Score from highest to lowest. The most comprehensive woke movie list on the internet. Real scores. Real data. No editorializing about which films "feel" woke. Just the numbers.</p>
+        <p>Some surprises in the bottom half. Some films marked as "safe" or "family friendly" carry measurable progressive content. Some traditionally-scoring films you would expect to be on the woke side landed in the middle. Check your favorites below.</p>
+        <p><strong>The data:</strong> 93 films scored. 51 score woke-leaning or higher. 42 score traditional-leaning or higher. The #1 most woke film (Conclave, +42.6 woke margin) is separated from the #93 least-woke film (Solo Leveling: ReAwakening, +27.1 trad margin) by an ideological canyon. VirtueVigil exists to make that visible.</p>
+        <p>Sections below: Top 10 Wokest (featured), then complete rankings table.</p>
       </div>
 
       <ol class="listicle-items">
@@ -14459,9 +14461,682 @@ function buildMostWokeMovies2024CompleteListicle() {
 
       </ol>
 
+      <div class="full-rankings" style="margin-top:48px;">
+        <h2 style="font-family:'Cinzel',Georgia,serif;color:#c9a84c;font-size:1.6rem;margin-bottom:8px;">Complete 2024 Rankings: All 93 Films</h2>
+        <p style="color:#999;margin-bottom:24px;">Every film VirtueVigil scored in 2024, ranked by Woke Score from highest to lowest. Films with a higher Traditional Score than Woke Score are actually pulling toward the traditional side despite appearing on this list.</p>
+        <div style="overflow-x:auto;">
+          <table class="full-rankings-table" style="width:100%;border-collapse:collapse;font-size:0.9rem;">
+            <thead>
+              <tr style="background:rgba(201,168,76,0.1);border-bottom:2px solid rgba(201,168,76,0.3);">
+                <th style="padding:10px 8px;text-align:left;color:#c9a84c;white-space:nowrap;">Rank</th>
+                <th style="padding:10px 8px;text-align:left;color:#c9a84c;">Film</th>
+                <th style="padding:10px 8px;text-align:center;color:#e05c5c;white-space:nowrap;">Woke Score</th>
+                <th style="padding:10px 8px;text-align:center;color:#c9a84c;white-space:nowrap;">Trad Score</th>
+                <th style="padding:10px 8px;text-align:left;color:#c9a84c;">Verdict</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="rank-cell">#1</td>
+                <td class="title-cell"><a href="/reviews/conclave-2024/">Conclave</a></td>
+                <td class="score-cell" style="color:#e05c5c">42.6</td>
+                <td class="score-cell" style="color:#c9a84c">3.85</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#2</td>
+                <td class="title-cell"><a href="/reviews/heretic-2024/">Heretic</a></td>
+                <td class="score-cell" style="color:#e05c5c">41</td>
+                <td class="score-cell" style="color:#c9a84c">14</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#3</td>
+                <td class="title-cell"><a href="/reviews/the-substance-2024/">The Substance</a></td>
+                <td class="score-cell" style="color:#e05c5c">37</td>
+                <td class="score-cell" style="color:#c9a84c">13</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#4</td>
+                <td class="title-cell"><a href="/reviews/anora-2024/">Anora</a></td>
+                <td class="score-cell" style="color:#e05c5c">36</td>
+                <td class="score-cell" style="color:#c9a84c">10</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#5</td>
+                <td class="title-cell"><a href="/reviews/maxxxine-2024/">MaXXXine</a></td>
+                <td class="score-cell" style="color:#e05c5c">32</td>
+                <td class="score-cell" style="color:#c9a84c">14</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#6</td>
+                <td class="title-cell"><a href="/reviews/immaculate-2024/">Immaculate</a></td>
+                <td class="score-cell" style="color:#e05c5c">29</td>
+                <td class="score-cell" style="color:#c9a84c">8</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#7</td>
+                <td class="title-cell"><a href="/reviews/wicked-2024/">Wicked</a></td>
+                <td class="score-cell" style="color:#e05c5c">28.42</td>
+                <td class="score-cell" style="color:#c9a84c">17.44</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#8</td>
+                <td class="title-cell"><a href="/reviews/monkey-man-2024/">Monkey Man</a></td>
+                <td class="score-cell" style="color:#e05c5c">28</td>
+                <td class="score-cell" style="color:#c9a84c">14</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#9</td>
+                <td class="title-cell"><a href="/reviews/emilia-perez-2024/">Emilia Pérez</a></td>
+                <td class="score-cell" style="color:#e05c5c">28</td>
+                <td class="score-cell" style="color:#c9a84c">6</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#10</td>
+                <td class="title-cell"><a href="/reviews/love-lies-bleeding-2024/">Love Lies Bleeding</a></td>
+                <td class="score-cell" style="color:#e05c5c">26</td>
+                <td class="score-cell" style="color:#c9a84c">9</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#11</td>
+                <td class="title-cell"><a href="/reviews/joker-folie-a-deux-2024/">Joker: Folie a Deux</a></td>
+                <td class="score-cell" style="color:#e05c5c">24.5</td>
+                <td class="score-cell" style="color:#c9a84c">22.13</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#12</td>
+                <td class="title-cell"><a href="/reviews/civil-war-2024/">Civil War</a></td>
+                <td class="score-cell" style="color:#e05c5c">22</td>
+                <td class="score-cell" style="color:#c9a84c">18</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#13</td>
+                <td class="title-cell"><a href="/reviews/nickel-boys-2024/">Nickel Boys</a></td>
+                <td class="score-cell" style="color:#e05c5c">21.84</td>
+                <td class="score-cell" style="color:#c9a84c">8.74</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#14</td>
+                <td class="title-cell"><a href="/reviews/the-apprentice-2024/">The Apprentice</a></td>
+                <td class="score-cell" style="color:#e05c5c">21</td>
+                <td class="score-cell" style="color:#c9a84c">6.65</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#15</td>
+                <td class="title-cell"><a href="/reviews/megalopolis-2024/">Megalopolis</a></td>
+                <td class="score-cell" style="color:#e05c5c">20.83</td>
+                <td class="score-cell" style="color:#c9a84c">8.98</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#16</td>
+                <td class="title-cell"><a href="/reviews/dune-part-two-2024/">Dune: Part Two</a></td>
+                <td class="score-cell" style="color:#e05c5c">19.36</td>
+                <td class="score-cell" style="color:#c9a84c">11.55</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#17</td>
+                <td class="title-cell"><a href="/reviews/babygirl-2024/">Babygirl</a></td>
+                <td class="score-cell" style="color:#e05c5c">19.22</td>
+                <td class="score-cell" style="color:#c9a84c">4.4</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#18</td>
+                <td class="title-cell"><a href="/reviews/rebel-moon-part-two-the-scargiver-2024/">Rebel Moon - Part Two: The Scargiver</a></td>
+                <td class="score-cell" style="color:#e05c5c">18</td>
+                <td class="score-cell" style="color:#c9a84c">24</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#19</td>
+                <td class="title-cell"><a href="/reviews/borderlands-2024/">Borderlands</a></td>
+                <td class="score-cell" style="color:#e05c5c">17.5</td>
+                <td class="score-cell" style="color:#c9a84c">8.26</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#20</td>
+                <td class="title-cell"><a href="/reviews/queer-2024/">Queer</a></td>
+                <td class="score-cell" style="color:#e05c5c">17.5</td>
+                <td class="score-cell" style="color:#c9a84c">4.2</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#21</td>
+                <td class="title-cell"><a href="/reviews/the-room-next-door-2024/">The Room Next Door</a></td>
+                <td class="score-cell" style="color:#e05c5c">16</td>
+                <td class="score-cell" style="color:#c9a84c">12</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#22</td>
+                <td class="title-cell"><a href="/reviews/beetlejuice-beetlejuice-2024/">Beetlejuice Beetlejuice (2024)</a></td>
+                <td class="score-cell" style="color:#e05c5c">16</td>
+                <td class="score-cell" style="color:#c9a84c">12</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#23</td>
+                <td class="title-cell"><a href="/reviews/mean-girls-2024/">Mean Girls</a></td>
+                <td class="score-cell" style="color:#e05c5c">15.9</td>
+                <td class="score-cell" style="color:#c9a84c">9.6</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#24</td>
+                <td class="title-cell"><a href="/reviews/mufasa-2024/">Mufasa: The Lion King</a></td>
+                <td class="score-cell" style="color:#e05c5c">14.2</td>
+                <td class="score-cell" style="color:#c9a84c">22.8</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#25</td>
+                <td class="title-cell"><a href="/reviews/a-complete-unknown-2024/">A Complete Unknown (2024)</a></td>
+                <td class="score-cell" style="color:#e05c5c">14</td>
+                <td class="score-cell" style="color:#c9a84c">16</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#26</td>
+                <td class="title-cell"><a href="/reviews/trap-2024/">Trap</a></td>
+                <td class="score-cell" style="color:#e05c5c">13.5</td>
+                <td class="score-cell" style="color:#c9a84c">14.24</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#27</td>
+                <td class="title-cell"><a href="/reviews/madame-web-2024/">Madame Web</a></td>
+                <td class="score-cell" style="color:#e05c5c">13.42</td>
+                <td class="score-cell" style="color:#c9a84c">9.15</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#28</td>
+                <td class="title-cell"><a href="/reviews/moana-2-2024/">Moana 2 (2024)</a></td>
+                <td class="score-cell" style="color:#e05c5c">13</td>
+                <td class="score-cell" style="color:#c9a84c">17</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#29</td>
+                <td class="title-cell"><a href="/reviews/a-quiet-place-day-one-2024/">A Quiet Place: Day One</a></td>
+                <td class="score-cell" style="color:#e05c5c">12.6</td>
+                <td class="score-cell" style="color:#c9a84c">11.62</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#30</td>
+                <td class="title-cell"><a href="/reviews/kingdom-of-the-planet-of-the-apes-2024/">Kingdom of the Planet of the Apes</a></td>
+                <td class="score-cell" style="color:#e05c5c">12.6</td>
+                <td class="score-cell" style="color:#c9a84c">14.2</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#31</td>
+                <td class="title-cell"><a href="/reviews/atlas-2024/">Atlas</a></td>
+                <td class="score-cell" style="color:#e05c5c">12.2</td>
+                <td class="score-cell" style="color:#c9a84c">10.82</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#32</td>
+                <td class="title-cell"><a href="/reviews/it-ends-with-us-2024/">It Ends with Us</a></td>
+                <td class="score-cell" style="color:#e05c5c">12.18</td>
+                <td class="score-cell" style="color:#c9a84c">17.6</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#33</td>
+                <td class="title-cell"><a href="/reviews/argylle-2024/">Argylle</a></td>
+                <td class="score-cell" style="color:#e05c5c">11.2</td>
+                <td class="score-cell" style="color:#c9a84c">13</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#34</td>
+                <td class="title-cell"><a href="/reviews/deadpool-wolverine-2024/">Deadpool & Wolverine</a></td>
+                <td class="score-cell" style="color:#e05c5c">11</td>
+                <td class="score-cell" style="color:#c9a84c">8</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#35</td>
+                <td class="title-cell"><a href="/reviews/blitz-2024/">Blitz</a></td>
+                <td class="score-cell" style="color:#e05c5c">11</td>
+                <td class="score-cell" style="color:#c9a84c">7</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#36</td>
+                <td class="title-cell"><a href="/reviews/bob-marley-one-love-2024/">Bob Marley: One Love</a></td>
+                <td class="score-cell" style="color:#e05c5c">11</td>
+                <td class="score-cell" style="color:#c9a84c">16</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#37</td>
+                <td class="title-cell"><a href="/reviews/im-still-here-2024/">I'm Still Here</a></td>
+                <td class="score-cell" style="color:#e05c5c">10.54</td>
+                <td class="score-cell" style="color:#c9a84c">17.24</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#38</td>
+                <td class="title-cell"><a href="/reviews/the-order-2024/">The Order</a></td>
+                <td class="score-cell" style="color:#e05c5c">10.14</td>
+                <td class="score-cell" style="color:#c9a84c">10.99</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#39</td>
+                <td class="title-cell"><a href="/reviews/inside-out-2-2024/">Inside Out 2</a></td>
+                <td class="score-cell" style="color:#e05c5c">10.08</td>
+                <td class="score-cell" style="color:#c9a84c">20.16</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#40</td>
+                <td class="title-cell"><a href="/reviews/twisters-2024/">Twisters</a></td>
+                <td class="score-cell" style="color:#e05c5c">10.08</td>
+                <td class="score-cell" style="color:#c9a84c">24.64</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#41</td>
+                <td class="title-cell"><a href="/reviews/better-man-2024/">Better Man</a></td>
+                <td class="score-cell" style="color:#e05c5c">10</td>
+                <td class="score-cell" style="color:#c9a84c">12</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#42</td>
+                <td class="title-cell"><a href="/reviews/kung-fu-panda-4-2024/">Kung Fu Panda 4</a></td>
+                <td class="score-cell" style="color:#e05c5c">10</td>
+                <td class="score-cell" style="color:#c9a84c">7</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#43</td>
+                <td class="title-cell"><a href="/reviews/speak-no-evil-2024/">Speak No Evil</a></td>
+                <td class="score-cell" style="color:#e05c5c">9.18</td>
+                <td class="score-cell" style="color:#c9a84c">6.78</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#44</td>
+                <td class="title-cell"><a href="/reviews/the-penguin-2024/">The Penguin</a></td>
+                <td class="score-cell" style="color:#e05c5c">9</td>
+                <td class="score-cell" style="color:#c9a84c">14</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#45</td>
+                <td class="title-cell"><a href="/reviews/the-brutalist-2024/">The Brutalist</a></td>
+                <td class="score-cell" style="color:#e05c5c">9</td>
+                <td class="score-cell" style="color:#c9a84c">6</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#46</td>
+                <td class="title-cell"><a href="/reviews/kinds-of-kindness-2024/">Kinds of Kindness</a></td>
+                <td class="score-cell" style="color:#e05c5c">9</td>
+                <td class="score-cell" style="color:#c9a84c">2</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#47</td>
+                <td class="title-cell"><a href="/reviews/sing-sing-2024/">Sing Sing</a></td>
+                <td class="score-cell" style="color:#e05c5c">8.84</td>
+                <td class="score-cell" style="color:#c9a84c">16.24</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#48</td>
+                <td class="title-cell"><a href="/reviews/we-live-in-time-2024/">We Live in Time</a></td>
+                <td class="score-cell" style="color:#e05c5c">8.8</td>
+                <td class="score-cell" style="color:#c9a84c">13.44</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#49</td>
+                <td class="title-cell"><a href="/reviews/terrifier-3-2024/">Terrifier 3</a></td>
+                <td class="score-cell" style="color:#e05c5c">8.22</td>
+                <td class="score-cell" style="color:#c9a84c">10.92</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#50</td>
+                <td class="title-cell"><a href="/reviews/rebel-ridge-2024/">Rebel Ridge</a></td>
+                <td class="score-cell" style="color:#e05c5c">8.18</td>
+                <td class="score-cell" style="color:#c9a84c">18.5</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#51</td>
+                <td class="title-cell"><a href="/reviews/smile-2-2024/">Smile 2</a></td>
+                <td class="score-cell" style="color:#e05c5c">8.1</td>
+                <td class="score-cell" style="color:#c9a84c">10.92</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#52</td>
+                <td class="title-cell"><a href="/reviews/furiosa-a-mad-max-saga-2024/">Furiosa: A Mad Max Saga</a></td>
+                <td class="score-cell" style="color:#e05c5c">8</td>
+                <td class="score-cell" style="color:#c9a84c">22</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#53</td>
+                <td class="title-cell"><a href="/reviews/the-wild-robot-2024/">The Wild Robot (2024)</a></td>
+                <td class="score-cell" style="color:#e05c5c">7.12</td>
+                <td class="score-cell" style="color:#c9a84c">27.93</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#54</td>
+                <td class="title-cell"><a href="/reviews/gladiator-ii-2024/">Gladiator II (2024)</a></td>
+                <td class="score-cell" style="color:#e05c5c">7</td>
+                <td class="score-cell" style="color:#c9a84c">22.84</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#55</td>
+                <td class="title-cell"><a href="/reviews/challengers-2024/">Challengers</a></td>
+                <td class="score-cell" style="color:#e05c5c">7</td>
+                <td class="score-cell" style="color:#c9a84c">3</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#56</td>
+                <td class="title-cell"><a href="/reviews/lisa-frankenstein-2024/">Lisa Frankenstein</a></td>
+                <td class="score-cell" style="color:#e05c5c">7</td>
+                <td class="score-cell" style="color:#c9a84c">2</td>
+                <td class="verdict-cell"><span class="mini-badge">WOKE LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#57</td>
+                <td class="title-cell"><a href="/reviews/mufasa-lion-king-2024/">Mufasa: The Lion King</a></td>
+                <td class="score-cell" style="color:#e05c5c">6.8</td>
+                <td class="score-cell" style="color:#c9a84c">16.4</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#58</td>
+                <td class="title-cell"><a href="/reviews/horizon-an-american-saga-2024/">Horizon: An American Saga - Chapter 1</a></td>
+                <td class="score-cell" style="color:#e05c5c">6.35</td>
+                <td class="score-cell" style="color:#c9a84c">28.98</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#59</td>
+                <td class="title-cell"><a href="/reviews/godzilla-x-kong-the-new-empire-2024/">Godzilla x Kong: The New Empire</a></td>
+                <td class="score-cell" style="color:#e05c5c">6</td>
+                <td class="score-cell" style="color:#c9a84c">14</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#60</td>
+                <td class="title-cell"><a href="/reviews/longlegs-2024/">Longlegs</a></td>
+                <td class="score-cell" style="color:#e05c5c">6</td>
+                <td class="score-cell" style="color:#c9a84c">11</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#61</td>
+                <td class="title-cell"><a href="/reviews/bad-boys-ride-or-die-2024/">Bad Boys: Ride or Die</a></td>
+                <td class="score-cell" style="color:#e05c5c">6</td>
+                <td class="score-cell" style="color:#c9a84c">8</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#62</td>
+                <td class="title-cell"><a href="/reviews/ghostbusters-frozen-empire-2024/">Ghostbusters: Frozen Empire</a></td>
+                <td class="score-cell" style="color:#e05c5c">6</td>
+                <td class="score-cell" style="color:#c9a84c">10</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#63</td>
+                <td class="title-cell"><a href="/reviews/shogun-2024/">Shogun</a></td>
+                <td class="score-cell" style="color:#e05c5c">5.88</td>
+                <td class="score-cell" style="color:#c9a84c">24.64</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#64</td>
+                <td class="title-cell"><a href="/reviews/flow-2024/">Flow</a></td>
+                <td class="score-cell" style="color:#e05c5c">5.78</td>
+                <td class="score-cell" style="color:#c9a84c">10.64</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#65</td>
+                <td class="title-cell"><a href="/reviews/landman-2024/">Landman</a></td>
+                <td class="score-cell" style="color:#e05c5c">5.6</td>
+                <td class="score-cell" style="color:#c9a84c">20.3</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#66</td>
+                <td class="title-cell"><a href="/reviews/the-bikeriders-2024/">The Bikeriders</a></td>
+                <td class="score-cell" style="color:#e05c5c">5.5</td>
+                <td class="score-cell" style="color:#c9a84c">23.1</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#67</td>
+                <td class="title-cell"><a href="/reviews/kraven-the-hunter-2024/">Kraven the Hunter</a></td>
+                <td class="score-cell" style="color:#e05c5c">5.4</td>
+                <td class="score-cell" style="color:#c9a84c">11.2</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#68</td>
+                <td class="title-cell"><a href="/reviews/september-5-2024/">September 5</a></td>
+                <td class="score-cell" style="color:#e05c5c">5.4</td>
+                <td class="score-cell" style="color:#c9a84c">12.6</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#69</td>
+                <td class="title-cell"><a href="/reviews/red-one-2024/">Red One</a></td>
+                <td class="score-cell" style="color:#e05c5c">5.35</td>
+                <td class="score-cell" style="color:#c9a84c">16.44</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#70</td>
+                <td class="title-cell"><a href="/reviews/sonic-3-2024/">Sonic the Hedgehog 3</a></td>
+                <td class="score-cell" style="color:#e05c5c">5.2</td>
+                <td class="score-cell" style="color:#c9a84c">11.8</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#71</td>
+                <td class="title-cell"><a href="/reviews/a-real-pain-2024/">A Real Pain</a></td>
+                <td class="score-cell" style="color:#e05c5c">5</td>
+                <td class="score-cell" style="color:#c9a84c">7</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#72</td>
+                <td class="title-cell"><a href="/reviews/alien-romulus-2024/">Alien: Romulus</a></td>
+                <td class="score-cell" style="color:#e05c5c">5</td>
+                <td class="score-cell" style="color:#c9a84c">8</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#73</td>
+                <td class="title-cell"><a href="/reviews/the-bear/">The Bear</a></td>
+                <td class="score-cell" style="color:#e05c5c">5</td>
+                <td class="score-cell" style="color:#c9a84c">9</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#74</td>
+                <td class="title-cell"><a href="/reviews/the-beekeeper-2024/">The Beekeeper</a></td>
+                <td class="score-cell" style="color:#e05c5c">4.25</td>
+                <td class="score-cell" style="color:#c9a84c">25.48</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#75</td>
+                <td class="title-cell"><a href="/reviews/sonic-the-hedgehog-3-2024/">Sonic the Hedgehog 3</a></td>
+                <td class="score-cell" style="color:#e05c5c">4.2</td>
+                <td class="score-cell" style="color:#c9a84c">18.34</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#76</td>
+                <td class="title-cell"><a href="/reviews/nosferatu-2024/">Nosferatu</a></td>
+                <td class="score-cell" style="color:#e05c5c">4</td>
+                <td class="score-cell" style="color:#c9a84c">9</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#77</td>
+                <td class="title-cell"><a href="/reviews/hit-man-2024/">Hit Man</a></td>
+                <td class="score-cell" style="color:#e05c5c">4</td>
+                <td class="score-cell" style="color:#c9a84c">4</td>
+                <td class="verdict-cell"><span class="mini-badge">MIXED</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#78</td>
+                <td class="title-cell"><a href="/reviews/if-2024/">IF (Imaginary Friends)</a></td>
+                <td class="score-cell" style="color:#e05c5c">4</td>
+                <td class="score-cell" style="color:#c9a84c">9</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#79</td>
+                <td class="title-cell"><a href="/reviews/road-house-2024/">Road House</a></td>
+                <td class="score-cell" style="color:#e05c5c">4</td>
+                <td class="score-cell" style="color:#c9a84c">18</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#80</td>
+                <td class="title-cell"><a href="/reviews/beverly-hills-cop-axel-f-2024/">Beverly Hills Cop: Axel F</a></td>
+                <td class="score-cell" style="color:#e05c5c">4</td>
+                <td class="score-cell" style="color:#c9a84c">15</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#81</td>
+                <td class="title-cell"><a href="/reviews/am-i-racist-2024/">Am I Racist?</a></td>
+                <td class="score-cell" style="color:#e05c5c">3.7</td>
+                <td class="score-cell" style="color:#c9a84c">33.81</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#82</td>
+                <td class="title-cell"><a href="/reviews/venom-the-last-dance-2024/">Venom: The Last Dance</a></td>
+                <td class="score-cell" style="color:#e05c5c">3.5</td>
+                <td class="score-cell" style="color:#c9a84c">17.07</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#83</td>
+                <td class="title-cell"><a href="/reviews/the-fall-guy-2024/">The Fall Guy</a></td>
+                <td class="score-cell" style="color:#e05c5c">3</td>
+                <td class="score-cell" style="color:#c9a84c">8</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#84</td>
+                <td class="title-cell"><a href="/reviews/despicable-me-4-2024/">Despicable Me 4</a></td>
+                <td class="score-cell" style="color:#e05c5c">3</td>
+                <td class="score-cell" style="color:#c9a84c">10</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#85</td>
+                <td class="title-cell"><a href="/reviews/abigail-2024/">Abigail</a></td>
+                <td class="score-cell" style="color:#e05c5c">3</td>
+                <td class="score-cell" style="color:#c9a84c">6</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#86</td>
+                <td class="title-cell"><a href="/reviews/cabrini-2024/">Cabrini</a></td>
+                <td class="score-cell" style="color:#e05c5c">3</td>
+                <td class="score-cell" style="color:#c9a84c">15</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#87</td>
+                <td class="title-cell"><a href="/reviews/carry-on-2024/">Carry-On</a></td>
+                <td class="score-cell" style="color:#e05c5c">3</td>
+                <td class="score-cell" style="color:#c9a84c">20.23</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#88</td>
+                <td class="title-cell"><a href="/reviews/reagan-2024/">Reagan</a></td>
+                <td class="score-cell" style="color:#e05c5c">2.4</td>
+                <td class="score-cell" style="color:#c9a84c">44.28</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#89</td>
+                <td class="title-cell"><a href="/reviews/transformers-one-2024/">Transformers One</a></td>
+                <td class="score-cell" style="color:#e05c5c">2</td>
+                <td class="score-cell" style="color:#c9a84c">18.48</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#90</td>
+                <td class="title-cell"><a href="/reviews/paddington-in-peru-2024/">Paddington in Peru</a></td>
+                <td class="score-cell" style="color:#e05c5c">2</td>
+                <td class="score-cell" style="color:#c9a84c">9</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#91</td>
+                <td class="title-cell"><a href="/reviews/thelma-2024/">Thelma</a></td>
+                <td class="score-cell" style="color:#e05c5c">2</td>
+                <td class="score-cell" style="color:#c9a84c">12</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#92</td>
+                <td class="title-cell"><a href="/reviews/the-ministry-of-ungentlemanly-warfare-2024/">The Ministry of Ungentlemanly Warfare</a></td>
+                <td class="score-cell" style="color:#e05c5c">2</td>
+                <td class="score-cell" style="color:#c9a84c">11</td>
+                <td class="verdict-cell"><span class="mini-badge">TRADITIONAL LEAN</span></td>
+              </tr>
+              <tr>
+                <td class="rank-cell">#93</td>
+                <td class="title-cell"><a href="/reviews/solo-leveling-reawakening-2024/">Solo Leveling: ReAwakening</a></td>
+                <td class="score-cell" style="color:#e05c5c">1.26</td>
+                <td class="score-cell" style="color:#c9a84c">28.35</td>
+                <td class="verdict-cell"><span class="mini-badge">STRONGLY TRADITIONAL</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
       <div class="listicle-conclusion">
-        <h3>The 2024 Verdict</h3>
-        <p>Thirty-three woke-scoring films in a single year. Six of them Strongly Woke. The range runs from Conclave's minus 39 to A Quiet Place: Day One's barely-there minus 1. What the data shows is not that every 2024 film was unwatchable, but that even mainstream, crowd-pleasing franchises carried measurable progressive content. The films at the bottom of this list are mildly woke. The films at the top are ideological projects disguised as entertainment. Know the difference before you buy a ticket. Browse all 2024 reviews and hundreds more at <a href="/reviews/">virtuevigil.com/reviews/</a>, or explore the traditional side of 2024 at <a href="/lists/best-traditional-movies-2024/">Best Traditional Movies of 2024</a>.</p>
+        <h3>The Full 2024 Verdict</h3>
+        <p>93 films. 51 scoring woke-leaning or higher. 42 scoring traditional-leaning or higher. The gap from Conclave at the top to Solo Leveling: ReAwakening at the bottom spans more than 70 points of ideological distance. 2024 was not a monolith. It was a bifurcated year where the award-circuit darlings went hard left and the mainstream entertainment mostly held the center or tilted traditional.</p>
+        <p>What this data proves: Hollywood has two parallel industries. The prestige lane (Conclave, Heretic, Anora, The Substance) runs openly progressive and collects trophies. The commercial lane (Twisters, Inside Out 2, The Wild Robot, Reagan) delivers traditional values and collects money. The critical establishment covers one. VirtueVigil covers both.</p>
+        <p>Browse all 2024 reviews at <a href="/reviews/">virtuevigil.com/reviews/</a>, or check our <a href="/lists/most-woke-movies-2025-so-far/">Most Woke Movies of 2025 (So Far)</a> and <a href="/lists/best-traditional-movies-2024/">Best Traditional Movies of 2024</a>. Return to <a href="/">VirtueVigil home</a>.</p>
       </div>
     </article>`
   }));
