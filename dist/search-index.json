@@ -60,6 +60,18 @@
     "poster": "/images/posters/the-odyssey-2026.jpg"
   },
   {
+    "slug": "masters-of-the-universe-2026",
+    "title": "Masters of the Universe",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action/Fantasy/Adventure",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 7.08,
+    "tradScore": 16.94,
+    "poster": "/images/posters/masters-of-the-universe-2026.jpg"
+  },
+  {
     "slug": "mission-impossible-the-final-reckoning-2025",
     "title": "Mission: Impossible - The Final Reckoning",
     "verdict": "TRADITIONAL",
