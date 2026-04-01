@@ -24,6 +24,18 @@
     "poster": "/images/posters/lee-cronins-the-mummy-2026.jpg"
   },
   {
+    "slug": "michael-2026",
+    "title": "Michael",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Musical Biographical Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 11.88,
+    "tradScore": 17.29,
+    "poster": "/images/posters/michael-2026.jpg"
+  },
+  {
     "slug": "mission-impossible-the-final-reckoning-2025",
     "title": "Mission: Impossible - The Final Reckoning",
     "verdict": "TRADITIONAL",
