@@ -13737,14 +13737,15 @@ function buildCanceledMoviesReviewedListicle() {
 function buildHollywoodAntiAmericanMoviesListicle() {
   writePage('lists/hollywood-anti-american-movies/index.html', buildListiclePage({
     slug: 'hollywood-anti-american-movies',
-    title: '10 Movies That Feel Like They Were Made to Lecture Americans',
-    description: 'These films scored at the bottom of VirtueVigil\'s scale. From Zootopia 2 to MaXXXine, here are 10 movies that use anti-American and anti-traditional themes as their foundation.',
+    title: 'What Hollywood Gets Wrong About America: 10 Films Examined',
+    description: 'Hollywood has been making films that get America wrong for decades. VirtueVigil breaks down 10 specific films -- scored, analyzed, and held accountable.',
     canonicalPath: 'lists/hollywood-anti-american-movies',
-    publishDate: '2026-03-31',
+    publishDate: '2026-04-01',
     htmlContent: `<article class="listicle-article">
       <div class="listicle-intro">
-        <p>These films scored at the bottom of VirtueVigil's scale. Here is what they got wrong about America.</p>
-        <p>Not every woke film is anti-American. Some are just clumsy, some are misguided, and some genuinely believe they are helping. But these ten films share something specific: they use their narratives to actively undermine traditional American values, institutions, or identity. Whether through allegory, explicit messaging, or systematic deconstruction of heroic archetypes, each film on this list treats the traditional American worldview as the problem to be solved. VirtueVigil scored them all. The numbers confirmed what audiences already felt.</p>
+        <p>There is a version of America that Hollywood likes to tell the world about. It is corrupt. It is hypocritical. It is a society built on oppression, run by liars, and populated by ordinary people too stupid or too comfortable to recognize how badly they are being governed. The institutions are rotten. The heroes are frauds. The system is rigged. And anyone who does not see this, anyone who waves a flag or trusts a government agency or finds meaning in service to country, is either naive or complicit.</p>
+        <p>This version of America gets pumped out of Los Angeles with the regularity of a factory line. It wins awards. It gets celebrated at festivals in Venice and Cannes by audiences who have never lived a day inside the country being depicted. It gets praised by critics who have decided that patriotism is intellectually embarrassing and that contempt for American institutions is a mark of sophistication.</p>
+        <p>VirtueVigil does not grade on politics alone. Our dual-axis scoring system measures both woke messaging and traditional values content independently, and some films score high on both. But the ten films below share something specific: each one uses its narrative to systematically misrepresent what America is, what Americans believe, and what American institutions actually do. Some are dishonest. Some are lazy. Some are ideologically driven to the point of distortion. All of them got something consequential wrong, and VirtueVigil is naming it directly.</p>
         <p>Related: <a href="/lists/movies-attacking-traditional-values/">Movies Attacking Traditional Values</a>, <a href="/lists/most-woke-movies-2024/">Most Woke Movies of 2024</a>, <a href="/lists/woke-movies-box-office-flops/">Woke Movies That Flopped</a>.</p>
       </div>
 
@@ -13753,130 +13754,130 @@ function buildHollywoodAntiAmericanMoviesListicle() {
         <li class="listicle-item">
           <div class="listicle-rank">1</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/conclave-2024/">Conclave (2024)</a></h2>
+            <h2><a href="/reviews/dont-look-up-2021/">Don&rsquo;t Look Up (2021)</a></h2>
             <div class="listicle-badges">
               <span class="verdict-badge woke">STRONGLY WOKE</span>
-              <span class="score-badge">-39 WOKE</span>
+              <span class="score-badge">-28 WOKE</span>
             </div>
-            <p>A Vatican thriller that uses the papal election as a vehicle for deconstructing religious authority. Ralph Fiennes delivers a masterful performance in a film that treats the Catholic Church as an institution whose primary function is to suppress truth and protect power. The film's climactic revelation is designed to challenge every traditional assumption about gender, identity, and institutional legitimacy. Technically brilliant filmmaking in service of a deeply progressive thesis. Woke Score: 42.6, Traditional Score: 3.85.</p>
-            <a href="/reviews/conclave-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Adam McKay assembled the most expensive cast in Netflix history to make one argument: Americans are too dumb to save themselves. A comet is coming. The government is corrupt. The media is trivial. The public cannot pay attention long enough to care. The film casts every recognizable American archetype -- the folksy president, the cable news anchor, the tech billionaire -- as a grotesque, and then tells the audience that the people who watched this film and laughed are the smart ones. This is the most overtly condescending anti-American film of the decade. It scored STRONGLY WOKE at a -28 margin because every traditional institution in it, government, military, media, and faith, exists solely to fail. What it gets wrong about America specifically is this: Americans are not passive idiots awaiting rescue by coastal intellectuals. The film does not know any other kind.</p>
+            <a href="/reviews/dont-look-up-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">2</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/zootopia-2-2025/">Zootopia 2 (2025)</a></h2>
+            <h2><a href="/reviews/vice-2018/">Vice (2018)</a></h2>
             <div class="listicle-badges">
               <span class="verdict-badge woke">STRONGLY WOKE</span>
-              <span class="score-badge">-38 WOKE</span>
+              <span class="score-badge">-24 WOKE</span>
             </div>
-            <p>The single most woke film VirtueVigil has ever scored by raw numbers. Disney took a children's animated sequel and transformed it into a sustained allegory about systemic racism, institutional oppression, and the failure of law enforcement. The original Zootopia had narrative subtlety. The sequel abandons it entirely, delivering progressive social messaging with the finesse of a college seminar. Children will see talking animals. Parents who pay attention will see a 100-minute ideological lecture. Woke Score: 91, Traditional Score: 53.</p>
-            <a href="/reviews/zootopia-2-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Adam McKay's Dick Cheney biopic is not a film. It is a prosecution brief dressed in Brecht cosplay. Christian Bale delivers a genuinely unsettling physical performance inside a narrative that presents conservative governance as a criminal enterprise designed to funnel power to the powerful and blood to the oil fields. The film scores STRONGLY WOKE at -24 because it does not attempt to understand how or why Cheney believed what he believed. It assumes the answer is malice and builds every scene around confirming that assumption. What it gets wrong about America: the film cannot imagine that anyone in government acts from conviction rather than corruption. That is not a critique of Dick Cheney. It is a critique of America itself.</p>
+            <a href="/reviews/vice-2018/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">3</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/heretic-2024/">Heretic (2024)</a></h2>
+            <h2><a href="/reviews/american-fiction-2023/">American Fiction (2023)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge woke">STRONGLY WOKE</span>
-              <span class="score-badge">-27 WOKE</span>
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">-16 WOKE</span>
             </div>
-            <p>Hugh Grant plays a charming intellectual who lures two Mormon missionaries into his home to systematically dismantle their faith. The film frames organized religion as a mechanism of control, treats theological belief as intellectual weakness, and positions its villain's arguments as more compelling than his victims' faith. The horror is not that Grant's character is dangerous. The horror, as the film presents it, is that religion persists at all. Woke Score: 41, Traditional Score: 14.</p>
-            <a href="/reviews/heretic-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>A Black novelist frustrated with the publishing industry's demand for trauma-lit decides to write the most degrading Black stereotype novel he can imagine, expecting it to be rejected, and watches it become a bestseller. Cord Jefferson's debut is genuinely funny and more self-aware than most films in this genre. The problem is the conclusion it reaches: that America wants Black suffering as entertainment and will reward it commercially, and that the audience consuming this film is part of the machine being satirized. The film scores WOKE at -16. What it gets wrong about America is subtler than most entries on this list -- it mistakes a real pathology in the publishing industry for a truth about the entire country, and it cannot imagine a version of American cultural life that is not reducible to race commerce.</p>
+            <a href="/reviews/american-fiction-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">4</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/the-substance-2024/">The Substance (2024)</a></h2>
+            <h2><a href="/reviews/joker-2019/">Joker (2019)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge woke">STRONGLY WOKE</span>
-              <span class="score-badge">-24 WOKE</span>
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-12 WOKE</span>
             </div>
-            <p>Body horror as feminist manifesto. Demi Moore stars in a film that uses graphic physical transformation to argue that Hollywood's beauty standards destroy women from the inside out. The film treats the male gaze as a literal monster, frames aging as a systemic injustice rather than a natural process, and resolves its central metaphor with the subtlety of a sledgehammer. Coralie Fargeat directs with genuine visual flair, which makes the ideological payload land harder. Woke Score: 37, Traditional Score: 13.</p>
-            <a href="/reviews/the-substance-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Todd Phillips' film presents Arthur Fleck as the inevitable product of an America that abandoned its mentally ill, gutted its social services, and allowed wealth inequality to curdle into nihilistic rage. The Joker is not a monster. He is a symptom. This is perhaps the most influential framing of American decline in recent cinema: the idea that mass violence is what happens when society fails the weak, and that the angry man with a gun is the predictable output of a broken system. It scored WOKE LEAN at -12. What it gets wrong: the film collapses the complexity of mental illness and violence into a political argument. It uses Arthur's tragedy to indict American capitalism as the engine of criminality, which is a flattering story for people who believe that, and a false one.</p>
+            <a href="/reviews/joker-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">5</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/emilia-perez-2024/">Emilia Perez (2024)</a></h2>
+            <h2><a href="/reviews/amsterdam-2022/">Amsterdam (2022)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge woke">STRONGLY WOKE</span>
-              <span class="score-badge">-22 WOKE</span>
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-11 WOKE</span>
             </div>
-            <p>A musical about a Mexican cartel boss who transitions and becomes a humanitarian. The film asks audiences to accept this premise without irony, treats the character's gender transition as moral redemption, and frames the entire narrative around identity as the ultimate form of liberation. It won multiple awards and became one of the most divisive films of the year when audiences realized what critics had been celebrating. Woke Score: 28, Traditional Score: 6.</p>
-            <a href="/reviews/emilia-perez-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>David O. Russell assembled a cast of fifteen A-list performers to tell a story based loosely on the real 1933 Business Plot, in which a group of wealthy industrialists allegedly conspired to overthrow FDR. The film's argument is that American fascism is not a foreign import -- it is homegrown, and the wealthy have been plotting to destroy democracy since the beginning. Amsterdam lost $100 million at the box office and was savaged by critics who found it incoherent. VirtueVigil scored it WOKE LEAN at -11. What it gets wrong: the Business Plot was a real allegation, but the film presents it as proven fact and uses it to argue that American patriotism itself can be a vehicle for fascist ideology. The men who wave flags in this film are the villains. That is a recurring Hollywood tell.</p>
+            <a href="/reviews/amsterdam-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">6</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/maxxxine-2024/">MaXXXine (2024)</a></h2>
+            <h2><a href="/reviews/the-post-2017/">The Post (2017)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge woke">WOKE</span>
-              <span class="score-badge">-18 WOKE</span>
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-9 WOKE</span>
             </div>
-            <p>Ti West's trilogy closer pits its protagonist against the religious right and Moral Majority of 1980s Los Angeles. The film frames conservative Christian activism as the true horror, more dangerous than the serial killers in the background. Traditional morality is the villain. Sexual liberation is the hero's journey. The film's politics are not subtext; they are the text, delivered with style but zero subtlety. Woke Score: 32, Traditional Score: 14.</p>
-            <a href="/reviews/maxxxine-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Steven Spielberg made The Post during the first year of the Trump administration and released it with the specific intent of contrasting the Washington Post's 1971 publication of the Pentagon Papers with the press freedom battles of 2017. The film is not subtle about this. It scored WOKE LEAN at -9, because it presents journalists as the last line of defense against authoritarian government while presenting the American military and executive branch as institutions of systemic deception. What it gets wrong: The Post compresses the actual moral complexity of Daniel Ellsberg's decision and the newspaper's deliberations into a clean heroism narrative. The American government lied about Vietnam -- that is true. The film's error is presenting institutional press virtue as a permanent and reliable feature rather than a historically specific moment that has since been substantially complicated.</p>
+            <a href="/reviews/the-post-2017/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">7</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/love-lies-bleeding-2024/">Love Lies Bleeding (2024)</a></h2>
+            <h2><a href="/reviews/oppenheimer-2023/">Oppenheimer (2023)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge woke">WOKE</span>
-              <span class="score-badge">-17 WOKE</span>
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">-6 WOKE LEAN</span>
             </div>
-            <p>A neo-noir thriller about two women in a violent relationship set against the backdrop of small-town America. The film frames its queer romance as inherently revolutionary, treats rural American masculinity as the source of all violence, and positions its protagonists as victims of a patriarchal system rather than agents making destructive choices. Beautifully shot, ideologically loaded. Woke Score: 26, Traditional Score: 9.</p>
-            <a href="/reviews/love-lies-bleeding-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Christopher Nolan's Oppenheimer is the most technically magnificent film on this list and the hardest case to make. The film is not anti-American in any simple sense. It scores MIXED with a narrow -6 lean because it contains genuine traditional elements -- duty, sacrifice, institutional weight -- alongside a sustained portrait of American national security apparatus as paranoid, petty, and politically weaponized. The security hearing that constitutes the film's climax presents the post-war American state as an institution that destroys the men who serve it when they become inconvenient. What it gets wrong: Oppenheimer's actual security clearance revocation was politically motivated and unjust. The film is honest about that. But it frames that injustice as the defining truth about American institutions, rather than a correctable failure within a system that ultimately produced the most consequential scientific and military achievement of the 20th century.</p>
+            <a href="/reviews/oppenheimer-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">8</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/strange-world-2022/">Strange World (2022)</a></h2>
+            <h2><a href="/reviews/first-reformed-2018/">First Reformed (2018)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge woke">WOKE</span>
-              <span class="score-badge">-15 WOKE</span>
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-10 WOKE</span>
             </div>
-            <p>Disney's $180 million animated adventure that grossed $73 million worldwide, one of the studio's biggest financial disasters. Strange World features Disney's first openly gay teen protagonist in a story that frames traditional exploration and resource use as the root of environmental destruction. The father-son conflict is resolved by the son teaching the father that his adventurous, resource-extracting worldview was wrong all along. The market rendered its verdict swiftly. Woke Score: 27.5, Traditional Score: 12.32.</p>
-            <a href="/reviews/strange-world-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Paul Schrader's film casts Ethan Hawke as a Protestant pastor who, after counseling an eco-terrorist, begins to radicalize toward environmental violence. The film presents Christian faith as a tradition so hollowed out by institutional compromise that its most sincere practitioners are drawn toward apocalyptic despair. American Christianity, in First Reformed, is in partnership with corporate polluters, and anyone who takes it seriously will eventually recognize that the only honest response is rage. It scores WOKE LEAN at -10. What it gets wrong: the film presents the co-optation of some American Protestant institutions by corporate interests as the definitive truth about Christian faith in America, erasing the vast network of genuine ministry, charity, and community that operates entirely outside that frame.</p>
+            <a href="/reviews/first-reformed-2018/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">9</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/monkey-man-2024/">Monkey Man (2024)</a></h2>
+            <h2><a href="/reviews/white-noise-2022/">White Noise (2022)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge woke">WOKE</span>
-              <span class="score-badge">-14 WOKE</span>
+              <span class="verdict-badge woke">WOKE LEAN</span>
+              <span class="score-badge">-8 WOKE</span>
             </div>
-            <p>Dev Patel's directorial debut uses its Indian setting to deliver a class-warfare revenge narrative that frames religious nationalism, patriarchal authority, and institutional power as systemic evils. The action filmmaking is visceral and impressive. The politics are unmistakable: every authority figure is corrupt, every institution is complicit, and liberation comes only through violent destruction of the established order. Woke Score: 28, Traditional Score: 14.</p>
-            <a href="/reviews/monkey-man-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Noah Baumbach adapted Don DeLillo's satirical novel about a suburban American family confronting an industrial chemical disaster, and the result is a portrait of American middle-class life as a fog of consumer distraction, brand loyalty, and death anxiety. The family watches television. They shop. They argue about processed food. When the disaster comes, the government's response is incompetent and dishonest. The film scores WOKE LEAN at -8. What it gets wrong: DeLillo's novel was a product of 1985 and its satire was specifically about the media-saturated Reagan era. Baumbach transplants it to the present and plays it straight, which turns a specific historical critique into a universal claim: this is what American life is, always, endlessly, without redemption. That flattening is where the film loses its honesty.</p>
+            <a href="/reviews/white-noise-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">10</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/aquaman-and-the-lost-kingdom-2023/">Aquaman and the Lost Kingdom (2023)</a></h2>
+            <h2><a href="/reviews/greenland-2020/">Greenland (2020)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge woke">WOKE</span>
-              <span class="score-badge">-12 WOKE</span>
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">+3 TRAD LEAN</span>
             </div>
-            <p>The film that killed the DCEU. Aquaman and the Lost Kingdom puts climate change at the center of its plot: the villain's weapon generates greenhouse gases, the stakes are explicitly global warming, and the film climaxes with an Aquaman speech at the United Nations that mirrors Jason Momoa's real-world 2019 UN address. Director James Wan was open about the environmental messaging. The traditional elements, family bonds and brotherly loyalty, could not save a film more interested in lecturing than entertaining. It bombed. Woke Score: 31.2, Traditional Score: 18.9.</p>
-            <a href="/reviews/aquaman-and-the-lost-kingdom-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Greenland earns its spot on this list not because of a high woke score but because of what it reveals by accident. This is the only film here that scores a slight TRADITIONAL LEAN at +3 -- Gerard Butler's character is a devoted father, family loyalty drives every decision, and the film treats ordinary Americans as capable of courage. And yet: the government's emergency shelter system is a lottery that rewards wealth and connection, the military is absent when it matters, and the institutions that should protect citizens fail them at scale. VirtueVigil included it as the control case. Even a film that tries to be pro-American cannot resist the Hollywood default: when the chips are down, the system fails and individuals survive despite the state, not because of it. That is a telling limitation.</p>
+            <a href="/reviews/greenland-2020/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
@@ -13884,7 +13885,8 @@ function buildHollywoodAntiAmericanMoviesListicle() {
 
       <div class="listicle-conclusion">
         <h3>The Verdict</h3>
-        <p>These ten films share a common thread: they treat traditional American values, whether religious faith, patriotism, traditional family structure, or institutional trust, as problems to be solved rather than foundations to be respected. The combined box office tells its own story: several of these films were commercial failures despite critical acclaim, while others succeeded on spectacle alone despite their messaging. VirtueVigil scores every film in the database on the same dual-axis system. Browse all reviews at <a href="/reviews/">virtuevigil.com/reviews/</a>, or explore our complete <a href="/lists/">curated lists</a>.</p>
+        <p>Ten films, nine different directors, five different studios. The common thread is not incompetence and it is not accident. Hollywood has spent the better part of two decades building a story about America in which the institutions are rotten, the patriots are rubes, the government is predatory, and the only moral clarity available belongs to those who reject the premise of the country entirely. Some of these films are technically brilliant. Several are genuinely well-acted. A few contain real truths buried under the distortions. None of them will tell you what America actually is to the hundred million people who get up every day, raise families, work in the trades, attend church, pay taxes, and do not experience their lives as a civic catastrophe.</p>
+        <p>VirtueVigil reviews every film on the same dual-axis system regardless of politics. If it is in the database, it has been scored. Read the full reviews for every film analyzed here, and browse our complete archive of rated titles at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a>. Or see how the full list of anti-traditional films stacks up at <a href="/lists/movies-attacking-traditional-values/">Movies Attacking Traditional Values</a>.</p>
       </div>
     </article>`
   }));
