@@ -12,6 +12,18 @@
     "poster": "/images/posters/a-great-awakening-2026.jpg"
   },
   {
+    "slug": "lee-cronins-the-mummy-2026",
+    "title": "Lee Cronin's The Mummy",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Supernatural Horror",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.7,
+    "tradScore": 16.24,
+    "poster": "/images/posters/lee-cronins-the-mummy-2026.jpg"
+  },
+  {
     "slug": "mission-impossible-the-final-reckoning-2025",
     "title": "Mission: Impossible - The Final Reckoning",
     "verdict": "TRADITIONAL",
