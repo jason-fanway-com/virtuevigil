@@ -13898,15 +13898,17 @@ function buildHollywoodAntiAmericanMoviesListicle() {
 function buildChristopherNolanMoviesRankedListicle() {
   writePage('lists/christopher-nolan-movies-ranked/index.html', buildListiclePage({
     slug: 'christopher-nolan-movies-ranked',
-    title: 'Every Christopher Nolan Movie Ranked by Woke Score',
-    description: 'All 6 Christopher Nolan movies in our database ranked from least woke to most woke. Real data from VirtueVigil\'s scoring system.',
+    title: 'Every Christopher Nolan Movie Ranked by Traditional Values Score',
+    description: 'We scored every Christopher Nolan movie by traditional values. From The Dark Knight to Oppenheimer, here\'s how Nolan\'s filmography holds up.',
     canonicalPath: 'lists/christopher-nolan-movies-ranked',
-    publishDate: '2026-03-31',
+    publishDate: '2026-04-01',
     htmlContent: `<article class="listicle-article">
       <div class="listicle-intro">
-        <p>The auteur behind Dark Knight and Inception makes complex films. But how do they score on VirtueVigil? Ranked from cleanest to most politically loaded.</p>
-        <p>Christopher Nolan is Hollywood's rare apolitical blockbuster director. His films are about time, memory, duty, and moral weight rather than identity politics or social messaging. Five of his six films in our database score traditional. One does not. The ranking below sorts all six by net margin (Traditional Score minus Woke Score), from most traditional to most woke. Each title links to a full VirtueVigil review with trope audits, creative team profiles, and parental guidance.</p>
-        <p>Related: <a href="/lists/christopher-nolan-movies-woke-ranking/">Nolan Full Woke Ranking (Detailed)</a>, <a href="/lists/best-conservative-movies/">Best Conservative Movies</a>.</p>
+        <h1>Every Christopher Nolan Movie Ranked by Traditional Values Score</h1>
+        <p>Christopher Nolan is one of the last true auteurs working inside the Hollywood studio system. He makes original films on giant budgets, refuses to shoot on digital, and treats the audience like adults. For traditional and conservative moviegoers, that alone makes him worth paying attention to. But does his filmography actually hold up under VirtueVigil's scoring methodology?</p>
+        <p>We scored all six Nolan-directed films in our database using the VirtueVigil Weighted Scoring system (VVWS v1.1). Every film receives a Traditional Values Score (tradScore) and a Woke Content Score (wokeScore) based on trope audits, thematic analysis, creative team profiles, and narrative arc assessments. The tradScore measures how strongly a film affirms values like personal responsibility, family, duty, order, and moral seriousness. The wokeScore measures the presence and weight of progressive ideological messaging.</p>
+        <p>This list ranks all six films from lowest tradScore to highest. In other words, we start with the films that scored least traditionally and build to the most traditionally affirming film in Nolan's catalog. Spoiler: the top spot will surprise you. The bottom will not.</p>
+        <p>Every film links to its full VirtueVigil review, complete with trope audits, fidelity casting analysis, creative team profiles, and parental guidance. Related reads: <a href="/lists/christopher-nolan-movies-woke-ranking/">Nolan Films Ranked by Woke Score</a>, <a href="/lists/best-conservative-movies/">Best Conservative Movies</a>, <a href="/lists/best-traditional-movies-2025/">Most Traditional Films of 2025</a>.</p>
       </div>
 
       <ol class="listicle-items">
@@ -13914,65 +13916,70 @@ function buildChristopherNolanMoviesRankedListicle() {
         <li class="listicle-item">
           <div class="listicle-rank">1</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/the-dark-knight-rises-2012/">The Dark Knight Rises (2012)</a></h2>
+            <h2><a href="/reviews/tenet-2020/">Tenet (2020)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
-              <span class="score-badge">+21 TRAD</span>
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">TRAD: 17.23</span>
+              <span class="score-badge">WOKE: 1.5</span>
             </div>
-            <p>Nolan's most politically charged film is also his most conservative. Bane's populist revolution is a cautionary tale about class warfare demagoguery. Batman's sacrifice is the price of civilization. Occupy Wall Street activists called it anti-Occupy propaganda. VirtueVigil calls it the best traditional superhero film ever made. Woke Score: 4.2, Traditional Score: 24.78.</p>
-            <a href="/reviews/the-dark-knight-rises-2012/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Tenet is Nolan at his most ideologically stripped-down. The film has essentially zero political content. The protagonist is a nameless operative with no stated ideology, acting in service of civilization itself. The villain wants to destroy the future out of pure nihilism, and the film treats that as the ultimate evil. Tenet lands at the bottom of this tradScore ranking not because it fails traditional values, but because it barely engages with values at all.</p>
+            <a href="/reviews/tenet-2020/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">2</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/inception-2010/">Inception (2010)</a></h2>
+            <h2><a href="/reviews/the-dark-knight-2008/">The Dark Knight (2008)</a></h2>
             <div class="listicle-badges">
               <span class="verdict-badge traditional">TRADITIONAL</span>
-              <span class="score-badge">+18 TRAD</span>
+              <span class="score-badge">TRAD: 19.6</span>
+              <span class="score-badge">WOKE: 3.5</span>
             </div>
-            <p>A heist film operating across five dream levels, anchored by a father trying to get home to his children. Personal responsibility, the sanctity of the mind, and duty to family drive every decision Dom Cobb makes. No agenda. No messaging. Just craft and consequence at the highest level. Woke Score: 2.9, Traditional Score: 20.44.</p>
-            <a href="/reviews/inception-2010/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>The greatest superhero film ever made is also a deeply conservative one. Heath Ledger's Joker is pure chaos given form: he does not want money, power, or justice. He wants to prove that civilization is a lie. Batman's response is to accept the burden of being the villain in the eyes of the public so that order can survive. Harvey Dent's arc is a tragedy about what happens when moral compromise corrupts a good man.</p>
+            <a href="/reviews/the-dark-knight-2008/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">3</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/the-dark-knight-2008/">The Dark Knight (2008)</a></h2>
+            <h2><a href="/reviews/inception-2010/">Inception (2010)</a></h2>
             <div class="listicle-badges">
               <span class="verdict-badge traditional">TRADITIONAL</span>
-              <span class="score-badge">+16 TRAD</span>
+              <span class="score-badge">TRAD: 20.44</span>
+              <span class="score-badge">WOKE: 2.9</span>
             </div>
-            <p>The best superhero film ever made, and one of the best crime films. Heath Ledger's Joker is chaos for its own sake, treated as a genuine existential threat. Batman bears the burden of villainy so society can have order. Harvey Dent's fall is a tragedy, not an indictment of institutions. The film's moral seriousness is about as conservative as blockbuster cinema gets. Woke Score: 3.5, Traditional Score: 19.6.</p>
-            <a href="/reviews/the-dark-knight-2008/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Inception is the rare blockbuster that can be read as a film about fatherhood and nothing else. Dom Cobb is a man separated from his children by his own choices, operating across dream layers to earn his way home. Every scene in the film connects to that singular motivation: the weight of absent fatherhood and the cost of redemption. Personal responsibility is baked into every plot beat. There is no agenda, no messaging, no nods to identity politics or social currents.</p>
+            <a href="/reviews/inception-2010/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">4</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/tenet-2020/">Tenet (2020)</a></h2>
+            <h2><a href="/reviews/interstellar-2014/">Interstellar (2014)</a></h2>
             <div class="listicle-badges">
               <span class="verdict-badge traditional">TRADITIONAL</span>
-              <span class="score-badge">+16 TRAD</span>
+              <span class="score-badge">TRAD: 23.16</span>
+              <span class="score-badge">WOKE: 7.72</span>
             </div>
-            <p>Nolan's most ideologically sterile film. Tenet has essentially no political content. The protagonist has no political agenda. The villain is a nihilist who wants to destroy the future. The film's implicit argument is that civilization is worth defending and that sacrifice is required to preserve it. Conservatives will find that deeply satisfying. Woke Score: 1.5, Traditional Score: 17.23.</p>
-            <a href="/reviews/tenet-2020/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Interstellar is Nolan's most emotionally direct film, and its emotional core is unmistakably traditional: a father and daughter separated across space and time by duty, sacrifice, and the weight of human survival. The film is explicitly pro-family in ways that almost no major Hollywood production has the confidence to be. It is also pro-science without being anti-faith, and it grounds human survival not in collective action or government planning but in individual sacrifice and the bond between parent and child.</p>
+            <a href="/reviews/interstellar-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
         <li class="listicle-item">
           <div class="listicle-rank">5</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/interstellar-2014/">Interstellar (2014)</a></h2>
+            <h2><a href="/reviews/the-dark-knight-rises-2012/">The Dark Knight Rises (2012)</a></h2>
             <div class="listicle-badges">
-              <span class="verdict-badge traditional">TRADITIONAL</span>
-              <span class="score-badge">+15 TRAD</span>
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">TRAD: 24.78</span>
+              <span class="score-badge">WOKE: 4.2</span>
             </div>
-            <p>Nolan's most emotionally direct film. A father and daughter separated by space and time. The film is pro-science but not anti-faith, rooting human survival in family bonds rather than collective action or government programs. The higher woke score reflects some muddled messaging about institutional dishonesty, but the core is unmistakably traditional. Woke Score: 7.72, Traditional Score: 23.16.</p>
-            <a href="/reviews/interstellar-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <p>Nolan's most overtly political film is also his most conservative. Bane's revolution is a populist power-grab dressed up as justice: he seizes property, holds show trials, and executes anyone associated with the old order. The film treats this not as liberation but as barbarism. Batman's arc is about a man who has given up on civilization choosing to rejoin and defend it, at cost of everything. When Occupy Wall Street activists called The Dark Knight Rises anti-Occupy propaganda, they were identifying something real.</p>
+            <a href="/reviews/the-dark-knight-rises-2012/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
 
@@ -13982,9 +13989,10 @@ function buildChristopherNolanMoviesRankedListicle() {
             <h2><a href="/reviews/oppenheimer-2023/">Oppenheimer (2023)</a></h2>
             <div class="listicle-badges">
               <span class="verdict-badge woke">WOKE LEAN</span>
-              <span class="score-badge">-4 WOKE</span>
+              <span class="score-badge">TRAD: 26</span>
+              <span class="score-badge">WOKE: 30</span>
             </div>
-            <p>The outlier. Technically masterful and genuinely gripping, Oppenheimer carries ideological baggage that tips it into woke-lean territory. The film frames its protagonist's Communist associations sympathetically, treats the security hearing as political persecution, and centers moral weight on American guilt over the bomb rather than the strategic necessity that ended the war. The only Nolan film where you can feel the politics pushing on the frame. Woke Score: 30, Traditional Score: 26.</p>
+            <p>Here is the result that demands explanation: Oppenheimer scores the highest tradScore in Nolan's entire filmography at 26, yet it is the only film in his catalog that trends woke overall, with a wokeScore of 30. The tradScore reflects the film's genuine strengths: the weight of scientific duty, the moral seriousness of consequential decision-making, the portrayal of institutional sacrifice, and the unflinching look at what it costs to build something that changes history forever. But the wokeScore of 30 cannot be ignored.</p>
             <a href="/reviews/oppenheimer-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
@@ -13992,8 +14000,10 @@ function buildChristopherNolanMoviesRankedListicle() {
       </ol>
 
       <div class="listicle-conclusion">
-        <h3>The Nolan Verdict</h3>
-        <p>Five of six Nolan films score traditional. That is a better track record than almost any director working at his budget level. The Dark Knight Rises and Inception sit near the top of everything VirtueVigil has ever reviewed. Oppenheimer is the exception: a film where Nolan's usual political restraint gives way to a sympathetic portrayal of a man whose politics were a legitimate national security concern. All six films are reviewed in full at VirtueVigil. Browse the full database at <a href="/reviews/">virtuevigil.com/reviews/</a> or see how other directors stack up on our <a href="/lists/">lists page</a>.</p>
+        <h3>What the Numbers Tell Us About Nolan</h3>
+        <p>Five of six Christopher Nolan films score traditional. That is a better track record than almost any director operating at his budget level in Hollywood today. His films are not conservative in the narrow partisan sense: Nolan does not make films about policy or politics. But his instincts are consistently traditional: personal responsibility over collective grievance, sacrifice over self-interest, order over chaos, and moral weight over moral relativism.</p>
+        <p>The sweet spot in Nolan's filmography for traditional audiences is the Dark Knight trilogy. All three films score traditional. The Dark Knight Rises earns the highest combined rating among the three, but The Dark Knight is the one that has stood the test of time as both a cinematic and moral achievement. Inception remains the cleanest entry in his catalog: a film with no political agenda, no messaging, and a story built entirely around a father's love for his children.</p>
+        <p>VirtueVigil scores films using the VVWS v1.1 methodology, which weights trope prevalence, narrative arc outcomes, creative team profiles, fidelity casting practices, and thematic messaging. Each score is the result of a full review, not a shortcut. Read more about how we score films on our methodology page, or browse the complete list of director rankings on our <a href="/lists/">lists page</a>. Every Nolan film has a full review in our database with trope audits, parental guidance, and complete scoring breakdowns.</p>
       </div>
     </article>`
   }));
