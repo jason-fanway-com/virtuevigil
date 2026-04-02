@@ -108,6 +108,18 @@
     "poster": "/images/posters/mother-mary-2026.jpg"
   },
   {
+    "slug": "faces-of-death-2026",
+    "title": "Faces of Death",
+    "verdict": "MIXED",
+    "platform": "Theatrical (IFC / Shudder)",
+    "genre": "Horror",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 10.3,
+    "tradScore": 10.36,
+    "poster": "/images/posters/faces-of-death-2026.jpg"
+  },
+  {
     "slug": "lee-cronins-the-mummy-2026",
     "title": "Lee Cronin's The Mummy",
     "verdict": "PREDICTED: TRADITIONAL",
