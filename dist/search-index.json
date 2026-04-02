@@ -120,6 +120,18 @@
     "poster": "/images/posters/faces-of-death-2026.jpg"
   },
   {
+    "slug": "the-watchers-2024",
+    "title": "The Watchers",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Supernatural Horror / Fantasy",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 3.8,
+    "tradScore": 13.65,
+    "poster": "/images/posters/the-watchers-2024.jpg"
+  },
+  {
     "slug": "lee-cronins-the-mummy-2026",
     "title": "Lee Cronin's The Mummy",
     "verdict": "PREDICTED: TRADITIONAL",
