@@ -96,6 +96,18 @@
     "poster": "/images/posters/the-drama-2026.jpg"
   },
   {
+    "slug": "mother-mary-2026",
+    "title": "Mother Mary",
+    "verdict": "PREDICTED: WOKE",
+    "platform": "Theatrical (A24)",
+    "genre": "Psychological Drama Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 18.8,
+    "tradScore": 7.88,
+    "poster": "/images/posters/mother-mary-2026.jpg"
+  },
+  {
     "slug": "lee-cronins-the-mummy-2026",
     "title": "Lee Cronin's The Mummy",
     "verdict": "PREDICTED: TRADITIONAL",
