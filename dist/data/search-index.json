@@ -228,6 +228,18 @@
     "poster": "/images/posters/blink-twice-2024.jpg"
   },
   {
+    "slug": "hard-truths-2024",
+    "title": "Hard Truths",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / Bleecker Street",
+    "genre": "Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 3.92,
+    "tradScore": 11.82,
+    "poster": "/images/posters/hard-truths-2024.jpg"
+  },
+  {
     "slug": "lee-cronins-the-mummy-2026",
     "title": "Lee Cronin's The Mummy",
     "verdict": "PREDICTED: TRADITIONAL",
