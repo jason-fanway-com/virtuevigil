@@ -1789,6 +1789,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/disappointing-woke-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/pixar-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-non-woke-romance-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-kids-movies-2025-2026-no-agenda/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2670,6 +2671,7 @@ function buildListsHubPage() {
         'best-traditional-movies-2025',
         'best-traditional-movies-2026',
         'best-war-movies-patriots',
+        'best-kids-movies-2025-2026-no-agenda',
         'clean-movies-for-kids-2024',
         'conservative-movies-2026',
         'conservative-movies-to-watch-2025',
@@ -2745,6 +2747,7 @@ function buildListsHubPage() {
       'audience-vs-critic-scores-conservative': 'Audience vs Critic Scores (Conservative)',
       'movies-attacking-traditional-values': 'Movies Attacking Traditional Values',
       'hollywood-anti-american-movies': 'Hollywood Anti-American Movies',
+      'best-kids-movies-2025-2026-no-agenda': 'Best Kids Movies 2025-2026 (No Agenda)',
       'clean-movies-for-kids-2024': 'Clean Movies for Kids 2024',
       'best-non-woke-romance-movies': 'Best Non-Woke Romance Movies',
       'family-friendly-movies-2024': 'Family-Friendly Movies 2024',
@@ -15297,6 +15300,200 @@ function buildAudienceVsCriticScoresListicle() {
         <h3>The Verdict</h3>
         <p>Ten films. Average traditional margin of plus 28. Combined worldwide gross of over $4 billion. Average Rotten Tomatoes critic score significantly lower than audience score across the board. The pattern is structural, not incidental: the critical establishment consistently underrates films that celebrate faith, patriotism, and traditional values, and audiences consistently overrule them at the box office. VirtueVigil exists because that gap needs a bridge. Browse all reviews at <a href="/reviews/">virtuevigil.com/reviews/</a>, or explore our complete <a href="/lists/">curated lists</a>.</p>
       </div>
+    </article>`
+  }));
+
+  writePage('lists/best-kids-movies-2025-2026-no-agenda/index.html', buildListiclePage({
+    slug: 'best-kids-movies-2025-2026-no-agenda',
+    title: 'Best Movies for Kids in 2025-2026: Zero Woke Agenda (Ranked by VirtueVigil)',
+    description: 'VirtueVigil ranks the 10 best kids movies of 2025-2026 with no woke agenda. Every film scored for family safety, traditional values, and clean entertainment.',
+    canonicalPath: 'lists/best-kids-movies-2025-2026-no-agenda',
+    publishDate: '2026-04-01',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <h1 style="font-family:'Cinzel',Georgia,serif;font-size:1.6rem;color:#c9a84c;margin:0 0 20px;">Best Movies for Kids in 2025-2026: Zero Woke Agenda (Ranked by VirtueVigil)</h1>
+        <p>Picking a movie for your kids in 2025 should be simple. It is not. Hollywood has spent years embedding progressive messaging into animated films, adventure stories, and family comedies -- sometimes with a sledgehammer, sometimes with a scalpel. Gender ideology in children's films, anti-family subtext, activist side characters, and third-act lectures have become standard features in the genre. Parents who care about what their kids absorb cannot simply trust a G or PG rating anymore.</p>
+        <p>That is exactly why VirtueVigil scores every film on our dual-axis system: a Woke Score measuring ideological content density, and a Traditional Score measuring how actively the film promotes values like family loyalty, courage, faith, duty, and personal accountability. This list gathers the 10 best family and kids films from 2025-2026 that passed our review -- meaning low woke scores, strong traditional foundations, and content parents can actually sit through without feeling ambushed. We ranked them #10 to #1 based on combined family-safety and values quality.</p>
+        <p>Every film on this list received a VirtueVigil review. Click through for the full breakdown before you press play.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/mufasa-2024/">Mufasa: The Lion King (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL LEAN</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>Woke Score: 14.2 | Traditional Score: 22.8 | VirtueVigil Rating: TRADITIONAL LEAN</p>
+            <p>Disney's prequel to the 1994 classic tells the story of Mufasa's rise from orphan to king, anchored in themes of identity, earned leadership, and the bonds that define who we become. The woke score is the highest on this list, reflecting a few modern signaling choices in the dialogue, but the traditional core -- brotherhood, sacrifice, the burden of rightful authority -- remains intact. For families invested in the Lion King legacy, this is a solid watch with a parent alongside for context on a handful of moments.</p>
+            <a href="/reviews/mufasa-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/inside-out-2-2024/">Inside Out 2 (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>Woke Score: 10.08 | Traditional Score: 20.16 | VirtueVigil Rating: TRADITIONAL</p>
+            <p>Pixar went back to basics after several years of commercial and ideological stumbles, and the result was the highest-grossing animated film of 2024. Inside Out 2 tells a story about a teenage girl navigating identity pressure, anxiety, and the fear of not being enough -- and it lands on the right answer: who you are is not just your achievements, and the people who love you do not need you to be perfect. The film earned its traditional score honestly. The woke score reflects minor modern framing that is easy to discuss with older kids rather than anything disqualifying.</p>
+            <a href="/reviews/inside-out-2-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/paddington-in-peru-2025/">Paddington in Peru (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>Woke Score: 8.4 | Traditional Score: 22.5 | VirtueVigil Rating: TRADITIONAL</p>
+            <p>The third Paddington film takes the beloved bear and his British family to the Amazon to find Aunt Lucy. Paddington remains one of the few genuinely universal children's characters in modern cinema -- a creature of unfailing courtesy, genuine warmth, and good faith toward everyone he meets. The film's values are classical: loyalty to family, honesty even when inconvenient, and the idea that kindness is not weakness but courage in small doses. The woke score reflects some progressive framing in the travel-and-cultural-exploration sequences, but it never tips into lecture territory. A safe family pick with a traditional heart.</p>
+            <a href="/reviews/paddington-in-peru-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/dog-man-2025/">Dog Man (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>Woke Score: 3.35 | Traditional Score: 22.54 | VirtueVigil Rating: TRADITIONAL</p>
+            <p>Take the kids. Seriously -- this one is fine. Dog Man is 89 minutes of enthusiastic, clean chaos based on Dav Pilkey's best-selling graphic novel series for early readers. DreamWorks Animation leaned into Pilkey's hand-drawn aesthetic in a way that feels genuinely fresh and different from the polished CGI standard. The premise is gloriously absurd: a policeman and his dog are mortally wounded in the same incident, so surgeons attach the dog's head to the officer's body. The result is a movie that younger kids will adore and parents will survive without losing their minds. A woke score of 3.35 is among the cleanest in modern family animation. The moral is simple and real: do the right thing even when it is hard, especially when no one is watching.</p>
+            <a href="/reviews/dog-man-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/karate-kid-legends-2025/">Karate Kid: Legends (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+26 TRAD</span>
+            </div>
+            <p>Woke Score: 3.15 | Traditional Score: 26.32 | VirtueVigil Rating: STRONGLY TRADITIONAL</p>
+            <p>Not a woke trap. Not even close. Karate Kid: Legends is a movie about older men teaching a young man to be brave, disciplined, and honorable -- and it means every word of it. The franchise revival brings together Jackie Chan and Ralph Macchio in a mentorship story that takes seriously the idea that martial arts is about character formation, not just combat technique. The film's traditional score of 26.32 reflects brotherhood, earned respect, and the classical understanding that discipline is a gift, not a burden. For parents looking for a family action film that actively models the values they want their sons and daughters to see, this is the list's most direct example of exactly that.</p>
+            <a href="/reviews/karate-kid-legends-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-wild-robot-2024/">The Wild Robot (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>Woke Score: 7.12 | Traditional Score: 27.93 | VirtueVigil Rating: STRONGLY TRADITIONAL</p>
+            <p>The Wild Robot might be the most subversive animated film of 2024 -- not in the way Hollywood usually means that word, but in the most welcome sense. In a year where animated films competed to pack in progressive messaging, director Chris Sanders made a movie about a robot who accidentally becomes a mother and discovers that love requires sacrifice, presence, and willingness to put another life above your own comfort. The film is a masterwork of restraint and emotional honesty. A woke score of 7.12 reflects some modern framing in peripheral sequences, but the central story is a deeply traditional meditation on parenthood, duty, and what it costs to raise something worth loving. One of the best animated films in years.</p>
+            <a href="/reviews/the-wild-robot-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/david-2025/">David (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>Woke Score: 2.0 | Traditional Score: 28.0 | VirtueVigil Rating: STRONGLY TRADITIONAL</p>
+            <p>Angel Studios proved that faith-based cinema can compete with the major studios, and they did it with a 3,000-year-old story about a shepherd kid with a sling and an unshakeable faith in God. David is an animated biblical musical telling the first half of King David's story -- from his anointing by the prophet Samuel, through his years as a shepherd and harpist, to his defeat of Goliath and rise as Israel's king. The traditional score of 28 reflects deep themes of faith, humility before God, courage in the face of overwhelming odds, and the idea that greatness comes to those who remain faithful when no one is watching. For families looking for a film that takes their faith seriously and treats the source material with reverence and genuine artistic ambition, David belongs at the top of the watchlist.</p>
+            <a href="/reviews/david-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/how-to-train-your-dragon-2025/">How to Train Your Dragon (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+33 TRAD</span>
+            </div>
+            <p>Woke Score: 4.7 | Traditional Score: 33.2 | VirtueVigil Rating: STRONGLY TRADITIONAL</p>
+            <p>Director Dean DeBlois is a rarity in Hollywood: a filmmaker who directed all three animated How to Train Your Dragon films and insisted on full creative control for the live-action remake. That condition shows in the finished product. This is clearly the work of a filmmaker who loves the material and respects the audience. The story has not changed -- a young Viking misfit befriends a wounded dragon his village is trained to fear and kill, and discovers that the courage to see what others dismiss is the truest form of bravery. The father-son relationship, the theme of earned trust between two unlikely companions, and the idea that changing your mind when evidence demands it is strength rather than weakness all land with real weight. A traditional score of 33.2 is exceptional for a 2025 wide release.</p>
+            <a href="/reviews/how-to-train-your-dragon-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/ne-zha-2-2025/">Ne Zha 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+39 TRAD</span>
+            </div>
+            <p>Woke Score: 0.0 | Traditional Score: 38.57 | VirtueVigil Rating: STRONGLY TRADITIONAL</p>
+            <p>One of the most extraordinary animated films made anywhere in the world in the past decade, and it earned a perfect woke score of zero. The Chinese production is a masterpiece of scale, imagination, and emotion built around themes that Western animation has largely abandoned: filial loyalty, sacrifice, destiny, and the bond between a father and son that transcends death itself. Ne Zha 2 does not just avoid progressive messaging -- it is built entirely on the opposite framework, one where duty to family and community is the highest calling, and where individual glory means nothing if it dishonors those who came before you. The animation is jaw-dropping. The emotional payoff is fully earned. This film hit parents harder than their kids, and that is exactly how great family cinema works.</p>
+            <a href="/reviews/ne-zha-2-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/">The SpongeBob Movie: Search for SquarePants (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+43 TRAD</span>
+            </div>
+            <p>Woke Score: 1.28 | Traditional Score: 43.1 | VirtueVigil Rating: STRONGLY TRADITIONAL</p>
+            <p>The highest traditional score of any animated film VirtueVigil reviewed in 2025, and it is not close. The fourth SpongeBob theatrical outing arrives with the kind of refreshing simplicity that has become almost exotic in modern animated filmmaking: a straightforward story about friendship and courage, a moral delivered without a lecture, and a film that does not try to be anything other than what it is. Mr. Krabs tells SpongeBob that being big is not about height -- it is about bravery, adventure, and moxie. That is the entire thesis of the film, and it never wobbles. A woke score of 1.28 is exceptional for any major studio family release. A traditional score of 43.1 ranks among the highest in our entire database. If you watch only one kids film from 2025, put it on without a second thought and let it run. This is exactly what family entertainment is supposed to look like.</p>
+            <a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>How VirtueVigil Scores Family Films</h3>
+        <p>VirtueVigil uses a 0-100 Woke Score that measures the density and intensity of progressive ideological content -- gender politics, anti-religious messaging, activist framing, identity politics, and institutional critique embedded in narrative and character design. A score under 5 is essentially clean. A score above 15 carries meaningful ideological load. Every film ranked #7 and above on this list scored under 5.</p>
+        <p>The Traditional Score works in the opposite direction, measuring how actively the film promotes values like family loyalty, self-sacrifice, faith, personal accountability, and earned respect. Films in the Strongly Traditional range (above 20) do not just avoid the bad -- they actively model something worth passing on to your kids.</p>
+        <p>For more scored films across every genre, browse the full <a href="/reviews/">VirtueVigil review library</a>. Every entry includes trope-by-trope breakdowns, parental guidance notes, and our complete scoring methodology. You will never have to wonder what you are walking into again. For more family picks, see our <a href="/lists/clean-movies-for-kids-2024/">Clean Movies for Kids 2024</a> and <a href="/lists/family-friendly-movies-2024/">Family-Friendly Movies 2024</a> lists.</p>
+      </div>
+
+      <style>
+      .listicle-article { max-width: 860px; }
+      .listicle-intro p { color: #bbb; line-height: 1.75; margin-bottom: 16px; font-size: 1.05rem; }
+      .listicle-items { list-style: none; padding: 0; margin: 32px 0 0; }
+      .listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+      .listicle-item:last-child { border-bottom: none; }
+      .listicle-rank { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; background: rgba(201,168,76,0.12); border: 2px solid rgba(201,168,76,0.4); display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; }
+      .listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.25rem; margin: 0 0 10px; }
+      .listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+      .listicle-content h2 a:hover { color: #c9a84c; }
+      .listicle-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+      .verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+      .verdict-badge.traditional { background: rgba(39,174,96,0.15); color: #2ecc71; border: 1px solid #2ecc71; }
+      .verdict-badge.mixed { background: rgba(230,126,34,0.12); color: #e67e22; border: 1px solid #e67e22; }
+      .verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+      .verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+      .score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+      .listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+      .listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+      .listicle-cta:hover { background: rgba(201,168,76,0.1); }
+      .listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+      .listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+      .listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+      .listicle-conclusion a { color: #c9a84c; }
+      @media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+      </style>
     </article>`
   }));
 
