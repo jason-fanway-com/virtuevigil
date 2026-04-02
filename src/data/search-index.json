@@ -4186,6 +4186,18 @@
     "poster": "/images/posters/death-of-a-unicorn-2025.jpg"
   },
   {
+    "slug": "scream-7",
+    "title": "Scream 7",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 9.5,
+    "tradScore": 18.34,
+    "poster": "/images/posters/scream-7.jpg"
+  },
+  {
     "slug": "sonic-the-hedgehog-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL",
@@ -5432,18 +5444,6 @@
     "wokeScore": 0,
     "tradScore": 8,
     "poster": "/images/posters/i-can-only-imagine-2.jpg"
-  },
-  {
-    "slug": "scream-7",
-    "title": "Scream 7",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Horror",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 3,
-    "tradScore": 5,
-    "poster": "/images/posters/scream-7.jpg"
   },
   {
     "slug": "blitz-2024",

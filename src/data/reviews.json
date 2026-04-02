@@ -43956,78 +43956,110 @@
     "type": "film",
     "platform": "Theatrical",
     "genre": "Horror",
-    "date": "2026-02-17",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "12 min",
+    "date": "2026-02-27",
+    "datePublished": "2026-04-02",
+    "author": "Destiny",
+    "readTime": "14 min",
     "poster": "/images/posters/scream-7.jpg",
+    "rating": "R",
+    "studio": "Paramount/Spyglass",
+    "boxOffice": "$63.6M opening weekend (franchise record)",
+    "rtScore": "34%",
+    "imdbScore": "5.8",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 3,
-    "tradScore": 5,
-    "authIndex": 75,
-    "scoreMargin": "+2 TRAD",
+    "wokeScore": 9.5,
+    "tradScore": 18.34,
+    "scoreMargin": "+8.84 TRAD",
+    "authIndex": 78,
+    "wokeTrap": false,
+    "spoiler_alert": true,
+    "tropeAudit": [
+      {
+        "id": "WOKE-001",
+        "name": "LGBTQ+ Normalization",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Mindy Meeks-Martin (Jasmin Savoy Brown) is openly gay and her relationship is acknowledged as a matter of fact. It is organic to the character as established in the franchise's recent entries - not injected for ideological purposes. She delivers the film's signature meta-commentary speech and is a fan-favorite character. Authenticity is High because this continues established franchise canon rather than introducing identity politics as a new statement."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Meta-Commentary with Progressive Edge",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 5.4,
+        "description": "The film's meta-layer critiques toxic fandom, nostalgia culture, and the dangers of AI deepfakes - all through a distinctly progressive cultural lens. Mindy delivers an expository speech diagnosing the killers as obsessives who cannot accept that Sidney (and by extension, beloved IP) has moved on. The villain's motivation - recreating trauma to forge a 'final girl' - is framed as a pathological obsession with legacy rather than genuine horror. This is the franchise's DNA, but the ideological direction of the commentary (critiquing nostalgia-driven audiences, not celebrating them) tilts progressive. Centrality is High because the commentary shapes the entire third-act reveal."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Feminist Messaging",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "The primary villain Jessica Bowden is motivated by obsessive identification with Sidney as a feminist icon - a 'strong woman forged by trauma.' The film frames this as pathological, not aspirational, which somewhat mutes the feminist signaling. Sidney herself is framed as a mother and wife first, a survivor second. The feminist subtext is present but subordinated to the traditional emotional core. Severity is Mild-Moderate because it is present in villain motivation but not championed by the narrative."
+      },
+      {
+        "id": "TRAD-001",
+        "name": "Motherhood and Family Protection",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "This is the film's thesis statement. Sidney Prescott is no longer just a survivor - she is a mother, and the entire narrative is constructed around a mother's primal drive to protect her daughter. Tatum (Isabel May) being targeted by Ghostface is the emotional engine of every scene. The mother-daughter dynamic - strained but loving, tested and ultimately forged stronger - drives the climax. Kevin Williamson grounds the franchise's 30-year arc in its most emotionally traditional premise yet: a mother who will die before she lets anything happen to her child. Severity 5 (Defining), Authenticity High (organic to the premise), Centrality High (the film's entire dramatic structure)."
+      },
+      {
+        "id": "TRAD-002",
+        "name": "Self-Sacrifice",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Sidney repeatedly places herself in lethal danger to protect others - especially Tatum and her husband Mark (Joel McHale). The climax requires Sidney to make choices that prioritize her family's survival over her own safety. This is organic to the character across seven films and earns its Authenticity High rating. It is not performative sacrifice - it is a woman who has spent 30 years absorbing horror so others do not have to. Centrality is High because the final confrontation turns on Sidney's willingness to sacrifice herself."
+      },
+      {
+        "id": "TRAD-003",
+        "name": "Defense of the Innocent",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "description": "The film's moral framework is clear: Ghostface targets innocents, and the heroes exist to stop that. Tatum is targeted specifically because she is innocent of her mother's sins - she is collateral in a grudge she had no part in creating. Sidney defending her daughter against killers who would harm the innocent to recreate historical trauma is the franchise's most classically moral framing in years. Centrality is Moderate because it is the premise rather than an explicit theme the film develops."
+      },
+      {
+        "id": "TRAD-004",
+        "name": "Marriage as Sacred Institution",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Sidney Prescott is now Sidney Evans. She has a husband in Joel McHale's Mark Evans and three children. The nuclear family is the unit under siege - not just Sidney individually. Mark is portrayed as a devoted husband who rushes to protect his family and is gravely wounded doing so. The ambulance scene at the end, where Sidney stands watch over a wounded Mark, frames marriage as the anchor of survival. Sidney's 30-year journey culminates not in lone-wolf heroism but in the protection of family. Authenticity is High because this is organic character progression."
+      },
+      {
+        "id": "TRAD-005",
+        "name": "Legacy and Continuity",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Scream 7 is the franchise's 30th anniversary entry, and it leans into that legacy with purpose. Dewey (David Arquette) appears in deepfake form, making his ghost present even in death. The final scene where Sidney tells Tatum about her namesake - Tatum Riley, Sidney's best friend killed in the original 1996 film - is an act of oral tradition, passing down the legacy of sacrifice and love to the next generation. Kevin Williamson's return as creator-director is itself a statement about honoring the source. Authenticity is High because this continuity is earned."
+      }
+    ],
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "Possible low probability woke trap. The franchise has progressive meta-commentary DNA but the motherhood/family premise is traditional at its core."
+      "explanation": "Scream 7 is not a woke trap. The traditional content - motherhood, family protection, self-sacrifice, marriage - is front-loaded and prominent from the first act. The woke meta-commentary is present throughout but the film's emotional core is unambiguously conservative. The verdict is TRADITIONAL LEAN and that lean is visible from scene one. No deceptive packaging here."
     },
     "creative_team": {
-      "cast": [
-        {
-          "actor": "Neve Campbell",
-          "role": "Sidney Prescott"
-        },
-        {
-          "actor": "Courteney Cox",
-          "role": "Gale Weathers"
-        },
-        {
-          "actor": "Isabel May",
-          "role": "Tatum"
-        },
-        {
-          "actor": "Jasmin Savoy Brown",
-          "role": "Mindy Meeks-Martin"
-        },
-        {
-          "actor": "Mason Gooding",
-          "role": "Chad Meeks-Martin"
-        },
-        {
-          "actor": "Joel McHale",
-          "role": "Mark Evans"
-        },
-        {
-          "actor": "Mckenna Grace",
-          "role": "TBD"
-        },
-        {
-          "actor": "Anna Camp",
-          "role": "TBD"
-        },
-        {
-          "actor": "Jimmy Tatro",
-          "role": "TBD"
-        },
-        {
-          "actor": "Celeste O'Connor",
-          "role": "TBD"
-        },
-        {
-          "actor": "Mark Consuelos",
-          "role": "TBD"
-        },
-        {
-          "actor": "Matthew Lillard",
-          "role": "Stu Macher"
-        },
-        {
-          "actor": "Scott Foley",
-          "role": "Roman Bridger"
-        },
-        {
-          "actor": "David Arquette",
-          "role": "Dewey Riley"
-        }
-      ],
       "director": {
         "name": "Kevin Williamson",
         "filmography": [
@@ -44059,136 +44091,127 @@
           {
             "title": "The Vampire Diaries (creator)",
             "year": 2009,
-            "themes": "Supernatural romance; traditional structures, progressive casting over time"
+            "themes": "Supernatural romance; traditional structures, progressive casting"
           },
           {
             "title": "Scream 7",
             "year": 2026,
-            "themes": "First directorial outing in franchise"
+            "themes": "First directorial outing; creator returning to reclaim the franchise"
           }
         ],
         "ideological_tendency": "MIXED",
-        "ideological_notes": "Horror work runs on conservative moral logic. TV work trends culturally liberal. Openly gay writer in traditionally conservative genres. Strength is emotional sincerity over political messaging.",
+        "ideological_notes": "Williamson's horror work runs on conservative moral logic - transgression is punished, family is worth dying for, evil is real and named. His TV work trends culturally liberal. He is openly gay but consistently writes horror that punishes moral transgression and rewards sacrifice. His directorial debut confirms what his writing always suggested: when given full control, he defaults to emotional sincerity over political messaging.",
         "consistency": "Split between horror (traditional) and TV (liberal)"
+      },
+      "writer": {
+        "name": "Kevin Williamson and Guy Busick",
+        "sole_credit": false,
+        "ideological_signal": "MIXED",
+        "notes": "Williamson leans traditional in horror. Busick co-wrote the more progressive recent entries (Scream 2022, Scream VI). Their collaboration produces genuine creative tension: Williamson's emotional sincerity moderates Busick's progressive meta-tendencies. The result is a film where the meta-commentary is present but subordinated to the emotional core."
       },
       "producers": [
         {
           "name": "Paul Neinstein",
           "company": "Spyglass Media",
           "ideological_signal": "NEUTRAL",
-          "notes": "Studio fired Barrera over political speech - anti-woke corporate decision."
+          "notes": "Spyglass fired Melissa Barrera over political speech - a corporate decision that reads as anti-woke regardless of internal motivation. The studio prioritized franchise IP health over progressive star solidarity."
         },
         {
           "name": "William Sherak",
           "company": "Project X Entertainment",
           "ideological_signal": "NEUTRAL",
-          "notes": "Franchise producer."
+          "notes": "Franchise producer across multiple entries."
         }
       ],
-      "writer": {
-        "name": "Kevin Williamson & Guy Busick (screenplay); James Vanderbilt & Guy Busick (story)",
-        "sole_credit": false,
-        "ideological_signal": "MIXED",
-        "notes": "Williamson leans traditional in horror. Busick and Vanderbilt wrote the more progressive recent entries. The collaboration creates genuine creative tension."
-      },
       "composer": {
-        "name": "TBD",
+        "name": "Brian Tyler",
         "ideological_signal": "NEUTRAL",
-        "notes": "Brian Tyler scored the previous two entries."
+        "notes": "Brian Tyler scored the previous two Scream entries and returns here. His work is genre-appropriate and apolitical."
       },
+      "cast": [
+        {
+          "actor": "Neve Campbell",
+          "role": "Sidney Prescott (Evans)"
+        },
+        {
+          "actor": "Courteney Cox",
+          "role": "Gale Weathers"
+        },
+        {
+          "actor": "Isabel May",
+          "role": "Tatum Evans"
+        },
+        {
+          "actor": "Joel McHale",
+          "role": "Mark Evans"
+        },
+        {
+          "actor": "Jasmin Savoy Brown",
+          "role": "Mindy Meeks-Martin"
+        },
+        {
+          "actor": "Mason Gooding",
+          "role": "Chad Meeks-Martin"
+        },
+        {
+          "actor": "Matthew Lillard",
+          "role": "Stu Macher (deepfake / AI construct)"
+        },
+        {
+          "actor": "David Arquette",
+          "role": "Dewey Riley (AI deepfake)"
+        },
+        {
+          "actor": "Mckenna Grace",
+          "role": "Supporting"
+        },
+        {
+          "actor": "Anna Camp",
+          "role": "Jessica Bowden (primary villain)"
+        },
+        {
+          "actor": "Jimmy Tatro",
+          "role": "Scott"
+        },
+        {
+          "actor": "Mark Consuelos",
+          "role": "Supporting"
+        }
+      ],
       "prediction_indicator": {
         "director_signal": "MIXED",
         "producer_signal": "NEUTRAL",
         "cast_signal": "MIXED",
         "composer_signal": "NEUTRAL",
         "pre_viewing_prediction": "MIXED with TRADITIONAL LEAN (+1 to +4)",
-        "actual_verdict": "TBD (pre-release)",
-        "prediction_accurate": null,
-        "reasoning": "Williamson's directorial control should moderate progressive meta-commentary. Motherhood premise is inherently traditional. But Busick's co-writing credit means progressive elements will persist. The franchise's DNA is genuinely split."
+        "actual_verdict": "TRADITIONAL LEAN (+8.84)",
+        "prediction_accurate": true,
+        "reasoning": "The pre-release prediction of TRADITIONAL LEAN was accurate. Williamson's directorial control moderated progressive meta-commentary as predicted. The motherhood premise proved as traditionally strong as anticipated. The margin came in stronger than the low end of the prediction range, driven by how central the mother-daughter dynamic proved to the entire film."
       }
     },
     "fidelity_casting": {
       "score": "FAITHFUL",
       "rating": 0,
-      "summary": "Scream 7 is the seventh installment in a franchise established in 1996. Core legacy characters return with their original actors: Neve Campbell as Sidney Prescott, Courteney Cox as Gale Weathers, and the return of David Arquette and Matthew Lillard. Casting honors the established franchise canon.",
-      "detailed_analysis": "As a long-running franchise sequel, fidelity is measured against six prior films of established characters and lore. Kevin Williamson, the original creator, returns to direct. Sidney Prescott (Neve Campbell) is back after sitting out Scream VI. Courteney Cox returns as Gale Weathers. Legacy characters are played by their original actors. New characters (Isabel May as Sidney's daughter Tatum, Joel McHale as Sidney's husband) extend the canon without contradicting it. No race-swapping or gender-swapping of established characters. The franchise continuity is respected."
+      "summary": "Scream 7 is the seventh installment in a franchise running since 1996. Core legacy characters return with their original actors: Neve Campbell, Courteney Cox, David Arquette (in AI form), and Matthew Lillard (in AI form). New characters extend the canon without contradicting it. No race-swapping or gender-swapping of established characters.",
+      "detailed_analysis": "Fidelity is measured against six prior films of established characters and lore. Neve Campbell returns as Sidney Prescott, absent since Scream 4 (2011) due to a salary dispute during the Barrera era. Courteney Cox returns as Gale Weathers, a franchise constant. David Arquette (Dewey) and Matthew Lillard (Stu Macher) appear via AI deepfake, honoring the characters without pretending they survived their canonical deaths. Isabel May as Sidney's daughter Tatum extends the narrative organically. Joel McHale as Sidney's husband Mark Evans provides a new nuclear family anchor without disrupting existing canon. The casting respects 30 years of franchise history."
     },
     "summary": {
-      "overall": "Kevin Williamson returns to direct the franchise he created, with Neve Campbell back as Sidney Prescott after sitting out the sixth installment. The plot centers on Sidney's daughter Tatum (Isabel May) being targeted by a new Ghostface, positioning motherhood and family defense as the central dramatic engine. Williamson co-wrote with Guy Busick (who penned the more progressive recent entries), creating a creative tension between traditional and progressive impulses. The returning cast is massive: Courteney Cox, David Arquette (likely flashback), Matthew Lillard, Scott Foley, Jasmin Savoy Brown. Joel McHale plays Sidney's husband, grounding the story in a nuclear family under siege. Pre-release signals suggest a course correction toward emotional sincerity over meta-commentary, but Busick's involvement means progressive elements will persist. Conservative horror fans should find the traditional core stronger than expected, though Mindy's meta-commentary will likely carry some progressive seasoning.",
-      "adultInsight": "Conservative adult viewers should approach Scream 7 with context. The franchise's last two entries leaned into progressive meta-commentary that alienated traditional horror fans. Williamson's return as director signals a potential course correction. His horror work has always operated on conservative moral logic even when his cultural politics are liberal. The motherhood premise is genuinely traditional. The Barrera firing and franchise reset suggest a studio prioritizing IP legacy over progressive star power. But temper expectations: Guy Busick co-wrote this, and his fingerprints will be on the meta-commentary. This is likely a film where the emotional core is traditional and the intellectual wrapper is progressive. For horror-tolerant conservatives, that trade may be worth it.",
-      "parentalGuidance": "This is emphatically not a children's movie. Rated R for graphic slasher violence, strong language, and likely some sexual content. A teenager is the killer's primary target. Characters audiences care about will die on screen. The violence is intense, sustained, and realistic within the genre. Minimum age 16, recommended 17+. For mature teens who can handle the content, the franchise raises interesting questions about moral frameworks in horror (the 'rules' that punish transgression), generational conflict, and how meta-commentary shapes audience expectations."
+      "overall": "Kevin Williamson returns to direct the franchise he created 30 years ago, and the result is a film that corrects course from the progressive meta-heavy recent entries without abandoning what makes the franchise tick. Neve Campbell is back as Sidney Prescott, now Sidney Evans, a wife and mother living in hiding in Pine Grove, Indiana. When a new Ghostface targets her teenage daughter Tatum (Isabel May), Sidney must face her past one more time. The killer uses AI deepfakes of dead franchise villains - including Stu Macher (Matthew Lillard) and Dewey Riley (David Arquette) - to torment her psychologically before the real reveal: obsessive fans who believed Sidney's trauma was the source of her strength and wanted to recreate it for Tatum. The film's emotional engine is legitimately traditional: motherhood, family under siege, a mother who will not stop fighting. The meta-commentary is present but subordinated to the emotional core for the first time in years. Critics were divided (34% RT), audiences showed up in record numbers ($63.6M opening). The disconnect tells you everything: critics wanted more progressive cleverness, audiences wanted Sidney back.",
+      "adultInsight": "Conservative adult viewers will find Scream 7 the most palatable franchise entry since the Wes Craven originals. Williamson's directorial debut confirms what his horror writing always suggested: when the creator is in control, the moral framework defaults to traditional values. Sidney is a wife and mother. The nuclear family is worth dying for. Gale Weathers, ever the opportunist journalist, is ultimately shown needing and deserving Sidney's friendship and trust. The meta-commentary about toxic nostalgia and AI deepfakes is present - and genuinely interesting thematically - but it does not consume the film. The villain's motivation (recreating trauma to forge a final girl) is explicitly framed as pathological, not aspirational. The progressive elements are there: Mindy is gay, the meta-commentary has a cultural studies edge, the feminist subtext about female trauma persists. But these are seasoning, not the meal. For horror-tolerant conservatives, this is the franchise entry worth watching.",
+      "parentalGuidance": "Rated R. This is a slasher film with graphic violence, strong language, and disturbing psychological content. Multiple on-screen deaths including major characters. A teenager is the primary target of a serial killer. AI deepfake technology is used as a villain's weapon, which may disturb viewers sensitive to identity and authenticity themes. No significant sexual content. The violence is intense and sustained - this is not a bloodless horror film. Recommended minimum age 16, strongly recommended 17+ for the psychological intensity of the villain's motivation. Parents should be aware that the film's themes about obsessive fandom and AI deepfakes may generate genuine conversation about technology and reality."
     },
-    "tropeAudit": [
-      {
-        "trope": "The Fourth-Wall Troll",
-        "id": "WOKE-012",
-        "category": "WOKE",
-        "location": "Pre-release prediction",
-        "authenticity": "Neutral. Meta-commentary is the franchise's DNA, but the progressive edge is a recent addition."
-      },
-      {
-        "trope": "Infallible Youth",
-        "id": "WOKE-006",
-        "category": "WOKE",
-        "location": "Pre-release prediction",
-        "authenticity": "Natural. Genre convention as much as ideology."
-      },
-      {
-        "trope": "Tokenized Representation",
-        "id": "WOKE-002",
-        "category": "WOKE",
-        "location": "Pre-release prediction",
-        "authenticity": "Natural. Franchise has always cast broadly."
-      },
-      {
-        "trope": "Defense of the Innocent",
-        "id": "TRADITIONAL-045",
-        "category": "TRADITIONAL",
-        "location": "Pre-release prediction",
-        "authenticity": "Organic. The franchise's most traditional premise yet."
-      },
-      {
-        "trope": "Industry and Perseverance",
-        "id": "TRADITIONAL-041",
-        "category": "TRADITIONAL",
-        "location": "Pre-release prediction",
-        "authenticity": "Organic. Seven films of established character."
-      },
-      {
-        "trope": "Self-Sacrificing Hero",
-        "id": "TRADITIONAL-026",
-        "category": "TRADITIONAL",
-        "location": "Pre-release prediction",
-        "authenticity": "Natural. Established franchise pattern."
-      },
-      {
-        "trope": "Sacred Institution of Marriage",
-        "id": "TRADITIONAL-044",
-        "category": "TRADITIONAL",
-        "location": "Pre-release prediction",
-        "authenticity": "Natural. Organic character progression for Sidney."
-      },
-      {
-        "trope": "Wise Elder",
-        "id": "TRADITIONAL-033",
-        "category": "TRADITIONAL",
-        "location": "Pre-release prediction",
-        "authenticity": "Natural."
-      }
-    ],
     "seo": {
-      "titleTag": "Is Scream 7 Woke? | VirtueVigil Review",
-      "metaDescription": "VirtueVigil scores Scream 7 using weighted trope analysis. VVWS +2, Mixed with traditional lean. Full creative team scorecard and parental guidance.",
+      "titleTag": "Is Scream 7 Woke? VVWS Review | VirtueVigil",
+      "metaDescription": "Full VVWS v1.1 review of Scream 7 (2026). Woke Score: 9.5, Trad Score: 18.34, Margin: +8.84 TRADITIONAL LEAN. Kevin Williamson corrects course with motherhood at the center.",
       "keywords": [
         "is scream 7 woke",
-        "scream 7 review",
+        "scream 7 review 2026",
         "scream 7 conservative review",
-        "virtuevigil scream 7"
+        "scream 7 traditional",
+        "virtuevigil scream 7",
+        "scream 7 neve campbell review"
       ]
-    },
-    "spoiler_alert": true,
-    "wokeTrap": false,
-    "datePublished": "2026-02-17"
+    }
   },
   {
     "id": "blitz-2024",
