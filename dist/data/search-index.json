@@ -60,6 +60,18 @@
     "poster": "/images/posters/ready-or-not-2-2026.jpg"
   },
   {
+    "slug": "super-mario-galaxy-movie-2026",
+    "title": "The Super Mario Galaxy Movie",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Animation / Adventure / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.72,
+    "tradScore": 16.58,
+    "poster": "/images/posters/super-mario-galaxy-movie-2026.jpg"
+  },
+  {
     "slug": "a-great-awakening-2026",
     "title": "A Great Awakening",
     "verdict": "TRADITIONAL",
