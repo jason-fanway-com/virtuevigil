@@ -10,29 +10,29 @@
   "author": "VirtueVigil Editorial Team",
   "readTime": "12 min",
   "poster": "/images/posters/project-hail-mary-2026.jpg",
-  "verdict": "TRADITIONAL LEAN",
-  "wokeScore": 10.45,
-  "tradScore": 17.82,
-  "authIndex": 63,
-  "scoreMargin": "+7 TRAD",
-  "preRelease": true,
+  "verdict": "TRADITIONAL",
+  "wokeScore": 8.45,
+  "tradScore": 19.62,
+  "authIndex": 73,
+  "scoreMargin": "+11 TRAD",
+  "preRelease": false,
   "wokeTrap": {
     "present": false,
     "degree": "none",
-    "explanation": "Project Hail Mary is not a woke trap. It is a science-driven survival story based on Andy Weir's bestselling novel about a man solving impossible problems to save humanity. The trailers emphasize ingenuity, sacrifice, and interstellar friendship. There is no hidden ideological payload. What you see in the marketing — a solo astronaut science-nerdíng his way through a desperate mission — is what you get."
+    "explanation": "Project Hail Mary is not a woke trap. It is a science-driven survival story based on Andy Weir's bestselling novel about a man solving impossible problems to save humanity. The trailers emphasize ingenuity, sacrifice, and interstellar friendship. There is no hidden ideological payload. What you see in the marketing -- a solo astronaut science-nerding his way through a desperate mission -- is what you get."
   },
   "woke_trap_assessment": {
     "is_trap": false,
-    "explanation": "NOT A WOKE TRAP. Project Hail Mary markets itself as a hard sci-fi survival film where one man uses science to save humanity. The trailers show exactly that: Ryan Gosling waking up alone in space, piecing together his memory, and eventually forming a friendship with an alien named Rocky. There is no bait-and-switch. The film's source material is one of the most apolitical, science-positive novels of the last decade. Conservative audiences who enjoyed The Martian will find a very similar experience here."
+    "explanation": "NOT A WOKE TRAP. Confirmed post-release. Project Hail Mary markets itself as a hard sci-fi survival film where one man uses science to save humanity -- and delivers exactly that. There is no bait-and-switch after the first act. The trailers showed you a lone astronaut, an alien buddy, and the survival of two civilizations. That is the film. Conservative audiences who were burned by trojan horse blockbusters in recent years can exhale. The film's source material is one of the most apolitical, science-positive novels of the last decade. Conservative audiences who enjoyed The Martian will find a very similar experience here -- and more."
   },
   "externalScores": {
-    "rottenTomatoesCritic": null,
-    "rottenTomatoesAudience": null,
-    "imdb": null,
-    "metacritic": null,
-    "boxOffice": "Pre-release",
+    "rottenTomatoesCritic": 95,
+    "rottenTomatoesAudience": 97,
+    "imdb": 8.4,
+    "metacritic": 77,
+    "boxOffice": "$163M domestic / $200M+ worldwide",
     "budget": "$200M (net)",
-    "cinemaScore": null
+    "cinemaScore": "A"
   },
   "creative_team": {
     "director": {
@@ -42,7 +42,7 @@
     },
     "writer": {
       "name": "Drew Goddard",
-      "profile": "American screenwriter and director known for The Cabin in the Woods (2011), The Martian (2015), and Bad Times at the El Royale (2018). Goddard also adapted Andy Weir's The Martian for Ridley Scott, making him the natural choice for Weir's follow-up novel. His work is genre-savvy and character-focused. Goddard worked on Buffy the Vampire Slayer, Angel, Alias, and Lost early in his career. His writing prioritizes wit, problem-solving protagonists, and structural cleverness over political messaging."
+      "profile": "American screenwriter and director known for The Cabin in the Woods (2011), The Martian (2015), and Bad Times at the El Royale (2018). Goddard also adapted Andy Weir's The Martian for Ridley Scott, making him the natural choice for Weir's follow-up novel. His work is genre-savvy and character-focused. Goddard worked on Buffy the Vampire Slayer, Angel, Alias, and Lost early in his career. His writing prioritizes wit, problem-solving protagonists, and structural cleverness over political messaging. He explicitly stated he avoided woke political agendas on Project Hail Mary."
     },
     "lead_producer": {
       "name": "Amy Pascal, Ryan Gosling, Phil Lord, Christopher Miller, Aditya Sood, Rachel O'Connor, Andy Weir",
@@ -57,153 +57,273 @@
       {
         "name": "Sandra Hüller",
         "role": "Eva Stratt",
-        "notes": "German actress acclaimed for Anatomy of a Fall (2023) and The Zone of Interest (2023). Hüller plays the head of the Hail Mary project, Ryland's superior who recruited him for the mission. In the novel, Stratt is a pragmatic, authoritative leader who makes ruthless decisions to save humanity — a meritocratic figure, not a girl-boss archetype."
+        "notes": "German actress acclaimed for Anatomy of a Fall (2023) and The Zone of Interest (2023). Hüller plays the head of the Hail Mary project, Ryland's superior who recruited him for the mission. In the novel, Stratt is a pragmatic, authoritative leader who makes ruthless decisions to save humanity -- a meritocratic figure, not a girl-boss archetype. Hüller brings some warmth to the role without defanging her."
+      },
+      {
+        "name": "James Ortiz",
+        "role": "Rocky (voice/mocap)",
+        "notes": "Breakout motion-capture performance as the alien heart of the film. Rocky is a five-legged, rock-like creature who communicates through musical tones. Ortiz's performance has become a cultural moment."
       },
       {
         "name": "Lionel Boyce",
-        "role": "Officer Steve Hatch",
+        "role": "Carl",
         "notes": "Known for The Bear. Boyce plays one of the supporting roles in the flashback sequences on Earth."
       },
       {
         "name": "Ken Leung",
         "role": "Yáo Li-Jie",
-        "notes": "Veteran character actor (Lost, Industry). Plays one of the crewmembers of the Hail Mary spacecraft. The novel features an international crew reflecting the global nature of the project to save Earth — the casting is organic to the story's premise."
+        "notes": "Veteran character actor (Lost, Industry). Plays one of the crewmembers of the Hail Mary spacecraft. The novel features an international crew reflecting the global nature of the project to save Earth -- the casting is organic to the story's premise."
       },
       {
         "name": "Milana Vayntrub",
         "role": "Olesya Ilyukhina",
-        "notes": "Actress known as the AT&T spokeswoman and from This Is Us. Plays a Russian crewmember of the Hail Mary. Vayntrub is Uzbek-born, raised in the US — her casting as a Russian character is reasonably faithful."
+        "notes": "Actress known as the AT&T spokeswoman and from This Is Us. Plays a Russian crewmember of the Hail Mary. Vayntrub is Uzbek-born, raised in the US -- her casting as a Russian character is reasonably faithful."
       }
     ],
     "prediction": {
-      "verdict": "TRADITIONAL LEAN - competent male protagonist solves problems through science and ingenuity, strong sacrifice themes, international cooperation framed as pragmatic not political, male-alien friendship at the core",
+      "verdict": "TRADITIONAL - confirmed post-release",
       "confidence": "high"
     }
   },
   "fidelityCasting": {
     "assessment": "FAITHFUL",
-    "explanation": "Project Hail Mary features casting that aligns naturally with the source material. The novel's premise requires an international team because the entire world is collaborating to prevent extinction — a Chinese crew member (Ken Leung), a Russian crew member (Milana Vayntrub), and a German project leader (Sandra Hüller) all reflect the novel's setup. Ryan Gosling as an American science teacher is faithful to the character of Ryland Grace. There are no apparent race-swaps or forced diversity hires. The cast diversity is organic to the story's global stakes."
+    "explanation": "Project Hail Mary features casting that aligns naturally with the source material. The novel's premise requires an international team because the entire world is collaborating to prevent extinction -- a Chinese crew member (Ken Leung), a Russian crew member (Milana Vayntrub), and a German project leader (Sandra Hüller) all reflect the novel's setup. Ryan Gosling as an American science teacher is faithful to the character of Ryland Grace. James Ortiz's motion-capture rendering of Rocky is a compelling and faithful depiction of Weir's alien design. There are no apparent race-swaps or forced diversity hires. The cast diversity is organic to the story's global stakes. Fidelity Score: 9/10 -- minor deduction for Hüller's Stratt being slightly warmer than the novel's version."
   },
   "summary": {
-    "overall": "Andy Weir's Project Hail Mary may be the most eagerly anticipated sci-fi film of 2026, and based on the source material and everything shown in three trailers, it looks like exactly the kind of movie conservative audiences have been starving for: a competent man solving impossible problems with science, ingenuity, and sheer willpower. No lectures. No identity politics. Just a guy, an alien, and the survival of two species hanging in the balance.\n\nPRE-RELEASE DISCLAIMER: This review is based on the novel, trailers, cast interviews, and production reporting. We have not seen the finished film. Our scoring reflects what can be assessed from available evidence. We will update after theatrical release.\n\nThe story follows Ryland Grace (Ryan Gosling), a high school science teacher who wakes up alone on a spaceship with no memory of who he is or why he's there. As his memories return through flashbacks, he discovers the terrifying truth: Earth's sun is being devoured by a mysterious alien organism called Astrophage, and he was sent on a one-way suicide mission to the Tau Ceti system to find a solution. His two crewmates are dead. He's humanity's last hope.\n\nThis is classic male competence storytelling. Grace isn't a chosen one. He isn't a warrior. He's a teacher who was drafted into a mission because he happened to have the right scientific knowledge. He survives through problem-solving, rational thinking, and what the novel calls 'science the shit out of it' — the same approach that made The Martian a hit with audiences who value meritocracy and self-reliance.\n\nThe film's emotional core is the friendship between Grace and Rocky, an alien from the 40 Eridani system who has come to save his own world from the same threat. Rocky is described in the novel as a spider-like creature who communicates through musical tones. The Super Bowl trailer revealed Rocky and emphasized the cross-species friendship. This relationship is the heart of the story: two beings from radically different worlds who find common ground through science, shared purpose, and eventually genuine affection. There is nothing political about this friendship. It is a story about cooperation born of mutual necessity, not ideology.\n\nSandra Hüller plays Eva Stratt, the head of the Hail Mary project. In the novel, Stratt is a cold, pragmatic, borderline authoritarian leader who makes ruthless decisions — including effectively kidnapping Grace and sending him on a suicide mission — because the stakes demand it. She is not presented as a feminist icon or a girl-boss. She is a utilitarian monster who happens to be right about the severity of the threat. If the film preserves this characterization, Stratt will be one of the more interesting female antagonists in recent sci-fi: a woman defined by her competence and willingness to sacrifice others, not by her gender.\n\nPhil Lord and Christopher Miller (The LEGO Movie, Spider-Verse) are directing their first straight drama. Their involvement signals a film that will balance the hard science with humor and emotional resonance. Drew Goddard, who adapted The Martian for Ridley Scott, wrote the screenplay. This is the same writer who turned Weir's first novel into an Oscar-nominated film that conservative and liberal audiences loved equally.\n\nThe $200 million budget and IMAX filming suggest Amazon MGM Studios sees this as a prestige tentpole, not a message film. The Super Bowl trailer — the most expensive advertising slot in existence — focused entirely on spectacle, science, and the Grace-Rocky friendship. No political messaging. No diversity rhetoric. No climate change lectures (despite the sun-dying premise offering an easy opening for that). This is encouraging.\n\nPotential concerns are minimal. The international crew and global cooperation premise could be framed as a UN-style globalist fantasy, but the novel treats this pragmatically: of course every nation cooperates when the sun is dying. The Stratt character's authoritarianism could be lionized rather than critiqued. And Lord and Miller's comedic sensibilities could introduce tonal shifts that undermine the story's sincerity. But based on all available evidence, Project Hail Mary looks like a return to science fiction that celebrates human (and alien) ingenuity over political posturing.\n\nThe novel's ending — in which Grace chooses to remain on Rocky's planet, teaching alien children about science rather than returning to Earth — is one of the most beautiful acts of self-sacrifice in modern fiction. If the film preserves this ending, it will deliver a profoundly traditional message: the highest calling is not self-actualization or political activism, but service to others, even at the cost of everything you know.",
-    "adultInsight": "Project Hail Mary represents a potentially exciting return to apolitical, science-positive blockbuster filmmaking. Andy Weir's novels succeed because they treat intelligence as heroic and problem-solving as dramatic. The Martian was the rare film that both conservative and liberal audiences embraced because it was about a man's competence, not his identity. Project Hail Mary has every ingredient to repeat that formula: a likable everyman protagonist, a compelling alien friendship, hard science treated with respect, and a story driven by sacrifice rather than self-interest. The $200M budget and IMAX presentation signal that Amazon MGM Studios is betting on spectacle and story rather than messaging. Phil Lord and Christopher Miller have never made a film that alienated half the audience, and Drew Goddard's adaptation of The Martian proved he can translate Weir's technical prose into accessible cinema. This is one of the safest bets on the 2026 calendar for audiences who want entertainment without ideological baggage.",
-    "parentalGuidance": "Rated PG-13 (expected). The film deals with existential themes including the potential extinction of all life on Earth, the deaths of crew members (shown in flashback), and a protagonist on a suicide mission. The novel contains no sexual content, minimal profanity, and no graphic violence. The tension is intellectual and existential rather than visceral. The alien Rocky is presented as friendly and endearing, not frightening. Themes of sacrifice, duty, and friendship are prominent. Suitable for mature pre-teens (12+) who enjoy science fiction. This is likely to be a family-friendly blockbuster along the lines of The Martian or Interstellar."
+    "overall": "## PROJECT HAIL MARY (2026)\n**Classification: TRADITIONAL**\n**WOKE 8.45 | TRADITIONAL 19.62 | Composite 73**\n**Confidence: HIGH**\n**Margin: +11.17 TRADITIONAL**\n\n---\n\n## SPOILER ALERT\n\nThis review contains full plot spoilers for Project Hail Mary (2026), including the ending. If you have not seen the film and want to experience it fresh, stop here and come back after. You should see this one in theaters.\n\n---\n\n## WOKE TRAP ASSESSMENT\n\n**NOT A WOKE TRAP.**\n\nProject Hail Mary is exactly what it looks like: a hard sci-fi survival story about a man solving impossible problems with science, grit, and unlikely friendship. There is no hidden payload. No ideological bait-and-switch after the first act. The trailers showed you a lone astronaut, an alien buddy, and the survival of two civilizations. That is the film. Conservative audiences who were burned by trojan horse blockbusters in recent years can exhale. This one delivers.\n\n---\n\n## CREATIVE TEAM AT A GLANCE\n\n**Directors:** Phil Lord & Christopher Miller (The LEGO Movie, 21 Jump Street, Spider-Verse producer) -- NEUTRAL SIGNAL. Crowd-pleasers by instinct, not ideologues.\n**Writer:** Drew Goddard (The Martian, The Cabin in the Woods, Bad Times at the El Royale) -- explicitly stated he avoided woke political agendas; story-first craftsman.\n**Lead Producers:** Amy Pascal, Ryan Gosling, Phil Lord, Christopher Miller, Andy Weir, Aditya Sood, Rachel O'Connor.\n**Top Cast:** Ryan Gosling (Ryland Grace), Sandra Hüller (Eva Stratt), James Ortiz (Rocky / voice), Lionel Boyce (Carl), Ken Leung (Yao), Milana Vayntrub (Olesya).\n**Pre-viewing Prediction:** TRADITIONAL LEAN (high confidence) -- CONFIRMED AND UPGRADED TO TRADITIONAL.\n**Fidelity Casting:** FAITHFUL. The international cast reflects the novel's premise (every nation cooperates to save Earth). No race-swaps. No forced representation. Ryan Gosling as Ryland Grace is perfect.\n\n---\n\n## PROSE REVIEW\n\n*Review by VirtueVigil Editorial Team*\n\nHere is something you do not see every day: a $200 million blockbuster that opened at number one, earned a 95% critics score and a 96% audience score, and drew praise from Bishop Robert Barron, the Babylon Bee, and MRCTV all in the same week. Project Hail Mary is the rare thing. A genuine crowd-pleaser that managed to please the crowds Hollywood has been ignoring for years.\n\nLet's talk about what this film is actually about, because it matters.\n\nRyland Grace (Ryan Gosling) wakes up alone on a spacecraft with no memory of who he is or why he is there. His two crewmates are dead. Through fragmented flashbacks, he pieces together the truth: Earth's sun is being slowly devoured by a single-celled organism called Astrophage. The global dimming will produce catastrophic cooling within decades. All of human civilization is on the clock. A multinational task force led by the cold and relentless Eva Stratt (Sandra Hüller) has built a spaceship, loaded it with the best scientists available, and sent it on a one-way mission to Tau Ceti -- the only nearby star not yet infected. Grace was not supposed to be on that ship. He was dragged aboard unconscious after the original scientist died in an accident. He woke up in space with a problem to solve and no choice but to solve it.\n\nThis is the setup. And it is magnificent.\n\nWhat Phil Lord and Christopher Miller understand, and what too many modern blockbusters have forgotten, is that competence is heroic. Grace is not special because he was chosen by destiny or because he has a power nobody else has. He is special because he knows things. He knows biology. He knows physics. He knows chemistry. And when he gets to Tau Ceti and discovers that an alien spacecraft has docked with his ship, he does not panic and he does not pull a gun. He starts doing science.\n\nThe alien -- a five-legged, rock-like creature Grace names Rocky -- turns out to be on the exact same mission from the star system 40 Eridani. His planet is also dying. He is also the lone survivor of his crew. He also does not know if he can get home. The two of them cannot breathe each other's air, cannot share a meal, cannot touch each other without a pressure suit. They communicate through musical tones, then through a machine translation system Grace builds from scratch. And somewhere in the process of two beings from completely different evolutionary histories figuring out how to say hello, this film becomes genuinely moving.\n\nGosling is exceptional here. He is doing essentially a one-man show for most of the runtime, bouncing between terror and humor and grief and stubborn determination. The flashback structure -- where Grace gradually recovers his memory and we see how he ended up on this ship -- could have been clunky but Goddard's script handles it with precision. You get just enough in each flashback to keep you oriented, and the reveals land with real weight. The moment Grace remembers that he agreed to go on the mission, after initially refusing, hits harder than most third-act twists.\n\nSandra Hüller is terrific as Stratt. In the novel she is more of an authoritarian force of nature than a character -- necessary, ruthless, ultimately right about everything. Hüller brings some warmth to the role without defanging her. This is not a girl-boss. This is a woman doing the worst job in history because someone has to and she is the best one for it. She has Grace drugged and loaded onto a spacecraft against his will. The film treats this as defensible. Because it is. The sun is dying. You do not get to vote on the ethics.\n\nThe science deserves its own paragraph. Drew Goddard did something rare: he kept the hard science in. The Astrophage biology, the xenonite containers, the relativistic fuel calculations, the taumoeba discovery -- it is all there, communicated with enough clarity that audiences can follow it without a physics degree. There is a beautiful sequence where Grace and Rocky work out relativistic math together using musical notes and makeshift number systems. It should not work as cinema. It works completely.\n\nThe ending. Let us talk about the ending.\n\nGrace discovers that the taumoeba -- the organism that eats Astrophage -- has evolved to eat through Rocky's xenonite spacecraft. Rocky will run out of fuel before he can get home. Grace has a choice: use his extra Astrophage to get back to Earth, or give Rocky enough fuel to save his planet while staying behind. Going home means abandoning Rocky and the Eridians to extinction. Staying means Grace never sees Earth again.\n\nHe stays.\n\nHe sends the cure back to Earth via probe. He stays with Rocky. And in the final scenes, we see Grace on Erid, teaching alien children about science, living out his days on a planet where he can never breathe the air, surrounded by creatures who are not human, because that is where he can do the most good.\n\nThat is a Christ-figure arc. Bishop Barron said it and he is right. The title is not just a football reference. The willingness to sacrifice everything -- career, family, homeland, life as he knew it -- for the benefit of others is the oldest story Western civilization knows how to tell. And it lands because the film earns it. Grace is not performing sacrifice. He is a man who came to understand what mattered and acted accordingly.\n\nIs this film perfect? No. At 156 minutes it earns most of its runtime but there are sequences in the middle act where Lord and Miller's instinct for visual spectacle overwhelms the intimacy that makes the Grace-Rocky relationship work. Some of the flashback pacing drags in the early going before the present-day story finds its footing. And James Ortiz's motion-capture performance as Rocky, while impressive, occasionally struggles to convey nuance through a creature design that is necessarily alien.\n\nBut these are quibbles. Project Hail Mary is the best major studio film of 2026 so far and one of the best science fiction films of the decade. It joins The Martian, Interstellar, and Arrival in the short list of genuinely ambitious blockbusters that treat their audiences as adults. It is the rare film that will make you want to hug someone and also immediately re-read the book it was based on.\n\nHollywood, write this down: people want stories about competent people solving hard problems through intelligence and sacrifice. They do not want lectures. They do not want to feel guilty for existing. They want to root for someone. Give them a reason to root and they will show up. $334 million in worldwide box office is the proof.\n\nProject Hail Mary gets a TRADITIONAL verdict. It earned it.",
+    "adultInsight": "Project Hail Mary is the film conservative adults have been waiting for. Not because it is overtly political -- it is not. Not because it has a Christian message -- it does not preach. But because it tells a story about a man who does the right thing when the cost is everything he has, and it treats that as the highest possible human achievement. No irony. No deconstruction. Just a man choosing others over himself, again and again, until the film ends.\n\nConservative audiences who loved The Martian will find everything they loved there and more. The hard science is present and treated with respect. The protagonist is competent, humble, and driven by duty rather than ego. The friendship with Rocky is one of the most genuinely moving cross-species relationships cinema has produced -- and it is built on mutual respect and intellectual collaboration, not identity politics.\n\nThe film's treatment of Eva Stratt is worth noting. She is a powerful female authority figure who has Grace drugged and sent on a suicide mission against his will. The film does not apologize for this. It presents it as the right call given the stakes, then asks you to sit with the moral complexity. This is thoughtful filmmaking, not feminist agitprop.\n\nBishop Robert Barron has written extensively about the Christ-figure arc in Grace's story, and he is correct. The self-sacrifice at the end -- staying on an alien planet forever, sending the cure home, teaching the children of another species -- has genuine spiritual resonance whether or not you approach it from a religious perspective.\n\nThis is a safe recommendation for any adult viewer. Take your family. Take your friends who think Hollywood has nothing to offer them anymore. Show them that sometimes the story wins.",
+    "parentalGuidance": "**MPAA Rating:** PG-13 for some thematic material and suggestive references.\n**VirtueVigil Recommended Age:** 11+ with parental guidance; 13+ independently.\n\n**Violence:** Moderate. Two crew members die (shown dead, not graphically killed). An explosion occurs in the past timeline. Rocky is severely injured during the rescue sequence. The existential threat of human extinction creates sustained tension throughout. No gore. No graphic combat.\n\n**Sexual Content:** Minimal. A couple of suggestive remarks played for humor. No nudity. No romantic subplot. No sexual scenes. Kids-In-Mind rates this 2 out of 10 for sexual content.\n\n**Language:** Moderate. Some profanity at PG-13 level. Generally restrained, consistent with the source novel.\n\n**Substance Use:** One gag involving a vodka stash. Brief and played for comedy. Not glorified.\n\n**Frightening/Disturbing Content:** Existential threat (sun dying, civilization ending) may be distressing for sensitive younger viewers. Brief non-graphic discussion of suicide as mission contingency. Rocky's alien design may startle very young children, though he is depicted as friendly and sympathetic throughout.\n\n**Themes for Family Discussion:**\n- What is the difference between volunteering and being drafted? Was it right for Stratt to force Grace onto the mission?\n- Grace chooses Rocky and the Eridians over his own return to Earth. Would you make the same choice?\n- What makes someone a hero? Is it strength, or is it something else?\n- The film treats teaching as one of the most important things a person can do. Do you agree?\n- Rocky and Grace have nothing in common but still become best friends. What does that say about friendship?\n\n**Bottom Line:** A genuinely family-friendly blockbuster for families with older children and teenagers. The themes are mature but the content is clean. Excellent for watching with a teenager who is interested in science or science fiction. The questions it raises are worth discussing around the dinner table."
   },
   "tropeAudit": [
     {
-      "id": "WOKE-PHM-001",
-      "name": "International cooperation and global governance framework",
+      "id": "WOKE-001",
+      "name": "International governance / supra-national authority",
       "category": "Woke",
       "severity": 2,
       "authenticity": "High",
       "centrality": "Moderate",
-      "weightedScore": 2.1,
-      "description": "The Hail Mary project is a global initiative with Stratt wielding authority over all nations. This requires international cooperation as a story premise. In the novel, this is treated pragmatically — of course everyone cooperates when the sun is dying — rather than as a political statement about globalism. However, some conservative viewers may note the implicit validation of supra-national authority. This is inherent to the premise and not forced."
+      "weightedScore": 1.40,
+      "timestamp": "Throughout flashback sequences",
+      "sceneDescription": "Eva Stratt commands a task force with authority over every national government. She requisitions resources, overrides national sovereignty, and operates above all law.",
+      "context": "Organic to the novel's premise. If every star in the solar neighborhood is dying, of course every government cooperates. The film does not frame this as a political ideal -- it frames it as crisis management.",
+      "impact": "Low ideological weight because the framing is pragmatic, not aspirational.",
+      "verdict": "Present but organic. Does not feel injected.",
+      "description": "Eva Stratt wields near-absolute authority over world governments in service of the Hail Mary project. Framed as emergency pragmatism, not as celebration of global governance. High authenticity because the novel requires this structure."
     },
     {
-      "id": "WOKE-PHM-002",
-      "name": "Female authority figure as project leader",
+      "id": "WOKE-002",
+      "name": "Female authority figure over male protagonist",
       "category": "Woke",
       "severity": 2,
       "authenticity": "Moderate",
       "centrality": "Moderate",
-      "weightedScore": 2.0,
-      "description": "Eva Stratt (Sandra Hüller) leads the entire Hail Mary project and has near-dictatorial authority over world governments. In the novel, Stratt is not a girl-boss — she is a pragmatic, morally ambiguous leader whose authority is grudgingly accepted because the crisis demands it. She is more antagonist than inspiration. If the film preserves this nuance, the trope is well-handled. If it lionizes her as an empowering figure, it could lean woke."
+      "weightedScore": 2.00,
+      "timestamp": "All flashback sequences featuring Stratt",
+      "sceneDescription": "Eva Stratt has absolute authority over the Hail Mary project and has Grace drugged and forcibly placed on the spacecraft.",
+      "context": "Hüller brings warmth to the role but Stratt remains a morally complex authority figure. NOT a girl-boss. She is arguably the film's most interesting antagonist-who-is-right.",
+      "impact": "Moderate. Some viewers will register the male-subordinate dynamic. But it is earned and not ideologically driven.",
+      "verdict": "Present. Handled with more nuance than typical Hollywood female authority casting.",
+      "description": "Stratt's command over Grace is absolute and includes having him forcibly drugged and launched into space. The film treats this as defensible given the stakes. Moderate authenticity because the specific casting dynamic amplifies the dynamic somewhat, though the character exists faithfully from the novel."
     },
     {
-      "id": "WOKE-PHM-003",
-      "name": "Science and education presented as paramount values",
+      "id": "WOKE-003",
+      "name": "Science as quasi-religious identity marker",
       "category": "Woke",
       "severity": 1,
       "authenticity": "High",
-      "centrality": "High",
-      "weightedScore": 1.35,
-      "description": "The protagonist is a science teacher, and the entire film celebrates scientific thinking as the path to salvation. While pro-science messaging is not inherently woke, it has been politically coded in recent years. However, the novel treats science as a tool for survival, not a tribal identity marker. Grace's scientific thinking is presented as a practical skill, not a political statement."
+      "centrality": "Moderate",
+      "weightedScore": 0.70,
+      "timestamp": "Throughout; particularly in classroom flashbacks",
+      "sceneDescription": "The film celebrates scientific thinking as salvation. Grace's identity as a scientist-teacher is central to the story.",
+      "context": "Organic to Weir's worldview. Science is treated as a practical tool, not a tribal identity. There is no climate messaging, no anti-religion framing.",
+      "impact": "Minimal. Does not use science as a weapon against faith or tradition.",
+      "verdict": "Trace-level concern. Does not land as ideological injection.",
+      "description": "Pro-science framing throughout is organic to both the source material and the story's survival premise. Science is presented as a skill, not an ideology."
     },
     {
-      "id": "WOKE-PHM-004",
-      "name": "Diverse international crew",
+      "id": "WOKE-004",
+      "name": "Diverse ensemble cast",
       "category": "Woke",
       "severity": 1,
       "authenticity": "High",
       "centrality": "Low",
-      "weightedScore": 1.0,
-      "description": "The Hail Mary crew includes an American, a Chinese national, and a Russian national. The supporting cast includes a German project leader and various international scientists. This diversity is entirely organic to a story about a global project to save Earth. No forced representation."
+      "weightedScore": 0.35,
+      "timestamp": "Supporting cast throughout",
+      "sceneDescription": "Crew and project staff include characters from China, Russia, Germany, UK, and other nations.",
+      "context": "The novel explicitly requires this. Every country on Earth is part of Project Hail Mary.",
+      "impact": "Negligible. No ideological diversity casting. No race-swaps from the novel.",
+      "verdict": "Non-issue.",
+      "description": "Cast diversity is completely organic to a story about every nation on Earth cooperating to prevent extinction. No characters were race-swapped from the novel. This is how diversity casting should work."
     },
     {
-      "id": "WOKE-PHM-005",
-      "name": "Sun-dying premise could parallel climate change messaging",
+      "id": "WOKE-005",
+      "name": "Astrophage premise echoes climate anxiety framing",
       "category": "Woke",
       "severity": 2,
       "authenticity": "Moderate",
       "centrality": "Low",
-      "weightedScore": 2.0,
-      "description": "The Astrophage — an organism consuming the sun's energy — could be framed as a climate change allegory. The novel does not make this connection explicitly; the threat is alien, not man-made. But the 'planet is dying, we must act now' framework has unmistakable echoes of climate activism. Whether the film leans into this parallel or keeps it purely sci-fi remains to be seen. Based on the trailers, there is no climate messaging."
+      "weightedScore": 1.00,
+      "timestamp": "Setup / first act",
+      "sceneDescription": "Global crisis caused by an organism affecting the Sun requires immediate international response. The structure mirrors climate change rhetoric even though the threat is explicitly alien.",
+      "context": "The film does NOT make the climate parallel explicit. No character mentions climate change. The threat is purely sci-fi.",
+      "impact": "Low. Audiences who know the novel will not register this.",
+      "verdict": "Trace concern. Present but not activated.",
+      "description": "The 'global environmental threat requiring international emergency cooperation' structure has surface-level similarities to climate messaging, but the film makes no connections to real-world politics. The threat is alien and entirely fictional."
     },
     {
-      "id": "TRAD-PHM-001",
-      "name": "Male competence as the central heroic virtue",
+      "id": "WOKE-006",
+      "name": "Brief suicide discussion as contingency planning",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "timestamp": "Early-to-mid second act",
+      "sceneDescription": "Mission design includes a suicide pill option for crew members. Brief and non-graphic.",
+      "context": "Organic to a suicide mission premise. Not presented approvingly.",
+      "impact": "Minimal.",
+      "verdict": "Non-issue in context.",
+      "description": "The suicide contingency is a realistic element of a one-way mission and is not presented as glamorous or desirable. Handled matter-of-factly."
+    },
+    {
+      "id": "WOKE-007",
+      "name": "Onboard vodka / substance humor",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "timestamp": "Mid-film",
+      "sceneDescription": "Grace discovers a vodka stash on the ship, played for a brief comedic beat.",
+      "context": "One throwaway gag. No glorification of alcohol abuse.",
+      "impact": "Negligible.",
+      "verdict": "Non-issue.",
+      "description": "Brief humor referencing alcohol. Consistent with the novel. Not a content concern."
+    },
+    {
+      "id": "TRAD-001",
+      "name": "Male competence as the defining heroic virtue",
       "category": "Traditional",
-      "severity": 4,
+      "severity": 5,
       "authenticity": "High",
       "centrality": "High",
-      "weightedScore": 5.04,
-      "description": "Ryland Grace saves humanity through intelligence, scientific knowledge, and problem-solving. He is not a chosen one or a superhero. He is a teacher who earned his competence through study and dedication. The entire film celebrates the idea that a smart, determined man can solve impossible problems through rational thinking. This is the most traditional possible framing of heroism."
+      "weightedScore": 6.30,
+      "timestamp": "Entire film",
+      "sceneDescription": "Ryland Grace saves two civilizations through scientific knowledge, problem-solving, and rational thinking. Not a warrior or chosen one. A teacher who earned everything he knows.",
+      "context": "This is the thesis of the film. Every dramatic beat turns on Grace's competence.",
+      "impact": "Maximum. This is what the film is about.",
+      "verdict": "The clearest traditional signal in the movie.",
+      "description": "The entire film is structured around one idea: a competent, intelligent man solving impossible problems through preparation, rational thinking, and persistence. This is the most traditional possible framing of heroism and the film delivers it without apology."
     },
     {
-      "id": "TRAD-PHM-002",
-      "name": "Self-sacrifice as the ultimate act of heroism",
+      "id": "TRAD-002",
+      "name": "Ultimate self-sacrifice for the benefit of others",
       "category": "Traditional",
-      "severity": 4,
+      "severity": 5,
       "authenticity": "High",
       "centrality": "High",
-      "weightedScore": 5.04,
-      "description": "In the novel, Grace chooses to stay on Rocky's planet rather than return to Earth, sacrificing his entire life to save an alien species. His two crewmates died on the mission. The entire Hail Mary project is a suicide mission accepted voluntarily. Self-sacrifice — giving your life for others without expectation of reward — is one of the most deeply traditional values in Western civilization."
+      "weightedScore": 6.30,
+      "timestamp": "Third act / ending",
+      "sceneDescription": "Grace chooses to stay on Rocky's planet forever, sacrificing any return to Earth, to save the Eridian species. He sends the cure back via probe and lives out his life teaching alien children.",
+      "context": "The film's emotional climax and moral statement. Grace gives up everything -- career, home, family, species -- to do what is right.",
+      "impact": "Maximum. The ending carries the film's entire moral weight.",
+      "verdict": "The single most traditional element in any major blockbuster of 2026.",
+      "description": "Christ-figure arc confirmed by multiple theological commentators including Bishop Robert Barron. The willingness to sacrifice everything for others is the oldest story Western civilization tells. The film delivers it without irony, without deconstruction, without qualification."
     },
     {
-      "id": "TRAD-PHM-003",
+      "id": "TRAD-003",
       "name": "Male friendship as the emotional core",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 5.04,
+      "timestamp": "Second and third acts",
+      "sceneDescription": "Grace and Rocky bond through shared purpose, mutual respect, and intellectual collaboration. No romance. No therapy-speak. Brotherhood earned through struggle.",
+      "context": "A deeply traditional depiction of male bonding. Two beings with nothing in common find friendship through competence and shared sacrifice.",
+      "impact": "High. The Grace-Rocky friendship is why audiences are leaving theaters in tears.",
+      "verdict": "Powerful traditional signal.",
+      "description": "The most emotionally resonant relationship in the film is between two males who have nothing in common except intelligence, purpose, and mutual respect. This is traditional male friendship storytelling at its finest."
+    },
+    {
+      "id": "TRAD-004",
+      "name": "Duty and obligation over personal desire",
       "category": "Traditional",
       "severity": 3,
       "authenticity": "High",
       "centrality": "High",
       "weightedScore": 3.78,
-      "description": "The central relationship is between two males (Grace and Rocky) who bond through shared purpose, mutual respect, and intellectual collaboration. There is no romantic subplot in the novel. The friendship is earned through struggle, not given. This is a deeply traditional depiction of male bonding: two beings who find brotherhood through competence and shared sacrifice."
+      "timestamp": "First and third acts",
+      "sceneDescription": "Grace initially refuses the mission, is conscripted. Once he understands the stakes, he accepts duty without self-pity. At the end, chooses duty over self-interest again.",
+      "context": "The message: sometimes the situation demands everything. The traditional response is to rise.",
+      "impact": "High. This is the film's moral backbone.",
+      "verdict": "Strong traditional signal.",
+      "description": "From reluctant draftee to willing martyr, Grace's arc is about understanding that some obligations are larger than personal preference. The film presents this as admirable, not oppressive."
     },
     {
-      "id": "TRAD-PHM-004",
-      "name": "Teaching as a noble calling",
+      "id": "TRAD-005",
+      "name": "Teaching as noble vocation and legacy",
       "category": "Traditional",
-      "severity": 2,
+      "severity": 3,
       "authenticity": "High",
       "centrality": "Moderate",
-      "weightedScore": 1.96,
-      "description": "Grace is a teacher who ends the story teaching alien children about science. The novel frames teaching as the highest calling — Grace literally saves two species and then returns to the classroom. This is a profoundly traditional view of education as mentorship and service, not indoctrination."
+      "weightedScore": 2.10,
+      "timestamp": "Classroom flashbacks and ending",
+      "sceneDescription": "Grace was a science teacher before the mission. In the ending, he is teaching alien children science on Erid. The film frames teaching as the highest possible calling.",
+      "context": "Teaching as genuine mentorship and service to the next generation is a traditional value.",
+      "impact": "Moderate. Reinforces the film's traditionalist moral framework.",
+      "verdict": "Notable traditional signal.",
+      "description": "In a culture that treats teaching as either political activism or a fallback career, Project Hail Mary frames it as one of the most important things a person can do. Grace ends the film not as a conqueror or a celebrity but as a teacher. The film holds this up as beautiful."
     },
     {
-      "id": "TRAD-PHM-005",
-      "name": "No romantic subplot or sexual content",
+      "id": "TRAD-006",
+      "name": "Zero romantic or sexual content",
       "category": "Traditional",
       "severity": 2,
       "authenticity": "High",
       "centrality": "Low",
-      "weightedScore": 1.0,
-      "description": "The novel contains no romantic subplot, no sex scenes, and no relationship drama. The story is entirely focused on survival, science, and friendship. This is increasingly rare in mainstream blockbusters and is refreshing for audiences tired of shoehorned romance."
+      "weightedScore": 0.70,
+      "timestamp": "Entire film",
+      "sceneDescription": "No romantic subplot. No sexual content. No nudity. PG-13 with minimal suggestive references.",
+      "context": "In a blockbuster landscape where shoehorned romance is nearly mandatory, this omission is meaningful.",
+      "impact": "Moderate for traditional audiences tired of mandatory romance subplots.",
+      "verdict": "Traditional signal by absence.",
+      "description": "The film trusts that competence, friendship, and sacrifice are sufficient emotional engines. No romance required. Clean content by any standard."
     },
     {
-      "id": "TRAD-PHM-006",
-      "name": "Duty and obligation as motivating forces",
+      "id": "TRAD-007",
+      "name": "Rocky's heroic sacrifice to save Grace",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.10,
+      "timestamp": "Mid-film crisis sequence",
+      "sceneDescription": "Rocky breaks his pressurized containment vessel -- risking his life by exposure to an atmosphere that can kill him -- to right the ship and drag Grace to safety after an uncontrolled spin.",
+      "context": "The alien sacrifices his own safety for his friend. A traditional warrior-protecting-companion beat.",
+      "impact": "High emotional impact. Reinforces the theme that true friendship involves sacrifice.",
+      "verdict": "Strong traditional signal.",
+      "description": "Rocky risks death to save Grace without hesitation. This is the moment the friendship cemented and the film's most traditionally heroic single beat."
+    },
+    {
+      "id": "TRAD-008",
+      "name": "International cooperation framed as pragmatic realpolitik, not globalist ideology",
       "category": "Traditional",
       "severity": 2,
       "authenticity": "High",
       "centrality": "Moderate",
-      "weightedScore": 1.0,
-      "description": "Grace does not volunteer for his mission — he is essentially drafted and sent against his will. But once he understands the stakes, he accepts his duty and does what must be done. Obligation to others, particularly to the survival of civilization, is a fundamentally conservative value."
+      "weightedScore": 1.40,
+      "timestamp": "Flashback sequences",
+      "sceneDescription": "Every nation cooperates on Project Hail Mary. This is framed not as a celebration of global governance but as rational self-interest -- everyone is dying if they do not cooperate.",
+      "context": "Pragmatic international cooperation is a traditional foreign policy position. No UN-worship narrative.",
+      "impact": "Low-moderate. Quietly traditional framing of realpolitik.",
+      "verdict": "Mild traditional signal.",
+      "description": "The film does not make speeches about the power of unity. Stratt just gets it done. Nations cooperate because they have to, not because cooperation is a moral ideal. This is realpolitik, not globalism."
     }
   ],
   "seo": {
     "titleTag": "Is Project Hail Mary (2026) Woke? | VirtueVigil Review",
-    "metaDescription": "Project Hail Mary (2026) stars Ryan Gosling in Andy Weir's sci-fi epic about a lone astronaut saving Earth. VirtueVigil's full VVWS review: is this sci-fi blockbuster woke or traditional? Male competence, sacrifice themes, and alien friendship analysis.",
+    "metaDescription": "VirtueVigil's full post-release VVWS review of Project Hail Mary (2026). Ryan Gosling, Phil Lord & Christopher Miller. Verdict: TRADITIONAL (+11 margin). The anti-woke blockbuster of 2026. Full trope audit, parental guide, and creative team deep dive.",
     "keywords": "project hail mary, is project hail mary woke, project hail mary review, ryan gosling, andy weir, project hail mary 2026, phil lord christopher miller, amazon mgm, project hail mary conservative review, project hail mary woke score, virtuevigil, project hail mary parental guide, sci-fi movie traditional values, rocky alien"
   }
 }
