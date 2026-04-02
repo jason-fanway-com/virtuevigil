@@ -15980,6 +15980,193 @@ function buildAudienceVsCriticScoresListicle() {
 </article>`
   }));
 
+  // --- Hollywood Anti-American Movies Listicle ---
+  writePage('lists/hollywood-anti-american-movies/index.html', buildListiclePage({
+    slug: 'hollywood-anti-american-movies',
+    title: 'What Hollywood Gets Wrong About America: 10 Films Examined',
+    description: 'Hollywood keeps getting America wrong. From imperialist allegories to attacks on faith, family, and freedom, VirtueVigil examines 10 films that distort the American story.',
+    canonicalPath: 'lists/hollywood-anti-american-movies',
+    publishDate: '2026-04-02',
+    htmlContent: `<article class="listicle">
+  <div class="listicle-intro">
+    <p>Hollywood has a complicated relationship with America. The industry was built here, employs tens of millions of Americans, and exports American culture to every corner of the planet. It also, with remarkable consistency, portrays that culture as something to be ashamed of. Not to be questioned honestly or examined critically, but to be indicted wholesale. American power is imperialism. American faith is manipulation. American prosperity is corruption. American domesticity is a prison.</p>
+
+    <p>This is not a new observation. It is, however, one that is underexamined with specificity. VirtueVigil has scored and analyzed hundreds of films. What follows is a focused examination of ten films where the distortion is not incidental but structural. These are movies where getting America wrong is the point. Where the screenplay could not exist without the premise that something foundational about this country is broken, evil, or deserving of collapse. We document what each film gets wrong, what the data shows, and why it matters.</p>
+
+    <p>Disagreement and critique are healthy. What VirtueVigil examines here is something different: the systematic substitution of grievance for accuracy, and the resulting gap between what America is and what Hollywood insists it must be.</p>
+  </div>
+
+  <ol class="listicle-items">
+
+    <li class="listicle-item">
+      <div class="listicle-rank">1</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/avatar-2009/">Avatar (2009)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-13 WOKE</span>
+        </div>
+        <p>The highest-grossing film in cinema history is also one of the most sustained anti-American allegories ever made at scale. James Cameron's Na'vi are indigenous peoples. The RDA Corporation is American capitalism backed by American military power. Pandora's unobtanium is oil, or lithium, or any resource the United States has ever fought a war to control. The American soldier who defects to join the indigenous resistance is the clearest possible statement about who the real savages are. Cameron spent twelve years and a reported $237 million making this argument. He made it again in The Way of Water. He will make it at least two more times. The film never asks whether the analogy is fair, whether the people it represents would recognize themselves in it, or whether the solution it implies makes any sense. It simply spends three hours telling the largest possible global audience that American power is the villain of the human story.</p>
+        <a href="/reviews/avatar-2009/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">2</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/the-creator-2023/">The Creator (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">STRONGLY WOKE</span>
+          <span class="score-badge">-31 WOKE</span>
+        </div>
+        <p>Gareth Edwards built a genuinely beautiful science fiction film around a premise that requires you to accept America as the unredeemable villain of the future. In 2070, the United States blames artificial intelligence for detonating a nuclear weapon in Los Angeles and launches a global war of extermination against AI. The enemy is a multicultural Asian nation called New Asia, where humans and AI live in harmony. The American military is depicted as a rampaging occupier bombing villages, executing civilians, and hunting a child. The film lifts visual grammar directly from Vietnam War photography. The comparison is not subtle. America, in The Creator's vision, has learned nothing from its imperial history and now wages the same wars on the same people for the same reasons. The film never asks whether a nation that actually had a nuclear device detonated in its largest city might have legitimate security concerns. That question does not fit the thesis.</p>
+        <a href="/reviews/the-creator-2023/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">3</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/killers-of-the-flower-moon-2023/">Killers of the Flower Moon (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>Martin Scorsese's adaptation of David Grann's book is a technically masterful and morally serious film. It is also, in its final form, something that treats the Osage murders not as a chapter in American history but as a founding text for understanding what America still is. The story of white settlers systematically killing Osage people for their oil money is real, documented, and horrific. The question is what Scorsese does with it. By centering the film on Ernest Burkhart's cowardly complicity rather than the Osage people's fight for justice, and by closing with a radio dramatization that literalizes the erasure of indigenous voices, the film argues that this pattern of erasure is ongoing and structural. The Woke Lean score reflects genuine craft in tension with an ideological frame that turns a historical atrocity into a present-tense indictment. Americans should know this history. The framing tells them they are still living inside it.</p>
+        <a href="/reviews/killers-of-the-flower-moon-2023/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">4</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/oppenheimer-2023/">Oppenheimer (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>Christopher Nolan's Oppenheimer is the most technically dazzling film of the decade and also, quietly, a sustained argument that America's greatest technological achievement was a moral catastrophe perpetrated by men who failed to reckon with what they had done. The film treats the Trinity test not as a triumph of American scientific ingenuity but as the moment human civilization crossed a threshold it cannot return from. Oppenheimer's postwar persecution by Strauss is framed as American institutions punishing conscience. His communist associations are treated sympathetically, his accusers vindictively. The bombing of Hiroshima and Nagasaki exists only as Oppenheimer's psychological burden, stripped of any strategic context, Japanese militarism, or the half-million American casualty projections for Operation Downfall. What Hollywood gets wrong here is not the facts but the frame: American power as original sin rather than imperfect instrument in a world of imperfect choices.</p>
+        <a href="/reviews/oppenheimer-2023/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">5</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/barbie-2023/">Barbie (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">STRONGLY WOKE</span>
+          <span class="score-badge">-32 WOKE</span>
+        </div>
+        <p>The $1.44 billion global smash that parents took their daughters to see is a film with a single thesis: the real world is a patriarchy, and women who have not yet recognized this are living in a false paradise maintained by male power. America as cultural setting is the patriarchy. The Mattel corporation is the patriarchy. Ken discovering America is Ken discovering male power and bringing it back to corrupt Barbieland. Nobody asked whether American women in 2023 actually experience the world Greta Gerwig depicts. Nobody compared female educational attainment, workforce participation, or median age of first marriage to the Barbie thesis. The film produced the most feminist ending in mainstream cinema history, dressed it in pink, sold $150 million in merchandise, and walked away with the argument that American womanhood requires liberation from American cultural norms. The movie grossed more money than any film in Warner Bros. history. The thesis was never examined.</p>
+        <a href="/reviews/barbie-2023/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">6</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/glass-onion-2022/">Glass Onion: A Knives Out Mystery (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">STRONGLY WOKE</span>
+          <span class="score-badge">-24 WOKE</span>
+        </div>
+        <p>Rian Johnson's sequel is technically a mystery but functionally a two-hour argument that American success is built on theft, fraud, and the exploitation of people too honest or too marginalized to protect themselves. Miles Bron is not just a fictional villain. He is Elon Musk, Jeff Bezos, and Peter Thiel assembled into a composite caricature of American tech wealth. His enablers are a governor, a men's rights personality, a fashion mogul, and a scientist, all complicit in covering up his original crime. The film's moral is that the American elite did not earn anything and have built their empires on stolen intellectual property and social manipulation. The fact that Johnson makes this argument with genuine wit and craft does not change what it is. Glass Onion tells its audience that the successful people they see celebrated in American culture got there by stepping on someone like Helen Brand. The film does not consider whether any American success might be legitimate.</p>
+        <a href="/reviews/glass-onion-2022/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">7</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/dont-worry-darling-2022/">Don't Worry Darling (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-19 WOKE</span>
+        </div>
+        <p>Olivia Wilde's thriller is set in a 1950s American desert community that turns out to be a virtual prison designed by a men's rights extremist to trap women in domestic servitude. The target is not a specific authoritarian. The target is the American postwar era itself. Victory City is the idealized 1950s that conservative nostalgia invokes: a community of purpose, prosperity, clean neighborhoods, strong families, and gender roles. Wilde's film argues that this world, if it ever existed or were recreated, would be indistinguishable from a cult that drugs and kidnaps women. The film treats American domesticity as a cage by definition. Women in kitchens preparing meals for husbands is not a lifestyle choice or a cultural norm but an act of violence. Florence Pugh gives a genuinely committed performance in service of a thesis that the American family as traditionally understood is a mechanism of female imprisonment.</p>
+        <a href="/reviews/dont-worry-darling-2022/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">8</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/heretic-2024/">Heretic (2024)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">STRONGLY WOKE</span>
+          <span class="score-badge">-27 WOKE</span>
+        </div>
+        <p>Hugh Grant's performance in Heretic is one of the best in recent memory: charming, methodical, terrifying. What he is doing with that performance is building the most intellectually rigorous anti-religion argument that mainstream Hollywood has produced in years. The film is set in America. The missionaries are American. The faith under attack is the faith of tens of millions of American families who would recognize the Mormon missionaries as neighbors. Mr. Reed's argument is not that this particular sect is wrong. His argument is that all religion is a control system, that faith is a mechanism for managing populations, and that the specifically American relationship between democracy and Christianity is a manufactured lie. The film is extraordinarily well made. It is also a direct attack on a foundational American cultural institution, made with enough sophistication that it never has to announce itself. Most audiences absorb the argument without realizing they have been presented one.</p>
+        <a href="/reviews/heretic-2024/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">9</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/conclave-2024/">Conclave (2024)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">STRONGLY WOKE</span>
+          <span class="score-badge">-39 WOKE</span>
+        </div>
+        <p>Edward Berger's Vatican thriller is the most dangerous entry on this list because it is the most beautifully made. Conclave is not a blunt instrument. It is a precision tool designed to transform the viewer's relationship with Catholic institutional authority. The cardinals defending traditional doctrine are uniformly depicted as corrupt, power-hungry, or cowardly. The progressive reformist is given moral clarity and the film's most sympathetic framing. The twist ending, revealing an intersex cardinal, is not a surprise. It is the entire thesis of the film delivered as its culminating statement: that the Catholic Church, one of the oldest institutions in Western and American civilization, must be remade in the image of progressive identity politics or be exposed as morally bankrupt. Forty-two percent of American Catholics are Hispanic. A film that tells them their institution is defined by its most corrupt American and European power brokers is telling them something specific about the American Catholic experience. VirtueVigil gave it our highest woke score of any 2024 film reviewed.</p>
+        <a href="/reviews/conclave-2024/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">10</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/civil-war-2024/">Civil War (2024)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>Alex Garland's film is the most provocative entry on this list because it is the most deliberately uncommitted. Civil War refuses to identify the ideology of the Western Forces or the loyalist government. It refuses to explain who started the conflict or why. It insists on presenting American self-destruction as morally undifferentiated spectacle. This deliberate neutrality is itself an argument. By treating American political factions as interchangeable belligerents and refusing any moral distinction between them, the film argues that the American political project has no meaningful content left. Both sides in Garland's war are just men with guns doing things to each other. The journalists observing it are not there to determine who is right. Nobody is right. America is just burning. For a film made with craft and released by A24, this is the most nihilistic possible framing of American political life: not that one side is wrong, but that the entire enterprise is devoid of genuine principle worth fighting for.</p>
+        <a href="/reviews/civil-war-2024/" class="listicle-cta">Read Full Review</a>
+      </div>
+    </li>
+
+  </ol>
+
+  <div class="listicle-conclusion">
+    <h3>What This Pattern Reveals</h3>
+    <p>Ten films. A combined box office gross in the billions. An audience reach spanning every continent. Each one tells a version of the same story: that American power is imperial, American faith is coercive, American prosperity is theft, American domesticity is oppression, and American democratic institutions are irredeemably corrupt. None of these films are documentaries. Each is a curated narrative choice, a selection of what to include and what to leave out, dressed in craft and distributed at scale.</p>
+    <p>VirtueVigil does not argue that America is beyond criticism. American history contains genuine atrocities, genuine failures of promise, genuine institutional corruption that deserves honest examination. What we document here is the systematic substitution of caricature for examination, the replacement of nuance with indictment. When every American institution in every prestige film is a villain, that is not criticism. That is a thesis dressed as art.</p>
+    <p>Browse VirtueVigil's full review database for a complete picture of what Hollywood is making, scoring each film so you know exactly what you are walking into. The data does not lie.</p>
+    <p><a href="/reviews/">Browse all VirtueVigil reviews</a> or explore more curated lists at <a href="/lists/">VirtueVigil Lists</a>.</p>
+  </div>
+
+<style>
+.listicle { max-width: 860px; }
+.listicle-intro p { color: #bbb; line-height: 1.8; margin-bottom: 18px; font-size: 1.05rem; }
+.listicle-items { list-style: none; padding: 0; margin: 32px 0 0; }
+.listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+.listicle-item:last-child { border-bottom: none; }
+.listicle-rank { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; background: rgba(201,168,76,0.12); border: 2px solid rgba(201,168,76,0.4); display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; }
+.listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.15rem; margin: 0 0 10px; }
+.listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+.listicle-content h2 a:hover { color: #c9a84c; }
+.listicle-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+.verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+.verdict-badge.traditional { background: rgba(39,174,96,0.15); color: #2ecc71; border: 1px solid #2ecc71; }
+.verdict-badge.mixed { background: rgba(230,126,34,0.12); color: #e67e22; border: 1px solid #e67e22; }
+.verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+.verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+.score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+.listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+.listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+.listicle-cta:hover { background: rgba(201,168,76,0.1); }
+.listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+.listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+.listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+.listicle-conclusion a { color: #c9a84c; }
+@media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+</style>
+</article>`
+  }));
+
   // --- Lists Hub Page ---
   console.log('\nBuilding lists hub page:');
   writePage('lists/index.html', buildListsHubPage());
