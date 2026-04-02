@@ -63947,136 +63947,161 @@
     "title": "undertone",
     "year": 2026,
     "type": "film",
-    "platform": "Theatrical (A24)",
-    "genre": "Horror",
-    "date": "2026-03-15",
+    "platform": "Theatrical",
+    "genre": "Supernatural Horror",
+    "date": "2026-04-02",
     "author": "VirtueVigil Editorial Team",
-    "readTime": "12 min",
+    "readTime": "8 min",
     "poster": "/images/posters/undertone-2026.jpg",
-    "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 5,
-    "tradScore": 6,
-    "authIndex": 62,
-    "scoreMargin": "+1 TRAD",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 3.7,
+    "tradScore": 21.98,
+    "authIndex": 82,
+    "scoreMargin": "+18 TRAD",
     "preRelease": false,
-    "wokeTrap": false,
+    "wokeTrap": {
+      "present": false,
+      "degree": null,
+      "explanation": "undertone is not a woke trap. Its Catholic framework, maternal horror themes, and supernatural consequences for unbelief are woven into the story from the first scene. The single mildly woke element -- Evy scheduling an abortion clinic appointment -- is presented as part of her personal crisis and fear, not as political advocacy. The film's traditional bones are visible from the opening frames."
+    },
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "Not a woke trap. The film's progressive elements, primarily its focus on bodily autonomy anxiety around the protagonist's pregnancy and its treatment of Catholic tradition as a source of guilt rather than comfort, are present from the opening minutes. This is not a bait-and-switch. The marketing positioned it as an arthouse horror film exploring grief, faith, and caregiving. That is exactly what you get. The film's ideology is baked into its DNA and visible to anyone paying attention."
+      "explanation": "NOT A WOKE TRAP. undertone scores TRADITIONAL with a margin of +18 TRAD. The one woke data point (abortion clinic appointment) appears early in the film and does not constitute a third-act ideological pivot. The traditional content -- Catholic faith architecture, maternal protection mythology, spiritual consequences for rejecting prayer -- is present and load-bearing from start to finish. No deceptive packaging."
     },
     "creative_team": {
       "director": {
         "name": "Ian Tuason",
-        "ideology": "CENTER-LEFT. Tuason is a Filipino-Canadian debut director whose stated thematic interests include Catholic guilt, inherited belief systems, and the physical and emotional experience of caregiving as a woman. His interviews reveal a filmmaker processing faith skeptically rather than attacking it. The film is not anti-Catholic so much as it depicts Catholicism as something the protagonist is ambivalent about, which is a more honest and more subversive framing.",
-        "profile": "Ian Tuason is a Filipino-Canadian filmmaker making his feature directorial debut with undertone. The film premiered at the Fantasia International Film Festival in July 2025 before its A24 theatrical release in March 2026. Tuason worked as a commercial director and short filmmaker before this project, which was shot on a $500,000 budget with Black Fawn Films and Slaterverse Pictures. He has since been attached to direct the next Paranormal Activity sequel, a significant vote of confidence from the horror industry. Tuason's approach to horror is rooted in sound design and implied threat rather than gore, working in the tradition of Pontypool and early Paranormal Activity."
+        "ideology": "Traditional-adjacent. No known ideological activism. Film draws heavily from Catholic upbringing and personal experience caregiving for terminally ill parents.",
+        "profile": "Ian Tuason is a Filipino-Canadian writer-director making his feature debut with undertone. The film is not just a calling card -- it is autobiographical. Tuason spent years caring for his parents as they faced terminal cancer in the early 2020s, and that grief, isolation, and spiritual confrontation is embedded in every frame. The film was shot in his actual childhood home in Rexdale, Toronto, and began as a radio play before evolving into a screenplay. Tuason won the gold audience award at the Fantasia International Film Festival before A24 acquired worldwide rights in a seven-figure deal. His sensibility is minimalist, dread-forward, and rooted in the kind of Catholic guilt and supernatural folklore that doesn't show up in films made by people who didn't grow up with it."
       },
       "writer": {
         "name": "Ian Tuason",
-        "profile": "Tuason wrote the screenplay as a vehicle for exploring the intersection of Catholic guilt, pregnancy anxiety, caregiving, and supernatural horror. The script relies on an unusual structural constraint: all characters except the protagonist Evy and her dying mother appear only as voices, never on screen. This forces the horror to exist entirely in sound and in Evy's reactions. The screenplay was reportedly drawn partly from Tuason's observations of family members navigating Catholic tradition and physical illness simultaneously."
+        "profile": "Sole credited writer. Tuason channels his own caregiving experience into a tight, economical horror screenplay that uses the Abyzou demon from Mediterranean and European folklore as its central mythological engine. The script's most distinctive structural choice is keeping all characters except Evy and her mother entirely off-screen, heard only as voices -- a discipline that forces the horror to live in sound and imagination rather than image."
       },
       "lead_producer": {
-        "name": "Dan Slater & Cody Calahan",
+        "name": "Dan Slater / Cody Calahan",
         "company": "Black Fawn Films / Slaterverse Pictures"
-      },
-      "composer": {
-        "name": "Shanika Lewis-Waddell",
-        "profile": "Lewis-Waddell's score is spare and dissonant, using found sounds and sustained tones rather than traditional horror orchestration. The music is inseparable from the film's sound design concept. Sound designer Graham Beasley and composer Lewis-Waddell worked together to create a sonic environment where the distinction between music and ambient horror is deliberately blurred."
       },
       "top_cast": [
         {
           "name": "Nina Kiri",
-          "role": "Evy Babig (protagonist, podcast host)"
+          "role": "Evy Babic",
+          "notes": "Best known for The Handmaid's Tale, Kiri delivers a near-one-woman performance that carries the entire film on her shoulders. Every scene in the film except for Mama's bedside is essentially Kiri alone in a room reacting to voices. She is excellent: skeptical, exhausted, quietly falling apart. Her Catholic guilt feels earned and specific rather than generic."
         },
         {
           "name": "Adam DiMarco",
-          "role": "Justin (voice only, Evy's podcast co-host)"
+          "role": "Justin (voice)",
+          "notes": "DiMarco, known from The White Lotus, appears entirely as a voice -- Evy's co-host and the believer to her skeptic. His warmth and gentle insistence provide the film's emotional counterbalance. He never appears on screen, which makes the dynamic feel like listening in on a real friendship."
         },
         {
           "name": "Michele Duquet",
-          "role": "Evy's mother (comatose, on-screen only briefly)"
+          "role": "Mama",
+          "notes": "Haunting presence as Evy's comatose mother. Duquet barely speaks but her physical presence -- still and then terrifyingly not still -- is the film's most unsettling visual element."
         },
         {
           "name": "Keana Lyn Bastidas",
-          "role": "Jessa (voice only, the haunted woman on the recordings)"
-        },
-        {
-          "name": "Jeff Yung",
-          "role": "Mike (voice only, Jessa's husband)"
+          "role": "Jessa (voice)",
+          "notes": "Voice performance as the haunted half of the couple whose recordings trigger the film's horror. Bastidas makes Jessa feel real and specific in a role that exists entirely in audio."
         }
       ],
       "prediction": {
-        "verdict": "MIXED",
+        "verdict": "TRADITIONAL",
         "confidence": "high"
       }
     },
-    "fidelityCasting": {
-      "sourceType": "Original Film",
-      "sourceTitle": "N/A (Original Production)",
-      "assessment": "undertone is an original screenplay with no source material. There is no fidelity concern to adjudicate. Nina Kiri, a Canadian actress of Filipino descent, is cast as Evy Babig, a character whose name and Catholic background suggest Filipino heritage. This is consistent casting rather than race-swapping. The supporting voice cast is small and ethnically unspecified by the script."
-    },
     "summary": {
-      "overall": "Ian Tuason's undertone is the horror film equivalent of a room with bad acoustics. You hear something wrong. You cannot locate it. You cannot make it stop. And then it gets worse.\n\nThe premise is clever and it earns its concept. Evy (Nina Kiri) co-hosts a paranormal podcast with her friend Justin, who believes in everything and she believes in nothing. She has moved home to care for her comatose mother. Justin sends her audio files from a couple named Mike and Jessa, whose recordings contain apparent supernatural content. What starts as material for the podcast becomes something else entirely.\n\nTuason made a structural choice that sounds like a gimmick until you experience it: every character except Evy and her mother exists only as a voice. You never see Justin, never see Mike or Jessa, never see anyone else on screen. This forces the horror to live entirely in what you hear and in Kiri's face. It works. It works terrifyingly well. The sound design by Graham Beasley is not decoration here. It is the film's argument. When the recordings of Jessa sleeptalking begin to distort, when songs from Evy's childhood appear reversed in the audio, when the distinction between what's on the recording and what's in the room starts to collapse, the effect is genuinely unnerving in ways that jump scares cannot replicate.\n\nBut undertone is doing something besides being a very good horror film. It is also a film about what Catholicism does to women who have complicated relationships with their bodies.\n\nEvy is six weeks pregnant. She hasn't told the father, hasn't told Justin, and the revelation lands in the film's midsection with quiet weight. Her dying mother is deeply Catholic. Evy's skepticism about the paranormal is inseparable from her skepticism about the faith she was raised in. The reversed nursery rhymes aren't just scary. They are her childhood transformed into something sinister. The Catholic saint whose statue appears to be possessed in one of Justin's claims is not played for blasphemy; it is played as Evy's worst fear about what she was taught to believe.\n\nWhat is the film saying about all of this? That's where it gets genuinely complicated. The film does not condemn Catholic faith. It depicts faith as something Evy has not escaped even while rejecting it. Her mother, comatose, still radiates the weight of a lifetime of devotion. Evy is not free of what she was raised with. The haunting she experiences is partly supernatural and partly the haunting that inherited belief always performs on people who leave it behind.\n\nFrom a traditional values perspective, the film occupies uncomfortable ground. The pregnancy is not treated as a moral issue. It is treated as a source of anxiety and an additional layer of guilt. The film does not advocate for any particular choice, which is either neutrality or evasion depending on your reading. The most significant traditional element is the caregiving relationship at the film's center. Evy moved home to care for her dying mother. This is not presented as a burden. It is presented as love, imperfect and complicated, but love.\n\nA24's distribution and the film's festival origins signal arthouse sensibilities. The film rewards patient viewers. Horror fans looking for conventional scares will find enough here, but undertone's real project is psychological and the payoff requires sitting with discomfort rather than demanding resolution.\n\nThis is a serious piece of filmmaking with a $500,000 budget, a focused directorial vision, and a lead performance from Nina Kiri that carries more weight than the production could have survived without. Conservative audiences should go in aware of the pregnancy subplot and the ambivalent treatment of Catholic faith. The film is not hostile to belief. It is honest about how belief works on people, which can feel like the same thing.",
-      "adultInsight": "undertone will frustrate viewers looking for a clear ideological signal, and that frustration is probably intentional. The film depicts faith as inescapable even for skeptics, which is either a conservative argument about the permanence of religious formation or a progressive argument about the burden of inherited religion. Tuason does not resolve this. He leaves it as the horror.\n\nThe pregnancy subplot matters. It is not dwelled upon, but it is not incidental. Evy's unannounced pregnancy adds to her physical and emotional isolation and connects thematically to the film's treatment of maternal guilt. The film does not moralize about her situation. Whether that absence of moralizing reads as neutral storytelling or as progressive framing depends entirely on what you bring to the theater.\n\nConservative horror fans who can separate craft from ideology will find a lot to admire here. The sound design is extraordinary. Kiri's performance is the best work in a horror film so far this year. And the film's treatment of the caregiver-patient relationship, a daughter caring for her dying mother, is given real emotional weight. That is a traditional value honored without sentimentality.",
-      "parentalGuidance": "Rated R. Not appropriate for children. The film is psychologically disturbing rather than graphically violent, but its content warrants the rating.\n\nViolence: Limited but disturbing in context. One scene involves a demonic entity and a possessed statue that Justin describes in detail over audio. The horror is primarily sound-based and psychological.\n\nLanguage: Moderate. Typical R-rated language usage.\n\nSexual Content: None on screen. The protagonist's pregnancy is revealed and discussed but without any explicit content.\n\nThematic Content: The film deals with Catholic guilt, inheritance of religious belief, caregiver grief, and the anxiety of unplanned pregnancy. These themes are handled with seriousness rather than exploitation but they are heavy.\n\nAge Recommendation: Adults only. Teenagers with parental guidance and a conversation about the themes.\n\nDiscussion Points: What does the film say about the relationship between faith and fear? Does leaving a religion mean leaving its hold on you? Why does Evy care for her mother despite their differences?"
+      "overall": "Here is what horror films used to understand and largely forgot: the scariest thing in the world is not what you can see. It is what you almost see. What you hear from the next room. What plays backwards in a familiar nursery rhyme and says something a nursery rhyme should never say.\n\nundertone, Ian Tuason's debut feature, gets this. It gets it so completely that it built an entire film around the idea, stripped out every safety net, and handed the whole thing to one actress in a childhood home in Rexdale, Toronto.\n\nThe setup is deceptively simple. Evy Babic (Nina Kiri) is a paranormal podcast host and lifelong skeptic who has moved back home to care for her comatose mother. Her co-host Justin, heard only as a voice through her laptop, is the true believer. Together they receive a set of anonymous audio files from a couple named Mike and Jessa -- recordings of Jessa talking in her sleep. Justin plays one backward. He insists he can hear something. Evy, who has spent years debunking every ghost story sent to their show, is not impressed.\n\nThen she plays one of her own childhood songs in reverse.\n\nTuason knows how to turn the screw. The horror escalates through audio -- reversed nursery rhymes carrying impossible messages, voices that seem to address Evy directly, a demon from Mediterranean folklore who causes miscarriages and drives mothers to kill their children. The film's central discovery, that a demon named Abyzou has been drawn to Evy because she is six weeks pregnant and terrified of motherhood, is the kind of mythological precision that separates genuine horror writing from jump-scare assembly lines. This demon punishes women who fail to protect their children. Evy, who has scheduled a clinic appointment and refuses to pray at her mother's bedside, is exactly the person Abyzou is looking for.\n\nThe Catholic architecture of undertone is not window dressing. It is structural. Evy's guilt about prayer, the Virgin Mary statue that keeps moving around the house, the sense that her skepticism has left her spiritually undefended -- these are not generic horror tropes. They are the specific terrain of a lapsed faith confronting its consequences. Tuason, who drew directly from his own experience of watching his parents face terminal cancer, makes faith feel like something real and costly rather than decorative.\n\nNina Kiri's performance is extraordinary. She is alone for most of the film's 94 minutes, and she has to carry the audience's dread on her face while her character insists there is nothing to be afraid of. By the time she stops insisting, you believe every second of her fear because you watched it build from nothing.\n\nThe film's most controversial element -- Evy's pregnancy and scheduled abortion -- is handled as personal horror rather than political statement. The demon's mythology specifically targets women who reject motherhood. The film does not preach, but it does not look away either. The consequence of Evy's choices, spiritual and practical, is the engine of the third act.\n\nFor a film that cost $500,000 and was shot in the director's childhood bedroom, undertone is an embarrassment to everything that costs a hundred times more and delivers a tenth as much dread.",
+      "adultInsight": "Conservative adults should know what they are getting with undertone: a Catholic-inflected supernatural horror film where the protagonist's rejection of faith and pregnancy leave her spiritually exposed to a demon who specifically targets mothers. The film takes its religious framework seriously. The Abyzou mythology, the Virgin Mary motif, the weight of Evy's refusal to pray -- these are not arbitrary horror set dressing. They are the film's thesis. The one element that may give some viewers pause is Evy scheduling an abortion appointment, but the narrative frames this decision as part of her vulnerability to the supernatural threat rather than as advocacy. The film does not celebrate the choice. The demon is drawn to it. Adults grounded in their faith will find undertone treats spiritual questions with unusual gravity for a theatrical horror release.",
+      "parentalGuidance": "Rated R. Recommended for adults only. The film contains intense psychological horror, disturbing audio and imagery (backwards nursery rhymes, crayon drawings of dead infants, a body with a plastic bag over its head), and themes of miscarriage, infanticide, and demonic possession. Evy's pregnancy and abortion clinic appointment are discussed explicitly. A caller is heard murdering her infant child. The mother's animated corpse is the film's climactic scare. No graphic gore, but the psychological horror is sustained and genuinely disturbing. Not appropriate for children or teenagers. Adults sensitive to content involving harm to children or infants should be forewarned."
     },
     "tropeAudit": [
       {
-        "id": "WOKE-101",
-        "name": "Institutional Religion as Guilt Architecture",
+        "id": "WOKE-UND-001",
+        "name": "Protagonist Schedules Abortion Appointment",
         "category": "Woke",
         "severity": 3,
-        "authenticity": 0.7,
-        "centrality": 1,
-        "weightedScore": 2.1,
-        "description": "The film frames Catholicism primarily as a system of guilt that haunts its lapsed practitioners rather than as a source of comfort, community, or genuine truth. The Catholic saint's statue is the site of apparent demonic activity. Evy's childhood songs are sources of horror when reversed. Her mother's devotion is depicted as weight rather than gift. This is not an attack on Catholicism so much as a representation of how institutional religion operates psychologically on people who have left it. The high authenticity score reflects that this is a real and widely documented experience. The framing is still net-negative toward organized religion."
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.0,
+        "description": "Evy discovers she is six weeks pregnant and schedules an appointment at a local women's clinic. The choice is treated as a personal decision rooted in fear and self-doubt rather than as political advocacy. However, the film presents her reproductive autonomy without moral condemnation separate from the supernatural consequences."
       },
       {
-        "id": "WOKE-102",
-        "name": "Unaddressed Pregnancy as Value-Neutral",
+        "id": "WOKE-UND-002",
+        "name": "Single Woman Living Independently, No Partner Present",
         "category": "Woke",
-        "severity": 3,
-        "authenticity": 1,
-        "centrality": 1,
-        "weightedScore": 3,
-        "description": "Evy's unannounced pregnancy is introduced and left without moral resolution. The film treats it as a source of psychological weight and isolation without moralizing in either direction. From a traditional values standpoint, the absence of any acknowledgment that the pregnancy involves another life is a form of omission that aligns with progressive framing. The film is not advocating for abortion; it is treating the pregnancy as an anxiety to be managed rather than a responsibility to be reckoned with."
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "Evy lives alone, is pregnant without a visible partner, and manages her life independently. This is organic to the story -- the isolation and absence of support structures is central to the horror premise -- but it does fit the standard cultural framing of self-sufficient womanhood without traditional family context."
       },
       {
-        "id": "TRAD-101",
-        "name": "Caregiving as Love's Most Honest Form",
+        "id": "TRAD-UND-001",
+        "name": "Catholic Faith as Structural Horror Architecture",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "The film's entire supernatural framework is rooted in Catholic tradition and guilt. A Virgin Mary statue moves on its own throughout the house. Evy confesses to her mother that she feels unfit to be a mother. She refuses to pray and believes this contributed to her mother's death. Catholic guilt is not a punchline here -- it is the spiritual wound that leaves Evy vulnerable to a demon who targets women who fail in their maternal duty."
+      },
+      {
+        "id": "TRAD-UND-002",
+        "name": "Maternal Caregiving as Moral Obligation",
         "category": "Traditional",
         "severity": 4,
-        "authenticity": 0.7,
-        "centrality": 1.8,
+        "authenticity": "High",
+        "centrality": "High",
         "weightedScore": 5.04,
-        "description": "The film's structural premise is that Evy moved home to care for her dying mother despite their complicated relationship. This choice is not questioned or praised by the film. It is simply what Evy does. The caregiving relationship forms the physical context for all of the horror. Evy is in this house, exposed to these recordings, because she chose to honor her obligation to her mother. Traditional audiences will recognize this as an unconditional, duty-based love that functions regardless of emotional ease or ideological alignment."
+        "description": "Evy has moved back to her childhood home to care for her comatose mother full time. This sacrifice -- her independence, her social life, her peace of mind -- is presented as the right and natural thing to do, not as a burden to be escaped. The film honors the act of caregiving as something profound and spiritually significant."
       },
       {
-        "id": "TRAD-102",
-        "name": "Faith's Inescapability",
+        "id": "TRAD-UND-003",
+        "name": "Abyzou Mythology Affirms Sacred Duty of Motherhood",
         "category": "Traditional",
-        "severity": 2,
-        "authenticity": 0.7,
-        "centrality": 0.5,
-        "weightedScore": 0.7,
-        "description": "The film's most interesting traditional argument is implicit. Evy is a skeptic who has rejected Catholic faith, but she cannot escape it. The childhood songs, the iconography, the guilt structure of her psychology, all of it persists. The haunting is partly supernatural and partly the haunting that religious formation performs on those who leave. This is ultimately an argument for faith's permanence, not its falsity, even if the film does not intend it that way."
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "The demon Abyzou is drawn to Evy specifically because she is pregnant and considering rejecting motherhood. Abyzou, from Mediterranean and European folklore, is infertile and destroys mothers out of jealousy -- she targets women who have what she cannot. The film's mythology structurally frames motherhood as sacred and its rejection as spiritually dangerous. This is not a progressive framework."
       },
       {
-        "id": "TRAD-103",
-        "name": "Intergenerational Bond (Mother-Daughter)",
+        "id": "TRAD-UND-004",
+        "name": "Spiritual Consequences for Rejecting Prayer and Faith",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Evy explicitly confesses that she refused to pray for her dying mother. She believes this refusal contributed to her mother's death. The film treats this not as irrational guilt but as spiritually meaningful -- her closed-off relationship with God has left her without the armor she needs when something actually comes for her."
+      },
+      {
+        "id": "TRAD-UND-005",
+        "name": "Faith as Active Defense Against the Supernatural",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "The film operates in a universe where Catholic and spiritual frameworks are real and functional. The demon is real. Prayer matters. Evy's skepticism is not wisdom -- it is a liability. The film's horror logic implicitly argues for the reality of faith rather than dismissing it."
+      },
+      {
+        "id": "TRAD-UND-006",
+        "name": "Traditional Folk Horror Lore (Nursery Rhymes, Children's Songs)",
         "category": "Traditional",
         "severity": 2,
-        "authenticity": 0.7,
-        "centrality": 0.5,
-        "weightedScore": 0.7,
-        "description": "The mother-daughter relationship anchors the film emotionally. Evy's mother cannot communicate but her presence shapes every scene. Their relationship is complicated but the film treats the bond as real and significant. The comatose mother is not a prop; she is the reason Evy is there and the weight against which all the supernatural events are measured."
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "description": "The horror engine involves reversed nursery rhymes (Baa Baa Black Sheep, London Bridge) carrying demonic messages. The use of childhood songs as vessels of ancient spiritual content is firmly within the Anglo-European folk horror tradition and treats that tradition as genuinely meaningful rather than quaint or primitive."
       }
     ],
     "seo": {
-      "titleTag": "Is undertone (2026) Woke? A24 Horror Review | VirtueVigil",
-      "metaDescription": "Is undertone (2026) woke? VirtueVigil's verdict: MIXED (+1 TRAD). A24's new horror film has Catholic guilt, pregnancy anxiety, and exceptional sound design. Here's the full breakdown.",
-      "keywords": "is undertone 2026 woke, undertone a24 review conservative, undertone ian tuason review, undertone 2026 catholic horror, undertone film values review, undertone nina kiri"
+      "titleTag": "Is undertone (2026) Woke? | VirtueVigil Review",
+      "metaDescription": "A24's undertone is a 2026 supernatural horror film about a paranormal podcaster haunted by demonic recordings. VirtueVigil's full review: TRADITIONAL verdict, Catholic horror architecture, woke score 3.7, trad score 21.98. Is it safe to watch?",
+      "keywords": "undertone 2026, is undertone woke, undertone a24 review, undertone nina kiri, undertone ian tuason, undertone catholic horror, undertone conservative review, undertone virtuevigil, undertone paranormal podcast horror, undertone abyzou"
     },
-    "datePublished": "2026-03-15"
+    "datePublished": "2026-04-02"
   },
   {
     "id": "smurfs-2025",
