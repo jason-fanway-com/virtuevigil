@@ -37116,54 +37116,227 @@
     "year": 2026,
     "type": "film",
     "platform": "Theatrical",
-    "genre": "Sci-Fi & Fantasy",
-    "date": "2026-02-18",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "8 min",
+    "genre": "Sci-Fi",
+    "date": "2026-04-02",
+    "author": "Debra Ducane",
+    "readTime": "12 min",
     "poster": "/images/posters/project-hail-mary.jpg",
-    "verdict": "TRADITIONAL",
-    "wokeScore": 5,
-    "tradScore": 22,
-    "authIndex": 72,
-    "scoreMargin": "+17 TRAD",
-    "preRelease": true,
+    "verdict": "STRONGLY TRADITIONAL",
+    "wokeScore": 6.05,
+    "tradScore": 26.88,
+    "authIndex": 93,
+    "scoreMargin": "+20.83 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "NOT A WOKE TRAP (Predicted) Andy Weir's source novel is, fundamentally, a story about a lone man using scientific method, ingenuity, and willingness to sacrifice himself to save all of humanity. It is anti-nihilist, pro-science, pro-collaboration, and deeply optimistic about human problem-solv"
+      "explanation": "NOT A WOKE TRAP. Project Hail Mary cannot be a woke trap because it does not score woke. The margin is strongly positive (+19.88 TRAD). The film's traditional values are present from the opening frame: a man wakes alone on a spacecraft, remembers his duty, and gets to work. There is no bait, no pivot, no ideological ambush. What you see in the trailer is what you get in the theater. This is one of the cleanest mainstream blockbusters of the decade."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 89,
+      "rottenTomatoesAudience": 94,
+      "imdb": 8.2,
+      "metacritic": 78,
+      "openingWeekend": "$80.5M",
+      "domesticGross": "$164.3M (through week 2)",
+      "weeklyRank": "#1",
+      "budget": "$110M (estimated)"
     },
     "creative_team": {
       "director": {
-        "name": "Ideological Track Record",
-        "ideology": "See full review",
-        "profile": "See full review for director profile."
+        "name": "Phil Lord & Christopher Miller",
+        "ideology": "CENTER. Lord and Miller operate as humanists rather than ideologues. Their filmography, The LEGO Movie, 21 Jump Street, Spider-Man: Into the Spider-Verse, consistently prioritizes character, wit, and emotional honesty over political messaging. Lord has described his filmmaking philosophy as trusting the audience. Miller has spoken publicly about letting story drive every decision. Neither has a history of injecting progressive messaging into source material that does not call for it.",
+        "profile": "Phil Lord and Christopher Miller are one of the most commercially reliable and critically respected directing duos working today. They turned a LEGO toy commercial into a stealth masterpiece about creativity and parental control (The LEGO Movie, 2014). They turned a forgotten TV cop show into a sharp comedy meta-commentary (21 Jump Street, 2012). They produced the Oscar-winning Spider-Man: Into the Spider-Verse (2018), which redefined what an animated superhero film could look like without abandoning story fundamentals. Their track record on adaptations is specifically strong: they tend to identify the core emotional truth of source material and protect it, rather than retrofitting contemporary ideology onto established stories. For Project Hail Mary, they were handed perhaps the most adaptation-friendly sci-fi novel of the decade: a book that is already cinematic, already humane, already apolitical. They did not blow it."
       },
       "writer": {
-        "name": "See full review",
-        "profile": ""
+        "name": "Phil Lord & Christopher Miller (screenplay); Andy Weir (novel)",
+        "profile": "Lord and Miller wrote the screenplay themselves, which is the single most important structural decision in this production. Bringing in outside screenwriters with different sensibilities is where adaptations most often go wrong. By keeping the script in-house, they maintained direct fidelity to what makes Weir's novel work: the voice of Ryland Grace, the methodical problem-solving sequences, and the slow reveal of Rocky's existence and the pair's developing friendship. Weir served as an executive producer, which suggests the production treated his material with institutional respect rather than treating him as a name to license. The result is a screenplay that feels like a translation rather than a reinvention."
       },
       "lead_producer": {
-        "name": "See full review",
-        "company": "Theatrical"
+        "name": "Amy Pascal, Aditya Sood, Rachel O'Connor",
+        "company": "Amazon MGM Studios / Pascal Pictures"
       },
-      "top_cast": [],
-      "prediction": {
-        "verdict": "TRADITIONAL",
-        "confidence": "moderate"
-      }
+      "top_cast": [
+        {
+          "name": "Ryan Gosling",
+          "role": "Ryland Grace"
+        },
+        {
+          "name": "Ken Leung",
+          "role": "Supporting Cast"
+        },
+        {
+          "name": "Milana Vayntrub",
+          "role": "Supporting Cast"
+        },
+        {
+          "name": "Sandra Huller",
+          "role": "Supporting Cast"
+        }
+      ]
+    },
+    "fidelityCasting": {
+      "sourceType": "Novel",
+      "sourceTitle": "Project Hail Mary by Andy Weir (2021)",
+      "assessment": "STRONG FIDELITY. Ryland Grace is deliberately racially ambiguous in Weir's novel. Weir has confirmed in multiple interviews that he intentionally left Grace's physical appearance unspecified, allowing readers to project themselves onto the character. Ryan Gosling was cast for his qualities as a performer, specifically his ability to project warmth, accessibility, and intellectual engagement while working largely alone on screen, rather than for any demographic consideration. This is not diversity casting and it is not whitewashing. It is a production team making a smart creative call about screen presence for a character defined entirely by personality and competence. The ensemble cast (Ken Leung, Milana Vayntrub, Sandra Huller) reflects genuine creative variety rather than a DEI checkbox exercise. The supporting roles are minor relative to Grace's dominance of the narrative, and the casting does not reshape or redefine the story's moral architecture.",
+      "fideltiyScore": "HIGH",
+      "castingNotes": "No character race-swaps from established canon. Original IP with ambiguous protagonist. Ensemble diversity is incidental to the story's setting and natural in context."
     },
     "summary": {
-      "overall": "\u26a0\ufe0f PRE-RELEASE PREVIEW\n\nThis preview is based on available trailers, creative team history, and pre-release information. Scores and verdict reflect our prediction only and will be updated upon release.\n\nCREATIVE TEAM SUMMARY\n\n| Role | Name |\n|---|---|\n| Directors | Phil Lord & Christopher Miller |\n| Producers | Amy Pascal, Aditya Sood, Rachel O'Connor, Andy Weir (EP) |\n| Lead Cast | Ryan Gosling (Ryland Grace) |\n| Supporting Cast | Ken Leung, Milana Vayntrub, Sandra H\u00fcller |\n| Source Material | Project Hail Mary by Andy Weir (2021) |\n| Prediction Indicator | TRADITIONAL-LEANING - Andy Weir is apolitical-optimist; Lord & Miller lean comedic/humanist rather than ideological; Gosling projects accessible everyman heroism |\n| Fidelity Casting | ENHANCED - Ryland Grace is racially ambiguous in the novel; supporting cast appears diverse but plot-appropriate |",
-      "adultInsight": "The novel Project Hail Mary was beloved by conservatives and liberals alike - Andy Weir writes apolitical, problem-solving sci-fi that trusts readers to be smart. The moral universe of the book is clean: sacrifice is good, science is a tool for human flourishing, friendship transcends difference, and the person who saves the world is a middle-school science teacher, not a government bureaucrat or tech billionaire. These are not radical values. They are classical ones.\n\nThe risk is Hollywood's instinct to impose contemporary messaging on source material that doesn't need it. We predict Lord & Miller are disciplined enough to resist. The trailer suggests they have. See it in IMAX if you can.",
-      "parentalGuidance": "Ages 10+ (anticipated PG-13)\n- Science content at an engaging level - excellent for young science enthusiasts\n- Potential peril/emotional intensity during the memory-loss sequences\n- Death of crewmates depicted (off-screen in the novel)\n- No anticipated sexual content or strong language\n- The alien character Rocky may be visually intense for very young children\n\nOne of the most family-appropriate major releases of 2026, predicted. A genuine candidate for the rare film that adults and kids both leave the theater energized by.\n\nVirtueVigil Editorial Team  \nPreview Date: February 2026  \nScores to be updated upon March 20, 2026 release."
+      "overall": "Project Hail Mary opens with a man waking up alone on a spacecraft with no memory of who he is or why he is there. It ends with him choosing to stay, alone, in a distant solar system, because someone else needs him more than Earth does. Everything between those two moments is one of the most satisfying, morally coherent, and genuinely optimistic science fiction films produced by a major studio in the last fifteen years.\n\nRyan Gosling plays Ryland Grace, a middle school science teacher who was recruited against his will for a last-chance mission to save Earth. The sun is dying, slowly, because a mysterious organism called Astrophage is feeding on it. Grace woke up as the sole survivor of a three-person crew. He has no memory. He is alone. He has to figure out everything from scratch: where he is, why he is there, what he is supposed to do.\n\nThis is the premise Phil Lord and Christopher Miller inherited from Andy Weir's 2021 novel, and they execute it with a fidelity that should be studied in film schools. They trusted the book. The book is good. The result is a film that is also good.\n\nWhat makes Project Hail Mary work is its moral universe. Grace does not save Earth because he is the chosen one. He is not a hero who wanted the job. He is a man who understood what was at stake and did what needed to be done, including erasing his own memory to force himself onto a mission he had already refused. That is not a superhero. That is an adult. The film treats its audience the same way.\n\nThe friendship between Grace and Rocky, an alien from another star system pursuing the same problem from the opposite side, is the film's emotional core. Rocky communicates through musical tones rather than language. The early sequences where the two work out how to talk to each other are genuinely funny and genuinely moving, sometimes simultaneously. Their collaboration is built on competence, mutual respect, and shared stakes. It is not a diversity partnership. It is a scientific one.\n\nLord and Miller bring their signature lightness to the film without undercutting its weight. Grace is funny, specifically the low-key funny of a person who copes with terror through dry observation. Gosling has rarely been better. The film earns every emotional beat it collects.\n\nAt $164.3 million domestic through two weeks and currently sitting at number one, Project Hail Mary is delivering the box office numbers that remind studios that audiences will show up for original, well-crafted stories. This film does not exist in a franchise. There is no cinematic universe waiting to absorb it. It stands alone, as Ryland Grace stands alone, and it is more than enough.",
+      "oneLiner": "A faithful, optimistic, morally serious sci-fi film about a man who saves the world by being good at his job and willing to pay the cost. Gosling is exceptional. Lord and Miller trusted the book. The audience is rewarding them for it.",
+      "verdict": "Project Hail Mary is the rare blockbuster that believes in something. It believes science is a tool for human survival. It believes sacrifice is real and meaningful. It believes friendship is possible across any difference, even interstellar ones. These are not radical propositions. They are classical ones. The film makes them feel urgent again.",
+      "adultInsight": "Conservative adults should buy tickets and bring their kids. Project Hail Mary is one of the cleanest major releases of 2026 by content standards and one of the most intellectually nourishing by any standard. The film's values are classical: competence over credential, sacrifice over self-preservation, collaboration over ideology. Ryland Grace is not a government program. He is not the output of a diversity initiative. He is a middle school science teacher who knew enough chemistry and biology and physics to do what no one else could, and who was willing to die alone to do it. That is a hero worth watching. The film is also, frankly, a corrective to years of sci-fi films that used space as a backdrop for Earth's culture wars. In Project Hail Mary, the universe does not care about our politics. The problem is the problem. The solution is the solution. This is what science fiction is supposed to do.",
+      "parentalGuidance": "MPAA Rating: PG-13\n\nRecommended Age: 10 and up\n\nContent Details: Mild language (no strong profanity). Peril and tension throughout, including sequences dealing with death of crew members (handled off-screen and through memory flashbacks, not graphic). Some depictions of physical danger in space. Rocky's appearance may startle very young children initially but is handled with warmth throughout the film. No sexual content. No gratuitous violence.\n\nPositive Indicators: Strong science education content woven into the narrative. Multiple sequences model systematic problem-solving, hypothesis testing, and intellectual humility. Excellent conversation starter for families interested in space, biology, chemistry, and the nature of courage.\n\nBottom Line: One of the most family-appropriate wide releases of 2026. Adults will not be bored. Kids who love science will be electrified. A rare genuine cross-generational experience."
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-001",
+        "name": "Identity Politics / Forced DEI Casting",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.0,
+        "description": "Ryan Gosling is cast as Ryland Grace, a character who is racially ambiguous in Weir's novel. This is not race-swapping from established canon. However, a major Hollywood production casting a white A-list star in a role written as racially ambiguous does reflect the industry's default casting hierarchy. Gosling was chosen for performer qualities suited to the role. The supporting ensemble (Leung, Vayntrub, Huller) reflects genuine creative variety. Authenticity is Moderate because the creative justification is real but the industry default assumption also applies. Centrality is Moderate because casting choices are always present throughout the film."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Nihilism / Civilization Critique",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.35,
+        "description": "Near-absent. The film's entire premise is that human civilization is worth saving and the protagonist dedicates his life to that proposition. There is no critique of civilization embedded in the narrative. The slight score reflects the unavoidable framing of human extinction as a scenario: the premise acknowledges that humanity faces an external threat, but frames this as a problem to solve rather than a punishment deserved."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Progressive Agenda Imposed on Source Material",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "The production team maintained strong fidelity to the source novel, with Andy Weir serving as executive producer. No reported insertions of progressive messaging absent from Weir's text. However, the film's institutional framing (international scientific cooperation, government mission authorization) carries a mild progressive undertone that is organic to the story but present. Lord and Miller did not inject this; it comes from Weir's source. Authenticity is Moderate because the framing is from the novel but exists in a modern context where institutional science carries political connotations. Score reflects the trace-level presence of institutional framing without explicit progressive agenda injection."
+      },
+      {
+        "id": "WOKE-004",
+        "name": "Scientific Consensus as Progressive Signaling",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "The film depicts real-world scientific institutions and international cooperation as positive forces. In the current environment this can read as progressive signaling. However, the film's scientific enthusiasm is apolitical in presentation: it celebrates the scientific method and individual problem-solving rather than institutional authority or government programs. Authenticity is High because this framing is organic to Weir's pro-science source material, not a political injection."
+      },
+      {
+        "id": "TRAD-026",
+        "name": "Self-Sacrifice / Service to Humanity",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "The defining moral act of the film. Ryland Grace erased his own memory to force himself onto a suicide mission. At the film's climax, he sacrifices his return to Earth to save Rocky and, through Rocky, Rocky's home world. This is not performed heroism or reluctant duty. It is deliberate, informed, costly sacrifice made by a character who understands exactly what he is giving up. The film's thesis is that some things are worth more than your own survival, and it earns that thesis by showing the full weight of the cost."
+      },
+      {
+        "id": "TRAD-027",
+        "name": "Scientific Ingenuity / Human Problem-Solving",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "The spine of the entire film. Every plot advancement is driven by a character identifying a problem, forming a hypothesis, testing it, and adapting based on results. Grace does not have superpowers. He has a biology background, a physics background, and enough chemistry to improvise. The film depicts scientific thinking as the most powerful tool humans possess for survival. This is not a lecture. It is a demonstration, and it is thrilling."
+      },
+      {
+        "id": "TRAD-028",
+        "name": "Friendship Across Difference (Non-Ideological)",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Grace and Rocky are not allies because of shared politics or shared identity. They are allies because they share a problem and a method. Their friendship develops through competence, honesty, and mutual vulnerability. It is the most non-ideological example of cross-cultural friendship in a major 2026 release. The film does not pat itself on the back for depicting this friendship. It simply depicts it, which is how you know it is real."
+      },
+      {
+        "id": "TRAD-029",
+        "name": "Optimism / Hope for Human Survival",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "The film is constitutionally opposed to nihilism. Its entire narrative structure is a refusal of despair. Grace wakes up in the worst possible situation and immediately begins trying to fix it. The film never questions whether humans deserve to survive. The answer is yes, obviously, now solve the problem. This is increasingly rare in mainstream science fiction, which has spent a decade telling audiences that civilization is the problem rather than the solution."
+      },
+      {
+        "id": "TRAD-030",
+        "name": "Duty / Heroism Without Ego",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Grace does not want credit. He does not want recognition. He originally refused the mission and had to be manipulated into accepting it. His heroism is not driven by ambition or ideology. It is driven by the simple recognition that he is the only person who can do what needs to be done. This is the classical heroic template: the reluctant servant who rises to the occasion not for glory but because there is no one else."
+      },
+      {
+        "id": "TRAD-031",
+        "name": "Fidelity to Source Material (No Agenda Injection)",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Lord and Miller wrote the screenplay themselves with Andy Weir serving as executive producer. The result is an adaptation that protects the moral architecture of the source novel rather than retrofitting it with contemporary ideology. The book is apolitical and pro-human. The film is apolitical and pro-human. This is not an accident. It reflects a deliberate production choice to honor what made the source material beloved rather than use it as a delivery vehicle for unrelated messages."
+      }
+    ],
     "seo": {
-      "titleTag": "Project Hail Mary (2026) - Woke or Not? Pre-Release Preview | VirtueVigil",
-      "metaDescription": "VirtueVigil pre-release preview of Project Hail Mary (2026). Woke Score 0, Traditional Score 0.",
-      "keywords": "project hail mary (2026), is project hail mary (2026) woke, project hail mary (2026) review, virtuevigil"
+      "titleTag": "Project Hail Mary (2026) Review: Woke or Traditional? | VirtueVigil",
+      "metaDescription": "Project Hail Mary (2026) scores TRADITIONAL on VirtueVigil's VVWS. Ryan Gosling delivers in a faithful, optimistic sci-fi built on sacrifice, science, and friendship. Full trope breakdown and parental guide.",
+      "keywords": "project hail mary 2026 review, project hail mary woke or not, ryan gosling project hail mary, is project hail mary woke, project hail mary conservative review, virtuevigil project hail mary, project hail mary VVWS score"
     },
-    "wokeTrap": false,
-    "datePublished": "2026-02-18"
+    "seoTitle": "Project Hail Mary (2026) Review: Woke or Traditional? | VirtueVigil",
+    "seoDescription": "Project Hail Mary (2026) scores TRADITIONAL on VirtueVigil's VVWS. Ryan Gosling delivers in a faithful, optimistic sci-fi built on sacrifice, science, and friendship. Full trope breakdown and parental guide.",
+    "seoKeywords": [
+      "project hail mary 2026 review",
+      "project hail mary woke or not",
+      "ryan gosling project hail mary",
+      "is project hail mary woke",
+      "project hail mary conservative review",
+      "virtuevigil project hail mary",
+      "project hail mary vvws score",
+      "phil lord christopher miller sci fi",
+      "andy weir movie 2026",
+      "project hail mary traditional"
+    ],
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "recommendedAge": "10+",
+      "contentWarnings": [
+        "Peril and tension throughout",
+        "Off-screen death of crew members",
+        "Depictions of physical danger in space",
+        "Rocky's alien appearance may startle young children"
+      ],
+      "guidance": "One of the most family-appropriate wide releases of 2026. Mild language, no sexual content, no gratuitous violence. Excellent science education content throughout. Strong conversation starter for families interested in space, biology, and the nature of courage. Adults will not be bored. Kids who love science will be electrified."
+    },
+    "comparison_films": [
+      {
+        "title": "The Martian (2015)",
+        "note": "Same author, same tone, same pro-science optimism. Project Hail Mary is the better film."
+      },
+      {
+        "title": "Arrival (2016)",
+        "note": "Also features alien first-contact and quiet heroism. Less optimistic, more cerebral. Both are excellent."
+      },
+      {
+        "title": "Interstellar (2014)",
+        "note": "Thematic peer: sacrifice, space, love as a force across distance. Nolan is darker. Lord and Miller are warmer. Both land emotionally."
+      }
+    ],
+    "datePublished": "2026-04-02",
+    "isPreRelease": false
   },
   {
     "id": "hoppers-2026",
