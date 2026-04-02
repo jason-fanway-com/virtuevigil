@@ -1,5 +1,41 @@
 [
   {
+    "slug": "hoppers-2026",
+    "title": "Hoppers",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Animated / Adventure / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 17.08,
+    "tradScore": 11.34,
+    "poster": "/images/posters/hoppers-2026.jpg"
+  },
+  {
+    "slug": "reminders-of-him-2026",
+    "title": "Reminders of Him",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Romance / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5.6,
+    "tradScore": 16.38,
+    "poster": "/images/posters/reminders-of-him-2026.jpg"
+  },
+  {
+    "slug": "goat-2026",
+    "title": "GOAT",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Animated / Sports Comedy / Family",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 8.28,
+    "tradScore": 17.64,
+    "poster": "/images/posters/goat-2026.jpg"
+  },
+  {
     "slug": "sinners-2025",
     "title": "Sinners",
     "verdict": "TRADITIONAL",
@@ -3058,18 +3094,6 @@
     "poster": "/images/posters/the-optimist-2026.jpg"
   },
   {
-    "slug": "reminders-of-him-2026",
-    "title": "Reminders of Him",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Romance/Drama",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 14.61,
-    "tradScore": 16.08,
-    "poster": "/images/posters/reminders-of-him-2026.jpg"
-  },
-  {
     "slug": "nobody-2-2025",
     "title": "Nobody 2",
     "verdict": "TRADITIONAL LEAN",
@@ -3092,18 +3116,6 @@
     "wokeScore": 5,
     "tradScore": 28,
     "poster": "/images/posters/peaky-blinders-the-immortal-man-2026.jpg"
-  },
-  {
-    "slug": "hoppers-2026",
-    "title": "Hoppers",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Animation/Sci-Fi/Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 16,
-    "tradScore": 18,
-    "poster": "/images/posters/hoppers-2026.jpg"
   },
   {
     "slug": "emilia-perez-2024",
@@ -4606,18 +4618,6 @@
     "poster": "/images/posters/wuthering-heights.jpg"
   },
   {
-    "slug": "goat-2026",
-    "title": "GOAT (2026)",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Animation",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 37,
-    "tradScore": 41,
-    "poster": "/images/posters/goat-2026.jpg"
-  },
-  {
     "slug": "gladiator-ii-2024",
     "title": "Gladiator II (2024)",
     "verdict": "TRADITIONAL",
@@ -4976,18 +4976,6 @@
     "wokeScore": 6,
     "tradScore": 3,
     "poster": "/images/posters/ready-or-not-2.jpg"
-  },
-  {
-    "slug": "reminders-of-him",
-    "title": "Reminders of Him",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Drama",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 5,
-    "tradScore": 5,
-    "poster": "/images/posters/reminders-of-him.jpg"
   },
   {
     "slug": "they-will-kill-you",
