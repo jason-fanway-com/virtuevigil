@@ -1,5 +1,17 @@
 [
   {
+    "slug": "sinners-2025",
+    "title": "Sinners",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Horror/Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 15.04,
+    "tradScore": 29.96,
+    "poster": "/images/posters/sinners-2025.jpg"
+  },
+  {
     "slug": "project-hail-mary",
     "title": "Project Hail Mary (2026)",
     "verdict": "STRONGLY TRADITIONAL",
@@ -4280,18 +4292,6 @@
     "wokeScore": 15.4,
     "tradScore": 22.7,
     "poster": "/images/posters/indiana-jones-dial-of-destiny-2023.jpg"
-  },
-  {
-    "slug": "sinners-2025",
-    "title": "Sinners",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Horror/Drama",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 15,
-    "tradScore": 19,
-    "poster": "/images/posters/sinners-2025.jpg"
   },
   {
     "slug": "jurassic-world-rebirth-2025",
