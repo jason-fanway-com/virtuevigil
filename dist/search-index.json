@@ -24,6 +24,18 @@
     "poster": "/images/posters/they-will-kill-you-2026.jpg"
   },
   {
+    "slug": "ready-or-not-2-2026",
+    "title": "Ready or Not 2: Here I Come",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Horror / Dark Comedy / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 21.42,
+    "tradScore": 8.82,
+    "poster": "/images/posters/ready-or-not-2-2026.jpg"
+  },
+  {
     "slug": "a-great-awakening-2026",
     "title": "A Great Awakening",
     "verdict": "TRADITIONAL",
