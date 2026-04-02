@@ -1790,6 +1790,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/pixar-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-non-woke-romance-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-kids-movies-2025-2026-no-agenda/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/marvel-mcu-movies-traditional-values-ranked/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2681,6 +2682,7 @@ function buildListsHubPage() {
         'date-night-movies-non-woke',
         'family-friendly-movies-2024',
         'marvel-movies-traditional-values',
+        'marvel-mcu-movies-traditional-values-ranked',
         'non-woke-action-movies-2024',
         'non-woke-romance-movies',
         'patriotic-war-movies',
@@ -2739,6 +2741,7 @@ function buildListsHubPage() {
       'best-drama-movies-conservatives-2024': 'Best Drama Movies for Conservatives 2024',
       'date-night-movies-non-woke': 'Date Night Movies (Non-Woke)',
       'marvel-movies-traditional-values': 'Marvel Movies with Traditional Values',
+      'marvel-mcu-movies-traditional-values-ranked': 'Marvel MCU Movies Ranked by Traditional Values: Complete Scorecard',
       'superhero-movies-traditional-values': 'Superhero Movies with Traditional Values',
       'best-war-movies-patriots': 'Best War Movies for Patriots',
       'woke-sequels-more-woke-than-original': 'Woke Sequels More Woke Than the Original',
@@ -15495,6 +15498,486 @@ function buildAudienceVsCriticScoresListicle() {
       @media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
       </style>
     </article>`
+  }));
+
+  writePage('lists/marvel-mcu-movies-traditional-values-ranked/index.html', buildListiclePage({
+    slug: 'marvel-mcu-movies-traditional-values-ranked',
+    title: 'Marvel MCU Movies Ranked by Traditional Values: The Complete Scorecard',
+    description: 'All 33 MCU films ranked by Traditional Values Score and Woke Score. See which Marvel movies align with conservative values and which push progressive ideology.',
+    canonicalPath: 'lists/marvel-mcu-movies-traditional-values-ranked',
+    publishDate: '2026-04-01',
+    htmlContent: `<article class="listicle">
+  <div class="listicle-intro">
+    <p>The Marvel Cinematic Universe spans 33 films, nearly two decades, and billions in global revenue. But not all MCU movies are created equal when measured against traditional values. VirtueVigil has scored every major MCU release using our complete Traditional Values methodology, weighing themes of sacrifice, family, duty, faith, individual conscience, and moral clarity against progressive messaging, identity politics, and authority subversion.</p>
+    <p>The results paint a clear picture: the MCU started strong with films centered on heroic sacrifice and earned redemption. It drifted dramatically during Phase Four, prioritizing representation metrics over storytelling fundamentals. The franchise's highest-scoring entries celebrate duty, sacrifice, and love. Its lowest-scoring entries treat audiences as demographics to lecture rather than people to engage.</p>
+    <p>This is the complete MCU scorecard. Thirty-three films ranked from most traditional to most woke. If you are looking for which Marvel movies align with conservative values before investing three hours, this list answers that question with precision and data.</p>
+  </div>
+
+  <ol class="listicle-items">
+    <li class="listicle-item">
+      <div class="listicle-rank">1</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/spider-man-no-way-home/">Spider-Man: No Way Home (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+19 TRAD</span>
+        </div>
+        <p>The highest-scoring MCU film earns its standing through relentless sacrifice. Peter Parker loses everything and the narrative treats that loss with genuine moral weight rather than reversing it cheaply. No woke messaging, no identity lectures. Just a young man choosing responsibility over his own happiness.</p>
+        <a href="/reviews/spider-man-no-way-home/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">2</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/guardians-of-the-galaxy/">Guardians of the Galaxy (2014)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+15 TRAD</span>
+        </div>
+        <p>The best MCU origin story is also the most traditionally coded. Redemption arcs, sacrificial love, found family built on genuine need rather than identity politics, and a mother's legacy honored across decades of grief. Groot's self-sacrifice alone anchors this film in traditional values.</p>
+        <a href="/reviews/guardians-of-the-galaxy/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">3</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/avengers-infinity-war/">Avengers: Infinity War (2018)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+15 TRAD</span>
+        </div>
+        <p>The MCU's best film is also its most traditionally weighted. Thanos wins because he treats lives as expendable numbers. The heroes lose because they refuse to do the same. This is a fundamentally conservative moral framework told with devastating emotional force.</p>
+        <a href="/reviews/avengers-infinity-war/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">4</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/guardians-of-the-galaxy-vol-3/">Guardians of the Galaxy Vol. 3 (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+12 TRAD</span>
+        </div>
+        <p>James Gunn's farewell to the franchise he built is the rarest thing in Phase Five: a movie that earns its emotions without lecturing. The ethics of creation, the dignity of broken things, and found family treated as real rather than decorative. A masterclass in values-driven storytelling.</p>
+        <a href="/reviews/guardians-of-the-galaxy-vol-3/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">5</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/shang-chi/">Shang-Chi and the Legend of the Ten Rings (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+11 TRAD</span>
+        </div>
+        <p>The most pleasant surprise in the MCU's representation era. Where many expected a diversity lecture, the film delivered a deeply traditional family drama with extraordinary fight choreography. Filial duty and paternal redemption drive the narrative authentically.</p>
+        <a href="/reviews/shang-chi/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">6</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/iron-man/">Iron Man (2008)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+10 TRAD</span>
+        </div>
+        <p>The film that launched the MCU holds up as one of its most traditionally grounded entries. Tony Stark's arc from self-serving weapons dealer to self-sacrificing defender follows classic hero mythology without apology or modern irony.</p>
+        <a href="/reviews/iron-man/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">7</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/doctor-strange/">Doctor Strange (2016)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+9 TRAD</span>
+        </div>
+        <p>A superhero origin story with genuine moral seriousness directed by a Christian filmmaker who understood that magic requires metaphysics. The ego-to-humility arc is classical, the sacrifice climax is earned, and the worldview gives the film real spiritual weight.</p>
+        <a href="/reviews/doctor-strange/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">8</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/captain-america-civil-war/">Captain America: Civil War (2016)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+9 TRAD</span>
+        </div>
+        <p>The MCU's most politically sophisticated film lands firmly on the side of individual conscience over government authority. Steve Rogers refuses to sign the Accords. The individual prevails over the collective. Masculine friendship is treated as a genuine moral foundation.</p>
+        <a href="/reviews/captain-america-civil-war/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">9</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/thor-ragnarok/">Thor: Ragnarok (2017)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+8 TRAD</span>
+        </div>
+        <p>More traditionally grounded than its neon aesthetic suggests. Thor's arc toward genuine leadership, Heimdall's quiet heroism, and Loki's reluctant loyalty all register as trad values. The core message about protecting your people when everything else fails is fundamentally conservative.</p>
+        <a href="/reviews/thor-ragnarok/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">10</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/avengers-endgame/">Avengers: Endgame (2019)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge traditional">TRADITIONAL</span>
+          <span class="score-badge">+7 TRAD</span>
+        </div>
+        <p>Twenty-two films of investment cashed in over 181 minutes. Tony Stark's final sacrifice is the franchise at its moral peak. Some progressive casting choices and the controversial all-female hero moment drag the score, but the ending delivers one of the most emotionally resonant sequences in modern blockbuster cinema.</p>
+        <a href="/reviews/avengers-endgame/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">11</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/black-panther/">Black Panther (2018)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge mixed">MIXED</span>
+          <span class="score-badge">+2 TRAD</span>
+        </div>
+        <p>Surprisingly traditional at its core. T'Challa's story is ultimately about duty, ancestral honor, and choosing his people over personal grievance. The progressive cultural weight is undeniable, but the film's moral spine is more conservative than most critics acknowledged.</p>
+        <a href="/reviews/black-panther/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">12</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/spider-man-across-the-spider-verse/">Spider-Man: Across the Spider-Verse (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge mixed">MIXED</span>
+          <span class="score-badge">-1 WOKE</span>
+        </div>
+        <p>The most technically ambitious animated film ever created. The woke lean comes from Miles Morales's rebellion against a predetermined fate, which carries anti-authority subtexts. The craftsmanship is undeniable even if the ideology leans slightly left.</p>
+        <a href="/reviews/spider-man-across-the-spider-verse/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">13</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/ant-man/">Ant-Man (2015)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge mixed">MIXED</span>
+          <span class="score-badge">-2 WOKE</span>
+        </div>
+        <p>A heist film masquerading as a superhero movie, and all the better for it. Paul Rudd's Scott Lang is motivated by fatherhood and redemption. The film celebrates family over ideology and earning your way back from failure.</p>
+        <a href="/reviews/ant-man/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">14</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/captain-marvel/">Captain Marvel (2019)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge mixed">MIXED</span>
+          <span class="score-badge">-3 WOKE</span>
+        </div>
+        <p>Brie Larson's space warrior deserves better material. The film's identity messaging is heavy-handed and the emotional core gets buried under girl-power montages. But the fundamental story about self-discovery and fighting oppression still carries traditional weight.</p>
+        <a href="/reviews/captain-marvel/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">15</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/doctor-strange-multiverse-of-madness/">Doctor Strange in the Multiverse of Madness (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-4 WOKE</span>
+        </div>
+        <p>Sam Raimi brings genuine horror craft to the MCU and Elizabeth Olsen delivers an extraordinary villain performance. The woke elements center on Wanda's maternal entitlement being framed as sympathetic rather than monstrous. Better than most Phase Four output but still a net ideological loss.</p>
+        <a href="/reviews/doctor-strange-multiverse-of-madness/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">16</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/captain-america-brave-new-world/">Captain America: Brave New World (2025)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-5 WOKE</span>
+        </div>
+        <p>A deeply confused film that cannot decide whether it wants to be a political thriller, a superhero spectacle, or a meditation on race in America. It tries to be all three and succeeds at none. Sam Wilson deserves a better script than identity politics.</p>
+        <a href="/reviews/captain-america-brave-new-world/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">17</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/thor-love-and-thunder/">Thor: Love and Thunder (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-6 WOKE</span>
+        </div>
+        <p>A film at war with itself. Christian Bale's Gorr carries a genuinely dark meditation on faith and abandonment, but Taika Waititi buries it under tonal chaos. The gender-swapped Mighty Thor and systemic failure messaging push the score into woke territory.</p>
+        <a href="/reviews/thor-love-and-thunder/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">18</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/black-widow/">Black Widow (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-7 WOKE</span>
+        </div>
+        <p>Florence Pugh as Yelena Belova nearly salvages the film on her own. The Red Room storyline has genuine emotional stakes. But the anti-male-authority framing, the feminist sisterhood messaging, and the belated origin story structure all lean ideologically left.</p>
+        <a href="/reviews/black-widow/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">19</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/ant-man-and-the-wasp-quantumania/">Ant-Man and the Wasp: Quantumania (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-7 WOKE</span>
+        </div>
+        <p>The only job was introducing Kang as the next major threat. It failed at everything except Kang himself, and then Jonathan Majors' conviction issues destroyed even that. The Ant-Man charm evaporated in the Quantum Realm and progressive subtext never earned its screen time.</p>
+        <a href="/reviews/ant-man-and-the-wasp-quantumania/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">20</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/black-panther-wakanda-forever/">Black Panther: Wakanda Forever (2022)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-9 WOKE</span>
+        </div>
+        <p>A genuine grief film trapped inside a franchise obligation. Angela Bassett is extraordinary and the mourning for Chadwick Boseman is real. But at 161 minutes the film drowns in progressive messaging, feminist nation-state framing, and identity politics that undermine the emotional core.</p>
+        <a href="/reviews/black-panther-wakanda-forever/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">21</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/the-incredible-hulk/">The Incredible Hulk (2008)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke-lean">WOKE LEAN</span>
+          <span class="score-badge">-9 WOKE</span>
+        </div>
+        <p>The MCU's most forgotten entry is also one of its most muddled. The Hulk-as-weapon narrative is strong but militaristic framing that subverts traditional authority figures brings the score down. Edward Norton's performance is wasted on an incoherent script.</p>
+        <a href="/reviews/the-incredible-hulk/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">22</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/thor-the-dark-world/">Thor: The Dark World (2013)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-10 WOKE</span>
+        </div>
+        <p>The MCU's most confused film. Jane Foster's storyline gets buried, Loki's moral ambiguity is unresolved, and the Dark Elves are forgettable villains. The women-in-peril framing and lack of any clear moral center push this toward woke territory by default.</p>
+        <a href="/reviews/thor-the-dark-world/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">23</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/iron-man-2/">Iron Man 2 (2010)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-10 WOKE</span>
+        </div>
+        <p>The first MCU sequel is bloated and directionless. Scarlett Johansson's Black Widow intro, the diminished role for Terrence Howard, and the fractured focus on too many plot threads make this one of the weakest entries. No clear values arc.</p>
+        <a href="/reviews/iron-man-2/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">24</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/thor-2-dark-world/">Avengers: Age of Ultron (2015)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-11 WOKE</span>
+        </div>
+        <p>Whedon's sequel struggles under its own ambition. The introduction of progressive gender dynamics, the anti-capitalist messaging toward Stark, and the fragmented ensemble cast undermine what should have been a stronger follow-up. Good action but muddled values.</p>
+        <a href="/reviews/thor-2-dark-world/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">25</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/ant-man-and-the-wasp/">Ant-Man and the Wasp (2018)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-12 WOKE</span>
+        </div>
+        <p>Peyton Reed's sequel introduces more identity-based messaging. Hope's character becomes a vehicle for feminist messaging rather than character development. The screwball comedy tone undercuts any moral seriousness that might anchor traditional values.</p>
+        <a href="/reviews/ant-man-and-the-wasp/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">26</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/the-marvels/">The Marvels (2023)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-14 WOKE</span>
+        </div>
+        <p>An all-female superhero ensemble where every male character is either incompetent or irrelevant. Identity-first casting, girl-power messaging, and MCU franchise obligations pile into a product audiences rejected decisively. Box office failure reflecting authentic market rejection of woke overreach.</p>
+        <a href="/reviews/the-marvels/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">27</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/guardians-of-the-galaxy-vol-2/">Guardians of the Galaxy Vol. 2 (2014)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-15 WOKE</span>
+        </div>
+        <p>Where the original soared, the sequel stumbles. The introduction of progressive themes, the diminished stakes, and the shift toward political messaging undermine what made the first film special. A cautionary tale of franchise decay.</p>
+        <a href="/reviews/guardians-of-the-galaxy-vol-2/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">28</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/eternals/">Eternals (2021)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-18 WOKE</span>
+        </div>
+        <p>The MCU's worst-scoring film is also its biggest failure. 47 percent on Rotten Tomatoes. 5.9 on IMDB. Maximum progressive casting combined with the least engaging story. Chloe Zhao's art-house pacing drains any superhero energy while ideology dominates.</p>
+        <a href="/reviews/eternals/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">29</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/loki-episode-1/">Loki Season 1 (2021) (Disney+ Series)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-19 WOKE</span>
+        </div>
+        <p>The MCU's first Disney+ series abandons traditional narrative structure in favor of meta-commentary on predestination. Progressive gender ideology, anti-authority messaging, and identity-first casting dominate. A show about a character with no consistent values.</p>
+        <a href="/reviews/loki-episode-1/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">30</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/she-hulk-attorney-at-law/">She-Hulk: Attorney at Law (2022) (Disney+ Series)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-21 WOKE</span>
+        </div>
+        <p>A show that mistakes fourth-wall breaking for storytelling. Men are incompetent. The legal system is portrayed as irredeemable. Jen's ascent to power requires no earned sacrifice. A textbook example of progressive fantasy ideology in MCU form.</p>
+        <a href="/reviews/she-hulk-attorney-at-law/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">31</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/ms-marvel/">Ms. Marvel (2022) (Disney+ Series)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-22 WOKE</span>
+        </div>
+        <p>A coming-of-age story submerged under identity politics. Kamala Khan's Muslim heritage becomes the entire narrative rather than part of her character. Family is portrayed as oppressive. Power obtained without sacrifice. Progressive messaging over authentic storytelling.</p>
+        <a href="/reviews/ms-marvel/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">32</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/moon-knight/">Moon Knight (2022) (Disney+ Series)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-23 WOKE</span>
+        </div>
+        <p>Mental illness treated as an aesthetic. Authority figures portrayed as purely corrupt. No moral framework to guide Marc Spector's violence. A show that mistakes grimdark nihilism for psychological depth while pushing anti-traditional ideology throughout.</p>
+        <a href="/reviews/moon-knight/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+
+    <li class="listicle-item">
+      <div class="listicle-rank">33</div>
+      <div class="listicle-content">
+        <h2><a href="/reviews/echo/">Echo (2023) (Disney+ Series)</a></h2>
+        <div class="listicle-badges">
+          <span class="verdict-badge woke">WOKE</span>
+          <span class="score-badge">-24 WOKE</span>
+        </div>
+        <p>The MCU's lowest-scoring entry. Deaf representation becomes identity theatre. Men are uniformly villainous. Traditional family is framed as oppressive. Vigilante justice is celebrated without moral consequence. A show that abandoned storytelling entirely for ideological positioning.</p>
+        <a href="/reviews/echo/" class="listicle-cta">Read Review</a>
+      </div>
+    </li>
+  </ol>
+
+  <div class="listicle-conclusion">
+    <h3>The Scorecard Summary</h3>
+    <p>The MCU's trajectory is unmistakable. From 2008 through 2018, Marvel Studios prioritized storytelling fundamentals: character arcs, earned emotion, sacrifice rewarded. Those films scored in traditional territory. From 2019 onward, especially during Phase Four, the franchise shifted toward identity metrics and progressive ideology. Those films scored in woke territory. The box office and audience scores reflect this shift in real time.</p>
+    <p>The films that conservatives and traditional-values families should watch are clear: Spider-Man No Way Home, Guardians trilogy, Infinity War, Iron Man, and Doctor Strange. These stories celebrate sacrifice, family, and redemption. The films to skip are equally clear: Eternals, the Disney+ series, She-Hulk, and anything from the ideologically fractured Phase Four.</p>
+    <p>This is not a matter of opinion. This is a matter of data. Watch accordingly.</p>
+  </div>
+
+<style>
+.listicle { max-width: 860px; }
+.listicle-intro p { color: #bbb; line-height: 1.8; margin-bottom: 18px; font-size: 1.05rem; }
+.listicle-items { list-style: none; padding: 0; margin: 32px 0 0; }
+.listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+.listicle-item:last-child { border-bottom: none; }
+.listicle-rank { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; background: rgba(201,168,76,0.12); border: 2px solid rgba(201,168,76,0.4); display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; }
+.listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.15rem; margin: 0 0 10px; }
+.listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+.listicle-content h2 a:hover { color: #c9a84c; }
+.listicle-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+.verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+.verdict-badge.traditional { background: rgba(39,174,96,0.15); color: #2ecc71; border: 1px solid #2ecc71; }
+.verdict-badge.mixed { background: rgba(230,126,34,0.12); color: #e67e22; border: 1px solid #e67e22; }
+.verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+.verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+.score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+.listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+.listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+.listicle-cta:hover { background: rgba(201,168,76,0.1); }
+.listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+.listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+.listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+.listicle-conclusion a { color: #c9a84c; }
+@media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+</style>
+</article>`
   }));
 
   // --- Lists Hub Page ---
