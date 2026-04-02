@@ -97313,8 +97313,8 @@
     "type": "film",
     "platform": "Theatrical",
     "genre": "Historical Drama / Faith",
-    "date": "2026-04-01",
-    "author": "Debra Ducane",
+    "date": "2026-04-02",
+    "author": "VirtueVigil Editorial Team",
     "readTime": "12 min",
     "poster": "/images/posters/a-great-awakening-2026.jpg",
     "verdict": "TRADITIONAL",
@@ -97322,7 +97322,7 @@
     "tradScore": 20.09,
     "authIndex": 95,
     "scoreMargin": "+18 TRAD",
-    "preRelease": true,
+    "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -97438,12 +97438,12 @@
         "profile": "Joshua Enck is an independent Christian filmmaker whose previous work includes documentary projects in the faith-based space. A Great Awakening represents his most ambitious narrative feature, drawing on the historical relationship between George Whitefield and Benjamin Franklin to make an argument about the Christian roots of American liberty. Enck's approach is dramatically serious: he does not sand down the historical complexity of his subjects, and he trusts his performers to carry theological weight without simplifying it."
       },
       "writers": {
-        "names": "Joshua Enck",
-        "profile": "Enck wrote the screenplay based on historical records of the Whitefield-Franklin relationship, including Franklin's own Autobiography, which documents his complicated admiration for Whitefield. The script is notable for its theological specificity: the distinction between justification by faith and justification by works is not glossed over but dramatized as the central intellectual disagreement between the two men."
+        "names": "Joshua Enck, Jeff Bender, Jonathan Blair",
+        "profile": "Joshua Enck directed and co-wrote the screenplay. Jeff Bender served as co-writer, and lead actor Jonathan Blair also earned a writing credit. The script is rooted in historical records of the Whitefield-Franklin relationship, including Franklin's own Autobiography, which documents his complicated admiration for Whitefield. The theological specificity of the script is its greatest achievement: the distinction between justification by faith and justification by works is not glossed over but dramatized as the central intellectual disagreement between the two men. Blair's dual role as writer and lead actor ensured the dialogue for Whitefield rang true to the historical record and to the character's preaching journals."
       },
       "lead_producer": {
-        "name": "Joshua Enck / Independent Production",
-        "company": "Independent Faith-Based Production"
+        "name": "Steve Buckwalter, Troy Thorne",
+        "company": "Sight and Sound Films"
       },
       "composer": {
         "name": "Score: Period-informed orchestral composition",
@@ -97460,21 +97460,29 @@
         },
         {
           "name": "Zachary Amos",
-          "role": "Supporting role"
+          "role": "Oxford Servitor"
         },
         {
           "name": "Carl MJ Anderson",
-          "role": "Supporting role"
+          "role": "Supporting Cast"
         },
         {
           "name": "Josh Bates",
-          "role": "Supporting role"
+          "role": "Alexander Hamilton"
         },
         {
           "name": "Stephen Foster Harris",
-          "role": "Supporting role"
+          "role": "William Blount"
+        },
+        {
+          "name": "JT Schaeffer",
+          "role": "Benny Franklin Bache (Ben Franklin's grandson)"
         }
-      ]
+      ],
+      "cinematographer": {
+        "name": "Steve Buckwalter",
+        "profile": "Steve Buckwalter served as both producer and cinematographer on A Great Awakening, a dual role that signals tight creative control within the Sight and Sound Films production model. His photography leans into the atmospheric potential of Lancaster County locations, including cave interiors and manor settings that stand in credibly for 18th-century England and the American colonies."
+      }
     },
     "fidelityCasting": {
       "sourceType": "Historical Biography",
@@ -97512,7 +97520,7 @@
         "comparison": "Both are faith-adjacent films that found large audiences outside the mainstream critical apparatus. Sound of Freedom became a phenomenon through church and conservative networks; A Great Awakening is positioned for a similar trajectory. The key difference: A Great Awakening has stronger dramatic craft and more complex characterization."
       }
     ],
-    "datePublished": "2026-04-01"
+    "datePublished": "2026-04-02"
   },
   {
     "id": "lee-cronins-the-mummy-2026",
