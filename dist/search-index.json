@@ -228,18 +228,6 @@
     "poster": "/images/posters/ready-or-not-2-2026.jpg"
   },
   {
-    "slug": "super-mario-galaxy-movie-2026",
-    "title": "The Super Mario Galaxy Movie",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Animation / Adventure / Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 6.72,
-    "tradScore": 16.58,
-    "poster": "/images/posters/super-mario-galaxy-movie-2026.jpg"
-  },
-  {
     "slug": "the-drama-2026",
     "title": "The Drama",
     "verdict": "WOKE LEAN",
@@ -406,6 +394,18 @@
     "wokeScore": 7.08,
     "tradScore": 16.94,
     "poster": "/images/posters/masters-of-the-universe-2026.jpg"
+  },
+  {
+    "slug": "super-mario-galaxy-movie-2026",
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated / Adventure / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.72,
+    "tradScore": 16.58,
+    "poster": "/images/posters/super-mario-galaxy-movie-2026.jpg"
   },
   {
     "slug": "mission-impossible-the-final-reckoning-2025",
