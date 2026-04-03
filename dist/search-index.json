@@ -12,6 +12,18 @@
     "poster": "/images/posters/the-mummy-2026.jpg"
   },
   {
+    "slug": "they-will-kill-you",
+    "title": "They Will Kill You",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Warner Bros. / New Line Cinema)",
+    "genre": "Action / Comedy / Horror",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 7.7,
+    "tradScore": 23.9,
+    "poster": "/images/posters/they-will-kill-you.jpg"
+  },
+  {
     "slug": "hamlet-2025",
     "title": "Hamlet",
     "verdict": "PREDICTED: TRADITIONAL",
@@ -5072,18 +5084,6 @@
     "wokeScore": 6,
     "tradScore": 3,
     "poster": "/images/posters/ready-or-not-2.jpg"
-  },
-  {
-    "slug": "they-will-kill-you",
-    "title": "They Will Kill You",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 4,
-    "tradScore": 4,
-    "poster": "/images/posters/they-will-kill-you.jpg"
   },
   {
     "slug": "one-piece-s2",
