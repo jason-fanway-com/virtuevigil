@@ -1,5 +1,17 @@
 [
   {
+    "slug": "hamlet-2025",
+    "title": "Hamlet",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical / Vertical Entertainment",
+    "genre": "Drama / Tragedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 13,
+    "tradScore": 24.28,
+    "poster": "/images/posters/hamlet-2025.jpg"
+  },
+  {
     "slug": "exit-8-2026",
     "title": "Exit 8",
     "verdict": "PREDICTED: STRONGLY TRADITIONAL",
