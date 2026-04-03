@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-mummy-2026",
+    "title": "The Mummy",
+    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Horror / Supernatural",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 24.08,
+    "poster": "/images/posters/the-mummy-2026.jpg"
+  },
+  {
     "slug": "hamlet-2025",
     "title": "Hamlet",
     "verdict": "PREDICTED: TRADITIONAL",
