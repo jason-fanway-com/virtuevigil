@@ -48,6 +48,18 @@
     "poster": "/images/posters/the-devil-wears-prada-2-2026.jpg"
   },
   {
+    "slug": "happy-gilmore-2-2025",
+    "title": "Happy Gilmore 2",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Sports Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3.45,
+    "tradScore": 31.22,
+    "poster": "/images/posters/happy-gilmore-2-2025.jpg"
+  },
+  {
     "slug": "exit-8-2026",
     "title": "Exit 8",
     "verdict": "PREDICTED: STRONGLY TRADITIONAL",
