@@ -1,5 +1,17 @@
 [
   {
+    "slug": "exit-8-2026",
+    "title": "Exit 8",
+    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Psychological Horror / Mystery / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 31.64,
+    "poster": "/images/posters/exit-8-2026.jpg"
+  },
+  {
     "slug": "hoppers-2026",
     "title": "Hoppers",
     "verdict": "WOKE LEAN",
