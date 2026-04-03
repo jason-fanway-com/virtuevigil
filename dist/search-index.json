@@ -36,6 +36,18 @@
     "poster": "/images/posters/five-nights-at-freddys-2-2025.jpg"
   },
   {
+    "slug": "a-great-awakening-2026",
+    "title": "A Great Awakening",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "History / Drama / Faith",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 28.7,
+    "poster": "/images/posters/a-great-awakening-2026.jpg"
+  },
+  {
     "slug": "hamlet-2025",
     "title": "Hamlet",
     "verdict": "PREDICTED: TRADITIONAL",
@@ -178,18 +190,6 @@
     "wokeScore": 0,
     "tradScore": 26.74,
     "poster": "/images/posters/dhurandhar-the-revenge-2026.jpg"
-  },
-  {
-    "slug": "a-great-awakening-2026",
-    "title": "A Great Awakening",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Historical Drama / Faith",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 1.75,
-    "tradScore": 20.09,
-    "poster": "/images/posters/a-great-awakening-2026.jpg"
   },
   {
     "slug": "forbidden-fruits-2026",
