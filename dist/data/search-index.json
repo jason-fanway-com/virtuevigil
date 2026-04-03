@@ -276,6 +276,18 @@
     "poster": "/images/posters/hard-truths-2024.jpg"
   },
   {
+    "slug": "you-me-and-tuscany-2026",
+    "title": "You, Me & Tuscany",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Romantic Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.4,
+    "tradScore": 20.02,
+    "poster": "/images/posters/you-me-and-tuscany-2026.jpg"
+  },
+  {
     "slug": "lee-cronins-the-mummy-2026",
     "title": "Lee Cronin's The Mummy",
     "verdict": "PREDICTED: TRADITIONAL",
