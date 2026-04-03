@@ -12,6 +12,18 @@
     "poster": "/images/posters/hamlet-2025.jpg"
   },
   {
+    "slug": "the-devil-wears-prada-2-2026",
+    "title": "The Devil Wears Prada 2",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Comedy / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 12.5,
+    "tradScore": 25.38,
+    "poster": "/images/posters/the-devil-wears-prada-2-2026.jpg"
+  },
+  {
     "slug": "exit-8-2026",
     "title": "Exit 8",
     "verdict": "PREDICTED: STRONGLY TRADITIONAL",
