@@ -1771,6 +1771,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/hbo-max-shows-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/most-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/comedy-movies-woke-ranking-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-drama-movies-conservatives-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-thriller-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
@@ -2670,6 +2671,7 @@ function buildListsHubPage() {
         'best-thriller-movies-2024',
         'best-traditional-movies-2024',
         'best-traditional-movies-2025',
+        'most-traditional-movies-2025',
         'best-traditional-movies-2026',
         'best-war-movies-patriots',
         'best-kids-movies-2025-2026-no-agenda',
@@ -10693,6 +10695,185 @@ function buildAppleTvWokeRankingListicle() {
         <p>Browse the complete VirtueVigil database at <a href="/reviews/">VirtueVigil.com/reviews/</a> for full reviews of every film with trope audits, parental guidance, and VirtueVigil scores. For more curated lists, see our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>, <a href="/lists/best-faith-based-movies/">Best Faith-Based Movies</a>, and <a href="/lists/family-friendly-movies-2024/">Family-Friendly Movies of 2024</a>. For the opposite end of the spectrum, see <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a>.</p>
       </div>
     </article>`
+  }));
+
+  writePage('lists/most-traditional-movies-2025/index.html', buildListiclePage({
+    slug: 'most-traditional-movies-2025',
+    title: 'Best Traditional Movies of 2025: VirtueVigil\'s Top 10 by Score',
+    description: 'The 10 highest-scoring traditional movies of 2025 based on VirtueVigil\'s 50-trope analysis framework, ranked by score margin.',
+    canonicalPath: 'lists/most-traditional-movies-2025',
+    publishDate: '2026-04-04',
+    htmlContent: `<article class="listicle-article">
+
+<p>If you want the most traditional movies of 2025, skip the guesswork. VirtueVigil scores every film on a dual scale measuring traditional values content (TradScore, 0-50) and progressive ideological content (WokeScore, 0-100). The margin tells you exactly what a film values and what it ignores. This list ranks the 10 highest-scoring films of 2025 by net traditional margin, from the dominant leader at +41.8 down to the tightly-contested tenth spot at +20.3. The data built this list. Every film links to its full VirtueVigil review with trope audits, parental guidance, and complete scoring breakdowns.</p>
+
+<hr>
+
+<h2>#1 <a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/">The SpongeBob Movie: Search for SquarePants (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 43.1</span>
+  <span class="mini-score woke">WOKE: 1.3</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +41.8 TRAD</span>
+</div>
+
+<p>The franchise's fourth theatrical outing leads every 2025 film by a wide margin, and it earned the top spot by doing one thing exactly right: telling a story about friendship and loyalty with no social agenda attached. TradScore 43.1, WokeScore 1.3. Parents can sit down with their kids and watch this without being surprised by an ideological third act. The highest net traditional margin of any 2025 film in VirtueVigil's database.</p>
+
+<p><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The SpongeBob Movie</a></p>
+
+<hr>
+
+<h2>#2 <a href="/reviews/ne-zha-2-2025/">Ne Zha 2 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 38.6</span>
+  <span class="mini-score woke">WOKE: 0.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +38.6 TRAD</span>
+</div>
+
+<p>The highest-grossing animated film ever made and the most purely traditional film on this list, with a WokeScore of exactly zero. Ne Zha 2 is built around filial loyalty, destiny, and sacrifice in a Taoist mythology framework that treats its moral weight seriously. Hollywood could not make this film. China did. Families who want animation rooted in earned heroism and cultural reverence for elders will find nothing better in 2025.</p>
+
+<p><a href="/reviews/ne-zha-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ne Zha 2</a></p>
+
+<hr>
+
+<h2>#3 <a href="/reviews/how-to-train-your-dragon-2025/">How to Train Your Dragon (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 33.2</span>
+  <span class="mini-score woke">WOKE: 4.7</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +28.5 TRAD</span>
+</div>
+
+<p>Dean DeBlois got full creative control for the live-action remake and delivered a story about a son proving himself to a skeptical father, masculine mentorship done right, and a community that gets to be wrong before it learns. TradScore 33.2, WokeScore 4.7. A major studio pro-family adventure that does not undermine what it celebrates.</p>
+
+<p><a href="/reviews/how-to-train-your-dragon-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of How to Train Your Dragon</a></p>
+
+<hr>
+
+<h2>#4 <a href="/reviews/happy-gilmore-2-2025/">Happy Gilmore 2 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 31.2</span>
+  <span class="mini-score woke">WOKE: 3.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +27.8 TRAD</span>
+</div>
+
+<p>Adam Sandler's long-awaited sequel leans into the same anti-establishment competitive masculinity that made the original a cult favorite, and it works. TradScore 31.2, WokeScore 3.5. No lecture, no sensitivity arc, just a guy who hits golf balls too hard and refuses to apologize for it. One of the most purely entertaining films of 2025 for traditional families.</p>
+
+<p><a href="/reviews/happy-gilmore-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Happy Gilmore 2</a></p>
+
+<hr>
+
+<h2>#5 <a href="/reviews/david-2025/">David (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28.0</span>
+  <span class="mini-score woke">WOKE: 2.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +26.0 TRAD</span>
+</div>
+
+<p>Angel Studios delivered a bold animated biblical musical that does not flinch from David's failures or his faith. TradScore 28.0, WokeScore 2.0. For families seeking a film that treats scripture with genuine craft and without apology, this is essential 2025 viewing. The songs advance the narrative rather than pausing it, and the moral complexity is handled honestly.</p>
+
+<p><a href="/reviews/david-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of David</a></p>
+
+<hr>
+
+<h2>#6 <a href="/reviews/brave-the-dark-2025/">Brave the Dark (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.2</span>
+  <span class="mini-score woke">WOKE: 1.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +24.8 TRAD</span>
+</div>
+
+<p>A high school teacher in 1980s Pennsylvania discovers a student living on the streets and takes him in. Faith is treated as a source of strength, not an obstacle to overcome. TradScore 26.2, WokeScore 1.4. Quiet, emotionally honest, and built around a man who does the right thing at personal cost. The kind of film traditional families can discuss after the credits roll.</p>
+
+<p><a href="/reviews/brave-the-dark-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Brave the Dark</a></p>
+
+<hr>
+
+<h2>#7 <a href="/reviews/karate-kid-legends-2025/">Karate Kid: Legends (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.3</span>
+  <span class="mini-score woke">WOKE: 3.1</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23.2 TRAD</span>
+</div>
+
+<p>Older men teaching a young man to be disciplined, honorable, and brave. Jackie Chan and Ralph Macchio both appear, and the film uses that torch-passing as actual story rather than nostalgia bait. TradScore 26.3, WokeScore 3.1. The original 1984 values are intact: discipline earns respect, humility precedes mastery, and a good man teaches what he knows.</p>
+
+<p><a href="/reviews/karate-kid-legends-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Karate Kid: Legends</a></p>
+
+<hr>
+
+<h2>#8 <a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.5</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +22.3 TRAD</span>
+</div>
+
+<p>Christian Wolff returns with his code of ethics intact and his capacity for violence still framed as a moral asset, not a pathology. TradScore 26.5, WokeScore 4.2. The film's traditional values content is embedded in character rather than speeches: loyalty, accountability, protecting the vulnerable, and masculine competence as moral expression. A sequel as good as the original.</p>
+
+<p><a href="/reviews/the-accountant-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Accountant 2</a></p>
+
+<hr>
+
+<h2>#9 <a href="/reviews/last-breath-2025/">Last Breath (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 24.3</span>
+  <span class="mini-score woke">WOKE: 3.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20.9 TRAD</span>
+</div>
+
+<p>A true story about a diver trapped 300 feet below the North Sea and the crew that refuses to leave him. No subtext, no agenda, just male competence under impossible pressure and the bond forged in dangerous work. TradScore 24.3, WokeScore 3.4. This is what movies about male courage look like when they are made right.</p>
+
+<p><a href="/reviews/last-breath-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Last Breath</a></p>
+
+<hr>
+
+<h2>#10 <a href="/reviews/mission-impossible-final-reckoning-2025/">Mission: Impossible - The Final Reckoning (2025)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 21.4</span>
+  <span class="mini-score woke">WOKE: 1.1</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20.3 TRAD</span>
+</div>
+
+<p>Tom Cruise's final Ethan Hunt film is built on loyalty, sacrifice, and the conviction that some things are worth dying for. TradScore 21.4, WokeScore 1.1. Old-school action filmmaking that respects its audience and never frames Western institutions as the real enemy. Families who want pure, honorable action will find exactly that here.</p>
+
+<p><a href="/reviews/mission-impossible-final-reckoning-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mission: Impossible - The Final Reckoning</a></p>
+
+<hr>
+
+<h2>Browse All Scored Reviews at VirtueVigil</h2>
+
+<p>Every film on this list has a full review at VirtueVigil with the complete scoring breakdown, trope-by-trope analysis, and parental guidance. Browse the full 2025 catalog at <a href="/reviews/">VirtueVigil.com/reviews/</a> and stop guessing what is safe to watch. For more curated lists, see <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>, <a href="/lists/best-faith-based-movies/">Best Faith-Based Movies</a>, and <a href="/lists/family-friendly-movies-2024/">Family-Friendly Movies of 2024</a>. For the opposite end of the 2025 spectrum, see <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a>.</p>
+
+<style>
+.listicle-scores { display:flex; gap:8px; flex-wrap:wrap; margin:10px 0 14px; }
+.mini-score { display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.75rem; font-weight:700; background:rgba(20,20,28,0.8); border:1px solid rgba(255,255,255,0.1); color:#a0a0a8; }
+.mini-score.trad { color:#2ecc71; border-color:rgba(46,204,113,0.3); }
+.mini-score.woke { color:#e74c3c; border-color:rgba(231,76,60,0.3); }
+.verdict-badge.traditional { background:rgba(39,174,96,0.15); color:#2ecc71; border:1px solid #2ecc71; display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; }
+.listicle-review-link { color:#c9a84c; text-decoration:none; font-size:0.9rem; }
+.listicle-review-link:hover { text-decoration:underline; }
+hr { border:none; border-top:1px solid rgba(255,255,255,0.07); margin:2rem 0; }
+</style>
+</article>`
   }));
 
   writePage('lists/comedy-movies-woke-ranking-2024/index.html', buildListiclePage({
