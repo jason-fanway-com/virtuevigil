@@ -1,5 +1,41 @@
 [
   {
+    "slug": "sinners-2025",
+    "title": "Sinners",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Horror/Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 15.04,
+    "tradScore": 29.96,
+    "poster": "/images/posters/sinners-2025.jpg"
+  },
+  {
+    "slug": "fantasy-life-2026",
+    "title": "Fantasy Life",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Comedy / Romance / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2.4,
+    "tradScore": 16.24,
+    "poster": "/images/posters/fantasy-life-2026.jpg"
+  },
+  {
+    "slug": "fallout-season-2-2025",
+    "title": "Fallout - Season 2",
+    "verdict": "WOKE LEAN",
+    "platform": "Amazon Prime Video",
+    "genre": "Post-Apocalyptic / Sci-Fi Drama",
+    "year": 2025,
+    "type": "series",
+    "wokeScore": 9.89,
+    "tradScore": 4.9,
+    "poster": "/images/posters/fallout-season-2-2025.jpg"
+  },
+  {
     "slug": "busboys-2026",
     "title": "Busboys",
     "verdict": "PREDICTED: TRADITIONAL",
@@ -154,18 +190,6 @@
     "wokeScore": 8.28,
     "tradScore": 17.64,
     "poster": "/images/posters/goat-2026.jpg"
-  },
-  {
-    "slug": "sinners-2025",
-    "title": "Sinners",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Horror/Drama",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 15.04,
-    "tradScore": 29.96,
-    "poster": "/images/posters/sinners-2025.jpg"
   },
   {
     "slug": "project-hail-mary",

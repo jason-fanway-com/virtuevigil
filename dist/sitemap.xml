@@ -277,6 +277,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/sinners-2025/</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/reviews/fantasy-life-2026/</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/reviews/fallout-season-2-2025/</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/busboys-2026/</loc>
     <lastmod>2026-04-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -350,12 +368,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/reviews/goat-2026/</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/reviews/sinners-2025/</loc>
     <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3133,13 +3145,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://virtuevigil.com/category/comedy/</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/category/fantasy/</loc>
+    <loc>https://virtuevigil.com/category/drama/</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3151,13 +3157,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://virtuevigil.com/category/action/</loc>
+    <loc>https://virtuevigil.com/category/comedy/</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://virtuevigil.com/category/drama/</loc>
+    <loc>https://virtuevigil.com/category/sci-fi/</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/fantasy/</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/action/</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3182,12 +3200,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/romance/</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/category/sci-fi/</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
