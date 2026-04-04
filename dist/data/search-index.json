@@ -1,5 +1,17 @@
 [
   {
+    "slug": "busboys-2026",
+    "title": "Busboys",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 18.34,
+    "poster": "/images/posters/busboys-2026.jpg"
+  },
+  {
     "slug": "the-mummy-2026",
     "title": "The Mummy",
     "verdict": "PREDICTED: STRONGLY TRADITIONAL",
