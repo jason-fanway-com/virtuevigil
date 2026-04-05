@@ -8,195 +8,222 @@
   "genre": "Drama/History/Biography",
   "date": "2026-04-03",
   "author": "VirtueVigil Editorial Team",
-  "readTime": "13 min",
+  "readTime": "14 min",
   "poster": "/images/posters/a-great-awakening-2026.jpg",
   "releaseDate": "2026-04-03",
   "rating": "PG-13",
-  "runtime": "129 min",
+  "runtime": "110 min",
   "director": "Joshua Enck",
-  "writers": ["Joshua Enck", "Jonathan Blair", "Jeff Bender"],
-  "cast": ["John Paul Sneed", "Jonathan Blair", "Josh Bates", "Zachary Amos", "Carl MJ Anderson"],
-  "studio": "Sight & Sound Films",
-  "distributor": "Independent",
-  "theaters": 1289,
-  "openingWeekendGross": "$2,113,000",
-  "verdict": "STRONGLY TRADITIONAL",
+  "writers": [
+    "Joshua Enck",
+    "Jeff Bender",
+    "Jonathan Blair"
+  ],
+  "cast": [
+    "John Paul Sneed",
+    "Jonathan Blair",
+    "Josh Bates",
+    "Zachary Amos",
+    "Carl MJ Anderson"
+  ],
+  "studio": "Sight & Sound Theatres",
+  "distributor": "Sight & Sound Theatres",
+  "verdict": "AUTHENTICALLY TRADITIONAL",
   "wokeScore": 4,
-  "tradScore": 26,
+  "tradScore": 25,
   "authIndex": 92,
-  "scoreMargin": "+22 TRAD",
+  "scoreMargin": "+21 TRAD",
   "preRelease": false,
   "wokeTrap": false,
   "woke_trap_assessment": {
     "is_trap": false,
-    "explanation": "NOT A WOKE TRAP. A Great Awakening wears its Christian worldview openly and unapologetically. Every marketing material, trailer, and production note made clear this is a faith-centered film about spiritual revival and the Christian foundations of American liberty. Conservative families will walk into theaters knowing exactly what they are getting. No ideological bait-and-switch."
+    "explanation": "NOT A WOKE TRAP. A Great Awakening is exactly what it appears to be: a Christian historical drama made by a Christian entertainment company about the spiritual and intellectual foundations of American liberty. The film makes no pretense of secular neutrality. It celebrates Whitefield's preaching as genuine spiritual power. It frames Franklin's friendship with Whitefield as a redemptive arc. It presents Christian conviction as the animating force behind the American founding. These are not hidden messages. They are the entire film. Conservative audiences will know what they are watching and will appreciate its theological clarity."
   },
   "creative_team": {
     "director": {
       "name": "Joshua Enck",
-      "ideology": "EXPLICITLY CHRISTIAN WORLDVIEW. Enck directed 'I Heard the Bells' and demonstrates consistent commitment to faith-based storytelling rooted in Christian values.",
-      "profile": "American director known for faith-centered film and theatrical projects. His body of work demonstrates engagement with biblical themes and American religious history."
+      "ideology": "CHRISTIAN. Enck directed this film for Sight & Sound Theatres, a Mennonite-owned Christian entertainment company known for producing faith-forward content and elaborate stage productions. Enck's body of work reflects a commitment to storytelling rooted in Christian worldview. His creative sensibility prioritizes theological fidelity and spiritual themes over secular narrative conventions. He approaches the historical material with reverence for the Great Awakening as a genuine spiritual movement rather than as a cultural curiosity.",
+      "profile": "American director with Sight & Sound Theatres. Joshua Enck has directed multiple productions for the company, which operates two massive theatrical complexes in Pennsylvania and Missouri known for elaborate Bible-themed stage spectacles and musicals. Sight & Sound has produced content for over 40 years, maintaining strict creative control to ensure alignment with Christian values. Enck's work with the company reflects this mission-driven approach to entertainment. A Great Awakening represents Sight & Sound's expansion into feature film production, bringing their theatrical production values and theological commitments to cinema."
     },
     "writer": {
-      "name": "Jonathan Blair",
-      "profile": "American actor and writer portraying George Whitefield. Blair co-wrote alongside Enck and Jeff Bender, demonstrating deep investment in the story's authenticity."
+      "name": "Jeff Bender & Jonathan Blair",
+      "profile": "Jeff Bender and Jonathan Blair collaborated on the screenplay alongside director Joshua Enck. Blair, who also stars as George Whitefield, brought personal investment to the material as both writer and performer. Bender is an experienced screenwriter in faith-based entertainment. The writing team prioritized historical accuracy regarding the Great Awakening movement while emphasizing the theological and philosophical dimensions of the Franklin-Whitefield friendship. The screenplay reflects careful research into 18th-century colonial America and the documented correspondence between Franklin and Whitefield."
     },
-    "producer": {
-      "name": "Steve Buckwalter and Troy Thorne",
-      "company": "Sight & Sound Films"
+    "lead_producer": {
+      "name": "Sight & Sound Theatres",
+      "company": "Sight & Sound Theatres (Christian Entertainment)"
+    },
+    "composer": {
+      "name": "Not provided in available sources",
+      "profile": "Sight & Sound's production scores are typically composed in-house or by freelance composers aligned with their theatrical aesthetic, which prioritizes emotional clarity and thematic reinforcement."
     },
     "top_cast": [
-      {"name": "John Paul Sneed", "role": "Benjamin Franklin", "notes": "Sight & Sound veteran actor since 2002"},
-      {"name": "Jonathan Blair", "role": "George Whitefield", "notes": "Co-writer and lead performer"},
-      {"name": "Josh Bates", "role": "Supporting cast"},
-      {"name": "Zachary Amos", "role": "Supporting cast"},
-      {"name": "Carl MJ Anderson", "role": "Supporting cast"}
-    ]
+      {
+        "name": "John Paul Sneed",
+        "role": "Benjamin Franklin"
+      },
+      {
+        "name": "Jonathan Blair",
+        "role": "George Whitefield"
+      },
+      {
+        "name": "Josh Bates",
+        "role": "Supporting role"
+      },
+      {
+        "name": "Zachary Amos",
+        "role": "Supporting role"
+      },
+      {
+        "name": "Carl MJ Anderson",
+        "role": "Supporting role"
+      }
+    ],
+    "prediction": {
+      "verdict": "AUTHENTICALLY TRADITIONAL",
+      "confidence": "very high"
+    }
   },
   "fidelityCasting": {
     "sourceType": "Historical Biography",
-    "sourceTitle": "True Story: Benjamin Franklin and George Whitefield Friendship (1739)",
-    "assessment": "A Great Awakening demonstrates meticulous attention to historical fidelity. John Paul Sneed portrays Franklin as a deist printer gradually awakened by Whitefield's spiritual power. Jonathan Blair embodies Whitefield with reverence for the historical preacher's genuine charisma. No race-swapping or identity politics imposed on 18th-century figures. Wesley brothers appear reinforcing historical accuracy."
+    "sourceTitle": "The Friendship of Benjamin Franklin and George Whitefield",
+    "assessment": "A Great Awakening adapts documented historical events and real figures. John Paul Sneed as Benjamin Franklin and Jonathan Blair as George Whitefield are faithful casting choices that prioritize actor commitment and theological understanding over celebrity star power or demographic consideration. Sneed, a veteran of Sight & Sound Theatres since 2002, brings authenticity to Franklin through familiarity with the company's mission-driven approach. Blair's dual role as writer and performer demonstrates his personal investment in the Whitefield narrative. The casting reflects Sight & Sound's philosophy of using performers who understand and align with the theological message. Supporting roles feature regional theater talent rather than name actors, maintaining focus on the central friendship narrative."
   },
   "parentalGuidance": {
     "mpaaRating": "PG-13",
     "mpaaDescriptors": "Brief violence",
     "recommendedAge": "10+",
     "contentWarnings": [
-      "Colonial-era violence and physical punishment",
-      "References to slavery and Whitefield's complex historical role",
-      "Discussion of asceticism and self-denial",
-      "Religious revival and emotional intensity"
+      "Minimal violence - historical context of colonial America includes some conflict scenes but nothing graphic",
+      "Themes of religious conviction and spiritual awakening",
+      "Brief depictions of period-appropriate hardship and social conflict",
+      "No sexual content",
+      "No substance use",
+      "No profanity"
     ],
-    "guidance": "Appropriate for children 10+ with parental context. Film acknowledges Whitefield's involvement with slavery while presenting it as moral evil. Treatment is historically honest rather than whitewashed. Content affirms rather than confuses children with Christian exposure. Families should discuss 18th-century Philadelphia, Great Awakening revival, and how faith influenced founding principles."
+    "guidance": "A Great Awakening is appropriate for children 10 and up. The PG-13 rating reflects brief historical violence only, not language or thematic concerns. The film celebrates Christian faith and spiritual revival as forces for good in American history. Parents seeking family-friendly content that reinforces Christian worldview will find this film fully aligned with their values. There are no secular worldview challenges, no mockery of faith, and no attempts to reframe Christian history through progressive ideology. The film presents Whitefield's preaching as genuinely transformative spiritual power and Franklin's secular skepticism as something ultimately overcome through friendship and exposure to authentic Christianity. This is countercultural content in 2026 Hollywood - explicitly celebrating Christian faith as worthy and true. No content warnings beyond normal PG-13 action."
   },
   "summary": {
-    "overall": "A Great Awakening is a triumph of Christian filmmaking that refuses the false choice between artistic quality and spiritual conviction. Franklin, a secular printer, encounters Whitefield, an evangelical preacher whose voice electrified the colonies in 1739. Franklin initially prints Whitefield's sermons for profit but undergoes awakening to the moral weight of words and faith's transformative power.\n\nThe film refuses to simplify central characters. Whitefield's genuine theological passion coexists with ascetic extremism and troubling slavery involvement. Rather than erasing this, the film presents slavery as moral evil that Whitefield's theology ultimately condemns. This is historically honest without sanitized hagiography.\n\nFranklin's character arc captures tension between rational materialism and transcendent truth. He teaches his grandson about press responsibility, warning against corruption through falsehood and manipulation. This meta-textual moment about media power arrives with force in 2026.\n\nThe Great Awakening becomes a character itself. Whitefield's preaching awakened religious conviction and consciousness of human liberty. Spiritual awakening directly catalyzed political awakening toward revolution. Christianity becomes the engine of American independence.\n\nThe film portrays genuine Christian unity across denominational lines. Wesley brothers and different theological traditions work together unified by conviction. This serves as implicit critique of contemporary evangelical fragmentation.\n\nDirector Enck's choices reinforce theological commitments. Cinematography is clean and lucid. Dialogue privileges clarity. Pacing allows spiritual conviction to land without manipulation. Not every film needs directorial virtuosity. Some stories demand straightforward, emotionally direct presentation.\n\nTwo men from opposite worlds form genuine bonds through mutual respect. Their friendship models how ideological divides dissolve when both operate from conviction.\n\nArtistic weaknesses include occasionally stagey dialogue and uneven supporting performances. The 129-minute runtime occasionally sags in the second act.\n\nFor Christian families seeking entertainment affirming their worldview while respecting intelligence, this is substantive, well-crafted filmmaking. The film trusts audience understanding of theological concepts, historical complexity, and moral ambiguity. It refuses propaganda reduction. Christian filmmaking achieves legitimacy without compromising spiritual conviction.\n\nThe film opened in 1,289 theaters earning $2.113 million opening weekend. For faith-based independent production, this validates audience hunger for values-reflecting content.\n\nBottom line: A Great Awakening is the best Christian historical drama reaching theatrical release since 2013. It is film for people of faith about faith, without apology or hedging. Conservative families find affirmation, intellectual engagement, and genuine entertainment.",
+    "overall": "A Great Awakening is a faith-forward historical drama that tells the true story of an unlikely friendship between Benjamin Franklin and George Whitefield during the Great Awakening of 1739. The film celebrates both the spiritual power of Christian preaching and the intellectual foundations of American liberty rooted in Christian conviction. This is a great awakening 2026 review and worth your family's time.\n\nGeorge Whitefield arrived in Philadelphia in 1739 as an English Methodist preacher whose voice could reach thirty thousand people at once. He was one of the most famous men in the colonies, credited with sparking the Great Awakening, a religious revival movement that swept through colonial America and fundamentally changed the spiritual landscape. Benjamin Franklin, a deist and printer by trade, befriended Whitefield partly from business interest but also from genuine fascination with the preacher's unusual power. Franklin began printing Whitefield's sermons and journals, making a fortune in the process. But the friendship became more than transactional. Franklin was moved by Whitefield's authenticity and conviction. Whitefield saw in Franklin a man whose natural brilliance might ultimately serve divine purposes. As Franklin prints Whitefield's gospel of liberty, colonists awaken not just spiritually but to the idea of freedom from England itself.\n\nThe film's central insight is that the American founding was not, as secular history teaches, a product of Enlightenment rationalism alone. Rather, Christian conviction, spiritual revival, and the message of human dignity before God animated the colonists' emerging sense of liberty. This is historically documented. Whitefield preached that God had chosen America for a special purpose. He emphasized that all humans, regardless of station, were equal in God's eyes and answerable only to Him. This theology of equality and individual conscience directly shaped the founding vision. Franklin, the reasonable skeptic, is portrayed as gradually understanding that Whitefield's spiritual message is inseparable from the political awakening he helped spark. The film makes a sophisticated historical argument: you cannot understand American liberty without understanding the Great Awakening's Christian foundations.\n\nThis is a radically unfashionable argument in 2026 Hollywood. Most contemporary films about the American founding either ignore religion entirely or present Christian conviction as a limitation to be overcome. A Great Awakening does the opposite. It argues that Christian preaching, when authentic and powerful, creates the spiritual conditions for political freedom. Whitefield's vision of human equality before God becomes the intellectual and spiritual foundation for colonial resistance to unjust authority. The film does not present this as naive religious nostalgia. It presents it as historical fact, documented in the records of the founding era.\n\nJonathan Blair's performance as Whitefield is the emotional and theological center. He portrays the preacher as genuinely convinced of his message, physically and spiritually powerful, but also vulnerable to doubt and aware of his own limitations. This is a Great Awakening movie that treats its spiritual subject matter with seriousness and intellectual rigor. Whitefield is not mocked or undercut. He is portrayed as a man of extraordinary conviction and courage. His famous phrase about reaching thirty thousand people is rendered with appropriate awe. The famous scene where Whitefield speaks outdoors and the camera pulls back to show the massive crowd listening in rapt attention captures something essential about the historical moment: this was a preacher whose voice and presence genuinely transformed people.\n\nJohn Paul Sneed as Franklin brings dignity to the skeptic's journey. Franklin is not portrayed as secretly believing all along. Rather, his arc is one of growing respect and eventual acknowledgment that Whitefield's spiritual conviction accomplishes real good in the world. The friendship between these two men across their religious difference is the film's emotional core. Both are committed to their respective truths. Neither patronizes the other. Yet both grow through knowing each other. This is rare and valuable territory in contemporary cinema: a film that respects both faith and reason while suggesting that authentic Christian conviction ultimately proves more transformative for human flourishing than secular materialism.\n\nThe is a great awakening woke score is deliberately low because the film makes no concession to progressive ideology. There is no attempt to complicate Whitefield's moral record through a modern intersectional lens, no suggestion that Christian conviction is problematic, no framing of American Christianity as inherently oppressive. The film does not dodge historical complexity. Whitefield, like many figures of his era, owned slaves. But the film does not use this fact to undermine his spiritual message or to suggest that his theology was corrupted by his personal failings. Rather, it allows the historical contradiction to exist without collapsing Whitefield's significance into a simple verdict of villainy. This is mature historical thinking that respects audience intelligence. The film trusts viewers to hold multiple truths: Whitefield was a man of genuine spiritual power whose personal practice fell catastrophically short of his message. Both things are true. Neither negates the other.\n\nSight & Sound Theatres is known for elaborate stage productions with impressive sets and production values. The film brings this theatrical sensibility to cinema. The depiction of Philadelphia in 1739, the outdoor scenes of massive crowds listening to Whitefield preach, the printing press sequences, and the scenes of colonial society all reflect significant attention to historical detail and visual authenticity. This is not a low-budget faith film. It is a professional production with theatrical ambition.\n\nThe george whitefield movie 2026 also explores the Wesley brothers, who appear in the film as historical figures present in the American colonies during this period. Their inclusion adds theological depth and situates the Great Awakening within the broader Methodist and Pietist movements reshaping Protestant Christianity in the 18th century.\n\nFor conservative families, A Great Awakening is the rare christian movie april 2026 that will feel culturally and spiritually aligned. The film celebrates Christian faith. It treats Christian preaching as powerful and transformative. It argues that American liberty is rooted in Christian conviction. It respects both historical truth and spiritual significance. The sight and sound theatres movie 2026 maintains these commitments without apology or irony. Parents will not wonder if their children are being subtly indoctrinated into progressive values. Instead, they will find a film that reinforces Christian understanding of American history and celebrates the power of genuine faith to transform individuals and societies.\n\nThis benjamin franklin faith movie ultimately makes an audacious claim: that the American founding cannot be understood apart from spiritual awakening. In an era when American Christianity is under sustained cultural attack and when the founding is routinely presented as a purely secular achievement, A Great Awakening boldly reasserts the Christian foundations of American liberty. It is a historical argument wrapped in a compelling human story about friendship, faith, and the possibility of real transformation. Conservative audiences will recognize this as one of the rare contemporary films that understands and celebrates their worldview.",
     "wokeElements": [
-      "Film presents slavery as unambiguous moral evil while depicting Whitefield's historical involvement",
-      "Discussion of marginalized populations including poor, imprisoned, and enslaved",
-      "Colonists of different races experiencing spiritual revival together reflects genuine historical integrated meetings",
-      "Female characters appear in supporting roles"
+      "Virtually absent. The film does not deconstruct Christian faith, question Christian conviction, or present religion through a secular progressive lens."
     ],
     "tradElements": [
-      "Entire premise rooted in Christian spiritual revival power transforming lives and shaping history",
-      "Film explicitly connects Christian principles to American liberty and founding ideals",
-      "Whitefield emphasizes personal conversion, individual conscience, responsibility before God",
-      "Franklin's arc shows awakening from materialism to transcendent truth and moral accountability",
-      "Film portrays denominational unity through core theological conviction",
-      "Franklin warns grandson about moral responsibility controlling press",
-      "Historical figures portrayed as genuinely motivated by conviction not cynicism",
-      "Multiple characters demonstrate self-sacrifice for cause greater than advancement",
-      "Great Awakening portrayed as organic spiritual movement through divine encounter",
-      "Individual conscience, moral responsibility, and spiritual conviction more fundamental than material success"
+      "Christian preaching is portrayed as spiritually powerful and transformative, not as superstition or social control",
+      "The Great Awakening is treated as a genuine spiritual movement with real historical impact, not as mass delusion",
+      "American liberty is explicitly connected to Christian conviction and theology about human dignity before God",
+      "Whitefield is portrayed with reverence and respect, his spiritual authenticity never questioned or undermined",
+      "Franklin's journey includes growing respect for Christian conviction, not reduction of faith to sentiment",
+      "The film argues that spiritual awakening precedes and animates political awakening and freedom",
+      "Colonial America is depicted as shaped by genuine religious conviction, not merely by economic interest",
+      "The friendship between Franklin and Whitefield models respectful engagement across religious difference without requiring either to abandon conviction",
+      "No attempt to use modern intersectional criticism to undermine historical religious figures",
+      "Christian theology of human equality and individual conscience is presented as foundational to American political liberty"
     ],
-    "adultInsight": "A Great Awakening crafts entertainment for Christian audiences seeking worldview affirmation without condescension. The film assumes viewers familiar with Christian theology, 18th-century history, and revival movement significance. This respects Christian intelligence. Adults appreciate historical accuracy, nuanced portrayal of complex figures like Whitefield, and engagement with genuine theological questions about faith, conscience, and spiritual-political liberty relationship.\n\nCasting of John Paul Sneed, veteran of Sight & Sound theatrical productions, grounds film in authentic evangelical culture. This commitment to authenticity extends throughout production. Film's slavery treatment deserves praise: rather than whitewashing Whitefield's role or using slavery to discredit faith, film presents flawed human whose theological commitments ultimately contradicted moral blindness. This mature approach demonstrates integrity through honest complexity rather than defensive hagiography.\n\nAdult conversations likely center religious liberty-political liberty relationship, spiritual conviction's role shaping national character, and whether contemporary Christianity preserved Great Awakening's sincere personal faith emphasis. Film provides substantial dialogue material. This entertainment assumes audiences possess intellectual and spiritual depth capacity."
+    "adultInsight": "Conservative Christians will recognize A Great Awakening as a film made by and for their community. This is not a compromise production attempting to appeal to secular audiences by softening Christian conviction. Rather, it is a full-throated celebration of Christian faith as spiritually true and historically consequential. The film's argument that American liberty emerges from Christian conviction is theologically and historically defensible and will resonate deeply with audiences who understand the American founding through Christian theological categories.\n\nThe film's treatment of Whitefield's slavery is notable. Rather than erasing it or using it to invalidate his spiritual significance, the film allows the historical contradiction to exist. This mature approach respects both the reality of Whitefield's moral failure and the genuine spiritual power of his preaching and theology. Audiences can hold both truths without collapsing into either naive hagiography or cynical dismissal.\n\nFor non-Christian audiences, the film will feel deliberately and unapologetically Christian in its worldview. This is not a limitation but a feature. The film is uninterested in secular validation. It trusts that audiences who share Christian conviction will appreciate an authentic portrayal of faith, and it invites secular audiences to encounter Christianity on its own terms rather than through a filter of modern skepticism. This is rare and valuable in contemporary cinema.",
+    "parentalGuidance": "PG-13. Recommended age 10+. Minimal language concerns. Brief historical action and violence appropriate for the era depicted. Themes of religious faith and spiritual awakening throughout. No sexual content. No substance use. No mockery of Christianity. The film celebrates Christian faith and presents Whitefield's preaching as genuine spiritual power. Parents seeking content aligned with Christian worldview will find nothing objectionable and much to appreciate. This is family-safe content that reinforces rather than challenges Christian conviction."
   },
   "detailed_analysis": {
     "representation": {
-      "score": 3,
-      "notes": "Primary characters aligned with historical counterparts. Supporting cast includes diverse representation reflecting actual 18th-century city diversity and integrated Great Awakening meetings. No evidence of aggressive demographic engineering."
+      "score": 0,
+      "notes": "The film casts historical figures as they were and focuses on the central relationship between Franklin and Whitefield. No modern demographic engineering. Casting prioritizes performers who understand and align with the film's theological mission."
     },
     "messaging": {
-      "score": 4,
-      "notes": "Christian message explicit and central. Film argues genuine spiritual faith transforms individuals and shapes historical outcomes. Causal chain from spiritual to political liberty clearly developed."
+      "score": 0,
+      "notes": "The messaging is entirely transparent and straightforward: American liberty emerged from Christian spiritual awakening. There are no hidden ideological agendas or attempts to smuggle progressive values into family entertainment. The film means exactly what it says."
     },
-    "historical_integrity": {
-      "score": 5,
-      "notes": "Meticulous attention to historical accuracy. Franklin-Whitefield friendship documented and genuine. Great Awakening accurately portrayed. Slavery complexity handled honestly. Wesley brothers appearance reinforces historical veracity."
+    "gender_portrayal": {
+      "score": 0,
+      "notes": "Gender representation is limited as the film focuses on historical male figures in colonial Philadelphia. This reflects historical reality rather than ideological choice. No gender deconstruction."
     },
-    "theological_clarity": {
-      "score": 5,
-      "notes": "Film operates from explicit evangelical theology. Personal conversion, conscience, spiritual responsibility, faith power presented as fundamental truths rather than cultural artifacts."
+    "family_values": {
+      "score": 2,
+      "notes": "Family structures are presented naturally within historical context. The film emphasizes community, friendship, and the bonds created through shared spiritual conviction."
     },
-    "artistic_craft": {
-      "score": 3,
-      "notes": "Solid but not exceptional. Direction competent and serves story effectively but lacks distinctive visual language. Strong performances (Blair, Sneed) with uneven supporting cast. Dialogue clear but occasionally stagey."
+    "faith_portrayal": {
+      "score": 2,
+      "notes": "Christian faith is portrayed with absolute respect and reverence. Christian preaching is presented as spiritually powerful and transformative. This is the opposite of anti-faith messaging."
     }
   },
   "tropeAudit": [
     {
       "id": "TRAD-200",
-      "name": "Spiritual Awakening as Historical Engine",
+      "name": "Spiritual Awakening as Source of Political Freedom",
       "category": "Traditional",
       "severity": 5,
       "authenticity": 0.95,
       "centrality": 2.0,
       "weightedScore": 9.5,
-      "description": "Spiritual revival directly catalyzed political revolution. Colonists encountering Whitefield's preaching about individual conscience became prepared for political liberty. Film demonstrates historical causality between Christian theology and American founding."
+      "description": "The film's central thesis: American liberty emerges from Christian spiritual conviction and the theology of human equality before God. This is historically documented and theologically sound. The Great Awakening did precede and animate colonial resistance to British authority. Christian conviction about individual conscience and human dignity directly shaped founding principles."
     },
     {
       "id": "TRAD-201",
-      "name": "Genuine Faith Transforms Individuals",
+      "name": "Christian Preaching as Genuine Spiritual Power",
+      "category": "Traditional",
+      "severity": 5,
+      "authenticity": 0.9,
+      "centrality": 1.9,
+      "weightedScore": 8.55,
+      "description": "Whitefield is portrayed as a preacher whose words genuinely transform people spiritually. His voice, his conviction, his theology create real spiritual change in the colonists who hear him. The film does not treat this as delusion or manipulation but as authentic spiritual power. This is countercultural in contemporary cinema."
+    },
+    {
+      "id": "TRAD-202",
+      "name": "Christian Theology of Human Equality",
       "category": "Traditional",
       "severity": 4,
       "authenticity": 0.9,
       "centrality": 1.8,
       "weightedScore": 6.48,
-      "description": "Franklin's arc demonstrates transformation through encountering genuine faith. Materialism displaced by recognition of transcendent truth and moral responsibility. Film presents authentic spiritual change as universally human."
-    },
-    {
-      "id": "TRAD-202",
-      "name": "Moral Accountability for Power",
-      "category": "Traditional",
-      "severity": 3,
-      "authenticity": 0.85,
-      "centrality": 1.4,
-      "weightedScore": 3.57,
-      "description": "Franklin warns grandson about press responsibility. Those wielding public discourse power bear moral accountability for truth fidelity and conscience. Abuse for manipulation presented as power corruption. Applies directly to contemporary media."
+      "description": "Whitefield preached that all humans are equal in God's sight, answerable only to Him, regardless of social station. This theology of radical equality before the divine is presented as foundational to American political equality. The film documents the historical connection between Christian conviction and political awakening."
     },
     {
       "id": "TRAD-203",
-      "name": "Denominational Unity Through Shared Conviction",
+      "name": "Faith Across Religious Difference",
       "category": "Traditional",
       "severity": 3,
-      "authenticity": 0.8,
-      "centrality": 1.2,
-      "weightedScore": 2.88,
-      "description": "Whitefield, Wesley brothers, different theological traditions work together unified by spiritual revival commitment. Denominational differences secondary to shared conviction about personal faith centrality. Arguments against contemporary fragmentation."
+      "authenticity": 0.85,
+      "centrality": 1.7,
+      "weightedScore": 4.335,
+      "description": "The friendship between deist Franklin and believing Christian Whitefield models authentic engagement across religious conviction without requiring either party to abandon their beliefs. This is rare territory in contemporary film: mutual respect grounded in genuine difference rather than relativistic agreement that all beliefs are equally true."
     },
     {
       "id": "TRAD-204",
-      "name": "Individual Conscience as Foundation",
+      "name": "Historical Integrity Without Modern Deconstruction",
       "category": "Traditional",
       "severity": 4,
-      "authenticity": 0.9,
+      "authenticity": 0.8,
       "centrality": 1.6,
-      "weightedScore": 5.76,
-      "description": "Film emphasizes individual conscience, personal responsibility before God, spiritual accountability as more fundamental than institutional authority. Theological conviction becomes philosophical foundation for political liberty."
+      "weightedScore": 5.12,
+      "description": "The film addresses Whitefield's slavery without using it to undermine his spiritual significance or apply modern intersectional critique retroactively. This allows historical complexity to exist without collapsing figures into simple moral verdicts. Mature historical thinking."
     },
     {
       "id": "TRAD-205",
-      "name": "Honest Reckoning with Historical Complexity",
+      "name": "American Founding Rooted in Christian Conviction",
       "category": "Traditional",
-      "severity": 2,
-      "authenticity": 0.85,
-      "centrality": 1.0,
-      "weightedScore": 1.7,
-      "description": "Film does not whitewash Whitefield's slavery involvement. Rather presents slavery as unambiguous evil while showing flawed human whose theological commitments ultimately condemned institution. Mature historical engagement demonstrates integrity."
+      "severity": 5,
+      "authenticity": 0.9,
+      "centrality": 1.9,
+      "weightedScore": 8.55,
+      "description": "The film argues that secular Enlightenment rationalism alone does not explain the American founding. Rather, Christian theology about human dignity, individual conscience, and liberty before God provided the intellectual and spiritual foundation. This directly challenges secular progressive historiography."
     }
   ],
   "comparison_films": [
     {
-      "title": "Ben-Hur (1959)",
-      "comparison": "Iconic Christian historical epic demonstrating faith-based cinema achieving artistic legitimacy and commercial success. Like A Great Awakening, uses historical setting exploring spiritual transformation and worldly power versus transcendent truth conflict. Both trust audiences understanding theological concepts."
-    },
-    {
       "title": "The Passion of the Christ (2004)",
-      "comparison": "Gibson's film similarly demonstrated explicitly Christian filmmaking reaching mainstream audiences. Both refuse compromise on spiritual conviction while achieving artistic credibility. Both unapologetic about theological worldview. Both found audiences hungry for values-reflecting entertainment."
+      "comparison": "Like Gibson's film, A Great Awakening is unabashedly Christian in worldview and unapologetic in celebrating Christian faith. Both films prioritize theological authenticity over secular appeasement. Both created controversy by refusing to soften Christian conviction for contemporary audiences."
     },
     {
-      "title": "I Heard the Bells (2021)",
-      "comparison": "Director Enck's previous faith-based film about Longfellow's spiritual journey. Like A Great Awakening, uses historical biography exploring faith transformative power. Represents Enck's consistent commitment to faith-centered storytelling in historical settings."
+      "title": "Ben-Hur (1959)",
+      "comparison": "Historical epic celebrating Christian faith and spiritual transformation. Like Ben-Hur, A Great Awakening uses historical narrative to explore spiritual awakening and the power of faith to transform individuals and societies."
     },
     {
-      "title": "Captive (2015)",
-      "comparison": "Faith-based biographical drama about criminal justice reform pioneer Newton. Similarly combines Christian spirituality with historical accuracy and moral complexity. Both show faith as social change force without reducing to social utility."
+      "title": "1776 (1972)",
+      "comparison": "Musical exploration of the American founding. A Great Awakening similarly argues that spiritual conviction animated the founding vision, though with explicit Christian focus rather than generic deism."
     }
   ],
   "seo": {
-    "titleTag": "Is A Great Awakening (2026) Woke? | VirtueVigil Review",
-    "metaDescription": "VirtueVigil's post-release review of A Great Awakening (2026) - faith-based founding fathers drama about Benjamin Franklin and George Whitefield. Strongly Traditional verdict. Woke Score 4, Traditional Score 26. Complete analysis, parental guidance for Christian families.",
-    "keywords": "a great awakening 2026 review, is a great awakening woke, george whitefield movie 2026, christian movie april 2026, sight and sound theatres movie 2026, benjamin franklin faith movie, a great awakening 2026 woke score, joshua enck director, founding fathers christian film, great awakening movie traditional, best christian movie 2026"
+    "titleTag": "A Great Awakening (2026) Review | Is It Worth Watching? | VirtueVigil",
+    "metaDescription": "A Great Awakening 2026 review from VirtueVigil. Faith-based founding fathers drama celebrating Christian foundations of American liberty. Woke Score 4, Traditional Score 25. Full scoring, cast analysis, and parental guidance for families.",
+    "keywords": "a great awakening 2026 review, is a great awakening woke, george whitefield movie 2026, christian movie april 2026, sight and sound theatres movie 2026, benjamin franklin faith movie, a great awakening virtueVigil review, great awakening 2026 woke score, sight and sound film 2026, whitefield preacher movie"
   }
 }
