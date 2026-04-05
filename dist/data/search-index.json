@@ -84,6 +84,18 @@
     "poster": "/images/posters/the-blue-trail-2025.jpg"
   },
   {
+    "slug": "the-yeti-2026",
+    "title": "The Yeti (2026)",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Horror / Monster / Survival Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.56,
+    "tradScore": 19.18,
+    "poster": "/images/posters/the-yeti-2026.jpg"
+  },
+  {
     "slug": "busboys-2026",
     "title": "Busboys",
     "verdict": "PREDICTED: TRADITIONAL",
