@@ -1,5 +1,29 @@
 [
   {
+    "slug": "devil-wears-prada-2-2026",
+    "title": "The Devil Wears Prada 2",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Comedy / Drama / Fashion",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 18.9,
+    "tradScore": 19.6,
+    "poster": "/images/posters/devil-wears-prada-2-2026.jpg"
+  },
+  {
+    "slug": "cliffhanger-2026",
+    "title": "Cliffhanger",
+    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action / Adventure / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.67,
+    "tradScore": 21.84,
+    "poster": "/images/posters/cliffhanger-2026.jpg"
+  },
+  {
     "slug": "sinners-2025",
     "title": "Sinners",
     "verdict": "TRADITIONAL",
@@ -94,6 +118,18 @@
     "wokeScore": 1.56,
     "tradScore": 19.18,
     "poster": "/images/posters/the-yeti-2026.jpg"
+  },
+  {
+    "slug": "bridget-jones-mad-about-the-boy-2025",
+    "title": "Bridget Jones: Mad About the Boy",
+    "verdict": "TRADITIONAL",
+    "platform": "Peacock / Sky Cinema",
+    "genre": "Romantic Comedy / Drama",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 11.2,
+    "tradScore": 26.18,
+    "poster": "/images/posters/bridget-jones-mad-about-the-boy-2025.jpg"
   },
   {
     "slug": "busboys-2026",
@@ -3992,18 +4028,6 @@
     "wokeScore": 20,
     "tradScore": 13.88,
     "poster": "/images/posters/wuthering-heights-2026.jpg"
-  },
-  {
-    "slug": "the-super-mario-galaxy-movie-2026",
-    "title": "The Super Mario Galaxy Movie",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Animation/Adventure/Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 6.4,
-    "tradScore": 16.35,
-    "poster": "/images/posters/the-super-mario-galaxy-movie-2026.jpg"
   },
   {
     "slug": "black-bag-2025",
