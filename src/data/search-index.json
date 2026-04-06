@@ -12,6 +12,14 @@
     "poster": "/images/posters/devil-wears-prada-2-2026.jpg"
   },
   {
+    "slug": "animal-farm-2026",
+    "title": "Animal Farm",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "genre": "Animated / Adventure / Comedy / Drama / Family",
+    "year": 2026,
+    "poster": null
+  },
+  {
     "slug": "cliffhanger-2026",
     "title": "Cliffhanger",
     "verdict": "PREDICTED: TRADITIONAL LEAN",
