@@ -1762,6 +1762,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/rotten-tomatoes-vs-virtuevigil/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-easter-family-movies/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-faith-based-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-movies-for-dads-fathers-day/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/christopher-nolan-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/tarantino-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/tom-hanks-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
@@ -2669,6 +2670,7 @@ function buildListsHubPage() {
         'best-easter-family-movies',
         'best-faith-based-movies',
         'best-faith-movies-2024',
+        'best-movies-for-dads-fathers-day',
         'best-family-values-movies-all-time',
         'best-non-woke-romance-movies',
         'best-thriller-movies-2024',
@@ -2762,6 +2764,7 @@ function buildListsHubPage() {
       'family-friendly-movies-2024': 'Family-Friendly Movies 2024',
       'best-easter-family-movies': 'Best Movies to Watch With Your Family at Easter (Non-Woke)',
       'best-faith-based-movies': 'Best Faith-Based Movies',
+      'best-movies-for-dads-fathers-day': 'Best Movies for Dads: Non-Woke Father\'s Day Picks',
       'non-woke-action-movies-2024': 'Non-Woke Action Movies 2024',
       'non-woke-romance-movies': 'Non-Woke Romance Movies',
       'apple-tv-woke-ranking': 'Apple TV Woke Ranking',
@@ -16680,6 +16683,175 @@ function buildAudienceVsCriticScoresListicle() {
 </div>
 
 </article>`
+  }));
+
+  // --- Best Movies for Dads: Father's Day Listicle ---
+  writePage('lists/best-movies-for-dads-fathers-day/index.html', buildListiclePage({
+    slug: 'best-movies-for-dads-fathers-day',
+    title: 'Best Movies for Dads: Non-Woke Father\'s Day Picks',
+    description: 'Looking for the best Father\'s Day movies? VirtueVigil ranks the top 10 non-woke films that dads actually love: patriotic, action-packed, and built on real values.',
+    canonicalPath: 'lists/best-movies-for-dads-fathers-day',
+    publishDate: '2026-04-06',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Father's Day is the wrong time to discover that the movie you picked is a lecture. Dads do not want to sit through cinema built to make them feel guilty about being men, about ambition, about protecting their families, or about the world their fathers built. They want stories about competence, duty, sacrifice, and winning. They want heroes, not antiheroes. They want missions that matter, not moral relativism wrapped in a prestige filter.</p>
+
+        <p>VirtueVigil scored every film on this list using the Woke-Watch Scoring System (VVWS v1.1), a dual-scale methodology that measures both progressive ideological content (Woke Score, 0-100) and traditional values content (Traditional Score, 0-50). Every movie here scores high on traditional values: duty, family sacrifice, competence, courage, honor, brotherhood, and the restoration of order. None of them apologize for depicting masculinity, patriotism, or earned success as genuinely good.</p>
+
+        <p>These are the movies dads want to watch on Father's Day. Not because they are "safe," but because they affirm what dads already know: that sacrifice for family matters. That competence is a virtue. That some things are worth dying for. That order is better than chaos. That duty is not a burden, it is a calling. Pick one, grab some pizza, and settle in for two hours of unironic heroism.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 28.4</span>
+              <span class="score-badge woke">WOKE: 2.1</span>
+            </div>
+            <p>Chris Kyle was the deadliest sniper in US military history, and Clint Eastwood made a film about him that the industry pretended not to like (while audiences made it one of the highest-grossing war films ever). American Sniper is not complicated. It is about a man good at his job, a man who knows what he is doing and why, a man who loves his wife and his country enough to keep going back. Kyle's struggle is not existential doubt about whether his work matters, it is the specific agony of being separated from his family by duty. That is traditional storytelling. Bradley Cooper's performance is controlled and precise, never winking at the moral complexity that modern cinema insists must be there. The film refuses to apologize for depicting a warrior's skill and dedication as admirable. For Father's Day with dads who understand what duty means, this is essential viewing. See the <a href="/reviews/american-sniper-2014/">full VirtueVigil review of American Sniper</a>.</p>
+            <a href="/reviews/american-sniper-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 27.8</span>
+              <span class="score-badge woke">WOKE: 1.9</span>
+            </div>
+            <p>Steven Spielberg and Tom Hanks made the greatest war film of the modern era, and it is a film about duty so pure that it has become almost shocking to watch. The soldiers in this film are not complex psychological profiles. They are men doing the job, following orders, protecting each other, and accepting that they might not come home. The famous Omaha Beach sequence is the most visceral depiction of combat ever filmed, but it serves a story about brotherhood under fire, not trauma as spectacle. The mission itself is absurd: find one private among millions and bring him home. That absurdity is the entire point. Men will die to follow orders given by men they have never met, because that is what duty means. For dads who respect military service, this is the definitive Father's Day film. Get the <a href="/reviews/saving-private-ryan-1998/">full VirtueVigil review of Saving Private Ryan</a>.</p>
+            <a href="/reviews/saving-private-ryan-1998/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/top-gun-maverick-2022/">Top Gun: Maverick (2022)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 26.2</span>
+              <span class="score-badge woke">WOKE: 3.8</span>
+            </div>
+            <p>Tom Cruise did what Hollywood said was impossible: he made a 2022 blockbuster about military excellence, loyalty, and the cost of aging that avoids every progressive talking point in the cultural conversation. Maverick is about a man learning to accept his mortality while teaching young pilots to master their craft and trust each other. It is about honor being worth more than safety. It is about missions that matter. It is about fathers and sons, legacy and responsibility, and the price of excellence. The flight sequences are filmed practically, not animated. The stunts are real. That commitment to craft carries through the entire film. For dads who remember the original Top Gun and for fathers watching with their sons, Maverick is a gift. It is traditional masculinity unironic and unashamed, wrapped in craft so genuine that no one can pretend it is anything but excellence. See the <a href="/reviews/top-gun-maverick-2022/">full VirtueVigil review of Top Gun: Maverick</a>.</p>
+            <a href="/reviews/top-gun-maverick-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/ford-v-ferrari-2019/">Ford v Ferrari (2019)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 24.9</span>
+              <span class="score-badge woke">WOKE: 2.3</span>
+            </div>
+            <p>James Mangold made a film about two men (Christian Bale and Matt Damon) obsessed with building a car fast enough to beat Ferrari at Le Mans. That is the entire plot. There is no second agenda. It is not a meditation on ambition's cost; it is a celebration of craftsmanship and focused excellence. Bale's Ken Miles is a working-class engineer who knows he is the best at what he does, and he will not compromise. Damon's Carroll Shelby understands that genius requires trust and protection from bureaucrats who do not understand what they are watching. This is traditional values cinema: excellence as its own reward, loyalty between men, and the refusal to accept mediocrity just because it is easier. For dads who appreciate craft and honest work, Ford v Ferrari is perfect Father's Day viewing. Read the <a href="/reviews/ford-v-ferrari-2019/">full VirtueVigil review of Ford v Ferrari</a>.</p>
+            <a href="/reviews/ford-v-ferrari-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 24.1</span>
+              <span class="score-badge woke">WOKE: 5.2</span>
+            </div>
+            <p>Mel Gibson's account of Desmond Doss, a conscientious objector who refused to carry a gun but carried wounded men off the battlefield, is a film about courage redefined. Doss's bravery is not in killing enemies; it is in saving comrades under fire, without weapons, without backup, without the tools that every other soldier had. Gibson does not soften the reality of combat or the weight of what Doss undertakes. The film shows men dying, suffering, broken by what they have seen. But Doss's faith is not naive, it is the only thing that makes sense in that hell. For dads with faith, or for dads who respect genuine courage regardless of their belief, Hacksaw Ridge is profound. It asks the question: what does it mean to be a man of principle when everything around you demands compromise? See the <a href="/reviews/hacksaw-ridge-2016/">full VirtueVigil review of Hacksaw Ridge</a>.</p>
+            <a href="/reviews/hacksaw-ridge-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/gladiator-2000/">Gladiator (2000)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 26.7</span>
+              <span class="score-badge woke">WOKE: 2.1</span>
+            </div>
+            <p>Ridley Scott made a film about a man who has everything taken from him and builds his way back through excellence and courage to reclaim his honor. Maximus is stripped of his rank, his freedom, his name; reduced to a slave in the arena. He earns back his dignity not through revolution or moral awakening, but through being the best at what he does. He is undefeated, unwilling to quit, and his final act is the restoration of the republic through sacrifice. Gladiator is about masculine virtue operating under impossible circumstances: competence, courage, honor, duty to family, and the willingness to die for something larger than yourself. Russell Crowe's performance is all precision and control, never begging for sympathy, just demanding respect through action. For Father's Day, this is the epic every dad should see. Get the <a href="/reviews/gladiator-2000/">full VirtueVigil review of Gladiator</a>.</p>
+            <a href="/reviews/gladiator-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/the-dark-knight-2008/">The Dark Knight (2008)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 19.6</span>
+              <span class="score-badge woke">WOKE: 3.5</span>
+            </div>
+            <p>Christopher Nolan made the greatest superhero film ever made, and it is fundamentally a film about sacrifice and moral clarity. The Joker is chaos given form, and he does not want wealth or power, just proof that civilization is a lie. Batman's response is to accept that he must be the villain in everyone's eyes so that order can survive. Harvey Dent's arc shows what happens when moral compromise corrodes a good man's foundation. This is not a film celebrating the ambiguity of morality; it is a film asserting that some people must bear costs that others cannot, that civilization requires vigilance, and that duty sometimes means accepting that you will be misunderstood. Heath Ledger's Joker is the greatest villain in cinema because he represents the alternative to Batman's choice: nihilism as freedom. For dads thinking about what they owe their families and their communities, The Dark Knight is essential. Read the <a href="/reviews/the-dark-knight-2008/">full VirtueVigil review of The Dark Knight</a>.</p>
+            <a href="/reviews/the-dark-knight-2008/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/interstellar-2014/">Interstellar (2014)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 23.16</span>
+              <span class="score-badge woke">WOKE: 7.72</span>
+            </div>
+            <p>Christopher Nolan made a film about a father willing to cross time and space to save his daughter. That is the entire plot, and it is the most emotional thing in Nolan's entire filmography. Cooper leaves his children behind to pilot a spacecraft, separated from them across dimensions they cannot bridge. He will miss his daughter's entire life to ensure she has a future. The film is explicitly pro-family, pro-love, and grounded in the bond between parent and child as the thing most worth protecting. It is also pro-science without being anti-faith, and it grounds human survival not in government action or collective will but in individual sacrifice and parental love. For dads watching with their families, this is the film that reminds them why they work, why they sacrifice, and what they are trying to protect. See the <a href="/reviews/interstellar-2014/">full VirtueVigil review of Interstellar</a>.</p>
+            <a href="/reviews/interstellar-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/rocky-1976/">Rocky (1976)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 29.3</span>
+              <span class="score-badge woke">WOKE: 1.2</span>
+            </div>
+            <p>Sylvester Stallone wrote and starred in a film about a working-class fighter who gets one chance at something better, and he decided to earn it through discipline, training, and willingness to absorb punishment. Rocky is not about winning the fight; it is about going the distance. It is about a man from nothing becoming something through sheer will and work. It is about loyalty to the woman he loves and gratitude to the people who believed in him. This film should not work in 2026, because it runs counter to everything contemporary cinema tells you about success: that it is owed to you, that the system is rigged, that trying hard is not enough. Rocky says the opposite. Rocky says: your circumstances are not your fault, but what you do with them is your responsibility. For every young man watching with his father, and for every father wanting to remind his son what perseverance means, Rocky is the gold standard. Read the <a href="/reviews/rocky-1976/">full VirtueVigil review of Rocky</a>.</p>
+            <a href="/reviews/rocky-1976/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h3>The Revenant (2015)</h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL (Not Yet Reviewed by VirtueVigil)</span>
+            </div>
+            <p>Emmanuel Lubezki's cinematography and Leonardo DiCaprio's performance make this the definitive film about survival, father's love, and perseverance against impossible odds. Hugh Glass is abandoned in the wilderness, left for dead by trappers who assume no one could survive what he has survived. He does. He crawls through the frontier, hunted, broken, sustained by nothing but the memory of his son and the refusal to quit. The film is brutal about what survival costs, refusing to soften the reality of pain, hunger, and being cut off from everything. DiCaprio's final scene, wordless and broken, conveys more about the father's love than pages of dialogue could. For dads thinking about what they would endure to protect their children, this is the meditation. The film is not yet in the VirtueVigil database, but it belongs on this list because every man who has seen it knows what it means to watch a father operate from love and duty alone. Watch this Father's Day with your family and talk about what you saw.</p>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>More Than Entertainment</h3>
+
+        <p>These ten films are not safe choices. They are not movies designed to offend no one. Each of them makes a specific claim about what matters: that duty is real, that family is the first loyalty, that competence and excellence are virtues worth dying for, that honor is not a relic, and that sacrifice is sometimes the only way to earn the life you want to live.</p>
+
+        <p>Hollywood mostly does not make these films anymore. When it does, audiences show up in force, ignoring the critics, spending their money, taking their families and their fathers to see these stories. That is a vote. That matters.</p>
+
+        <p>VirtueVigil scores films using the VVWS v1.1 methodology, which weights trope prevalence, narrative outcomes, creative team analysis, and thematic messaging. Every film on this list has a full review with complete breakdowns, parental guidance, and cultural context. Browse all reviews or explore more Father's Day recommendations on our <a href="/lists/">lists page</a>. Father's Day comes once a year. Make it count.</p>
+      </div>
+    </article>`
   }));
 
   // --- Lists Hub Page ---
