@@ -1772,6 +1772,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/patriotic-war-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/anti-woke-action-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-action-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-action-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/hbo-max-shows-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
@@ -2668,6 +2669,7 @@ function buildListsHubPage() {
       slugs: [
         'anti-woke-action-movies',
         'best-action-movies-2024',
+        'best-action-movies-2026',
         'best-conservative-movies',
         'best-drama-movies-conservatives-2024',
         'best-easter-family-movies',
@@ -10347,6 +10349,127 @@ function buildAppleTvWokeRankingListicle() {
       .verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
       .score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
       .listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+      .listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
+      .listicle-cta:hover { background: rgba(201,168,76,0.1); }
+      .listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
+      .listicle-conclusion h3 { font-family: 'Cinzel',Georgia,serif; color: #c9a84c; margin: 0 0 14px; }
+      .listicle-conclusion p { color: #bbb; line-height: 1.75; margin-bottom: 12px; }
+      .listicle-conclusion a { color: #c9a84c; }
+      @media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
+      </style>
+    </article>`
+  }));
+
+  writePage('lists/best-action-movies-2026/index.html', buildListiclePage({
+    slug: 'best-action-movies-2026',
+    title: 'Best Action Movies of 2026 (Ranked by Values Score)',
+    description: 'VirtueVigil ranks the best action movies of 2026 by traditional values scores. Top 10 films by net traditional margin, scored and analyzed.',
+    canonicalPath: 'lists/best-action-movies-2026',
+    publishDate: '2026-04-06',
+    htmlContent: `<article class="listicle-article">
+      <p>2026 has delivered action films that span global cinema, from animated adventures to spy thrillers to military dramas. VirtueVigil scored every action release using our dual-scoring system: the Traditional Score measures values content including family loyalty, heroic sacrifice, and moral clarity. The Woke Score measures progressive ideological content. The rankings below reflect the net margin, meaning the gap between these two scores. The bigger the gap in the traditional direction, the cleaner the film scores on values.</p>
+
+      <p>These ten action films represent 2026 and recent releases that scored highest by traditional values. Every film has been reviewed in full on VirtueVigil with detailed trope-by-trope breakdowns, creative team profiles, and parental guidance. This list is a summary. Follow the links to each review for the complete analysis.</p>
+
+      <p>The rankings below run from #10 (lowest traditional score in the top 10) to #1 (highest). Scores reflect density of traditional and progressive ideological content as measured by the VirtueVigil system, not artistic merit or box office performance.</p>
+
+      <hr>
+
+      <h2>#10 - The Accountant 2 (2025)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 26.46 &bull; <strong>Woke Score:</strong> 4.2 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Action/Crime/Thriller</p>
+      <p>Ben Affleck returns as Christian Wolff, the autistic accountant with combat training, for a sequel that deepens the character's emotional stakes while maintaining the franchise's core appeal: competence as virtue, loyalty as the highest moral act, and redemption through earned service. The film scores well on VirtueVigil's traditional measures through its treatment of family bonds as unbreakable, masculine competence as heroic foundation, and justice pursued outside institutional channels when institutions fail. The relatively modest traditional score reflects a crime thriller that prioritizes plot efficiency over ideological messaging in either direction.</p>
+      <p><a href="/reviews/the-accountant-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Accountant 2</a></p>
+
+      <hr>
+
+      <h2>#9 - The Terminal List (2022)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 26.64 &bull; <strong>Woke Score:</strong> 2.8 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Military Action Thriller</p>
+      <p>Jack Ryan director Stefano Sollima brings the Tom Clancy universe to the small screen with a series centered on Jack Ryan, a Marine who returns from combat service to discover institutional corruption in military procurement and government accountability. VirtueVigil flags military service as honorable vocation, competence and discipline as masculine virtues, loyalty to service members as the supreme obligation, and institutional betrayal of traditional values as the true villain. The Terminal List scores well because it treats veteran competence as the heroic core, not a plot device or character quirk.</p>
+      <p><a href="/reviews/the-terminal-list-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Terminal List</a></p>
+
+      <hr>
+
+      <h2>#8 - Dhurandhar: The Revenge (2026)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 26.74 &bull; <strong>Woke Score:</strong> 0 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Spy/Action/Thriller</p>
+      <p>Director Aditya Dhar (Uri: The Surgical Strike) delivers a spy thriller that scores perfectly on traditional measures while maintaining zero progressive ideological content. The film earns its traditional score through patriotic nationalism positioned as sacred duty, family vengeance and honor defense, masculine lone-wolf competence, and righteous violence against established evil without moral ambivalence. Dhurandhar represents the purest traditional action film on this list: a story built entirely around duty, sacrifice, and the proposition that heroic violence in defense of family and nation is morally justified.</p>
+      <p><a href="/reviews/dhurandhar-the-revenge-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dhurandhar: The Revenge</a></p>
+
+      <hr>
+
+      <h2>#7 - Solo Leveling: ReAwakening (2024)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 28.35 &bull; <strong>Woke Score:</strong> 1.26 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Animation/Action/Fantasy</p>
+      <p>The theatrical compilation of the Solo Leveling anime series follows Sung Jin-Woo, a hunter who rises from the weakest rank to become the most powerful fighter alive through discipline, sacrifice, and absolute refusal to quit. VirtueVigil flagged meritocracy as the supreme narrative value, self-improvement through suffering as the heroic arc, complete absence of progressive messaging throughout, and masculine competence as the sole determinant of status. Solo Leveling earns its place on this list as one of the few recent action films that treats earned excellence as the literal point of the story, not as a character trait to feel guilty about.</p>
+      <p><a href="/reviews/solo-leveling-reawakening-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Solo Leveling: ReAwakening</a></p>
+
+      <hr>
+
+      <h2>#6 - Sound of Freedom (2023)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 30.8 &bull; <strong>Woke Score:</strong> 4.2 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Action</p>
+      <p>Angel Studios distributed this true story of Tim Ballard, a man who leaves a government agency to found Operation Underground Railroad and rescue children from human trafficking. The film scores exceptionally high on VirtueVigil's traditional measures through protection of the innocent as the central moral obligation, fatherhood as moral compass, self-sacrifice without expectation of recognition, moral clarity between good and evil, and faith as vocation. Sound of Freedom became a cultural phenomenon partly because it treats its subject matter with the moral seriousness it demands, and partly because contemporary cinema treats such moral clarity as radical.</p>
+      <p><a href="/reviews/sound-of-freedom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sound of Freedom</a></p>
+
+      <hr>
+
+      <h2>#5 - Shelter (2026)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 32 &bull; <strong>Woke Score:</strong> 9 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Action</p>
+      <p>A 2026 release that hasn't received wide critical attention, Shelter earns its traditional score through family protection as the primary narrative engine, masculine competence rewarded and celebrated, self-reliance under duress as heroic virtue, and community defense as a sacred obligation. The modest woke score reflects some diversity casting and modern sensibilities in supporting roles, but the core narrative and character arcs remain firmly traditional in their values architecture. Shelter proves that action films built on family loyalty and community protection continue to score well on the VirtueVigil system regardless of other production choices.</p>
+      <p><a href="/reviews/shelter-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shelter</a></p>
+
+      <hr>
+
+      <h2>#4 - Gladiator (2000)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 32.2 &bull; <strong>Woke Score:</strong> 1.7 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Action/Adventure/Drama</p>
+      <p>Ridley Scott's masterpiece about Maximus Decimus Meridius, a Roman general betrayed and enslaved who fights his way back to power through combat mastery and unshakeable honor, scores exceptionally high on traditional measures. The film earns its score through personal honor as the supreme value, institutional corruption as the true villain, martial virtue and earned glory through suffering, male friendship as sacred bond, and justice pursued through individual courage and skill. Gladiator remains one of the highest-scoring action films in the VirtueVigil database because it treats every traditional value with absolute sincerity and visual grandeur.</p>
+      <p><a href="/reviews/gladiator-2000/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Gladiator</a></p>
+
+      <hr>
+
+      <h2>#3 - American Sniper (2014)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 36.6 &bull; <strong>Woke Score:</strong> 2.45 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Action/Biography/Drama</p>
+      <p>Clint Eastwood directed this biographical account of Chris Kyle, the most lethal sniper in U.S. military history. The film earns one of the highest traditional scores in the VirtueVigil database through military service as sacred duty, competence as moral virtue, protection of fellow soldiers as the supreme obligation, masculine virtue treated with complete seriousness, and PTSD addressed without the film becoming a meditation on institutional blame. American Sniper scores exceptionally high because Eastwood never apologizes for his protagonist or his values. The film treats combat competence, marksmanship mastery, and the psychological toll of that mastery with equal gravity.</p>
+      <p><a href="/reviews/american-sniper-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of American Sniper</a></p>
+
+      <hr>
+
+      <h2>#2 - The Night Agent: Season 3 (2026)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 38 &bull; <strong>Woke Score:</strong> 22 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Action/Political Thriller</p>
+      <p>Netflix's political thriller series returns for its third season with Gabriel Basso as FBI agent Peter Sutherland navigating institutional conspiracy, presidential intrigue, and the question of where duty lies when government institutions become corrupt. The Night Agent scores well on traditional measures despite significant progressive ideological content because its core narrative architecture remains traditional: an individual of competence and courage pursues truth and justice even when institutions oppose him, loyalty to principle matters more than career advancement, and the individual conscience is the final arbiter of right action. The +16 traditional margin shows that strong traditional foundations can coexist with other ideological content.</p>
+      <p><a href="/reviews/night-agent-s3-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Night Agent: Season 3</a></p>
+
+      <hr>
+
+      <h2>#1 - Ne Zha 2 (2025)</h2>
+      <p><strong>VirtueVigil Traditional Score:</strong> 38.57 &bull; <strong>Woke Score:</strong> 0 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Animation/Fantasy/Action</p>
+      <p>The animated sequel to the original Chinese fantasy adventure earns the highest traditional score on this list and one of the highest in the entire VirtueVigil database. Ne Zha 2 scores exceptionally well through filial piety and parental sacrifice as the narrative foundation, destiny earned through sacrifice and selfless action, brotherhood and loyalty as supreme virtues that transcend circumstance, the self-sacrificing hero as the moral ideal, and courage in the face of predetermined condemnation. The film carries zero woke score, meaning it contains no measurable progressive ideological content. Ne Zha 2 represents pure traditional storytelling: a film entirely built on values of family duty, honor, and the willingness to sacrifice everything for those you love.</p>
+      <p><a href="/reviews/ne-zha-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ne Zha 2</a></p>
+
+      <div class="listicle-conclusion">
+        <h3>The Best Action Films by Values Score</h3>
+        <p>Every film on this list earned its ranking through actual story content. Ne Zha 2 leads by a decisive margin because it treats family loyalty and filial duty as the literal point of the story, with zero progressive ideological content counterbalancing those values. American Sniper follows because it treats military competence and the psychological toll of that competence with equal gravity and seriousness. The rest of the list reflects action cinema that understood one essential truth: audiences do not need lectures about values. They need heroes worth following, stakes worth believing, and stories that respect the traditional values their characters embody.</p>
+        <p>Not every film here is perfect on the progressive side. The Night Agent carries moderate woke content. Shelter carries some diversity casting. But the traditional content in those films is real and substantial, and the net margin is what the ranking reflects. That is the VirtueVigil methodology: honest accounting on both sides of the ledger, no selective scoring, no agenda in either direction.</p>
+        <p>Browse all 2026 action reviews at <a href="https://virtuevigil.com/reviews/">VirtueVigil.com</a>. Full trope audits, creative team profiles, parental guidance, and detailed scores for every film in the database. For more curated picks, see our <a href="/lists/best-action-movies-2024/">Best Action Movies of 2024</a>, <a href="/lists/best-traditional-movies-2026/">Best Traditional Movies of 2026</a>, and <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>.</p>
+      </div>
+
+      <style>
+      .listicle-article { max-width: 860px; }
+      .listicle-intro p { color: #bbb; line-height: 1.75; margin-bottom: 16px; font-size: 1.05rem; }
+      .listicle-items { list-style: none; padding: 0; margin: 32px 0 0; }
+      .listicle-item { display: flex; gap: 20px; align-items: flex-start; padding: 28px 0; border-bottom: 1px solid rgba(255,255,255,0.07); }
+      .listicle-item:last-child { border-bottom: none; }
+      .listicle-rank { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; background: rgba(201,168,76,0.12); border: 2px solid rgba(201,168,76,0.4); display: flex; align-items: center; justify-content: center; font-family: 'Cinzel',Georgia,serif; font-size: 1.2rem; font-weight: 700; color: #c9a84c; }
+      .listicle-content h2 { font-family: 'Cinzel',Georgia,serif; font-size: 1.25rem; margin: 0 0 10px; }
+      .listicle-content h2 a { color: #e8e8e8; text-decoration: none; }
+      .listicle-content h2 a:hover { color: #c9a84c; }
+      .listicle-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+      .verdict-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+      .verdict-badge.traditional { background: rgba(39,174,96,0.15); color: #2ecc71; border: 1px solid #2ecc71; }
+      .verdict-badge.mixed { background: rgba(230,126,34,0.12); color: #e67e22; border: 1px solid #e67e22; }
+      .verdict-badge.woke-lean { background: rgba(196,64,64,0.12); color: #e07060; border: 1px solid #e07060; }
+      .verdict-badge.woke { background: rgba(196,64,64,0.2); color: #e74c3c; border: 1px solid #e74c3c; }
+      .score-badge { display: inline-block; padding: 3px 10px; border-radius: 5px; font-size: 0.7rem; font-weight: 700; background: rgba(20,20,28,0.8); color: #a0a0a8; border: 1px solid rgba(255,255,255,0.1); }
+      .listicle-content p { color: #bbb; line-height: 1.7; margin-bottom: 14px; }
+      .listicle-review-link { color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; }
+      .listicle-review-link:hover { text-decoration: underline; }
       .listicle-cta { display: inline-block; color: #c9a84c; font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,168,76,0.35); padding: 6px 14px; border-radius: 5px; transition: background 0.2s; }
       .listicle-cta:hover { background: rgba(201,168,76,0.1); }
       .listicle-conclusion { margin-top: 40px; padding: 28px; background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; }
