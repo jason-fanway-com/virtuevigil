@@ -1797,6 +1797,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-non-woke-romance-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-kids-movies-2025-2026-no-agenda/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/marvel-mcu-movies-traditional-values-ranked/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-movies-for-teenagers-non-woke-2026/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2698,6 +2699,7 @@ function buildListsHubPage() {
         'non-woke-romance-movies',
         'patriotic-war-movies',
         'best-patriotic-war-movies',
+        'best-movies-for-teenagers-non-woke-2026',
         'superhero-movies-traditional-values'
       ]
     },
@@ -2775,7 +2777,8 @@ function buildListsHubPage() {
       'apple-tv-woke-ranking': 'Apple TV Woke Ranking',
       'woke-movies-box-office-flops': 'Woke Movies Box Office Flops',
       'anti-woke-action-movies': 'Anti-Woke Action Movies',
-      'best-patriotic-war-movies': 'Best Patriotic War Movies That Still Honor Sacrifice (No Agenda)'
+      'best-patriotic-war-movies': 'Best Patriotic War Movies That Still Honor Sacrifice (No Agenda)',
+      'best-movies-for-teenagers-non-woke-2026': 'Best Movies for Teenagers (Non-Woke) 2026: Parent-Approved Picks'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -17085,6 +17088,15 @@ function buildAudienceVsCriticScoresListicle() {
         <p>Every film on this list shares one quality that separates it from the standard Hollywood war narrative: it believes the men who served were worth honoring on their own terms. Not deconstructing. Not interrogating for signs of nationalistic excess. Not using as raw material for an argument about American imperialism. These films show you what service costs and what it means, and they trust you to feel the weight without being told how to interpret it. That kind of filmmaking is harder to pull off than it looks, especially in an industry that has spent decades treating patriotism as a form of naivety. These ten films refused that premise, and they are better for it. Browse the full VirtueVigil database at <a href="https://virtuevigil.com/reviews/">VirtueVigil</a> for complete scores, parental guidance, and trope audits on every film reviewed, and check our <a href="/lists/best-war-movies-patriots/">best war movies for patriots</a> and <a href="/lists/anti-woke-action-movies/">anti-woke action movies</a> for more curated picks built on real data.</p>
       </div>
     </article>`
+  }));
+
+  writePage('lists/best-movies-for-teenagers-non-woke-2026/index.html', buildListiclePage({
+    slug: 'best-movies-for-teenagers-non-woke-2026',
+    title: 'Best Movies for Teenagers (Non-Woke) 2026: Parent-Approved Picks',
+    description: 'Ten parent-approved movies for teens in 2026 that teach real values: heroism, sacrifice, responsibility, and courage. No agenda, no lectures, just great storytelling.',
+    canonicalPath: 'lists/best-movies-for-teenagers-non-woke-2026',
+    publishDate: '2026-04-06',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-movies-for-teenagers-non-woke-2026/index.html'), 'utf-8')
   }));
 
   // --- Lists Hub Page ---
