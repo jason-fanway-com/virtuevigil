@@ -1799,6 +1799,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-kids-movies-2025-2026-no-agenda/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/marvel-mcu-movies-traditional-values-ranked/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-movies-for-teenagers-non-woke-2026/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/best-true-story-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2672,6 +2673,7 @@ function buildListsHubPage() {
         'best-action-movies-2026',
         'best-conservative-movies',
         'best-drama-movies-conservatives-2024',
+        'best-true-story-movies-conservatives',
         'best-easter-family-movies',
         'best-faith-based-movies',
         'best-faith-movies-2024',
@@ -2702,6 +2704,7 @@ function buildListsHubPage() {
         'patriotic-war-movies',
         'best-patriotic-war-movies',
         'best-movies-for-teenagers-non-woke-2026',
+        'best-true-story-movies-conservatives',
         'superhero-movies-traditional-values'
       ]
     },
@@ -2780,7 +2783,8 @@ function buildListsHubPage() {
       'woke-movies-box-office-flops': 'Woke Movies Box Office Flops',
       'anti-woke-action-movies': 'Anti-Woke Action Movies',
       'best-patriotic-war-movies': 'Best Patriotic War Movies That Still Honor Sacrifice (No Agenda)',
-      'best-movies-for-teenagers-non-woke-2026': 'Best Movies for Teenagers (Non-Woke) 2026: Parent-Approved Picks'
+      'best-movies-for-teenagers-non-woke-2026': 'Best Movies for Teenagers (Non-Woke) 2026: Parent-Approved Picks',
+      'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -16995,108 +16999,144 @@ function buildAudienceVsCriticScoresListicle() {
     htmlContent: `<article class="listicle-article">
       <div class="listicle-intro">
         <p>Mothers carry the world on their shoulders, and the best movies honor that truth. Whether you're looking for something to watch with Mom or searching for a film that captures what motherhood actually feels like, this list delivers: ten movies built on sacrifice, faith, grit, and love that doesn't quit. Grab the tissues and settle in.</p>
-
         <p>VirtueVigil scored every film on this list using the VVWS v1.1 dual-scale methodology, measuring both progressive ideological content and traditional values content. Every movie here takes motherhood seriously: as a vocation, a sacrifice, and a moral force. None of them treat mothers as sideline characters or background figures. In an era when Hollywood often reduces mothers to afterthoughts, these films put them at the center where they belong.</p>
       </div>
-
       <ol class="listicle-items">
-
         <li class="listicle-item">
           <div class="listicle-rank">1</div>
           <div class="listicle-content">
-            <h3><a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h3>
-            <p>Based on the true story of Tim Ballard, a federal agent who leaves his career to rescue children from trafficking networks, this film hits every parent like a freight train. The love a mother has for her child is mirrored in Ballard's relentless refusal to leave kids behind, and the film treats that love as sacred and worth fighting for. It's one of the most important films about protecting children made in the last decade.</p>
-            <a href="/reviews/sound-of-freedom-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <h3><a href="/reviews/paddington-2-2017/">Paddington 2 (2017)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 32.0</span>
+              <span class="score-badge woke">WOKE: 2.1</span>
+            </div>
+            <p>Hugh Grant plays a villain in this film about a marmalade thief and a bear, and yet Paddington 2 is one of the most profound meditations on chosen family and unconditional love ever made. The emotional core is Mrs. Brown, Paddington's adoptive mom, who loves him without reservation and teaches everyone around her to do the same. In a world obsessed with biological truth, this film argues that love is the only family that matters. See the <a href="/reviews/paddington-2-2017/">full VirtueVigil review of Paddington 2</a>.</p>
+            <a href="/reviews/paddington-2-2017/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
-
         <li class="listicle-item">
           <div class="listicle-rank">2</div>
           <div class="listicle-content">
-            <h3><a href="/reviews/the-blind-side-2009/">The Blind Side (2009)</a></h3>
-            <p>Leigh Anne Tuohy sees a teenager no one else notices, takes him in, and fights for him with everything she has. Sandra Bullock won the Oscar for good reason: her portrayal of a mother who chooses love over comfort is unforgettable. This is a story about how one woman's decision to act on her convictions changed an entire family, and it never lets you look away.</p>
-            <a href="/reviews/the-blind-side-2009/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <h3><a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 30.8</span>
+              <span class="score-badge woke">WOKE: 4.2</span>
+            </div>
+            <p>Based on the true story of federal agent Tim Ballard, this film hits every parent like a freight train. The love a mother has for her child is mirrored in Ballard's relentless refusal to leave kids behind, and the film treats that love as sacred and worth fighting for. It's one of the most important films about protecting children made in the last decade. Get the <a href="/reviews/sound-of-freedom-2023/">full VirtueVigil review of Sound of Freedom</a>.</p>
+            <a href="/reviews/sound-of-freedom-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
-
         <li class="listicle-item">
           <div class="listicle-rank">3</div>
           <div class="listicle-content">
-            <h3>Steel Magnolias (1989)</h3>
-            <p>Six women. A beauty salon in Louisiana. And a friendship so fierce it becomes its own kind of family. Julia Roberts plays Shelby, a young diabetic woman whose mother, played by Sally Field, loves her with a ferocity that will wreck you by the final act. The famous cemetery scene is one of cinema's great expressions of grief, love, and the strength it takes to keep standing.</p>
+            <h3><a href="/reviews/the-wild-robot-2024/">The Wild Robot (2024)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 27.9</span>
+              <span class="score-badge woke">WOKE: 7.1</span>
+            </div>
+            <p>A robot finds an orphaned egg and chooses to become a mother. That sentence doesn't capture why this film will destroy you emotionally. Roz's journey from cold machine to fierce maternal protector is one of cinema's most powerful meditations on what motherhood actually is: choice, sacrifice, and love that transcends biology. The film treats adoption and the bonds created through love rather than genetics as sacred. This is essential viewing for any mother or anyone who has been mothered. Read the <a href="/reviews/the-wild-robot-2024/">full VirtueVigil review of The Wild Robot</a>.</p>
+            <a href="/reviews/the-wild-robot-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
-
         <li class="listicle-item">
           <div class="listicle-rank">4</div>
           <div class="listicle-content">
-            <h3><a href="/reviews/i-can-only-imagine-2018/">I Can Only Imagine (2018)</a></h3>
-            <p>This is the story behind MercyMe's legendary Christian song, tracing frontman Bart Millard's childhood under an abusive father and the transformation faith brought to both of them. The film is a testament to the power of forgiveness and the way a mother's prayers can outlast years of pain. It's tender, honest, and rooted in the belief that redemption is always possible.</p>
-            <a href="/reviews/i-can-only-imagine-2018/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">5</div>
-          <div class="listicle-content">
-            <h3><a href="/reviews/war-room-2015/">War Room (2015)</a></h3>
-            <p>Elizabeth Jordan's marriage is falling apart, and a wise older woman named Miss Clara teaches her the most powerful thing she can do: pray. The Kendrick Brothers built this film around the conviction that a mother on her knees is the most formidable force in any household. It's direct, faith-forward, and genuinely moving, especially for moms who know what it means to fight for their family in the quiet.</p>
-            <a href="/reviews/war-room-2015/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">6</div>
-          <div class="listicle-content">
-            <h3>October Sky (1999)</h3>
-            <p>Homer Hickam wants to build rockets in a West Virginia coal town, and almost no one believes in him except his mother. Jake Gyllenhaal stars in this true story of ambition, perseverance, and the quiet, steady support a mother gives when the rest of the world says no. It's a reminder that a mom who believes in her child can change the entire trajectory of a life.</p>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">7</div>
-          <div class="listicle-content">
-            <h3><a href="/reviews/brave-the-dark-2025/">Brave the Dark (2024)</a></h3>
-            <p>Based on the true story of teacher Nate Hicks, who took in a troubled teen named James and gave him a home when no one else would, this film carries the unmistakable weight of real sacrifice. It asks what it truly means to show up for a child who isn't yours, and the answer it offers is thoroughly grounded in faith and grace. For moms who believe that love is a verb, this one will stay with you.</p>
+            <h3><a href="/reviews/brave-the-dark-2025/">Brave the Dark (2025)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 26.2</span>
+              <span class="score-badge woke">WOKE: 1.4</span>
+            </div>
+            <p>Based on the true story of teacher Nate Hicks, who took in a troubled teen named James and gave him a home when no one else would, this film carries the unmistakable weight of real sacrifice. It asks what it truly means to show up for a child who isn't yours, and the answer it offers is thoroughly grounded in faith and grace. For mothers who believe that love is a verb, this one will stay with you. See the <a href="/reviews/brave-the-dark-2025/">full VirtueVigil review of Brave the Dark</a>.</p>
             <a href="/reviews/brave-the-dark-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
-
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/father-stu-2022/">Father Stu (2022)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 21.8</span>
+              <span class="score-badge woke">WOKE: 2.0</span>
+            </div>
+            <p>This is the story of Stu Long, a boxer who becomes a Catholic priest and then deteriorates from a rare disease, and his mother's faith sustains both of them through suffering that has no easy answers. Mel Gibson directs with unflinching honesty about pain and redemption. The relationship between mother and son becomes the spiritual core of the film, showing what it means to love someone through unbearable loss. Rated R for language and mature content, but one of the most spiritually serious family dramas ever made. Get the <a href="/reviews/father-stu-2022/">full VirtueVigil review of Father Stu</a>.</p>
+            <a href="/reviews/father-stu-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/song-sung-blue-2025/">Song Sung Blue (2025)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 22.5</span>
+              <span class="score-badge woke">WOKE: 3.6</span>
+            </div>
+            <p>A family dealing with addiction, disability, mental illness, and death discovers that love and commitment are the only things that matter when everything else falls apart. This film is emotionally heavy but never nihilistic. The mother's work holding a broken family together while caring for a disabled son is portrayed as genuinely heroic. There is no easy redemption, but there is grace, and that grace comes through maternal love that refuses to quit. Read the <a href="/reviews/song-sung-blue-2025/">full VirtueVigil review of Song Sung Blue</a>.</p>
+            <a href="/reviews/song-sung-blue-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h3><a href="/reviews/paddington-in-peru-2025/">Paddington in Peru (2025)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 22.5</span>
+              <span class="score-badge woke">WOKE: 8.4</span>
+            </div>
+            <p>The third Paddington film takes the series to Peru, where Paddington searches for his Aunt Lucy, the maternal figure who raised him and shaped his kindness. The entire emotional architecture of this film is about honoring mothers and maternal figures, about gratitude for the people who teach us how to love, and about the lengths we will go to find our way home to them. Wholesome family adventure cinema at its best. See the <a href="/reviews/paddington-in-peru-2025/">full VirtueVigil review of Paddington in Peru</a>.</p>
+            <a href="/reviews/paddington-in-peru-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
         <li class="listicle-item">
           <div class="listicle-rank">8</div>
           <div class="listicle-content">
-            <h3>Little Women (1994)</h3>
-            <p>Gillian Armstrong's adaptation of Louisa May Alcott's classic is warm, spirited, and anchored by Susan Sarandon's luminous turn as Marmee March. She raises four daughters through poverty and her husband's absence during the Civil War with a dignity and moral clarity that the story never undercuts. The March girls are shaped entirely by their mother's example, and the film makes that inheritance feel like the greatest gift any woman could leave.</p>
+            <h3><a href="/reviews/greatest-showman-2017/">The Greatest Showman (2017)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 20.6</span>
+              <span class="score-badge woke">WOKE: 7.3</span>
+            </div>
+            <p>Hugh Jackman plays P.T. Barnum, a man obsessed with his dreams, and Michelle Williams plays his wife, Charity. The entire plot is about a woman who stands by her man through poverty and ambition, through failure and success, and never stops loving him even when he loses sight of what actually matters. The film's most powerful scene is when Charity finally says enough and walks away, forcing Barnum to remember that his family is the real show. For mothers and wives, this is a portrait of someone choosing love over comfort. Get the <a href="/reviews/greatest-showman-2017/">full VirtueVigil review of The Greatest Showman</a>.</p>
+            <a href="/reviews/greatest-showman-2017/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
-
         <li class="listicle-item">
           <div class="listicle-rank">9</div>
           <div class="listicle-content">
-            <h3><a href="/reviews/courageous-2011/">Courageous (2011)</a></h3>
-            <p>Four law enforcement officers make a covenant to be better fathers, and the film unflinchingly argues that engaged, intentional fatherhood is one of the most important things a man can do. For moms, this one hits differently: it's a validation of everything they've been doing alone, and a vision of what partnership in parenting is supposed to look like. Another Kendrick Brothers production that isn't afraid to say what it believes.</p>
-            <a href="/reviews/courageous-2011/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <h3><a href="/reviews/forrest-gump-1994/">Forrest Gump (1994)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 17.1</span>
+              <span class="score-badge woke">WOKE: 3.0</span>
+            </div>
+            <p>Mrs. Gump is played by Sally Field as a woman who refuses to let her son's limitations define him. She believes in him when no one else does, pushes him to be better, and loves him with an intensity that is both fierce and unshakeable. Forrest's entire moral foundation comes from his mother's example of perseverance, kindness, and faith. The film is a love letter to mothers who believe their children are capable of greatness. Read the <a href="/reviews/forrest-gump-1994/">full VirtueVigil review of Forrest Gump</a>.</p>
+            <a href="/reviews/forrest-gump-1994/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
-
         <li class="listicle-item">
           <div class="listicle-rank">10</div>
           <div class="listicle-content">
-            <h3><a href="/reviews/miracles-from-heaven-2016/">Miracles from Heaven (2016)</a></h3>
-            <p>Annabel Beam falls into a hollow tree and comes back changed, claiming she visited Heaven and spoke with Jesus. Jennifer Garner plays her mother, Christy, a woman who watches her daughter suffer through a rare digestive disorder and nearly loses her faith before a miracle rebuilds it. This film is emotionally honest about how hard it is to trust God in the middle of crisis, and how overwhelming it is when He shows up anyway.</p>
-            <a href="/reviews/miracles-from-heaven-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+            <h3><a href="/reviews/coco-2017/">Coco (2017)</a></h3>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 18.3</span>
+              <span class="score-badge woke">WOKE: 4.0</span>
+            </div>
+            <p>This animated film about a boy journeying into the Land of the Dead to find his great-great-grandmother Coco is built on the foundational truth that mothers and grandmothers are the keepers of family history and moral continuity. Coco herself speaks very little, but her presence shapes everything. The entire story is about honoring the women who came before us, about how a grandmother's legacy survives in memory and love, and about showing up for family across generations. For moms and the daughters who will become moms, this is essential. See the <a href="/reviews/coco-2017/">full VirtueVigil review of Coco</a>.</p>
+            <a href="/reviews/coco-2017/" class="listicle-cta">Read Full VirtueVigil Review</a>
           </div>
         </li>
-
       </ol>
-
       <div class="listicle-conclusion">
         <h3>Honoring the Work</h3>
-
         <p>The movies on this list have something in common beyond their faith-friendly content: they all take motherhood seriously. They treat a mother's love, sacrifice, and moral courage as forces that genuinely shape the world. In an era when Hollywood often reduces mothers to background characters or sideline figures, these films place them at the center where they belong.</p>
-
         <p>Watch them with your mom, watch them for yourself, or save them for when you need to remember why the work of raising a family is always worth it.</p>
-
         <p>VirtueVigil scores films using the VVWS v1.1 methodology, which weights trope prevalence, narrative arc outcomes, creative team analysis, and thematic messaging. Every film on this list with a full review includes complete scoring breakdowns, parental guidance, and cultural context. Browse all reviews or explore more picks on our <a href="/lists/">lists page</a>. Mother's Day comes once a year. Make it count.</p>
       </div>
     </article>`
@@ -17220,6 +17260,15 @@ function buildAudienceVsCriticScoresListicle() {
     canonicalPath: 'lists/best-movies-for-teenagers-non-woke-2026',
     publishDate: '2026-04-06',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-movies-for-teenagers-non-woke-2026/index.html'), 'utf-8')
+  }));
+
+  writePage('lists/best-true-story-movies-conservatives/index.html', buildListiclePage({
+    slug: 'best-true-story-movies-conservatives',
+    title: 'Best Conservative Movies Based on True Stories: 10 Films That Prove Reality Still Beats Fiction',
+    description: 'Ten biographical and historical films with the highest traditional values scores: Reagan, American Sniper, Miracle, Passion of the Christ, and more. Real stories, no agenda.',
+    canonicalPath: 'lists/best-true-story-movies-conservatives',
+    publishDate: '2026-04-06',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-true-story-movies-conservatives/content.html'), 'utf-8')
   }));
 
   // --- Lists Hub Page ---
