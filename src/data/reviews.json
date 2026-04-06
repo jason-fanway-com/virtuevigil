@@ -106812,11 +106812,7 @@
     "title": "Scream 7",
     "year": 2026,
     "type": "film",
-    "genre": [
-      "Horror",
-      "Slasher",
-      "Mystery"
-    ],
+    "genre": "Horror / Slasher / Mystery",
     "date": "2026-02-27",
     "datePublished": "2026-04-06",
     "author": "VirtueVigil Editorial Team",
