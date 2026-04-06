@@ -1765,6 +1765,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-movies-for-dads-fathers-day/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-movies-for-moms-mothers-day/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-patriotic-war-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-movies-about-education-teaching/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/christopher-nolan-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/tarantino-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/tom-hanks-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
@@ -2680,6 +2681,7 @@ function buildListsHubPage() {
         'best-movies-for-dads-fathers-day',
         'best-movies-for-moms-mothers-day',
         'best-movies-to-watch-april-2026',
+        'best-movies-about-education-teaching',
         'best-family-values-movies-all-time',
         'best-non-woke-romance-movies',
         'best-thriller-movies-2024',
@@ -2786,6 +2788,7 @@ function buildListsHubPage() {
       'best-patriotic-war-movies': 'Best Patriotic War Movies That Still Honor Sacrifice (No Agenda)',
       'best-movies-for-teenagers-non-woke-2026': 'Best Movies for Teenagers (Non-Woke) 2026: Parent-Approved Picks',
       'best-movies-to-watch-april-2026': 'Best Movies to Watch in April 2026 (Ranked by Values)',
+      'best-movies-about-education-teaching': 'Best Movies About Education and Teaching (Ranked by Values)',
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories'
     };
     if (special[slug]) return special[slug];
@@ -17409,6 +17412,15 @@ function buildAudienceVsCriticScoresListicle() {
 
       <p style="margin-top:32px;color:#a0a0a8;font-size:0.9rem;"><strong>Want to know which April 2026 releases to avoid?</strong> Browse our complete review database at <a href="/">VirtueVigil.com</a> for full trope audits, creative team profiles, parental guidance, and detailed scores for every film. Subscribe for weekly Woke Trap alerts and community discussion.</p>
     </article>`
+  }));
+
+  writePage('lists/best-movies-about-education-teaching/index.html', buildListiclePage({
+    slug: 'best-movies-about-education-teaching',
+    title: 'Best Movies About Education and Teaching (Ranked by Values)',
+    description: 'Ten films about teaching, mentorship, and education that honor learning and wisdom. From Hoosiers to Good Will Hunting to Brave the Dark, these are the films that get education right.',
+    canonicalPath: 'lists/best-movies-about-education-teaching',
+    publishDate: '2026-04-06',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-movies-about-education-teaching/content.html'), 'utf-8')
   }));
 
   writePage('lists/best-true-story-movies-conservatives/index.html', buildListiclePage({
