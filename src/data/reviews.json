@@ -107074,5 +107074,75 @@
       "verdict_explanation": "WOKE LEAN (-3 WOKE) in -3 to -9 range. Not WOKE (-10-19) because traditional elements present though subverted. Not MIXED (-2 to +2) because woke content (8.4) substantially outweighs traditional (5.1). Film explicitly progressive and unapologetic.",
       "bottom_line": "For audiences who agree with progressive critique of celebrity, capitalism, complicity: film works. For conservative audiences or those seeking entertainment: film is betrayal dressed in transgression. Woke trap real. Nihilistic conclusion alienates even progressive viewers expecting catharsis. Box office reflects audience rejection."
     }
+  },
+  {
+    "id": "love-hurts-2025",
+    "slug": "love-hurts-2025",
+    "title": "Love Hurts",
+    "year": 2025,
+    "type": "film",
+    "genre": "Action Comedy / Crime Thriller",
+    "date": "2025-02-07",
+    "datePublished": "2026-04-06",
+    "author": "Destiny (VirtueVigil)",
+    "readTime": "12 min",
+    "poster": "/images/posters/love-hurts-2025.jpg",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 3.6,
+    "tradScore": 10.2,
+    "scoreMargin": "+6 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "externalScores": {
+      "rottenTomatoesCritic": 31,
+      "rottenTomatoesAudience": 54,
+      "imdb": 5.3,
+      "metacritic": 33,
+      "budget": "$18M",
+      "globalBoxOffice": "$17.6M",
+      "platformRelease": "Theatrical (Universal), February 7, 2025"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Jonathan Eusebio",
+        "ideology": "NEUTRAL",
+        "profile": "Feature directorial debut. Straightforward action-comedy approach. No strong ideological positioning. Genre conventions executed competently."
+      },
+      "writer": {
+        "name": "Matthew Murray, Josh Stoddard, Luke Passmore (Screenplay)",
+        "profile": "Three writers balanced action, comedy, character. Avoids both heavy-handed messaging and empty spectacle. Knows what it is and executes without pretension."
+      },
+      "top_cast": [
+        {
+          "name": "Ke Huy Quan",
+          "role": "Marvin Gable"
+        },
+        {
+          "name": "Ariana DeBose",
+          "role": "Rose Carlisle"
+        },
+        {
+          "name": "Daniel Wu",
+          "role": "Knuckles Gable"
+        }
+      ]
+    },
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "No woke trap. Film straightforward about content. Diverse cast does not function as vehicle for progressive messaging. Female character (Rose) is action hero and plot driver, but not positioned as political statement. Romantic storyline genuine and central to redemption arc. No hidden progressive critique. Committed to genre conventions throughout."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13 (Action Violence, Language)",
+      "recommendedAge": "13+",
+      "guidance": "Appropriate for teens 13+ and adults. Action violence stylized not graphic. Tone light and comedic. Film does not glorify violence; shows consequences. Mainstream action-comedy respecting PG-13 rating. Treats character's redemption seriously. Romantic storyline touching. Recommended for families who enjoy action movies."
+    },
+    "summary": {
+      "headline": "Love Hurts is a solid B-movie that knows exactly what it is. Ke Huy Quan carries it with charm and commitment.",
+      "overview": "Released February 7, 2025. Box office $17.6M worldwide on $18M budget. Modest underperformance, not catastrophic. Critics ungenerous (31% RT), audiences more forgiving (54%). Straightforward action-comedy about former hitman trying to leave crime, drawn back by estranged brother and woman he loves. Executes genre conventions competently without pretension or distinctive vision.",
+      "woke_analysis": "Scores 3.6. Three woke elements: female action hero (2.0, framed as plot necessity not politics), diverse casting (0.7, serving story), implicit crime-is-bad (0.7, standard genre). None dominates or serves progressive agenda. Woke score low and transparent.",
+      "trad_analysis": "Scores 10.2. Five traditional tropes: redemption through changed behavior (5.04), male loyalty and brotherhood (4.2), mentorship and paternal guidance (1.4), romantic love as redemptive (3.3), competence as masculine virtue (1.4). Each organically embedded and central to Marvin's arc. Film treats redemption as earned through sustained choice, masculine competence as admirable, romantic love as transformative. Traditional values clearly articulated.",
+      "verdict_explanation": "TRADITIONAL LEAN (+6 TRAD) in +3 to +9 range. Not TRADITIONAL (+10-19) because woke elements though minimal present. Not MIXED (-2 to +2) because traditional content too central. Clearly traditional in moral framework: redemption through earned change, loyalty, mentorship, romantic love, masculine competence. TRADITIONAL LEAN accurate.",
+      "bottom_line": "Love Hurts is kind of film dismissed by critics, enjoyed by audiences. Understands what it is: fun action-comedy about good man forced back into violence protecting loved ones. Does not pretend to be more. Does not attempt social commentary. Tells redemption story with strong lead and solid action. For audiences seeking entertainment treating traditional values seriously: delivers without preaching. Not sophisticated cinema, but honest cinema."
+    }
   }
 ]

@@ -5754,6 +5754,18 @@
     "poster": "/images/posters/1923-s2.jpg"
   },
   {
+    "slug": "butterfly-dreams-2026",
+    "title": "Butterfly Dreams",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Coming-of-Age Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 18.4,
+    "tradScore": 11.2,
+    "poster": "/images/posters/butterfly-dreams-2026.jpg"
+  },
+  {
     "slug": "carry-on-2024",
     "title": "Carry-On",
     "verdict": "TRADITIONAL",
@@ -5775,18 +5787,6 @@
     "poster": "/images/posters/scream-7-2026.jpg"
   },
   {
-    "slug": "butterfly-dreams-2026",
-    "title": "Butterfly Dreams",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Coming-of-Age Drama",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 18.4,
-    "tradScore": 11.2,
-    "poster": "/images/posters/butterfly-dreams-2026.jpg"
-  },
-  {
     "slug": "opus-2025",
     "title": "Opus",
     "verdict": "WOKE LEAN",
@@ -5796,5 +5796,16 @@
     "wokeScore": 8.4,
     "tradScore": 5.1,
     "poster": "/images/posters/opus-2025.jpg"
+  },
+  {
+    "slug": "love-hurts-2025",
+    "title": "Love Hurts",
+    "verdict": "TRADITIONAL LEAN",
+    "genre": "Action Comedy / Crime Thriller",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 3.6,
+    "tradScore": 10.2,
+    "poster": "/images/posters/love-hurts-2025.jpg"
   }
 ]
