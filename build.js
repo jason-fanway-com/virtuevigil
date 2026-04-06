@@ -2679,6 +2679,7 @@ function buildListsHubPage() {
         'best-faith-movies-2024',
         'best-movies-for-dads-fathers-day',
         'best-movies-for-moms-mothers-day',
+        'best-movies-to-watch-april-2026',
         'best-family-values-movies-all-time',
         'best-non-woke-romance-movies',
         'best-thriller-movies-2024',
@@ -2784,6 +2785,7 @@ function buildListsHubPage() {
       'anti-woke-action-movies': 'Anti-Woke Action Movies',
       'best-patriotic-war-movies': 'Best Patriotic War Movies That Still Honor Sacrifice (No Agenda)',
       'best-movies-for-teenagers-non-woke-2026': 'Best Movies for Teenagers (Non-Woke) 2026: Parent-Approved Picks',
+      'best-movies-to-watch-april-2026': 'Best Movies to Watch in April 2026 (Ranked by Values)',
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories'
     };
     if (special[slug]) return special[slug];
@@ -17260,6 +17262,153 @@ function buildAudienceVsCriticScoresListicle() {
     canonicalPath: 'lists/best-movies-for-teenagers-non-woke-2026',
     publishDate: '2026-04-06',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-movies-for-teenagers-non-woke-2026/index.html'), 'utf-8')
+  }));
+
+  writePage('lists/best-movies-to-watch-april-2026/index.html', buildListiclePage({
+    slug: 'best-movies-to-watch-april-2026',
+    title: 'Best Movies to Watch in April 2026 (Ranked by Values)',
+    description: 'Ten standout releases in April 2026 ranked by VirtueVigil scores. From sci-fi to crime drama to family animation, these are the films worth your time this month.',
+    canonicalPath: 'lists/best-movies-to-watch-april-2026',
+    publishDate: '2026-04-06',
+    htmlContent: `<article class="listicle-article">
+      <p>April 2026 brings a diverse slate of releases, and VirtueVigil is here to help you cut through the noise. Not all April releases are created equal, and the traditional values score tells the story. This list ranks ten standout films and shows premiering in April 2026 by their VirtueVigil scores, using our standardized methodology that measures the density of woke versus traditional content.</p>
+
+      <p>Whether you are looking for sci-fi with substance, crime drama with teeth, animated adventure for the whole family, or something that will make you think, this list has been filtered for quality and values alignment. Rankings are sorted by score margin (Traditional minus Woke), highest to lowest. All reviews include full trope breakdowns, creative team analysis, and parental guidance.</p>
+
+      <hr>
+
+      <h2>#1: A Great Awakening (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 28.7</span>
+        <span class="mini-score woke">WOKE: 0.35</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +28.35 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> History/Drama/Faith &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>A Great Awakening arrives with the strongest traditional values alignment of any April 2026 release. A historical drama about spiritual revival with minimal ideological friction (woke score of just 0.35), this film is built for audiences seeking storytelling that respects both historical truth and faith-centered values. At 28.7 traditional score versus 0.35 woke score, the margin is elite territory. Families and faith-focused viewers will find this one rewarding.</p>
+      <p><a href="/reviews/a-great-awakening-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#2: Exit 8 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 31.64</span>
+        <span class="mini-score woke">WOKE: 0.7</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +30.94 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Horror/Mystery/Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Exit 8 is a psychological horror-thriller that builds its moral framework on character accountability and consequence rather than ideology. A man on a subway platform observes cruelty and must decide how to respond. That decision ripples across everything that follows. With a traditional score of 31.64 and a woke score of just 0.7, this film respects viewer intelligence and refuses to lecture. For horror enthusiasts seeking substance over spectacle, this is the April standout.</p>
+      <p><a href="/reviews/exit-8-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#3: Project Hail Mary (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 26.88</span>
+        <span class="mini-score woke">WOKE: 6.05</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20.83 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>A man wakes alone on a spacecraft with no memory. He ends by choosing to stay in a distant solar system because someone else needs him more than Earth does. Project Hail Mary opens and closes with sacrifice as its governing value. The 20.83-point margin (26.88 traditional to 6.05 woke) reflects a sci-fi film that treats individual agency, problem-solving ingenuity, and putting others first as the bedrock of heroism. For sci-fi fans seeking substance over woke messaging, this delivers.</p>
+      <p><a href="/reviews/project-hail-mary/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#4: Peaky Blinders: The Immortal Man (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 28.0</span>
+        <span class="mini-score woke">WOKE: 5.0</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime/Drama/History &bull; <strong>Platform:</strong> Theatrical/Netflix</p>
+      <p>Six seasons of television made a promise. This film delivers on it. A masculine, violent, morally complex crime drama about a deeply flawed man who comes out of hiding to save his son, fight fascists, and protect his family during Britain's darkest hour. The 23-point traditional margin reflects exactly what the series has always been built on: family loyalty as the ultimate value, masculine sacrifice as the defining act of character, and the conviction that protecting what you love justifies costs that polite society prefers not to calculate. Cillian Murphy gives a career-defining performance in a worthy finale.</p>
+      <p><a href="/reviews/peaky-blinders-the-immortal-man-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#5: The Night Agent: Season 3 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 38.0</span>
+        <span class="mini-score woke">WOKE: 22.0</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Political Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Three seasons in, The Night Agent remains Netflix's most conservative-friendly prestige action series. Gabriel Basso's Peter Sutherland is the kind of American hero Hollywood keeps trying to talk itself out of: steady, sacrifice-minded, morally accountable, and defined by what he protects rather than who he is. A traditional score of 38 against a woke score of 22 reflects awareness of contemporary content expectations but not control by them. The action is excellent. The character work is earned. This show gets canceled because it is too good at being what it is.</p>
+      <p><a href="/reviews/night-agent-s3-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#6: Shelter (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 32.0</span>
+        <span class="mini-score woke">WOKE: 9.0</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Jason Statham plays a former government agent who becomes the protector of a family under threat, and the film builds its entire architecture around that premise without apology. A trad score of 32 is among the highest in the 2026 database, reflecting a film that takes masculine protection, duty, and self-sacrifice seriously as organizing values rather than as outdated concepts to interrogate. Shelter is not complicated. It is clear. The conservative action audience that has been waiting for something straightforward to cheer for should put this at the top of their list.</p>
+      <p><a href="/reviews/shelter-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#7: The Mummy (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 24.08</span>
+        <span class="mini-score woke">WOKE: 2.0</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +22.08 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Supernatural &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>A franchise with complicated history gets a refreshed take that respects what made the 1999 Sommers version work: adventure, charm, practical effects, and a willingness to let characters earn their victories through ingenuity rather than ideology. The 22-point traditional margin signals a horror film built on classical storytelling values: courage in the face of the unknown, protagonists who solve problems through wit and resilience, and consequences that matter. This is the horror film for audiences tired of contemporary genre messaging.</p>
+      <p><a href="/reviews/the-mummy-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#8: Super Mario Galaxy Movie (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 16.58</span>
+        <span class="mini-score woke">WOKE: 6.72</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16.55 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated/Adventure/Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The sequel to the $1.36 billion juggernaut that proved Nintendo's plumber could carry a Hollywood franchise. It delivers more of what made the first film a phenomenon: kinetic fan service, Jack Black's scene-stealing energy, and a clean adventure that never lectures the audience. The 16.55-point margin (16.58 traditional to 6.72 woke) reflects a family film that respects its source material and trusts its audience to enjoy spectacle without agenda. For families seeking entertainment over messaging, this lands.</p>
+      <p><a href="/reviews/super-mario-galaxy-movie-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#9: Hoppers (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">WOKE LEAN</span>
+        <span class="mini-score woke">WOKE: 17.08</span>
+        <span class="mini-score trad">TRAD: 11.34</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: -5.74 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated/Adventure/Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Hoppers represents a genuine return to form for a studio that had been coasting on nostalgia sequels and misfires. Director Brian Fee has made something emotionally alive: a film that earns its tears, lands its jokes, and creates characters you actually care about. Yes, it carries woke lean messaging (17.08 vs 11.34 trad), but the film's emotional core and technical craft elevate it above simple agenda. This is included on the April 2026 list because storytelling that works transcends its politics. Not a traditional values film, but a film worth watching regardless.</p>
+      <p><a href="/reviews/hoppers-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#10: The Optimist (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 24.82</span>
+        <span class="mini-score woke">WOKE: 3.01</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +21.81 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama/Biography &bull; <strong>Platform:</strong> Theatrical (Limited)</p>
+      <p>The kind of film that should not need a culture war review. The Optimist is a small, independent drama about Holocaust survivor Herbert Heller who kept his past secret for 60 years until friendship gave him courage to speak. It is not loud. It is not political. It is a story about what courage looks like when the danger has passed but the wounds have not: an old man deciding, late in life, that truth is worth the cost of telling it. A woke score of 3.01 confirms what the premise suggests. The film is simply trying to honor a story worth honoring. In April 2026, that alone is enough to land in the top 10.</p>
+      <p><a href="/reviews/the-optimist-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <p style="margin-top:32px;color:#a0a0a8;font-size:0.9rem;"><strong>Want to know which April 2026 releases to avoid?</strong> Browse our complete review database at <a href="/">VirtueVigil.com</a> for full trope audits, creative team profiles, parental guidance, and detailed scores for every film. Subscribe for weekly Woke Trap alerts and community discussion.</p>
+    </article>`
   }));
 
   writePage('lists/best-true-story-movies-conservatives/index.html', buildListiclePage({
