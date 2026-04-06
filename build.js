@@ -1770,6 +1770,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-action-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/hbo-max-shows-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/comedy-movies-woke-ranking-2024/`, changefreq: 'monthly', priority: '0.8' },
@@ -2604,7 +2605,7 @@ ${pageScripts()}
 
 function buildListsHubPage() {
   const title = 'Browse All Movie Lists';
-  const description = '71 movie lists ranked by woke score, director, streaming platform, and genre. Find the best and most woke movies of 2024, 2025, and beyond.';
+  const description = '72 movie lists ranked by woke score, director, streaming platform, and genre. Find the best and most woke movies of 2023, 2024, 2025, and beyond.';
   const canonical = `${SITE_URL}/lists/`;
 
   const categories = [
@@ -2669,6 +2670,7 @@ function buildListsHubPage() {
         'best-family-values-movies-all-time',
         'best-non-woke-romance-movies',
         'best-thriller-movies-2024',
+        'best-traditional-movies-2023',
         'best-traditional-movies-2024',
         'best-traditional-movies-2025',
         'most-traditional-movies-2025',
@@ -9391,6 +9393,7 @@ buildWokeHorrorMovies2025Listicle();
 buildDisneyPlusWokeRankingListicle();
 buildNetflixWokeRankedListicle();
 buildAmazonPrimeWokeRankingListicle();
+buildBestTraditionalMovies2023Listicle();
 buildBestTraditionalMovies2024Listicle();
 buildMostWokeMovies2022Listicle();
 buildDateNightMoviesListicle();
@@ -12549,6 +12552,207 @@ function buildAmazonPrimeWokeRankingListicle() {
       <div class="listicle-conclusion">
         <h3>The Amazon Prime Verdict</h3>
         <p>Amazon's content strategy is less bifurcated than Netflix's but still uneven. The Terminal List and The Accountant 2 anchor the strongly traditional end with margins above plus 20. Road House, Air, and Guy Ritchie's The Covenant fill out a solid traditional middle tier. The woke end is led by Nickel Boys, a film built entirely on racial justice framing, and Civil War, which uses deliberate moral ambiguity in ways that skew progressive. The most useful takeaway: Amazon's action output reliably skores traditional, while its prestige and art-house acquisitions reliably skew woke. Browse all Amazon reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or see the full platform comparison on the <a href="/lists/">lists page</a>.</p>
+      </div>
+    </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Best Traditional Movies of 2024
+// ============================================
+// ============================================
+// LISTICLE: Best Traditional Movies of 2023
+// ============================================
+function buildBestTraditionalMovies2023Listicle() {
+  writePage('lists/best-traditional-movies-2023/index.html', buildListiclePage({
+    slug: 'best-traditional-movies-2023',
+    title: 'Best Traditional Movies of 2023 (Ranked by Values Score)',
+    description: 'Looking for the best traditional movies of 2023? VirtueVigil scores every film by values — here are the top 10 picks for conservative families.',
+    canonicalPath: 'lists/best-traditional-movies-2023',
+    publishDate: '2026-04-06',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>2023 was an anomaly in recent Hollywood history. While the industry continued its ideological acceleration, a significant portion of the year's theatrical releases scored heavily on the traditional side of VirtueVigil's dual-scoring system. This was not because the studios suddenly had a change of heart. It was because some of the year's biggest films came from directors and producers who still believed in telling stories about duty, sacrifice, family, and earned competence without irony or deconstruction.</p>
+
+        <p>VirtueVigil scored every 2023 release in our database using the Woke-Watch Scoring System (VVWS v1.1), a dual-scale methodology that measures both progressive ideological content (Woke Score, 0-100) and traditional values content (Traditional Score, 0-50). The net traditional margin is the difference between the two. A film with a Traditional Score of 31 and a Woke Score of 1.4 earns a net margin of 29.6 points in favor of traditional values. That margin tells you something concrete about what the filmmakers prioritized.</p>
+
+        <p>This list ranks the top 10 films released in 2023 by their Traditional Score, from highest to lowest. Every film reviewed here has been scored by VirtueVigil analysts using the full VVWS v1.1 methodology. No editorial preferences. The data made this list. Each entry links to the full review where you can read the complete trope audit, parental guidance recommendations, creative team profiles, and detailed score breakdowns.</p>
+
+        <p>These 10 films represent 2023's best offerings for traditional families. If you are looking for movies you can watch with your kids without encountering hidden ideological ambushes, this is the list to start with.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/society-of-the-snow-2023/">Society of the Snow (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 31.99</span>
+              <span class="score-badge woke">WOKE: 1.4</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +30.59 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Drama, Biography, Adventure <bullet> <strong>Director:</strong> J.A. Bayona <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>There are films that remind you what cinema can do when it stops trying to be clever. J.A. Bayona's account of the 1972 Andes plane crash lands with the weight of genuine consequence. The film does not flinch from the moral weight of survival: the men who crashed must decide what they will become in the aftermath, and their choices echo with permanent force. The story is built on themes of perseverance, personal responsibility, sacrifice, and the bonds between men tested by impossible circumstance. With a Traditional Score of 31.99 and a Woke Score of just 1.4, this is the highest net traditional margin of any 2023 film in VirtueVigil's database. It is also one of the most cinematically powerful films of the year.</p>
+            <a href="/reviews/society-of-the-snow-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 30.8</span>
+              <span class="score-badge woke">WOKE: 4.2</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +26.6 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action, Drama <bullet> <strong>Director:</strong> Alejandro Monteverde <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>Sound of Freedom sat on studio shelves for years before finally reaching audiences in 2023. The film tells the true story of Tim Ballard, a former government agent who builds an organization to rescue children from human traffickers. What makes this film noteworthy is its refusal to apologize for depicting heroism as heroism. Ballard is not a complicated antihero. He is a man doing dangerous work because children matter more than his own safety. The film treats that straightforward moral clarity as the entire point of the narrative. With a Traditional Score of 30.8 and a Woke Score of 4.2, Sound of Freedom presents duty, sacrifice, and masculine competence in service of protecting the vulnerable as genuinely valuable. That is traditional cinema in 2023.</p>
+            <a href="/reviews/sound-of-freedom-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/fast-x-2023/">Fast X (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 26.46</span>
+              <span class="score-badge woke">WOKE: 6.1</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +20.36 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action, Adventure <bullet> <strong>Director:</strong> Louis Leterrier <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>After two entries that lost narrative cohesion entirely, Fast X arrived as a genuine course correction for the franchise. The film returns to what the Fast and Furious saga has always been at its core: a maximalist action spectacle built around the unironic belief that family is the most powerful force in the universe. The movie does not apologize for this conviction. It doubles down. Loyalty, sacrifice, and the bonds between chosen family members are not incidental to the plot. They are the entire reason the plot exists. With a Traditional Score of 26.46 and a Woke Score of 6.1, Fast X demonstrates that traditional values content is still viable in mainstream action cinema when filmmakers commit to it without contradiction or subtext.</p>
+            <a href="/reviews/fast-x-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/godzilla-minus-one-2023/">Godzilla Minus One (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 24.78</span>
+              <span class="score-badge woke">WOKE: 5.6</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +19.18 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action, Drama, Sci-Fi <bullet> <strong>Director:</strong> Takashi Yamazaki <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>Godzilla Minus One is the best Godzilla film made in decades and one of the most traditionally coded action films of recent memory. The story centers on Koichi Shikishima, a kamikaze pilot who survived by choosing not to die, now trying to rebuild his life in postwar Japan. The film is ultimately about personal redemption, the responsibility to protect those you love, and the moral weight of second chances. Duty is not something imposed from above. It is something you choose because the alternative is abandonment. With a Traditional Score of 24.78 and a Woke Score of 5.6, this Japanese production proved that traditional filmmaking has a genuine global audience willing to support it when it is done with craft and seriousness.</p>
+            <a href="/reviews/godzilla-minus-one-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/john-wick-chapter-4-2023/">John Wick: Chapter 4 (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 23.52</span>
+              <span class="score-badge woke">WOKE: 0.5</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +23.02 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action, Crime, Thriller <bullet> <strong>Director:</strong> Chad Stahelski <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>Seven films into the action genre's increasingly nihilistic era, John Wick: Chapter 4 remains one of the cleanest, most traditional-values-aligned films in contemporary cinema. Chad Stahelski's nearly three-hour epic scales everything that made the first film work to operatic proportions without losing the personal stakes at its core. The film's moral architecture is unmistakable: loyalty is sacred, betrayal is unforgivable, and a man's word is his bond even when keeping it costs everything. With a Woke Score of just 0.5, this is among the lowest ideological content scores in VirtueVigil's entire database. It is also one of the best action films made in the last decade.</p>
+            <a href="/reviews/john-wick-chapter-4-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/indiana-jones-dial-of-destiny-2023/">Indiana Jones and the Dial of Destiny (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge trad">TRAD: 22.7</span>
+              <span class="score-badge woke">WOKE: 15.4</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +7.3 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action, Adventure <bullet> <strong>Director:</strong> James Mangold <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>Harrison Ford at 80 years old, digitally de-aged and then allowed to age again, tells the story of an Indiana Jones confronting the cost of time itself. Dial of Destiny carries genuine traditional content: a man passing the torch to the next generation, the weight of legacy, sacrifice for something beyond yourself. The film's wokeScore of 15.4 reflects some institutional distrust messaging and modern identity politics elements, but those do not overwhelm the core narrative. The film succeeds because it takes its protagonist seriously as a man, not a costume. With a Traditional Score of 22.7, Dial of Destiny sits in the upper half of 2023 releases, earning its place through commitment to character and consequence over ideology.</p>
+            <a href="/reviews/indiana-jones-dial-of-destiny-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gran-turismo-2023/">Gran Turismo (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 22.68</span>
+              <span class="score-badge woke">WOKE: 3.3</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +19.38 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Sports Drama, Action <bullet> <strong>Director:</strong> Neill Blomkamp <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>Gran Turismo is the kind of film Hollywood used to make with confidence: a true story about a young man who works harder than anyone else, earns the respect of skeptics, and achieves something that had never been done before. The narrative does not apologize for simplicity. It embraces it. A kid loves racing. He dedicates himself to mastery. Adults notice his dedication. He gets a chance. He seizes it. That is the entire arc, and the film trusts that arc to carry genuine emotional weight. With a Traditional Score of 22.68 and a Woke Score of just 3.3, Gran Turismo demonstrates that audiences still respond to stories built on earned competence and personal responsibility rather than grievance narratives or identity affirmation.</p>
+            <a href="/reviews/gran-turismo-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/creed-iii-2023/">Creed III (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 22.4</span>
+              <span class="score-badge woke">WOKE: 5.1</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +17.3 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Sports Drama <bullet> <strong>Director:</strong> Michael B. Jordan <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>Creed III is the best pure sports drama since Rocky II and the most traditionally values-aligned major film of 2023. Michael B. Jordan's directorial debut tells the story of Adonis Creed confronting the consequences of his past when a man he wronged returns seeking revenge. The film is fundamentally about redemption, personal responsibility, and the bonds of family forged through loyalty rather than blood. The narrative respects the competence of its male characters and their capacity for moral growth. With a Traditional Score of 22.4 and a Woke Score of just 5.1, Creed III proves that traditional storytelling still resonates at the box office when filmmakers commit to it authentically.</p>
+            <a href="/reviews/creed-iii-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/">Mission: Impossible - Dead Reckoning Part One (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 22.12</span>
+              <span class="score-badge woke">WOKE: 4.2</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +17.92 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action, Adventure, Thriller <bullet> <strong>Director:</strong> Christopher McQuarrie <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>Seven films in, Tom Cruise's Mission: Impossible franchise remains the gold standard for Hollywood action filmmaking. Dead Reckoning Part One is not just the best entry in the series, it is one of the best action films of the decade. What elevates it to traditional values territory is the film's treatment of duty as something sacred, sacrifice as meaningful, and loyalty as the ultimate measure of a person. The protagonist does the right thing not because the plot requires it but because his character demands it. The film does not second-guess that moral framework. With a Traditional Score of 22.12 and a Woke Score of 4.2, Dead Reckoning Part One represents what mainstream action cinema can accomplish when craft and traditional values align.</p>
+            <a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-covenant-2023/">Guy Ritchie's The Covenant (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge trad">TRAD: 21.28</span>
+              <span class="score-badge woke">WOKE: 5.67</span>
+              <span class="score-badge" style="color:var(--accent-amber);">NET: +15.61 TRAD</span>
+            </div>
+            <p class="listicle-meta"><strong>Genre:</strong> Action, War, Thriller <bullet> <strong>Director:</strong> Guy Ritchie <bullet> <strong>Platform:</strong> Theatrical</p>
+            <p>Guy Ritchie's The Covenant is one of the most traditionally coded war films of the 2020s and it got criminally overlooked at the box office. The story centers on US Army Sergeant John Kinley operating in Afghanistan, leading a unit hunting IED supply chains. When a key Afghan informant saves Kinley's life at cost of his own, Kinley spends the rest of the film trying to extract the man's family out of Taliban-controlled territory. The film's central moral argument is simple: your word is your bond, and no cost is too high to honor it. With a Traditional Score of 21.28 and a Woke Score of 5.67, The Covenant demonstrates that audiences still respond to stories about duty, sacrifice, and masculine competence in service of protecting the vulnerable, even in contemporary war cinema.</p>
+            <a href="/reviews/the-covenant-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>What 2023 Tells Us About Traditional Cinema</h3>
+
+        <p>Society of the Snow leads this list at plus 30.59, the highest traditional margin of any 2023 film in VirtueVigil's database. Sound of Freedom and Fast X follow, proving that traditional values content is viable across genres: prestige drama, action blockbuster, and franchise entertainment all scored strong traditional numbers when filmmakers committed authentically to them.</p>
+
+        <p>What connects these films is not budget, genre, or studio. What connects them is a consistent willingness to present duty, sacrifice, family, loyalty, and earned competence as genuinely valuable rather than problems to be deconstructed. None of these films apologize for their moral architecture. None of them hedge their values content with irony or subtext. They present traditional values straightforwardly and allow the audience to decide whether the story works.</p>
+
+        <p>The fact that 2023 produced ten films worthy of this list suggests that traditional cinema is not dead in Hollywood. It is just rarer, more deliberate, and more valuable when it appears. Browse all 2023 reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or compare this list with our rankings by year on our <a href="/lists/">lists page</a>. Every film reviewed here represents a concrete choice by filmmakers to prioritize values, craft, and audience respect over ideological preaching.</p>
       </div>
     </article>`
   }));
