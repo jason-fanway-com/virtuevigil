@@ -4482,27 +4482,6 @@
     "poster": "/images/posters/scream-7.jpg"
   },
   {
-    "slug": "carry-on-2024",
-    "title": "Carry-On",
-    "verdict": "TRADITIONAL",
-    "genre": "Action / Thriller",
-    "year": 2024,
-    "wokeScore": 3,
-    "tradScore": 20.23,
-    "poster": null
-  },
-  {
-    "slug": "scream-7-2026",
-    "title": "Scream 7",
-    "verdict": "MIXED",
-    "genre": "Horror / Slasher / Mystery",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 8.5,
-    "tradScore": 16.2,
-    "poster": "/images/posters/scream-7-2026.jpg"
-  },
-  {
     "slug": "sonic-the-hedgehog-3-2024",
     "title": "Sonic the Hedgehog 3",
     "verdict": "TRADITIONAL",
@@ -5775,6 +5754,27 @@
     "poster": "/images/posters/1923-s2.jpg"
   },
   {
+    "slug": "carry-on-2024",
+    "title": "Carry-On",
+    "verdict": "TRADITIONAL",
+    "genre": "Action / Thriller",
+    "year": 2024,
+    "wokeScore": 3,
+    "tradScore": 20.23,
+    "poster": null
+  },
+  {
+    "slug": "scream-7-2026",
+    "title": "Scream 7",
+    "verdict": "MIXED",
+    "genre": "Horror / Slasher / Mystery",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 8.5,
+    "tradScore": 16.2,
+    "poster": "/images/posters/scream-7-2026.jpg"
+  },
+  {
     "slug": "butterfly-dreams-2026",
     "title": "Butterfly Dreams",
     "verdict": "WOKE LEAN",
@@ -5785,5 +5785,16 @@
     "wokeScore": 18.4,
     "tradScore": 11.2,
     "poster": "/images/posters/butterfly-dreams-2026.jpg"
+  },
+  {
+    "slug": "opus-2025",
+    "title": "Opus",
+    "verdict": "WOKE LEAN",
+    "genre": "Horror Thriller / Dark Satire",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 8.4,
+    "tradScore": 5.1,
+    "poster": "/images/posters/opus-2025.jpg"
   }
 ]
