@@ -1760,6 +1760,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/woke-horror-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-sequels-more-woke-than-original/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/rotten-tomatoes-vs-virtuevigil/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-easter-family-movies/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-faith-based-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/christopher-nolan-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/tarantino-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
@@ -2665,6 +2666,7 @@ function buildListsHubPage() {
         'best-action-movies-2024',
         'best-conservative-movies',
         'best-drama-movies-conservatives-2024',
+        'best-easter-family-movies',
         'best-faith-based-movies',
         'best-faith-movies-2024',
         'best-family-values-movies-all-time',
@@ -2758,6 +2760,7 @@ function buildListsHubPage() {
       'clean-movies-for-kids-2024': 'Clean Movies for Kids 2024',
       'best-non-woke-romance-movies': 'Best Non-Woke Romance Movies',
       'family-friendly-movies-2024': 'Family-Friendly Movies 2024',
+      'best-easter-family-movies': 'Best Movies to Watch With Your Family at Easter (Non-Woke)',
       'best-faith-based-movies': 'Best Faith-Based Movies',
       'non-woke-action-movies-2024': 'Non-Woke Action Movies 2024',
       'non-woke-romance-movies': 'Non-Woke Romance Movies',
@@ -16549,6 +16552,133 @@ function buildAudienceVsCriticScoresListicle() {
 .listicle-conclusion a { color: #c9a84c; }
 @media (max-width: 600px) { .listicle-item { flex-direction: column; } .listicle-rank { width: 42px; height: 42px; font-size: 1rem; } }
 </style>
+</article>`
+  }));
+
+  writePage('lists/best-easter-family-movies/index.html', buildListiclePage({
+    slug: 'best-easter-family-movies',
+    title: 'Best Movies to Watch With Your Family at Easter (Non-Woke)',
+    description: 'Looking for family movies to watch this Easter? VirtueVigil ranks the best non-woke, faith-friendly films perfect for Easter weekend.',
+    canonicalPath: 'lists/best-easter-family-movies',
+    publishDate: '2026-04-06',
+    htmlContent: `<article class="listicle-article">
+
+<p>Easter weekend brings families together, and the search for something meaningful to watch is real. If you are looking for films that respect your faith, honor your family's values, and deliver genuine entertainment without apologizing for either, you have come to the right place. This list is built for families who want Easter viewing that does not spend its runtime deconstructing what you believe.</p>
+
+<p>We have gathered ten films ranging from biblical epics to contemporary faith stories to genuinely traditional cinema suitable for Easter viewing. Some are explicitly Christian. Others are simply built around values that will not ambush you during the second act. All of them earned their place by respecting what families looking for them actually want: stories about redemption, sacrifice, faith, and the triumph of the human spirit when grounded in something larger than itself.</p>
+
+<p>VirtueVigil scored each film using our full Woke-Watch Scoring System, measuring traditional values content against progressive ideology. For titles in our database, you will find full reviews with complete scoring breakdowns. For guest picks not yet reviewed, we have noted that full analyses are coming. Every film links to its VirtueVigil review page where available.</p>
+
+<hr>
+
+<h2>#10 - I Can Only Imagine 2 (2026)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 0.0</span>
+  <span class="score-badge trad-score">Traditional Score: 8.0</span>
+  <span class="score-badge verdict-traditional">TRADITIONAL LEAN</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Drama/Music &bull; <strong>Platform:</strong> Theatrical &bull; <strong>MPAA:</strong> PG</p>
+<p>The sequel to the faith-based phenomenon arrives eight years later with more ambition and emotional weight. John Michael Finley returns as Bart Millard, frontman of MercyMe, facing a new crisis: his oldest son struggling with type 1 diabetes, and Bart's own creative drought. The film follows Bart learning to let go and trust God with his son's future rather than control every outcome through parental fear. Milo Ventimiglia joins as a touring musician whose cancer diagnosis becomes the film's emotional gut punch. The Erwin Brothers deliver sincere Christian storytelling made by committed believers, with no ideological surprises or subversions. For families navigating loss and learning trust in difficult seasons, this hits close to home and offers real hope grounded in faith.</p>
+<p><a href="/reviews/i-can-only-imagine-2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+<hr>
+
+<h2>#9 - Cabrini (2024)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 3.0</span>
+  <span class="score-badge trad-score">Traditional Score: 15.0</span>
+  <span class="score-badge verdict-traditional">TRADITIONAL</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Biography/Drama &bull; <strong>Platform:</strong> Theatrical/Angel Studios &bull; <strong>MPAA:</strong> PG-13</p>
+<p>Angel Studios and director Alejandro Monteverde (Bella, Sound of Freedom) bring the true story of St. Frances Xavier Cabrini to the screen with production values and filmmaking craft that rival studio releases. Cristiana Dell'Anna plays Cabrini as a woman of pure conviction, fighting New York's institutional resistance to build hospitals and schools for desperate Italian immigrants in the 1880s. The film treats her Catholic faith as the actual source of her strength, not a complication to overcome. Her stubbornness is saintly persistence, not a feminist rebuke. The Church itself is portrayed with complexity but without contempt. For families wanting to see a woman of faith portrayed as genuinely heroic because of her convictions rather than despite them, this is a rare gift in contemporary cinema. The film grossed $24 million domestic, proving Angel Studios' model works at scale.</p>
+<p><a href="/reviews/cabrini-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+<hr>
+
+<h2>#8 - Risen (2016) [Guest Pick]</h2>
+<div class="listicle-scores">
+  <span class="mini-score">Coming to VirtueVigil soon</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Biblical Drama &bull; <strong>Platform:</strong> Theatrical/Streaming &bull; <strong>MPAA:</strong> PG-13</p>
+<p>A Roman military tribune investigates the disappearance of Jesus after the Crucifixion, and his investigation becomes an encounter with the Resurrection itself. Risen approaches the Easter story from a fresh angle, through the eyes of someone skeptical, searching, and ultimately convinced by what he witnesses. The film treats the Gospel account as historical narrative, not mythology or spiritual metaphor. Joseph Fiennes anchors the film with a performance of genuine intellectual inquiry, showing a mind being changed by evidence and eyewitness testimony. For families wanting to explore what the Resurrection means on Easter itself, Risen offers a thoughtful, well-crafted pathway into those questions. Full VirtueVigil review coming soon.</p>
+
+<hr>
+
+<h2>#7 - Heaven Is for Real (2014) [Guest Pick]</h2>
+<div class="listicle-scores">
+  <span class="mini-score">Coming to VirtueVigil soon</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical/Streaming &bull; <strong>MPAA:</strong> PG</p>
+<p>Based on the bestselling true story, this film follows a Nebraska pastor whose young son claims to have visited Heaven during a life-threatening illness. Greg Kinnear and Kelly Reilly navigate the theological and personal challenges that follow, trying to discern what their son experienced while holding their own faith steady. The film does not debate whether Heaven is real. It takes that as given and explores what it means to raise children with faith, to endure crisis without losing belief, and to let a child's experience reshape your understanding of God. For families with younger children, this provides natural conversation starters about faith, death, and what we believe happens beyond this life. Easter is a perfect time to watch together and discuss what the Resurrection really means.</p>
+
+<hr>
+
+<h2>#6 - The Young Messiah (2016) [Guest Pick]</h2>
+<div class="listicle-scores">
+  <span class="mini-score">Coming to VirtueVigil soon</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Biblical Drama &bull; <strong>Platform:</strong> Theatrical/Streaming &bull; <strong>MPAA:</strong> PG</p>
+<p>This film takes an unusual approach to the Gospel story, depicting Jesus as a seven-year-old boy, newly aware of his identity and struggling to understand what it means. Director Cyrus Nowrasteh (The Stoning of Soraya M.) treats the childhood of Jesus with genuine theological seriousness rather than sentimentality. The film explores the relationships between Jesus, Mary, Joseph, and the people around them, showing how they navigate the tension between the extraordinary reality and the need for ordinary family life. Sean Bean and Cynthia Gibb anchor the film with strong performances. For families wanting to explore the full humanity of Christ, including childhood wonder and growth, this offers something unique in Easter viewing.</p>
+
+<hr>
+
+<h2>#5 - Miracles from Heaven (2016) [Guest Pick]</h2>
+<div class="listicle-scores">
+  <span class="mini-score">Coming to VirtueVigil soon</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Drama/Biography &bull; <strong>Platform:</strong> Theatrical/Streaming &bull; <strong>MPAA:</strong> PG</p>
+<p>Another true story of faith tested and confirmed, Miracles from Heaven follows the Beam family as their young daughter Annabel survives a life-threatening fall and experiences what she believes is a miraculous healing. Jennifer Garner plays Christy Beam, a mother whose faith is pushed to breaking point by her daughter's chronic illness before encountering something that transcends explanation. The film does not pretend toward intellectual neutrality on miracles. It presents faith as reasonable response to genuine mystery. Annabel's story unfolds with emotional honesty and spiritual depth. For families navigating their own medical crises or theological questions about why God allows suffering, this film offers witness to faith that persists and sometimes encounters the miraculous. Easter viewing that speaks to real pain and real hope.</p>
+
+<hr>
+
+<h2>#4 - The Ten Commandments (1956) [Guest Pick]</h2>
+<div class="listicle-scores">
+  <span class="mini-score">Coming to VirtueVigil soon</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Biblical Epic &bull; <strong>Platform:</strong> Theatrical Classic/Streaming &bull; <strong>MPAA:</strong> Not Rated (family appropriate)</p>
+<p>Cecil B. DeMille's 1956 epic remains the gold standard for biblical filmmaking. Charlton Heston's Moses and Yul Brynner's Pharaoh Ramesses engage in a narrative battle of will and faith that spans generations and empires. The film's 220-minute runtime gives genuine weight to Moses's calling, the plagues, the parting of the Red Sea, and the receiving of the commandments. The special effects were state-of-the-art at the time and hold up remarkably well. More importantly, the film's treatment of faith as the driving force behind liberation and justice remains theologically sound. For families wanting to understand the Old Testament's central narrative of redemption and covenant, this is essential viewing. Easter is a good time to trace the theological arc from Passover (depicted in the film) through to Christ. Many families watch this annually as a pre-Easter tradition.</p>
+
+<hr>
+
+<h2>#3 - Ben-Hur (1959) [Guest Pick]</h2>
+<div class="listicle-scores">
+  <span class="mini-score">Coming to VirtueVigil soon</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Epic/Drama &bull; <strong>Platform:</strong> Theatrical Classic/Streaming &bull; <strong>MPAA:</strong> G</p>
+<p>William Wyler's Ben-Hur won 11 Academy Awards, more than any film in history at that time. Charlton Heston plays Judah Ben-Hur, a Jewish nobleman betrayed by a childhood friend, enslaved, and eventually freed to seek revenge. The famous chariot race sequence remains one of cinema's greatest action set pieces. But the heart of the film is not the race. It is the encounter between Ben-Hur and Jesus Christ, depicted briefly but profoundly. When Ben-Hur confronts Christ with his rage and seeks healing for his sister and mother, the film's entire arc becomes clear: redemption comes not through revenge but through encounter with grace. The film respects its audience's intelligence and faith. For families wanting Easter viewing that culminates in genuine spiritual transformation, Ben-Hur remains unsurpassed.</p>
+
+<hr>
+
+<h2>#2 - Sound of Freedom (2023)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 4.2</span>
+  <span class="score-badge trad-score">Traditional Score: 30.8</span>
+  <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action/Thriller/Biography &bull; <strong>Platform:</strong> Theatrical/Digital &bull; <strong>MPAA:</strong> PG-13</p>
+<p>Perhaps the most culturally significant faith-adjacent film of the past decade. Jim Caviezel plays Tim Ballard, a Homeland Security agent who resigns his position to rescue trafficked children from South American cartels. The film was shelved by Fox for three years after Disney's acquisition, then released by Angel Studios directly to the audience that wanted it. That audience made it a worldwide phenomenon. Sound of Freedom is explicitly grounded in faith. Ballard operates from spiritual conviction. Vampiro's redemption story is a theology of grace. The film's moral clarity, its refusal to complicate trafficking as a gray area, and its portrayal of sacrifice as heroic made it controversial with critics and beloved by families. For Easter viewing with teenagers and adults, this is essential. It asks the question: what would you sacrifice for someone else's child? And it models an answer grounded in faith and action.</p>
+<p><a href="/reviews/sound-of-freedom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+<hr>
+
+<h2>#1 - The Passion of the Christ (2004)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 0.0</span>
+  <span class="score-badge trad-score">Traditional Score: 45.29</span>
+  <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Biblical Drama &bull; <strong>Platform:</strong> Theatrical/Streaming &bull; <strong>MPAA:</strong> R</p>
+<p>Mel Gibson's The Passion of the Christ remains the apex of Easter cinema. Filmed in Aramaic, Latin, and Hebrew, shot by cinematographer Caleb Deschanel, and directed by a filmmaker who financed it entirely with his own money because no studio would, The Passion is not a movie. It is an act of witness. Jim Caviezel's performance transcends acting into something closer to endurance and grace. The film does not offer comfort. It offers confrontation with the reality of what the Crucifixion cost. The brutality is theological, not gratuitous. Every detail of suffering means something. The Resurrection is shown in seconds after two hours of sacrifice, and that brevity is the entire point. The Passion grossed $612 million on a $30 million budget, the highest-grossing R-rated film in history at release. For families with teenagers and adults who want to encounter Easter at the depth and seriousness it deserves, The Passion of the Christ has no equal. Watch with conversation afterward. This is cinema as devotion.</p>
+<p><a href="/reviews/the-passion-of-the-christ-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+<hr>
+
+<div class="listicle-conclusion">
+  <h3>Beyond This List</h3>
+  <p>These ten films span centuries, continents, and approaches to faith. What they share is a refusal to apologize for what they believe. That quality has become increasingly rare in mainstream cinema. When you find it, it is worth protecting and supporting with your time and attention.</p>
+  <p>VirtueVigil reviews every significant film release using our Woke-Watch Scoring System. Before you spend your Easter weekend, browse our full catalog at <a href="/reviews/">VirtueVigil reviews</a> and find exactly what aligns with your family's values. Easter comes once a year. Choose your viewing wisely.</p>
+</div>
+
 </article>`
   }));
 
