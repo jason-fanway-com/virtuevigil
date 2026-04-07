@@ -24,6 +24,42 @@
     "poster": "/images/posters/hunting-matthew-nichols-2026.jpg"
   },
   {
+    "slug": "fuze-2026",
+    "title": "Fuze",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Crime Thriller / Heist",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2.45,
+    "tradScore": 11.27,
+    "poster": "/images/posters/fuze-2026.jpg"
+  },
+  {
+    "slug": "california-schemin-2026",
+    "title": "California Schemin'",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Musical Biography / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.14,
+    "tradScore": 10.89,
+    "poster": "/images/posters/california-schemin-2026.jpg"
+  },
+  {
+    "slug": "i-swear-2026",
+    "title": "I Swear",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Biography / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 22.1,
+    "poster": "/images/posters/i-swear-2026.jpg"
+  },
+  {
     "slug": "risen-2016",
     "title": "Risen",
     "verdict": "TRADITIONAL",

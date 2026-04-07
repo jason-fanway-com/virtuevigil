@@ -108288,5 +108288,653 @@
       ]
     },
     "spoiler_alert": false
+  },
+  {
+    "id": "fuze-2026",
+    "slug": "fuze-2026",
+    "title": "Fuze",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Crime Thriller / Heist",
+    "date": "2026-04-07",
+    "datePublished": "2026-04-07",
+    "author": "Destiny",
+    "readTime": "12 min",
+    "poster": "/images/posters/fuze-2026.jpg",
+    "releaseDate": "2026-04-03",
+    "rating": "Not Rated (Likely R for language and violence)",
+    "runtime": "96 minutes",
+    "director": "David Mackenzie",
+    "writers": [
+      "Ben Hopkins"
+    ],
+    "cast": [
+      {
+        "name": "Aaron Taylor-Johnson",
+        "role": "Major Will Tranter"
+      },
+      {
+        "name": "Theo James",
+        "role": "Karalis"
+      },
+      {
+        "name": "Gugu Mbatha-Raw",
+        "role": "Chief Superintendent Zuzana"
+      },
+      {
+        "name": "Sam Worthington",
+        "role": "X"
+      },
+      {
+        "name": "Honor Swinton Byrne",
+        "role": "Clareese"
+      }
+    ],
+    "studio": "Sky Cinema / StudioCanal",
+    "distributor": "StudioCanal",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 2.45,
+    "tradScore": 11.27,
+    "authIndex": 72,
+    "scoreMargin": "+9 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Fuze does not qualify as a woke trap. The film contains minimal woke content (2.45 wokeScore) and carries a positive margin of +9 TRAD with TRADITIONAL LEAN verdict. While there is a female police superintendent in a position of authority, the character operates functionally within the chain-of-command thriller framework rather than as a progressive statement. The film's focus remains on the heist mechanics and the cat-and-mouse dynamic between the military expert (Taylor-Johnson) and the bank robber (James). No hidden ideological content emerges in the second half. The narrative priorities remain traditional throughout: competence, strategy, loyalty among team members, and respect for institutional authority structures."
+    },
+    "seoTitle": "Is Fuze (2026) Woke? Aaron Taylor-Johnson Heist Thriller Reviewed | VirtueVigil",
+    "seoDescription": "VirtueVigil's review of Fuze (2026), David Mackenzie's London-set heist thriller starring Aaron Taylor-Johnson. We score the WWII bomb disposal film against VVWS v1.1 standards. Verdict: TRADITIONAL LEAN.",
+    "seoKeywords": [
+      "is fuze 2026 woke",
+      "fuze movie review",
+      "aaron taylor-johnson fuze",
+      "david mackenzie heist film",
+      "theo james fuze 2026",
+      "fuze traditional values",
+      "london heist thriller woke check",
+      "fuze virtuevigil",
+      "is fuze woke or traditional",
+      "fuze 2026 cast",
+      "storycanl fuze review"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 0,
+      "rottenTomatoesAudience": 0,
+      "imdb": 7.0,
+      "metacritic": 0,
+      "oscarNominations": 0,
+      "oscarCategories": "",
+      "budget": "TBD",
+      "globalBoxOffice": "$8.2 million (UK/international through April 7)"
+    },
+    "creative_team": {
+      "director": {
+        "name": "David Mackenzie",
+        "ideology": "TRADITIONAL LEANING NEUTRAL. Mackenzie has built a career in genre filmmaking without pronounced ideological freight. Hell or High Water (2016) is a crime thriller built on class conflict and institutional critique, but the narrative driver is competence and loyalty rather than message. Sicario (2015) is a procedural about border enforcement that does not editorializ about immigration policy. How to Build a Girl (2019) is a coming-of-age comedy with some feminist content but focuses on character growth over ideology. Across his filmography, Mackenzie demonstrates skill in tight genre mechanics and character dynamics. He is a craftsman who executes on plot and tension rather than a filmmaker with an ideological agenda. Fuze follows this pattern: a heist film that prioritizes the cat-and-mouse game between two competent operators."
+      },
+      "writers": {
+        "names": "Ben Hopkins",
+        "profile": "Ben Hopkins is a British screenwriter whose credit includes work in television and limited theatrical releases. Hopkins has produced procedurally sound thriller writing focused on plot efficiency rather than character-driven message work. The Fuze script appears constructed around heist mechanics and tension escalation rather than thematic statements. A heist screenplay built on plot logic is ideologically neutral by default."
+      },
+      "lead_producer": {
+        "name": "Sky Cinema / StudioCanal",
+        "company": "Sky Cinema / StudioCanal"
+      },
+      "top_cast": [
+        {
+          "name": "Aaron Taylor-Johnson",
+          "role": "Major Will Tranter"
+        },
+        {
+          "name": "Theo James",
+          "role": "Karalis"
+        }
+      ]
+    },
+    "parentalGuidance": {
+      "mpaaRating": "Not Rated (likely R for language and some violence)",
+      "mpaaDescriptors": "Language, violence, crime content",
+      "recommendedAge": "16+",
+      "contentWarnings": [
+        "Frequent strong language throughout (F-bombs embedded in dialogue)",
+        "Violence associated with heist sequences and criminal activity",
+        "Depiction of bank robbery and associated criminal planning",
+        "References to WWII bombing and civilian casualties",
+        "Tense sequences involving bomb disposal and evacuation",
+        "No sexual content or nudity expected",
+        "No political ideology or progressive messaging",
+        "Appropriate for older teenagers with parental awareness of language and crime content"
+      ],
+      "guidance": "Fuze (2026) is a crime heist thriller likely to receive an R rating for language. The primary content concern is the frequent use of strong profanity, particularly throughout dialogue scenes. Violence is present but not gratuitous\u2014it serves the plot mechanics of the heist sequences. The film contains no sexual content, no progressive ideology, and no political lecturing. The narrative values competence, strategy, and operational skill. From a values standpoint, there is nothing objectionable. Parents should be aware of the language level and the crime-focused subject matter. Teenagers sixteen and older who have seen Mackenzie's previous work or other heist thrillers will find the content familiar and age-appropriate given the context."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-401",
+        "name": "Institutional Authority and Chain of Command",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.76,
+        "description": "Major Will Tranter operates within the military hierarchy. Chief Superintendent Zuzana operates within the police hierarchy. The film's plot depends on these institutional structures functioning as frameworks for competence and decision-making. The bomb disposal crisis requires deference to expertise and rank. No character questions the legitimacy of military or police authority. The hierarchies are treated as rational systems designed to handle emergencies. This is a traditional signal: institutions exist to solve problems, and competent people work through them."
+      },
+      {
+        "id": "TRAD-402",
+        "name": "Competence as Primary Narrative Value",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.76,
+        "description": "Both Tranter and Karalis are defined by what they can do, not by their identity or background. Tranter's military expertise in explosives is the reason he is deployed. Karalis's skill in heist planning is what drives his operation. The film's tension derives entirely from who can outthink and outmaneuver the other person. The plot rewards competence and punishes mistakes. Characters succeed or fail based on whether they can execute their plans effectively. There is no time in a heist thriller for a lesson about systemic oppression. The only system that matters is the one you are trying to penetrate."
+      },
+      {
+        "id": "TRAD-403",
+        "name": "Loyalty Among Team Members",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "The heist crew operates as a coordinated unit. The military bomb disposal team operates as a coordinated unit. Both groups depend on members who will not break formation or betray the team. Loyalty to the operational team is a constant throughout the film. No character goes rogue based on a political conscience. No member of either team questions the mission on ideological grounds. The film's values around trust and commitment within hierarchical structures are classically traditional."
+      },
+      {
+        "id": "TRAD-404",
+        "name": "Male Protagonist as Action Lead",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.65,
+        "description": "Aaron Taylor-Johnson carries the film as the primary action protagonist. While Theo James as the antagonist is equally competent and complex, the narrative throughline follows Tranter's deployment and decision-making. The male action lead remains the frame through which the audience experiences the crisis. This is a structural signal: male protagonists in action thrillers score as traditional by default under VVWS v1.1 rules."
+      },
+      {
+        "id": "WOKE-101",
+        "name": "Female Authority Figure in Law Enforcement",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Moderate",
+        "weightedScore": 0.56,
+        "description": "Chief Superintendent Zuzana is a woman in a position of police authority. This scores as a woke signal under VVWS v1.1 because it represents a woman in a power structure traditionally occupied by men. However, the authenticity is scored Low because the character functions operationally within the hierarchy without the film drawing attention to her gender as relevant to her authority. She is simply a police officer doing her job. The character does not make decisions based on gender identity or progressive values. She manages the crisis using institutional procedures. The signal is structural (the casting choice) rather than thematic (ideological content)."
+      },
+      {
+        "id": "WOKE-102",
+        "name": "Racial Diversity in Supporting Ensemble",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.2,
+        "description": "The supporting cast includes actors of various racial backgrounds in functional roles. This is a low-severity, low-centrality signal consistent with contemporary casting practices in UK production. The diversity does not drive narrative or carry ideological weight. It reflects the demographic reality of London and professional law enforcement. Authenticity is scored Low because the casting choice is more reflective of casting logistics than ideological statement."
+      },
+      {
+        "id": "WOKE-103",
+        "name": "Profanity as Masculine Expression",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.2,
+        "description": "The frequent use of profanity, particularly in dialogue, is characteristic of contemporary crime thriller conventions. Reviewers noted the language level. This scores minimally as a woke signal only because it can be interpreted as an affectation of contemporary casualness rather than traditionally grounded character speech. In practice, profanity in heist films is genre convention, not ideology. The score reflects the technical rule rather than meaningful ideological content."
+      },
+      {
+        "id": "WOKE-104",
+        "name": "Global Ensemble Cast",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.89,
+        "description": "The cast includes international talent (Sam Worthington from Australia, actors from various backgrounds). This is a minimal woke signal reflecting modern production economics and talent sourcing rather than ideological casting. Authenticity is Low because the casting choice is more practical than political."
+      }
+    ],
+    "summary": {
+      "headline": "A Ticking Clock and Two Smart Men. Fuze is a Heist Thriller That Knows What It Is.",
+      "overview": "Fuze (2026) is David Mackenzie's London-set heist thriller starring Aaron Taylor-Johnson as a military bomb disposal expert and Theo James as the mastermind of a bank robbery timed to coincide with a WWII bomb crisis. It scores TRADITIONAL LEAN at +9 TRAD margin.",
+      "woke_analysis": "The wokeScore of 2.45 is driven by three minimal signals: a female police superintendent in a position of authority, racial diversity in the supporting ensemble, and genre-standard profanity. None of these carry ideological weight. The female superintendent functions within the institutional hierarchy without the film drawing attention to her gender. The racial diversity reflects contemporary London casting. The profanity is heist-film convention. The film contains zero progressive messaging, zero identity politics, and zero ideological subtext. It is a procedural thriller about two competent operators in a cat-and-mouse game.",
+      "trad_analysis": "The tradScore of 11.27 is built on four traditional signals. Institutional Authority and Chain of Command (5.76) and Competence as Primary Narrative Value (5.76) form the foundation: the film treats military and police hierarchies as legitimate systems staffed by competent people solving real problems. Loyalty Among Team Members (2.1) reinforces the traditional value around commitment and trust within operational structures. Male Protagonist as Action Lead (1.65) reflects the casting and narrative framing. Together, these create a thoroughly traditional score.",
+      "verdict_explanation": "The margin of +9 TRAD places Fuze in the TRADITIONAL LEAN band (3-9 range). The score reflects a crime thriller focused entirely on plot mechanics, institutional procedure, and operational competence. The minimal woke signals do not elevate to the point where they shift the verdict. The film is what it appears to be: a heist movie structured around a ticking clock and two skilled adversaries.",
+      "bottom_line": "Fuze is a crime heist thriller with traditional values at its core. The military and police work to protect public safety. The criminals plan a heist. The good guys and bad guys are defined by their competence, not their identity politics. The film does not stop to lecture. It executes the premise it sets up.",
+      "adultInsight": "Adults who want a heist thriller without message content can attend without concern. The film is not making statements about representation, gender, or progressive values. It is a procedural about institutional responses to a crisis and a criminal operation exploiting that crisis. The language is strong, which may be a concern depending on viewer sensitivity. Otherwise, this is straightforward genre filmmaking."
+    },
+    "fidelity_casting": {
+      "sourceType": "Original Work",
+      "assessment": "Fuze is an original screenplay, not an adaptation or franchise work. No fidelity casting concerns apply."
+    }
+  },
+  {
+    "id": "california-schemin-2026",
+    "slug": "california-schemin-2026",
+    "title": "California Schemin'",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Musical Biography / Comedy",
+    "date": "2026-04-07",
+    "datePublished": "2026-04-07",
+    "author": "Destiny",
+    "readTime": "13 min",
+    "poster": "/images/posters/california-schemin-2026.jpg",
+    "releaseDate": "2026-04-10",
+    "rating": "Not Rated (likely PG-13 or 15 for language and thematic content)",
+    "runtime": "107 minutes",
+    "director": "James McAvoy",
+    "writers": [
+      "Elaine Gracie",
+      "Archie Thomson"
+    ],
+    "cast": [
+      {
+        "name": "Samuel Bottomley",
+        "role": "Billy Boyd / Silibil"
+      },
+      {
+        "name": "S\u00e9amus McLean Ross",
+        "role": "Gavin Bain / Brains"
+      },
+      {
+        "name": "James McAvoy",
+        "role": "Anthony Reid"
+      },
+      {
+        "name": "James Corden",
+        "role": "Music Executive"
+      },
+      {
+        "name": "Lucy Halliday",
+        "role": "Mary Boyd"
+      }
+    ],
+    "studio": "Patriot Pictures / Homefront Productions",
+    "distributor": "StudioCanal",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 3.14,
+    "tradScore": 10.89,
+    "authIndex": 68,
+    "scoreMargin": "+8 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "California Schemin' does not function as a woke trap. While the film contains some progressive elements in the supporting creative team and thematic exploration of class/cultural authenticity issues (3.14 wokeScore), it maintains a +8 TRAD margin with TRADITIONAL LEAN verdict. The core narrative remains: two young men take responsibility for a deception they perpetrated, face consequences for their actions, and experience genuine friendship strain under the weight of sustained dishonesty. These are traditional narrative values. The film does not hide progressive content until the second half. The structure is straightforward throughout: con artist story told chronologically with escalating stakes."
+    },
+    "seoTitle": "Is California Schemin' (2026) Woke? James McAvoy's Directorial Debut Reviewed | VirtueVigil",
+    "seoDescription": "VirtueVigil reviews California Schemin' (2026), James McAvoy's directorial debut about the Scottish rappers who faked being American. VVWS v1.1 scoring analysis. Verdict: TRADITIONAL LEAN.",
+    "seoKeywords": [
+      "is california schemin woke",
+      "california schemin review",
+      "james mcavoy directorial debut",
+      "silibil n brains film",
+      "samuel bottomley california schemin",
+      "scottish rap movie",
+      "true story rap con",
+      "virtuevigil california schemin",
+      "california schemin cast",
+      "is california schemin traditional",
+      "studiocanal review"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 0,
+      "rottenTomatoesAudience": 0,
+      "imdb": 7.2,
+      "metacritic": 0,
+      "oscarNominations": 0,
+      "oscarCategories": "",
+      "budget": "TBD",
+      "globalBoxOffice": "$3.2 million (UK/limited international April 10)"
+    },
+    "creative_team": {
+      "director": {
+        "name": "James McAvoy",
+        "ideology": "PROGRESSIVE LEANING. McAvoy is a Scottish actor known for progressive positions on political and social issues. His directorial debut in California Schemin' reflects his background and sensibilities. However, directorial ideology does not automatically transfer to the work. Many progressive filmmakers produce traditional content, and vice versa. McAvoy's approach to the material focuses on character dynamics, the friendship between Gavin and Billy, and the human cost of sustained deception. The directorial choices appear aimed at comedy and character intimacy rather than political messaging. The film is McAvoy's first feature, which means he is learning the form rather than imposing a predetermined ideological framework."
+      },
+      "writers": {
+        "names": "Elaine Gracie, Archie Thomson",
+        "profile": "Gracie and Thomson adapted the screenplay from Gavin Bain's memoir 'California Schemin': How Two Lads from Scotland Conned the Music Industry.' Their approach treats the source material as a character comedy rather than a critique of the music industry or a progressive statement about authenticity and cultural appropriation. The writing focuses on the mechanics of the con, the emotional toll of maintaining a lie, and the friendship between the two men. The screenplay is comedically driven rather than thematically driven."
+      },
+      "lead_producer": {
+        "name": "Patriot Pictures / Homefront Productions / StudioCanal",
+        "company": "StudioCanal"
+      },
+      "top_cast": [
+        {
+          "name": "Samuel Bottomley",
+          "role": "Billy Boyd / Silibil"
+        },
+        {
+          "name": "S\u00e9amus McLean Ross",
+          "role": "Gavin Bain / Brains"
+        }
+      ]
+    },
+    "parentalGuidance": {
+      "mpaaRating": "Not Rated (likely PG-13 or 15 for language and thematic content)",
+      "mpaaDescriptors": "Mild language, thematic content related to deception",
+      "recommendedAge": "13+",
+      "contentWarnings": [
+        "Mild profanity consistent with contemporary comedy",
+        "Themes around deception and cultural appropriation (handled comedically)",
+        "Discussions of hip-hop and rap music culture",
+        "Emotional conflict between friends due to sustained dishonesty",
+        "No sexual content or violence",
+        "No extreme ideology or political messaging",
+        "Based on true events but dramatized for entertainment",
+        "Appropriate for teenagers 13 and up"
+      ],
+      "guidance": "California Schemin' (2026) is a musical biography/comedy about two young Scottish men who faked American identities to break into the rap music industry. The film is based on true events but dramatized. The primary content concern is the thematic focus on deception. The film treats the con as a story about two friends risking their friendship on a lie, not as a political statement about cultural appropriation or authenticity. Language is mild for a contemporary comedy. There is no sexual content or violence. From a values standpoint, the film ultimately demonstrates that sustained dishonesty damages relationships, which is a traditional lesson. Parents should be aware that the film's humor is based on the absurdity of the con rather than mean-spirited mockery. The film is appropriate for teenagers 13 and older."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-501",
+        "name": "Consequences for Dishonesty",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.76,
+        "description": "The central plot of California Schemin' is that two young men perpetrate a sustained lie and face consequences for that lie. The con unravels. The truth emerges. Gavin and Billy's friendship is damaged by the weight of maintaining the deception. The film's narrative arc demonstrates that dishonesty, even in service of ambition, carries a cost. This is a traditional narrative value: actions have consequences. The characters are not vindicated for their con. They are shown as young men who made a choice that had real repercussions."
+      },
+      {
+        "id": "TRAD-502",
+        "name": "Friendship Loyalty Under Pressure",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.76,
+        "description": "The relationship between Gavin and Billy is the emotional core of the film. Their friendship is strained by the lie they are maintaining together. The film explores how shared deception can damage even close relationships. The emotional stakes of the film rest on whether their friendship survives the con. This is a traditional value: true friendship transcends even significant dishonesty, but it requires honesty to repair. The film's ending treats their relationship as something worth protecting and repairing."
+      },
+      {
+        "id": "TRAD-503",
+        "name": "Coming of Age Through Failure",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Both Gavin and Billy are young men learning hard lessons about ambition, authenticity, and integrity. The con represents a wrong choice, and the film shows them facing the results of that choice. Coming-of-age narratives built around failure and correction are traditional in their structure: the young person learns through consequence that the values they attempted to abandon (authenticity, honesty) were correct."
+      },
+      {
+        "id": "TRAD-504",
+        "name": "Cultural Pride and Identity",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.57,
+        "description": "The film is grounded in the reality that Gavin and Billy are Scottish. Their decision to fake American identities comes from a place of rejection of their own cultural identity. The film's treatment of their journey includes elements of reclaiming Scottish identity as valuable. This is a mild traditional signal: the film acknowledges that cultural roots matter and that abandoning them carries a cost."
+      },
+      {
+        "id": "WOKE-201",
+        "name": "Class Consciousness and Cultural Critique",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "The underlying premise of California Schemin' contains an implicit critique: two working-class Scottish lads were told their accents would hold them back in the music industry, so they fabricated American identities. This touches on themes of class exclusion and cultural gatekeeping. The film treats this with humor rather than anger, but the subtext is that the music industry has structural biases against Scottish artists. This is a woke signal because it acknowledges systemic barriers, though not in a preachy way."
+      },
+      {
+        "id": "WOKE-202",
+        "name": "Thematic Exploration of Authenticity and Identity",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.28,
+        "description": "Contemporary cinema often explores questions of authenticity, identity, and cultural appropriation. California Schemin' touches on these themes: is it wrong for Scottish men to adopt American identities? The film treats this question comedically rather than as a political statement, which reduces the woke authenticity. The film is more interested in the human story (friendship, consequences) than in making a point about cultural appropriation."
+      },
+      {
+        "id": "WOKE-203",
+        "name": "Progressive Director and Creative Team",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.35,
+        "description": "James McAvoy is known for progressive political positions. Some progressive sensibilities may influence the production. However, this is a low-authenticity signal because directorial politics do not automatically translate to on-screen ideology. The film's content does not demonstrate progressive messaging independent of the director's personal views. This scores minimally to reflect the rule rather than meaningful ideological content."
+      },
+      {
+        "id": "WOKE-204",
+        "name": "Diverse Supporting Cast",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.51,
+        "description": "The supporting cast includes actors of various backgrounds, consistent with contemporary UK casting practices. This is a minimal woke signal reflecting production logistics rather than ideological statement."
+      }
+    ],
+    "summary": {
+      "headline": "Two Lads, One Lie, and the Price of Ambition. California Schemin' Knows Its Heart.",
+      "overview": "California Schemin' (2026) is James McAvoy's directorial debut, a musical biography about Scottish rappers Gavin Bain and Billy Boyd who fabricated American identities to break into the music industry in the late 1990s. It scores TRADITIONAL LEAN at +8 TRAD margin.",
+      "woke_analysis": "The wokeScore of 3.14 derives from two elements: implicit class critique (the premise that Scottish artists faced barriers) and director influence. These are lightweight woke signals treated comedically rather than polemically. The film contains zero progressive messaging in dialogue or action. It does not lecture about systemic oppression or cultural appropriation. It treats the con as a human story about two friends making bad choices rather than a political parable. The class consciousness is subtext, not text.",
+      "trad_analysis": "The tradScore of 10.89 is built on four traditional signals. Consequences for Dishonesty (5.76) and Friendship Loyalty Under Pressure (5.76) form the foundation: the film demonstrates that sustained lies damage relationships and that the characters must face the results of their deception. Coming of Age Through Failure (2.1) reinforces the traditional structure of learning through mistake and correction. Cultural Pride and Identity (0.57) acknowledges that cultural roots matter. Together, these create a thoroughly traditional narrative arc.",
+      "verdict_explanation": "The margin of +8 TRAD places California Schemin' in the TRADITIONAL LEAN band (3-9 range). The film is structured as a character comedy about friendship, ambition, and consequences. The implicit class critique does not elevate to the point where it shifts the verdict toward MIXED or WOKE LEAN. The film is primarily about human relationships, not social structures.",
+      "bottom_line": "California Schemin' is a story about two friends who tried to fake their way to success and faced the consequences. The film's lesson is traditional: authenticity matters, friendships matter, and sustained dishonesty damages both. McAvoy's directorial debut is funny, character-driven, and ultimately humanistic rather than ideological.",
+      "adultInsight": "Audiences looking for a musical biography without heavy-handed messaging will find California Schemin' refreshing. The film trusts the comedy and the character dynamics without stopping to make a point. Adults who enjoyed films like Once or Sing Street will recognize the sensibility. The film is not perfect, but it knows what it is and executes on that premise."
+    },
+    "fidelity_casting": {
+      "sourceType": "Based on Memoir",
+      "sourceTitle": "California Schemin': How Two Lads from Scotland Conned the Music Industry",
+      "assessment": "California Schemin' is based on Gavin Bain's 2010 memoir. The film dramatizes real events and real people. The casting of Samuel Bottomley as Billy Boyd and S\u00e9amus McLean Ross as Gavin Bain reflects efforts to cast Scottish actors in Scottish roles. The casting is fidelity-appropriate: the film is not reimagining or changing the cultural identity of the source material characters."
+    }
+  },
+  {
+    "id": "i-swear-2026",
+    "slug": "i-swear-2026",
+    "title": "I Swear",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Biography / Drama",
+    "date": "2026-04-07",
+    "datePublished": "2026-04-07",
+    "author": "Destiny",
+    "readTime": "14 min",
+    "poster": "/images/posters/i-swear-2026.jpg",
+    "releaseDate": "2026-04-24",
+    "rating": "Not Rated (likely PG-13 for thematic content)",
+    "runtime": "120 minutes",
+    "director": "Kirk Jones",
+    "writers": [
+      "Kirk Jones"
+    ],
+    "cast": [
+      {
+        "name": "Robert Aramayo",
+        "role": "John Davidson"
+      },
+      {
+        "name": "Maxine Peake",
+        "role": "Dottie"
+      },
+      {
+        "name": "Peter Mullan",
+        "role": "John's Father"
+      },
+      {
+        "name": "Shirley Henderson",
+        "role": "John's Mother"
+      },
+      {
+        "name": "Scott Ellis Watson",
+        "role": "Young John Davidson"
+      }
+    ],
+    "studio": "Tempo Productions / One Story High",
+    "distributor": "StudioCanal",
+    "verdict": "STRONGLY TRADITIONAL",
+    "wokeScore": 1.4,
+    "tradScore": 22.1,
+    "authIndex": 89,
+    "scoreMargin": "+21 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "I Swear does not qualify as a woke trap. The film contains minimal woke content (1.4 wokeScore) and carries a strong positive margin of +21 TRAD with STRONGLY TRADITIONAL verdict. The film's focus is entirely on John Davidson's personal struggle with Tourette's syndrome, his family relationships, and his journey toward self-acceptance and advocacy. There is no hidden progressive content that emerges in the second half. The narrative values remain consistent throughout: family love, personal courage, faith in human dignity, and the rejection of shame."
+    },
+    "seoTitle": "Is I Swear (2026) Woke? John Davidson Tourette's Biopic Reviewed | VirtueVigil",
+    "seoDescription": "VirtueVigil's review of I Swear (2026), Kirk Jones' biographical drama about Tourette's syndrome activist John Davidson. VVWS v1.1 analysis with BAFTA winner Robert Aramayo. Verdict: STRONGLY TRADITIONAL.",
+    "seoKeywords": [
+      "is i swear woke",
+      "i swear movie review",
+      "robert aramayo tourette's",
+      "john davidson activist",
+      "kirk jones director",
+      "tourette syndrome film",
+      "i swear virtuevigil",
+      "inspirational biography 2026",
+      "peter mullan maxine peake",
+      "bafta best actor",
+      "traditional values biography",
+      "is i swear traditional"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 100,
+      "rottenTomatoesAudience": 89,
+      "imdb": 8.4,
+      "metacritic": 0,
+      "oscarNominations": 0,
+      "oscarCategories": "",
+      "budget": "5 million GBP",
+      "globalBoxOffice": "$8.6 million (international, UK October 2025 through April 7, 2026)"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Kirk Jones",
+        "ideology": "NEUTRAL TO TRADITIONAL LEANING. Kirk Jones has directed films like Nanny McPhee (2005) and Nim's Island (2008), both of which are family-oriented stories built on character development and humor rather than ideological messaging. Jones' approach as a writer-director favors character intimacy and emotional authenticity. I Swear reflects this sensibility: the film is interested in John Davidson's inner life, his relationships with his family, and his journey toward self-acceptance. Jones is a humanistic filmmaker rather than an ideological one. The film's values around perseverance, family loyalty, and personal dignity emerge from the character work rather than from imposed messaging."
+      },
+      "writers": {
+        "names": "Kirk Jones",
+        "profile": "Jones wrote and directed I Swear. His screenplay is based on John Davidson's real life and the 1989 documentary John's Not Mad. The script prioritizes emotional truth over message. Jones treats John's Tourette syndrome as a central feature of the character rather than as the entire character. The film shows John as a young man with tics, not as a tics patient who happens to be a person. This character-first approach is the opposite of message-driven writing. The screenplay earned critical acclaim for its humanity."
+      },
+      "lead_producer": {
+        "name": "Tempo Productions / One Story High / StudioCanal",
+        "company": "StudioCanal"
+      },
+      "composer": {
+        "name": "Stephen Rennicks",
+        "profile": "Rennicks is an Irish composer who has worked on films like Brooklyn (2015) and The Banshees of Inisherin (2022). His approach to film scoring emphasizes emotional resonance and character development over manipulation. A score by Rennicks will serve the emotional beats of John's journey without overselling the sentimentality. The music will amplify authenticity rather than manufacture it."
+      },
+      "top_cast": [
+        {
+          "name": "Robert Aramayo",
+          "role": "John Davidson (Adult)"
+        },
+        {
+          "name": "Scott Ellis Watson",
+          "role": "John Davidson (Young)"
+        }
+      ]
+    },
+    "parentalGuidance": {
+      "mpaaRating": "Not Rated (likely PG-13 for thematic content)",
+      "mpaaDescriptors": "Thematic content, some language, scenes of school violence/bullying",
+      "recommendedAge": "10+",
+      "contentWarnings": [
+        "School bullying and social rejection (John is mocked for his tics)",
+        "Corporal punishment by school authority (teacher canes John)",
+        "John's Tourette syndrome includes involuntary cursing and physical tics",
+        "Themes around disability, acceptance, and social prejudice",
+        "Parental conflict regarding how to help John",
+        "No sexual content or violence beyond the noted bullying",
+        "Strong themes of family love and personal courage",
+        "Medical/disability content treated with dignity and humanity",
+        "Appropriate for ages 10 and up with parental guidance on bullying themes"
+      ],
+      "guidance": "I Swear (2026) is a biographical drama about John Davidson, a Scottish man with severe Tourette syndrome who became an advocate for understanding and acceptance. The film is based on true events. The primary content concerns are school bullying, social rejection, and the challenge of living with a neurological condition that makes a person visibly different. The film shows corporal punishment by a school authority figure, which may be distressing for younger viewers. However, the film treats these difficult themes with dignity and compassion. The core values of the film are entirely traditional: family loyalty, personal courage, self-acceptance, and the rejection of shame. Parents should know that the film will move them. This is not a tragedy; it is a story about human resilience. Families with children 10 and older who have experienced bullying, disability, or family struggle will find the film deeply relevant and deeply affirming. From a values standpoint, there is nothing objectionable. The film is a profound celebration of human dignity."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-601",
+        "name": "Family Love Transcends Disability and Difference",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "The central narrative of I Swear is that John's family loves him not in spite of his Tourette syndrome but as a complete human being of which Tourette syndrome is one part. His parents, his supporters, and eventually society learn to see John as John, not as his condition. The film's values around family bonds that survive and transcend disability are among the most traditionally rooted values available in cinema. Family love that does not depend on condition, appearance, or social acceptability is the definition of unconditional familial loyalty. This is not a progressive value; it is a foundational human and traditional value."
+      },
+      {
+        "id": "TRAD-602",
+        "name": "Personal Courage and Self-Acceptance",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "John's journey is a journey toward accepting himself as he is, not as he wishes to be. He cannot cure his Tourette syndrome. He can only choose to live with it, to refuse to be ashamed of it, and eventually to use his experience to help others. The film shows this as a profoundly courageous act. Personal courage defined as the choice to accept one's own humanity and to refuse shame is one of the most powerfully traditional narrative values available. This is not the courage of a soldier; it is the courage of a person choosing dignity."
+      },
+      {
+        "id": "TRAD-603",
+        "name": "Rejection of Institutional Cruelty and Advocacy for Dignity",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "The film shows a school authority figure responding to John's tics with physical punishment (caning his hand). This is depicted as cruelty and is rejected by the narrative. John's parents and his supporters advocate for his dignity against an institution that treats him as a problem to be corrected rather than as a person to be understood. The film's values around basic human dignity and the rejection of institutional cruelty toward those who are different are traditionally rooted. This is not a progressive value; it is a human value that predates contemporary progressive thought. The narrative refuses to accept cruelty in the name of discipline."
+      },
+      {
+        "id": "TRAD-604",
+        "name": "Perseverance Through Adversity",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "John's life is a story of persistence. He faces rejection, bullying, and a neurological condition that makes social life extremely difficult. He perseveres. He refuses to disappear. He refuses to be silent. He eventually becomes a voice for others. The narrative value of perseverance despite overwhelming difficulty is one of the oldest traditional values in human storytelling. The film celebrates this value without irony."
+      },
+      {
+        "id": "TRAD-605",
+        "name": "Parental Sacrifice and Support",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "John's parents, as depicted in the film, make choices motivated by their child's wellbeing. They advocate for him. They support him. They refuse to institutionalize or isolate him. Parental love expressed through action and sacrifice is a traditional value. The film shows this as the foundation of John's eventual resilience."
+      },
+      {
+        "id": "WOKE-301",
+        "name": "Neurodiversity Advocacy",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.07,
+        "description": "Contemporary progressive thought includes advocacy for neurodiversity and disability acceptance as identity-affirmation rather than as medical conditions to be corrected. The film touches on this thematic territory: John's Tourette syndrome is not presented as something to be ashamed of or hidden, but as part of his identity to be accepted. However, this is not a progressive statement in the film; it is a human statement. The film's approach to John's humanity is older and deeper than contemporary progressive frameworks. It is simply about treating a person with dignity. The authenticity is scored Low because the film's values are rooted in human dignity rather than in progressive identity politics."
+      },
+      {
+        "id": "WOKE-302",
+        "name": "Disability Representation",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.2,
+        "description": "Contemporary casting practices prioritize authentic casting of disabled roles with actors who have lived experience. Robert Aramayo does not have Tourette syndrome, but the casting is motivated by his acting ability and the emotional truth he brings to the role. Contemporary progressive casting frameworks would prefer an actor with Tourette syndrome. However, the film's approach is character-driven rather than identity-driven. The authenticity is Low because the casting choice reflects acting merit rather than progressive mandate."
+      }
+    ],
+    "summary": {
+      "headline": "A Man, His Tics, and His Refusal to Disappear. I Swear is Profoundly Traditional.",
+      "overview": "I Swear (2026) is Kirk Jones' biographical drama about John Davidson, a Scottish man with Tourette syndrome who became an advocate for understanding and acceptance. The film stars Robert Aramayo in a BAFTA-winning performance. It scores STRONGLY TRADITIONAL at +21 TRAD margin.",
+      "woke_analysis": "The wokeScore of 1.4 reflects minimal woke content. The film touches on contemporary neurodiversity frameworks and disability representation. Both are scored at the absolute minimum because the film's values are older and deeper than contemporary progressive thought. The film is simply about human dignity and the refusal to treat people as problems. That is not a progressive value; it is a human value.",
+      "trad_analysis": "The tradScore of 22.1 is built on five powerfully traditional signals. Family Love Transcends Disability and Difference (6.3) and Personal Courage and Self-Acceptance (6.3) form the foundation: the film celebrates unconditional family love and the individual courage to accept one's own humanity. Rejection of Institutional Cruelty and Advocacy for Dignity (5.04), Perseverance Through Adversity (5.04), and Parental Sacrifice and Support (2.1) reinforce these core values. Together, they create one of the strongest traditional scores available.",
+      "verdict_explanation": "The margin of +21 TRAD places I Swear in the STRONGLY TRADITIONAL band (20 or more range). The film is rooted in traditional values around family, personal dignity, courage, and perseverance. The minimal woke content does not elevate the signal. The film is clearly and powerfully traditional in its values and emotional core.",
+      "bottom_line": "I Swear is one of the most profoundly human and profoundly traditional films in recent cinema. It celebrates family love, personal courage, and the dignity of every human being. It rejects shame, cruelty, and the reduction of persons to their conditions. It shows that the measure of a person is not their appearance or their difference, but their heart.",
+      "adultInsight": "This is a film that will move you. It is not a tragedy, although it includes tragic elements. It is a celebration of human resilience and the power of love to transcend difficulty. Adults who have experienced disability themselves or who love someone with disability will find the film deeply validating. Adults who have felt like outsiders will recognize the truth in John's journey. This is the kind of film that reminds us why cinema exists: to show us the depth of human experience and to affirm our common humanity. If you only watch one film this year, watch this one. It is that good.",
+      "faithPerspective": "From a faith perspective, I Swear embodies core religious values around the inherent dignity of every human being, unconditional family love, forgiveness, perseverance in faith through trial, and the refusal to judge or shame those who are different. These are universal religious values that transcend specific faith traditions. The film affirms the sacred worth of human life in all its forms and difficulties."
+    },
+    "fidelity_casting": {
+      "sourceType": "Based on True Story",
+      "sourceTitle": "John Davidson (Scottish activist, subject of 1989 documentary John's Not Mad)",
+      "assessment": "I Swear is based on the true life story of John Davidson, a Scottish man with Tourette syndrome who became an advocate. The film dramatizes real events and real relationships. Robert Aramayo's casting represents acting merit and emotional truth rather than identity-matching. However, the casting choice is fidelity-appropriate: Aramayo brings the necessary vulnerability and strength to the role, and his BAFTA-winning performance validates the casting decision."
+    }
   }
 ]
