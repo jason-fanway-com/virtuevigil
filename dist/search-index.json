@@ -12,6 +12,17 @@
     "poster": "/images/posters/risen-2016.jpg"
   },
   {
+    "slug": "apex-2026",
+    "title": "Apex (2026)",
+    "verdict": "TRADITIONAL LEAN",
+    "genre": "Action / Thriller / Survival",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.8,
+    "tradScore": 18.4,
+    "poster": "/images/posters/apex-2026.jpg"
+  },
+  {
     "slug": "devil-wears-prada-2-2026",
     "title": "The Devil Wears Prada 2",
     "verdict": "MIXED",
