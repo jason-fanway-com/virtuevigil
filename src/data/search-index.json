@@ -571,6 +571,18 @@
     "poster": "/images/posters/super-mario-galaxy-movie-2026.jpg"
   },
   {
+    "slug": "the-super-mario-galaxy-movie-2026",
+    "title": "The Super Mario Galaxy Movie",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation / Adventure / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.55,
+    "tradScore": 23.1,
+    "poster": "/images/posters/the-super-mario-galaxy-movie-2026.jpg"
+  },
+  {
     "slug": "mission-impossible-the-final-reckoning-2025",
     "title": "Mission: Impossible - The Final Reckoning",
     "verdict": "TRADITIONAL",
