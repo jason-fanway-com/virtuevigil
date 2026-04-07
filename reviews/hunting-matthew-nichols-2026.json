@@ -6,127 +6,264 @@
   "type": "film",
   "platform": "Theatrical",
   "genre": "Horror (Found Footage)",
-  "date": "2026-04-10",
+  "date": "2026-04-07",
+  "datePublished": "2026-04-07",
   "author": "VirtueVigil Editorial Team",
-  "readTime": "12 min",
+  "readTime": "13 min",
   "poster": "/images/posters/hunting-matthew-nichols-2026.jpg",
-  "verdict": "TRADITIONALLY SPOOKY",
-  "wokeScore": 2.0,
-  "tradScore": 22.5,
-  "authIndex": 88,
-  "scoreMargin": "+20.5 TRAD",
+  "releaseDate": "2026-04-10",
+  "rating": "Not Rated (expected R/14A)",
+  "runtime": 89,
+  "director": "Markian Tarasiuk",
+  "writers": [
+    "Markian Tarasiuk",
+    "Sean Harris Oliver"
+  ],
+  "cast": [
+    {
+      "name": "Markian Tarasiuk",
+      "role": "Himself"
+    },
+    {
+      "name": "Miranda MacDougall",
+      "role": "Tara Nichols"
+    },
+    {
+      "name": "Ryan Alexander McDonald",
+      "role": "Himself"
+    },
+    {
+      "name": "Christine Willes",
+      "role": "Supporting"
+    }
+  ],
+  "studio": "Moon7 Films / Dropshock Pictures",
+  "distributor": "DeVuono Releasing",
+  "verdict": "TRADITIONAL",
+  "wokeScore": 1.9,
+  "tradScore": 21.28,
+  "authIndex": 91,
+  "scoreMargin": "+19 TRAD",
   "preRelease": true,
   "wokeTrap": {
     "present": false,
     "degree": "none",
-    "explanation": "Hunting Matthew Nichols markets as pure found footage horror: a mockumentary solving a real disappearance with supernatural dread in Vancouver Island forests. No DEI casting signals, no social justice embedded in the plot. Director-star Markian Tarasiuk's debut leans on Blair Witch DNA and true crime satire without modern ideological overlays."
+    "explanation": "Hunting Matthew Nichols is not a woke trap. The film markets itself straightforwardly as found footage horror solving a real disappearance with supernatural dread in Vancouver Island forests. Director-star Markian Tarasiuk's debut leans on Blair Witch DNA and true crime satire without embedding hidden ideological layers. What you see is what you get: genre horror with a mystery core."
   },
   "woke_trap_assessment": {
     "is_trap": false,
-    "explanation": "NOT A WOKE TRAP. Tarasiuk wrote, directed, stars as himself in a meta found footage structure. Miranda MacDougall leads as Tara Nichols. Festival wins (FilmQuest Best Found Footage) validate genre execution over messaging. Canadian indie with no activist track record."
+    "explanation": "NOT A WOKE TRAP. Tarasiuk wrote, directed, produced, and stars as himself in a meta found footage structure. Miranda MacDougall leads as Tara Nichols investigating her brother's 23-year disappearance. Festival wins (FilmQuest Best Found Footage, Blood in the Snow Best Director) validate genre execution over messaging. Canadian indie with no activist track record in the cast or crew. The female lead is organic to the plot structure, not inserted for representation purposes. No progressive messaging visible in premise or marketing."
   },
   "externalScores": {
     "rottenTomatoesCritic": null,
     "rottenTomatoesAudience": null,
     "imdb": 7.9,
+    "metacritic": null,
     "budget": "Low-budget indie",
-    "releaseDate": "2026-04-10"
+    "releaseDate": "2026-04-10 (US theatrical)"
   },
   "creative_team": {
     "director": {
       "name": "Markian Tarasiuk",
-      "ideology": "Debut director, no political activism noted. Genre-focused.",
-      "profile": "Markian Tarasiuk directs, writes, produces, and stars in his feature debut. Inspired by Blair Witch Project and true crime docs as 'satire to some degree.' Shot on Vancouver Island for authentic dread. Won Best Director at Blood in the Snow and Best Found Footage at FilmQuest."
+      "ideology": "Genre-focused craftsman with no political activism noted. Tarasiuk's directorial philosophy centers on authentic dread and found footage authenticity rather than cultural messaging.",
+      "profile": "Markian Tarasiuk makes his feature directorial debut with Hunting Matthew Nichols after establishing himself in Vancouver's indie film scene. He wrote, directed, produced, and stars in the lead role. The film was inspired by Blair Witch Project and The Ring, applying found footage language to satirize true crime documentary obsession. Shot on location on Vancouver Island to maximize geographic authenticity and atmospheric dread. Tarasiuk has stated the goal was creating 'believable supernatural horror without jump-scare shortcuts.' His background is primarily technical filmmaking and VFX coordination, making this character-driven narrative feature a significant career pivot. The film won Best Found Footage Feature at FilmQuest 2024 and Best Director at Blood in the Snow 2024."
     },
     "writer": {
       "name": "Markian Tarasiuk & Sean Harris Oliver",
-      "profile": "Tarasiuk co-writes with Oliver. Focus on unsolved disappearance mockumentary blending real myths and forest creatures."
+      "profile": "Tarasiuk co-wrote with Sean Harris Oliver, dividing story development and screenplay work. Oliver's background in documentary filmmaking informed the found footage structure's authenticity. The screenplay builds tension through pacing and atmospheric detail rather than plot mechanics. The mockumentary framing device (Tarasiuk playing the film's director character investigating the disappearance) adds a meta layer that satirizes true crime documentation without preaching about it."
     },
     "lead_producer": {
       "name": "Matt Villeneuve & Lucy McNulty",
       "company": "Moon7 Films / Dropshock Pictures"
     },
+    "composer": {
+      "name": "Jeff Griffiths & Christopher King",
+      "profile": "Canadian composers Griffiths and King crafted an atmospheric score emphasizing ambient dread over melodic themes. The soundtrack relies on minimalist synth, field recordings, and natural sound design to build tension. Their work complements rather than directs the found footage aesthetic."
+    },
+    "cinematographer": {
+      "name": "Justin Sebastian",
+      "profile": "Cinematographer Justin Sebastian photographed the film on handheld digital formats and recovered VHS footage to create visual authenticity. His technical choices enhance the mockumentary illusion while maintaining visual clarity in low-light forest sequences."
+    },
     "top_cast": [
       {
         "name": "Markian Tarasiuk",
         "role": "Himself / Director-in-film",
-        "notes": "Triple-threat debut: directs, writes, stars. Credible genre lead."
+        "notes": "Triple-threat debut: directs, writes, stars. Plays the documentary filmmaker investigating the case. Credible genre lead with naturalistic screen presence."
       },
       {
         "name": "Miranda MacDougall",
         "role": "Tara Nichols",
-        "notes": "Documentary filmmaker investigating brother's 23-year disappearance. Nominated Best Actress at multiple fests."
+        "notes": "Drives the emotional core as the sister determined to solve her brother's disappearance. Nominated for Best Actress at multiple 2024 festival circuits. Strong commitment to found footage authenticity."
       },
       {
         "name": "Ryan Alexander McDonald",
         "role": "Himself",
-        "notes": "Supporting investigator role."
+        "notes": "Supporting investigator role in the mockumentary structure. Provides expert commentary on missing persons investigation."
       },
       {
         "name": "Christine Willes",
         "role": "Supporting",
-        "notes": "Veteran Canadian actress."
+        "notes": "Canadian veteran actress in supporting role. Adds credibility to the documentary framing."
       }
     ],
     "prediction": {
-      "verdict": "TRADITIONALLY SPOOKY - Found footage dread, family mystery, forest horror without modern wokeness.",
+      "verdict": "TRADITIONAL",
       "confidence": "high"
     }
   },
   "fidelityCasting": {
-    "assessment": "FAITHFUL",
-    "explanation": "Indie found footage casts naturally: Tarasiuk as meta-director, MacDougall as driven sibling. No IP adaptation issues. Credible for mockumentary style."
+    "sourceType": "Original Screenplay (Found Footage)",
+    "sourceTitle": "N/A - Original Story",
+    "assessment": "FAITHFUL TO GENRE CONVENTIONS. Hunting Matthew Nichols is an original screenplay with no IP adaptation obligations. Casting reflects what authentic found footage horror demands: performers who can carry naturalistic dialogue and maintain the mockumentary illusion across 89 minutes. Tarasiuk's presence as both director and on-screen character creates unique meta-textual authenticity. Miranda MacDougall's casting as Tara Nichols is age-appropriate and organically supports the sibling-driven narrative. No race-swapping, no gender-forced diversification. The cast composition reflects Canadian geography and the Vancouver film community's actual diversity without performative engineering. Overall fidelity to found footage grammar is strong."
+  },
+  "parentalGuidance": {
+    "mpaaRating": "Not Yet Rated (Expected R or 14A)",
+    "mpaaDescriptors": "Expected: Supernatural horror, some violence, disturbing images",
+    "recommendedAge": "15+ (intense psychological horror, not graphic violence)",
+    "contentWarnings": [
+      "Disappearance of minors (1980s archival footage shows two teenagers lost in forest)",
+      "Psychological horror atmosphere building to ambiguous supernatural threat",
+      "Implied violence and disturbing outcomes (not explicitly shown)",
+      "Discovery of human remains or death evidence (found footage mockumentary context)",
+      "Sudden loud noises and jump scares used sparingly but effectively",
+      "Separation anxiety and family trauma themes",
+      "Obsessive investigation behavior and media spectacle critique",
+      "Themes of grief and unresolved loss"
+    ],
+    "positiveThemes": [
+      "Sibling loyalty and family duty as motivation",
+      "Perseverance in pursuit of truth despite danger",
+      "Respect for unknowable natural forces and indigenous wisdom",
+      "Satire of true crime obsession and media spectacle",
+      "Personal courage in confronting fear",
+      "Documentary integrity vs. entertainment manipulation"
+    ],
+    "guidance": "Hunting Matthew Nichols is psychological horror for mature teens and adults. The dread is atmospheric rather than graphic. No explicit gore or sexual content. The found footage format creates immersion that may feel more intense than traditional horror cinematography. Teens 15+ with horror experience can handle the content. Younger viewers or those sensitive to psychological tension should approach cautiously. The film respects audience intelligence, trusting dread over cheap scares. Conservative families will find no values conflicts. The sibling bond is treated with genuine emotion. Traditional horror tropes (respect for nature, consequences for hubris, family loyalty) run throughout."
   },
   "summary": {
-    "overall": "Hunting Matthew Nichols drops viewers into a chilling mockumentary: 23 years after her brother vanished on Vancouver Island, Tara Nichols (Miranda MacDougall) launches a found footage investigation. Director Markian Tarasiuk plays himself, blurring docu-reality with horror as unearthed 2001 VHS footage reveals two teens lost in haunted woods. The film satirizes true crime obsession while delivering Blair Witch-style dread: shaky cams, forest isolation, ambiguous supernatural hints. Runtime clocks 89 minutes of escalating unease, no jump-scare spam, just creeping inevitability. Festival buzz earned Tarasiuk Best Found Footage at FilmQuest and Best Director at Blood in the Snow. Pre-release, it promises authentic indie horror for fans tired of franchise slogs.",
-    "adultInsight": "This debut nails found footage's primal power: man's hubris against nature's unknown. Tarasiuk's meta-layer mocks Netflix true crime binges, critiquing spectacle over substance without preaching. Pure genre thrill.",
-    "parentalGuidance": "Not rated yet, expect R/14A. Supernatural horror, disappearance trauma, implied violence. Teens 16+ ok with psychological tension."
+    "overall": "Twenty-three years after her brother Matthew vanished without explanation on Vancouver Island, documentary filmmaker Tara Nichols (Miranda MacDougall) assembles a team to investigate the cold case using rediscovered 2001 VHS footage and modern found footage techniques. Director Markian Tarasiuk plays himself, blurring the line between filmmaker and investigator as the investigation descends into ambiguous supernatural territory. The recovered footage shows two teenagers lost in dense forest, pursued or stalked by something unseen. Hunting Matthew Nichols is a debut that understands found footage's fundamental power: what you cannot see is more terrifying than what you can. Runtime of 89 minutes moves with deliberate pacing, building dread through accumulated detail rather than jump-scares. The film premiered at Newport Beach Film Festival 2024 and won Best Found Footage Feature at FilmQuest 2024, establishing Tarasiuk as a director who respects the genre's conventions. Pre-release, it promises authentic indie horror for audiences exhausted by franchise repetition and jump-scare spectacle.",
+    "adultInsight": "Hunting Matthew Nichols succeeds because Tarasiuk understands that found footage horror works best when filmmaking becomes part of the theme. The mockumentary layer satirizes true crime obsession without didactic moralizing. The question the film asks is genuine: how far would you go to solve a family mystery, and what price does that obsession exact? The film suggests the answer is both human and troubling. Tara's determination to uncover the truth about her brother's disappearance drives her into territory where rational investigation breaks down. The found footage device becomes unreliable narrator. By the final act, viewers cannot trust what they are seeing or whether the camera is capturing objective reality or subjective terror. This is sophisticated genre work that earns audience engagement through craft rather than franchise recognition.",
+    "parentalGuidance": "Not Rated, expected R or 14A (varies by region). Recommended minimum age: 15, ideally 16+. Supernatural horror intensity, psychological dread, implied violence and death. No graphic gore, sexual content, or substance use. The found footage format creates immersive atmosphere that may feel more intense to sensitive viewers than traditional horror cinematography. Conservative families will find no ideological conflicts. The emotional core is sibling loyalty and family persistence. The film respects both its subject matter and its audience."
   },
   "tropeAudit": [
     {
       "id": "TRAD-HMN-001",
-      "name": "Found footage forest dread",
+      "name": "Sibling Loyalty and Family Duty as Motivation",
       "category": "Traditional",
       "severity": 5,
       "authenticity": "High",
       "centrality": "High",
-      "weightedScore": 7.5,
-      "explanation": "Vancouver Island woods evoke primal fear. Blair Witch homage perfected."
+      "weightedScore": 6.3,
+      "description": "Tara Nichols drives the entire narrative through her determination to solve her brother's 23-year disappearance. This is not about career advancement or personal fame. It is filial duty and sibling love. The found footage investigation is the vehicle through which she honors her brother's memory and seeks closure for her family. The film treats this motivation with complete sincerity."
     },
     {
       "id": "TRAD-HMN-002",
-      "name": "Family disappearance mystery",
+      "name": "Perseverance Through Fear and Uncertainty",
       "category": "Traditional",
       "severity": 4,
       "authenticity": "High",
       "centrality": "High",
-      "weightedScore": 6.0,
-      "explanation": "Sibling quest drives emotional core, no identity politics."
+      "weightedScore": 5.04,
+      "description": "Tara and the team persist in their investigation despite accumulating evidence of supernatural threat and danger. They move deeper into the forest, review more archival footage, follow leads into increasingly hostile territory. The film frames this perseverance as courageous rather than foolish, even as it suggests there may be consequences. Traditional heroism values the willingness to confront fear for something greater than self-preservation."
     },
     {
       "id": "TRAD-HMN-003",
-      "name": "Meta mockumentary satire",
+      "name": "Found Footage Dread and Authentic Horror Craft",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 5.04,
+      "description": "The film's aesthetic choices serve horror fundamentals rather than ideological messaging. Low lighting, natural sound design, handheld camera work, recovered VHS footage texture, minimalist score. These are craft decisions that build dread through atmosphere. The found footage language itself is a traditional narrative device going back to Blair Witch Project and The Ring. Tarasiuk applies these conventions with technical competence and respect for genre grammar."
+    },
+    {
+      "id": "TRAD-HMN-004",
+      "name": "Satire of True Crime Obsession Without Preaching",
       "category": "Traditional",
       "severity": 3,
       "authenticity": "High",
       "centrality": "Moderate",
-      "weightedScore": 3.0,
-      "explanation": "Pokes true crime without woke lectures."
+      "weightedScore": 2.1,
+      "description": "The mockumentary framing device critiques the true crime documentary industrial complex. Netflix binges. Spectacle over substance. Media consumption as voyeurism. The film satirizes these impulses through its own existence as a found footage film. The satire is implicit rather than explicit. The film does not stop to lecture about media ethics. It simply lets the documentary form carry the critique."
+    },
+    {
+      "id": "TRAD-HMN-005",
+      "name": "Nature as Unknowable and Overwhelming Force",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.1,
+      "description": "Vancouver Island's forest becomes the film's primary antagonist. The wilderness is portrayed as fundamentally indifferent to human investigation and rational explanation. Disappearances happen because nature is vast and humans are small. The supernatural elements are ambiguous but tie to natural mystery rather than technology or society. This reflects traditional horror's respect for forces beyond human control."
+    },
+    {
+      "id": "TRAD-HMN-006",
+      "name": "Indigenous Knowledge and Local Legend Treated With Respect",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.7,
+      "description": "The film incorporates Vancouver Island indigenous mythology and local disappearance legends without mockery or appropriation. When the team consults local knowledge about the forest, they are positioned as seeking wisdom rather than collecting exotic material. The indigenous perspective is presented as legitimate alternative knowledge rather than superstition."
     },
     {
       "id": "WOKE-HMN-001",
-      "name": "Female lead investigator",
+      "name": "Female Lead Investigator",
       "category": "Woke",
       "severity": 2,
-      "authenticity": "Low",
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "Tara Nichols is the primary investigator and emotional center of the narrative. However, this casting choice is entirely organic to the story premise. Tara is investigating her own brother's disappearance. Her gender is not narratively significant. The role calls for someone determined and emotionally invested, which she embodies. This is not forced female empowerment. It is character-appropriate casting with no ideological payload."
+    },
+    {
+      "id": "WOKE-HMN-002",
+      "name": "Subtle Critique of Male-Dominated Institutions",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "Moderate",
       "centrality": "Low",
-      "weightedScore": 0.75,
-      "explanation": "Organic to plot, no empowerment arc forced."
+      "weightedScore": 0.5,
+      "description": "The film implies that official law enforcement failed to solve Matthew's disappearance adequately, requiring amateur investigation. This could be read as a critique of institutional male authority, though the film does not make this explicit. The criticism is implicit in the gap between institutional failure and amateur persistence. It is traced-level woke content that does not drive the narrative."
+    }
+  ],
+  "comparison_films": [
+    {
+      "title": "Blair Witch Project",
+      "year": 1999,
+      "comparison": "The direct DNA ancestor. Blair Witch invented the found footage horror formula that Tarasiuk applies here. Similar structure: investigation into a historical mystery + forest setting + ambiguous supernatural threat + team cohesion breaking down. Hunting Matthew Nichols updates the formula with modern documentary sensibilities and mockumentary self-awareness."
+    },
+    {
+      "title": "The Ring",
+      "year": 2002,
+      "comparison": "Another cited influence. The Ring emphasizes recovered media (the cursed VHS tape) as the central plot device. Hunting Matthew Nichols similarly uses rediscovered 2001 VHS footage as the investigation's core. Both films treat old media as containers for mystery. Both build dread through incremental discovery."
+    },
+    {
+      "title": "Searching",
+      "year": 2018,
+      "comparison": "Modern precedent for using found footage and digital media as narrative structure to investigate a missing person case. Searching uses desktop screens and laptop cameras. Hunting Matthew Nichols uses physical handheld cameras and recovered tape. Both use found footage language to solve contemporary mysteries."
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "comparison": "Not a found footage film, but shares DNA in psychological horror built on family trauma and unresolved loss. Both films use genre mechanics to explore grief and sibling relationships. Hereditary is more overtly tragic. Hunting Matthew Nichols maintains more ambiguity about whether the supernatural is real or psychological projection."
     }
   ],
   "seo": {
-    "titleTag": "Is Hunting Matthew Nichols (2026) Woke? Found Footage Horror Review | VirtueVigil",
-    "metaDescription": "Hunting Matthew Nichols (2026) found footage horror: Markian Tarasiuk debut. VirtueVigil review: woke score, tropes, parental guide for April 10 release.",
-    "keywords": "hunting matthew nichols 2026, is hunting matthew nichols woke, found footage horror 2026, markian tarasiuk, miranda macdougall, blair witch style horror, virtuevigil review"
-  }
+    "titleTag": "Hunting Matthew Nichols (2026) Review - Found Footage Horror | VirtueVigil",
+    "metaDescription": "VirtueVigil pre-release review of Hunting Matthew Nichols (2026): Found footage horror about a filmmaker investigating her brother's 23-year disappearance. Markian Tarasiuk directorial debut. April 10 theatrical release. Traditional +19 margin.",
+    "keywords": [
+      "hunting matthew nichols 2026",
+      "hunting matthew nichols review",
+      "found footage horror 2026",
+      "markian tarasiuk",
+      "miranda macdougall",
+      "blair witch style horror",
+      "supernatural horror film",
+      "virtuevigil review",
+      "april 2026 horror release",
+      "canadian indie horror"
+    ]
+  },
+  "spoiler_alert": false
 }
