@@ -109186,5 +109186,190 @@
       "sourceTitle": "Original screenplay concept by Ryan Engle and Kristin N. Engle",
       "assessment": "You, Me & Tuscany is original IP with no source material precedent. The casting of Halle Bailey as Anna and Reg\u00e9-Jean Page as Michael represents commercial casting for theatrical romantic comedy. Bailey and Page are both actors with screen presence and romantic chemistry capability. The film was written with contemporary casting in mind. There is no fidelity question because there is no prior version to be faithful to. The casting is appropriate to the genre and the theatrical market this film targets."
     }
+  },
+  {
+    "id": "hamlet-2026",
+    "slug": "hamlet-2026",
+    "title": "Hamlet",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Drama / Tragedy",
+    "date": "2026-04-07",
+    "datePublished": "2026-04-07",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "14 min",
+    "poster": "/images/posters/hamlet-2026.jpg",
+    "releaseDate": "2026-04-10",
+    "rating": "R",
+    "runtime": "113 minutes",
+    "director": "Aneil Karia",
+    "writers": [
+      "Michael Lesslie",
+      "William Shakespeare (play)"
+    ],
+    "cast": [
+      {
+        "name": "Riz Ahmed",
+        "role": "Prince Hamlet"
+      },
+      {
+        "name": "Art Malik",
+        "role": "Claudius"
+      },
+      {
+        "name": "Sheeba Chaddha",
+        "role": "Gertrude"
+      },
+      {
+        "name": "Morfydd Clark",
+        "role": "Ophelia"
+      },
+      {
+        "name": "Joe Alwyn",
+        "role": "Laertes"
+      },
+      {
+        "name": "Timothy Spall",
+        "role": "Polonius"
+      },
+      {
+        "name": "Avijit Dutt",
+        "role": "Ghost of Hamlet's Father"
+      }
+    ],
+    "verdict": "STRONGLY WOKE",
+    "wokeScore": 30.24,
+    "tradScore": 8.96,
+    "scoreMargin": "-21 WOKE",
+    "preRelease": true,
+    "wokeTrap": true,
+    "woke_trap_assessment": {
+      "is_trap": true,
+      "explanation": "Hamlet qualifies as a woke trap under VVWS v1.1 criteria: (1) The film scores as Strongly Woke (-21 margin, meeting the 'negative margin' requirement for trap status). (2) The woke content is not apparent in the first 50 minutes. Early scenes establish Shakespeare fidelity, character relationships, and traditional tragedy structure. Viewers expecting a classic adaptation encounter this. The ideological framework (South Asian setting, class critique, marginalization as moral compass) intensifies in act two and crystallizes in act three. By final scene, it is unmistakable. A conservative viewer screening this film without knowledge of Riz Ahmed's activism or Aneil Karia's stated social-impact filmmaking would experience the revelation of political intent as the film progresses. This meets the trap definition: 'woke content not apparent until at least 50% of runtime' combined with 'deceptive packaging' (marketed as Shakespeare adaptation, functions as political recontextualization)."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 83,
+      "metacritic": 66,
+      "platformRelease": "Theatrical, April 10, 2026 (US Limited)"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Aneil Karia",
+        "ideology": "PROGRESSIVE",
+        "profile": "Progressive filmmaking approach. Stated interest in films that 'make social impact.' No overt political activism in interviews, but thematic work consistently engages with marginalized perspectives and systemic critique."
+      },
+      "top_cast": [
+        {
+          "name": "Riz Ahmed",
+          "role": "Prince Hamlet"
+        },
+        {
+          "name": "Art Malik",
+          "role": "Claudius"
+        },
+        {
+          "name": "Sheeba Chaddha",
+          "role": "Gertrude"
+        },
+        {
+          "name": "Morfydd Clark",
+          "role": "Ophelia"
+        },
+        {
+          "name": "Joe Alwyn",
+          "role": "Laertes"
+        }
+      ]
+    },
+    "parentalGuidance": {
+      "age6to12": "Not appropriate. R rating, violence, suicide references, and mature themes preclude younger audiences.",
+      "age13to15": "Not recommended without parental guidance. Content rating is restrictive; ideological content is complex and unsuitable for this age group.",
+      "age16plus": "Parental discretion strongly advised. Mature audiences may engage with the film intellectually, but families with conservative values should understand the film's progressive ideological framework (class critique, South Asian identity as organizing principle, marginalization as moral compass). The film presents these perspectives without counterargument.",
+      "parentalNote": "This is not a film for families seeking wholesome entertainment or traditional Shakespeare appreciation. It is a deliberately recontextualized political work. Parents should preview and decide whether they wish their teens exposed to this particular ideological lens."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-001",
+        "name": "South Asian Cultural Setting as Central Framework",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 7.2,
+        "description": "Film is set exclusively within London's elite South Asian (Hindu) community. This is deliberate repositioning of a European Renaissance tragedy. While well-executed and internally consistent, the setting frames all relationships, aesthetics, and social structures through South Asian identity. Cannot discuss plot without acknowledging this central positioning. Critics interpret this as 'bold reimagining'; conservative analysis recognizes it as ideological recontextualization."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Riz Ahmed as Lead Actor and Producer",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 5.4,
+        "description": "Riz Ahmed is a British-Pakistani activist known for racial justice, immigration, and BAME representation advocacy. His presence as both star and producer signals intentional ideological positioning. Ahmed carries the entire film and his activism informs audience interpretation. While his performance is acclaimed, his personal political framework is inseparable from viewer reception."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Hamlet's Descent to Marginalized Spaces",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 10.08,
+        "description": "Third act explicitly has Hamlet descend 'from elite London society into the city's underground, moving between Hindu temples and homeless camps.' This trajectory does not exist in Shakespeare. It is inserted for ideological purpose: to frame Hamlet's moral awakening as renunciation of class privilege and connection to marginalized communities. This is class critique embedded within tragedy structure. Conservative interpretation: virtue signaling disguised as character development."
+      },
+      {
+        "id": "WOKE-004",
+        "name": "Class Critique and Elite Privilege Framework",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 7.56,
+        "description": "Film frames the central conflict not merely as family betrayal but as exposing 'the rot at the heart of the family's empire.' Claudius is not just a murderer; he is a symbol of corrupt privilege. Hamlet's journey is toward recognizing complicity in that corruption and seeking redemption through solidarity with the marginalized. This class consciousness is inserted ideological content, not organic to source material."
+      },
+      {
+        "id": "TRAD-001",
+        "name": "Fidelity to Shakespearean Source Material",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 2.52,
+        "description": "Core plot remains intact: father murdered, uncle marries mother, prince seeks vengeance and descends into madness. Character names, major plot beats, and thematic structure faithfully follow Shakespeare. This authenticity lends credibility to the film's ideological reframing."
+      },
+      {
+        "id": "NEUTRAL-001",
+        "name": "Female Characters with Agency",
+        "category": "Neutral",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "description": "Morfydd Clark (Ophelia) and Sheeba Chaddha (Gertrude) are portrayed as complex, with meaningful screen time and emotional agency. This is consistent with modern Shakespeare productions and does not constitute ideological insertion; it is standard contemporary practice."
+      },
+      {
+        "id": "NEUTRAL-002",
+        "name": "Suicide, Mental Health, and Violence as Thematic Core",
+        "category": "Neutral",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "Tragedy by definition includes suicide, violence, and psychological deterioration. This is essential to Hamlet. Content warnings are appropriate; ideological critique is not."
+      }
+    ],
+    "fidelity_casting": "High fidelity to source material; low fidelity to traditional production norms. Casting is colorblind within the chosen South Asian setting (authentic to that community), but the deliberate repositioning of an English Renaissance tragedy into contemporary South Asian London is a significant departure from Shakespearean tradition. This is intentional and ideological, not organic adaptation. Hamlet, Claudius, Gertrude, Ophelia, and Polonius are recast as South Asian characters without historical precedent in the play. While this casting is internally consistent and dramatically effective, it represents a wholesale ideological reframing rather than traditional adaptation.",
+    "summary": "Hamlet is a bold, visually striking reframing of Shakespeare's tragedy that deliberately repositions the classic narrative within South Asian elite society, complete with cultural specificity (Kathak dance, Hindu temples, South Asian family dynamics). Director Aneil Karia and star Riz Ahmed (who also produced) craft a gritty, emotionally visceral interpretation that earns critical respect. The central plot remains faithful: a prince returns home to discover his uncle has murdered his father and married his mother. However, the film layers contemporary ideology atop Shakespeare's framework, most notably in its third act, where Hamlet's quest for vengeance becomes a descent into marginalized spaces (homeless camps, temples) that frame his moral awakening as a renunciation of elite privilege. While marketed as a classic adaptation, this is fundamentally a recontextualization of Hamlet through a progressive ideological lens that critiques class, positions South Asian identity as the film's organizing principle, and uses Shakespeare as a vehicle for social commentary. Conservative families expecting a straightforward tragedy will encounter substantial political framing.",
+    "finalVerdict": "Hamlet is a skillfully executed, critically acclaimed reframing of Shakespeare's tragedy that uses the classical source material as scaffolding for progressive ideological commentary. Director Aneil Karia and star Riz Ahmed (producer) create a viscerally engaging work that will resonate with audiences who appreciate contemporary reinterpretation and social critique. However, conservative families should understand: this is not a traditional Hamlet adaptation. The film's South Asian setting, class critique, and final act descent into marginalized spaces are ideologically purposeful. The film does not present these elements neutrally; it frames them as moral awakening. For conservative viewers, the 113-minute runtime disguises a fundamentally political work. The critical acclaim is deserved from a technical and performance standpoint. The ideological positioning is undeniable.",
+    "contentWarnings": {
+      "violence": "Moderate violence including sword combat, bloodshed. One character's death by poison depicted on screen. Suicide references present.",
+      "language": "Frequent profanity. Period-appropriate Shakespeare language mixed with modern slang.",
+      "sexualContent": "None.",
+      "drugUse": "Brief depiction of drug use in marginalized scenes.",
+      "religiousContent": "Hindu temple settings; spiritual elements central to South Asian cultural framing. No mockery of faith, but religious setting used to signify 'authentic' vs. 'elite' spaces.",
+      "scaryMoments": "Ghost of Hamlet's father appears multiple times. Hamlet's mental state deteriorates visibly; psychological horror elements. Some viewers may find the descent into homelessness and marginalization disturbing."
+    }
   }
 ]
