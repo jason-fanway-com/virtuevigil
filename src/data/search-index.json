@@ -72,6 +72,18 @@
     "poster": "/images/posters/you-me-tuscany-2026.jpg"
   },
   {
+    "slug": "hamlet-2026",
+    "title": "Hamlet",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Theatrical",
+    "genre": "Drama / Tragedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 30.24,
+    "tradScore": 8.96,
+    "poster": "/images/posters/hamlet-2026.jpg"
+  },
+  {
     "slug": "risen-2016",
     "title": "Risen",
     "verdict": "TRADITIONAL",
