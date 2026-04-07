@@ -1,5 +1,17 @@
 [
   {
+    "slug": "mother-mary-2025",
+    "title": "Mother Mary",
+    "verdict": "PREDICTED: WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Psychological Drama, Thriller, Music",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 28.4,
+    "tradScore": 19.8,
+    "poster": "/images/posters/mother-mary-2025.jpg"
+  },
+  {
     "slug": "risen-2016",
     "title": "Risen",
     "verdict": "TRADITIONAL",
