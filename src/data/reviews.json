@@ -15207,14 +15207,14 @@
     "genre": "Drama/Romance",
     "date": "2026-03-02",
     "author": "VirtueVigil Editorial Team",
-    "readTime": "9 min",
+    "readTime": "15 min",
     "poster": "/images/posters/wuthering-heights-2026.jpg",
-    "verdict": 20,
-    "wokeScore": 20,
-    "tradScore": 13.88,
-    "margin": -6.13,
+    "verdict": "WOKE TRAP",
+    "wokeScore": 35,
+    "tradScore": 26,
+    "margin": -9,
     "authIndex": 38,
-    "scoreMargin": "-6 WOKE",
+    "scoreMargin": "-9 WOKE",
     "preRelease": false,
     "publishedDate": "2026-03-02",
     "byline": "VirtueVigil Editorial Team",
@@ -15223,8 +15223,8 @@
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
-      "pct_runtime": null,
-      "explanation": "NOT A WOKE TRAP. Wuthering Heights (2026) earns a WOKE LEAN verdict, but it is not a bait-and-switch. Fennell's sensibility is baked into the premise and advertised openly. Critics and conservative commentators flagged the film's approach before it opened. Parents who walk in unaware have not been deceived by the marketing. The woke content is not hidden."
+      "pct_runtime": "40-55%",
+      "explanation": "This is, on paper, an adaptation of Emily Bronte's 1847 gothic masterpiece - one of the most widely taught novels in the English-speaking world. Families and romance audiences who know the title will not expect what Emerald Fennell has made. The marketing downplayed the explicit sexual content."
     },
     "creative_team": {
       "director": {
@@ -15445,7 +15445,7 @@
       "metaDescription": "VirtueVigil scores Emerald Fennell's Wuthering Heights (2026) with Margot Robbie. Full ideology audit, trope breakdown, parental guide. Verdict: WOKE LEAN.",
       "keywords": "is wuthering heights woke, wuthering heights 2026 review, wuthering heights 2026 woke, emerald fennell wuthering heights, margot robbie wuthering heights, wuthering heights 2026 conservative review, wuthering heights 2026 parents guide, virtuevigil wuthering heights"
     },
-    "datePublished": "2026-03-02"
+    "datePublished": "2026-04-10"
   },
   {
     "id": "peaky-blinders-the-immortal-man-2026",
