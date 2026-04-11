@@ -103732,7 +103732,7 @@
     "tradScore": 20.02,
     "authIndex": 76,
     "scoreMargin": "+13.62 TRAD",
-    "preRelease": true,
+    "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
