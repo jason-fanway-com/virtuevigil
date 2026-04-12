@@ -6090,6 +6090,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/rbc2026.jpg"
   },
   {
+    "slug": "toy-story-5-2026",
+    "title": "Toy Story 5",
+    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation / Adventure / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 9.38,
+    "tradScore": 34.02,
+    "poster": null
+  },
+  {
     "slug": "the-christophers-2026",
     "title": "The Christophers",
     "verdict": "TRADITIONAL LEAN",
