@@ -111222,7 +111222,7 @@
     "wokeScore": 3.5,
     "tradScore": 14.2,
     "authIndex": 68,
-    "scoreMargin": "+10.7 TRAD",
+    "scoreMargin": 10.7,
     "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
