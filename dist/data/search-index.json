@@ -6058,5 +6058,35 @@
     "wokeScore": 11.4,
     "tradScore": 7.8,
     "poster": "/images/posters/the-mandalorian-and-grogu-2026.jpg"
+  },
+  {
+    "slug": "mortal-kombat-ii-2026",
+    "title": "Mortal Kombat II",
+    "verdict": "TRADITIONAL",
+    "year": 2026,
+    "wokeScore": 5.2,
+    "tradScore": 15.8,
+    "poster": "https://image.tmdb.org/t/p/w500/mk2poster2026.jpg"
+  },
+  {
+    "slug": "remarkably-bright-creatures-2026",
+    "title": "Remarkably Bright Creatures",
+    "verdict": "MIXED",
+    "year": 2026,
+    "wokeScore": 8.4,
+    "tradScore": 9.1,
+    "poster": "https://image.tmdb.org/t/p/w500/rbc2026.jpg"
+  },
+  {
+    "slug": "the-christophers-2026",
+    "title": "The Christophers",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Comedy / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 9.44,
+    "tradScore": 14.28,
+    "poster": "/images/posters/the-christophers-2026.jpg"
   }
 ]
