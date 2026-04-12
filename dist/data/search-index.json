@@ -6022,5 +6022,17 @@
     "wokeScore": 3,
     "tradScore": 20.23,
     "poster": null
+  },
+  {
+    "slug": "deep-water-2026",
+    "title": "Deep Water",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Thriller / Survival / Action",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.5,
+    "tradScore": 14.2,
+    "poster": "/images/posters/deep-water-2026.jpg"
   }
 ]
