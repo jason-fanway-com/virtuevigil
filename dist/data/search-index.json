@@ -36,6 +36,18 @@
     "poster": "/images/posters/sheep-detectives-2026.jpg"
   },
   {
+    "slug": "normal-2026",
+    "title": "Normal",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Crime / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 7.98,
+    "tradScore": 22.26,
+    "poster": "/images/posters/normal-2026.jpg"
+  },
+  {
     "slug": "wuthering-heights-2026",
     "title": "Wuthering Heights",
     "verdict": "WOKE TRAP",
