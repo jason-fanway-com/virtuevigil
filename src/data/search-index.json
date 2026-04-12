@@ -6034,5 +6034,17 @@
     "wokeScore": 3.5,
     "tradScore": 14.2,
     "poster": "/images/posters/deep-water-2026.jpg"
+  },
+  {
+    "slug": "pressure-2026",
+    "title": "Pressure",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Drama / History / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 7.2,
+    "tradScore": 11.8,
+    "poster": "/images/posters/pressure-2026.jpg"
   }
 ]
