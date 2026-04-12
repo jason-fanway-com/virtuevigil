@@ -6102,6 +6102,18 @@
     "poster": "/images/posters/toy-story-5-2026.jpg"
   },
   {
+    "slug": "omaha-2026",
+    "title": "Omaha",
+    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 10.35,
+    "tradScore": 30.8,
+    "poster": "/images/posters/omaha-2026.jpg"
+  },
+  {
     "slug": "the-christophers-2026",
     "title": "The Christophers",
     "verdict": "TRADITIONAL LEAN",
