@@ -1801,6 +1801,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/marvel-mcu-movies-traditional-values-ranked/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-movies-for-teenagers-non-woke-2026/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-true-story-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-western-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2708,6 +2709,7 @@ function buildListsHubPage() {
         'best-patriotic-war-movies',
         'best-movies-for-teenagers-non-woke-2026',
         'best-true-story-movies-conservatives',
+        'best-western-movies-conservatives',
         'superhero-movies-traditional-values'
       ]
     },
@@ -2789,7 +2791,8 @@ function buildListsHubPage() {
       'best-movies-for-teenagers-non-woke-2026': 'Best Movies for Teenagers (Non-Woke) 2026: Parent-Approved Picks',
       'best-movies-to-watch-april-2026': 'Best Movies to Watch in April 2026 (Ranked by Values)',
       'best-movies-about-education-teaching': 'Best Movies About Education and Teaching (Ranked by Values)',
-      'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories'
+      'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories',
+      'best-western-movies-conservatives': 'Best Western Movies for Conservatives'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -17430,6 +17433,175 @@ function buildAudienceVsCriticScoresListicle() {
     canonicalPath: 'lists/best-true-story-movies-conservatives',
     publishDate: '2026-04-06',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-true-story-movies-conservatives/content.html'), 'utf-8')
+  }));
+
+  writePage('lists/best-western-movies-conservatives/index.html', buildListiclePage({
+    slug: 'best-western-movies-conservatives',
+    title: 'Best Western Movies for Conservatives: 10 Films Built on Grit, Honor, and American Virtue',
+    description: 'Ten Westerns ranked by VirtueVigil traditional values scores. From Tombstone to True Grit to Shane, these are the films that built the moral code conservatives still believe in.',
+    canonicalPath: 'lists/best-western-movies-conservatives',
+    publishDate: '2026-04-13',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-western-movies-conservatives/content.html'), 'utf-8')
+  }));
+
+  writePage('lists/best-comedy-movies-2025/index.html', buildListiclePage({
+    slug: 'best-comedy-movies-2025',
+    title: 'Best Comedy Movies of 2025 for Conservatives (Ranked by Values)',
+    description: 'The 10 best comedy films of 2025 ranked by VirtueVigil traditional values scores. From SpongeBob to Happy Gilmore 2 to Nonnas, these are the comedies worth watching.',
+    canonicalPath: 'lists/best-comedy-movies-2025',
+    publishDate: '2026-04-13',
+    htmlContent: `<article class="listicle-article">
+      <p>Comedy has a problem. Hollywood keeps mistaking lectures for punchlines. Recent years have loaded comedies with diversity quotas, social justice subplots, and ideological signaling so heavy it crushes the joke before it lands. The result is the kind of comedy where you can see the message coming a mile away and the laughter dries up before it starts.</p>
+
+      <p>2025 was different. A handful of comedies this year remembered what the genre is actually for: making people laugh, building warmth, and sending audiences home in a better mood than when they arrived. This list ranks the 10 best 2025 comedy films by VirtueVigil traditional values score. Every film here earned a positive score margin, meaning traditional content outweighed woke messaging. Rankings run from #10 (lowest positive margin) to #1 (highest). Full reviews with trope breakdowns and parental guidance are linked for every entry.</p>
+
+      <hr>
+
+      <h2>#10: The Monkey (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">TRAD: 22.0</span>
+        <span class="mini-score woke">WOKE: 14.0</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Comedy &bull; <strong>Director:</strong> Osgood Perkins</p>
+      <p>After the relentless dread of Longlegs, Osgood Perkins did something no one saw coming: he made a horror-comedy. Adapted from Stephen King's 1980 short story, The Monkey follows twin brothers haunted by a cursed cymbal-clapping toy that kills everyone around it. Perkins plays it for dark laughs more often than scares, and the result is one of the more tonally surprising films of the year.</p>
+      <p>The traditional score of 22 reflects genuine themes of family responsibility, confronting inherited evil, and masculine accountability. At +8 TRAD margin it earns a spot here, though viewers sensitive to horror elements should note the R rating and moderate woke score of 14 reflects some ideological friction in the subtext. For adults who like their comedy pitch-black and their morality earned the hard way, this one delivers.</p>
+      <p><a href="/reviews/the-monkey-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#9: A Minecraft Movie (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">TRAD: 10.24</span>
+        <span class="mini-score woke">WOKE: 2.7</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Adventure/Comedy &bull; <strong>Stars:</strong> Jack Black, Jason Momoa</p>
+      <p>A Minecraft Movie is an honest film. It is not pretending to be Citizen Kane. It is not sneaking in a gender studies lecture. It is two hours of Jack Black yelling, Jason Momoa being absurdly charming, and a cubic world where everything explodes into tiny blocks when you hit it. The $961 million box office suggests audiences were fine with exactly that.</p>
+      <p>The critics mostly disliked it. That gap between critical reception and audience enthusiasm tells the whole story. A Minecraft Movie is not trying to teach you anything. It is trying to entertain kids and the adults who love them, and it succeeds on those terms. Woke score of just 2.7 means the ideological content is almost nonexistent. Clean, fun, and exactly what it advertises.</p>
+      <p><a href="/reviews/a-minecraft-movie-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#8: Lilo &amp; Stitch (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">TRAD: 13.1</span>
+        <span class="mini-score woke">WOKE: 5.6</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Family/Comedy &bull; <strong>Director:</strong> Dean Fleischer Camp</p>
+      <p>Here is something you do not say often about a Disney live-action remake: this one earns it. Director Dean Fleischer Camp essentially recreates the 2002 animated original scene by scene, beat by beat, with enough small additions to feel like a creative choice rather than pure merchandise. The original Lilo and Stitch was always about a broken family finding its shape again, and that core is preserved.</p>
+      <p>The ohana theme, which builds its whole emotional argument on the idea that family means nobody gets left behind or forgotten, is one of the most traditionally resonant frameworks in Disney's catalog. The live-action version does not undercut it. For families looking for a remake that respects the source material and delivers genuine warmth, Lilo and Stitch 2025 is the rare Disney win.</p>
+      <p><a href="/reviews/lilo-and-stitch-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#7: The Bad Guys 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">TRAD: 16.38</span>
+        <span class="mini-score woke">WOKE: 6.93</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Comedy/Crime &bull; <strong>Studio:</strong> DreamWorks</p>
+      <p>The original Bad Guys was a pleasant surprise: a DreamWorks animated film that used French New Wave aesthetics and a genuinely clever premise to deliver one of the more entertaining family films of 2022. The sequel is more of the same. The reformed criminal gang led by Mr. Wolf is struggling to reintegrate into polite society, and the film mines that tension for solid laughs while keeping its moral compass pointed in the right direction.</p>
+      <p>Redemption, accountability, and the difficulty of genuinely changing who you are make up the thematic core. These are traditional values dressed in a heist movie. The woke score of 6.93 is low enough that the ideological friction is minimal. For families that liked the first film, the sequel delivers more of what worked.</p>
+      <p><a href="/reviews/the-bad-guys-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#6: Paddington in Peru (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 22.5</span>
+        <span class="mini-score woke">WOKE: 8.4</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Adventure/Family/Comedy &bull; <strong>Studio:</strong> StudioCanal</p>
+      <p>Paddington Bear has become one of the stranger cultural Rorschach tests in modern cinema. Progressives claim him as an immigration parable. Conservatives claimed him after Queen Elizabeth shared tea and marmalade sandwiches with him during the Platinum Jubilee celebrations. Both are reading into it. The Paddington films are about something simpler and more valuable: a small bear who treats everyone with complete courtesy and transforms the people around him through the force of his good manners.</p>
+      <p>Paddington in Peru takes the Brown family to South America in search of Paddington's Aunt Lucy. The adventure is warm, funny, and built on exactly the values the first two films established: generosity, loyalty, and the idea that how you treat people matters more than who you are. A traditional score of 22.5 with a +14 TRAD margin confirms the franchise has not lost the thread.</p>
+      <p><a href="/reviews/paddington-in-peru-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#5: Bridget Jones: Mad About the Boy (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 26.18</span>
+        <span class="mini-score woke">WOKE: 11.2</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +14.98 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romance/Comedy/Drama &bull; <strong>Stars:</strong> Renee Zellweger, Leo Woodall</p>
+      <p>The most emotionally ambitious entry in the Bridget Jones franchise arrives fourteen years after Bridget Jones's Baby. Bridget is 51, a widow four years into life without Mark Darcy, raising two kids and writing a column about being irrelevant. The film opens in grief and builds toward something genuine: a woman in her fifties finding the courage to be alive again, which turns out to be more interesting than the romantic comedy surface suggests.</p>
+      <p>The traditional score of 26.18 reflects a film that takes grief, parenthood, and personal growth seriously without lecturing. The woke score of 11.2 is higher than most entries on this list, driven by some modern relationship content, but the margin of +14.98 TRAD reflects a film whose overall moral architecture is fundamentally traditional. Renee Zellweger makes Bridget's late-in-life vulnerability feel earned rather than pitiful.</p>
+      <p><a href="/reviews/bridget-jones-mad-about-the-boy-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#4: Nonnas (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 17.0</span>
+        <span class="mini-score woke">WOKE: 1.0</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy/Drama &bull; <strong>Stars:</strong> Vince Vaughn, Susan Sarandon</p>
+      <p>Nonnas is the kind of film that gets made once a year if you are lucky, and usually goes unnoticed because it does not fit the culture war narratives that drive algorithm engagement. It is not woke. It is not a reaction against woke. It is simply good, and what it is good about is worth paying attention to. Joe Scaravella, an MTA mechanic who loses his mother, honors her memory by opening a Staten Island restaurant staffed entirely by grandmothers cooking their family recipes. Based on a true story.</p>
+      <p>Vince Vaughn plays Scaravella with a kind of bruised sincerity that suits the material. The film is about food, family, grief, and the specific comfort of someone's grandmother feeding you at a table in a cramped kitchen. A woke score of just 1.0 with a +16 TRAD margin reflects a film that is simply not interested in ideology. It is interested in people. That is increasingly rare and it shows.</p>
+      <p><a href="/reviews/nonnas-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#3: Dog Man (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 22.54</span>
+        <span class="mini-score woke">WOKE: 3.35</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Comedy/Family &bull; <strong>Studio:</strong> DreamWorks</p>
+      <p>Take the kids. Seriously, this one is fine. Dog Man is a DreamWorks animated film based on Dav Pilkey's best-selling graphic novel series, and it is exactly what parents need: 89 minutes of enthusiastic, clean chaos that kids will love and adults will survive without wanting to leave the theater. A policeman and his dog are mortally wounded in an explosion and fused into one being by a well-meaning doctor. The result is a part-human, part-dog hero who fights crime with his nose.</p>
+      <p>The woke score of 3.35 is essentially zero. There is no ideological agenda here, no progressive subtext, no diversity lecture. There is a good guy who stops bad guys, a dog who loves his human, and a story about finding your purpose when you are made of two conflicting natures. Pilkey's books have sold over 80 million copies for a reason. The film version does not betray them.</p>
+      <p><a href="/reviews/dog-man-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#2: Happy Gilmore 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 31.22</span>
+        <span class="mini-score woke">WOKE: 3.45</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +28 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy/Sports &bull; <strong>Stars:</strong> Adam Sandler, Benny Safdie</p>
+      <p>Twenty-nine years between sequels is a long time. Most follow-ups fail because the audience has grown up and the comedy has not. Happy Gilmore 2 does something most sequels cannot manage: it finds a reason to revisit the character that is emotionally honest rather than purely nostalgic. Happy Gilmore is not who he was. He is a widower, an alcoholic, a man living inside supermarket-sized grief. Sandler plays the damage without flinching, and the film builds its comedy around a man who is genuinely trying to be better for the people he loves.</p>
+      <p>A traditional score of 31.22 and a woke score of just 3.45 puts Happy Gilmore 2 in elite values territory. This is a film about masculine accountability, fatherly love, and the kind of redemption that requires actual cost. The comedy lands because the emotional stakes are real. One of the better Sandler films in years, and one of the cleanest traditional values scores in the 2025 comedy slate.</p>
+      <p><a href="/reviews/happy-gilmore-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#1: The SpongeBob Movie: Search for SquarePants (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">TRAD: 43.1</span>
+        <span class="mini-score woke">WOKE: 1.28</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +42 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Adventure/Comedy &bull; <strong>Studio:</strong> Nickelodeon Movies</p>
+      <p>The fourth SpongeBob theatrical outing arrives with the kind of refreshing simplicity that has become almost exotic in modern animated filmmaking: it tells a straightforward story about friendship and courage, delivers its moral without a lecture, and does not try to be anything other than a SpongeBob movie. SpongeBob wants to be a bigger version of himself. Mr. Krabs, his boss and surrogate father figure, wants to give him that chance. The story is built around that relationship and what it costs to grow up without losing who you are.</p>
+      <p>A traditional score of 43.1 and a woke score of just 1.28 makes this the highest-margin comedy of 2025 in our database by a wide margin. It is not trying to comment on society, challenge assumptions, or advance an agenda. It is trying to tell a story that kids will love and adults will not dread sitting through. In 2025, that alone is remarkable. The fact that it succeeds makes it essential viewing for families who are tired of animation that lectures.</p>
+      <p><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>Methodology</h2>
+      <p>All scores are generated using the VirtueVigil Woke Score Methodology, which measures the density and intensity of progressive ideological content across categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality or entertainment value. Scores reflect ideological content density relative to runtime.</p>
+
+      <p>This list covers 2025 comedy releases reviewed by VirtueVigil as of April 2026. Rankings are based on score margin (Traditional score minus Woke score). For full trope breakdowns, creative team analysis, parental guidance ratings, and comparison films, click through to any individual review. Browse all 2025 reviews at <a href="/lists/">our complete lists directory</a>, or see every 2025 film at <a href="/reviews/">VirtueVigil Reviews</a>.</p>
+    </article>`
   }));
 
   // --- Lists Hub Page ---
