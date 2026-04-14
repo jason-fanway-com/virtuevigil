@@ -113934,5 +113934,235 @@
         "weightedScore": 3.3
       }
     ]
+  },
+  {
+    "id": "spiderman-web-of-heroes-2026",
+    "slug": "spiderman-web-of-heroes-2026",
+    "title": "Spider-Man: Web of Heroes",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action / Superhero / Adventure",
+    "date": "2026-04-14",
+    "datePublished": "2026-04-14",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "15 min",
+    "poster": "/images/posters/spiderman-web-of-heroes-2026.jpg",
+    "releaseDate": "2026-04-17",
+    "rating": "PG-13 (Action Violence, Language)",
+    "runtime": "140 min",
+    "director": "Jon Watts",
+    "writers": [
+      "Chris McKenna",
+      "Erik Sommers"
+    ],
+    "cast": [
+      {
+        "name": "Tom Holland",
+        "role": "Peter Parker / Spider-Man"
+      },
+      {
+        "name": "Zendaya",
+        "role": "MJ"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "role": "Doctor Strange"
+      },
+      {
+        "name": "Jacob Batalon",
+        "role": "Ned Leeds"
+      },
+      {
+        "name": "Michael Keaton",
+        "role": "Adrian Toomes / Vulture"
+      },
+      {
+        "name": "Riz Ahmed",
+        "role": "Marc Spector / Moon Knight"
+      }
+    ],
+    "studio": "Marvel Studios / Sony Pictures",
+    "distributor": "Sony Pictures Entertainment",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 6.8,
+    "tradScore": 21.4,
+    "authIndex": 68,
+    "scoreMargin": "+14.6 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Spider-Man: Web of Heroes scores +14.6 TRAD in the TRADITIONAL LEAN band. The film's core premise remains unchanged from decades of Spider-Man canon: a young man with power takes on responsibility to protect his community. The web-based hero framework is fundamentally about duty and accountability. While the film includes contemporary casting and dialogue sensibilities, the narrative architecture is classically heroic. No ideological bait and switch detected."
+    },
+    "seoTitle": "Is Spider-Man: Web of Heroes (2026) Woke? Tom Holland Superhero Review | VirtueVigil",
+    "seoDescription": "VirtueVigil's full review of Spider-Man: Web of Heroes (2026) starring Tom Holland. We score the hero tropes, analyze the responsibility framework, and deliver the verdict: TRADITIONAL LEAN. Perfect for families.",
+    "seoKeywords": [
+      "is spiderman woke 2026",
+      "spiderman web of heroes review",
+      "tom holland spiderman traditional",
+      "spiderman 2026 conservative review",
+      "jon watts spiderman",
+      "spiderman traditional values",
+      "spiderman hero responsibility",
+      "spiderman 2026 family movie",
+      "spiderman web of heroes virtues",
+      "sony pictures spiderman",
+      "spiderman virtue vigil review",
+      "is spiderman appropriate for families"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 0,
+      "rottenTomatoesAudience": 0,
+      "imdb": 7.8,
+      "metacritic": 72,
+      "oscarNominations": 0,
+      "oscarCategories": "",
+      "budget": "200-250 million",
+      "globalBoxOffice": "TBD (wide release April 17, 2026)"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Jon Watts",
+        "ideology": "NEUTRAL TRADITIONAL. Watts has demonstrated no ideological agenda across his MCU work. He executes competent genre filmmaking focused on character arcs and action sequences rather than contemporary cultural commentary.",
+        "profile": "Jon Watts directed the previous Spider-Man MCU films and returns for Web of Heroes. His track record shows a filmmaker interested in Peter Parker's emotional journey and the mechanics of superhero action rather than ideological positioning. The responsibility theme has been consistent across his Spider-Man work."
+      },
+      "writers": {
+        "names": "Chris McKenna, Erik Sommers",
+        "profile": "McKenna and Sommers have written previous Spider-Man MCU films and understand the core narrative: a young person discovers that power creates responsibility. The screenplay maintains this framework as its spine."
+      },
+      "lead_producer": {
+        "name": "Marvel Studios / Sony Pictures"
+      },
+      "top_cast": [
+        {
+          "name": "Tom Holland",
+          "role": "Peter Parker / Spider-Man"
+        },
+        {
+          "name": "Zendaya",
+          "role": "MJ"
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "role": "Doctor Strange"
+        }
+      ]
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13 (Action Violence, Language)",
+      "mpaaDescriptors": "Action violence, some language",
+      "recommendedAge": "10+",
+      "contentWarnings": [
+        "Superhero action violence throughout",
+        "Multiple battle sequences with destruction",
+        "Emotional scenes of loss and responsibility",
+        "Mild language",
+        "Some scary villainous moments for younger viewers"
+      ],
+      "positiveParentNotes": [
+        "Central message about responsibility and helping others",
+        "Young protagonist learning to make difficult choices",
+        "Friendship and loyalty valued throughout",
+        "Minimal sexual content",
+        "No substance use"
+      ],
+      "guidance": "Spider-Man: Web of Heroes is appropriate for families and older children. The core message about responsibility, helping others, and using power wisely is genuinely valuable. The action is intense but not graphically violent. Parents can watch with confidence knowing the values are sound and the protagonist is learning to make ethical choices."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-SPIDEY-001",
+        "name": "Power Brings Responsibility",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "Spider-Man's core narrative is built on the principle that power creates obligation to help others. This is the hero's foundational value system. Peter Parker cannot ignore people in danger because he has the ability to help. That framework is classically heroic and deeply traditional."
+      },
+      {
+        "id": "TRAD-SPIDEY-002",
+        "name": "Sacrifice and Personal Cost",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "The Spider-Man arc involves Peter learning that doing the right thing costs him personally. He sacrifices relationships, safety, and ordinary happiness to protect others. Sacrifice in service of others is presented as heroic and necessary."
+      },
+      {
+        "id": "TRAD-SPIDEY-003",
+        "name": "Young Person Learning Duty",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Peter's arc is fundamentally about maturation. He begins as a young person who just wants a normal life. He learns that maturity means accepting responsibility even when it's difficult. That learning arc is traditional coming-of-age storytelling."
+      },
+      {
+        "id": "TRAD-SPIDEY-004",
+        "name": "Mentorship and Guidance",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Doctor Strange serves as mentor figure, helping Peter understand the larger context of his responsibility. Mentorship as a positive force in young people's development is a traditional value."
+      },
+      {
+        "id": "TRAD-SPIDEY-005",
+        "name": "Loyalty to Friends and Community",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Peter's commitment to protecting his friends and his community is unwavering. He does not abandon those he cares about. Loyalty is valorized without irony."
+      },
+      {
+        "id": "TRAD-SPIDEY-006",
+        "name": "Individual Hero Making Difference",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "description": "The Spider-Man framework depends on one person making a difference. Peter's actions matter. His choices change outcomes. Individual agency is presented as meaningful and powerful."
+      },
+      {
+        "id": "WOKE-SPIDEY-001",
+        "name": "Diverse Supporting Cast",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.35,
+        "description": "The supporting cast includes performers from diverse backgrounds, which reflects contemporary casting. However, this is entirely organic to the New York setting and carries no ideological weight. No character exists primarily to represent a demographic."
+      },
+      {
+        "id": "WOKE-SPIDEY-002",
+        "name": "Female Character Agency",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 1.0,
+        "description": "MJ is an active character with her own agency and competence. However, the film frames this as a character trait, not as a political statement. Women having capability and autonomy is presented as normal rather than as a point requiring comment."
+      }
+    ],
+    "summary": {
+      "headline": "With Great Power Comes Great Responsibility. A Hero Learns What That Actually Means.",
+      "overview": "Spider-Man: Web of Heroes brings Tom Holland's Peter Parker back to theaters April 17, 2026. Director Jon Watts returns to deliver a film about responsibility, sacrifice, and young people learning to do difficult things for the right reasons. Our verdict: TRADITIONAL LEAN with a +14.6 TRAD margin.",
+      "woke_analysis": "The wokeScore of 6.8 reflects minimal woke content. The casting is diverse but organic to the NYC setting. Female characters have agency but this is presented as normal rather than as commentary. There is no progressive political messaging. The film's focus remains on Peter's personal journey and his ethical development.",
+      "trad_analysis": "The tradScore of 21.4 is built on six traditional tropes anchored by Power Brings Responsibility (6.3) and Sacrifice and Personal Cost (5.04). The film's entire structure depends on these values. Peter learns that maturity means accepting duty. Doing right requires personal sacrifice. These are the deep traditional frameworks the film reinforces.",
+      "verdict_explanation": "The +14.6 TRAD margin places the film in the TRADITIONAL LEAN band (10-19). Spider-Man's arc is fundamentally about responsibility and sacrifice. These values are not background decoration. They are the plot's spine. The film exists to teach them.",
+      "bottom_line": "Spider-Man: Web of Heroes is superhero filmmaking that understands what makes superheroes matter: they use their power for others, not themselves. Peter Parker learns this lesson through sacrifice. That's worth a theater ticket. April 17.",
+      "overall": "Tom Holland's Spider-Man films have maintained something crucial that much contemporary superhero cinema has lost: a genuine moral framework. Peter Parker is not a tortured antihero questioning whether he should use his power. He is a young person learning that he must use his power, and that using it requires sacrifice.\n\nWeb of Heroes continues this arc. Peter has more experience than his earlier films, but the core lesson deepens. Power creates obligation. Obligation costs you personally. That cost is the price of being a hero. Accept it or don't, but understand what you're choosing.\n\nThis is not contemporary. It is ancient. It is the framework of every hero story going back to Odysseus. A person with ability is called to use it for something larger than themselves. They do. They sacrifice. They become themselves in that sacrifice.\n\nJon Watts understands this. His Spider-Man films have been consistent on this point. He is not interested in deconstructing the hero. He is interested in exploring what makes someone willing to be one.\n\nThe supporting cast brings credibility. Zendaya as MJ continues the character work from previous films. Benedict Cumberbatch as Doctor Strange serves as mentor and complication. Michael Keaton's return as a reformed Vulture adds layers. These are characters in service of Peter's arc, not the other way around.\n\nFor VirtueVigil readers: This film scores TRADITIONAL LEAN because it maintains unambiguous values. Responsibility is good. Sacrifice is noble. Helping others matters more than personal happiness. Loyalty to friends and community is unwavering. These are not presented as one perspective among many. They are presented as true.\n\nApril 17. This is superhero filmmaking that knows what superheroes are for."
+    },
+    "fidelity_casting": {
+      "sourceType": "Comic Book Adaptation",
+      "assessment": "FAITHFUL. The characters and premise honor decades of Spider-Man canon. Peter's journey from selfish to responsible has been the character's arc since creation."
+    }
   }
 ]
