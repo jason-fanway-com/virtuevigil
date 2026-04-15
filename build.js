@@ -1802,6 +1802,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-movies-for-teenagers-non-woke-2026/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-true-story-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-western-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/drama-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2733,6 +2734,7 @@ function buildListsHubPage() {
       icon: 'fa-masks-theater',
       slugs: [
         'comedy-movies-woke-ranking-2024',
+        'drama-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
@@ -2792,7 +2794,8 @@ function buildListsHubPage() {
       'best-movies-to-watch-april-2026': 'Best Movies to Watch in April 2026 (Ranked by Values)',
       'best-movies-about-education-teaching': 'Best Movies About Education and Teaching (Ranked by Values)',
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories',
-      'best-western-movies-conservatives': 'Best Western Movies for Conservatives'
+      'best-western-movies-conservatives': 'Best Western Movies for Conservatives',
+      'drama-movies-2026-woke-ranking': 'Every 2026 Drama Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -17601,6 +17604,336 @@ function buildAudienceVsCriticScoresListicle() {
       <p>All scores are generated using the VirtueVigil Woke Score Methodology, which measures the density and intensity of progressive ideological content across categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality or entertainment value. Scores reflect ideological content density relative to runtime.</p>
 
       <p>This list covers 2025 comedy releases reviewed by VirtueVigil as of April 2026. Rankings are based on score margin (Traditional score minus Woke score). For full trope breakdowns, creative team analysis, parental guidance ratings, and comparison films, click through to any individual review. Browse all 2025 reviews at <a href="/lists/">our complete lists directory</a>, or see every 2025 film at <a href="/reviews/">VirtueVigil Reviews</a>.</p>
+    </article>`
+  }));
+
+  writePage('lists/drama-movies-2026-woke-ranking/index.html', buildListiclePage({
+    slug: 'drama-movies-2026-woke-ranking',
+    title: 'Every 2026 Drama Movie Ranked by Woke Score',
+    description: 'All 28 reviewed 2026 drama, biography, and prestige films ranked from most woke to most traditional using VirtueVigil scores. Know what you are watching before you press play.',
+    canonicalPath: 'lists/drama-movies-2026-woke-ranking',
+    publishDate: '2026-04-15',
+    htmlContent: `<article class="listicle-article">
+      <p>Drama is where Hollywood ideology lives. Action films occasionally slip in a lecture. Horror films package political messages in genre wrapping. But drama is the genre where writers and directors say what they actually believe, with no explosions to hide behind. In 2026, that means a wide spectrum: from sharply progressive prestige projects to faith-driven independent films that Hollywood would rather not talk about.</p>
+
+      <p>VirtueVigil has reviewed 28 drama-adjacent releases from 2026, covering everything from HBO prestige fare and literary adaptations to faith-based biopics and streaming originals. This list ranks all of them by VirtueVigil Woke Score margin, running from the most ideologically progressive at the top to the most traditionally grounded at the bottom. The scores reflect the density and intensity of ideological content, not artistic quality. A high woke score does not mean a bad film. It means an ideologically loaded one. Use this list to navigate the 2026 drama slate with full information before you commit your time.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): Hamlet (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -21 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Tragedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The 2026 modernized Shakespeare adaptation earns the highest woke score among all 2026 dramas in the VirtueVigil database. The production recasts the Danish prince's story through contemporary identity and power frameworks, with a creative team whose ideological commitments are visibly embedded in every directorial choice. At -21 WOKE, this is one of the most ideologically dense productions of the year in any genre.</p>
+      <p><a href="/reviews/hamlet-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#2: The Pitt: Season 2 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -20 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Medical Drama &bull; <strong>Platform:</strong> HBO Max</p>
+      <p>HBO Max's prestige medical drama returns for a second season set on the Fourth of July, a choice the writers exploit to deliver pointed commentary on American healthcare, gun violence, and institutional failure. Season 1 built an audience through grounded procedural craft. Season 2 leverages that trust to push a more aggressive ideological agenda, including explicit political messaging tied to the patriotic holiday backdrop. At -20 WOKE, it is one of the most politically loaded network dramas of the year.</p>
+      <p><a href="/reviews/the-pitt-s2-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#3: The Drama (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -14.24 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Dark Comedy / Romance / Drama &bull; <strong>Director:</strong> Kristoffer Borgli</p>
+      <p>Norwegian director Kristoffer Borgli follows Dream Scenario with a film built on a devastating premise: what happens when you discover the person you love once planned to commit a mass shooting? The Drama, according to Borgli, is that society continues on, relationships adapt, and moral clarity dissolves into social performance. It is a film that weaponizes empathy to destabilize conventional moral frameworks. Precisely executed and deliberately provocative, with an ideology it never breaks character to announce.</p>
+      <p><a href="/reviews/the-drama-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#4: Nightbitch (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -14 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Nightbitch opens with genuine craft: a character study of maternal exhaustion that earns its emotional territory in the first half. The performances are grounded, and the frustration of full-time parenthood is rendered honestly. Then the film shifts. What began as an exploration of a universal experience becomes a feminist identity narrative in which motherhood itself is framed as a patriarchal imposition and domesticity as a kind of violence. The pivot costs the film the broad audience it could have reached.</p>
+      <p><a href="/reviews/nightbitch/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#5: Wuthering Heights (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-trap">WOKE TRAP</span>
+        <span class="mini-score woke">MARGIN: -9 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Gothic Romance / Drama &bull; <strong>Director:</strong> Emerald Fennell</p>
+      <p>Emerald Fennell's Wuthering Heights earns the WOKE TRAP designation because it arrives with the full weight of Emily Bronte's beloved source material, gorgeous moors cinematography, and two movie stars at the peak of their appeal, and only gradually reveals the ideological reframing at its core. Fennell uses the Bronte tragedy as a framework for contemporary gender and power analysis that the original text does not support. Beautiful filmmaking in service of a revisionist agenda. Know what you are getting before the story carries you along.</p>
+      <p><a href="/reviews/wuthering-heights-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#6: The Last of Us Season 2 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> HBO</p>
+      <p>Season 1 built massive trust through earned emotional storytelling. Season 2 spends that trust. The ideological reframing that arrives midseason would not have survived scrutiny if introduced in the premiere, so the show buries it under the goodwill it accumulated. The bait-and-switch is architecturally precise: establish the audience's attachment to familiar characters, then use that attachment to deliver a political thesis the first season never signaled. At -8 WOKE, it qualifies as a lean but the architecture is intentional.</p>
+      <p><a href="/reviews/the-last-of-us-s2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#7: Butterfly Dreams (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -7 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Coming-of-Age Drama &bull; <strong>Director:</strong> Dee Rees</p>
+      <p>Director Dee Rees brings formidable craft to a coming-of-age story about a sixteen-year-old trans girl navigating a move from a conservative religious family in rural Kentucky to an inclusive arts school in Louisville. The film centers the protagonist's self-discovery with genuine humanity, and Rees is a skilled enough filmmaker that the ideology is embedded in the story rather than announced from outside it. Audiences who share the film's values will find it moving. Audiences who do not will find it a deliberate challenge to theirs.</p>
+      <p><a href="/reviews/butterfly-dreams-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#8: The Last Witness (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Legal Thriller / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The Last Witness is a legal drama that places institutional critique at the center of its narrative. The justice system, as the film frames it, is not broken by specific bad actors but by structural bias, a progressive diagnostic framing that recurs throughout the screenplay. The craft is solid and the performances are committed. The ideological content is consistent and unambiguous: the system is the problem, not the people who compromised it.</p>
+      <p><a href="/reviews/the-last-witness-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#9: Bridgerton Season 4 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Regency Romance Drama &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Bridgerton Season 4 continues the franchise's operating premise: take the architecture of Regency England, the ballrooms, the costumes, the romantic tension, and strip away all of its social reality. The result is a Cinderella story set in a version of history that has no memory of actual history. The progressive casting and relationship framing that defined earlier seasons persist here. It is comfort entertainment with an ideological underpinning that viewers either accept as part of the package or reject as anachronism. At -6 WOKE, the lean is consistent with the franchise's established pattern.</p>
+      <p><a href="/reviews/bridgerton-season-4-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#10: The Stranger (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Director:</strong> Francois Ozon</p>
+      <p>Francois Ozon adapts Albert Camus' 1942 novel to 1930s Algeria in what critics have called a significant artistic achievement and a deliberate challenge to contemporary sensibility. The film is genuinely philosophical in ways that activist cinema usually is not, which makes it harder to categorize. The -4 WOKE margin places it in WOKE LEAN territory, reflecting the progressive lens Ozon brings to Camus' existentialist framework without fully departing from the source material's moral complexity.</p>
+      <p><a href="/reviews/the-stranger-ozon-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#11: The Devil Wears Prada 2 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +0.7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy / Drama / Fashion &bull; <strong>Stars:</strong> Meryl Streep, Anne Hathaway</p>
+      <p>The Devil Wears Prada 2 arrives as Hollywood's latest attempt to repackage 2000s female-empowerment comfort food for the post-#MeToo era. Twenty years after Andy Sachs chose family and self-respect over ruthless ambition, she returns to Runway Magazine where Miranda Priestly battles existential obsolescence in an industry that has moved past her. The film works when it leans into the original's sharp comedy of ambition. The +0.7 TRAD margin reflects genuine ideological tension that never fully resolves in either direction.</p>
+      <p><a href="/reviews/devil-wears-prada-2-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#12: Outlander Season 8 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Starz / Streaming</p>
+      <p>The final season of the long-running time-travel romance closes out a franchise built on traditional values: family loyalty, personal sacrifice, and love as a force that transcends historical circumstance. The +2 TRAD margin reflects a conclusion that honors the series' core commitments without the ideological drift that overtook some of its Starz siblings. Fans of the first few seasons will find the finale returns to familiar emotional territory.</p>
+      <p><a href="/reviews/outlander-s8/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#13: Youngblood (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Youngblood is a hockey drama that enters a sport Hollywood has largely left alone, and finds a story built around team loyalty, earned respect, and the kind of masculine competitiveness that the broader culture increasingly struggles to portray without apology. The film understands that hockey's appeal is rooted in White, Northern European, and Canadian cultural tradition, and it does not treat that fact as a problem requiring correction. A solid +4 TRAD margin reflects a film that plays it straight.</p>
+      <p><a href="/reviews/youngblood-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#14: Pressure (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4.6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / History / Thriller &bull; <strong>Director:</strong> Ron Howard &bull; <strong>Stars:</strong> Brendan Fraser</p>
+      <p>Ron Howard's submarine drama explores military decision-making under crisis conditions, with Brendan Fraser as a Vice Admiral caught between competing institutional pressures: the mission, crew safety, official orders, and individual conscience. The film places genuine heroism at its center without deconstructing it, which puts it in an increasingly small category of prestige drama. The +4.6 TRAD margin reflects a film that respects military service and institutional duty without the ironic distance that most Hollywood historical dramas apply.</p>
+      <p><a href="/reviews/pressure-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#15: The Christophers (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4.84 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy / Drama &bull; <strong>Director:</strong> Steven Soderbergh &bull; <strong>Stars:</strong> Ian McKellen, Michaela Coel</p>
+      <p>Steven Soderbergh directs Ian McKellen and Michaela Coel in an original drama about artistic integrity, family betrayal, and what remains when a lifetime of creative work is reduced to commodity. The film earns its +4.84 TRAD margin through a genuine engagement with questions of legacy and personal truth that cuts across contemporary ideological lines. McKellen brings gravitas that grounds the material in something older and more durable than trend.</p>
+      <p><a href="/reviews/the-christophers-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#16: Michael (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical Biographical Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The Michael Jackson biopic attempts the most difficult subject a filmmaker could choose in 2026: the most successful recording artist in American history who may have sexually abused children, whose childhood was defined by a father who exploited him while making him globally famous, and whose legacy crosses every political and cultural line. At +5 TRAD, the film ultimately honors Jackson's artistry and roots his story in the traditional values of family and talent without fully resolving the contradictions that make him so difficult to reckon with.</p>
+      <p><a href="/reviews/michael-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#17: California Schemin' (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical Biography / Comedy &bull; <strong>Director:</strong> James McAvoy</p>
+      <p>James McAvoy's directorial debut is a story about two friends who faked their way toward success and faced the consequences. The lesson is traditional in the most direct sense: authenticity matters, sustained dishonesty damages the people you love, and real friendship survives the truth even when the truth is ugly. Funny, character-driven, and ultimately humanistic rather than ideological. At +8 TRAD, it is a film that believes in personal accountability without wrapping the message in a lecture.</p>
+      <p><a href="/reviews/california-schemin-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#18: Melania (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Melania Trump's self-produced documentary-style film is described by its subject as a created experience rather than journalism, which is accurate and revealing. At +8 TRAD, it functions as a portrait of a traditional feminine identity, immigration as assimilation rather than disruption, and a marriage defended through loyalty. Its score reflects its subject matter more than its cinematic ambition. For VirtueVigil readers, the values content is transparent: this is a film that says what it believes, which is more than most prestige projects manage.</p>
+      <p><a href="/reviews/melania-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#19: I Can Only Imagine 2 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Stars:</strong> Milo Ventimiglia, Dennis Quaid</p>
+      <p>The original I Can Only Imagine was a genuine faith-based cinema phenomenon, $83 million on a shoestring budget, proving that sincere Christian storytelling could find an audience when Hollywood ignored it. The sequel arrives eight years later with a larger cast including Milo Ventimiglia and Dennis Quaid, a bigger emotional canvas, and the same core commitments to faith, family, and personal redemption that made the first film land. At +8 TRAD, it delivers what its audience came for without compromise.</p>
+      <p><a href="/reviews/i-can-only-imagine-2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#20: 1923 Season 2 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Paramount+</p>
+      <p>The Yellowstone prequel continues its franchise's commitment to depicting traditional American values without apology: land stewardship, family loyalty, personal sacrifice, and the cost of keeping what your family built. Characters are defined by their choices and their virtues, not by demographic categories. At +8 TRAD, Season 2 delivers what the Yellowstone universe has always promised its audience, which is one of the largest conservative viewer bases on any streaming platform.</p>
+      <p><a href="/reviews/1923-s2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#21: Reminders of Him (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +10.78 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romance / Drama &bull; <strong>Platform:</strong> Netflix</p>
+      <p>A Colleen Hoover adaptation built around one of the most traditional premises in modern romance fiction: a mother fighting against every obstacle to know her child. The film is not interested in provoking controversy. It is interested in one thing, earning tears by depicting maternal love and the cost of absence with emotional honesty. The tearjerker structure, the mother-child relationship at the center, and the romance that grows from shared pain all point toward traditional emotional values. At +10.78 TRAD, the score confirms it.</p>
+      <p><a href="/reviews/reminders-of-him-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#22: Fantasy Life (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13.84 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy / Romance / Drama &bull; <strong>Director:</strong> Matthew Shear</p>
+      <p>Fantasy Life is the kind of New York romantic comedy made by someone who actually lives in New York and actually believes in love. Matthew Shear wrote, directed, and stars in a story that earns every warm thing critics have said about it. It is not interested in deconstructing romance or interrogating its premises. It is interested in two people choosing each other, which remains the most traditional premise in cinema. At +13.84 TRAD, it is the highest-margin outright romance on the 2026 drama list.</p>
+      <p><a href="/reviews/fantasy-life-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#23: Omaha (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">PREDICTED: STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20.45 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Director:</strong> Cole Webley</p>
+      <p>Omaha is a quiet American film about a father who loses his house in the 2008 financial crisis and drives his two children across the country toward an uncertain future. At 84 minutes, it wastes nothing. Directors Cole Webley and writer Robert Machoian strip the story down to its essential element: a man who refuses to stop being a father regardless of what has been taken from him. The +20.45 TRAD prediction reflects a film whose entire moral architecture is built on paternal responsibility and dignity under pressure. An important entry in the genre of genuinely traditional American cinema.</p>
+      <p><a href="/reviews/omaha-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#24: I Swear (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography / Drama &bull; <strong>Platform:</strong> Theatrical / Limited</p>
+      <p>One of the most profoundly human and traditionally grounded films in recent cinema. I Swear celebrates family love, personal courage, and the dignity of every human being while rejecting shame, cruelty, and the reduction of persons to their conditions. It shows that the measure of a person is not their diagnosis or their circumstance but the choices they make and the love they give. At +21 TRAD, it is a film that earns its emotional impact through genuine conviction rather than manipulation.</p>
+      <p><a href="/reviews/i-swear-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#25: Solo Mio (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romance / Comedy / Drama &bull; <strong>Stars:</strong> Kevin James, Julie Ann Emery</p>
+      <p>Kevin James flies to Italy for his wedding. His fiancee leaves him at the altar. What follows is the movie Kevin James was born to make: a film that proves he has real range when he trusts material that asks something genuine from him. Solo Mio is a love story about a man who had to lose everything he planned in order to find what he actually needed. At +21 TRAD, it delivers traditional romantic values, loyalty, sacrifice, and the courage to be vulnerable, without a trace of ideological self-consciousness.</p>
+      <p><a href="/reviews/solo-mio-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#26: The Optimist: The Bravest Act Is Truth (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +22 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Biography &bull; <strong>Platform:</strong> Independent</p>
+      <p>The Optimist is a small independent drama about a real Holocaust survivor named Herbert Heller who kept his past secret for 60 years, and the friendship that finally gave him the courage to speak. It is not loud. It is not political. It is a film about what it costs to carry a secret and what it means to finally put it down. At +22 TRAD, it should not need a culture war review, but it does because great traditionally-grounded films need to find their audiences, and VirtueVigil exists precisely for that purpose.</p>
+      <p><a href="/reviews/the-optimist-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#27: Peaky Blinders: The Immortal Man (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Drama / History &bull; <strong>Platform:</strong> Netflix / Theatrical</p>
+      <p>The Peaky Blinders film delivers exactly what six seasons of television promised: a masculine, violent, morally complex crime drama about a deeply flawed man who comes out of hiding to save his son, fight fascists, and protect his family during Britain's darkest hour. Tommy Shelby is not a role model. He is a man shaped by war and crime who nonetheless fights for something real when it counts. The +23 TRAD margin reflects the franchise's consistent commitment to depicting masculine sacrifice, family loyalty, and the cost of a life built on violence as genuinely tragic rather than politically instructive.</p>
+      <p><a href="/reviews/peaky-blinders-the-immortal-man-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#28 (Most Traditional): A Great Awakening (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +28.35 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> History / Drama / Faith &bull; <strong>Platform:</strong> Angel Studios / Theatrical</p>
+      <p>The highest traditional values score among all 2026 drama releases, and a film that earns it. A Great Awakening tells the story of the Whitefield-Franklin friendship, one of history's most interesting odd couples, with the kind of conviction that faith-based cinema rarely achieves at this level of craft. Take your family. Take your skeptic friend who thinks faith stories are all saccharine nonsense. At +28.35 TRAD, this is the most unapologetically traditional dramatic film of the year, and it is excellent on its own terms.</p>
+      <p><a href="/reviews/a-great-awakening-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>How to Read This List</h2>
+      <p>Scores are generated using the VirtueVigil Woke Score methodology, which measures the density and intensity of ideologically progressive content across categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure artistic quality or entertainment value. A high woke score means a film contains a high volume of identifiable progressive messaging. A high traditional score means it reflects traditional values: family, faith, duty, sacrifice, personal accountability.</p>
+
+      <p>Margin is what matters most for list purposes. A film with a +20 TRAD margin contains roughly 20 points more traditional content than progressive content as measured by our system. A -15 WOKE margin contains roughly 15 points more progressive content. Films clustered near zero are genuinely mixed and the specific tropes driving each score are detailed in the full reviews.</p>
+
+      <p>This list covers 2026 drama releases reviewed by VirtueVigil as of April 2026. Click through any entry for the complete trope-by-trope breakdown, creative team ideological analysis, parental guidance rating, and comparison to similar films. Browse all 2026 releases at <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a> and <a href="/lists/best-traditional-movies-2026/">Best Traditional Movies of 2026</a>, or see the complete review database at <a href="/reviews/">VirtueVigil Reviews</a>.</p>
     </article>`
   }));
 
