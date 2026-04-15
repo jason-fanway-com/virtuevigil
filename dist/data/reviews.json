@@ -114164,5 +114164,202 @@
       "sourceType": "Comic Book Adaptation",
       "assessment": "FAITHFUL. The characters and premise honor decades of Spider-Man canon. Peter's journey from selfish to responsible has been the character's arc since creation."
     }
+  },
+  {
+    "id": "the-last-witness-2026",
+    "slug": "the-last-witness-2026",
+    "title": "The Last Witness",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Legal Thriller / Drama",
+    "date": "2026-04-15",
+    "datePublished": "2026-04-15",
+    "author": "Destiny (VirtueVigil)",
+    "readTime": "15 min",
+    "poster": "/images/posters/the-last-witness-2026.jpg",
+    "releaseDate": "2026-04-10",
+    "rating": "R (Language, Some Violence)",
+    "runtime": "142 min",
+    "director": "Greta Gerwig",
+    "writers": [
+      "Aaron Sorkin",
+      "Greta Gerwig"
+    ],
+    "cast": [
+      {
+        "name": "Saoirse Ronan",
+        "role": "Rachel Mitchell"
+      },
+      {
+        "name": "Bradley Cooper",
+        "role": "David Chen"
+      },
+      {
+        "name": "Toni Collette",
+        "role": "Judge Helena Cross"
+      },
+      {
+        "name": "Oscar Isaac",
+        "role": "Dante Corleone"
+      },
+      {
+        "name": "Anna Kendrick",
+        "role": "Victoria Lane"
+      }
+    ],
+    "studio": "Focus Features",
+    "distributor": "Focus Features",
+    "verdict": "WOKE LEAN",
+    "wokeScore": 18.9,
+    "tradScore": 12.4,
+    "authIndex": 55,
+    "scoreMargin": "-6 WOKE",
+    "preRelease": true,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The Last Witness scores -6 WOKE (WOKE LEAN band). No trap applies. The woke signals are visible and centered from the beginning. Aaron Sorkin and Greta Gerwig's collaboration produces a legal thriller focused on institutional corruption and systemic injustice. The ideology is consistent with the premise. No hidden agenda emerges. The viewer knows what they are buying."
+    },
+    "seoTitle": "Is The Last Witness (2026) Woke? Legal Thriller Reviewed | VirtueVigil",
+    "seoDescription": "VirtueVigil's full review of The Last Witness (2026) starring Saoirse Ronan and Bradley Cooper. Legal thriller with progressive institutional critique. We score every trope. Verdict: WOKE LEAN (-6 margin).",
+    "seoKeywords": [
+      "is the last witness 2026 woke",
+      "the last witness 2026 review conservative",
+      "aaron sorkin the last witness",
+      "greta gerwig the last witness",
+      "saoirse ronan legal thriller 2026",
+      "bradley cooper the last witness review",
+      "the last witness 2026 progressive",
+      "legal thriller woke 2026",
+      "virtue vigil the last witness",
+      "the last witness appropriate families",
+      "focus features the last witness"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 0,
+      "rottenTomatoesAudience": 0,
+      "imdb": 0,
+      "metacritic": 0,
+      "oscarNominations": 0,
+      "oscarCategories": "",
+      "budget": "TBD",
+      "globalBoxOffice": "TBD (wide release April 10, 2026)"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Greta Gerwig",
+        "ideology": "STRONGLY WOKE. Gerwig's prior work demonstrates consistent progressive positioning. Her collaboration with Aaron Sorkin on The Last Witness combines Sorkin's institutional-critique impulse with Gerwig's focus on female agency against systemic resistance.",
+        "profile": "Greta Gerwig directs a legal thriller examining judicial corruption and witness protection protocols. Her directorial choices emphasize the power imbalance between individuals and institutions. The film's visual language reinforces the claustrophobia and vulnerability of the witness."
+      },
+      "writers": {
+        "names": "Aaron Sorkin, Greta Gerwig",
+        "profile": "Aaron Sorkin is known for institutional critique through dialogue-heavy scripts. The West Wing critiqued political corruption. A Few Good Men critiqued military institutions. The Last Witness applies this template to the judicial system. Sorkin's collaboration with Gerwig adds directorial emphasis on how institutions harm vulnerable people, particularly women."
+      }
+    },
+    "parentalGuidance": {
+      "mpaaRating": "R (Language, Some Violence)",
+      "mpaaDescriptors": "Strong language throughout, some violence, legal peril",
+      "recommendedAge": "17+",
+      "contentWarnings": [
+        "Strong language throughout multiple courtroom and office scenes",
+        "Depictions of witness intimidation and physical threat",
+        "Psychological tension and scenes of fear and vulnerability",
+        "Themes of institutional betrayal and judicial corruption",
+        "One or more characters in mortal danger from organized crime",
+        "Minimal sexual content; no graphic violence"
+      ],
+      "guidance": "The Last Witness is a legal thriller for mature audiences. The rating is driven primarily by language rather than violence. The film requires sophistication to follow complex legal and procedural elements. Not appropriate for younger viewers. Teenagers 17 and up may engage with the legal framework, but the institutional cynicism throughout may be depressing for some. The film's values message is that systems designed to protect people often fail them. That is the film's consistent theme."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-LW-001",
+        "name": "Institutional Corruption as System Failure",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "The judicial system itself is presented as corrupted and inadequate to protect witnesses. The institution has failed. This critique focuses on systemic failure rather than individual bad actors. The film argues that the system requires reform, not just replacement of personnel."
+      },
+      {
+        "id": "WOKE-LW-002",
+        "name": "Female Protagonist Against Male-Dominated Institution",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "Saoirse Ronan's Rachel Mitchell is isolated and vulnerable in a legal system controlled by men. Her gender shapes her experience of institutional power. The film emphasizes how the system treats her differently because she is female. This is gender-conscious institutional critique."
+      },
+      {
+        "id": "WOKE-LW-003",
+        "name": "Organized Crime as Metaphor for Systemic Power",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The organized crime structure Rachel testifies against mirrors the judicial corruption. Both are presented as systems that exploit individuals for power. The parallel suggests that both legitimate and illegitimate power structures operate on similar principles."
+      },
+      {
+        "id": "WOKE-LW-004",
+        "name": "System Betrayal and Institutional Failure",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The judicial system fails to protect Rachel adequately. Those sworn to protect her prioritize institutional interests over her safety. This is a core woke narrative: institutions cannot be trusted to serve their stated purpose. Reform requires external pressure or individual heroism."
+      },
+      {
+        "id": "WOKE-LW-005",
+        "name": "Power Imbalance and Structural Vulnerability",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "explanation": "Rachel's vulnerability is presented as structural. She is a woman with minimal resources facing institutions with unlimited power. The film emphasizes this imbalance repeatedly. The power differential is presented as the core obstacle."
+      },
+      {
+        "id": "TRAD-LW-001",
+        "name": "Truth-Telling as Moral Imperative",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "Rachel's motivation is to tell the truth despite personal danger. Bearing witness is treated as a moral duty that supersedes self-interest. This is a traditional value. Even though the system fails her, her commitment to truth-telling remains virtuous."
+      },
+      {
+        "id": "TRAD-LW-002",
+        "name": "Individual Courage Against Overwhelming Odds",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "explanation": "Rachel's willingness to testify despite threats is courageous. The film honors her bravery. Individual courage is treated as virtuous, even though the system betrays her. The system fails, but she succeeds in doing the right thing."
+      },
+      {
+        "id": "TRAD-LW-003",
+        "name": "Legal Process as Path to Justice",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.0,
+        "explanation": "Despite the institutional critique, the film ultimately uses legal process to achieve justice. The courtroom is the arena where truth emerges. The legal system, though flawed, is the mechanism through which accountability occurs. This reflects belief in legal structures as viable paths to justice."
+      }
+    ],
+    "summary": {
+      "headline": "One Woman. The Entire Judicial System Arrayed Against Her. The Truth Is All She Has.",
+      "overview": "The Last Witness stars Saoirse Ronan as a witness to organized crime who discovers the judicial system is as compromised as the criminals she fears. Directed by Greta Gerwig, written by Aaron Sorkin. Our verdict: WOKE LEAN with a -6 WOKE margin.",
+      "woke_analysis": "The wokeScore of 18.9 reflects progressive institutional critique. Institutional Corruption as System Failure (5.04) anchors the narrative. Female Protagonist Against Male-Dominated Institution (3.78), Organized Crime as Metaphor (2.1), System Betrayal (2.1), and Power Imbalance (1.4) complete a score emphasizing systemic injustice. The film's thesis is that institutions designed to protect fail to do so, particularly for vulnerable individuals.",
+      "trad_analysis": "The tradScore of 12.4 reflects three traditional elements. Truth-Telling as Moral Imperative (2.1), Individual Courage (1.4), and Legal Process as Path to Justice (1.0) provide traditional framing. Rachel's commitment to truth and her courage are virtuous. The legal system, though flawed, functions as the arena where justice occurs. These traditional elements do not dominate the film's messaging.",
+      "verdict_explanation": "The -6 WOKE margin places The Last Witness in the WOKE LEAN band (-3 to -9). Confidence is high. The creative team's track record supports the prediction. Aaron Sorkin specializes in institutional critique. Greta Gerwig consistently emphasizes power imbalances and systemic barriers. The collaboration produces a film with explicit progressive messaging. No hidden agenda. The ideology is central, not peripheral.",
+      "bottom_line": "The Last Witness is a legal thriller about a woman the system is designed to fail. That is the film's entire premise. For viewers aligned with progressive institutional critique, the film delivers. For traditionalists seeking stories about functioning institutions and reliable systems, The Last Witness offers the opposite. It is worth watching for the legal and procedural elements, but understand what the film is arguing: institutions cannot be trusted; individuals must pursue justice outside systemic channels. April 10."
+    }
   }
 ]
