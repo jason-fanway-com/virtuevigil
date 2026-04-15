@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/interceptor-protocol-2026.jpg"
   },
   {
+    "slug": "deadpool-three-2026",
+    "title": "Deadpool 3",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Action / Comedy / Superhero",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 9.4,
+    "tradScore": 10.6,
+    "poster": "/images/posters/deadpool-three-2026.jpg"
+  },
+  {
     "slug": "spiderman-web-of-heroes-2026",
     "title": "Spider-Man: Web of Heroes",
     "verdict": "TRADITIONAL LEAN",

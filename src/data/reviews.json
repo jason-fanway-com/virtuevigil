@@ -114571,5 +114571,206 @@
       "assessment": "ORIGINAL SCREENPLAY",
       "explanation": "Interceptor Protocol is an original screenplay by Ade Baker and Karyn Kusama, not adapted from source material. Fidelity casting concerns do not apply. The casting is selected for action capability and character coherence within the military unit framework."
     }
+  },
+  {
+    "id": "deadpool-three-2026",
+    "slug": "deadpool-three-2026",
+    "title": "Deadpool 3",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action / Comedy / Superhero",
+    "date": "2026-04-15",
+    "datePublished": "2026-04-15",
+    "author": "Destiny (VirtueVigil)",
+    "readTime": "14 min",
+    "poster": "/images/posters/deadpool-three-2026.jpg",
+    "releaseDate": "2026-05-01",
+    "rating": "R (Violence, Language, Sexual Content)",
+    "runtime": "134 min",
+    "director": "Shawn Levy",
+    "writers": [
+      "Rhett Reese",
+      "Paul Wernick",
+      "Ryan Reynolds"
+    ],
+    "cast": [
+      {
+        "name": "Ryan Reynolds",
+        "role": "Deadpool/Wade Wilson"
+      },
+      {
+        "name": "Hugh Jackman",
+        "role": "Wolverine/Logan"
+      },
+      {
+        "name": "Zazie Beetz",
+        "role": "Domino"
+      },
+      {
+        "name": "Karan Soni",
+        "role": "Dopinder"
+      },
+      {
+        "name": "Morena Baccarin",
+        "role": "Vanessa"
+      }
+    ],
+    "studio": "Marvel Studios / 20th Century Studios",
+    "distributor": "Marvel Studios",
+    "verdict": "MIXED",
+    "wokeScore": 9.4,
+    "tradScore": 10.6,
+    "authIndex": 52,
+    "scoreMargin": "+1 TRAD",
+    "preRelease": true,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Deadpool 3 scores +1 TRAD (MIXED band). The film's ideology is self-aware and intentionally contradictory. Deadpool's character exists in opposition to both woke and traditional narratives. What emerges is a film that satirizes progressive tropes while satirizing conservative tropes with equal enthusiasm. No trap because the satire is transparent. Viewers know exactly what they are buying."
+    },
+    "seoTitle": "Is Deadpool 3 (2026) Woke? Marvel Action Comedy Reviewed | VirtueVigil",
+    "seoDescription": "VirtueVigil's full review of Deadpool 3 (2026) starring Ryan Reynolds and Hugh Jackman. Action comedy with satire across the spectrum. We score every trope. Verdict: MIXED (+1 margin).",
+    "seoKeywords": [
+      "is deadpool 3 woke",
+      "deadpool 3 2026 review",
+      "deadpool 3 traditional values",
+      "ryan reynolds deadpool 3",
+      "hugh jackman wolverine deadpool",
+      "deadpool 3 marvel 2026",
+      "deadpool 3 review conservative",
+      "virtue vigil deadpool 3",
+      "deadpool 3 appropriate families",
+      "deadpool three 2026"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 0,
+      "rottenTomatoesAudience": 0,
+      "imdb": 0,
+      "metacritic": 0,
+      "oscarNominations": 0,
+      "oscarCategories": "",
+      "budget": "TBD",
+      "globalBoxOffice": "TBD (wide release May 1, 2026)"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Shawn Levy",
+        "ideology": "PRAGMATIC. Levy directs spectacle and comedy. His Stranger Things and Free Guy work shows facility with balancing humor and action without ideological agenda. For Deadpool 3, Levy functions as technical director executing a script that satirizes everything.",
+        "profile": "Shawn Levy brings action and comic timing expertise to Deadpool 3. His role is primarily to execute Reese, Wernick, and Reynolds' screenplay without editorial restraint. The film's tone is Deadpool's, not Levy's."
+      },
+      "writers": {
+        "names": "Rhett Reese, Paul Wernick, Ryan Reynolds",
+        "profile": "Deadpool's screenwriting is built on rapid-fire meta-commentary and satire. The character exists to puncture whatever narrative he is inhabiting. Deadpool 3 likely continues this template: satirizing the MCU's earnest superhero storytelling while simultaneously satirizing attempts to mock that earnestness. The joke is the contradiction."
+      }
+    },
+    "parentalGuidance": {
+      "mpaaRating": "R (Violence, Language, Sexual Content)",
+      "mpaaDescriptors": "Violence and gore, pervasive language, some sexual content and nudity",
+      "recommendedAge": "18+",
+      "contentWarnings": [
+        "Graphic violence and gore throughout action sequences",
+        "Frequent strong profanity including F-words",
+        "Sexual content and nudity",
+        "Crude humor and sexual jokes",
+        "Violence is intentionally exaggerated and cartoonish but still graphic",
+        "Adult themes and references throughout"
+      ],
+      "guidance": "Deadpool 3 is explicitly rated R for mature audiences. The content includes graphic violence, strong language, and sexual content. Unlike many Marvel films, Deadpool does not target younger audiences. The film is designed for adults who appreciate irreverent humor and gratuitous action. Not appropriate for anyone under 18. Even then, viewers need comfort with graphic violence and explicit language."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-DP3-001",
+        "name": "Romantic Love as Motivating Force",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "Deadpool's motivation is love for Vanessa. His violence is justified by his desire to protect her. This is a traditional narrative framework. Love for a partner justifies action. That is a deeply traditional value."
+      },
+      {
+        "id": "TRAD-DP3-002",
+        "name": "Loyalty to Found Family",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "explanation": "Deadpool's team (Domino, Dopinder, others) operates as family through choice rather than blood. Loyalty to this found family is treated as virtuous. The bonds are genuine and unironic."
+      },
+      {
+        "id": "TRAD-DP3-003",
+        "name": "Heroic Violence in Service of Protection",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "explanation": "Despite the satire, Deadpool's violence is framed as protective and heroic. He fights to protect people he loves. This is traditional hero framework, even if delivered ironically."
+      },
+      {
+        "id": "TRAD-DP3-004",
+        "name": "Self-Sacrifice and Duty to Protect Others",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "explanation": "Deadpool ultimately sacrifices his own interests for others' welfare. This is the traditional heroic framework, presented through self-aware humor."
+      },
+      {
+        "id": "WOKE-DP3-001",
+        "name": "Queer Representation and LGBTQ+ Subtext",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "Deadpool 3 continues prior films' approach to LGBTQ+ representation in subtext and meta-commentary. The satire exists but so does the representation. This scores as woke signal because the representation is intentional and celebratory within the satire."
+      },
+      {
+        "id": "WOKE-DP3-002",
+        "name": "Mockery of Traditional Superhero Earnestness",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "explanation": "Deadpool's character exists to mock the earnest narratives of traditional superhero films. The MCU's moral certainty is treated as absurd. This is anti-traditional in the sense that traditional superhero values are the target of satire."
+      },
+      {
+        "id": "WOKE-DP3-003",
+        "name": "Subversion of Institutional Authority",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "explanation": "Deadpool constantly mocks superhero organizations and institutional authority. The jokes target institutions as inherently corrupt or absurd. This is a mild woke signal."
+      },
+      {
+        "id": "WOKE-DP3-004",
+        "name": "Meta-Commentary on Action Film Tropes",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "explanation": "Deadpool's entire character is meta-commentary on action film tropes. Nothing is sacred. This is fundamentally post-modern in approach, which leans woke in execution even if it also mocks woke narratives."
+      }
+    ],
+    "summary": {
+      "headline": "Deadpool Meets Wolverine. Also Meets the MCU. Also Deconstructs Everything About It.",
+      "overview": "Deadpool 3 teams the Merc with a Mouth with Wolverine in a film that satirizes superhero narratives from every direction. Our verdict: MIXED with a +1 TRAD margin barely favoring traditional values.",
+      "woke_analysis": "The wokeScore of 9.4 reflects satirical engagement with progressive themes. LGBTQ+ representation (2.1), Mockery of Traditional Earnestness (1.4), Subversion of Authority (1.4), and Meta-Commentary (1.4) comprise the score. Deadpool's character is fundamentally anti-earnest, which includes anti-traditional earnestness.",
+      "trad_analysis": "The tradScore of 10.6 reflects Deadpool's underlying values. Romantic Love as Motivating Force (2.1), Loyalty to Found Family (1.4), Heroic Violence (1.4), Self-Sacrifice and Duty (1.4) - the film contains traditional values beneath the satire. Deadpool loves Vanessa. He protects his team. He sacrifices himself. These are traditional values.",
+      "verdict_explanation": "The +1 TRAD margin places Deadpool 3 in the MIXED band (-2 to +2). The film satirizes everything equally, making traditional and progressive frameworks equally absurd. In this equilibrium, the traditional values slightly edge out the progressive ones because Deadpool's core motivation remains love and protection. But the margins are razor-thin. The verdict is essentially toss-up territory.",
+      "bottom_line": "Deadpool 3 is a film that refuses to pick a team. Traditional superhero earnestness is mocked. Progressive institutional critique is mocked equally. The only value the film commits to is Deadpool's irreverence. For viewers who appreciate satire across ideological boundaries, this works. For viewers seeking narratives that affirm their values rather than mock them, Deadpool 3 is frustrating. Adults can watch. Teenagers should not. May 1."
+    },
+    "fidelity_casting": {
+      "assessment": "FAITHFUL TO CHARACTER",
+      "explanation": "Ryan Reynolds as Deadpool is now synonymous with the character. His casting is default. The addition of Hugh Jackman as Wolverine reunites the actors in their iconic roles. The casting is faithful to Marvel canon and fan expectations."
+    }
   }
 ]
