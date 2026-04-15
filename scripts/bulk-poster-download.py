@@ -19,7 +19,9 @@ from pathlib import Path
 OMDB_API_KEY = "fff6ef33"
 OMDB_BASE_URL = "http://www.omdbapi.com/"
 SITEMAP_URL = "https://virtuevigil.com/sitemap.xml"
-POSTER_DIR = "/Users/joestrazza/virtuevigil/public/images/posters/"
+# CRITICAL: Build uses src/images/posters/, NOT public/images/posters/
+# public/ has legacy files only. src/ is what gets built into dist/
+POSTER_DIR = "/Users/joestrazza/virtuevigil/src/images/posters/"
 RATE_LIMIT_DELAY = 0.5  # seconds between requests (faster for demo)
 
 # Stats
