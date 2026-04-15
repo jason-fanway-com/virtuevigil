@@ -19,6 +19,38 @@ const DIST = path.join(__dirname, 'dist');
 const reviews = JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
 reviews.sort((a, b) => new Date(b.date) - new Date(a.date));
 
+// === POSTER QUALITY GATE — runs before build ===
+const posterDir = path.join(__dirname, 'src/images/posters');
+const posterIssues = [];
+for (const review of reviews) {
+  if (!review.poster) {
+    posterIssues.push(`MISSING FIELD: ${review.slug} has no poster field`);
+    continue;
+  }
+  const fname = review.poster.split('/').pop().split('?')[0];
+  const fpath = path.join(posterDir, fname);
+  
+  if (!fs.existsSync(fpath)) {
+    posterIssues.push(`MISSING FILE: ${fname} (review: ${review.slug})`);
+    continue;
+  }
+  
+  const stat = fs.statSync(fpath);
+  if (stat.size < 5000) {
+    posterIssues.push(`CORRUPT: ${fname} is only ${stat.size} bytes (review: ${review.slug})`);
+  }
+  
+  // Check for corrupt MV5B... filenames from bad OMDb downloads
+  if (fname.startsWith('MV5B') || fname.includes('@._V1_')) {
+    posterIssues.push(`BAD FILENAME: ${fname} (review: ${review.slug})`);
+  }
+}
+if (posterIssues.length > 0) {
+  console.warn(`\n⚠️  POSTER ISSUES (${posterIssues.length}):`);
+  posterIssues.forEach(i => console.warn(`  ${i}`));
+  console.warn(`Build continuing but ${posterIssues.length} reviews have poster problems.\n`);
+}
+
 // === Helpers ===
 function esc(s) { return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
 
