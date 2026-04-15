@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/the-last-witness-2026.jpg"
   },
   {
+    "slug": "interceptor-protocol-2026",
+    "title": "Interceptor Protocol",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Espionage / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 7.8,
+    "tradScore": 19.2,
+    "poster": "/images/posters/interceptor-protocol-2026.jpg"
+  },
+  {
     "slug": "spiderman-web-of-heroes-2026",
     "title": "Spider-Man: Web of Heroes",
     "verdict": "TRADITIONAL LEAN",
