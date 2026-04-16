@@ -114950,5 +114950,162 @@
       ]
     },
     "datePublished": "2026-04-16"
+  },
+  {
+    "id": "godzilla-x-kong-new-empire-2024",
+    "slug": "godzilla-x-kong-new-empire-2024",
+    "title": "Godzilla x Kong: The New Empire",
+    "year": 2024,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Sci-Fi",
+    "date": "2026-04-16",
+    "author": "Destiny (VirtueVigil)",
+    "readTime": "10 min",
+    "poster": "/images/posters/godzilla-x-kong-new-empire-2024.jpg",
+    "verdict": "MIXED",
+    "wokeScore": 9.44,
+    "tradScore": 10.08,
+    "authIndex": 58,
+    "scoreMargin": "+1 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "NOT A WOKE TRAP. Godzilla x Kong is a monster action spectacle with minimal dialogue and no ideological pretense. The environmental themes (hollow earth destruction, species preservation) are present but not preachy. What you see in the trailers is what you get: giant monsters fighting. No hidden messaging emerges during the film."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Adam Wingard",
+        "ideology": "NEUTRAL. Wingard is a genre filmmaker interested in fun, spectacle, and practical creature effects. His MonsterVerse entries prioritize action and wonder over messaging.",
+        "profile": "Adam Wingard directed Godzilla vs. Kong (2021) and returns for this sequel. He's known for horror and action films (You're Next, Death Note). His approach is straightforward: make the monsters cool, create compelling action sequences, and trust the audience to enjoy the spectacle without overthinking it."
+      },
+      "writer": {
+        "name": "Terry Rossio, Simon Barrett, Jeremy Slater",
+        "profile": "Rossio is a veteran screenwriter (Aladdin, Pirates of the Caribbean). Barrett co-wrote Wingard's previous MonsterVerse film. Slater brings action expertise. The script prioritizes action beats and monster moments over character development. The human characters are functional, not complex."
+      },
+      "lead_producer": {
+        "name": "Thomas Tull, Mary Parent",
+        "company": "Legendary Entertainment / Warner Bros."
+      },
+      "composer": {
+        "name": "Tom Holkenborg"
+      },
+      "top_cast": [
+        {
+          "name": "Rebecca Hall",
+          "role": "Ilene Andrews"
+        },
+        {
+          "name": "Brian Tyree Henry",
+          "role": "Bernie Hayes"
+        },
+        {
+          "name": "Dan Stevens",
+          "role": "Ren Serizawa"
+        },
+        {
+          "name": "Kaylee Hottle",
+          "role": "Jia"
+        }
+      ]
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Creature violence, action and some language",
+      "recommendedAge": "10+",
+      "contentWarnings": [
+        "Intense monster combat - Godzilla and Kong fighting with ferocity",
+        "People killed in various ways - crushed, eaten, caught in monster battles",
+        "Destruction of cities and environments",
+        "An ape creature dies on screen (emotional moment)",
+        "Minimal language - mostly functional dialogue",
+        "No sexual content or nudity",
+        "Themes of environmental destruction and species preservation"
+      ],
+      "guidance": "Godzilla x Kong is a giant monster action spectacle rated PG-13. The violence involves creatures rather than graphic human injury, which makes it appropriate for younger viewers. Children 10+ with monster-movie experience will handle this fine. The death of a beloved creature may upset sensitive younger children. The film's environmental themes are present but not preachy. Mostly, this is a fun action movie about giant creatures fighting. No serious concerns for most families."
+    },
+    "summary": {
+      "overall": "Godzilla x Kong: The New Empire is a gloriously stupid monster action film that knows exactly what it is and commits fully to the bit. It has no pretense of being serious cinema. It exists to show Godzilla and Kong fighting each other and other massive creatures with increasingly elaborate spectacle. By those metrics, it completely succeeds.\n\nThe plot is minimal: Kong is defending the hollow earth from other monsters. Godzilla senses a threat. They fight. Humans run around trying to capture this moment on camera. A new threat emerges. More fighting. Humanity is incidental.\n\nRebecca Hall returns as Ilene Andrews from the previous film. Her job is to provide human perspective and exposition. She does this competently and moves the story along without getting in the way of the monster action. Brian Tyree Henry is delightful as a conspiracy podcaster who turns out to be right about everything. Dan Stevens plays a corporate villain with gleeful scenery-chewing.\n\nThe action sequences are genuinely creative. The camera work is clean enough that you can actually see what the monsters are doing, which is more than many modern action films can claim. The sound design is immaculate - the roars and impacts carry genuine weight. The scale is breathtaking.\n\nFor traditional audiences, there's nothing objectionable here. The film is apolitical. It celebrates human ingenuity and capability - the humans attempt to solve problems rather than waiting for rescue. Kong is depicted as a noble protector defending his territory. There's a touching subplot about a deaf girl (Kaylee Hottle) who communicates with Kong in sign language, presenting deafness as simply a different way of understanding the world rather than a disability. The environmental destruction is presented as something humans cause, which is fair criticism that doesn't rise to messaging level.\n\nFor progressive audiences, the environmental themes and the indigenous connection to the hollow earth are present. But the film doesn't lecture about climate change or colonialism. It's background mythology, not thematic thesis.\n\nThe film is 145 minutes and doesn't drag. It knows when to cut away from dialogue and get back to monsters fighting. It respects the audience's time and attention.\n\nThe new creatures are inventive. The three-headed creature that emerges in the final act is a genuine surprise, visually distinctive and menacing. The practical effects work is evident alongside the CGI, creating texture and weight.",
+      "verdict_explanation": "MIXED (+1 margin). The film is so apolitical that it barely registers on the ideological spectrum. It celebrates human competence, creature nobility, and natural wonder without ideological framing. The minimal environmental themes and the deaf representation skew slightly woke, but they're so understated that they barely register. This is a film that prioritizes spectacle over messaging, which puts it squarely in the middle."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-001",
+        "name": "Human Competence & Problem-Solving",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": 0.8,
+        "centrality": 0.6,
+        "weightedScore": 0.96,
+        "description": "The human characters solve problems through strategy, technology, and teamwork. They don't wait for monsters to solve things. They engage actively with their circumstances. This is functional celebration of human agency."
+      },
+      {
+        "id": "TRAD-002",
+        "name": "Nobility & Honor in Creatures",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": 0.7,
+        "centrality": 0.8,
+        "weightedScore": 1.12,
+        "description": "Kong is depicted as a noble protector defending his territory and his people. He's not a mindless monster but a being with agency, loyalty, and purpose. The film treats him with respect and dignity."
+      },
+      {
+        "id": "TRAD-003",
+        "name": "Teamwork & Loyalty",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": 0.7,
+        "centrality": 0.7,
+        "weightedScore": 0.98,
+        "description": "The human team sticks together. When creatures die defending others, their sacrifice is treated with reverence. Loyalty across species is celebrated."
+      },
+      {
+        "id": "WOKE-001",
+        "name": "Environmental Destruction Framing",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 0.6,
+        "centrality": 0.7,
+        "weightedScore": 0.84,
+        "description": "The hollow earth is being destroyed by human mining and resource extraction. The film shows environmental devastation caused by human greed. While this is fair criticism, the framing aligns with progressive environmentalism."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "Disability Representation (Deaf Character)",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 0.8,
+        "centrality": 0.7,
+        "weightedScore": 0.56,
+        "description": "Jia (Kaylee Hottle, who is deaf in real life) communicates with Kong through sign language. Her deafness is presented as neutral - not a limitation or a tragedy, but simply a different way of understanding. This is representation done with restraint and respect."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "Indigenous-Coded Wisdom",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 0.6,
+        "centrality": 0.5,
+        "weightedScore": 0.36,
+        "description": "The hollow earth is coded with indigenous spiritual knowledge and ancient wisdom. The implication is that indigenous peoples understood ecological balance that modern civilization has lost. This is present but very light touch."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Godzilla x Kong: The New Empire Woke? | VirtueVigil Review",
+      "metaDescription": "VirtueVigil's review of Godzilla x Kong: The New Empire (2024). MIXED verdict - monster action spectacle with minimal ideology. Family-friendly creature combat, clean action choreography, and fun giant monster cinema.",
+      "keywords": [
+        "Godzilla x Kong woke",
+        "Godzilla Kong review",
+        "monster movie 2024",
+        "family action movie",
+        "creature feature",
+        "conservative movie review",
+        "Godzilla parental guide",
+        "Kong vs Godzilla",
+        "VVWS score"
+      ]
+    },
+    "datePublished": "2026-04-16"
   }
 ]
