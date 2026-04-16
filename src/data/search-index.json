@@ -220,7 +220,7 @@
     "verdict": "PREDICTED: TRADITIONAL",
     "genre": "Animated / Adventure / Comedy / Drama / Family",
     "year": 2026,
-    "poster": null
+    "poster": "/images/posters/animal-farm-2026.jpg"
   },
   {
     "slug": "cliffhanger-2026",
@@ -806,7 +806,7 @@
     "year": 2023,
     "wokeScore": 1.4,
     "tradScore": 31.99,
-    "poster": null
+    "poster": "/images/posters/society-of-the-snow-2023.jpg"
   },
   {
     "slug": "smile-2022",
@@ -2750,7 +2750,7 @@
     "type": "film",
     "wokeScore": 3.4,
     "tradScore": 24.29,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmY4NGQ3ZjAtYjc2Zi00MDliLWI4MzQtMTZjNjlmNjUwNzE3XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "/images/posters/last-breath-2025.jpg"
   },
   {
     "slug": "the-naked-gun-2025",
@@ -2762,7 +2762,7 @@
     "type": "film",
     "wokeScore": 5.5,
     "tradScore": 8.19,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjQxOGJmZWItZGIwNy00MWUwLWFlNWQtM2JhMzNhMWVlMWNmXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "/images/posters/the-naked-gun-2025.jpg"
   },
   {
     "slug": "freakier-friday-2025",
@@ -2774,7 +2774,7 @@
     "type": "film",
     "wokeScore": 9.68,
     "tradScore": 15.95,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzEzZGFkMTEtNGMxYS00N2E3LWFhZjItOWJhMTYyY2Q0NTZkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "/images/posters/freakier-friday-2025.jpg"
   },
   {
     "slug": "heart-eyes-2025",
@@ -2786,7 +2786,7 @@
     "type": "film",
     "wokeScore": 5.45,
     "tradScore": 12,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDA4ZjVmM2MtYWJlNC00OTE5LThlOWQtYjQ4Yjg1ODg5MTE4XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "/images/posters/heart-eyes-2025.jpg"
   },
   {
     "slug": "the-life-of-chuck-2025",
@@ -2810,7 +2810,7 @@
     "type": "film",
     "wokeScore": 9.18,
     "tradScore": 13.7,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "/images/posters/materialists-2025.jpg"
   },
   {
     "slug": "smile-2-2024",
@@ -6033,7 +6033,7 @@
     "year": 2024,
     "wokeScore": 3,
     "tradScore": 20.23,
-    "poster": null
+    "poster": "/images/posters/carry-on-2024.jpg"
   },
   {
     "slug": "corporate-retreat-2026",
@@ -6045,7 +6045,19 @@
     "type": "film",
     "wokeScore": 16.4,
     "tradScore": 29.4,
-    "poster": null
+    "poster": "/images/posters/corporate-retreat-2026.jpg"
+  },
+  {
+    "slug": "gladiator-2-2024",
+    "title": "Gladiator II",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action/Adventure/Drama/Historical",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 7.68,
+    "tradScore": 14.84,
+    "poster": "/images/posters/gladiator-ii-2024.jpg"
   },
   {
     "slug": "the-last-witness-2026",
