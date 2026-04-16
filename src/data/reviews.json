@@ -112414,7 +112414,7 @@
     "wokeScore": 18.6,
     "tradScore": 16.8,
     "authIndex": 68,
-    "scoreMargin": "-1.8 WOKE",
+    "scoreMargin": "+1.80 WOKE",
     "preRelease": false,
     "wokeTrap": {
       "is_trap": false,
@@ -112623,7 +112623,12 @@
         "name": "John Williams",
         "profile": "John Williams' scores for Spielberg films have defined the emotional vocabulary of modern cinema. Close Encounters theme is one of the most recognizable pieces of film music ever written. Jaws, E.T., Jurassic Park, War Horse, Lincoln, Bridge of Spies, West Side Story. Williams has scored virtually every major Spielberg film since 1974. For Disclosure Day, Williams would face the challenge of writing music that could accommodate both wonder and dread, both first-contact awe and corporate-conspiracy paranoia. The film's thematic core would likely require two distinct musical motifs: one for the revelation of extraterrestrial reality (echoing Close Encounters' sense of discovery) and one for the Wardex conspiracy (tense, paranoid, driven). Williams at 94 years old remains the most essential collaborator in Spielberg's filmmaking process. His participation signals Spielberg's commitment to treating Disclosure Day as a spiritual successor to Close Encounters rather than as a paranoid thriller or corporate crime drama."
       }
-    ]
+    ],
+    "margins": {
+      "Christian": 0.6000000000000002,
+      "Content": 0.6000000000000002,
+      "Craft": 0.6000000000000002
+    }
   },
   {
     "id": "toy-story-5-2026",
