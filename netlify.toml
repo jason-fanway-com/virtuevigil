@@ -2,6 +2,10 @@
   command = "node build.js"
   publish = "dist"
 
+# Enable branch deploys for staging
+[context.staging-supabase]
+  command = "node build.js"
+
 # Clean URLs: /reviews/nightbitch/ serves reviews/nightbitch/index.html
 [[redirects]]
   from = "/reviews/:slug"
