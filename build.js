@@ -15,9 +15,82 @@ const BUILD_VERSION = 'v1.7.1';
 const SRC = path.join(__dirname, 'src');
 const DIST = path.join(__dirname, 'dist');
 
-// === Load reviews ===
-const reviews = JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
-reviews.sort((a, b) => new Date(b.date) - new Date(a.date));
+// === Fetch reviews from Supabase or fallback to local JSON ===
+async function fetchReviews() {
+  const url = process.env.VV_SUPABASE_URL || 'https://exqqyryeaktochnfxgyh.supabase.co';
+  const key = process.env.VV_SUPABASE_SERVICE_ROLE_KEY;
+  
+  if (!key) {
+    console.log('No Supabase key found, falling back to local reviews.json');
+    return JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
+  }
+  
+  try {
+    console.log('Fetching reviews from Supabase...');
+    const response = await fetch(`${url}/rest/v1/reviews?select=*&limit=1000`, {
+      headers: {
+        'apikey': key,
+        'Authorization': `Bearer ${key}`
+      }
+    });
+    
+    if (!response.ok) {
+      console.warn(`Supabase fetch failed (${response.status}), falling back to local JSON`);
+      return JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
+    }
+    
+    const rows = await response.json();
+    console.log(`Fetched ${rows.length} reviews from Supabase`);
+    
+    // Map DB column names back to the JSON field names build.js expects
+    return rows.map(r => ({
+      id: r.id,
+      slug: r.slug,
+      title: r.title,
+      year: r.year,
+      type: r.type,
+      platform: r.platform,
+      genre: r.genre,
+      date: r.date_published,
+      datePublished: r.date_published,
+      author: r.author,
+      readTime: r.read_time,
+      poster: r.poster,
+      releaseDate: r.release_date,
+      rating: r.rating,
+      runtime: r.runtime,
+      director: r.director,
+      writers: r.writers,
+      cast: r.cast_list,
+      studio: r.studio,
+      distributor: r.distributor,
+      verdict: r.verdict,
+      wokeScore: r.woke_score,
+      tradScore: r.trad_score,
+      authIndex: r.auth_index,
+      scoreMargin: r.score_margin,
+      preRelease: r.pre_release,
+      wokeTrap: r.woke_trap,
+      woke_trap_assessment: r.woke_trap_assessment,
+      creative_team: r.creative_team,
+      fidelityCasting: r.fidelity_casting,
+      summary: r.summary,
+      tropeAudit: r.trope_audit,
+      seo: r.seo,
+      externalScores: r.external_scores,
+      parentalGuidance: r.parental_guidance,
+      spoiler_alert: r.spoiler_alert,
+    }));
+  } catch (err) {
+    console.warn(`Supabase error: ${err.message}, falling back to local JSON`);
+    return JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
+  }
+}
+
+// === Main build function ===
+async function buildSite() {
+  const reviews = await fetchReviews();
+  reviews.sort((a, b) => new Date(b.date) - new Date(a.date));
 
 // === POSTER QUALITY GATE — runs before build ===
 const posterDir = path.join(__dirname, 'src/images/posters');
@@ -1835,6 +1908,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-true-story-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-western-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/drama-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/action-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2767,6 +2841,7 @@ function buildListsHubPage() {
       slugs: [
         'comedy-movies-woke-ranking-2024',
         'drama-movies-2026-woke-ranking',
+        'action-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
@@ -2827,7 +2902,8 @@ function buildListsHubPage() {
       'best-movies-about-education-teaching': 'Best Movies About Education and Teaching (Ranked by Values)',
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories',
       'best-western-movies-conservatives': 'Best Western Movies for Conservatives',
-      'drama-movies-2026-woke-ranking': 'Every 2026 Drama Movie Ranked by Woke Score'
+      'drama-movies-2026-woke-ranking': 'Every 2026 Drama Movie Ranked by Woke Score',
+      'action-movies-2026-woke-ranking': 'Every 2026 Action Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -17972,4 +18048,8 @@ function buildAudienceVsCriticScoresListicle() {
   // --- Lists Hub Page ---
   console.log('\nBuilding lists hub page:');
   writePage('lists/index.html', buildListsHubPage());
-}
+} // end buildSite
+} // close async wrapper
+
+// Run the build
+buildSite().catch(err => { console.error('Build failed:', err); process.exit(1); });
