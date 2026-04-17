@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/the-red-tide-2026.jpg"
   },
   {
+    "slug": "carousel-hearts-2026",
+    "title": "Carousel Hearts",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Animated Family Adventure",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.8,
+    "tradScore": 11.2,
+    "poster": "/images/posters/carousel-hearts-2026.jpg"
+  },
+  {
     "slug": "gladiator-2-2024",
     "title": "Gladiator II",
     "verdict": "TRADITIONAL LEAN",
