@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/carousel-hearts-2026.jpg"
   },
   {
+    "slug": "the-bridge-between-2026",
+    "title": "The Bridge Between",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Prestige Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 8.4,
+    "tradScore": 7.8,
+    "poster": "/images/posters/the-bridge-between-2026.jpg"
+  },
+  {
     "slug": "gladiator-2-2024",
     "title": "Gladiator II",
     "verdict": "TRADITIONAL LEAN",
