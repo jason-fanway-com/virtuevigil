@@ -1909,6 +1909,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-western-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/drama-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/action-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/thriller-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2842,6 +2843,7 @@ function buildListsHubPage() {
         'comedy-movies-woke-ranking-2024',
         'drama-movies-2026-woke-ranking',
         'action-movies-2026-woke-ranking',
+        'thriller-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
@@ -2903,7 +2905,8 @@ function buildListsHubPage() {
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories',
       'best-western-movies-conservatives': 'Best Western Movies for Conservatives',
       'drama-movies-2026-woke-ranking': 'Every 2026 Drama Movie Ranked by Woke Score',
-      'action-movies-2026-woke-ranking': 'Every 2026 Action Movie Ranked by Woke Score'
+      'action-movies-2026-woke-ranking': 'Every 2026 Action Movie Ranked by Woke Score',
+      'thriller-movies-2026-woke-ranking': 'Every 2026 Thriller Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -18306,6 +18309,292 @@ function buildAudienceVsCriticScoresListicle() {
       <p>Most action films lean traditional in their genre DNA because the action hero is fundamentally a figure of earned competence, sacrifice, and decisive force in service of protecting something worth protecting. But the genre has been a vehicle for progressive ideological content increasingly over the past decade, and the 2026 slate reflects that tension clearly. The most woke entries here are not woke because they are bad films. They are woke because their screenwriters chose to embed ideological content in the structure of the story, not just in surface casting or secondary character framing.</p>
 
       <p>Browse all 2026 action reviews at <a href="/reviews/">VirtueVigil Reviews</a>. For more curated picks, see our <a href="/lists/best-action-movies-2026/">Best Action Movies of 2026</a>, <a href="/lists/best-traditional-movies-2026/">Best Traditional Movies of 2026</a>, and <a href="/lists/drama-movies-2026-woke-ranking/">Every 2026 Drama Movie Ranked by Woke Score</a>. The complete 2026 woke tracking is at <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>.</p>
+    </article>`
+  }));
+
+  writePage('lists/thriller-movies-2026-woke-ranking/index.html', buildListiclePage({
+    slug: 'thriller-movies-2026-woke-ranking',
+    title: 'Every 2026 Thriller Movie Ranked by Woke Score',
+    description: 'All 24 reviewed 2026 thriller films ranked from most woke to most traditional using VirtueVigil scores. Know what you are watching before you press play.',
+    canonicalPath: 'lists/thriller-movies-2026-woke-ranking',
+    publishDate: '2026-04-17',
+    htmlContent: `<article class="listicle-article">
+      <p>The thriller is the genre Hollywood uses to dress ideology as urgency. A ticking clock and a morally compromised protagonist make it easy to smuggle progressive assumptions into the narrative without the audience noticing until the credits roll. In 2026, the thriller genre delivered 24 reviewed releases across streaming, theatrical, and international productions. VirtueVigil scored every one using the same dual-scoring system applied across the full database: Woke Score measures progressive ideological content; Traditional Score measures traditional values content including duty, sacrifice, competence, and moral clarity. The margin between the two drives this ranking.</p>
+
+      <p>This list runs from the most ideologically progressive thriller at the top to the most traditionally grounded at the bottom. A high woke score does not make a film unwatchable. It means the ideology is load-bearing. Use this list to navigate the 2026 thriller slate with full information. Every entry links to the complete VirtueVigil review with trope audits, creative team profiles, and parental guidance.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): Scarpetta (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -16 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Streaming</p>
+      <p>The most ideologically loaded thriller of 2026, Scarpetta posts a woke score of 58 against a traditional score of 42, the highest woke score of any reviewed 2026 thriller by a significant margin. The -16 WOKE net reflects a production where progressive content is not incidental but structural: character framing, institutional critique, and ideological messaging are embedded in the story architecture from the first act through the finale. Scarpetta is not a film that slipped a few progressive elements into an otherwise neutral thriller. The ideology is the engine. Viewers who care about this should read the full review before deciding whether to watch.</p>
+      <p><a href="/reviews/scarpetta/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Scarpetta</a></p>
+
+      <hr>
+
+      <h2>#2: Ready or Not 2: Here I Come (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -13 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Dark Comedy / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The original Ready or Not was a tight horror-comedy with a clear class-warfare thesis. The sequel amplifies the ideological content considerably. At woke:21.42 and trad:8.82, the -13 WOKE margin reflects a film where the progressive critique of elite institutions, wealth structures, and family loyalty to inherited power is more explicit and more central to the story than in the original. The genre mechanics are functional. The ideology is the point. Families who liked the first film should know the sequel is substantially more progressive in its framing before they sit down to watch it.</p>
+      <p><a href="/reviews/ready-or-not-2-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ready or Not 2</a></p>
+
+      <hr>
+
+      <h2>#3: Mother Mary (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">PREDICTED: WOKE</span>
+        <span class="mini-score woke">MARGIN: -11 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Drama Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>David Lowery's psychosexual pop thriller is built around a deliberately queer emotional architecture and an uncompromising refusal to anchor its protagonist in traditional frameworks. At woke:18.8 and trad:7.88, the -11 WOKE margin reflects a film that does not hide what it is. Lowery made the film he set out to make and the VirtueVigil score reflects that honesty. This is not a woke trap. The marketing tells you who this film is for. Traditional audiences should take that at face value. The full review breaks down exactly where each point in the scoring comes from.</p>
+      <p><a href="/reviews/mother-mary-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mother Mary</a></p>
+
+      <hr>
+
+      <h2>#4: The Last Witness (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Legal Thriller / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Directed by Greta Gerwig and written by Aaron Sorkin, The Last Witness stars Saoirse Ronan as a witness to organized crime who discovers the judicial system is as compromised as the criminals she fears. The creative team alone signals the ideological direction, and the score confirms it: woke:18.9 against trad:12.4 produces a -6 WOKE margin. The institutional corruption framework is Sorkin's signature, and here it serves a progressive conclusion about what that corruption means and who bears responsibility for it. A WOKE LEAN verdict for a film that could only have been made by this particular team.</p>
+      <p><a href="/reviews/the-last-witness-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Last Witness</a></p>
+
+      <hr>
+
+      <h2>#5: Severance - Season 2 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Apple TV+</p>
+      <p>Severance returns for its second season with the same anti-corporate architecture that defined its first run. At woke:6 and trad:4, the -2 WOKE margin places it in MIXED territory where the anti-corporate themes are structurally embedded and largely organic to the world-building. Some ideological markers are present but remain secondary to the genuine narrative ambition driving the series. The VirtueVigil review notes that the ideological content in Severance is more craft than polemic, which is why the scores are close and the verdict is mixed rather than definitively woke. Viewers who engage with the show as a workplace dystopia will find more value than those scanning for an ideological agenda to unpack.</p>
+      <p><a href="/reviews/severance-s2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Severance Season 2</a></p>
+
+      <hr>
+
+      <h2>#6: Disclosure Day (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Science Fiction / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Steven Spielberg's return to science fiction scores woke:18.6 against trad:16.8 for a -2 WOKE MIXED verdict. Thirty years into his career, Spielberg brings a different ideological lens to first contact than he applied to Close Encounters or E.T. The woke content is concentrated in how the film frames institutional responses to the disclosure event and which voices are positioned as authoritative. The traditional content comes from individual courage, wonder as a primary emotional register, and a narrative structure that still treats family and personal loyalty as central. At -2, the scores are close enough that calling it definitively woke would be inaccurate. Read the full review to understand the distribution.</p>
+      <p><a href="/reviews/disclosure-day-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Disclosure Day</a></p>
+
+      <hr>
+
+      <h2>#7: How to Make a Killing (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Glen Powell murdering his way through a family tree to reclaim stolen wealth lands in traditional lean territory at woke:9 and trad:14. The dark comedy framing complicates the moral arithmetic, but the +5 TRAD margin reflects a film where the protagonist's goal, restoring what was wrongfully taken from his family, carries enough traditional moral weight to tip the balance. Powell's competence-driven character arc and the personal loyalty motivating his actions provide the traditional foundation. The woke content is scattered across secondary character framing and some modern genre conventions rather than concentrated in ideological messaging. A reasonable pick for thriller fans who can handle morally complex protagonists.</p>
+      <p><a href="/reviews/how-to-make-a-killing/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of How to Make a Killing</a></p>
+
+      <hr>
+
+      <h2>#8: Pressure (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / History / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Ron Howard's historical submarine drama scores woke:7.2 and trad:11.8 for a +5 TRAD traditional lean built on military decision-making under extreme pressure. The film centers on submarine command navigating competing pressures where individual judgment and institutional loyalty come into genuine conflict. Howard's approach to military material has always leaned toward earned respect for the people inside the institution rather than critique of the institution itself, and that instinct produces the traditional lean here. The score is modest because neither the woke nor traditional content is particularly high-density. This is a craft film more than an ideological one. Full parental guidance in the linked review.</p>
+      <p><a href="/reviews/pressure-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Pressure</a></p>
+
+      <hr>
+
+      <h2>#9: Fuze (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime Thriller / Heist &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>David Mackenzie's London heist thriller starring Aaron Taylor-Johnson as a bomb disposal expert drawn into a bank robbery scores woke:2.45 and trad:11.27 for a +9 TRAD traditional lean. The military competence of the protagonist, his professional duty even when civilian institutions are compromised, and the physical courage required to do his job under life-or-death conditions carry the traditional score. The 2.45 woke score is notably low, reflecting a film that stays focused on genre mechanics without ideological overlay. Fuze is the kind of thriller that trusts its premise to carry the tension without needing a secondary political thesis. The full VirtueVigil review includes the detailed trope breakdown.</p>
+      <p><a href="/reviews/fuze-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Fuze</a></p>
+
+      <hr>
+
+      <h2>#10: Crime 101 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Old-school crime cinema done without the editorial commentary. Crime 101 scores woke:8 and trad:19 for a solid +11 TRAD traditional verdict. The film delivers a heist picture that trusts its genre without loading the screenplay with statements about something larger. Professional competence is the heroic standard, the plan is the engine, and the execution is what matters. The 8 woke score reflects some modern production choices in secondary character framing, but the traditional content is dominant and character-driven rather than cosmetic. For viewers who want a crime thriller that respects the genre without apology, this one earns its traditional score through the choices that define the story.</p>
+      <p><a href="/reviews/crime-101-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Crime 101</a></p>
+
+      <hr>
+
+      <h2>#11: Interceptor Protocol (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Espionage / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Karyn Kusama's espionage thriller scores woke:7.8 and trad:19.2 for a +11 TRAD traditional verdict built on duty-driven protagonists, institutional loyalty tested by institutional corruption, and the individual conscience as the final backstop when systems fail. The 7.8 woke score is notable for a traditionally-scoring film, reflecting some ideological content in secondary character framing, but the +11 net margin shows the traditional values are both real and dominant. Interceptor Protocol follows the espionage thriller formula that scores well on VirtueVigil: an individual agent with a code, a mission that matters more than career, and moral clarity about what is worth protecting. Full trope audit in the linked review.</p>
+      <p><a href="/reviews/interceptor-protocol-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Interceptor Protocol</a></p>
+
+      <hr>
+
+      <h2>#12: Deep Water (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller / Survival / Action &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Renny Harlin's shark survival thriller scores woke:3.5 and trad:14.2 for a +11 TRAD traditional verdict built on the survival formula at its most elemental: physical competence under duress, self-reliance as the primary virtue, and individual will to survive against an indifferent environment. The 3.5 woke score is low, reflecting a film that stays focused on physical and psychological survival mechanics without layering progressive messaging over the genre. Harlin is a genre craftsman who understands what survival thrillers are for, and the score reflects a production that trusted its premise. Deep Water is a clean pick for viewers who want tension without ideology. Parental guidance details are in the full review.</p>
+      <p><a href="/reviews/deep-water-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Deep Water</a></p>
+
+      <hr>
+
+      <h2>#13: Apex (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller / Survival &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Apex earns a TRADITIONAL verdict with a +12 TRAD margin through a survival thriller framework built on earned competence, physical courage as the primary virtue, and a stripped-down moral universe where the protagonist's skill and determination decide the outcome. The 6.8 woke score reflects some modern genre conventions in secondary character framing, but the dominant narrative thrust is traditional: survival because of what the hero is capable of and what they are willing to endure, not because of institutional support or ideological positioning. For thriller fans looking for a film that takes its genre premise seriously without detours, Apex delivers. Full review with parental guidance at VirtueVigil.</p>
+      <p><a href="/reviews/apex-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Apex</a></p>
+
+      <hr>
+
+      <h2>#14: Corporate Retreat (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">PREDICTED: TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Corporate Retreat uses the team-building setting as a pressure cooker for moral choice, loyalty, and what people reveal about themselves when survival is on the line. At woke:16.4 and trad:29.4, the +13 TRAD net margin is notable given the high woke score: the traditional content is substantial enough to dominate despite significant progressive elements in the framing of corporate culture and workplace dynamics. The film's survival mechanics and character-under-pressure architecture carry the traditional score. The full review breaks down how a film with a 16.4 woke score still lands traditional, which turns out to be an interesting case study in how margin rather than raw score drives the verdict.</p>
+      <p><a href="/reviews/corporate-retreat-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Corporate Retreat</a></p>
+
+      <hr>
+
+      <h2>#15: Normal (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Crime / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Ben Wheatley's small-town sheriff thriller scores woke:7.98 and trad:22.26 for a +14 TRAD traditional verdict. Bob Odenkirk plays a sheriff who discovers organized crime has corroded his town's institutions, and the film's moral argument is that law and order remain worth defending even when the institutions built to enforce them have been compromised. Wheatley's characteristic moral ambiguity is present in the 7.98 woke score, but the net traditional margin is substantial. Normal treats individual competence against systemic corruption as a story about people worth rooting for, not a reason to abandon the values those people defend. Full review with parental guidance at VirtueVigil.</p>
+      <p><a href="/reviews/normal-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Normal</a></p>
+
+      <hr>
+
+      <h2>#16: Silent Storm (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Military Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>A Cold War thriller that treats military professionalism, duty, and hierarchy as sources of moral strength rather than moral compromise. Silent Storm scores woke:5.1 and trad:18.6 for a +14 TRAD traditional verdict that reflects a film built on the proposition that the military chain of command is a genuine moral structure worth operating within, not a system to be individually subverted for righteous ends. The 5.1 woke score is low for a political thriller, reflecting a production that stayed focused on its genre mechanics without significant ideological intrusion. Silent Storm is one of the cleanest traditional picks on this list for viewers who value military competence and duty as the heroic foundation. Full review at VirtueVigil.</p>
+      <p><a href="/reviews/silent-storm-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Silent Storm</a></p>
+
+      <hr>
+
+      <h2>#17: Greenland 2: Migration (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller / Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The sequel to the 2020 survival disaster film scores woke:5.05 and trad:18.62 for a +14 TRAD traditional verdict built on the same foundation that made the original a strong VirtueVigil performer: family survival as the supreme obligation, masculine protection instinct as the narrative engine, and the proposition that a man's first duty is keeping his family alive when civilization fails. The 5.05 woke score reflects some modern genre conventions in the expanded cast, but the Garrity family unit remains the moral center. The core values architecture from the original is intact in the sequel. If the first film worked for you, the second delivers more of the same. Read the full review for the complete breakdown.</p>
+      <p><a href="/reviews/greenland-2-migration-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Greenland 2: Migration</a></p>
+
+      <hr>
+
+      <h2>#18: The Night Agent: Season 3 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Political Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Netflix's political thriller returns with the highest raw traditional score on this list at 38 and a +16 TRAD margin despite a 22 woke score. The Night Agent is the most ideologically complex entry here: the woke content is substantial and concentrated in institutional critique and secondary character framing, but the series core moral architecture remains stubbornly traditional. Peter Sutherland is an individual of competence and conscience who pursues truth when institutions fail. Loyalty to principle matters more than career. At +16 TRAD, the traditional foundations are not cosmetic. They drive the show. Read the full review to understand exactly where the 22 woke score comes from before recommending this to someone who cares about the specifics.</p>
+      <p><a href="/reviews/night-agent-s3-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Night Agent Season 3</a></p>
+
+      <hr>
+
+      <h2>#19: War Machine (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action / Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Patrick Hughes's Netflix sci-fi action thriller scores woke:4 and trad:22 for a +18 TRAD traditional verdict. War Machine is described in the full review as a glorious throwback to the testosterone-fueled sci-fi action films of the 1980s and 1990s, one that does not apologize for treating military competence and mission commitment as the heroic foundation. The 4.0 woke score is notably low for a Netflix production, reflecting a film that stayed on-mission without significant ideological overlay. At +18, the traditional margin is substantial and earned through narrative choices rather than surface aesthetics. For thriller fans who want a film that respects its genre DNA without asking permission, War Machine is one of the strongest picks on this list.</p>
+      <p><a href="/reviews/war-machine-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of War Machine</a></p>
+
+      <hr>
+
+      <h2>#20: Cliffhanger (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">PREDICTED: TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Jaume Collet-Serra's reboot of the 1993 Stallone classic carries a PREDICTED: TRADITIONAL verdict with a +18 TRAD margin. Lily James plays Naomi Cooper, a woman forced to survive the Italian Dolomites alone after kidnappers take her family. The franchise DNA is intact in the scoring: physical courage under extreme conditions, personal determination as the survival variable, and the proposition that some people are built for circumstances where institutional help is simply not available. The 3.67 woke score is low, reflecting a production that updated the action without rewriting the values. Predicted verdict based on full screenplay and production analysis. Read the full review for details.</p>
+      <p><a href="/reviews/cliffhanger-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cliffhanger</a></p>
+
+      <hr>
+
+      <h2>#21: The Yeti (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">PREDICTED: TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Monster / Survival Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Set in the Alaskan wilderness, The Yeti follows adult children searching for their missing fathers and finding a prehistoric predator. At woke:1.56 and trad:19.18, the +18 TRAD predicted traditional verdict reflects a monster survival film that stays focused on family loyalty and physical courage without ideological detours. The 1.56 woke score is among the lowest on this list, reflecting a production that operates in the tradition of wilderness survival horror without loading the screenplay with commentary. Family loyalty as the mission driver and individual courage as the survival virtue carry the traditional score. Predicted verdict from pre-release analysis. Full review at VirtueVigil.</p>
+      <p><a href="/reviews/the-yeti-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Yeti</a></p>
+
+      <hr>
+
+      <h2>#22: Psycho Killer (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +26 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Andrew Kevin Walker, who wrote Se7en, returns to the crime thriller space with a screenplay that treats evil as evil and does not apologize for moral clarity. Psycho Killer scores woke:3 and trad:29 for a +26 TRAD STRONGLY TRADITIONAL verdict that places it among the most traditionally grounded thrillers VirtueVigil has reviewed. Se7en was one of the most morally coherent crime films of the past thirty years, built on the understanding that genuine evil exists and the price of confronting it is real. Psycho Killer operates in that tradition. The moral architecture is not ambiguous. The score reflects a film that knows what it believes about right and wrong and builds its thriller around that certainty rather than away from it.</p>
+      <p><a href="/reviews/psycho-killer/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Psycho Killer</a></p>
+
+      <hr>
+
+      <h2>#23: Dhurandhar: The Revenge (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +26.74 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Spy / Action / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Aditya Dhar's follow-up to Uri: The Surgical Strike posts a zero woke score and a +26.74 TRAD STRONGLY TRADITIONAL verdict. Dhurandhar earns that score through patriotic duty as sacred obligation, family honor as the moral compass driving the mission, masculine lone-wolf competence as the highest tactical and spiritual virtue, and righteous violence in defense of nation and family handled without moral ambivalence. Hollywood has spent a decade making apology films. Indian action cinema at its best operates in the opposite register, and Dhurandhar represents that tradition at full force. Zero woke content. Full traditional commitment. One of the cleanest scores in the 2026 thriller database. Full trope audit in the linked review.</p>
+      <p><a href="/reviews/dhurandhar-the-revenge-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dhurandhar: The Revenge</a></p>
+
+      <hr>
+
+      <h2>#24 (Most Traditional): The Furious (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">PREDICTED: STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +27 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Revenge Thriller / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The Furious posts the highest traditional margin of any 2026 thriller in the VirtueVigil database at +27 TRAD, earning a PREDICTED: STRONGLY TRADITIONAL verdict with a 1.4 woke score that is the second lowest on this list. A Hong Kong action thriller starring Xie Miao as a tradesman forced into the criminal underworld to rescue his kidnapped daughter, The Furious scores at the top of the traditional range through family vengeance as sacred obligation, the father-protector figure as the moral and physical center, masculine competence in service of justice when institutional channels have failed, and moral clarity between the wronged and the wrongdoers that leaves no room for ambiguity. Arriving May 29, 2026 with a 100 percent Rotten Tomatoes critics score from festival circulation, this is what a thriller built entirely on traditional values looks like at full force. Read the full VirtueVigil review for the complete trope audit and parental guidance.</p>
+      <p><a href="/reviews/the-furious-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Furious</a></p>
+
+      <hr>
+
+      <h2>How to Read This List</h2>
+      <p>Scores are generated using the VirtueVigil methodology, which measures the density and intensity of ideologically progressive content (Woke Score) and traditionally grounded content (Traditional Score) across categories including gender politics, religious themes, family structure, institutional critique, and masculine identity. The system does not measure artistic quality. A high woke score means a film contains substantial progressive ideological content. A high traditional score means it contains substantial traditionally grounded content. Margin is the net difference and drives this ranking.</p>
+
+      <p>The thriller genre is ideologically mixed in 2026. The top of this list, particularly Scarpetta and Ready or Not 2, reflects productions where progressive ideology is load-bearing and structural. The middle of the list contains genuinely mixed films like Severance Season 2 and Disclosure Day where craft and ideology coexist without either fully dominating. The bottom of the list, from Psycho Killer through The Furious, reflects a growing international and domestic production current that treats traditional values as a story foundation rather than a problem to be interrogated. That breadth is what makes the 2026 thriller slate worth examining in full.</p>
+
+      <p>Browse all 2026 thriller reviews at <a href="/reviews/">VirtueVigil Reviews</a>. For related genre rankings, see our <a href="/lists/action-movies-2026-woke-ranking/">Every 2026 Action Movie Ranked by Woke Score</a>, <a href="/lists/drama-movies-2026-woke-ranking/">Every 2026 Drama Movie Ranked by Woke Score</a>, and <a href="/lists/horror-movies-2026-woke-ranking/">Every 2026 Horror Movie Ranked by Woke Score</a>. The complete 2026 woke tracking is at <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>.</p>
     </article>`
   }));
 
