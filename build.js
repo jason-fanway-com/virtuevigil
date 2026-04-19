@@ -1911,6 +1911,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/action-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/comedy-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/sci-fi-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2846,6 +2847,7 @@ function buildListsHubPage() {
         'action-movies-2026-woke-ranking',
         'thriller-movies-2026-woke-ranking',
         'comedy-movies-2026-woke-ranking',
+        'sci-fi-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
@@ -2909,7 +2911,8 @@ function buildListsHubPage() {
       'drama-movies-2026-woke-ranking': 'Every 2026 Drama Movie Ranked by Woke Score',
       'action-movies-2026-woke-ranking': 'Every 2026 Action Movie Ranked by Woke Score',
       'thriller-movies-2026-woke-ranking': 'Every 2026 Thriller Movie Ranked by Woke Score',
-      'comedy-movies-2026-woke-ranking': 'Every 2026 Comedy Movie Ranked by Woke Score'
+      'comedy-movies-2026-woke-ranking': 'Every 2026 Comedy Movie Ranked by Woke Score',
+      'sci-fi-movies-2026-woke-ranking': 'Every 2026 Sci-Fi Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -18884,6 +18887,138 @@ function buildAudienceVsCriticScoresListicle() {
       <p>The comedy genre's 2026 ideological spread is wider than any other genre in the VirtueVigil database this year. The Moment and The Sheep Detectives are separated by 54 margin points while both claiming the comedy label. That range reflects the genre's structural flexibility: comedy can be a delivery mechanism for progressive ideology, a vehicle for cultural satire, or a simple entertainment product that trusts traditional storytelling to do the work. The 2026 slate contains examples of all three. This list gives you the full picture before you decide which one you want to spend two hours with.</p>
 
       <p>Browse all 2026 comedy reviews at <a href="/reviews/">VirtueVigil Reviews</a>. For related genre rankings, see our <a href="/lists/action-movies-2026-woke-ranking/">Every 2026 Action Movie Ranked by Woke Score</a>, <a href="/lists/drama-movies-2026-woke-ranking/">Every 2026 Drama Movie Ranked by Woke Score</a>, <a href="/lists/thriller-movies-2026-woke-ranking/">Every 2026 Thriller Movie Ranked by Woke Score</a>, and <a href="/lists/horror-movies-2026-woke-ranking/">Every 2026 Horror Movie Ranked by Woke Score</a>. The complete 2026 woke tracking is at <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>.</p>
+    </article>`
+  }));
+
+  writePage('lists/sci-fi-movies-2026-woke-ranking/index.html', buildListiclePage({
+    slug: 'sci-fi-movies-2026-woke-ranking',
+    title: 'Every 2026 Sci-Fi Movie Ranked by Woke Score',
+    description: 'All 10 reviewed 2026 sci-fi films ranked from most woke to most traditional using VirtueVigil scores. Sci-fi is where Hollywood hides its most ambitious ideology.',
+    canonicalPath: 'lists/sci-fi-movies-2026-woke-ranking',
+    publishDate: '2026-04-19',
+    htmlContent: `<article class="listicle-article">
+      <p>Science fiction has always been Hollywood's preferred vehicle for ideology. The genre's distance from reality creates permission to say things that would be too on-the-nose in a contemporary drama. In 2026, that pattern continues across 10 reviewed sci-fi releases, covering theatrical blockbusters, streaming originals, and a franchise expansion that reveals just how far one iconic property has drifted from its origins.</p>
+
+      <p>VirtueVigil has reviewed 10 sci-fi films from 2026. This list ranks all of them by VirtueVigil margin, running from the most ideologically progressive at the top to the most traditionally grounded at the bottom. The methodology measures the density and intensity of woke ideological content (Woke Score) and traditionally grounded content (Traditional Score) across categories including gender politics, religious themes, family structure, institutional critique, and masculine identity. The margin between the two drives this ranking. Every entry links to the full VirtueVigil review with complete trope audits, creative team profiles, and parental guidance notes.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): The Mandalorian and Grogu (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Science Fiction / Action / Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Jon Favreau's theatrical expansion of the Mandalorian universe is the most ideologically progressive sci-fi film of 2026 by margin. Din Djarin himself carries genuine traditional values: the warrior code, adopted fatherhood, loyalty above institutional affiliation. But the film surrounding him scores heavily on progressive ideological scaffolding through supporting characters, institutional critique framing, and thematic layering that accumulates to a -4 WOKE net margin. The traditional content is real and substantial. The progressive overlay is real too, and it dominates. Star Wars fans who want the full breakdown of where each point comes from should read the complete VirtueVigil review before sitting down with the family.</p>
+      <p><a href="/reviews/the-mandalorian-and-grogu-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Mandalorian and Grogu</a></p>
+
+      <hr>
+
+      <h2>#2: Disclosure Day (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Science Fiction, Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Steven Spielberg's return to science fiction spectacle lands at #2 with a MIXED verdict that obscures just how ideologically dense the film actually is. The raw Woke Score of 18.6 is the highest of any sci-fi film on this list. The Traditional Score of 16.8 is also high, reflecting genuine awe, individual courage, and the Spielberg formula of ordinary people facing the extraordinary. The net margin of -2 WOKE is narrow, but the ideological footprint is enormous in both directions. This is not a low-stakes pick. Families evaluating whether to bring teenagers should read the full review, which catalogs every specific trope and theme before the -2 WOKE verdict becomes meaningful context.</p>
+      <p><a href="/reviews/disclosure-day-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Disclosure Day</a></p>
+
+      <hr>
+
+      <h2>#3: Mercy (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Timur Bekmambetov's Mercy squanders a genuinely strong premise: a detective wakes strapped to an execution chair, put on trial by an AI judge for murdering his wife, given 90 minutes to prove his innocence. The concept lands in TRADITIONAL LEAN territory with a modest +3 TRAD margin because the core moral architecture is traditional: individual innocence against institutional machinery, a man defending himself and the family he is accused of destroying. The woke score of 5 is low. The traditional score of 8 is also low. The film does not have much ideology either direction because it does not do much of anything with its premise. Read the full review if the concept interests you and you want to understand exactly where the margin comes from.</p>
+      <p><a href="/reviews/mercy-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mercy</a></p>
+
+      <hr>
+
+      <h2>#4: Paradise - Season 2 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Hulu</p>
+      <p>Dan Fogelman's Paradise returns for a second season with a +6 TRAD margin, and the interesting story is what the scores reveal about Fogelman's evolution. This Is Us built its reputation on emotional architecture deployed in service of progressive identity narratives. Paradise Season 2 runs a woke score of 16 against a traditional score of 22, reflecting a show where the ideological content is present but the traditional framework holds. Sacrifice, loyalty under pressure, and individual conscience against institutional failure generate the traditional score's dominance. The full review at VirtueVigil explains how a showrunner known for progressive television delivers a net traditional product and whether that calculation holds through the season's complete arc.</p>
+      <p><a href="/reviews/paradise-s2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Paradise Season 2</a></p>
+
+      <hr>
+
+      <h2>#5: Project Hail Mary (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Adventure / Drama &bull; <strong>Platform:</strong> Theatrical (IMAX)</p>
+      <p>The theatrical adaptation of Andy Weir's novel scores +7 TRAD with a traditional lean driven by scientific competence as the primary virtue, duty to humanity as the motivating framework, and a plot built on earned expertise rather than identity or institutional affiliation. The woke score of 10.45 reflects modern franchise elements in the adaptation's choices, but the traditional score of 17.82 holds. Project Hail Mary's core premise, one man using knowledge and problem-solving to save civilization, is a deeply traditional sci-fi archetype, and the adaptation preserves enough of that to land in traditional territory. The full review breaks down the specific adaptation choices that account for the woke score and whether they affect the overall experience.</p>
+      <p><a href="/reviews/project-hail-mary-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Project Hail Mary (2026)</a></p>
+
+      <hr>
+
+      <h2>#6: Dune: Part Three (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Science Fiction Epic &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Denis Villeneuve completes his trilogy at #6 with a +7 TRAD margin and a TRADITIONAL LEAN verdict that reflects the moral complexity of Herbert's source material. Part Three is Villeneuve's most explicitly ideological chapter: Paul Atreides confronts the religious fanaticism he unleashed, and the film grapples seriously with the corrupting nature of messianic politics. The traditional score of 15.5 comes from duty, sacrifice, and the weight of legacy. The woke score of 8.2 reflects the film's institutional critique and its interrogation of masculine power. The net margin is traditional but narrow, appropriate for a film that is genuinely wrestling with hard questions rather than delivering easy answers. The full VirtueVigil review has the complete trope breakdown.</p>
+      <p><a href="/reviews/dune-part-three-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dune: Part Three</a></p>
+
+      <hr>
+
+      <h2>#7: Greenland 2: Migration (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller / Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Greenland 2: Migration earns a TRADITIONAL verdict with a +14 TRAD margin by doing something rare in 2026 sci-fi: telling a story about a dying father walking his family to safety with no ideological ambition beyond that. Strip away the CGI meteor showers and the frozen English Channel and what remains is the oldest story in the book. The woke score of 5.05 is among the lowest in the 2026 sci-fi cohort. The traditional score of 18.62 reflects family loyalty as the primary organizing value, paternal sacrifice as the moral center, and a survival narrative where what a man will endure for his children is the only question that matters. A clean pick for families looking for sci-fi without the lecture. Full review at VirtueVigil.</p>
+      <p><a href="/reviews/greenland-2-migration-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Greenland 2: Migration</a></p>
+
+      <hr>
+
+      <h2>#8: Backrooms (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Supernatural / Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>A24's theatrical adaptation of Kane Pixels' viral YouTube horror universe scores +14 TRAD, making it one of the most traditionally grounded sci-fi adjacent films on this list despite the horror framing. Director Kane Pixels preserves what made the source material compelling: the wrongness of infinite, liminal space as a threat, the small human figure against an incomprehensible environment, survival as the only moral imperative. The woke score of 4.9 reflects an almost entirely apolitical film. The traditional score of 19.34 comes from individual courage, competence under impossible conditions, and a narrative that treats the human will to endure as something worth celebrating. Read the full review for the complete parental guidance breakdown, as the horror content is substantial.</p>
+      <p><a href="/reviews/backrooms-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Backrooms</a></p>
+
+      <hr>
+
+      <h2>#9: War Machine (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action / Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Patrick Hughes delivers the most ideologically straightforward film on this list with a +18 TRAD margin and a TRADITIONAL verdict that reflects a deliberate, unapologetic throwback to the testosterone-driven sci-fi action of the 1980s and 1990s. War Machine sits comfortably on a shelf between Predator and Aliens: a squad of elite soldiers, an unstoppable alien threat, and the virtues of courage, unit cohesion, and masculine competence as the only things standing between humanity and annihilation. The woke score of 4 is the lowest in the 2026 sci-fi cohort. The film does not apologize for what it is. That clarity is exactly why it scores the way it does. Full review available at VirtueVigil.</p>
+      <p><a href="/reviews/war-machine-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of War Machine</a></p>
+
+      <hr>
+
+      <h2>#10 (Most Traditional): Project Hail Mary (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The most traditionally grounded sci-fi film of 2026 opens with a man waking up alone on a spacecraft with no memory of who he is or why he is there. It ends with him choosing to stay, alone, in a distant solar system, because someone else needs him more than Earth does. Everything between those two moments is one of the best cases for self-sacrifice, scientific competence, and the irreducible worth of individual conscience that Hollywood has produced in years. The woke score of 6.05 is low for a theatrical release. The traditional score of 26.88 is among the highest in the 2026 database. The +21 TRAD margin with a STRONGLY TRADITIONAL verdict is earned on every dimension VirtueVigil measures. If you only read one full review from this list, read this one.</p>
+      <p><a href="/reviews/project-hail-mary/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Project Hail Mary</a></p>
+
+      <hr>
+
+      <h2>How to Read This List</h2>
+      <p>Scores are generated using the VirtueVigil methodology, which measures the density and intensity of ideologically progressive content (Woke Score) and traditionally grounded content (Traditional Score) across categories including gender politics, religious themes, family structure, institutional critique, and masculine identity. The system does not measure artistic quality. A high woke score means a film contains substantial progressive ideological content. A high traditional score means it contains substantial traditionally grounded content. Margin is the net difference and drives this ranking.</p>
+
+      <p>The 2026 sci-fi cohort spans a 25-point margin range, from The Mandalorian and Grogu at -4 WOKE to Project Hail Mary at +21 TRAD. That range reflects the genre's ideological diversity this year: Disney franchise machinery at the woke end, a Spielberg blockbuster with enormous ideological footprint in both directions in the middle, and a cluster of survival, hard sci-fi, and throwback action films that land firmly in traditional territory. The genre's best traditional performers share a common architecture: individual competence, sacrifice without institutional reward, and a universe where what a person is willing to endure defines who they are.</p>
+
+      <p>Browse all 2026 sci-fi reviews at <a href="/reviews/">VirtueVigil Reviews</a>. For related genre rankings, see our <a href="/lists/action-movies-2026-woke-ranking/">Every 2026 Action Movie Ranked by Woke Score</a>, <a href="/lists/drama-movies-2026-woke-ranking/">Every 2026 Drama Movie Ranked by Woke Score</a>, <a href="/lists/thriller-movies-2026-woke-ranking/">Every 2026 Thriller Movie Ranked by Woke Score</a>, <a href="/lists/horror-movies-2026-woke-ranking/">Every 2026 Horror Movie Ranked by Woke Score</a>, and <a href="/lists/comedy-movies-2026-woke-ranking/">Every 2026 Comedy Movie Ranked by Woke Score</a>. The complete 2026 woke tracking is at <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>.</p>
     </article>`
   }));
 
