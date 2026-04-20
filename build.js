@@ -1881,6 +1881,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-action-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/hbo-max-shows-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-christian-movies-all-time/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
@@ -1912,6 +1913,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/thriller-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/comedy-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/adventure-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2789,6 +2791,7 @@ function buildListsHubPage() {
         'best-easter-family-movies',
         'best-faith-based-movies',
         'best-faith-movies-2024',
+        'best-christian-movies-all-time',
         'best-movies-for-dads-fathers-day',
         'best-movies-for-moms-mothers-day',
         'best-movies-to-watch-april-2026',
@@ -2848,6 +2851,7 @@ function buildListsHubPage() {
         'thriller-movies-2026-woke-ranking',
         'comedy-movies-2026-woke-ranking',
         'sci-fi-movies-2026-woke-ranking',
+        'adventure-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
@@ -2895,6 +2899,7 @@ function buildListsHubPage() {
       'family-friendly-movies-2024': 'Family-Friendly Movies 2024',
       'best-easter-family-movies': 'Best Movies to Watch With Your Family at Easter (Non-Woke)',
       'best-faith-based-movies': 'Best Faith-Based Movies',
+      'best-christian-movies-all-time': 'Best Christian Movies of All Time',
       'best-movies-for-dads-fathers-day': 'Best Movies for Dads: Non-Woke Father\'s Day Picks',
       'best-movies-for-moms-mothers-day': 'Best Movies for Moms: Non-Woke Mother\'s Day Picks',
       'non-woke-action-movies-2024': 'Non-Woke Action Movies 2024',
@@ -2912,7 +2917,8 @@ function buildListsHubPage() {
       'action-movies-2026-woke-ranking': 'Every 2026 Action Movie Ranked by Woke Score',
       'thriller-movies-2026-woke-ranking': 'Every 2026 Thriller Movie Ranked by Woke Score',
       'comedy-movies-2026-woke-ranking': 'Every 2026 Comedy Movie Ranked by Woke Score',
-      'sci-fi-movies-2026-woke-ranking': 'Every 2026 Sci-Fi Movie Ranked by Woke Score'
+      'sci-fi-movies-2026-woke-ranking': 'Every 2026 Sci-Fi Movie Ranked by Woke Score',
+      'adventure-movies-2026-woke-ranking': 'Every 2026 Adventure Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -19019,6 +19025,363 @@ function buildAudienceVsCriticScoresListicle() {
       <p>The 2026 sci-fi cohort spans a 25-point margin range, from The Mandalorian and Grogu at -4 WOKE to Project Hail Mary at +21 TRAD. That range reflects the genre's ideological diversity this year: Disney franchise machinery at the woke end, a Spielberg blockbuster with enormous ideological footprint in both directions in the middle, and a cluster of survival, hard sci-fi, and throwback action films that land firmly in traditional territory. The genre's best traditional performers share a common architecture: individual competence, sacrifice without institutional reward, and a universe where what a person is willing to endure defines who they are.</p>
 
       <p>Browse all 2026 sci-fi reviews at <a href="/reviews/">VirtueVigil Reviews</a>. For related genre rankings, see our <a href="/lists/action-movies-2026-woke-ranking/">Every 2026 Action Movie Ranked by Woke Score</a>, <a href="/lists/drama-movies-2026-woke-ranking/">Every 2026 Drama Movie Ranked by Woke Score</a>, <a href="/lists/thriller-movies-2026-woke-ranking/">Every 2026 Thriller Movie Ranked by Woke Score</a>, <a href="/lists/horror-movies-2026-woke-ranking/">Every 2026 Horror Movie Ranked by Woke Score</a>, and <a href="/lists/comedy-movies-2026-woke-ranking/">Every 2026 Comedy Movie Ranked by Woke Score</a>. The complete 2026 woke tracking is at <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>.</p>
+    </article>`
+  }));
+
+  writePage('lists/best-christian-movies-all-time/index.html', buildListiclePage({
+    slug: 'best-christian-movies-all-time',
+    title: '10 Best Christian Movies of All Time (Ranked by VirtueVigil Score)',
+    description: 'The 10 best Christian films ever made, ranked by VirtueVigil traditional values score. From The Passion of the Christ to Sound of Freedom to Courageous, these are the films built on faith.',
+    canonicalPath: 'lists/best-christian-movies-all-time',
+    publishDate: '2026-04-20',
+    htmlContent: `<article class="listicle-article">
+
+<p>Faith-based cinema has quietly become one of Hollywood's most consistent underdog stories. Films that industry gatekeepers dismissed, delayed, or buried entirely keep finding their audiences anyway. Sound of Freedom sat on a shelf for five years before earning $250 million. The Passion of the Christ was called unreleasable and made $612 million. Courageous opened at number one in the country with no studio backing and almost no advertising budget. The audience for this genre is enormous, it is loyal, and it has been systematically underserved by mainstream film culture for decades.</p>
+
+<p>VirtueVigil scored every major Christian and faith-based film in our database using the same Woke/Traditional dual-scoring system we apply to every Hollywood release. The results confirm what Christian audiences already know: these films are not just spiritually serious, they are built on the densest concentrations of traditional values in our entire review library. Every film on this list earned a STRONGLY TRADITIONAL or TRADITIONAL verdict. Every entry links to its full VirtueVigil review with complete trope breakdowns, creative team analysis, and parental guidance.</p>
+
+<p>Rankings run from #10 (lowest traditional margin in the top 10) to #1 (highest). These are not editorial picks. The scoring system built this list. Every number reflects counted and weighted trope instances, not a critic's taste.</p>
+
+<hr>
+
+<h2>#10 &mdash; American Underdog (2021)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 29.0</span>
+  <span class="mini-score woke">WOKE: 3.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +25 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Sports Biography/Drama &bull; <strong>Platform:</strong> Theatrical / Amazon Prime</p>
+
+<p>The true story of Kurt Warner, the grocery store stock boy who became a two-time NFL MVP and Super Bowl champion, is one of the most straightforwardly traditional films in the modern studio system. Warner's faith is not decorative or incidental. It is the governing fact of his life, the source of his patience through years of rejection, and the framework through which he processes every reversal of fortune. His wife Brenda, played by Anna Paquin, is given full moral weight as a woman of deep faith whose partnership is treated as genuine rather than incidental.</p>
+
+<p>The Erwin Brothers shot the film with the same conviction they brought to I Can Only Imagine. A tradScore of 29.0 against a woke score of 3.5. No agenda beyond the story, and the story is extraordinary. The only film on this list where the protagonist never once loses faith, even when everything around him disintegrates. What that looks like in practice is either inspiring or improbable depending on where you sit. For Christian viewers, it is just honest biography.</p>
+
+<p><a href="/reviews/american-underdog-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of American Underdog</a></p>
+
+<hr>
+
+<h2>#9 &mdash; God's Not Dead (2014)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 30.0</span>
+  <span class="mini-score woke">WOKE: 2.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +28 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical / Pure Flix</p>
+
+<p>The film that launched the Pure Flix studio model into nationwide conversation. A Christian college freshman refuses to sign a statement declaring God is dead when his professor demands it, and the conflict that follows becomes the spine of the film. God's Not Dead was dismissed by secular critics and earned $60 million against a $2 million budget, which made it one of the most profitable films of 2014 by any reasonable calculation.</p>
+
+<p>The tradScore of 30.0 reflects dense faith content throughout: explicit Christian apologetics, prayer treated as real and answered, secular authority figures coded as the antagonists, and a protagonist whose conviction costs him something tangible rather than being rewarded cheaply. The woke score of 2.4 is effectively negligible. The film does not pretend to neutrality. It is a Christian film made by Christians for Christians, and every frame reflects that honestly.</p>
+
+<p><a href="/reviews/gods-not-dead-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of God's Not Dead</a></p>
+
+<hr>
+
+<h2>#8 &mdash; David (2025)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28.0</span>
+  <span class="mini-score woke">WOKE: 2.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +26 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Animation / Musical / Biblical Epic &bull; <strong>Platform:</strong> Theatrical / Angel Studios</p>
+
+<p>Angel Studios animated a 3,000-year-old story and made it feel urgent. The film follows the shepherd boy from Bethlehem through his anointing by Samuel, his friendship with Jonathan, his defeat of Goliath, and his tumultuous relationship with King Saul. It is a biblical musical with real dramatic weight, and it does not flinch from the parts of the story that are hard: David's failure, Saul's tragedy, the cost of being chosen by God for something you did not ask for.</p>
+
+<p>The tradScore of 28.0 with a woke score of 2.0 reflects one of the cleanest recent theatrical releases in our database. Angel Studios proved with Sound of Freedom and with this film that faith-based cinema can compete for broad theatrical audiences without compromising what it is. David earned $84 million on a $60.9 million budget. The audience for honest biblical storytelling is real and it is hungry.</p>
+
+<p><a href="/reviews/david-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of David</a></p>
+
+<hr>
+
+<h2>#7 &mdash; I Can Only Imagine (2018)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 33.0</span>
+  <span class="mini-score woke">WOKE: 1.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +31 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Biography / Drama / Music &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The story behind MercyMe's recording of the most-played Christian song in radio history. Bart Millard grew up with a violent, alcoholic father who was transformed by faith into a gentle and loving man, and the song was born from Bart's processing of that transformation and his grief after losing his father. That is the whole story. It is told simply, honestly, and without the self-congratulatory sentimentality that sinks lesser faith films.</p>
+
+<p>I Can Only Imagine earned $83.4 million at the box office against a $7 million production budget, making it one of the most profitable faith films in history. The tradScore of 33.0 against a woke score of 1.5 reflects a film built entirely around father-son reconciliation through faith, the redemptive power of conversion, and art as an expression of genuine theological experience. Dennis Quaid as Bart's father Arthur delivers one of the most underrecognized performances of the decade.</p>
+
+<p><a href="/reviews/i-can-only-imagine-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of I Can Only Imagine</a></p>
+
+<hr>
+
+<h2>#6 &mdash; War Room (2015)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 34.0</span>
+  <span class="mini-score woke">WOKE: 0.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +33 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical / LifeWay Films</p>
+
+<p>The Kendrick Brothers make films about prayer. Not metaphorical prayer. Not therapeutic self-reflection relabeled as prayer. Actual Christian prayer, addressed to a real God who actually intervenes. War Room earned $67.8 million against an $3 million production budget, and it did so without a single major star or significant studio support. An elderly prayer warrior mentors a struggling wife and mother to fight for her marriage through prayer rather than confrontation or capitulation.</p>
+
+<p>The tradScore of 34.0 against a woke score of 0.5 is the second-lowest woke score on this list. Marriage is treated as sacred and worth fighting for. The husband's infidelity and business corruption are treated as genuine moral failures, not systemic symptoms. God is the active agent who transforms him. For secular critics, this framework is either naive or offensive. For the 14 million people who watched it in theaters, it was the most honest film they had seen in years about what faith actually looks like in a struggling marriage.</p>
+
+<p><a href="/reviews/war-room-2015/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of War Room</a></p>
+
+<hr>
+
+<h2>#5 &mdash; Fireproof (2008)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 35.0</span>
+  <span class="mini-score woke">WOKE: 0.8</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +34 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Drama / Romance &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The film that made Kirk Cameron's post-sitcom career and demonstrated what was possible in faith-based cinema with discipline and conviction. A firefighter whose marriage is collapsing agrees to a 40-day marriage-saving challenge his father sends him, and the process gradually transforms both the marriage and the man. Fireproof was made for $500,000 and earned $33 million at the box office and over $44 million in DVD sales, becoming the top-selling independent film of 2008.</p>
+
+<p>The tradScore of 35.0 against a woke score of 0.8 reflects a film that treats marriage as a covenant, not a contract. The husband's pornography addiction is named, confronted, and overcome through faith and accountability rather than therapy or self-esteem work. The wife's eventual decision to stay is treated as the harder and more virtuous path rather than as capitulation. The Kendrick Brothers made this film on church volunteers and sheer determination. Nothing in the budget shows. Everything in the conviction does.</p>
+
+<p><a href="/reviews/fireproof-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Fireproof</a></p>
+
+<hr>
+
+<h2>#4 &mdash; Courageous (2011)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 36.0</span>
+  <span class="mini-score woke">WOKE: 1.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +35 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Drama / Action &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The Kendrick Brothers' most explicit argument for what fatherhood should look like. Four law enforcement officers make a covenant to be the kind of fathers God intended after one of their group loses his daughter in a car accident. Courageous is the rarest kind of film: one that asks men to be more than what culture expects of them, names exactly what more looks like, and treats the answer as both achievable and urgent.</p>
+
+<p>The tradScore of 36.0 against a woke score of 1.2 is the highest traditional score for any film in the Kendrick Brothers catalog. It opened at number three in the country on its opening weekend with no major studio backing, earning $34.5 million against a $2 million production budget. The film's Resolution, which viewers can sign online, generated hundreds of thousands of signatures. These were not passive audiences. They were responding to a film that asked something real of them.</p>
+
+<p><a href="/reviews/courageous-2011/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Courageous</a></p>
+
+<hr>
+
+<h2>#3 &mdash; Sound of Freedom (2023)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 30.8</span>
+  <span class="mini-score woke">WOKE: 4.2</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +27 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Action / Biography &bull; <strong>Platform:</strong> Theatrical / Angel Studios</p>
+
+<p>The film that sat on a shelf for five years because nobody in the corporate entertainment ecosystem wanted to release a $14.5 million movie about child trafficking starring Jim Caviezel. Disney acquired Fox in 2019 and with it the completed film, which they declined to distribute. Angel Studios stepped in and released it in 2023 to $250 million in box office receipts, the most successful independent release in modern film history by any measure.</p>
+
+<p>Caviezel plays Tim Ballard, a DHS agent who leaves his government career to rescue trafficked children in Colombia. His faith is not incidental to his actions. It is the source of them. The film treats God's children as literally God's children and Ballard's mission as a calling rather than a career choice. The tradScore of 30.8 against a woke score of 4.2 reflects a film built on fatherly protection as a moral absolute, faith as the engine of action, and the conviction that some things are worth sacrificing a comfortable life to fight for. The audience that found it did not just watch a movie. They spread it like a message they needed other people to receive.</p>
+
+<p><a href="/reviews/sound-of-freedom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sound of Freedom</a></p>
+
+<hr>
+
+<h2>#2 &mdash; Hacksaw Ridge (2016)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 37.0</span>
+  <span class="mini-score woke">WOKE: 3.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +34 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> War / Biography &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Mel Gibson directed the story of Desmond Doss, a Seventh-day Adventist conscientious objector who served as a combat medic at the Battle of Okinawa in 1945 without ever carrying a weapon, and who single-handedly saved 75 men over a single night by lowering them down a 400-foot escarpment under fire. Doss received the Medal of Honor. His faith was not incidental to his heroism. It was the foundation of it.</p>
+
+<p>Hacksaw Ridge earned $67.2 million in the United States and $175 million worldwide. Gibson received an Academy Award nomination for Best Director. The film is brutal in its combat sequences and absolute in its convictions: God is real, prayer is heard, and a man who will not compromise his beliefs even when the Army threatens to court-martial him and his fellow soldiers mock him daily is not weak. He is the strongest man in the room. The tradScore of 37.0 against a woke score of 3.0 confirms what the narrative delivers: this is faith treated as bedrock, not decoration.</p>
+
+<p><a href="/reviews/hacksaw-ridge-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Hacksaw Ridge</a></p>
+
+<hr>
+
+<h2>#1 &mdash; The Passion of the Christ (2004)</h2>
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 48.0</span>
+  <span class="mini-score woke">WOKE: 0.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +48 TRAD</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Biblical Drama / History &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The highest traditional score in the VirtueVigil database. The only film we have ever reviewed with a woke score of exactly zero. Mel Gibson financed The Passion of the Christ personally when every studio in Hollywood refused it, shooting in Aramaic and Latin without subtitles, spending $30 million of his own money on a film about the last 12 hours of Jesus Christ's life. It earned $612 million worldwide. It remains the highest-grossing R-rated film in American box office history, not adjusted for inflation. Nobody predicted any of this.</p>
+
+<p>There is no progressive content here to flag. The film is singular in its purpose: to render the Passion narrative with absolute fidelity and unflinching physical honesty. Every traditional value the VirtueVigil system measures is present at maximum intensity. Sacrifice, suffering borne without complaint, forgiveness given without condition, the divine personhood treated as real and present, and love expressed through bearing the full weight of human sin. Jim Caviezel prepared for the role for years and endured real physical injuries during production.</p>
+
+<p>The Passion of the Christ is not a film that argues for Christianity. It is Christianity rendered as cinema, without apology, without compromise, and without any concern for whether it would find an audience. It found the largest audience any R-rated film in history has ever found. That says something about the audience that Hollywood has never adequately processed.</p>
+
+<p><a href="/reviews/the-passion-of-the-christ-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Passion of the Christ</a></p>
+
+<hr>
+
+<h2>Why These Films Score So High</h2>
+
+<p>VirtueVigil's Traditional Score measures the density and intensity of traditional values content using the same methodology applied to every film in the database. The categories include faith-positive framing, family bonds and obligation, self-sacrifice for others, personal moral accountability, marriage and sexual fidelity, and the treatment of religious institutions and spiritual authority.</p>
+
+<p>Christian films score high on this metric almost by definition: they are made by and for people who hold these values, and they do not hedge about it. That is why the average tradScore for entries on this list is 33.5, compared to a franchise average for MCU films of approximately 13.2. These are not entertainment products with a faith veneer. They are expressions of a worldview that has been systematically excluded from mainstream film culture for decades.</p>
+
+<p>The box office data across this list is equally instructive. The Passion of the Christ alone earned more than all ten films in the MCU's most recent Phase combined. Sound of Freedom outperformed every expectation while its distributor held it on a shelf for five years. Courageous, Fireproof, and War Room were made for less than a single Marvel post-credits scene costs and consistently outperformed their budgets by ten to twenty times.</p>
+
+<p>The audience for Christian cinema is enormous, it is loyal, it is chronically underserved, and it shows up when given something honest to watch. Browse VirtueVigil's complete faith-based film coverage at <a href="/reviews/">virtuevigil.com/reviews/</a>, or see our companion lists: <a href="/lists/best-faith-based-movies/">Best Faith-Based Movies</a>, <a href="/lists/best-patriotic-war-movies/">Best Patriotic War Movies</a>, and <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>. Subscribe free to get weekly updates on new reviews and Woke Trap alerts before every major release.</p>
+
+</article>`
+  }));
+
+  writePage('lists/adventure-movies-2026-woke-ranking/index.html', buildListiclePage({
+    slug: 'adventure-movies-2026-woke-ranking',
+    title: 'Every 2026 Adventure Movie Ranked by Woke Score',
+    description: 'All 12 reviewed 2026 adventure films ranked from most woke to most traditional using VirtueVigil scores. From Pixar and Mandalorian to Nolan and Toy Story 5.',
+    canonicalPath: 'lists/adventure-movies-2026-woke-ranking',
+    publishDate: '2026-04-20',
+    htmlContent: `<article class="listicle-article">
+      <p>Adventure is the widest tent in Hollywood. It stretches from Pixar animation to Christopher Nolan epics, from superhero blockbusters to survival thrillers. In 2026, VirtueVigil reviewed 12 films whose primary genre includes adventure, covering theatrical releases, streaming originals, animated features, and pre-release predictions. Every one was scored using the same dual methodology applied across our full database: Woke Score measures progressive ideological content; Traditional Score measures traditional values content including duty, sacrifice, family loyalty, and earned competence. The margin between the two drives this ranking.</p>
+
+      <p>This list runs from the most ideologically progressive adventure films at the top to the most traditionally grounded at the bottom. Films marked with PREDICTED are pre-release assessments based on trailers, creative team analysis, and source material; those verdicts will be updated after theatrical release. Every entry links to the full VirtueVigil review with complete trope audits, creative team profiles, and parental guidance.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): Hoppers (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated / Adventure / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Pixar's original adventure earns a WOKE LEAN verdict with a -6 margin, the most progressive score in the 2026 adventure category. Brian Fee's film is emotionally accomplished -- a genuine return to form after years of Pixar misfires -- but the woke score of 17.08 reflects structural progressive messaging embedded throughout. Identity-affirmation beats, non-traditional family structures treated as default, and institutional critique drive the woke tally above the traditional score of 11.34. The result is a film that works emotionally while delivering a progressive worldview as quietly as Pixar always has. Read the full review before deciding whether to bring younger children.</p>
+      <p><a href="/reviews/hoppers-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Hoppers</a></p>
+
+      <hr>
+
+      <h2>#2: The Mandalorian and Grogu (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Science Fiction / Action / Adventure &bull; <strong>Platform:</strong> Theatrical (PREDICTED)</p>
+      <p>Jon Favreau's theatrical expansion of the Mandalorian universe scores WOKE LEAN at -4 WOKE. The Mandalorian himself carries genuine traditional content -- warrior code, adopted fatherhood, loyalty above institutional affiliation -- but the Disney franchise scaffolding around him introduces progressive ideological elements in supporting characters, thematic framing, and institutional critique that pull the net margin negative. A woke score of 11.4 against a traditional score of 7.8 captures the core tension: the hero is traditional, the franchise is not. The full review details exactly where each point comes from.</p>
+      <p><a href="/reviews/the-mandalorian-and-grogu-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Mandalorian and Grogu</a></p>
+
+      <hr>
+
+      <h2>#3: Project Hail Mary (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Adventure / Drama &bull; <strong>Platform:</strong> Theatrical (IMAX)</p>
+      <p>Ryan Gosling's adaptation of Andy Weir's novel scores TRADITIONAL LEAN at +7 TRAD with a woke score of 10.45 and a traditional score of 17.82. The film's traditional content is built on sacrifice for collective survival, individual competence as the engine of mission success, and cross-species friendship grounded in shared commitment to a mission larger than either party. The woke score reflects modern Hollywood casting and production choices rather than ideological narrative content. Hail Mary is fundamentally a film about a scientist doing the hardest thing alone. That framework is traditional. Read the full review for the complete trope breakdown.</p>
+      <p><a href="/reviews/project-hail-mary-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Project Hail Mary</a></p>
+
+      <hr>
+
+      <h2>#4: Spider-Man: Brand New Day (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Adventure &bull; <strong>Platform:</strong> Theatrical (PREDICTED)</p>
+      <p>Destin Daniel Cretton's Spider-Man entry scores TRADITIONAL LEAN at +7 TRAD, driven by personal responsibility as the core superhero ethic, sacrifice without recognition as the hero's ongoing burden, and earned competence as the basis for heroism. The woke score of 6.3 reflects diversity elements in supporting roles and modern franchise conventions, but the Peter Parker character arc remains anchored in the original ethic: with great power comes great responsibility, full stop. No caveats. No ideological revision. That traditional foundation holds the margin positive. Full trope audit available in the linked review.</p>
+      <p><a href="/reviews/spider-man-brand-new-day-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: Brand New Day</a></p>
+
+      <hr>
+
+      <h2>#5: Masters of the Universe (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Fantasy / Adventure &bull; <strong>Platform:</strong> Theatrical (PREDICTED)</p>
+      <p>Travis Knight's live-action He-Man adaptation scores TRADITIONAL LEAN at +10 TRAD. The traditional score of 16.94 is built on masculine heroism as literal destiny, the sword as the rightful tool of the worthy, and good versus evil as a binary with no ambiguity. A woke score of 7.08 reflects modern franchise elements introduced during development, but the +10 net margin confirms the traditional foundations held in the final cut. He-Man has always been a property built on the proposition that some men are called to be warriors and that calling is sacred. The adaptation captures enough of that to land in traditional territory. Full pre-release analysis in the linked review.</p>
+      <p><a href="/reviews/masters-of-the-universe-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Masters of the Universe</a></p>
+
+      <hr>
+
+      <h2>#6: Animal Farm (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">PREDICTED: TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +10.86 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated / Adventure / Comedy / Drama / Family &bull; <strong>Platform:</strong> Theatrical (PREDICTED)</p>
+      <p>The animated adaptation of George Orwell's masterwork scores PREDICTED: TRADITIONAL at +10.86 TRAD. Animal Farm has always been a conservative touchstone -- a parable about how revolutionary idealism curdles into tyranny and how the pigs who promise liberation become identical to the masters they replaced. The traditional score reflects Orwell's original moral architecture: power corrupts, collective ownership is a lie, and individual conscience is the only reliable check on authority. The prediction carries moderate confidence pending full theatrical release. Read the full pre-release analysis to understand the ideological stakes of this adaptation.</p>
+      <p><a href="/reviews/animal-farm-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Animal Farm</a></p>
+
+      <hr>
+
+      <h2>#7: The Odyssey (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Epic / Fantasy / Adventure &bull; <strong>Platform:</strong> Theatrical (PREDICTED)</p>
+      <p>Christopher Nolan's adaptation of Homer's Odyssey scores TRADITIONAL at +14 TRAD with a woke score of 7.79 and a traditional score of 21.84. The Odyssey is one of the foundational texts of Western civilization: a man's long journey home, his loyalty to his family, his cunning, his endurance against gods and monsters. Nolan has never made a film that undermined that moral architecture, and the pre-release evidence suggests he is not starting now. The +14 TRAD margin reflects Odysseus as a hero defined by earned competence, homeward commitment, and the refusal to stop. The woke score captures modern casting choices without compromising the source material's core. Full pre-release analysis in the linked review.</p>
+      <p><a href="/reviews/the-odyssey-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Odyssey</a></p>
+
+      <hr>
+
+      <h2>#8: Spider-Man: Web of Heroes (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Superhero / Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Tom Holland's Spider-Man continuation scores TRADITIONAL at +15 TRAD with a traditional score of 21.4 and a woke score of 6.8. Jon Watts returns to direct a film about responsibility, sacrifice, and a young person doing difficult things for the right reasons without recognition or reward. The core Parker ethic -- you have power, therefore you have obligation -- drives the traditional score above the threshold with room to spare. The woke score reflects standard modern franchise elements that do not compromise the hero's moral framework. For families looking for a superhero film that treats its values seriously, this is the stronger Spider-Man entry in 2026. Full review at the link below.</p>
+      <p><a href="/reviews/spiderman-web-of-heroes-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: Web of Heroes</a></p>
+
+      <hr>
+
+      <h2>#9: The Super Mario Galaxy Movie (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +17 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation / Adventure / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The Super Mario Galaxy Movie opened to $131 million in its first weekend and earned 43% from critics alongside 92% from audiences -- a gap that perfectly captures what this film is and who it serves. The traditional score of 23.1 against a woke score of 6.55 reflects a film built on courage, persistence, friendship, and the simple proposition that heroes exist to protect the people they love. No lectures. No identity beats. No institutional critique. Mario goes to space to save the day and comes home. The franchise's continued box office dominance is not incidental to its values orientation. Read the full review for the complete score breakdown.</p>
+      <p><a href="/reviews/the-super-mario-galaxy-movie-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Super Mario Galaxy Movie</a></p>
+
+      <hr>
+
+      <h2>#10: Cliffhanger (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">PREDICTED: TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Thriller &bull; <strong>Platform:</strong> Theatrical (PREDICTED)</p>
+      <p>Jaume Collet-Serra's Cliffhanger reboot scores PREDICTED: TRADITIONAL at +18 TRAD with a traditional score of 21.84 and a woke score of 3.67 -- the second-lowest woke score among all 2026 adventure films. Lily James plays Naomi Cooper, a woman who must survive the Italian Dolomites alone after kidnappers take her family. Survival thrillers score traditionally almost by definition: the environment is the antagonist, individual competence and willpower are the solution, and the hero earns every step toward safety. The authIndex of 76 signals high confidence in the pre-release prediction. Full analysis in the linked review.</p>
+      <p><a href="/reviews/cliffhanger-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cliffhanger</a></p>
+
+      <hr>
+
+      <h2>#11: Toy Story 5 (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">PREDICTED: STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +25 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation / Adventure / Comedy &bull; <strong>Platform:</strong> Theatrical (PREDICTED)</p>
+      <p>Andrew Stanton's Toy Story 5 scores PREDICTED: STRONGLY TRADITIONAL at +25 TRAD with a traditional score of 34.02 and a woke score of 9.38. The film is structured as a meditation on childhood, imaginative play, and what is worth defending in a world that constantly commodifies innocence. The franchise's core argument -- that loyalty, love, and meaning persist even when circumstances change -- drives the traditional score above the STRONGLY TRADITIONAL threshold. The woke score reflects elements added to modernize the universe without gutting the source material's emotional architecture. Toy Story remains one of the most values-consistent franchises in theatrical animation. Full pre-release analysis at the link below.</p>
+      <p><a href="/reviews/toy-story-5-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Toy Story 5</a></p>
+
+      <hr>
+
+      <h2>#12 (Most Traditional): The Sheep Detectives (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">PREDICTED: STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +27 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Family Comedy / Mystery / Adventure &bull; <strong>Platform:</strong> Theatrical (PREDICTED)</p>
+      <p>The Sheep Detectives takes the top traditional position in the 2026 adventure category with a woke score of 0.35 -- the lowest woke score among all 12 films reviewed -- against a traditional score of 27.8 for a net margin of +27.45 TRAD. Based on Shaun Tan's book Three Bags Full, the film follows a shepherd and his intelligent sheep solving a community mystery. The authIndex of 94 reflects near-maximum confidence in the prediction. Community, loyalty, wholesome problem-solving, and the total absence of progressive ideological injection place this at the very top of the values ranking. The Sheep Detectives is the definition of family entertainment with no agenda. Full pre-release analysis in the linked review.</p>
+      <p><a href="/reviews/sheep-detectives-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Sheep Detectives</a></p>
+
+      <hr>
+
+      <h2>What the 2026 Adventure Rankings Tell Us</h2>
+
+      <p>Adventure is Hollywood's most ideologically diverse genre in 2026. The full range from -6 WOKE to +27 TRAD represents 33 points of ideological spread across 12 films. No other 2026 genre ranking has shown that breadth. What drives the variance is the genre's inherent flexibility: animation can inject identity messaging with minimal resistance (Hoppers), while survival thrillers and ancient epic adaptations naturally resist progressive ideological overlay (Cliffhanger, The Odyssey).</p>
+
+      <p>The pattern that emerges from this data: films whose adventure premise requires the hero to survive alone against a hostile environment (Cliffhanger, Project Hail Mary) consistently score traditional, because self-reliance and earned competence are the only tools that work in those narratives. Films whose adventure unfolds inside franchise infrastructure (Mandalorian, Spider-Man: Brand New Day) score lower because the franchise scaffolding introduces progressive elements that the individual film's creative team may not control. The sweet spot for families is animated properties with no studio ideological mandate (Toy Story 5, The Sheep Detectives, Super Mario Galaxy) -- these score highest and deliver the cleanest viewing experience.</p>
+
+      <p>Browse VirtueVigil's complete 2026 genre rankings: <a href="/lists/drama-movies-2026-woke-ranking/">Drama</a>, <a href="/lists/action-movies-2026-woke-ranking/">Action</a>, <a href="/lists/thriller-movies-2026-woke-ranking/">Thriller</a>, <a href="/lists/comedy-movies-2026-woke-ranking/">Comedy</a>, <a href="/lists/sci-fi-movies-2026-woke-ranking/">Sci-Fi</a>, and now Adventure. Every film reviewed this year is in the database. Browse all reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or subscribe free for weekly Woke Trap alerts before every major release.</p>
+
     </article>`
   }));
 
