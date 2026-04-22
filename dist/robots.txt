@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /gracie/
+
+Sitemap: https://virtuevigil.com/sitemap.xml

@@ -1914,7 +1914,6 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/comedy-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/adventure-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
-    { loc: `${SITE_URL}/lists/animated-family-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2853,7 +2852,6 @@ function buildListsHubPage() {
         'comedy-movies-2026-woke-ranking',
         'sci-fi-movies-2026-woke-ranking',
         'adventure-movies-2026-woke-ranking',
-        'animated-family-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
@@ -2920,8 +2918,7 @@ function buildListsHubPage() {
       'thriller-movies-2026-woke-ranking': 'Every 2026 Thriller Movie Ranked by Woke Score',
       'comedy-movies-2026-woke-ranking': 'Every 2026 Comedy Movie Ranked by Woke Score',
       'sci-fi-movies-2026-woke-ranking': 'Every 2026 Sci-Fi Movie Ranked by Woke Score',
-      'adventure-movies-2026-woke-ranking': 'Every 2026 Adventure Movie Ranked by Woke Score',
-      'animated-family-movies-2026-woke-ranking': 'Every 2026 Animated & Family Movie Ranked by Woke Score'
+      'adventure-movies-2026-woke-ranking': 'Every 2026 Adventure Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -9202,167 +9199,6 @@ function build() {
       <p>The pattern across every film on this list is the same. The best traditional films of 2026 are built on sacrifice, not identity. The hero gives something up: comfort, safety, time, the easy path. The relationships are earned through action, not announced through dialogue. The moral framework is clear without being preachy. These are films that trust their audience to recognize real values when they see them, and audiences are responding.</p>
 
       <p>Browse every 2026 review in the VirtueVigil database at <a href="/reviews/">VirtueVigil.com/reviews</a>. New titles are added weekly, and this list will be updated as the year progresses. The full scoring breakdown, trope audit, creative team profile, and parental guidance are available for every film and show in our catalog.</p>
-    </article>`
-  }));
-
-  // --- Animated & Family 2026 Listicle ---
-  writePage('lists/animated-family-movies-2026-woke-ranking/index.html', buildListiclePage({
-    slug: 'animated-family-movies-2026-woke-ranking',
-    title: 'Every 2026 Animated & Family Movie Ranked by Woke Score',
-    description: 'VirtueVigil ranks all 10 reviewed 2026 animated and family films by traditional values score. Your complete parent guide to what is safe and what to avoid this year.',
-    canonicalPath: 'lists/animated-family-movies-2026-woke-ranking',
-    publishDate: '2026-04-21',
-    htmlContent: `<article class="listicle-article">
-      <div class="listicle-intro">
-        <p>The animated and family film space in 2026 is the most ideologically contested battlefield in Hollywood. Pixar returned with an original story. Toy Story got a fifth chapter. Wile E. Coyote finally got his day in court. A shepherd let his sheep read detective novels. And somewhere in there, a frog mascot picked up progressive talking points about the environment.</p>
-        <p>We scored every reviewed 2026 animated and family film using the VirtueVigil Woke Score system. This is the complete parent guide. Films are ranked from most family-safe and traditionally grounded to most ideologically loaded. If you are deciding what to watch with your kids, start at number one and work your way down.</p>
-        <p>Related: <a href="/lists/best-traditional-movies-2026/">Best Traditional Movies of 2026</a> &bull; <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a> &bull; <a href="/lists/adventure-movies-2026-woke-ranking/">Every 2026 Adventure Movie Ranked</a></p>
-      </div>
-
-      <ol class="listicle-items">
-
-        <li class="listicle-item">
-          <div class="listicle-rank">1</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/sheep-detectives-2026/">The Sheep Detectives (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge strongly-traditional">PREDICTED: STRONGLY TRADITIONAL</span>
-              <span class="score-badge">+27 TRAD</span>
-            </div>
-            <p>Based on Shaun Tan's book Three Bags Full, this family mystery follows a shepherd whose sheep have learned detective skills from his nightly story readings and must solve a real crime in their village. The entire film celebrates community, learning, friendship, and the idea that books have real value. Zero ideological content, zero agenda. A genuine rarity: wholesome family entertainment that believes in what it is doing. Woke score: 0.35. Trad score: 27.8.</p>
-            <a href="/reviews/sheep-detectives-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">2</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/toy-story-5-2026/">Toy Story 5 (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge strongly-traditional">PREDICTED: STRONGLY TRADITIONAL</span>
-              <span class="score-badge">+25 TRAD</span>
-            </div>
-            <p>Andrew Stanton returned to Pixar for a fifth Toy Story chapter that meditates on childhood, imaginative play, and what we lose when algorithmic entertainment replaces genuine creativity. The film argues with moral clarity that play is sacred and worth defending. Technically flawless and emotionally sophisticated, it carries the traditional values around childhood, loyalty, and the permanence of love that have defined this franchise since 1995. Woke score: 9.38. Trad score: 34.02.</p>
-            <a href="/reviews/toy-story-5-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">3</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/the-super-mario-galaxy-movie-2026/">The Super Mario Galaxy Movie (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge traditional">TRADITIONAL</span>
-              <span class="score-badge">+17 TRAD</span>
-            </div>
-            <p>The Super Mario Galaxy Movie opened to $131 million on its opening weekend while critics gave it 43% and audiences scored it 92 percent. That gap tells you exactly who this film is for. Mario, Luigi, and the full mushroom kingdom cast return for a galaxy-spanning adventure built on cooperation, brotherhood, and classic good-versus-evil stakes. No identity politics, no institutional critique. Nintendo doing what Nintendo does. Woke score: 6.55. Trad score: 23.1.</p>
-            <a href="/reviews/the-super-mario-galaxy-movie-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">4</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/paddington-3-2026/">Paddington 3 (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge traditional">TRADITIONAL</span>
-              <span class="score-badge">+15 TRAD</span>
-            </div>
-            <p>The Brown family's beloved Peruvian bear returns for a third adventure, directed by Dougal Wilson. Paddington 3 maintains the franchise's signature warmth and its commitment to the idea that politeness, generosity, and genuine goodness are virtues worth celebrating. The film builds on the family bonds established in the first two entries and delivers exactly what parents need: entertainment that will not ambush you with a lecture. Woke score: 3.5. Trad score: 18.9.</p>
-            <a href="/reviews/paddington-3-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">5</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/animal-farm-2026/">Animal Farm (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge traditional">PREDICTED: TRADITIONAL</span>
-              <span class="score-badge">+11 TRAD</span>
-            </div>
-            <p>Angel Studios brought Orwell's masterwork to animated life, and the anti-totalitarian message of the source material is too powerful to be hijacked by any progressive casting decisions. All animals are equal, but some are more equal than others. That warning about centralized power and the betrayal of ordinary people by elites has never been more relevant. Parents should be aware of the gender-swapped Snowball character voiced by Laverne Cox, but Orwell's conservative core argument survives intact. Margin: +10.86 TRAD.</p>
-            <a href="/reviews/animal-farm-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">6</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/goat-2026/">GOAT (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
-              <span class="score-badge">+9 TRAD</span>
-            </div>
-            <p>Executive produced by Stephen Curry, this animated sports comedy follows an underdog basketball player who earns his way to the top through relentless work ethic and refusal to quit. The film remembers something many modern sports movies have forgotten: the underdog wins because he shows up every day and earns it, not because the system is fixed for him. Corporate greed appears as an antagonist, which costs the film some traditional points, but the core message is pure meritocracy. Woke score: 8.28. Trad score: 17.64.</p>
-            <a href="/reviews/goat-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">7</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/coyote-vs-acme-2026/">Coyote vs. Acme (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
-              <span class="score-badge">+7 TRAD</span>
-            </div>
-            <p>This live-action animated hybrid has the most dramatic production history of any 2026 film. Warner Bros. shelved it for a tax write-off after spending $70 million. Fan campaigns and legal pressure forced its release. The film follows Wile E. Coyote suing the Acme Corporation with a young lawyer as his advocate, delivering a classic underdog-versus-Goliath story with the Looney Tunes cast in fine comedic form. The anti-corporate satire is mild and the traditional values content carries the score positive. Woke score: 9.0. Trad score: 16.0.</p>
-            <a href="/reviews/coyote-vs-acme-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">8</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/the-mandalorian-and-grogu-2026/">The Mandalorian &amp; Grogu (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge woke-lean">WOKE LEAN</span>
-              <span class="score-badge woke">-4 WOKE</span>
-            </div>
-            <p>The beloved Disney Plus series makes its theatrical debut, reuniting Din Djarin and Grogu for a feature-length Star Wars adventure. The father-son bond between Mando and Grogu is treated with genuine feeling throughout. However, institutional critique, Disney-standard diversity signaling in the supporting cast, and progressive thematic drift push the margin slightly negative. Fans of the show will find what they came for. Conservative parents should know the ideological terrain before bringing young children.</p>
-            <a href="/reviews/the-mandalorian-and-grogu-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">9</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/hoppers-2026/">Hoppers (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge woke-lean">WOKE LEAN</span>
-              <span class="score-badge woke">-6 WOKE</span>
-            </div>
-            <p>Brian Fee directed Pixar's first original film in years, and the result is emotionally alive and genuinely moving. The grandparent-grandchild bond at the film's heart is treated with real sincerity, and Pixar's craft is undeniable. However, environmental activism is baked into the narrative as the heroic framework, and the film consistently frames corporate development as the villain. The messaging is not subtle. Parents looking for a Pixar film without a climate lecture will need to look elsewhere. Woke score: 17.08. Trad score: 11.34.</p>
-            <a href="/reviews/hoppers-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-        <li class="listicle-item">
-          <div class="listicle-rank">10</div>
-          <div class="listicle-content">
-            <h2><a href="/reviews/butterfly-dreams-2026/">Butterfly Dreams (2026)</a></h2>
-            <div class="listicle-badges">
-              <span class="verdict-badge woke-lean">WOKE LEAN</span>
-              <span class="score-badge woke">-7 WOKE</span>
-            </div>
-            <p>Director Dee Rees brings craft to this coming-of-age drama about a sixteen-year-old trans girl who leaves her conservative religious hometown in rural Kentucky to attend an inclusive arts school in Louisville. The film is sympathetically made and the central performance is strong. The premise, framing, and thematic content are built entirely around gender identity affirmation and the critique of conservative religious environments. Included here as a warning: this is not animated and not a family film, but parents may encounter it in family browsing on streaming platforms. Know before you click.</p>
-            <a href="/reviews/butterfly-dreams-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
-          </div>
-        </li>
-
-      </ol>
-
-      <hr>
-
-      <h2>What the 2026 Animated &amp; Family Rankings Tell Parents</h2>
-
-      <p>Seven of the ten reviewed animated and family titles from 2026 score positive on the VirtueVigil traditional values scale. The three that score negative do so for meaningfully different reasons. Hoppers has Pixar's craft but a climate activism framework that parents should know about before the movie starts. The Mandalorian and Grogu carries franchise-level Disney progressive scaffolding. Butterfly Dreams is a trans teen drama that has no legitimate claim to the family film category but appears there in streaming browsing.</p>
-
-      <p>The clear winners for conservative families this year: The Sheep Detectives and Toy Story 5 are the top two scores in the database across all 2026 animated and family content. Both are pre-release predictions with high confidence. Super Mario Galaxy Movie and Paddington 3 are released and confirmed traditional. Animal Farm carries Orwell's anti-totalitarian power and is worth watching as a family despite the Snowball casting note.</p>
-
-      <p>Browse every reviewed 2026 film at <a href="/reviews/">VirtueVigil.com/reviews</a>. Full scoring breakdowns, trope audits, creative team profiles, and parental guidance for every title in the database. Subscribe free for weekly Woke Trap alerts before major releases.</p>
-
     </article>`
   }));
 
@@ -19557,4 +19393,3 @@ function buildAudienceVsCriticScoresListicle() {
 
 // Run the build
 buildSite().catch(err => { console.error('Build failed:', err); process.exit(1); });
-
