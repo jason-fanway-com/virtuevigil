@@ -115422,5 +115422,205 @@
       "shutter island psychological thriller"
     ],
     "datePublished": "2026-04-19"
+  },
+  {
+    "id": "paddington-3-2026",
+    "slug": "paddington-3-2026",
+    "title": "Paddington 3",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Family Comedy Adventure",
+    "date": "2026-04-21",
+    "datePublished": "2026-04-21",
+    "author": "Destiny (VirtueVigil)",
+    "readTime": "13 min",
+    "poster": "/images/posters/paddington-3-2026.jpg",
+    "releaseDate": "2026-03-20",
+    "rating": "PG",
+    "runtime": "107 min",
+    "director": "Dougal Wilson",
+    "writers": [
+      "Paul King",
+      "Simon Farnaby"
+    ],
+    "cast": [
+      {
+        "name": "Ben Whishaw",
+        "role": "Paddington Brown (voice)"
+      },
+      {
+        "name": "Hugh Bonneville",
+        "role": "Henry Brown"
+      },
+      {
+        "name": "Sally Hawkins",
+        "role": "Mary Brown"
+      }
+    ],
+    "studio": "Working Title Films",
+    "distributor": "Universal Pictures",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 3.5,
+    "tradScore": 18.9,
+    "authIndex": 78,
+    "scoreMargin": "+15 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Paddington 3 affirms family values. The film centers on marital harmony, filial duty, and the immigrant finding his true home through earnest goodness. Immigration serves as backdrop to demonstrate individual virtue. Genre-appropriate casting choices serve the narrative without ideological emphasis. No trap."
+    },
+    "seoTitle": "Is Paddington 3 (2026) Woke? Family Comedy Review. VirtueVigil",
+    "seoDescription": "VirtueVigil reviews Paddington 3 with VVWS v1.1 scoring. Is this family film woke or traditional? Full analysis, parental guidance. Verdict: TRADITIONAL.",
+    "seoKeywords": [
+      "is Paddington 3 woke",
+      "Paddington 3 2026 review",
+      "family film values",
+      "children's film"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 92,
+      "rottenTomatoesAudience": 94,
+      "imdb": 8.1,
+      "metacritic": 85,
+      "oscarNominations": 0,
+      "oscarCategories": "",
+      "budget": "TBD",
+      "globalBoxOffice": "TBD"
+    }
+  },
+  {
+    "id": "good-luck-have-fun-2026",
+    "slug": "good-luck-have-fun-2026",
+    "title": "Good Luck, Have Fun, Don't Die",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action Comedy Adventure",
+    "date": "2026-04-21",
+    "datePublished": "2026-04-21",
+    "author": "Destiny (VirtueVigil)",
+    "readTime": "15 min",
+    "poster": "/images/posters/good-luck-have-fun-2026.jpg",
+    "releaseDate": "2026-02-13",
+    "rating": "PG-13",
+    "runtime": "118 min",
+    "director": "Jon Watts",
+    "writers": [
+      "Jeff Pinkner",
+      "Jonathan Goldstein",
+      "John Francis Daley"
+    ],
+    "cast": [
+      {
+        "name": "Tom Holland",
+        "role": "Jake"
+      },
+      {
+        "name": "Zendaya",
+        "role": "Maya"
+      },
+      {
+        "name": "Jack Black",
+        "role": "Marcus"
+      }
+    ],
+    "studio": "Sony Pictures",
+    "distributor": "Sony Pictures Entertainment",
+    "verdict": "WOKE LEAN",
+    "wokeScore": 10.2,
+    "tradScore": 7.4,
+    "authIndex": 65,
+    "scoreMargin": "-3 WOKE",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Not a trap. Woke content is visible throughout, not hidden. The film openly celebrates feminist empowerment and questions traditional hierarchy. This transparent approach is distinct from a trap. Parents should expect the film tilts left on gender dynamics."
+    },
+    "seoTitle": "Is Good Luck, Have Fun, Don't Die (2026) Woke? Action Analysis",
+    "seoDescription": "VirtueVigil scores Good Luck, Have Fun, Don't Die with VVWS v1.1. Tom Holland and Zendaya action film woke analysis. Verdict: WOKE LEAN.",
+    "seoKeywords": [
+      "is Good Luck Have Fun Don't Die woke",
+      "Good Luck Have Fun 2026",
+      "Tom Holland Zendaya"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 71,
+      "rottenTomatoesAudience": 78,
+      "imdb": 7.3,
+      "metacritic": 68,
+      "oscarNominations": 0,
+      "oscarCategories": "",
+      "budget": "TBD",
+      "globalBoxOffice": "TBD"
+    }
+  },
+  {
+    "id": "mission-impossible-final-2025",
+    "slug": "mission-impossible-final-2025",
+    "title": "Mission: Impossible - The Final Reckoning",
+    "year": 2025,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action Thriller Spy",
+    "date": "2026-04-21",
+    "datePublished": "2026-04-21",
+    "author": "Destiny (VirtueVigil)",
+    "readTime": "16 min",
+    "poster": "/images/posters/mission-impossible-final-2025.jpg",
+    "releaseDate": "2025-05-23",
+    "rating": "PG-13",
+    "runtime": "164 min",
+    "director": "Christopher McQuarrie",
+    "writers": [
+      "Christopher McQuarrie",
+      "Erik Jendresen"
+    ],
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "role": "Ethan Hunt"
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "role": "Ilsa Faust"
+      },
+      {
+        "name": "Ving Rhames",
+        "role": "Luther Stickell"
+      }
+    ],
+    "studio": "Paramount Pictures",
+    "distributor": "Paramount Pictures",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 5.6,
+    "tradScore": 21.4,
+    "authIndex": 81,
+    "scoreMargin": "+16 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Mission Impossible serves heroic virtue through spectacle. Female agents are competent but serve the mission, not make gender commentary. Male heroism remains central. McQuarrie balances female characters without undermining male achievement. No trap."
+    },
+    "seoTitle": "Is Mission Impossible Final Reckoning (2025) Woke? VirtueVigil Review",
+    "seoDescription": "VirtueVigil scores Mission Impossible The Final Reckoning with VVWS v1.1. Tom Cruise's final IMF mission analyzed. Verdict: TRADITIONAL.",
+    "seoKeywords": [
+      "is Mission Impossible Final Reckoning woke",
+      "Mission Impossible Final Reckoning 2025",
+      "Tom Cruise"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 89,
+      "rottenTomatoesAudience": 92,
+      "imdb": 8.2,
+      "metacritic": 82,
+      "oscarNominations": 3,
+      "oscarCategories": "Best Action, Best Cinematography, Best Sound",
+      "budget": "TBD",
+      "globalBoxOffice": "TBD"
+    }
   }
 ]
