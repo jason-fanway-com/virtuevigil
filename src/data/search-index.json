@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/mad-max-fury-road-2015.jpg"
   },
   {
+    "slug": "top-gun-1986",
+    "title": "Top Gun",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Paramount Pictures)",
+    "genre": "Action / Drama",
+    "year": 1986,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 17,
+    "poster": "/images/posters/top-gun-1986.jpg"
+  },
+  {
     "slug": "paddington-3-2026",
     "title": "Paddington 3",
     "verdict": "TRADITIONAL",
