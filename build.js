@@ -1914,6 +1914,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/comedy-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/adventure-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/drama-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2847,6 +2848,7 @@ function buildListsHubPage() {
       slugs: [
         'comedy-movies-woke-ranking-2024',
         'drama-movies-2026-woke-ranking',
+        'drama-movies-2025-woke-ranking',
         'action-movies-2026-woke-ranking',
         'thriller-movies-2026-woke-ranking',
         'comedy-movies-2026-woke-ranking',
@@ -19395,6 +19397,344 @@ function buildAudienceVsCriticScoresListicle() {
     canonicalPath: 'lists/romance-movies-woke-ranking-complete',
     publishDate: '2026-04-22',
     htmlContent: "<article class=\"listicle-article\">\n\n<p>Romance is the genre Hollywood least suspects of carrying an agenda. But the ideology sneaks in anyway: in who gets the happy ending, in how relationships are framed, in whether marriage is treated as a destination or a punchline.</p>\n<p>VirtueVigil has reviewed and scored every romance and romantic film in our database using the full VVWS dual-scoring methodology. This is the complete ranked list, from the most traditional love stories to the most woke, so you can plan your next date night with actual data instead of guesswork.</p>\n\n<hr>\n\n<h2>#1 &mdash; <a href=\"/reviews/solo-mio-2026/\">Solo Mio (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">STRONGLY TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 21.88</span>\n  <span class=\"mini-score woke\">WOKE: 1</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +21 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romance/Comedy/Drama &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>Solo Mio is the movie Kevin James was born to make. Not the one critics expected, and not the one his sitcom fans were waiting for, but the one that proves this guy has real range when he trusts the material.</p>\n\n<p><a href=\"/reviews/solo-mio-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Solo Mio (2026)</a></p>\n\n<hr>\n\n<h2>#2 &mdash; <a href=\"/reviews/you-me-tuscany-2026/\">You, Me & Tuscany (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">PREDICTED: TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 21.98</span>\n  <span class=\"mini-score woke\">WOKE: 4.6</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +17 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Comedy &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>You, Me & Tuscany is a straightforward romantic comedy with no ideological baggage. It celebrates romantic love as transformative, honors family bonds, and shows a woman finding purpose through courage and connection.</p>\n\n<p><a href=\"/reviews/you-me-tuscany-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of You, Me & Tuscany (2026)</a></p>\n\n<hr>\n\n<h2>#3 &mdash; <a href=\"/reviews/bridget-jones-mad-about-the-boy-2025/\">Bridget Jones: Mad About the Boy (2025)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 26.18</span>\n  <span class=\"mini-score woke\">WOKE: 11.2</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +15 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Comedy / Drama &bull; <strong>Platform:</strong> Peacock / Sky Cinema</p>\n\n<p>Bridget Jones: Mad About the Boy arrives fourteen years after Bridget Jones's Baby and over two decades after the original made Renee Zellweger's hapless diarist a global icon. It is, by any honest measure, the most emotionally ambitious entry in the franchise.</p>\n\n<p><a href=\"/reviews/bridget-jones-mad-about-the-boy-2025/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Bridget Jones: Mad About the Boy (2025)</a></p>\n\n<hr>\n\n<h2>#4 &mdash; <a href=\"/reviews/the-wedding-singer-1998/\">The Wedding Singer (1998)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 17.5</span>\n  <span class=\"mini-score woke\">WOKE: 2.35</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +15 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Comedy &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>The Wedding Singer is the best Adam Sandler film. Not the funniest. Not the most ambitious. The best, because it is the one where his persona serves a story worth telling. Robbie Hart is a wedding singer in 1985 who gets left at the altar by his girlfriend Linda, who decided a wedding singer does not have enough ambition for her.</p>\n\n<p><a href=\"/reviews/the-wedding-singer-1998/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of The Wedding Singer (1998)</a></p>\n\n<hr>\n\n<h2>#5 &mdash; <a href=\"/reviews/the-wedding-banquet-2025/\">The Wedding Banquet (2025)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge woke\">WOKE</span>\n  <span class=\"mini-score trad\">TRAD: 4</span>\n  <span class=\"mini-score woke\">WOKE: 19</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -15 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Comedy &bull; <strong>Platform:</strong> Theatrical (Bleecker Street)</p>\n\n<p>The original 1993 Wedding Banquet was a film about a gay man living a double life, caught between the love he had chosen and the family expectations he had not been able to refuse. It was genuinely moving because it took the parents seriously.</p>\n\n<p><a href=\"/reviews/the-wedding-banquet-2025/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of The Wedding Banquet (2025)</a></p>\n\n<hr>\n\n<h2>#6 &mdash; <a href=\"/reviews/the-drama-2026/\">The Drama (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge woke\">WOKE</span>\n  <span class=\"mini-score trad\">TRAD: 8.44</span>\n  <span class=\"mini-score woke\">WOKE: 22.68</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -14 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Dark Comedy / Romance / Drama &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>Let us be direct about what The Drama is doing and what it costs. Kristoffer Borgli, the Norwegian provocateur behind Dream Scenario, has made a film with a single, devastating premise: what happens when you discover the person you love once planned to murder children at their school? The answer, according to The Drama, is that it becomes a very uncomfortable conversation during your wedding week.</p>\n\n<p><a href=\"/reviews/the-drama-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of The Drama (2026)</a></p>\n\n<hr>\n\n<h2>#7 &mdash; <a href=\"/reviews/fantasy-life-2026/\">Fantasy Life (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 16.24</span>\n  <span class=\"mini-score woke\">WOKE: 2.4</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +14 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Comedy / Romance / Drama &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>There is a certain kind of New York romantic comedy that feels like it was made by someone who actually lives in New York and actually believes in love. Fantasy Life is that kind of film. Matthew Shear wrote, directed, and stars in a story that earns every warm thing critics have said about it.</p>\n\n<p><a href=\"/reviews/fantasy-life-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Fantasy Life (2026)</a></p>\n\n<hr>\n\n<h2>#8 &mdash; <a href=\"/reviews/forrest-gump-1994/\">Forrest Gump (1994)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 17.08</span>\n  <span class=\"mini-score woke\">WOKE: 3</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +14 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Drama, Romance, Comedy &bull; <strong>Platform:</strong> Paramount Pictures</p>\n\n<p>Here's the thing about Forrest Gump that critics have spent thirty years getting wrong: they treat its sentimentality as a flaw. The 71% Rotten Tomatoes critics score versus the 96% audience score tells you everything about the gap between what professional critics value and what real people connect with.</p>\n\n<p><a href=\"/reviews/forrest-gump-1994/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Forrest Gump (1994)</a></p>\n\n<hr>\n\n<h2>#9 &mdash; <a href=\"/reviews/the-notebook-2004/\">The Notebook (2004)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 17.14</span>\n  <span class=\"mini-score woke\">WOKE: 3.4</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +14 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romance, Drama &bull; <strong>Platform:</strong> New Line Cinema</p>\n\n<p>The professional critics never liked The Notebook. 53% on Rotten Tomatoes, 53 on Metacritic. 'Shameless manipulation,' one reviewer called it. 'A tearjerker with the subtlety of a sledgehammer.' The audience score is 86%.</p>\n\n<p><a href=\"/reviews/the-notebook-2004/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of The Notebook (2004)</a></p>\n\n<hr>\n\n<h2>#10 &mdash; <a href=\"/reviews/the-bride-2026/\">The Bride! (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge woke\">WOKE</span>\n  <span class=\"mini-score trad\">TRAD: 8.4</span>\n  <span class=\"mini-score woke\">WOKE: 22.1</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -14 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Gothic Romance / Horror &bull; <strong>Platform:</strong> Theatrical (IMAX)</p>\n\n<p>Maggie Gyllenhaal's The Bride! is a film that tells you exactly what it is from the very first frame, and it does not care if you approve. That was true before release, and it is doubly true now that audiences and critics have had their say.</p>\n\n<p><a href=\"/reviews/the-bride-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of The Bride! (2026)</a></p>\n\n<hr>\n\n<h2>#11 &mdash; <a href=\"/reviews/queer-2024/\">Queer (2024)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge woke\">WOKE</span>\n  <span class=\"mini-score trad\">TRAD: 4.2</span>\n  <span class=\"mini-score woke\">WOKE: 17.5</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -13 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Drama &bull; <strong>Platform:</strong> Theatrical (A24)</p>\n\n<p>Daniel Craig gives the best performance of his career in a film that probably should not work as well as it does. Queer is an adaptation of William S. Burroughs' autobiographical novella about his time in 1950s Mexico City, where he lived as an American expatriate, drank heavily, used heroin, and fell obsessively in love with a young GI named Allerton who did not love him back in the same way.</p>\n\n<p><a href=\"/reviews/queer-2024/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Queer (2024)</a></p>\n\n<hr>\n\n<h2>#12 &mdash; <a href=\"/reviews/reminders-of-him-2026/\">Reminders of Him (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 16.38</span>\n  <span class=\"mini-score woke\">WOKE: 5.6</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +11 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romance / Drama &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>This is a tearjerker built around one of the most traditional premises in modern romance fiction: a mother fighting to know her child. It is not a politically complicated film. It is not interested in being provocative.</p>\n\n<p><a href=\"/reviews/reminders-of-him-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Reminders of Him (2026)</a></p>\n\n<hr>\n\n<h2>#13 &mdash; <a href=\"/reviews/good-will-hunting-1997/\">Good Will Hunting (1997)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional\">TRADITIONAL</span>\n  <span class=\"mini-score trad\">TRAD: 18.2</span>\n  <span class=\"mini-score woke\">WOKE: 6.8</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +11 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Drama, Romance &bull; <strong>Platform:</strong> Theatrical (Miramax)</p>\n\n<p>Will Hunting is twenty years old, smarter than everyone in any room he has ever walked into, and entirely alone. He works as a janitor at MIT. He solves advanced math proofs that have stumped doctoral candidates, leaves the solutions on a hallway chalkboard anonymously, and goes home to South Boston to drink with his friends.</p>\n\n<p><a href=\"/reviews/good-will-hunting-1997/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Good Will Hunting (1997)</a></p>\n\n<hr>\n\n<h2>#14 &mdash; <a href=\"/reviews/wuthering-heights-2026/\">Wuthering Heights (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge woke-lean\">WOKE LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 26</span>\n  <span class=\"mini-score woke\">WOKE: 35</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -9 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Gothic Romance / Drama &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>Review of Wuthering Heights - See review for full details.</p>\n\n<p><a href=\"/reviews/wuthering-heights-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Wuthering Heights (2026)</a></p>\n\n<hr>\n\n<h2>#15 &mdash; <a href=\"/reviews/anyone-but-you-2023/\">Anyone But You (2023)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional-lean\">TRADITIONAL LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 12.32</span>\n  <span class=\"mini-score woke\">WOKE: 3.75</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +9 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Comedy &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>Anyone But You is the romantic comedy Hollywood forgot how to make. Not because it is especially brilliant, but because it is the simplest possible version of the thing it is trying to be: a film about two attractive people who are clearly meant for each other spending 103 minutes refusing to admit it.</p>\n\n<p><a href=\"/reviews/anyone-but-you-2023/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Anyone But You (2023)</a></p>\n\n<hr>\n\n<h2>#16 &mdash; <a href=\"/reviews/elemental-2023/\">Elemental (2023)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional-lean\">TRADITIONAL LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 19.74</span>\n  <span class=\"mini-score woke\">WOKE: 12.2</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +8 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Animated / Romance &bull; <strong>Platform:</strong> Disney+</p>\n\n<p>Pixar's Elemental arrived at the box office to an unexpectedly rocky opening weekend and then quietly became one of the most audience-beloved films of 2023. The critics gave it a middling 74%. The audiences gave it a 95%.</p>\n\n<p><a href=\"/reviews/elemental-2023/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Elemental (2023)</a></p>\n\n<hr>\n\n<h2>#17 &mdash; <a href=\"/reviews/the-gorge-2025/\">The Gorge (2025)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional-lean\">TRADITIONAL LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 12.25</span>\n  <span class=\"mini-score woke\">WOKE: 4.2</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +8 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Sci-Fi Romantic Action Horror &bull; <strong>Platform:</strong> Apple TV+</p>\n\n<p>The Gorge is a high-concept premise executed with genuine craft. Two elite soldiers, one American and one Lithuanian, are posted to guard towers on opposite sides of a remote classified gorge for one year.</p>\n\n<p><a href=\"/reviews/the-gorge-2025/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of The Gorge (2025)</a></p>\n\n<hr>\n\n<h2>#18 &mdash; <a href=\"/reviews/heart-eyes-2025/\">Heart Eyes (2025)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional-lean\">TRADITIONAL LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 12</span>\n  <span class=\"mini-score woke\">WOKE: 5.45</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +7 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Horror / Comedy / Romance &bull; <strong>Platform:</strong> Theatrical (Screen Gems / Sony Pictures)</p>\n\n<p>It's Valentine's Day in Seattle. A serial killer called the Heart Eyes Killer is hunting couples. Jay and Ally are coworkers pulling overtime who have made it professionally painful that they cannot stand each other.</p>\n\n<p><a href=\"/reviews/heart-eyes-2025/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Heart Eyes (2025)</a></p>\n\n<hr>\n\n<h2>#19 &mdash; <a href=\"/reviews/bridgerton-season-4-2026/\">Bridgerton: Season 4 (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge woke-lean\">WOKE LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 10</span>\n  <span class=\"mini-score woke\">WOKE: 16.2</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -6 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Regency Romance Drama &bull; <strong>Platform:</strong> Netflix</p>\n\n<p>Bridgerton Season 4 is a Cinderella story set in a version of Regency England that has no memory of actual Regency England. This has been the franchise's operating premise since Season 1: take the beautiful architecture, the costumes, the balls, and the romantic tension, and strip away the social realities that made that world interesting.</p>\n\n<p><a href=\"/reviews/bridgerton-season-4-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Bridgerton: Season 4 (2026)</a></p>\n\n<hr>\n\n<h2>#20 &mdash; <a href=\"/reviews/materialists-2025/\">Materialists (2025)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional-lean\">TRADITIONAL LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 13.7</span>\n  <span class=\"mini-score woke\">WOKE: 9.18</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +5 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Comedy-Drama &bull; <strong>Platform:</strong> Theatrical (A24)</p>\n\n<p>Lucy Mason is a matchmaker in New York City. She is good at her job. She has matched nine couples into marriage. She is the ninth couple's vendor at the wedding where the film begins, and she is working the room at the reception before the vows are dry.</p>\n\n<p><a href=\"/reviews/materialists-2025/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Materialists (2025)</a></p>\n\n<hr>\n\n<h2>#21 &mdash; <a href=\"/reviews/titanic-1997/\">Titanic (1997)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge woke-lean\">WOKE LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 13.65</span>\n  <span class=\"mini-score woke\">WOKE: 18.54</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -5 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Drama / Romance / Disaster &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>Titanic holds a strange place in film history. It won eleven Academy Awards and $2.2 billion at the global box office in 1997. It made Leonardo DiCaprio a global superstar and Kate Winslet one of the defining actresses of her generation.</p>\n\n<p><a href=\"/reviews/titanic-1997/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Titanic (1997)</a></p>\n\n<hr>\n\n<h2>#22 &mdash; <a href=\"/reviews/we-live-in-time-2024/\">We Live in Time (2024)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional-lean\">TRADITIONAL LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 13.44</span>\n  <span class=\"mini-score woke\">WOKE: 8.8</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +5 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romance/Drama &bull; <strong>Platform:</strong> Theatrical / A24</p>\n\n<p>We Live in Time is a weepie. An exceptionally well-made one, built on two of the finest performances in recent romantic cinema. It will make you cry. Whether it should is a more interesting question. The film tells the story of Almut (Florence Pugh), a Bavarian-fusion chef climbing toward the top of her profession, and Tobias (Andrew Garfield), an IT worker for a cereal company who is in the process of getting divorced when she literally hits him with her car.</p>\n\n<p><a href=\"/reviews/we-live-in-time-2024/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of We Live in Time (2024)</a></p>\n\n<hr>\n\n<h2>#23 &mdash; <a href=\"/reviews/it-ends-with-us-2024/\">It Ends with Us (2024)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge traditional-lean\">TRADITIONAL LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 17.6</span>\n  <span class=\"mini-score woke\">WOKE: 12.18</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +5 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romance/Drama &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>It Ends with Us arrives as two films at war with each other, and the battle behind the camera turned out to be far more interesting than what ended up on screen. The story is straightforward. Lily Bloom (Blake Lively) is a florist in Boston who falls for Ryle Kincaid (Justin Baldoni), a charismatic neurosurgeon.</p>\n\n<p><a href=\"/reviews/it-ends-with-us-2024/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of It Ends with Us (2024)</a></p>\n\n<hr>\n\n<h2>#24 &mdash; <a href=\"/reviews/people-we-meet-on-vacation-2026/\">People We Meet on Vacation (2026)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge woke-lean\">WOKE LEAN</span>\n  <span class=\"mini-score trad\">TRAD: 11</span>\n  <span class=\"mini-score woke\">WOKE: 14</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -3 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Comedy &bull; <strong>Platform:</strong> Netflix</p>\n\n<p>People We Meet on Vacation is the rom-com BookTok has been waiting for, and it delivers exactly what that audience wants: two impossibly attractive leads with crackling chemistry, beautiful international locations, a will-they-won't-they structure that stretches across a decade, and an ending that earns its emotional payoff.</p>\n\n<p><a href=\"/reviews/people-we-meet-on-vacation-2026/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of People We Meet on Vacation (2026)</a></p>\n\n<hr>\n\n<h2>#25 &mdash; <a href=\"/reviews/moonrise-kingdom-2012/\">Moonrise Kingdom (2012)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge mixed\">MIXED</span>\n  <span class=\"mini-score trad\">TRAD: 7.84</span>\n  <span class=\"mini-score woke\">WOKE: 5.88</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +2 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Romantic Comedy Drama &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>Moonrise Kingdom is Wes Anderson's most sincere film, and sincerity is the quality he is most often accused of lacking. Two twelve-year-olds, Sam and Suzy, fall in love through pen-pal letters and run away together to a secret cove on their small New England island.</p>\n\n<p><a href=\"/reviews/moonrise-kingdom-2012/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Moonrise Kingdom (2012)</a></p>\n\n<hr>\n\n<h2>#26 &mdash; <a href=\"/reviews/past-lives-2023/\">Past Lives (2023)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge mixed\">MIXED</span>\n  <span class=\"mini-score trad\">TRAD: 7.35</span>\n  <span class=\"mini-score woke\">WOKE: 5.6</span>\n  <span class=\"mini-score\" style=\"color:var(--accent-amber);\">MARGIN: +2 TRAD</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Drama, Romance &bull; <strong>Platform:</strong> Streaming</p>\n\n<p>Celine Song's Past Lives is a film about what you give up when you choose to become someone. It is quiet, devastating, and almost defiantly apolitical in a cultural moment when apolitical means brave. The premise: In Seoul, 12-year-old Na Young and her classmate Hae Sung develop a childhood crush.</p>\n\n<p><a href=\"/reviews/past-lives-2023/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Past Lives (2023)</a></p>\n\n<hr>\n\n<h2>#27 &mdash; <a href=\"/reviews/chainsaw-man-reze-arc-2025/\">Chainsaw Man - The Movie: Reze Arc (2025)</a></h2>\n\n<div class=\"listicle-scores\">\n  <span class=\"verdict-badge mixed\">MIXED</span>\n  <span class=\"mini-score trad\">TRAD: 11.76</span>\n  <span class=\"mini-score woke\">WOKE: 13.1</span>\n  <span class=\"mini-score\" style=\"color:#e05263;\">MARGIN: -1 WOKE</span>\n</div>\n\n<p class=\"listicle-meta\"><strong>Genre:</strong> Anime/Action/Romance-Horror &bull; <strong>Platform:</strong> Theatrical</p>\n\n<p>Chainsaw Man: Reze Arc is one of the best anime films in years and also one of the most conservative-unfriendly Pixar-alternative entertainment options of 2025. That tension is the whole point. Let's be direct: this is a hard-R animated film with graphic gore, a skinny-dipping scene, and a central villain who is a beautiful woman who controls and destroys the men around her.</p>\n\n<p><a href=\"/reviews/chainsaw-man-reze-arc-2025/\" class=\"listicle-review-link\"><i class=\"fas fa-arrow-right\"></i> Read the full VirtueVigil review of Chainsaw Man - The Movie: Reze Arc (2025)</a></p>\n\n<hr>\n\n<p>Whether you want a clean, faith-adjacent love story like Solo Mio or a classic like The Notebook, the data is here to help you choose. Browse all of our scored reviews at VirtueVigil.com for the complete picture on every film your family is considering.</p>\n\n</article>"
+  }));
+
+  console.log('  lists/drama-movies-2025-woke-ranking/index.html');
+  writePage('lists/drama-movies-2025-woke-ranking/index.html', buildListiclePage({
+    slug: 'drama-movies-2025-woke-ranking',
+    title: 'Every 2025 Drama Movie Ranked by Woke Score',
+    description: 'All 29 reviewed 2025 drama films ranked from most woke to most traditional using VirtueVigil scores. Know what you are watching before you press play.',
+    canonicalPath: 'lists/drama-movies-2025-woke-ranking',
+    publishDate: '2026-04-24',
+    htmlContent: `<article class="listicle-article">
+      <p>Drama is where Hollywood ideology is most visible and most sincere. There are no explosions to hide behind, no genre conventions to blame. When a drama pushes a worldview, it does so openly. In 2025, the drama slate ranged from sharply progressive prestige fare to faith-driven independent films that Hollywood barely acknowledged existed.</p>
+
+      <p>VirtueVigil has reviewed and scored 29 drama-adjacent releases from 2025 using the full VVWS dual-scoring methodology. This ranking runs from the most ideologically progressive at the top to the most traditionally grounded at the bottom. The margin reflects ideological density, not artistic quality. A high woke score does not mean a bad film. It means an ideologically loaded one. Use this list before you commit your time.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): Mother Mary (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">PREDICTED: WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -9 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Drama, Thriller, Music &bull; <strong>Director:</strong> David Lowery</p>
+      <p>Anne Hathaway plays a pop icon whose career is built on image, control, and the machinery of celebrity. The film frames stardom as a form of exploitation and intimacy as power negotiation, with woke scores driven by its feminist critique of the entertainment industry and its sympathetic treatment of identity themes. At -9 WOKE it lands at the top of the 2025 drama rankings for ideological load.</p>
+      <p><a href="/reviews/mother-mary-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#2: Adolescence (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Crime Drama &bull; <strong>Platform:</strong> Netflix</p>
+      <p>The most-discussed television event of 2025. Armed police arrest a 13-year-old boy for murder in a dawn raid on his family home; what follows across four single-take episodes is a searing interrogation of online radicalization, male violence, and parental failure. The progressive framing of institutional systems and gender dynamics earns its -8 WOKE margin, though the craft is undeniable.</p>
+      <p><a href="/reviews/adolescence-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#3: The White Lotus: Season 3 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -7 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Dark Comedy Drama &bull; <strong>Platform:</strong> HBO</p>
+      <p>Mike White takes his luxury-resort mortality play to Thailand for a season about spiritual seeking, class guilt, and the hollow lives of the wealthy. The recurring thesis -- the rich are empty and the beautiful destroy each other -- lands at -7 WOKE, driven by the show's consistent framing of wealth and traditional structures as corrupt. Beautifully made, ideologically consistent.</p>
+      <p><a href="/reviews/the-white-lotus-season-3-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#4: Fallout -- Season 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Post-Apocalyptic / Sci-Fi Drama &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Season 2 is competent prestige television built on the game franchise's brilliant premise: 200 years post-nuclear war, every surviving faction is corrupt. The progressive diagnostic framing of institutions and authority earns the -5 WOKE margin. It cannot fully escape its own ideological contradictions even when the storytelling is otherwise solid.</p>
+      <p><a href="/reviews/fallout-season-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#5: If I Had Legs I'd Kick You (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Dark Comedy &bull; <strong>Platform:</strong> Theatrical (A24)</p>
+      <p>Rose Byrne delivers a raw, physically committed performance as a woman in the middle of her worst year. The film's portrayal of motherhood, mental health, and institutional failure carries a -4 WOKE margin, with progressive framing of gender and systemic themes embedded throughout. The craft is exceptional; the ideology is consistent with the A24 house brand.</p>
+      <p><a href="/reviews/if-i-had-legs-id-kick-you-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#6: It Was Just an Accident (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller / Drama &bull; <strong>Director:</strong> Jafar Panahi</p>
+      <p>Palme d'Or winner at Cannes 2025. Former Iranian political prisoners kidnap a man they believe tortured them in jail, and the film uses that premise to interrogate questions of justice, memory, and moral complicity. The progressive political framework earns -4 WOKE; the moral complexity keeps it from tipping further.</p>
+      <p><a href="/reviews/it-was-just-an-accident-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#7: The Secret Agent (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Political Thriller / Historical Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The most acclaimed film of 2025 by critical consensus: a 161-minute Portuguese-language thriller set during Brazil's military dictatorship. It won Best Director and Best Actress at Cannes. The +1 TRAD margin puts it squarely in MIXED territory where ideological content is present on both sides and neither fully dominates.</p>
+      <p><a href="/reviews/the-secret-agent-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#8: Blue Moon (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biographical Comedy-Drama &bull; <strong>Director:</strong> Richard Linklater</p>
+      <p>Linklater's chamber drama unfolds over a single evening at Sardi's restaurant on March 31, 1943 -- the opening night of Oklahoma! -- through the eyes of lyricist Lorenz Hart at the end of his life. The +3 TRAD margin reflects the film's sympathetic portrayal of a gay protagonist alongside traditional values content in the period setting and artistic themes.</p>
+      <p><a href="/reviews/blue-moon-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#9: Marty Supreme (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Director:</strong> Josh Safdie</p>
+      <p>Not the sports underdog story its marketing suggests. Josh Safdie made a portrait of a man eating himself alive in pursuit of ping-pong greatness, a film about obsession, sacrifice, and the cost of excellence. The +3 TRAD lean reflects its traditional framing of discipline and masculine drive with minimal ideological interference.</p>
+      <p><a href="/reviews/marty-supreme-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#10: Materialists (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romantic Comedy-Drama &bull; <strong>Platform:</strong> Theatrical (A24)</p>
+      <p>A New York City matchmaker who has built a career on pairing compatible people finds herself caught between a wealthy suitor and a complicated ex. The film's examination of what we actually want from love -- versus what we tell ourselves we want -- earns a +5 TRAD margin despite its A24 pedigree. The romantic structure stays conventional even as the characters resist it.</p>
+      <p><a href="/reviews/materialists-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#11: Sentimental Value (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Family Drama &bull; <strong>Director:</strong> Joachim Trier</p>
+      <p>Norwegian director Joachim Trier delivers a deeply personal film about a family grappling with the return of their estranged patriarch, exploring generational trauma, artistic legacy, and reconciliation. At +7 TRAD, it is one of the most humanistic films of the year: genuinely resistant to easy ideological categorization, which itself is a form of traditional filmmaking in 2025.</p>
+      <p><a href="/reviews/sentimental-value-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#12: Frankenstein (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Gothic / Science Fiction / Drama &bull; <strong>Director:</strong> Guillermo del Toro</p>
+      <p>Del Toro spent decades trying to make this film and the final product justifies the wait. His Frankenstein restores Shelley's original moral framework -- that the sin belongs to the creator, not the creation -- without modernizing it into a progressive allegory. The +9 TRAD margin reflects the film's commitment to classical tragedy and its rejection of contemporary identity reframing.</p>
+      <p><a href="/reviews/frankenstein-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#13: Hamnet (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Historical Drama / Period Film &bull; <strong>Director:</strong> Chloe Zhao</p>
+      <p>Based on Maggie O'Farrell's acclaimed novel, Zhao's Hamnet tells the story of Shakespeare's marriage through the eyes of his wife Agnes, from courtship through the death of their son. The film is emotionally devastating and formally beautiful, earning a +10 TRAD margin through its grounding in family, grief, and the endurance of love against loss.</p>
+      <p><a href="/reviews/hamnet-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#14: Invincible -- Season 3 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Superhero / Action Drama &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Still the best superhero show in production. Season 3 holds a few progressive elements that cost points on the scorecard, but the core storytelling remains anchored in responsibility, sacrifice, and the cost of power. At +11 TRAD, it earns its ranking as the most traditionally grounded major animated drama of 2025 while maintaining the franchise's earned complexity.</p>
+      <p><a href="/reviews/invincible-season-3-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#15: Hamlet (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">PREDICTED: TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Tragedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Riz Ahmed's Hamlet is not a stunt. Critics who saw it at Telluride called his technically precise performance one of the year's best, and the production stays true to the play's moral framework without modernizing it into contemporary identity politics. The +11 TRAD margin reflects a Shakespeare adaptation that trusts its source material rather than weaponizing it.</p>
+      <p><a href="/reviews/hamlet-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#16: The Alto Knights (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Drama / Thriller &bull; <strong>Director:</strong> Barry Levinson</p>
+      <p>Barry Levinson directing, Nicholas Pileggi writing, Robert De Niro starring: this is the lineage that gave us GoodFellas and Casino, and The Alto Knights wears that heritage without apology. The true story of rival mob bosses Frank Costello and Vito Genovese is told straight -- no revisionism, no modern reframing -- earning a clean +11 TRAD score.</p>
+      <p><a href="/reviews/alto-knights-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#17: Pluribus (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Drama / Black Comedy &bull; <strong>Platform:</strong> Apple TV+</p>
+      <p>Vince Gilligan's first series after Breaking Bad and Better Call Saul is the rarest thing in modern prestige television: a show that genuinely refuses to tell you what to think. Nine episodes, Rhea Seehorn winning a Golden Globe, and a +12 TRAD margin that reflects the show's ideological refusal to preach. It earns every one of those traditional points honestly.</p>
+      <p><a href="/reviews/pluribus-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#18: The Life of Chuck (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Fantasy &bull; <strong>Director:</strong> Mike Flanagan</p>
+      <p>The universe is ending. Billboards are appearing around the world with the face of an accountant named Charles Krantz and the words: "39 Great Years. Thanks, Chuck." Flanagan's Stephen King adaptation structures the entire cosmos around one ordinary man's life, making the case for the sacred weight of a single human existence. The +12 TRAD margin reflects that thesis.</p>
+      <p><a href="/reviews/the-life-of-chuck-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#19: Black Bag (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Spy Thriller / Drama / Mystery &bull; <strong>Director:</strong> Steven Soderbergh</p>
+      <p>The kind of adult thriller Hollywood forgot how to make. Soderbergh directs a 94-minute spy puzzle that treats its audience like grown-ups, trusts its actors, and never stops to explain itself. A government agent investigates whether his own wife has betrayed classified intel, and the film stays morally serious about loyalty and duty throughout. At +13 TRAD, it is the best traditional-leaning thriller of 2025.</p>
+      <p><a href="/reviews/black-bag-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#20: Sinners (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Drama &bull; <strong>Director:</strong> Ryan Coogler</p>
+      <p>Ryan Coogler made a vampire movie set in Jim Crow Mississippi and turned it into one of the best films of 2025. Beneath the horror genre machinery and the period racial politics, Sinners is structured on values that predate Hollywood: community, sacrifice, the protection of family, and the spiritual cost of corruption. The +15 TRAD margin is earned, not gifted.</p>
+      <p><a href="/reviews/sinners-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#21: Bridget Jones: Mad About the Boy (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romantic Comedy / Drama &bull; <strong>Platform:</strong> Peacock / Sky Cinema</p>
+      <p>The most emotionally ambitious entry in the Bridget Jones franchise. At 51, widowed four years, and navigating the chaos of single parenthood and unexpected new romance, Bridget is more grounded and more genuinely moving than she has ever been. The +15 TRAD margin reflects the film's honest portrayal of grief, motherhood, and the possibility of love after loss.</p>
+      <p><a href="/reviews/bridget-jones-mad-about-the-boy-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#22: Train Dreams (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Period Drama &bull; <strong>Director:</strong> Clint Bentley</p>
+      <p>A quiet, patient film that trusts its audience to sit with silence and find meaning in a long, hard, beautiful life. Joel Edgerton plays Robert Grainier, a laborer in the American West whose story spans decades of loss, work, and the small moments that constitute a life. At +15 TRAD, it is among the most traditional prestige films of the year and one of the least talked about.</p>
+      <p><a href="/reviews/train-dreams-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#23: Nonnas (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy-Drama &bull; <strong>Platform:</strong> Netflix</p>
+      <p>The kind of film that gets made once a year if you are lucky and usually goes unnoticed because it does not fit culture war narratives. Based on the true story of a Brooklyn restaurant staffed by actual Italian grandmothers, Nonnas is about community, food, family, and the transmission of culture across generations. At +16 TRAD, it is the most unambiguously warm film on this entire list.</p>
+      <p><a href="/reviews/nonnas-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#24: F1 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +17 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sports Drama / Action &bull; <strong>Director:</strong> Joseph Kosinski</p>
+      <p>Not a woke trap. Not even close. F1 is the purest strain of old-school Hollywood blockbuster filmmaking released in 2025: a comeback story about a broken man who finds redemption through grit, self-sacrifice, and the refusal to quit. The progressive elements are cosmetic and organic. Nobody lectures anyone. At +17 TRAD, it is exactly the movie it advertises itself to be.</p>
+      <p><a href="/reviews/f1-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#25: Song Sung Blue (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography / Musical / Drama &bull; <strong>Director:</strong> Craig Brewer</p>
+      <p>The true story of Mike and Claire Sardina, a Milwaukee couple who built a Neil Diamond tribute act and found genuine joy in the process. Craig Brewer found a story so improbable and so heartbreaking that all he had to do was stay out of its way. At +19 TRAD, it is one of the most traditionally grounded biopics of the year and almost nobody saw it.</p>
+      <p><a href="/reviews/song-sung-blue-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#26: The King of Kings (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Biblical Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Not a film that tips its hat to faith, includes one prayer scene, and moves on. The King of Kings is a two-hour animated telling of the life of Jesus that treats its subject with full seriousness and zero apology. At +20 TRAD with a perfect 0 woke score, it is the most spiritually grounded film VirtueVigil reviewed in 2025 and the clearest recommendation for faith-based audiences.</p>
+      <p><a href="/reviews/the-king-of-kings-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#27: The Blue Trail (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Dystopian Drama &bull; <strong>Director:</strong> Gabriel Mascaro</p>
+      <p>A near-future Brazilian dystopia where the government has solved aging with bureaucratic efficiency: anyone past a certain age is mandated for euthanasia. The film is not a progressive dystopia warning about corporate power. It is a conservative one about the state destroying its most experienced citizens, and it earns the films it earns. At +20 TRAD, it is the most quietly subversive film of 2025.</p>
+      <p><a href="/reviews/the-blue-trail-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#28: Karate Kid: Legends (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Drama / Family &bull; <strong>Platform:</strong> Theatrical (Sony)</p>
+      <p>Not a woke trap. Not even close. Karate Kid: Legends is the most traditionally coded major studio release of 2025: a movie about older men teaching a young man to be brave, disciplined, and honorable. The trailer shows exactly what you get. At +23 TRAD, it delivers the clearest values signal of any franchise film this year without breaking a sweat about it.</p>
+      <p><a href="/reviews/karate-kid-legends-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#29 (Most Traditional): Brave the Dark (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +25 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical (Angel Studios)</p>
+      <p>The kind of film that almost does not get made anymore. Jared Harris plays Stan Deen, a high school drama teacher in 1980s Pennsylvania who discovers one of his students is living in his car and chooses to fight for him. Based on a true story, Brave the Dark is the highest-scoring traditional drama VirtueVigil reviewed in 2025 at +25 TRAD, and the most direct embodiment of everything this list is designed to surface.</p>
+      <p><a href="/reviews/brave-the-dark-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <p>Every score on this list comes directly from VirtueVigil's dual WOKE/TRAD methodology applied to the actual content of each film. The database grows every week. Browse all scored 2025 releases at <a href="/reviews/">virtuevigil.com/reviews/</a>, see the companion <a href="/lists/drama-movies-2026-woke-ranking/">2026 Drama ranking</a>, or check our <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a> for the complete cross-genre picture.</p>
+
+    </article>`
   }));
 
   // --- Lists Hub Page ---
