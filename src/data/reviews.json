@@ -115815,5 +115815,253 @@
         "explanation": "While the film is amoral in tone, it does depict consequences for the characters' actions. Violence leads to injury. Murder plots lead to exposure and complications. The characters cannot escape the consequences of their intentions through cleverness or moral reasoning. The world does not bend to their will. This reflects a traditional understanding that actions have consequences."
       }
     ]
+  },
+  {
+    "id": "get-out-2017",
+    "slug": "get-out-2017",
+    "title": "Get Out",
+    "year": 2017,
+    "type": "film",
+    "platform": "Theatrical (Universal Pictures / Blumhouse)",
+    "genre": "Horror / Psychological Thriller",
+    "date": "2026-04-24",
+    "datePublished": "2026-04-24",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "17 min",
+    "poster": "/images/posters/get-out-2017.jpg",
+    "releaseDate": "2017-02-24",
+    "rating": "R (Violence, Disturbing Content, Language, Some Sexuality)",
+    "runtime": "104 min",
+    "director": "Jordan Peele",
+    "writers": [
+      "Jordan Peele"
+    ],
+    "cast": [
+      {
+        "name": "Daniel Kaluuya",
+        "role": "Chris Washington"
+      },
+      {
+        "name": "Allison Williams",
+        "role": "Rose Armitage"
+      },
+      {
+        "name": "Bradley Whitford",
+        "role": "Dean Armitage"
+      },
+      {
+        "name": "Catherine Keener",
+        "role": "Missy Armitage"
+      },
+      {
+        "name": "Caleb Landry Jones",
+        "role": "Jeremy Armitage"
+      },
+      {
+        "name": "Lil Rel Howery",
+        "role": "Rod Williams"
+      },
+      {
+        "name": "Lakeith Stanfield",
+        "role": "Andre Hayworth / Logan King"
+      },
+      {
+        "name": "Stephen Root",
+        "role": "Jim Hudson"
+      }
+    ],
+    "verdict": "WOKE",
+    "wokeScore": 16,
+    "tradScore": 4,
+    "authIndex": 20,
+    "scoreMargin": "-12 WOKE",
+    "woke_trap_assessment": {
+      "is_trap": true,
+      "explanation": "Woke trap confirmed. The film opens as a conventional interracial-couple-meets-the-family thriller, and the early unsettling details (creepy groundskeeper, oddly stilted Black guests at the party) read as generic horror atmosphere. The true mechanism of the conspiracy, that the Armitage family is literally harvesting Black bodies by transplanting white brains into them, selling access at silent auction to wealthy white buyers, only fully crystallizes around the 68-minute mark in a 104-minute film. That is roughly 65% of the runtime. The film earns its jumps and its dread before revealing itself as a comprehensive ideological indictment: every single white character is either complicit or actively participating. Rose, who seemed like the protagonist's greatest ally, turns out to be the primary recruiter. There is no innocent white person in this movie. That particular message is the film's thesis, and it does not announce itself until the film is more than halfway over."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Jordan Peele",
+        "ideology": "PROGRESSIVE",
+        "profile": "Jordan Peele is half of the comedy duo Key & Peele, whose sketch work made race politics a recurring punchline and thesis simultaneously. Get Out was his feature directorial debut. He has been explicit in interviews that the film is a deliberate response to post-Obama 'post-racial' optimism. He wanted to make a film about what he believes white liberalism actually is beneath its surface: predatory, appropriative, and fundamentally hostile to Black autonomy. His subsequent films, Us and Nope, continue building out a cinematic universe of racial and class grievance dressed as horror. He is good at filmmaking. He is also one of the most ideologically intentional directors working today. You should know exactly what you are watching before you sit down."
+      },
+      "writer": {
+        "name": "Jordan Peele",
+        "profile": "Peele wrote Get Out as a direct political allegory. The Sunken Place is explicitly framed as a metaphor for the way Black identity gets absorbed and silenced by white cultural consumption. The brain transplant mechanic is designed to literalize white appropriation of Black bodies and aesthetics. Peele has stated that Obama's presidency gave white liberals permission to claim they were 'past race' while the actual experiences of Black Americans had not fundamentally changed. Get Out is his argument made into genre cinema. As filmmaking craft, it works extremely well. As ideology, it presents every white person as a racial predator and positions Black survival as requiring rejection of all white relationships and institutions."
+      },
+      "lead_producer": {
+        "name": "Jason Blum",
+        "company": "Blumhouse Productions"
+      },
+      "composer": {
+        "name": "Michael Abels"
+      },
+      "top_cast": [
+        {
+          "name": "Daniel Kaluuya",
+          "role": "Chris Washington"
+        },
+        {
+          "name": "Allison Williams",
+          "role": "Rose Armitage"
+        },
+        {
+          "name": "Bradley Whitford",
+          "role": "Dean Armitage"
+        },
+        {
+          "name": "Catherine Keener",
+          "role": "Missy Armitage"
+        },
+        {
+          "name": "Lil Rel Howery",
+          "role": "Rod Williams"
+        },
+        {
+          "name": "Lakeith Stanfield",
+          "role": "Andre / Logan"
+        },
+        {
+          "name": "Caleb Landry Jones",
+          "role": "Jeremy Armitage"
+        },
+        {
+          "name": "Stephen Root",
+          "role": "Jim Hudson"
+        }
+      ],
+      "producers": [
+        {
+          "name": "Jason Blum",
+          "company": "Blumhouse Productions",
+          "profile": "The defining low-budget horror producer of the past two decades. Blumhouse financed Get Out for $4.5 million. It earned over $255 million worldwide. Blum has no consistent ideological fingerprint; he produces whatever he thinks will sell. Get Out sold. His track record for picking genre projects that connect with audiences is extraordinary."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Daniel Kaluuya",
+          "role": "Chris Washington"
+        },
+        {
+          "name": "Allison Williams",
+          "role": "Rose Armitage"
+        },
+        {
+          "name": "Bradley Whitford",
+          "role": "Dean Armitage"
+        },
+        {
+          "name": "Catherine Keener",
+          "role": "Missy Armitage"
+        },
+        {
+          "name": "Caleb Landry Jones",
+          "role": "Jeremy Armitage"
+        },
+        {
+          "name": "Lil Rel Howery",
+          "role": "Rod Williams"
+        },
+        {
+          "name": "Lakeith Stanfield",
+          "role": "Andre Hayworth / Logan King"
+        },
+        {
+          "name": "Stephen Root",
+          "role": "Jim Hudson"
+        },
+        {
+          "name": "Marcus Henderson",
+          "role": "Walter"
+        },
+        {
+          "name": "Betty Gabriel",
+          "role": "Georgina"
+        }
+      ],
+      "prediction": {
+        "verdict": "WOKE",
+        "confidence": "high"
+      }
+    },
+    "summary": {
+      "overall": "Let's be direct about what Get Out is. It is a very effective horror film built on a very specific political argument: white liberals are the primary threat to Black Americans, they disguise their predation behind progressive language, and the appropriate response is complete distrust of all white relationships. The film says this clearly, craftily, and well. It also earned $255 million against a $4.5 million budget and an Academy Award for Original Screenplay. So here we are.\n\nChris Washington (Daniel Kaluuya) is a photographer visiting his girlfriend Rose Armitage's (Allison Williams) wealthy white family for the weekend. The Armitages are ostentatiously progressive. Dean (Bradley Whitford) announces he would have voted for Obama a third time. They have Black servants, Walter and Georgina, who behave with an uncanny plasticity that immediately signals something is wrong. The extended family arrives. More Black people appear, all behaving strangely. Chris's TSA friend Rod (Lil Rel Howery) thinks something is off. Rod is right.\n\nThe revelation, which the film handles with genuine craft, is that the Armitage family has developed a surgical procedure that transplants the consciousness of aging white buyers into the bodies of young Black people they have kidnapped or recruited. Rose is the recruiter. Missy hypnotizes the victims into the Sunken Place, a void of paralytic helplessness. The operation strips the Black person's consciousness and installs the buyer's. The brain harvesting is sold at auction.\n\nJordan Peele is a talented filmmaker. The dread in the first act is real and effective. He uses sound design and micro-expressions, particularly Betty Gabriel's extraordinary work as Georgina, to make the audience's skin crawl without explaining why. The party sequence, where Chris is surrounded by smiling white people making racially charged remarks dressed as compliments, captures something recognizable and uncomfortable. The Sunken Place visualization is one of the more striking horror images of the past decade.\n\nKaluuya carries the film on his back. His performance is all internal, processing, registering alarm while trying to stay socially appropriate in a situation that keeps telling him to leave. His face does extraordinary work. He was nominated for the Academy Award for Best Actor and deserved the nomination.\n\nAll of that genuine craft serves a thesis that is straightforwardly progressive: white America, including its most ostentatiously liberal segment, treats Black bodies as resources to be consumed and controlled. Every single white character in the film is either an active participant in the conspiracy or irrelevant. There are no innocent white people. This is the film's explicit position, not a subtext. Peele has stated it directly in interviews.\n\nFor conservative audiences, the question is not whether the film is effective. It is. The question is whether you want to spend two hours inside an argument that your white family members, your white neighbors, and white liberal institutions are secret predators who view Black people as bodies to be harvested. If that is a message you find worth engaging, Get Out is the best possible version of that film. If that framing strikes you as both divisively racialized and fundamentally dishonest about how most Americans actually live, then the craft will not be enough to compensate for the ideology.\n\nThe Sunken Place is brilliant as horror imagery. As political metaphor, it is saying something specific: that Black people who allow themselves to be absorbed into white social structures become paralyzed, disembodied, voiceless. That the transaction is always extraction disguised as acceptance. This is not a subtext VirtueVigil is reading into the film. Peele put it there on purpose. The film means exactly what it says.",
+      "adultInsight": "Get Out was the first horror film nominated for Best Picture at the Academy Awards in decades, and the establishment response to it tells you something important. The progressive film press treated it as a documentary. The critical consensus was that Peele had simply portrayed American racial reality with a horror veneer. This is the ideological consensus around the film, and it matters when evaluating what it is.\n\nThe film's central argument is that Black people should distrust white relationships, institutions, and liberal approval because the progressive surface masks predatory intent. It makes this argument through genre, through spectacle, through a Black protagonist who survives because he finally stops giving white people the benefit of the doubt. The political lesson is clear.\n\nConservative audiences should recognize what they are watching and make an informed choice. Get Out is brilliantly made. It is also one of the most explicitly racially divisive films in mainstream American cinema, dressed up in Blumhouse horror packaging. You do not have to pretend the message is not there in order to acknowledge the craft. Both are real. VirtueVigil rates the craft highly and rates the ideology at its actual value.",
+      "parentalGuidance": "Rated R. The content is serious and the rating is appropriate.\n\nViolence: Moderate but intense when it arrives. The climax involves several deaths and some physical brutality. The horror is more psychological than gory but becomes explicitly violent in the final act.\n\nLanguage: Moderate. Less than typical for R-rated films.\n\nSexual Content: Brief and non-explicit.\n\nThematic Content: The film's core themes are racial predation and distrust. It presents a vision of white America as comprehensively hostile to Black people. For families with children or teenagers, this is a film with significant ideological content that merits discussion, not just genre entertainment.\n\nAge Recommendation: Appropriate for adults. Mature teenagers can handle the horror; the ideological content is worth discussing directly rather than leaving uncommented.\n\nDiscussion Points: What is the Sunken Place actually a metaphor for? Why does the film make every white character guilty? Is this a horror film that uses racial anxiety as a device, or a political film that uses horror as a delivery mechanism? Does the film's argument hold if you extend it beyond a specific ideological framework?"
+    },
+    "tropeAudit": [
+      {
+        "trope": "Systemic Racism as Literal Horror Engine",
+        "id": "WOKE-041",
+        "category": "WOKE",
+        "severity": 5,
+        "authenticity": "High",
+        "centralityLevel": "High",
+        "weightedScore": 6.3,
+        "location": "Entire film, from Armitage family dynamic through the auction reveal to the brain transplant procedure itself",
+        "authenticity_note": "The racism-as-horror-mechanism is not subtext. It is the film's declared premise. Peele designed it explicitly as a racial allegory and has articulated this in extensive public statements."
+      },
+      {
+        "trope": "All White Characters as Racial Predators",
+        "id": "WOKE-042",
+        "category": "WOKE",
+        "severity": 4,
+        "authenticity": "High",
+        "centralityLevel": "High",
+        "weightedScore": 5.04,
+        "location": "Every white character in the film, including Rose (the protagonist's girlfriend), is ultimately revealed as complicit in the conspiracy",
+        "authenticity_note": "This is not an incidental creative choice. The zero-exception rule on white villainy is the film's stated thesis about American racial reality."
+      },
+      {
+        "trope": "White Liberal Hypocrisy as Maximum Danger",
+        "id": "WOKE-043",
+        "category": "WOKE",
+        "severity": 4,
+        "authenticity": "High",
+        "centralityLevel": "Moderate",
+        "weightedScore": 2.8,
+        "location": "The Armitage family's progressive signaling (Obama comments, anti-racism performance) directly masks the predatory conspiracy underneath",
+        "authenticity_note": "Peele has specifically described this as his response to the 'post-racial' optimism of the Obama era. The target is white progressive politics in particular, not white conservatism."
+      },
+      {
+        "trope": "Interracial Relationship as Vulnerability",
+        "id": "WOKE-044",
+        "category": "WOKE",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centralityLevel": "Moderate",
+        "weightedScore": 2.0,
+        "location": "Chris's relationship with Rose is the mechanism for his capture; his trust in an interracial relationship is framed as dangerous naivety",
+        "authenticity_note": "Moderate authenticity. The film is making a broader point about racial trust across relationships; the interracial framing is a delivery device."
+      },
+      {
+        "trope": "Male Self-Reliance in Survival",
+        "id": "TRADITIONAL-019",
+        "category": "TRADITIONAL",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centralityLevel": "Moderate",
+        "weightedScore": 3.0,
+        "location": "Chris's escape depends entirely on his own physical ingenuity; he uses the cotton from a chair to block the hypnotic trigger, then fights his way out alone",
+        "authenticity_note": "The traditional element is real: the film ultimately centers masculine self-reliance and physical survival. Chris survives because he trusts himself, not institutions."
+      },
+      {
+        "trope": "Loyal Male Friendship",
+        "id": "TRADITIONAL-029",
+        "category": "TRADITIONAL",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centralityLevel": "Low",
+        "weightedScore": 1.0,
+        "location": "Rod Williams is the only character who takes Chris's concerns seriously from the beginning; their friendship is the film's warm center",
+        "authenticity_note": "Rod provides the film's comic relief and its emotional grounding. The friendship is portrayed with genuine warmth."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Get Out (2017) Woke? Jordan Peele Horror Review | VirtueVigil",
+      "metaDescription": "Is Get Out (2017) woke? VirtueVigil verdict: WOKE (-12). Jordan Peele's acclaimed horror film is brilliantly made and explicitly built on the argument that all white people are racial predators. We break it all down.",
+      "keywords": "is get out 2017 woke, get out jordan peele review conservative, get out woke or not, get out 2017 ideology analysis, get out blumhouse race horror conservative review"
+    },
+    "wokeTrap": true
   }
 ]

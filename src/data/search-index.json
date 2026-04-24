@@ -6048,6 +6048,18 @@
     "poster": "/images/posters/corporate-retreat-2026.jpg"
   },
   {
+    "slug": "get-out-2017",
+    "title": "Get Out",
+    "verdict": "WOKE",
+    "platform": "Theatrical (Universal Pictures / Blumhouse)",
+    "genre": "Horror / Psychological Thriller",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 16,
+    "tradScore": 4,
+    "poster": "/images/posters/get-out-2017.jpg"
+  },
+  {
     "slug": "paddington-3-2026",
     "title": "Paddington 3",
     "verdict": "TRADITIONAL",
