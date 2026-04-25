@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/no-country-for-old-men-2007.jpg"
   },
   {
+    "slug": "taken-2008",
+    "title": "Taken",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Thriller",
+    "year": 2008,
+    "type": "film",
+    "wokeScore": 2.75,
+    "tradScore": 20.3,
+    "poster": "/images/posters/taken-2008.jpg"
+  },
+  {
     "slug": "get-out-2017",
     "title": "Get Out",
     "verdict": "WOKE",
