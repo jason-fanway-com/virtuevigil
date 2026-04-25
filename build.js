@@ -1915,6 +1915,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/sci-fi-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/adventure-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/drama-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/action-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2849,6 +2850,7 @@ function buildListsHubPage() {
         'comedy-movies-woke-ranking-2024',
         'drama-movies-2026-woke-ranking',
         'drama-movies-2025-woke-ranking',
+        'action-movies-2025-woke-ranking',
         'action-movies-2026-woke-ranking',
         'thriller-movies-2026-woke-ranking',
         'comedy-movies-2026-woke-ranking',
@@ -2920,7 +2922,8 @@ function buildListsHubPage() {
       'thriller-movies-2026-woke-ranking': 'Every 2026 Thriller Movie Ranked by Woke Score',
       'comedy-movies-2026-woke-ranking': 'Every 2026 Comedy Movie Ranked by Woke Score',
       'sci-fi-movies-2026-woke-ranking': 'Every 2026 Sci-Fi Movie Ranked by Woke Score',
-      'adventure-movies-2026-woke-ranking': 'Every 2026 Adventure Movie Ranked by Woke Score'
+      'adventure-movies-2026-woke-ranking': 'Every 2026 Adventure Movie Ranked by Woke Score',
+      'action-movies-2025-woke-ranking': 'Every 2025 Action Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -19733,6 +19736,389 @@ function buildAudienceVsCriticScoresListicle() {
       <hr>
 
       <p>Every score on this list comes directly from VirtueVigil's dual WOKE/TRAD methodology applied to the actual content of each film. The database grows every week. Browse all scored 2025 releases at <a href="/reviews/">virtuevigil.com/reviews/</a>, see the companion <a href="/lists/drama-movies-2026-woke-ranking/">2026 Drama ranking</a>, or check our <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a> for the complete cross-genre picture.</p>
+
+    </article>`
+  }));
+
+  console.log('  lists/action-movies-2025-woke-ranking/index.html');
+  writePage('lists/action-movies-2025-woke-ranking/index.html', buildListiclePage({
+    slug: 'action-movies-2025-woke-ranking',
+    title: 'Every 2025 Action Movie Ranked by Woke Score',
+    description: 'All 34 reviewed 2025 action films ranked from most woke to most traditional using VirtueVigil scores. Know what you are watching before you press play.',
+    canonicalPath: 'lists/action-movies-2025-woke-ranking',
+    publishDate: '2026-04-25',
+    htmlContent: `<article class="listicle-article">
+
+      <p>Action cinema is Hollywood's most profitable genre and its most reliable vehicle for ideology. The explosions are real. The worldview underneath them is real too. In 2025, VirtueVigil reviewed and scored 34 action releases covering theatrical blockbusters, streaming originals, international productions, and animated spectacles using the full dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures traditional values content including duty, sacrifice, family loyalty, and earned competence.</p>
+
+      <p>This ranking runs from the most ideologically progressive at the top to the most traditionally grounded at the bottom. A high woke score does not mean a bad film -- it means a loaded one. Use this list before you sit down with your family or recommend something to a friend. Every entry links to the full VirtueVigil review with complete trope audits and parental guidance.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/avatar-fire-and-ash-2025/">Avatar: Fire and Ash (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Action / Adventure &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>James Cameron has now made three Avatar films. Each one is technically extraordinary and ideologically predictable. Fire and Ash is both the best-looking film of 2025 and an almost proud repetition of every idea the franchise introduced in 2009. The anti-military messaging, the noble-indigenous framing, and the corporate villain are all present and amplified. At -8 WOKE it is the most ideologically loaded action film of the year.</p>
+      <p><a href="/reviews/avatar-fire-and-ash-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avatar: Fire and Ash</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/superman-2025/">Superman (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>James Gunn handed America's oldest superhero symbol a progressive megaphone and pointed it at every culture-war flashpoint of the moment: immigration, media distrust, foreign intervention. Then he had the Superman character embody gentle, domestic virtues. The +2 TRAD margin is the thinnest possible traditional verdict, reflecting a film where the traditional core is buried under a substantial ideological payload.</p>
+      <p><a href="/reviews/superman-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Superman</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/captain-america-brave-new-world-2025/">Captain America: Brave New World (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Political Thriller &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>A deeply confused film that cannot decide whether it wants to be a political thriller, a superhero spectacle, or a meditation on race in America. It tries to be all three and succeeds at none. A $180 million production that grossed $415 million on brand recognition rather than content quality. The -4 WOKE margin reflects progressive ideological framing baked into the film's core premise.</p>
+      <p><a href="/reviews/captain-america-brave-new-world-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain America: Brave New World</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/g20-2025/">G20 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -7 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Thriller &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>G20 wants to be Air Force One for the streaming era. Terrorists seize a G20 summit in Cape Town; the U.S. President -- a former Army combat veteran -- has to fight her way through the hotel to save her family and the hostages. Viola Davis is unimpeachable. The -7 WOKE margin comes from systematic progressive framing of American power and the President character's political positioning throughout.</p>
+      <p><a href="/reviews/g20-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of G20</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/jurassic-world-rebirth-2025/">Jurassic World Rebirth (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>A $200 million franchise reset starring Scarlett Johansson that earns a -4 WOKE margin through its consistent framing of corporate greed and institutional authority as the primary villains. Set five years after Jurassic World Dominion, the film hits every franchise beat without adding any genuine new ideas. Progressive character dynamics and institutional critique are layered throughout the screenplay.</p>
+      <p><a href="/reviews/jurassic-world-rebirth-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Jurassic World Rebirth</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/the-electric-state-2025/">The Electric State (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action / Adventure &bull; <strong>Platform:</strong> Netflix</p>
+      <p>The Russo Brothers took Simon Stalenhag's hauntingly beautiful illustrated novel about a girl and her robot wandering a decaying alternate America and spent $320 million on it. The result is a Netflix commodity where the ideology is more coherent than the plot. The -4 WOKE margin reflects consistent progressive framing of military and institutional authority as corrupt throughout.</p>
+      <p><a href="/reviews/the-electric-state-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Electric State</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/chainsaw-man-reze-arc-2025/">Chainsaw Man: The Movie -- Reze Arc (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -1 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Anime / Action / Horror &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>One of the best anime films in years and one of the most conservative-unfriendly. This is a hard-R animated film with graphic gore, a skinny-dipping scene, and a central villain who weaponizes intimacy. The -1 WOKE margin puts it narrowly in MIXED territory. The craft is extraordinary. The content audit matters before recommending it to conservative audiences -- read the full review.</p>
+      <p><a href="/reviews/chainsaw-man-reze-arc-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Chainsaw Man: Reze Arc</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/back-in-action-2025/">Back in Action (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Netflix spent $200 million on a perfectly disposable action comedy. Cameron Diaz returns from a decade away and provides real chemistry with Jamie Foxx. The -2 WOKE margin reflects progressive character framing in secondary roles and relationship dynamics that lean modern. The primary story is entertainment without agenda. Functional, forgettable, and broadly safe for adults.</p>
+      <p><a href="/reviews/back-in-action-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Back in Action</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/thunderbolts-2025/">Thunderbolts* (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The best Marvel film in several years. The asterisk signals something honest: this is a team that does not know what it is yet. David Harbour gives the performance of his MCU life as Red Guardian. The +2 TRAD margin is thin and accurate -- progressive and traditional elements are roughly balanced in a film that earns its emotional beats without making ideological speeches.</p>
+      <p><a href="/reviews/thunderbolts-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Thunderbolts*</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/tron-ares-2025/">Tron: Ares (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Tron: Ares cost Disney between $180 and $220 million and grossed $142 million worldwide. The -5 WOKE margin reflects ideological messaging embedded in the film's corporate-infiltration premise, where antagonists consistently represent traditional institutional authority and the protagonist's arc is structured around dismantling it. A costly failure on every metric.</p>
+      <p><a href="/reviews/tron-ares-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Tron: Ares</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/one-battle-after-another-2025/">One Battle After Another (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Paul Thomas Anderson makes movies for people who love movies. One Battle After Another might be his most entertaining work and also his most politically explicit. The -4 WOKE margin reflects Anderson's consistent framing of institutional authority and American power structures, delivered with extraordinary craft that conservative viewers who appreciate filmmaking will find genuinely conflicting.</p>
+      <p><a href="/reviews/one-battle-after-another-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of One Battle After Another</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/fantastic-four-first-steps-2025/">The Fantastic Four: First Steps (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Marvel needed a win and mostly got one. The Fantastic Four: First Steps is the best MCU film in years -- characters you care about, stakes that feel real, and a team that fights for each other rather than for an ideology. The +9 TRAD margin reflects family bonds, sacrifice without institutional backing, and a film that remembers what made the Marvel formula work before the studio lost its way.</p>
+      <p><a href="/reviews/fantastic-four-first-steps-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/predator-badlands/">Predator: Badlands (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action &bull; <strong>Platform:</strong> Theatrical / Hulu</p>
+      <p>Trachtenberg makes the boldest creative choice in franchise history by making the Predator himself the protagonist. It is a bold move that mostly works as filmmaking while earning a -4 WOKE margin. The film's progressive reframing of the franchise's traditional hunter-prey hierarchy and its sympathetic treatment of the Predator as an aggrieved outsider drives the ideological load.</p>
+      <p><a href="/reviews/predator-badlands/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Predator: Badlands</a></p>
+
+      <hr>
+
+      <h2>#14: <a href="/reviews/nobody-2-2025/">Nobody 2 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>Exactly the film its trailer promises: 89 minutes of Bob Odenkirk getting beaten up, beaten down, and beating back. Nobody 2 drops Hutch Mansell into a small-town Wisconsin vacation that predictably goes sideways. The +6 TRAD margin reflects the franchise's core premise -- a good man with a particular set of skills using them to protect his family -- executed without ideological interference.</p>
+      <p><a href="/reviews/nobody-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Nobody 2</a></p>
+
+      <hr>
+
+      <h2>#15: <a href="/reviews/m3gan-2-0-2025/">M3GAN 2.0 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Horror / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>M3GAN 2.0 is a film at war with itself. The original worked because it understood exactly what it was: a Blumhouse horror-comedy about an AI doll with unethical guardrails. The sequel expands the scope and loses the clarity. At +2 TRAD, the MIXED verdict reflects a film where traditional and progressive content roughly cancel out, leaving craft without ideological coherence.</p>
+      <p><a href="/reviews/m3gan-2-0-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of M3GAN 2.0</a></p>
+
+      <hr>
+
+      <h2>#16: <a href="/reviews/havoc-2025/">Havoc (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Crime / Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>The closest thing to a Gareth Evans Raid film in English. A homicide detective on the payroll of a corrupt real estate tycoon gets pulled into a drug deal gone catastrophically wrong. Tom Hardy delivers his most committed physical performance in years. The +9 TRAD margin reflects a film where individual competence and moral restoration through earned violence drives the story without progressive overlay.</p>
+      <p><a href="/reviews/havoc-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Havoc</a></p>
+
+      <hr>
+
+      <h2>#17: <a href="/reviews/invincible-season-3-2025/">Invincible Season 3 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Superhero / Action &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Invincible remains the best superhero show in production. Season 3 holds progressive elements that cost points on the scorecard, but the core storytelling stays anchored in responsibility, the cost of power, and Mark Grayson's ongoing struggle to be better than his father. At +11 TRAD, it earns its traditional score through character-driven moral complexity rather than ideological posturing.</p>
+      <p><a href="/reviews/invincible-season-3-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Invincible Season 3</a></p>
+
+      <hr>
+
+      <h2>#18: <a href="/reviews/f1-2025/">F1 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +17 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Sports Drama &bull; <strong>Platform:</strong> Theatrical / Apple TV+</p>
+      <p>Not a woke trap. Not even close. F1 is the purest strain of old-school Hollywood blockbuster filmmaking released in 2025. A comeback story about a broken man who finds redemption through grit, self-sacrifice, and the refusal to quit. The progressive elements are cosmetic. Nobody lectures anyone. At +17 TRAD, it delivers exactly the movie it advertises.</p>
+      <p><a href="/reviews/f1-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of F1</a></p>
+
+      <hr>
+
+      <h2>#19: <a href="/reviews/the-running-man-2025/">The Running Man (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: 0 NEUTRAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Sci-Fi / Satire &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Edgar Wright's The Running Man arrives with the gleam of a great idea and the slippage of a film that is very good at being fun without delivering the classic it aims for. Glen Powell is a natural star. The 0 NEUTRAL margin accurately reflects a film where the satirical ideological content and traditional action values perfectly cancel each other out.</p>
+      <p><a href="/reviews/the-running-man-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Running Man</a></p>
+
+      <hr>
+
+      <h2>#20: <a href="/reviews/the-amateur-2025/">The Amateur (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Spy Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>A revenge thriller about a man who is not supposed to be in the revenge business. Charlie Heller (Rami Malek) is a CIA cryptographer who restores old Cessnas on weekends. When terrorists murder his wife, he demands the CIA use their trained assets to avenge her. When they refuse, he trains himself. The +10 TRAD margin rewards the film's commitment to earned competence and righteous vengeance.</p>
+      <p><a href="/reviews/the-amateur-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Amateur</a></p>
+
+      <hr>
+
+      <h2>#21: <a href="/reviews/anaconda-2025/">Anaconda (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Four middle-aged friends from Buffalo -- Jack Black, Paul Rudd, Steve Zahn, Thandiwe Newton -- go on an adventure that predictably goes sideways. The +8 TRAD margin reflects the film's character dynamics: friendship as genuine value, competence under pressure, and the absence of progressive messaging rather than any particular ideological ambition. A solid B-tier action-adventure.</p>
+      <p><a href="/reviews/anaconda-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Anaconda</a></p>
+
+      <hr>
+
+      <h2>#22: <a href="/reviews/den-of-thieves-2-pantera-2025/">Den of Thieves 2: Pantera (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Crime Thriller &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>Den of Thieves 2 does not break any new ground. It does not need to. Gerard Butler is as aggressively unpleasant as possible chasing professional thieves through Europe. The +3 TRAD margin reflects the franchise's traditional moral economy: everyone operates by their own code and consequences are earned rather than assigned by ideological positioning. A reliable genre delivery.</p>
+      <p><a href="/reviews/den-of-thieves-2-pantera-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Den of Thieves 2</a></p>
+
+      <hr>
+
+      <h2>#23: <a href="/reviews/the-gorge-2025/">The Gorge (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Romantic Action &bull; <strong>Platform:</strong> Apple TV+</p>
+      <p>Two elite soldiers posted to guard towers on opposite sides of a remote classified gorge for one year. No contact. No communication. No information about what lives below. The Gorge earns +8 TRAD through its military duty framework, the courage-as-virtue narrative, and a romance that develops through shared sacrifice and mutual competence rather than identity politics.</p>
+      <p><a href="/reviews/the-gorge-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Gorge</a></p>
+
+      <hr>
+
+      <h2>#24: <a href="/reviews/demon-slayer-infinity-castle-2025/">Demon Slayer: Infinity Castle (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Anime / Action / Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The most technically ambitious traditionally animated film since The Lion King, earning every frame of its $778.9 million worldwide gross. Demon Slayer: Infinity Castle is built on values that conservative audiences will recognize: family as the ultimate motivation, sacrifice as the highest form of love, and the warrior's code as a moral structure worth dying for. At +19 TRAD, one of the most traditionally grounded action films of 2025.</p>
+      <p><a href="/reviews/demon-slayer-infinity-castle-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Demon Slayer: Infinity Castle</a></p>
+
+      <hr>
+
+      <h2>#25: <a href="/reviews/love-hurts-2025/">Love Hurts (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>Love Hurts is the kind of film dismissed by critics and enjoyed by audiences. Ke Huy Quan carries it with charm and commitment as a good man forced back into violence to protect loved ones. It does not pretend to be more than it is and does not attempt social commentary. At +7 TRAD, it tells a redemption story with a solid lead and clean action mechanics.</p>
+      <p><a href="/reviews/love-hurts-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Love Hurts</a></p>
+
+      <hr>
+
+      <h2>#26: <a href="/reviews/novocaine-2025/">Novocaine (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>The kind of movie Hollywood used to make regularly and now makes almost by accident. An original action comedy with a genuinely clever premise: a man with a rare condition that makes him unable to feel pain turns out to be surprisingly difficult to stop in a violent situation. At +5 TRAD, it earns its score through character agency, masculine competence under duress, and an absence of progressive messaging.</p>
+      <p><a href="/reviews/novocaine-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Novocaine</a></p>
+
+      <hr>
+
+      <h2>#27: <a href="/reviews/flight-risk-2025/">Flight Risk (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Theatrical / Prime Video</p>
+      <p>Mel Gibson directs his first film in nearly a decade: competent, unpretentious, and functional. A Deputy U.S. Marshal transporting a witness in a plane with an increasingly suspicious pilot. At +9 TRAD, Flight Risk scores through institutional loyalty, duty-driven characters, and the absence of ideological layering that costs other action films their traditional margin.</p>
+      <p><a href="/reviews/flight-risk-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Flight Risk</a></p>
+
+      <hr>
+
+      <h2>#28: <a href="/reviews/warfare-2025/">Warfare (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War / Action &bull; <strong>Platform:</strong> Theatrical / A24</p>
+      <p>Warfare is a real-time depiction of real events. The real Elliott Miller, to whom the film is dedicated, lost his leg and his ability to speak as a result of the events depicted. This is not entertainment in the conventional sense. It is testimony. At +7 TRAD, it earns its score through brotherhood as the supreme bond, physical courage under fire, and a refusal to editorialize about the mission or its cost.</p>
+      <p><a href="/reviews/warfare-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Warfare</a></p>
+
+      <hr>
+
+      <h2>#29: <a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +22 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Theatrical / Prime Video</p>
+      <p>The Accountant 2 does something rare: a sequel as good as the original without flinching from what made the first film work. Christian Wolff is one of the most quietly compelling protagonists in contemporary action cinema. At +22 TRAD with a STRONGLY TRADITIONAL verdict, it is the highest-scoring studio action sequel of 2025 and the clearest conservative pick in the genre.</p>
+      <p><a href="/reviews/the-accountant-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Accountant 2</a></p>
+
+      <hr>
+
+      <h2>#30: <a href="/reviews/mission-impossible-final-reckoning-2025/">Mission: Impossible -- The Final Reckoning (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Spy Thriller &bull; <strong>Platform:</strong> Theatrical / Paramount+</p>
+      <p>Tom Cruise's final turn as Ethan Hunt is a triumph of old-school filmmaking values. The Final Reckoning is a film about a man who refuses to let the world be destroyed and who rallies a loyal team of friends to help him do it. No lectures. No subtext about Western institutions. At +20 TRAD with a STRONGLY TRADITIONAL verdict, it is the farewell the franchise deserved.</p>
+      <p><a href="/reviews/mission-impossible-final-reckoning-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mission: Impossible -- The Final Reckoning</a></p>
+
+      <hr>
+
+      <h2>#31: <a href="/reviews/a-working-man-2025/">A Working Man (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Theatrical / Prime Video</p>
+      <p>Jason Statham has spent 25 years building a brand around one specific promise: a good man, pushed too far, will do what needs to be done. Directed by David Ayer and co-written by Sylvester Stallone, A Working Man is the purest distillation of that promise he has ever put on screen. At +16 TRAD, it is the clearest values statement in the Statham catalog.</p>
+      <p><a href="/reviews/a-working-man-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Working Man</a></p>
+
+      <hr>
+
+      <h2>#32: <a href="/reviews/karate-kid-legends-2025/">Karate Kid: Legends (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Drama / Family &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+      <p>Not a woke trap. Karate Kid: Legends is the most traditionally coded major studio release of 2025. A movie about older men teaching a young man to be brave, disciplined, and honorable. The trailer shows exactly what you get. At +23 TRAD with a STRONGLY TRADITIONAL verdict, it is the most values-clear franchise film of the year.</p>
+      <p><a href="/reviews/karate-kid-legends-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Karate Kid: Legends</a></p>
+
+      <hr>
+
+      <h2>#33 (Most Traditional): <a href="/reviews/ne-zha-2-2025/">Ne Zha 2 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +39 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Action / Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>One of the most extraordinary animated films made anywhere in the world in the past decade. Ne Zha 2 is a masterpiece of scale and emotion that makes the original look like a rehearsal. At +39 TRAD with a perfect 0 woke score, it is the most traditionally grounded action film VirtueVigil has ever reviewed and the only one in the genre to achieve that score.</p>
+      <p><a href="/reviews/ne-zha-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ne Zha 2</a></p>
+
+      <hr>
+
+      <p>Every score on this list comes directly from VirtueVigil's dual WOKE/TRAD methodology applied to the actual content of each film. Browse all scored 2025 action releases at <a href="/reviews/">virtuevigil.com/reviews/</a>, see the companion <a href="/lists/action-movies-2026-woke-ranking/">Every 2026 Action Movie Ranked by Woke Score</a>, or check our <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a> for the complete cross-genre picture. Subscribe free for weekly Woke Trap alerts before every major release.</p>
 
     </article>`
   }));
