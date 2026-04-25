@@ -6048,6 +6048,18 @@
     "poster": "/images/posters/corporate-retreat-2026.jpg"
   },
   {
+    "slug": "300-2006",
+    "title": "300",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Epic / Historical Fantasy",
+    "year": 2006,
+    "type": "film",
+    "wokeScore": 2.5,
+    "tradScore": 23.59,
+    "poster": "/images/posters/300-2006.jpg"
+  },
+  {
     "slug": "get-out-2017",
     "title": "Get Out",
     "verdict": "WOKE",
