@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/brothers-under-fire-2026.jpg"
   },
   {
+    "slug": "lorne-2026",
+    "title": "Lorne",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Documentary / Biography",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 10.92,
+    "tradScore": 6.58,
+    "poster": "/images/posters/lorne-2026.jpg"
+  },
+  {
     "slug": "300-2006",
     "title": "300",
     "verdict": "STRONGLY TRADITIONAL",
