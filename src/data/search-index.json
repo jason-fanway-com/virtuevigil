@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/desert-warrior-2026.jpg"
   },
   {
+    "slug": "brothers-under-fire-2026",
+    "title": "Brothers Under Fire",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action Thriller / Military",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.2,
+    "tradScore": 20.58,
+    "poster": "/images/posters/brothers-under-fire-2026.jpg"
+  },
+  {
     "slug": "300-2006",
     "title": "300",
     "verdict": "STRONGLY TRADITIONAL",
