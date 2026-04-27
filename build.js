@@ -1885,6 +1885,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/most-traditional-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/comedy-movies-woke-ranking-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-drama-movies-conservatives-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-thriller-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
@@ -1916,6 +1917,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/adventure-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/drama-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/action-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/comedy-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2805,6 +2807,7 @@ function buildListsHubPage() {
         'best-traditional-movies-2024',
         'best-traditional-movies-2025',
         'most-traditional-movies-2025',
+        'most-traditional-movies-2026',
         'best-traditional-movies-2026',
         'best-war-movies-patriots',
         'best-kids-movies-2025-2026-no-agenda',
@@ -2851,6 +2854,7 @@ function buildListsHubPage() {
         'drama-movies-2026-woke-ranking',
         'drama-movies-2025-woke-ranking',
         'action-movies-2025-woke-ranking',
+        'comedy-movies-2025-woke-ranking',
         'action-movies-2026-woke-ranking',
         'thriller-movies-2026-woke-ranking',
         'comedy-movies-2026-woke-ranking',
@@ -2923,7 +2927,8 @@ function buildListsHubPage() {
       'comedy-movies-2026-woke-ranking': 'Every 2026 Comedy Movie Ranked by Woke Score',
       'sci-fi-movies-2026-woke-ranking': 'Every 2026 Sci-Fi Movie Ranked by Woke Score',
       'adventure-movies-2026-woke-ranking': 'Every 2026 Adventure Movie Ranked by Woke Score',
-      'action-movies-2025-woke-ranking': 'Every 2025 Action Movie Ranked by Woke Score'
+      'action-movies-2025-woke-ranking': 'Every 2025 Action Movie Ranked by Woke Score',
+      'comedy-movies-2025-woke-ranking': 'Every 2025 Comedy Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -11155,6 +11160,234 @@ function buildAppleTvWokeRankingListicle() {
 .verdict-badge.traditional { background:rgba(39,174,96,0.15); color:#2ecc71; border:1px solid #2ecc71; display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; }
 .listicle-review-link { color:#c9a84c; text-decoration:none; font-size:0.9rem; }
 .listicle-review-link:hover { text-decoration:underline; }
+hr { border:none; border-top:1px solid rgba(255,255,255,0.07); margin:2rem 0; }
+</style>
+</article>`
+  }));
+
+  writePage('lists/most-traditional-movies-2026/index.html', buildListiclePage({
+    slug: 'most-traditional-movies-2026',
+    title: 'Best Traditional Movies of 2026 (So Far): VirtueVigil Top 10',
+    description: 'The 10 highest-scoring traditional movies of 2026, ranked by net traditional margin. VirtueVigil dual-score methodology. Updated as new reviews publish.',
+    canonicalPath: 'lists/most-traditional-movies-2026',
+    publishDate: '2026-04-27',
+    htmlContent: `<article class="listicle-article">
+
+<p>2026 is not the disaster year some conservative viewers feared. The data says so. VirtueVigil has reviewed over 60 films released so far in 2026, and the traditional side of the ledger is stacked. Not every studio release is a lecture. Not every blockbuster hides an agenda in the third act. A few films this year are doing something rarer still: treating traditional values as virtues worth celebrating rather than problems to deconstruct.</p>
+
+<p>These are the 10 highest-scoring traditional films of 2026 so far, ranked by net score margin using the VirtueVigil WOKE/TRAD dual methodology. The methodology counts verified trope instances weighted by severity, authenticity, and centrality to the narrative. The margin is the difference between TradScore and WokeScore. A margin of +28 means the traditional values content dominates the woke content by 28 points. These are not editorial picks. The scores built this list.</p>
+
+<p>Rankings run from #1 (highest net traditional margin) to #10. Every film links to its full VirtueVigil review with trope audits, creative team analysis, and parental guidance. The summaries below give you enough to make a decision. The full reviews give you the receipts.</p>
+
+<hr>
+
+<h2>#1 &mdash; <a href="/reviews/a-great-awakening-2026/">A Great Awakening (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28.7</span>
+  <span class="mini-score woke">WOKE: 0.35</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +28.4</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> History / Drama / Faith &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>The highest-scoring traditional film of 2026 so far tells the true story of the unlikely friendship between George Whitefield and Benjamin Franklin during the First Great Awakening. Whitefield was the era's most powerful evangelical preacher. Franklin was its most famous skeptic. History put them in the same city at the same time, and what happened between them is more interesting than anything Hollywood invented this year.</p>
+
+<p>Sight and Sound Films does not hedge. A WokeScore of 0.35 is essentially a rounding error. The TradScore of 28.7 reflects dense faith-positive content throughout: revival as genuine community transformation, the tension between reason and revelation treated seriously, and the idea that spiritual conviction changes people and changes civilizations. No deconstruction. No ironic distance. Take your skeptic friends. They deserve to see this argument made well.</p>
+
+<p><a href="/reviews/a-great-awakening-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Great Awakening</a></p>
+
+<hr>
+
+<h2>#2 &mdash; <a href="/reviews/dhurandhar-the-revenge-2026/">Dhurandhar: The Revenge (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.74</span>
+  <span class="mini-score woke">WOKE: 0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +26.7</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Spy / Action / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Bollywood delivered the most unapologetically patriotic action film of the year, and director Aditya Dhar built it at 229 minutes without a single apology for the subject matter. WokeScore: zero. A perfect zero. TradScore 26.74.</p>
+
+<p>Hollywood has spent a decade loading every action film with institutional guilt, second-act moral reckonings, and heroes who have to stop mid-plot to question whether their violence is problematic. Dhurandhar does not bother. National honor, masculine sacrifice, and the duty to protect your country are the film's entire argument, made at operatic scale with the conviction of a filmmaker who believes every word of it. The most purely traditional action film reviewed by VirtueVigil in 2026 by the numbers.</p>
+
+<p><a href="/reviews/dhurandhar-the-revenge-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dhurandhar: The Revenge</a></p>
+
+<hr>
+
+<h2>#3 &mdash; <a href="/reviews/psycho-killer/">Psycho Killer (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 29.0</span>
+  <span class="mini-score woke">WOKE: 3.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +26.0</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Andrew Kevin Walker wrote Se7en, one of the most morally coherent crime films of the past thirty years. Se7en treated evil as genuinely evil and paid real consequences for staring at it too long. Psycho Killer continues that work. Walker spent years trying to get this film made, and the wait produced a thriller that respects the weight of its subject matter.</p>
+
+<p>The highest raw TradScore on this list at 29.0. The film treats justice as an absolute, frames moral clarity as a value rather than a limitation, and gives its villain no redemptive subtext. Evil is evil. That is a conservative position in 2026 Hollywood, and Psycho Killer makes it without flinching. An adult film with adult content, but one that earns every frame of its R rating for the right reasons.</p>
+
+<p><a href="/reviews/psycho-killer/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Psycho Killer</a></p>
+
+<hr>
+
+<h2>#4 &mdash; <a href="/reviews/beast-2026/">Beast (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 27.0</span>
+  <span class="mini-score woke">WOKE: 1.5</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +25.5</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sports Action Drama &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>An MMA legend walked away from fighting, became a commercial fisherman, and built a quiet life. Then the people he loves were threatened. Beast is the masculine protector story done exactly right: no revision, no deconstruction, no third-act speech questioning whether the hero's protective instinct is healthy.</p>
+
+<p>Daniel MacPherson plays Patton James with the stillness of a man who knows what he is capable of and has chosen not to be that person, right up until the moment he has no choice. TradScore 27.0, WokeScore 1.5. The genre Hollywood used to build careers on: a man who can fight, chooses not to, and then does it anyway because something matters more than his own peace. No apologies attached. The audience deserves exactly this.</p>
+
+<p><a href="/reviews/beast-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Beast</a></p>
+
+<hr>
+
+<h2>#5 &mdash; <a href="/reviews/shelter-2026/">Shelter (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 32.0</span>
+  <span class="mini-score woke">WOKE: 9.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23.0</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Jason Statham plays a former government assassin living off-grid on a remote Scottish island. A dog. No mobile phone. Then someone who needs protecting shows up, and the film becomes the story of a man who has not stopped being what he was trained to be, and chooses to use it for something good.</p>
+
+<p>Shelter carries the highest raw TradScore on this entire list at 32.0. The masculine protector framework is the whole film. No deconstruction, no ironic distance, no late-film revelation that the hero's violence was the real problem all along. Statham being Statham, directed by someone who trusts the audience to want exactly that. The woke score of 9.0 reflects minor contemporary elements that do not compromise the dominant traditional architecture.</p>
+
+<p><a href="/reviews/shelter-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shelter</a></p>
+
+<hr>
+
+<h2>#6 &mdash; <a href="/reviews/peaky-blinders-the-immortal-man-2026/">Peaky Blinders: The Immortal Man (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 28.0</span>
+  <span class="mini-score woke">WOKE: 5.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +23.0</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Crime / Drama / History &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+
+<p>Six seasons of television promised a masculine, morally serious crime drama about a man who carries the weight of his choices and refuses to pretend otherwise. The film delivered on every one of those promises.</p>
+
+<p>Tommy Shelby comes out of hiding to save his son and fight the rise of European fascism, and the film treats loyalty, sacrifice, and legacy as genuine virtues rather than inherited burdens to be shed in a therapy session. TradScore 28.0, WokeScore 5.0. Cillian Murphy gives the performance this character always deserved. The best theatrical crime drama of 2026 and a conclusion the franchise earned.</p>
+
+<p><a href="/reviews/peaky-blinders-the-immortal-man-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Peaky Blinders: The Immortal Man</a></p>
+
+<hr>
+
+<h2>#7 &mdash; <a href="/reviews/the-optimist-2026/">The Optimist: The Bravest Act Is Truth (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 24.82</span>
+  <span class="mini-score woke">WOKE: 3.01</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +21.8</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Drama / Biography &bull; <strong>Platform:</strong> Theatrical (Limited)</p>
+
+<p>A small independent film about Herbert Heller, a real Holocaust survivor who kept his past secret for 60 years, and the friendship that finally gave him the courage to speak. Not political. No marketing budget. No celebrity press tour. A passion project by a filmmaker who believed the story deserved to be told.</p>
+
+<p>TradScore 24.82, WokeScore 3.01. The Optimist is quietly devastating in the way that only films confident in their subject matter can be. It treats human dignity as a given rather than a position to argue. Truth-telling as courage, family as the ground everything stands on, and the idea that carrying a burden for a lifetime and then setting it down is one of the bravest things a person can do. The kind of film that deserves ten times the audience it will find.</p>
+
+<p><a href="/reviews/the-optimist-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Optimist: The Bravest Act Is Truth</a></p>
+
+<hr>
+
+<h2>#8 &mdash; <a href="/reviews/solo-mio-2026/">Solo Mio (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 21.88</span>
+  <span class="mini-score woke">WOKE: 1.0</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20.9</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Romance / Comedy / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Kevin James flies to Italy for his wedding and gets left at the altar. His fiance leaves a note saying she is not ready and disappears. Instead of flying home, he stays. What follows is one of the warmest, most genuinely funny comedies of 2026, and one that earns its traditional values score through the actual story rather than as set dressing.</p>
+
+<p>TradScore 21.88, WokeScore 1.0. Solo Mio argues that real love requires showing up, that accountability matters more than chemistry, and that the right person is often waiting in a place you had no intention of going. Traditional romance built on compatible values rather than manufactured tension. One of the most pleasant surprises of the year, and proof that Kevin James has real range when he trusts the material.</p>
+
+<p><a href="/reviews/solo-mio-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Solo Mio</a></p>
+
+<hr>
+
+<h2>#9 &mdash; <a href="/reviews/project-hail-mary/">Project Hail Mary (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 26.88</span>
+  <span class="mini-score woke">WOKE: 6.05</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20.8</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>A man wakes up alone on a spacecraft with no memory of who he is or why he is there. The film ends with him choosing to stay in a distant solar system because someone else needs him more than Earth does. Everything between those two moments is the most morally coherent science fiction film in years.</p>
+
+<p>TradScore 26.88, WokeScore 6.05. Project Hail Mary celebrates competence without apology, treats sacrifice as its own reward rather than something requiring therapeutic processing, and builds its entire emotional architecture around the conviction that some things are worth giving everything for. Ryan Gosling commits fully to the material. Phil Lord and Christopher Miller direct with precision and genuine warmth. A rare major studio release that trusts its audience to respond to genuine heroism without needing the film to complicate it.</p>
+
+<p><a href="/reviews/project-hail-mary/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Project Hail Mary</a></p>
+
+<hr>
+
+<h2>#10 &mdash; <a href="/reviews/i-swear-2026/">I Swear (2026)</a></h2>
+
+<div class="listicle-scores">
+  <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+  <span class="mini-score trad">TRAD: 22.1</span>
+  <span class="mini-score woke">WOKE: 1.4</span>
+  <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +20.7</span>
+</div>
+
+<p class="listicle-meta"><strong>Genre:</strong> Biography / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+
+<p>Kirk Jones' biographical drama follows John Davidson, a Scottish man with Tourette syndrome who became an advocate for understanding and human dignity. TradScore 22.1, WokeScore 1.4. The film does not traffic in pity. It does not frame Davidson's condition as a political identity or his advocacy as activism in the contemporary sense of that word. It is a story about one man's courage, his family's love, and the conviction that the measure of a person is their heart.</p>
+
+<p>I Swear rejects shame and cruelty with equal firmness. It treats family as the foundation everything else is built on. It shows that courage is not absence of fear but the decision to speak anyway, to live anyway, to claim the dignity you were always owed. One of the most profoundly human films in the 2026 top 10, and the lowest-profile entry on this list. That is why it is here: the score does not care about marketing budgets.</p>
+
+<p><a href="/reviews/i-swear-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of I Swear</a></p>
+
+<hr>
+
+<h2>The Methodology Behind This List</h2>
+
+<p>Every score on this list is generated by VirtueVigil analysts applying the full VVWS methodology. Each film undergoes a trope-by-trope audit with scores weighted by severity, authenticity, and centrality to the narrative. The TradScore measures density of traditional values content: family, faith, masculine virtue, individual responsibility, patriotic framing, sacrifice, and earned moral authority. The WokeScore measures the inverse: progressive identity politics, anti-establishment messaging, traditional value deconstruction, and ideological prescription embedded in the story.</p>
+
+<p>The Score Margin is TradScore minus WokeScore. Every film on this list has a positive margin, meaning traditional values content dominates the progressive content by the listed number of points. A margin of +28 is rare in any year of Hollywood output. That three films on this list carry margins above +25 says something real about what 2026 is producing for traditional audiences willing to look beyond the A-list prestige releases.</p>
+
+<p>This list will be updated as more 2026 films are reviewed. The data decides the rankings. Browse the full catalog and see every film scored, ranked, and broken down at <a href="/reviews/">VirtueVigil Reviews</a>. For the other side of the 2026 ledger, see <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>.</p>
+
+<style>
+.listicle-scores { display:flex; gap:8px; flex-wrap:wrap; margin:10px 0 14px; }
+.mini-score { display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.75rem; font-weight:700; background:rgba(20,20,28,0.8); border:1px solid rgba(255,255,255,0.1); color:#a0a0a8; }
+.mini-score.trad { color:#2ecc71; border-color:rgba(46,204,113,0.3); }
+.mini-score.woke { color:#e74c3c; border-color:rgba(231,76,60,0.3); }
+.verdict-badge.traditional { background:rgba(39,174,96,0.15); color:#2ecc71; border:1px solid #2ecc71; display:inline-block; padding:3px 10px; border-radius:5px; font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; }
+.listicle-review-link { color:#c9a84c; text-decoration:none; font-size:0.9rem; }
+.listicle-review-link:hover { text-decoration:underline; }
+.listicle-meta { color:#a0a0a8; font-size:0.85rem; margin:-8px 0 14px; }
 hr { border:none; border-top:1px solid rgba(255,255,255,0.07); margin:2rem 0; }
 </style>
 </article>`
@@ -20398,6 +20631,239 @@ function buildThrillerMovies2025WokeRankingListicle() {
   <p>The most ideologically loaded titles cluster in the streaming prestige space: Adolescence, Wednesday Season 2, G20. The most traditional titles tend to be theatrical action and crime fare: A Working Man, The Accountant 2, Last Breath. That pattern holds across every year VirtueVigil has reviewed.</p>
 
   <p>Browse the full 2025 rankings across every genre at <a href="/lists/">VirtueVigil Lists</a>, or search any film in our database at <a href="/">VirtueVigil.com</a> for the full trope-by-trope breakdown.</p>
+</article>`
+  }));
+
+  console.log('  lists/comedy-movies-2025-woke-ranking/index.html');
+  writePage('lists/comedy-movies-2025-woke-ranking/index.html', buildListiclePage({
+    slug: 'comedy-movies-2025-woke-ranking',
+    title: 'Every 2025 Comedy Movie Ranked by Woke Score',
+    description: 'All 30 reviewed 2025 comedy films ranked from most woke to most traditional by VirtueVigil score. SpongeBob to Bugonia, the complete 2025 comedy woke ranking.',
+    canonicalPath: 'lists/comedy-movies-2025-woke-ranking',
+    publishDate: '2026-04-27',
+    htmlContent: `<article class="listicle-article">
+  <p>Comedy is the genre Hollywood uses to slip ideology past your defenses. Drama announces its politics. Horror wears them as a mask. But comedy disarms you first. You laugh, you relax, you lower your guard, and then the film tells you what to think about gender, identity, institutions, and the culture war. 2025 had 30 reviewed comedy titles, ranging from the most innocent animated family films to the most politically loaded prestige releases. They did not all lean the same direction.</p>
+
+  <p>VirtueVigil reviewed all 30 using the same dual-scoring system applied across every genre and year. This list ranks them from most woke to most traditional by score margin. A negative margin means woke content outweighed traditional content. A positive margin means the reverse. Every entry links to the full review with the complete trope-by-trope breakdown. No editorial filtering. No handpicking. The data decides.</p>
+
+  <hr>
+
+  <h2>#1 (Most Woke) - Bugonia (2025)</h2>
+  <p><strong>Woke Score:</strong> 28.94 &bull; <strong>Trad Score:</strong> 8.48 &bull; <strong>Margin:</strong> -20 WOKE &bull; <strong>Verdict:</strong> STRONGLY WOKE</p>
+  <p>Yorgos Lanthimos delivers a darkly funny, nihilistic black comedy thriller that wraps a radical anti-capitalist and environmentalist manifesto inside a genre disguise. Two sons kidnap a tech CEO to feed him to a cult that promises environmental salvation, and the film treats corporate wealth as an unambiguous moral evil requiring violent correction. Lanthimos is skilled enough to make the ideology feel like surrealism, but the score reflects what is actually being said beneath the absurdist veneer.</p>
+  <p><a href="/reviews/bugonia-2025/">Read the full VirtueVigil review of Bugonia</a></p>
+
+  <hr>
+
+  <h2>#2 - The Wedding Banquet (2025)</h2>
+  <p><strong>Woke Score:</strong> 19.0 &bull; <strong>Trad Score:</strong> 4.0 &bull; <strong>Margin:</strong> -15 WOKE &bull; <strong>Verdict:</strong> WOKE</p>
+  <p>The remake of Ang Lee's 1993 film updates the original's story of a gay man living a double life into a modern ensemble featuring two gay men and a lesbian friend navigating a fake marriage arrangement. Where the original treated cultural collision with ambiguity and pain, this version arrives with ideological clarity: the traditional family structure is the obstacle, the found family is the solution. The near-zero traditional score reflects a film with no interest in presenting the other side of that argument.</p>
+  <p><a href="/reviews/the-wedding-banquet-2025/">Read the full VirtueVigil review of The Wedding Banquet</a></p>
+
+  <hr>
+
+  <h2>#3 - The Ugly Stepsister (2025)</h2>
+  <p><strong>Woke Score:</strong> 18.12 &bull; <strong>Trad Score:</strong> 11.24 &bull; <strong>Margin:</strong> -7 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN</p>
+  <p>Norwegian director Emilie Blichfeldt reframes the Cinderella story from the ugly stepsister's perspective, arriving at a film about the violence of beauty standards and patriarchal systems delivered through body horror and dark satire. The result is genuinely unsettling and technically accomplished. It is also a film with a very clear ideological thesis about appearance, desirability, and the systems that enforce both. The woke lean margin is honest about where the film plants its flag.</p>
+  <p><a href="/reviews/the-ugly-stepsister-2025/">Read the full VirtueVigil review of The Ugly Stepsister</a></p>
+
+  <hr>
+
+  <h2>#4 - The White Lotus: Season 3 (2025)</h2>
+  <p><strong>Woke Score:</strong> 19.5 &bull; <strong>Trad Score:</strong> 12.8 &bull; <strong>Margin:</strong> -7 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN</p>
+  <p>Mike White's third season moves to Thailand and raises the body count's spiritual ambitions, arriving at roughly the same destination as the previous two seasons: wealthy people are hollow, their institutions are corrupt, and the systems that sustain their comfort are built on exploitation. The craft is exceptional, the performances are strong, and the ideology is consistent throughout the runtime. A woke lean at a -7 margin reflects a show that earns its entertainment value while delivering its worldview without interruption.</p>
+  <p><a href="/reviews/the-white-lotus-season-3-2025/">Read the full VirtueVigil review of The White Lotus: Season 3</a></p>
+
+  <hr>
+
+  <h2>#5 - Wednesday: Season 2 (2025)</h2>
+  <p><strong>Woke Score:</strong> 21.1 &bull; <strong>Trad Score:</strong> 15.4 &bull; <strong>Margin:</strong> -6 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN</p>
+  <p>The first season of Wednesday was a legitimate cultural phenomenon. The second season returns to Nevermore Academy with a larger budget and a more overt ideological agenda. The outsider identity framing that felt organic in season one becomes more programmatic in season two, and the show's treatment of authority, conformity, and identity politics is more pointed and less ambiguous. A -6 WOKE margin reflects a show that uses its enormous platform with purpose, not accidentally.</p>
+  <p><a href="/reviews/wednesday-season-2-2025/">Read the full VirtueVigil review of Wednesday: Season 2</a></p>
+
+  <hr>
+
+  <h2>#6 - Death of a Unicorn (2025)</h2>
+  <p><strong>Woke Score:</strong> 16.9 &bull; <strong>Trad Score:</strong> 12.3 &bull; <strong>Margin:</strong> -5 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN</p>
+  <p>An anti-capitalist satire wrapped in a creature feature, and the film does not try to hide what it is doing. A father and daughter accidentally hit a unicorn on a remote road, and a pharmaceutical billionaire's family uses its horn for profit with predictable consequences. The rich are villainous by definition, corporate greed is the monster, and the unicorn's magic is corrupted the moment capital gets involved. Skillfully made. Ideologically transparent. A woke lean is the accurate classification.</p>
+  <p><a href="/reviews/death-of-a-unicorn-2025/">Read the full VirtueVigil review of Death of a Unicorn</a></p>
+
+  <hr>
+
+  <h2>#7 - If I Had Legs I'd Kick You (2025)</h2>
+  <p><strong>Woke Score:</strong> 15.14 &bull; <strong>Trad Score:</strong> 11.42 &bull; <strong>Margin:</strong> -4 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN</p>
+  <p>Rose Byrne delivers a raw, committed performance as a single mother navigating a collapsing support system while caring for a chronically ill child. The A24 dark comedy frames systemic failure, healthcare inadequacy, and the impossible demands placed on women as the film's central targets. The direction is accomplished and the performance is real. The ideological framework is consistent and intentional throughout. A -4 WOKE margin reflects a film that earns its emotional impact while delivering its critique.</p>
+  <p><a href="/reviews/if-i-had-legs-id-kick-you-2025/">Read the full VirtueVigil review of If I Had Legs I'd Kick You</a></p>
+
+  <hr>
+
+  <h2>#8 - The Electric State (2025)</h2>
+  <p><strong>Woke Score:</strong> 13.63 &bull; <strong>Trad Score:</strong> 9.52 &bull; <strong>Margin:</strong> -4 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN</p>
+  <p>The Russo Brothers spent $320 million adapting Simon Stalenhag's illustrated novel into a sci-fi action comedy about a girl searching for her brother in a post-drone-war America. The world-building is impressive. The spectacle is enormous. The ideology embedded in that spectacle is consistent: corporations destroyed the world, technology was weaponized by the powerful against the powerless, and the only moral agents are those outside institutional structures. A -4 WOKE margin from a film that cost more per minute than most studios spend in a year.</p>
+  <p><a href="/reviews/the-electric-state-2025/">Read the full VirtueVigil review of The Electric State</a></p>
+
+  <hr>
+
+  <h2>#9 - One of Them Days (2025)</h2>
+  <p><strong>Woke Score:</strong> 7.18 &bull; <strong>Trad Score:</strong> 5.0 &bull; <strong>Margin:</strong> -2 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN</p>
+  <p>Keke Palmer and SZA are genuinely funny together in this buddy comedy about two roommates dealing with a deadbeat boyfriend who drained their rent fund. The chemistry is real and the comedy lands. The film's framing of male irresponsibility, institutional indifference, and female solidarity as the structural story is consistent enough to register as directional rather than incidental. A -2 WOKE lean is the closest margin to neutral while still pointing in a clear direction.</p>
+  <p><a href="/reviews/one-of-them-days-2025/">Read the full VirtueVigil review of One of Them Days</a></p>
+
+  <hr>
+
+  <h2>#10 - Back in Action (2025)</h2>
+  <p><strong>Woke Score:</strong> 12.6 &bull; <strong>Trad Score:</strong> 10.92 &bull; <strong>Margin:</strong> -2 WOKE &bull; <strong>Verdict:</strong> MIXED</p>
+  <p>Netflix spent $200 million on an action comedy starring Jamie Foxx and Cameron Diaz as retired CIA operatives pulled back into the field. The result is a perfectly disposable entertainment product that will be streamed by millions and forgotten within weeks. The slight woke lean comes from progressive framing in the domestic and career-balance storylines that edges the balance just past center. Not a film with an agenda. A film where the defaults tip slightly left, as they do throughout most of mainstream comedy.</p>
+  <p><a href="/reviews/back-in-action-2025/">Read the full VirtueVigil review of Back in Action</a></p>
+
+  <hr>
+
+  <h2>#11 - Eternity (2025)</h2>
+  <p><strong>Woke Score:</strong> 3.0 &bull; <strong>Trad Score:</strong> 5.0 &bull; <strong>Margin:</strong> +2 TRAD &bull; <strong>Verdict:</strong> MIXED</p>
+  <p>A24 and Apple Original Films team up for a high-concept romantic comedy set in the afterlife, where newly deceased souls have one week to choose their themed paradise. The premise sounds like prestige quirk but the execution is warm and largely unpretentious. The +2 TRAD margin reflects a film that sits at the centerline with a slight traditional lean, driven by genuine romantic commitment and relational stakes that the afterlife premise treats as meaningful rather than ironic. One of the more ideologically neutral A24 releases in recent memory.</p>
+  <p><a href="/reviews/eternity/">Read the full VirtueVigil review of Eternity</a></p>
+
+  <hr>
+
+  <h2>#12 - The Naked Gun (2025)</h2>
+  <p><strong>Woke Score:</strong> 5.5 &bull; <strong>Trad Score:</strong> 8.19 &bull; <strong>Margin:</strong> +3 TRAD &bull; <strong>Verdict:</strong> MIXED</p>
+  <p>Thirty-seven years after the original and fourteen years after Leslie Nielsen's death, Paramount made another Naked Gun. Liam Neeson steps in as the new Drebin, and the film attempts to preserve the original's absurdist deadpan format for a contemporary audience. The traditional lean comes from the franchise's structural comedy DNA, which treats authority as bumbling rather than evil and positions the protagonist as a sincere institution-believer in a world of chaos. Not as sharp as the original. Ideologically harmless, which in 2025 is itself a notable achievement.</p>
+  <p><a href="/reviews/the-naked-gun-2025/">Read the full VirtueVigil review of The Naked Gun</a></p>
+
+  <hr>
+
+  <h2>#13 - Blue Moon (2025)</h2>
+  <p><strong>Woke Score:</strong> 11.54 &bull; <strong>Trad Score:</strong> 14.07 &bull; <strong>Margin:</strong> +3 TRAD &bull; <strong>Verdict:</strong> MIXED</p>
+  <p>Richard Linklater's chamber drama unfolds over a single evening at Sardi's on the opening night of Oklahoma in 1943. Lorenz Hart, Rodgers's longtime partner being replaced, argues through the night about art, ambition, and what endures. The film pulls in multiple directions simultaneously: Hart's progressive personal life against the traditional Broadway institutions he helped build, artistic honesty against commercial compromise. Neither direction fully dominates the other, which is precisely what a +3 TRAD MIXED verdict captures.</p>
+  <p><a href="/reviews/blue-moon-2025/">Read the full VirtueVigil review of Blue Moon</a></p>
+
+  <hr>
+
+  <h2>#14 - Materialists (2025)</h2>
+  <p><strong>Woke Score:</strong> 9.18 &bull; <strong>Trad Score:</strong> 13.7 &bull; <strong>Margin:</strong> +5 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Celine Song follows Past Lives with a romantic comedy-drama about a New York matchmaker who finds her professional certainty about compatibility colliding with her own romantic confusion. The A24 release earns its traditional lean through consistent framing of genuine connection over transactional pairing and through a protagonist whose arc moves toward emotional honesty rather than away from it. A quiet, character-driven film that trusts its audience to find the ideology in the story rather than having it announced.</p>
+  <p><a href="/reviews/materialists-2025/">Read the full VirtueVigil review of Materialists</a></p>
+
+  <hr>
+
+  <h2>#15 - The Phoenician Scheme (2025)</h2>
+  <p><strong>Woke Score:</strong> 4.5 &bull; <strong>Trad Score:</strong> 10.85 &bull; <strong>Margin:</strong> +6 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Wes Anderson's thirteenth feature is his most purely entertaining film since The Grand Budapest Hotel. After the formal experiments of Asteroid City and The French Dispatch, he returns to a driving narrative: an aging arms dealer discovers his daughter is the only heir he can trust and brings her into a deal that may kill them both. The traditional lean comes from the film's genuine weight placed on parental obligation, earned trust, and family loyalty. Anderson's whimsy is present throughout. So is emotional sincerity, which is what earns the traditional score.</p>
+  <p><a href="/reviews/the-phoenician-scheme-2025/">Read the full VirtueVigil review of The Phoenician Scheme</a></p>
+
+  <hr>
+
+  <h2>#16 - Freakier Friday (2025)</h2>
+  <p><strong>Woke Score:</strong> 9.68 &bull; <strong>Trad Score:</strong> 15.95 &bull; <strong>Margin:</strong> +6 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Twenty-two years after Freaky Friday, Anna Coleman is now a working music producer and single mother about to remarry. The sequel swaps bodies again, this time involving her teenage daughter and new stepchildren. Disney earns a traditional lean by centering blended family formation, parental sacrifice, and the hard work of building a stepfamily with genuine care rather than treating it as an obstacle to the protagonist's self-actualization. Not a perfect film. A pro-family film, which in 2025 Disney output is its own kind of achievement.</p>
+  <p><a href="/reviews/freakier-friday-2025/">Read the full VirtueVigil review of Freakier Friday</a></p>
+
+  <hr>
+
+  <h2>#17 - Nobody 2 (2025)</h2>
+  <p><strong>Woke Score:</strong> 8.96 &bull; <strong>Trad Score:</strong> 15.12 &bull; <strong>Margin:</strong> +6 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Bob Odenkirk returns as Hutch Mansell for 89 minutes of precisely choreographed violence. The sequel drops the first film's family-protection framing and leans harder into the action-comedy format, but the traditional lean persists through the same mechanisms: male competence, protective instinct, and the satisfaction of watching a man who has been pushed too far push back with extraordinary precision. The entertainment value is the ideology here, and that ideology is thoroughly traditional.</p>
+  <p><a href="/reviews/nobody-2-2025/">Read the full VirtueVigil review of Nobody 2</a></p>
+
+  <hr>
+
+  <h2>#18 - Heart Eyes (2025)</h2>
+  <p><strong>Woke Score:</strong> 5.45 &bull; <strong>Trad Score:</strong> 12.0 &bull; <strong>Margin:</strong> +7 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>It is Valentine's Day in Seattle. A serial killer called the Heart Eyes Killer is hunting couples. Two coworkers who have been professionally awkward around their mutual attraction spend the night running for their lives and falling in love. The horror-comedy-romance hybrid earns its traditional lean through genuine romantic commitment and a straightforward framing of couplehood as worth protecting rather than deconstructing. A crowd-pleaser that does not overthink itself and is better for it.</p>
+  <p><a href="/reviews/heart-eyes-2025/">Read the full VirtueVigil review of Heart Eyes</a></p>
+
+  <hr>
+
+  <h2>#19 - Love Hurts (2025)</h2>
+  <p><strong>Woke Score:</strong> 3.6 &bull; <strong>Trad Score:</strong> 10.2 &bull; <strong>Margin:</strong> +7 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Ke Huy Quan carries this action comedy with charm and commitment, playing a suburban real estate agent whose criminal past catches up with him on Valentine's Day. The film earns its traditional lean through masculine competence, personal accountability, and a protagonist who takes responsibility for his past choices rather than framing them as systemic failures. A solid B-movie that knows exactly what it is and delivers it cleanly without an ideological detour.</p>
+  <p><a href="/reviews/love-hurts-2025/">Read the full VirtueVigil review of Love Hurts</a></p>
+
+  <hr>
+
+  <h2>#20 - A Minecraft Movie (2025)</h2>
+  <p><strong>Woke Score:</strong> 2.7 &bull; <strong>Trad Score:</strong> 10.24 &bull; <strong>Margin:</strong> +8 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Warner Bros. adaptation of the world's best-selling video game franchise earns a traditional lean by being exactly what it says it is: two hours of Jack Black yelling, Jason Momoa being absurdly confident, and a story about people finding their courage. The film does not embed a social curriculum into the block-building premise. It trusts the source material to carry the audience, which it does. A +8 TRAD margin from a film that succeeds by refusing to lecture its audience.</p>
+  <p><a href="/reviews/a-minecraft-movie-2025/">Read the full VirtueVigil review of A Minecraft Movie</a></p>
+
+  <hr>
+
+  <h2>#21 - Lilo &amp; Stitch (2025)</h2>
+  <p><strong>Woke Score:</strong> 5.6 &bull; <strong>Trad Score:</strong> 13.1 &bull; <strong>Margin:</strong> +8 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Disney's live-action remake of the 2002 animated film earns something rare for the modern studio: a traditional lean that is actually earned rather than accidental. Director Dean Fleischer Camp preserves what made the original work, centering ohana as a real value rather than a marketing slogan and treating the found-family premise with genuine emotional weight. The film does not try to update the original's values for a contemporary progressive audience. It trusts the original material and respects the audience that loves it.</p>
+  <p><a href="/reviews/lilo-and-stitch-2025/">Read the full VirtueVigil review of Lilo &amp; Stitch</a></p>
+
+  <hr>
+
+  <h2>#22 - The Monkey (2025)</h2>
+  <p><strong>Woke Score:</strong> 14.0 &bull; <strong>Trad Score:</strong> 22.0 &bull; <strong>Margin:</strong> +8 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Osgood Perkins follows Longlegs with a Stephen King adaptation about twin brothers and a cursed toy monkey that kills anyone near it when it plays its cymbals. The horror-comedy earns its traditional lean through themes of brotherhood, paternal accountability, and the weight of inherited trauma dealt with rather than passed down. Perkins frames the family curse as something that can be broken through honesty and sacrifice, which is a more traditional moral architecture than most King adaptations manage.</p>
+  <p><a href="/reviews/the-monkey-2025/">Read the full VirtueVigil review of The Monkey</a></p>
+
+  <hr>
+
+  <h2>#23 - Anaconda (2025)</h2>
+  <p><strong>Woke Score:</strong> 4.4 &bull; <strong>Trad Score:</strong> 12.18 &bull; <strong>Margin:</strong> +8 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>Four middle-aged friends from Buffalo take a hunting trip in the Louisiana bayou and encounter a 50-foot anaconda. The action-adventure-comedy earns its traditional lean through genuine male friendship, collective competence under pressure, and a narrative that treats the group's bonds as the emotional core rather than the problem to be solved. A film that does not need to interrogate its characters' values to generate stakes. That choice is itself a value statement, and it tips the margin traditional.</p>
+  <p><a href="/reviews/anaconda-2025/">Read the full VirtueVigil review of Anaconda</a></p>
+
+  <hr>
+
+  <h2>#24 - The Bad Guys 2 (2025)</h2>
+  <p><strong>Woke Score:</strong> 6.93 &bull; <strong>Trad Score:</strong> 16.38 &bull; <strong>Margin:</strong> +9 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN</p>
+  <p>DreamWorks Animation returns with a sequel that preserves what made the original work: French New Wave aesthetics, a clever premise about criminals choosing to be good, and storytelling that trusts children to follow genuine moral complexity. The sequel earns a stronger traditional lean than the original by doubling down on earned redemption and personal accountability as narrative engines. The characters choose goodness through action rather than having goodness redefined around them. A family film that takes its moral framework seriously.</p>
+  <p><a href="/reviews/the-bad-guys-2-2025/">Read the full VirtueVigil review of The Bad Guys 2</a></p>
+
+  <hr>
+
+  <h2>#25 - Paddington in Peru (2025)</h2>
+  <p><strong>Woke Score:</strong> 8.4 &bull; <strong>Trad Score:</strong> 22.5 &bull; <strong>Margin:</strong> +14 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL</p>
+  <p>The third Paddington film takes the Brown family to Peru for a jungle adventure involving a lost convent, a missing nun, and a gold-obsessed villain. The franchise's core thesis holds across three films: radical kindness is a superpower, family is worth protecting, and decency is not weakness. The traditional score reflects genuine warmth without sentimentality, a villain who is wrong for comprehensible reasons, and a protagonist whose moral simplicity is treated as wisdom rather than naivety. One of the most reliably traditional family franchises in modern cinema.</p>
+  <p><a href="/reviews/paddington-in-peru-2025/">Read the full VirtueVigil review of Paddington in Peru</a></p>
+
+  <hr>
+
+  <h2>#26 - Bridget Jones: Mad About the Boy (2025)</h2>
+  <p><strong>Woke Score:</strong> 11.2 &bull; <strong>Trad Score:</strong> 26.18 &bull; <strong>Margin:</strong> +15 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL</p>
+  <p>Bridget Jones returns fourteen years later as a widow raising two children, and the film earns its highest traditional score in the franchise by treating grief as something real that must be worked through rather than bypassed. The romantic comedy framework is present, but the emotional weight comes from the genuine cost of losing a partner and the hard work of building a life after that loss. A film that respects both its protagonist and its audience enough to let the pain be real before the comedy takes over.</p>
+  <p><a href="/reviews/bridget-jones-mad-about-the-boy-2025/">Read the full VirtueVigil review of Bridget Jones: Mad About the Boy</a></p>
+
+  <hr>
+
+  <h2>#27 - Nonnas (2025)</h2>
+  <p><strong>Woke Score:</strong> 1.0 &bull; <strong>Trad Score:</strong> 17.0 &bull; <strong>Margin:</strong> +16 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL</p>
+  <p>Netflix releases a film about a grieving son who opens an Italian restaurant staffed entirely by nonnas from the neighborhood. The near-zero woke score combined with a strong traditional score is almost diagnostic: this is a film about food, family, grief, community, and the dignity of the elderly, and it has no interest in any other conversation. One of the most ideologically clean releases of 2025, which should not be remarkable but increasingly is. Take your family. Watch it without explanation.</p>
+  <p><a href="/reviews/nonnas-2025/">Read the full VirtueVigil review of Nonnas</a></p>
+
+  <hr>
+
+  <h2>#28 - Dog Man (2025)</h2>
+  <p><strong>Woke Score:</strong> 3.35 &bull; <strong>Trad Score:</strong> 22.54 &bull; <strong>Margin:</strong> +19 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL</p>
+  <p>DreamWorks adapts Dav Pilkey's graphic novel series into an 89-minute animated film that does exactly what parents need: treats children as an audience worthy of genuine storytelling rather than a demographic to be managed. Dog Man is about a half-dog half-police officer who is good at his job and cares about the people he protects. The film treats those values as virtues, not as problems to be complicated. A strong traditional score with a near-zero woke score. Take the kids. It is actually fine.</p>
+  <p><a href="/reviews/dog-man-2025/">Read the full VirtueVigil review of Dog Man</a></p>
+
+  <hr>
+
+  <h2>#29 - Happy Gilmore 2 (2025)</h2>
+  <p><strong>Woke Score:</strong> 3.45 &bull; <strong>Trad Score:</strong> 31.22 &bull; <strong>Margin:</strong> +28 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL</p>
+  <p>Twenty-nine years between sequels. Adam Sandler returns to the character that made him a star, and the result is one of the most surprising traditional scores in 2025 comedy. Happy Gilmore 2 earns its margin through unironic masculinity, earned redemption, genuine father-figure relationships, and a sports-comedy structure that treats hard work and competitive excellence as unambiguous virtues. Sandler does not update the character's values for 2025. He trusts them. The audience responds. That trust is itself the highest traditional score available in the modern comedy genre.</p>
+  <p><a href="/reviews/happy-gilmore-2-2025/">Read the full VirtueVigil review of Happy Gilmore 2</a></p>
+
+  <hr>
+
+  <h2>#30 (Most Traditional) - The SpongeBob Movie: Search for SquarePants (2025)</h2>
+  <p><strong>Woke Score:</strong> 1.28 &bull; <strong>Trad Score:</strong> 43.1 &bull; <strong>Margin:</strong> +42 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL</p>
+  <p>The highest traditional score in the entire 2025 comedy genre and one of the highest across all reviewed 2025 films. The fourth SpongeBob theatrical release is also the most ideologically clean: a near-zero woke score combined with the kind of traditional score that reflects genuine storytelling virtues rather than political messaging. Friendship, loyalty, earned courage, and the value of community are the film's engines. Nickelodeon does not try to update these values. It delivers them at full volume for 90 minutes. Parents can watch it without a checklist. That is the point.</p>
+  <p><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/">Read the full VirtueVigil review of The SpongeBob Movie: Search for SquarePants</a></p>
+
+  <hr>
+
+  <h2>What the 2025 Comedy Season Tells Us</h2>
+  <p>Twenty of the 30 reviewed 2025 comedy films landed at a positive or neutral margin. Ten landed woke or woke-lean. The genre did not swing uniformly in either direction, which is itself news: 2024 and 2023 comedy skewed harder left. In 2025, the most watched comedies on Netflix (Happy Gilmore 2, Nonnas, Back in Action) ranged from mixed to strongly traditional. The theatrical comedy slate (A Minecraft Movie, Lilo and Stitch, Freakier Friday) delivered consistent traditional-lean results. The prestige indie space (Bugonia, The Wedding Banquet, A24's catalog) remained the ideological concentration zone.</p>
+
+  <p>The lesson is the same one VirtueVigil has documented across every genre: streaming volume is not a reliable proxy for ideology. The most watched titles are often the most ideologically neutral. The most ideologically loaded titles tend to be the niche prestige releases that critics celebrate but audiences stream once and forget. Use the data before you commit your time.</p>
+
+  <p>Browse the complete 2025 rankings at <a href="/lists/">VirtueVigil Lists</a>, or search any film in our database at <a href="/">VirtueVigil.com</a> for the full trope-by-trope breakdown.</p>
 </article>`
   }));
 }
