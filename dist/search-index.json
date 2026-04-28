@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/1917-2019.jpg"
   },
   {
+    "slug": "bohemian-rhapsody-2018",
+    "title": "Bohemian Rhapsody",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Biographical Drama / Music",
+    "year": 2018,
+    "type": "film",
+    "wokeScore": 7.88,
+    "tradScore": 13.18,
+    "poster": "/images/posters/bohemian-rhapsody-2018.jpg"
+  },
+  {
     "slug": "jackass-best-and-last-2026",
     "title": "Jackass: Best and Last",
     "verdict": "TRADITIONAL",
