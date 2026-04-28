@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/star-wars-the-last-jedi-2017.jpg"
   },
   {
+    "slug": "1917-2019",
+    "title": "1917",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "War / Drama / Action",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 21.28,
+    "poster": "/images/posters/1917-2019.jpg"
+  },
+  {
     "slug": "jackass-best-and-last-2026",
     "title": "Jackass: Best and Last",
     "verdict": "TRADITIONAL",
