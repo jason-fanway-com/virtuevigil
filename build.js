@@ -1918,6 +1918,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/drama-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/action-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/comedy-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/sci-fi-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2855,6 +2856,7 @@ function buildListsHubPage() {
         'drama-movies-2025-woke-ranking',
         'action-movies-2025-woke-ranking',
         'comedy-movies-2025-woke-ranking',
+        'sci-fi-movies-2025-woke-ranking',
         'action-movies-2026-woke-ranking',
         'thriller-movies-2026-woke-ranking',
         'comedy-movies-2026-woke-ranking',
@@ -2928,7 +2930,8 @@ function buildListsHubPage() {
       'sci-fi-movies-2026-woke-ranking': 'Every 2026 Sci-Fi Movie Ranked by Woke Score',
       'adventure-movies-2026-woke-ranking': 'Every 2026 Adventure Movie Ranked by Woke Score',
       'action-movies-2025-woke-ranking': 'Every 2025 Action Movie Ranked by Woke Score',
-      'comedy-movies-2025-woke-ranking': 'Every 2025 Comedy Movie Ranked by Woke Score'
+      'comedy-movies-2025-woke-ranking': 'Every 2025 Comedy Movie Ranked by Woke Score',
+      'sci-fi-movies-2025-woke-ranking': 'Every 2025 Sci-Fi Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -20865,6 +20868,227 @@ function buildThrillerMovies2025WokeRankingListicle() {
 
   <p>Browse the complete 2025 rankings at <a href="/lists/">VirtueVigil Lists</a>, or search any film in our database at <a href="/">VirtueVigil.com</a> for the full trope-by-trope breakdown.</p>
 </article>`
+  }));
+
+  console.log('  lists/sci-fi-movies-2025-woke-ranking/index.html');
+  writePage('lists/sci-fi-movies-2025-woke-ranking/index.html', buildListiclePage({
+    slug: 'sci-fi-movies-2025-woke-ranking',
+    title: 'Every 2025 Sci-Fi Movie Ranked by Woke Score',
+    description: 'All 18 reviewed 2025 sci-fi films ranked from most woke to most traditional using VirtueVigil scores. Sci-fi is where Hollywood hides its most ambitious ideology.',
+    canonicalPath: 'lists/sci-fi-movies-2025-woke-ranking',
+    publishDate: '2026-04-28',
+    htmlContent: `<article class="listicle-article">
+      <p>Science fiction has always been the genre Hollywood uses to say things it cannot say directly. Distance from reality creates permission. In 2025, VirtueVigil reviewed 18 sci-fi films ranging from blockbuster sequels to prestige streaming originals, and the ideological spread is as wide as any genre this year. Some of these titles are the most aggressively progressive films in the entire 2025 database. Others are among the cleanest picks available. Knowing the difference before you sit down matters.</p>
+
+      <p>This list ranks all 18 reviewed 2025 sci-fi titles by VirtueVigil margin, running from the most ideologically progressive at the top to the most traditionally grounded at the bottom. The methodology measures the density and intensity of woke ideological content (Woke Score) and traditionally grounded content (Traditional Score) across categories including gender politics, religious themes, family structure, institutional critique, and masculine identity. Every entry links to the full VirtueVigil review with complete trope audits, creative team profiles, and parental guidance notes.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): Bugonia (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -20 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 28.94 &bull; <strong>Trad Score:</strong> 8.48 &bull; <strong>Genre:</strong> Black Comedy / Sci-Fi Thriller</p>
+      <p>Bugonia is the most ideologically aggressive sci-fi film in the 2025 dataset by a significant margin. The A24 black comedy casts its corporate conspiracy premise as a vehicle for concentrated progressive ideology across multiple categories, landing a woke score of 28.94 against a traditional score of 8.48. The -20 WOKE margin is not a close call. The film is a genre exercise built around ideological content, and it does not attempt to obscure that. If you want the specific trope breakdown behind that 28.94 woke score, the full VirtueVigil review has every category itemized before you invest the runtime.</p>
+      <p><a href="/reviews/bugonia-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Bugonia</a></p>
+
+      <hr>
+
+      <h2>#2: Avatar: Fire and Ash (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 21.6 &bull; <strong>Trad Score:</strong> 13.4 &bull; <strong>Genre:</strong> Epic Sci-Fi Action Adventure</p>
+      <p>James Cameron's third Avatar chapter carries the highest raw woke score of any sci-fi film reviewed this year at 21.6. The traditional score of 13.4 reflects genuine warrior culture, familial bonds, and the spiritual weight of the Na'vi connection to their world, but the progressive ideological scaffolding running through the film's environmental and colonial themes accumulates to a -8 WOKE net margin. The Avatar franchise has always used science fiction as a vehicle for ideology, and Fire and Ash is consistent with that pattern. The full VirtueVigil review breaks down where the 21.6 woke score originates and what the traditional content actually delivers against it.</p>
+      <p><a href="/reviews/avatar-fire-and-ash-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avatar: Fire and Ash</a></p>
+
+      <hr>
+
+      <h2>#3: Mickey 17 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 11.0 &bull; <strong>Trad Score:</strong> 5.0 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy</p>
+      <p>Bong Joon-ho's sci-fi comedy casts a disposable worker clone as its protagonist, and the class-warfare framing is the engine driving the ideological content. The -6 WOKE margin reflects a film where the traditional score of 5.0 offers little counterweight to the progressive critique running through the narrative. Corporate exploitation, institutional dehumanization, and the expendability of the working class are not subtext here. They are the text. The full VirtueVigil review documents the specific ideological content before you decide whether the runtime is worth it.</p>
+      <p><a href="/reviews/mickey-17-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mickey 17</a></p>
+
+      <hr>
+
+      <h2>#4: Andor - Season 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 15.0 &bull; <strong>Trad Score:</strong> 10.0 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Disney+</p>
+      <p>Tony Gilroy's conclusion to Andor carries the highest raw woke score among the -5 WOKE tier at 15.0, reflecting the show's consistent use of the Star Wars universe to explore anti-institutional themes, resistance politics, and systemic critique. The traditional score of 10.0 is real: sacrifice, loyalty, and individual moral courage are genuine themes throughout. But the net margin comes down on the woke side of the ledger. Andor Season 2 is prestige television that earns its reputation while carrying a clear ideological orientation. The full VirtueVigil review explains which specific episodes and story arcs drive the margin.</p>
+      <p><a href="/reviews/andor-s2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Andor - Season 2</a></p>
+
+      <hr>
+
+      <h2>#5: Stranger Things - Season 5 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 13.0 &bull; <strong>Trad Score:</strong> 8.0 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>The Duffer Brothers conclude nine years of Stranger Things with a final season that earns a -5 WOKE margin, completing a franchise arc that started with strong traditional scores in early seasons and drifted progressively across its run. The traditional score of 8.0 reflects the genuine friendship bonds, parental sacrifice, and small-town community that made the show beloved in the first place. The woke score of 13.0 reflects the ideological accumulation across a final season that wants to honor both its nostalgic roots and its evolved sensibilities. Neither fully wins. The full review documents the specific content and whether the finale delivers on a decade of investment.</p>
+      <p><a href="/reviews/stranger-things/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Stranger Things - Season 5</a></p>
+
+      <hr>
+
+      <h2>#6: Tron: Ares (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 11.0 &bull; <strong>Trad Score:</strong> 5.6 &bull; <strong>Genre:</strong> Sci-Fi / Action</p>
+      <p>Disney's long-delayed Tron sequel lands a -5 WOKE margin with a woke score of 11.0 and a traditional score of 5.6, continuing the franchise's drift since Legacy. The Grid's visual spectacle remains intact, but the ideological content embedded in Ares's character framing and the film's institutional critique runs hotter than the original films. The traditional content is limited to individual-versus-system themes that never fully develop into a counterweight. A film that tries to update a beloved franchise for 2025 audiences and pays an ideological price for that attempt. The full VirtueVigil review itemizes where both scores originate.</p>
+      <p><a href="/reviews/tron-ares-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Tron: Ares</a></p>
+
+      <hr>
+
+      <h2>#7: Fallout - Season 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 9.89 &bull; <strong>Trad Score:</strong> 4.9 &bull; <strong>Genre:</strong> Post-Apocalyptic / Sci-Fi Drama &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Fallout Season 2 was one of the most anticipated streaming returns of 2025, and the second season expands the ideological footprint of the first while maintaining the franchise's dark humor and world-building. The woke score of 9.89 against a traditional score of 4.9 produces a -5 WOKE margin that reflects a show where the satire of pre-war American institutions shades into contemporary progressive critique. The vault-dweller worldview that drove Season 1's appeal is still present but more contested. Fans of the games and first season should read the full review before deciding whether Season 2 delivers or lectures.</p>
+      <p><a href="/reviews/fallout-season-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Fallout - Season 2</a></p>
+
+      <hr>
+
+      <h2>#8: Captain America: Brave New World (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 14.58 &bull; <strong>Trad Score:</strong> 10.08 &bull; <strong>Genre:</strong> Action / Sci-Fi / Thriller</p>
+      <p>Sam Wilson's first solo film as Captain America carries the highest raw woke score among the -4 WOKE tier at 14.58, reflecting the political weight the film places on its protagonist's identity and its institutional critique of American government. The traditional score of 10.08 reflects genuine heroism, duty, and sacrifice themes that the film does not abandon. But the net margin is woke, driven by the density of progressive framing around race, power, and institutional accountability. The full VirtueVigil review documents every contributing factor behind both scores and whether the film's action delivers enough to compensate for its ideological load.</p>
+      <p><a href="/reviews/captain-america-brave-new-world-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain America: Brave New World</a></p>
+
+      <hr>
+
+      <h2>#9: Jurassic World Rebirth (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 14.0 &bull; <strong>Trad Score:</strong> 10.0 &bull; <strong>Genre:</strong> Action / Sci-Fi</p>
+      <p>The soft reboot of the Jurassic franchise attempts to recapture the original's thrilling premise while updating its cast and sensibilities for 2025 audiences. The -4 WOKE margin reflects that update's ideological cost: a woke score of 14.0 running against a traditional score of 10.0 in a film that is primarily a survival thriller. The adventure structure carries genuine traditional content in its depiction of courage, teamwork, and individual competence under pressure, but the framing choices and character dynamics accumulate enough progressive content to tip the margin. The full review breaks down whether Rebirth is worth the investment for families who loved the original trilogy.</p>
+      <p><a href="/reviews/jurassic-world-rebirth-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Jurassic World Rebirth</a></p>
+
+      <hr>
+
+      <h2>#10: The Electric State (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 13.63 &bull; <strong>Trad Score:</strong> 9.52 &bull; <strong>Genre:</strong> Sci-Fi / Action-Adventure / Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>The Russo Brothers adapt Simon Stalenhag's illustrated novel into a Netflix blockbuster with a -4 WOKE margin that reflects the adaptation's tonal and ideological choices. The source material is melancholic and ambiguous; the film version adds comedy and a more explicit anti-corporate, anti-technology critique that drives the woke score to 13.63. The traditional score of 9.52 comes from the sibling bond at the story's core and the road-trip structure that rewards loyalty and perseverance. A watchable film that carries an ideological orientation visible enough to matter. The full VirtueVigil review has the complete breakdown.</p>
+      <p><a href="/reviews/the-electric-state-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Electric State</a></p>
+
+      <hr>
+
+      <h2>#11: Companion (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 7.0 &bull; <strong>Trad Score:</strong> 5.0 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy</p>
+      <p>Drew Hancock's thriller about an AI companion robot lands in MIXED territory with a -2 WOKE margin and low scores on both sides. The film's woke score of 7.0 reflects its use of the android-as-property premise to explore autonomy, consent, and relational power dynamics in ways that carry progressive ideological weight. The traditional score of 5.0 comes from the survival thriller mechanics and individual agency themes. Neither score is high because the film operates more as a genre exercise than an ideological manifesto. The full VirtueVigil review explains what the -2 WOKE margin means in context and whether the film's content warrants concern for families.</p>
+      <p><a href="/reviews/companion-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Companion</a></p>
+
+      <hr>
+
+      <h2>#12: Black Mirror - Season 7 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -1 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 9.0 &bull; <strong>Trad Score:</strong> 8.0 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Charlie Brooker's anthology series returns for a seventh season with a near-even split: woke score of 9.0 versus traditional score of 8.0, producing a -1 WOKE margin that earns the MIXED verdict. Black Mirror has always used near-future technology to explore both progressive anxieties and traditionalist warnings about dehumanization, and Season 7 maintains that balance more successfully than recent entries. The anthology format distributes the ideological content across six episodes, some leaning traditional and some leaning progressive. The full VirtueVigil review breaks down individual episode scores so viewers can choose which episodes to watch and which to skip.</p>
+      <p><a href="/reviews/black-mirror-s7/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Mirror - Season 7</a></p>
+
+      <hr>
+
+      <h2>#13: M3GAN 2.0 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 8.92 &bull; <strong>Trad Score:</strong> 10.82 &bull; <strong>Genre:</strong> Sci-Fi / Action / Thriller</p>
+      <p>The sequel to Blumhouse's breakout horror hit lands in MIXED territory with a narrow +2 TRAD margin, reflecting a film where the traditional and progressive content compete at roughly equal intensity. The woke score of 8.92 reflects the AI ethics and autonomy framing that the M3GAN franchise deploys as its central horror mechanism. The traditional score of 10.82 comes from the protective adult-child relationship at the story's core and the film's treatment of parental responsibility. Neither direction dominates, which makes M3GAN 2.0 a MIXED call that depends heavily on the specific framing choices in the sequel. The full review explains what changed from the original's scoring profile.</p>
+      <p><a href="/reviews/m3gan-2-0-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of M3GAN 2.0</a></p>
+
+      <hr>
+
+      <h2>#14: Elio (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 18.0 &bull; <strong>Trad Score:</strong> 24.0 &bull; <strong>Genre:</strong> Animation / Sci-Fi / Adventure</p>
+      <p>Pixar's Elio carries the highest raw ideology scores on this list in either direction: woke score of 18.0, traditional score of 24.0. The net +6 TRAD margin earns a TRADITIONAL LEAN verdict, but the total ideological footprint is enormous for an animated family film. The traditional content comes from family loyalty, individual identity earned through courage rather than assigned by group membership, and a found-family structure that validates the importance of belonging. The woke content reflects Pixar's 2025 sensibilities around identity, inclusion, and institutional critique. Parents evaluating this for young children should read the full VirtueVigil review because the scores are high in both directions and that context matters.</p>
+      <p><a href="/reviews/elio-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Elio</a></p>
+
+      <hr>
+
+      <h2>#15: Lilo &amp; Stitch (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 5.6 &bull; <strong>Trad Score:</strong> 13.1 &bull; <strong>Genre:</strong> Sci-Fi Comedy Family</p>
+      <p>Disney's live-action remake earns a +8 TRAD margin by doing something the recent Disney remake slate has largely failed to do: trusting the source material. The original Lilo and Stitch was built on ohana, which means family, and nobody gets left behind or forgotten. That value survives the transition to live action with a woke score of 5.6 and a traditional score of 13.1. The low woke score is the real story here: Disney resisted the impulse to update the film's values for 2025 in ways that would have undermined what made the original resonate. A genuine recommendation for families who want to share a piece of Disney history with their kids in a format that still respects them.</p>
+      <p><a href="/reviews/lilo-and-stitch-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Lilo &amp; Stitch</a></p>
+
+      <hr>
+
+      <h2>#16: The Gorge (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 4.2 &bull; <strong>Trad Score:</strong> 12.25 &bull; <strong>Genre:</strong> Sci-Fi Romantic Action Horror &bull; <strong>Platform:</strong> Apple TV+</p>
+      <p>Miles Teller and Anya Taylor-Joy star in this genre hybrid about two snipers stationed on opposite sides of an enormous gorge filled with monsters, and the film earns a +8 TRAD margin by keeping its focus on duty, sacrifice, and the romantic bond that develops between two people doing a hard job with integrity. The woke score of 4.2 is among the lowest in the 2025 sci-fi cohort. The traditional content comes from a military competence framework where skill and commitment are treated as virtues, and a romance built on mutual respect rather than subverted expectations. A clean pick for genre fans who want sci-fi that does not lecture. The full review breaks down the horror and romantic content for parental guidance purposes.</p>
+      <p><a href="/reviews/the-gorge-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Gorge</a></p>
+
+      <hr>
+
+      <h2>#17: Frankenstein (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 11.66 &bull; <strong>Trad Score:</strong> 20.86 &bull; <strong>Genre:</strong> Gothic / Science Fiction / Drama</p>
+      <p>Guillermo del Toro's adaptation of Mary Shelley's novel earns a +9 TRAD margin with a traditional score of 20.86 that reflects the source material's fundamental conservatism: science without moral boundaries destroys the scientist as surely as his creation. The woke score of 11.66 reflects del Toro's contemporary framing choices, but the traditional core, the warning against playing God, the cost of abandoning responsibility for what you create, and the monster's grief at being denied a place in the natural order, generates a net traditional margin. A prestige adaptation that takes Shelley's moral architecture seriously. The full VirtueVigil review documents where both scores originate within the film's specific creative choices.</p>
+      <p><a href="/reviews/frankenstein-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Frankenstein</a></p>
+
+      <hr>
+
+      <h2>#18 (Most Traditional): Pluribus (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 15.6 &bull; <strong>Trad Score:</strong> 27.51 &bull; <strong>Genre:</strong> Sci-Fi / Drama / Black Comedy</p>
+      <p>Pluribus is the most traditionally grounded sci-fi film reviewed in 2025 with a +12 TRAD margin and a traditional score of 27.51, the highest in the genre for the year. The woke score of 15.6 is not low, which means this is not an apolitical film, but the traditional content is denser and more structurally integrated than the progressive content. The film's sci-fi premise serves a story about individual moral courage, the cost of institutional conformity, and the value of dissent from a position of principle rather than grievance. The high traditional score reflects a film that takes the American founding values of pluralism and individual conscience seriously as narrative material rather than as targets. Read the full VirtueVigil review for the complete breakdown.</p>
+      <p><a href="/reviews/pluribus-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Pluribus</a></p>
+
+      <hr>
+
+      <h2>What the 2025 Sci-Fi Season Tells Us</h2>
+      <p>Ten of the 18 reviewed 2025 sci-fi films landed at a woke or woke-lean margin. Eight landed mixed or traditional. The genre skewed progressive in 2025, consistent with sci-fi's historical role as Hollywood's preferred ideological delivery mechanism. The notable data point is the franchise distribution: every major sequel on this list, Avatar, Captain America, Jurassic World, Fallout, Tron, landed woke or woke-lean. The films that scored traditional or traditional-lean are largely originals or adaptations without franchise baggage. That pattern has held across the VirtueVigil database for three years running.</p>
+
+      <p>The cleanest picks in 2025 sci-fi are The Gorge, Lilo and Stitch, and Frankenstein for families looking for quality without the ideological overhead. Pluribus is the strongest traditional statement the genre produced all year if you want substance with your sci-fi.</p>
+
+      <p>Browse the complete 2025 genre rankings at <a href="/lists/">VirtueVigil Lists</a>, covering action, drama, comedy, thriller, horror, and now sci-fi. Every reviewed film is in the database. Search any title at <a href="/">VirtueVigil.com</a> for the full trope-by-trope breakdown, or subscribe free for weekly Woke Trap alerts before every major release.</p>
+    </article>`
   }));
 }
 } // close async wrapper
