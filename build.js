@@ -1919,6 +1919,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/action-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/comedy-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/animated-family-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2863,6 +2864,7 @@ function buildListsHubPage() {
         'sci-fi-movies-2026-woke-ranking',
         'adventure-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
+        'animated-family-movies-2025-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2931,7 +2933,8 @@ function buildListsHubPage() {
       'adventure-movies-2026-woke-ranking': 'Every 2026 Adventure Movie Ranked by Woke Score',
       'action-movies-2025-woke-ranking': 'Every 2025 Action Movie Ranked by Woke Score',
       'comedy-movies-2025-woke-ranking': 'Every 2025 Comedy Movie Ranked by Woke Score',
-      'sci-fi-movies-2025-woke-ranking': 'Every 2025 Sci-Fi Movie Ranked by Woke Score'
+      'sci-fi-movies-2025-woke-ranking': 'Every 2025 Sci-Fi Movie Ranked by Woke Score',
+      'animated-family-movies-2025-woke-ranking': 'Every 2025 Animated & Family Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -21091,6 +21094,226 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
 }
+  console.log('  lists/animated-family-movies-2025-woke-ranking/index.html');
+  writePage('lists/animated-family-movies-2025-woke-ranking/index.html', buildListiclePage({
+    slug: 'animated-family-movies-2025-woke-ranking',
+    title: 'Every 2025 Animated & Family Movie Ranked by Woke Score',
+    description: 'All 18 reviewed 2025 animated and family films ranked from most woke to most traditional using VirtueVigil scores. The definitive parent guide to kids content in 2025.',
+    canonicalPath: 'lists/animated-family-movies-2025-woke-ranking',
+    publishDate: '2026-04-29',
+    htmlContent: `<article class="listicle-article">
+      <p>Animated and family films are where ideological battles matter most, because the audience includes children who cannot filter what they are watching. In 2025, VirtueVigil reviewed 18 animated and family titles spanning theatrical releases, streaming originals, and anime crossovers. The spread is wider than almost any genre in the 2025 database: from one of the most aggressively woke films scored this year to some of the strongest traditional content produced by any studio in recent memory.</p>
+
+      <p>This list ranks all 18 reviewed 2025 animated and family titles by VirtueVigil margin, running from most woke to most traditional. Every entry links to the full review with complete trope audits, parental guidance sections, and score breakdowns. If you are deciding what to watch with your kids, or what to skip, this is where to start.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): Zootopia 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -38 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 91 &bull; <strong>Trad Score:</strong> 53 &bull; <strong>Genre:</strong> Animation</p>
+      <p>Zootopia 2 is not just the most woke animated film of 2025. It carries the highest raw woke score in the entire VirtueVigil database at 91, producing a staggering -38 WOKE margin even against a traditional score of 53. The original Zootopia used its animal city as a metaphor for prejudice and systemic bias. The sequel doubles down with concentrated progressive ideology across nearly every scored category. The traditional score of 53 reflects genuine community themes and redemption arcs, but they are not remotely sufficient counterweight to the ideological load. If you are a parent wondering whether to take your kids, the full VirtueVigil review is mandatory reading before you decide.</p>
+      <p><a href="/reviews/zootopia-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Zootopia 2</a></p>
+
+      <hr>
+
+      <h2>#2: KPop Demon Hunters (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 24.18 &bull; <strong>Trad Score:</strong> 16.42 &bull; <strong>Genre:</strong> Animated Musical Urban Fantasy</p>
+      <p>Netflix's animated musical about a KPop idol group that secretly hunts demons earns a -8 WOKE margin with a woke score of 24.18 against a traditional score of 16.42. The premise is energetic and the animation is distinctive, but the ideological content embedded in the film's identity framing, girl-power construction, and progressive cultural commentary runs consistently through the runtime. The traditional score reflects the teamwork, sacrifice, and chosen-family themes that give the film its emotional core. A film that works as entertainment but carries an ideological orientation that parents of younger children should know about before pressing play. The full VirtueVigil review itemizes every scoring category.</p>
+      <p><a href="/reviews/kpop-demon-hunters-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of KPop Demon Hunters</a></p>
+
+      <hr>
+
+      <h2>#3: Smurfs (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 10 &bull; <strong>Trad Score:</strong> 6 &bull; <strong>Genre:</strong> Animation</p>
+      <p>Paramount's animated Smurfs reboot earns a -4 WOKE margin with a woke score of 10 and a traditional score of 6. Neither score is high in absolute terms, which means this is not a deeply ideological film in either direction, but the progressive content edges out the traditional content consistently across the runtime. The Smurfs IP has always carried community themes that could be scored traditionally, but the 2025 reboot's creative choices tilt the framing toward contemporary progressive sensibilities around identity and belonging. A watchable film for young children with a mild ideological lean that parents should flag. Read the full review for specifics.</p>
+      <p><a href="/reviews/smurfs-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Smurfs</a></p>
+
+      <hr>
+
+      <h2>#4: Elio (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 18 &bull; <strong>Trad Score:</strong> 24 &bull; <strong>Genre:</strong> Animation / Sci-Fi / Adventure</p>
+      <p>Pixar's Elio carries the highest raw ideology scores in this list in either direction: woke score of 18, traditional score of 24. The net +6 TRAD margin earns a TRADITIONAL LEAN verdict, but the total ideological footprint is enormous for an animated family film. The traditional content comes from family loyalty, identity earned through courage rather than assigned by group membership, and a found-family structure that validates the importance of belonging. The woke content reflects Pixar's current sensibilities around identity and inclusion. Parents evaluating this for young children should read the full VirtueVigil review, because scores this high in both directions require more context than the margin alone provides.</p>
+      <p><a href="/reviews/elio-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Elio</a></p>
+
+      <hr>
+
+      <h2>#5: Freakier Friday (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 9.68 &bull; <strong>Trad Score:</strong> 15.95 &bull; <strong>Genre:</strong> Family / Comedy</p>
+      <p>The long-awaited sequel to the 2003 Disney body-swap comedy earns a +6 TRAD margin with a traditional score of 15.95 and a woke score of 9.68. The film centers on generational reconciliation, mother-daughter bonds, and the importance of empathy within a family unit. Those themes ground the traditional score. The woke content reflects updating the franchise's sensibilities for 2025, which introduces progressive framing that was not present in the original. The net result is a traditional-leaning family film that respects the source material while showing its contemporary production context. A solid pick for fans of the original looking for family movie night. The full review breaks down every scoring category.</p>
+      <p><a href="/reviews/freakier-friday-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Freakier Friday</a></p>
+
+      <hr>
+
+      <h2>#6: Sentimental Value (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 16.64 &bull; <strong>Trad Score:</strong> 23.59 &bull; <strong>Genre:</strong> Family Drama</p>
+      <p>Joachim Trier's family drama earns a +7 TRAD margin with a traditional score of 23.59 against a woke score of 16.64. Both scores are elevated, reflecting a film that engages seriously with its thematic content in both directions. The traditional content comes from the film's treatment of family memory, reconciliation, and the irreplaceable weight of parental bonds. The woke content reflects the film's progressive framing around gender dynamics and institutional critique. A thoughtful family drama that leans traditional in net terms while carrying enough ideological content on both sides to warrant the full review before watching with teenagers.</p>
+      <p><a href="/reviews/sentimental-value-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sentimental Value</a></p>
+
+      <hr>
+
+      <h2>#7: Lilo &amp; Stitch (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 5.6 &bull; <strong>Trad Score:</strong> 13.1 &bull; <strong>Genre:</strong> Sci-Fi Comedy Family</p>
+      <p>Disney's live-action remake earns a +8 TRAD margin by doing something the recent Disney remake slate has largely failed to do: trusting the source material. The original Lilo and Stitch was built on ohana, which means family, and nobody gets left behind or forgotten. That value survives the transition to live action. The low woke score of 5.6 is the real story: Disney resisted the impulse to update the film's values for 2025 in ways that would have undermined what made the original resonate. A genuine recommendation for families who want to share a piece of Disney history with their kids in a format that still respects them. The full review documents every scoring category.</p>
+      <p><a href="/reviews/lilo-and-stitch-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Lilo &amp; Stitch</a></p>
+
+      <hr>
+
+      <h2>#8: The Bad Guys 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 6.93 &bull; <strong>Trad Score:</strong> 16.38 &bull; <strong>Genre:</strong> Animation / Comedy</p>
+      <p>DreamWorks returns to the Bad Guys universe with a sequel that earns a +9 TRAD margin by leaning into the themes that made the original work: redemption through genuine moral change, loyalty under pressure, and the idea that identity is not fixed but chosen through action. The woke score of 6.93 is low for a 2025 animated film, reflecting a creative team that kept the ideological footprint contained. The traditional score of 16.38 comes from the central message that doing good is harder than doing bad, and worth it anyway. A clean pick for families. The full VirtueVigil review has the complete breakdown.</p>
+      <p><a href="/reviews/the-bad-guys-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Bad Guys 2</a></p>
+
+      <hr>
+
+      <h2>#9: Invincible Season 3 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 7.2 &bull; <strong>Trad Score:</strong> 18.34 &bull; <strong>Genre:</strong> Animated Superhero / Action Drama &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Robert Kirkman's animated superhero series earns a +11 TRAD margin in its third season with a traditional score of 18.34 against a woke score of 7.2. Invincible has always taken the superhero genre seriously as moral philosophy: what does it cost to be good, what does power demand from the person who holds it, and what is worth protecting? Season 3 continues those themes with an emotional weight most animated series cannot sustain. The woke score is low relative to the genre. The traditional content is high. This is one of the strongest animated traditional picks of the year for mature teens and adults. The full review breaks down the specific content for parents evaluating age-appropriateness.</p>
+      <p><a href="/reviews/invincible-season-3-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Invincible Season 3</a></p>
+
+      <hr>
+
+      <h2>#10: Paddington in Peru (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 8.4 &bull; <strong>Trad Score:</strong> 22.5 &bull; <strong>Genre:</strong> Adventure / Comedy / Family</p>
+      <p>The third Paddington film earns a +14 TRAD margin with a traditional score of 22.5 against a woke score of 8.4, and it does so with the same gentle integrity that made the first two films beloved by families across the political spectrum. Paddington in Peru is about going home, honoring the people who shaped you, and the value of politeness and good manners as genuine virtues rather than affectations. The ideological footprint is low on both sides relative to the score, which reflects a film that is simply trying to tell a warm story well. One of the cleanest family picks in the 2025 database. The full review confirms it.</p>
+      <p><a href="/reviews/paddington-in-peru-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Paddington in Peru</a></p>
+
+      <hr>
+
+      <h2>#11: Dog Man (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 3.35 &bull; <strong>Trad Score:</strong> 22.54 &bull; <strong>Genre:</strong> Animation / Comedy</p>
+      <p>DreamWorks adapts Dav Pilkey's beloved children's book character with a +19 TRAD margin and a woke score of only 3.35, one of the lowest in the entire 2025 dataset. Dog Man is a film about loyalty, bravery, doing the right thing when it is hard, and the joy of being genuinely good. It does not editorialize. It does not update its values for contemporary sensibilities. It just tells its story with confidence and warmth. The result is a traditionally grounded family film with almost no ideological overhead. Highly recommended for parents of younger children. The full VirtueVigil review confirms the clean score.</p>
+      <p><a href="/reviews/dog-man-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dog Man</a></p>
+
+      <hr>
+
+      <h2>#12: Demon Slayer: Infinity Castle (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 4 &bull; <strong>Trad Score:</strong> 23.1 &bull; <strong>Genre:</strong> Animation / Action / Fantasy</p>
+      <p>Ufotable's theatrical adaptation of the Demon Slayer manga's most anticipated arc earns a +19 TRAD margin with a traditional score of 23.1 and a woke score of only 4. The film is grounded in Japanese values of duty, sacrifice, protecting family, and the warrior's obligation to those who cannot defend themselves. These are not politically coded in a Western progressive framework. They are martial virtues embedded in the source material and faithfully rendered on screen. The result is one of the most traditionally scored animated films of the year. Appropriate for older children and teens who can handle the violence intensity. The full review has parental guidance notes.</p>
+      <p><a href="/reviews/demon-slayer-infinity-castle-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Demon Slayer: Infinity Castle</a></p>
+
+      <hr>
+
+      <h2>#13: The King of Kings (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 0 &bull; <strong>Trad Score:</strong> 19.6 &bull; <strong>Genre:</strong> Animated Biblical Drama</p>
+      <p>Angel Studios' animated retelling of the life of Jesus earns a +20 TRAD margin with a woke score of zero. Not near zero. Zero. The film adapts the Gospel narrative with reverence and craft, producing an animated biblical drama that earns its STRONGLY TRADITIONAL verdict without qualification. The traditional score of 19.6 reflects the film's content across every relevant category: faith, sacrifice, redemption, family, and the moral authority of scripture. There is no progressive ideological content to score against it. A direct recommendation for faith-based families and anyone who wants animated content rooted in the Christian tradition. The full review documents what makes this one of the strongest faith picks of the year.</p>
+      <p><a href="/reviews/the-king-of-kings-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The King of Kings</a></p>
+
+      <hr>
+
+      <h2>#14: Karate Kid: Legends (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 3.15 &bull; <strong>Trad Score:</strong> 26.32 &bull; <strong>Genre:</strong> Action / Drama / Family</p>
+      <p>Sony's franchise continuation earns a +23 TRAD margin with a traditional score of 26.32 and a woke score of 3.15, one of the lowest in the 2025 family cohort. The Karate Kid franchise has always been about mentorship, discipline, earned mastery, and the dignity that comes from genuine effort. Karate Kid: Legends does not walk away from those values. The film delivers them with Jackie Chan and Ben Wang in a cross-cultural story about what martial arts actually teach: patience, respect, and the responsibility that comes with skill. A strong recommendation for families with boys especially. The full VirtueVigil review documents the complete breakdown.</p>
+      <p><a href="/reviews/karate-kid-legends-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Karate Kid: Legends</a></p>
+
+      <hr>
+
+      <h2>#15: David (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +26 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2 &bull; <strong>Trad Score:</strong> 28 &bull; <strong>Genre:</strong> Animation / Musical / Biblical Epic</p>
+      <p>Angel Studios follows The King of Kings with another animated biblical epic, this time the story of David from shepherd boy to king. David earns a +26 TRAD margin with a traditional score of 28 and a woke score of only 2. The film is a musical adaptation of one of scripture's most compelling narratives: faith against impossible odds, the cost of sin, the meaning of repentance, and the character of a leader chosen by God rather than by men. A near-zero woke score and a high traditional score make this one of the strongest faith-based animated picks in the VirtueVigil database. Appropriate for the entire family. The full review explains the scoring in detail.</p>
+      <p><a href="/reviews/david-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of David</a></p>
+
+      <hr>
+
+      <h2>#16: How to Train Your Dragon (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +29 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 4.7 &bull; <strong>Trad Score:</strong> 33.2 &bull; <strong>Genre:</strong> Family / Adventure</p>
+      <p>Universal's live-action adaptation of the beloved DreamWorks animated franchise earns a +29 TRAD margin with a traditional score of 33.2 and a woke score of 4.7. The How to Train Your Dragon story has always been about a boy proving himself worthy of his father's respect through courage and unconventional thinking, and the live-action version delivers that arc without softening it. The low woke score reflects a creative team that trusted the source material instead of updating it for contemporary sensibilities. One of the strongest family films of 2025 by traditional margin. The full VirtueVigil review documents what makes this a rare win for the live-action remake format.</p>
+      <p><a href="/reviews/how-to-train-your-dragon-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of How to Train Your Dragon</a></p>
+
+      <hr>
+
+      <h2>#17: Ne Zha 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +39 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 0 &bull; <strong>Trad Score:</strong> 38.57 &bull; <strong>Genre:</strong> Animation / Fantasy / Action</p>
+      <p>The Chinese animated sequel is one of the highest-grossing animated films in history, and its VirtueVigil score explains why it resonated so broadly: a woke score of zero, a traditional score of 38.57, and a +39 TRAD margin that is among the highest in the entire 2025 database across all genres. Ne Zha 2 is built on Chinese mythological values that align closely with traditional Western ones: filial piety, warrior honor, sacrifice for family and community, and the idea that destiny is earned rather than given. There is no progressive ideological content to score. A remarkable film that the Western animated market cannot currently match on traditional values density. The full review documents everything.</p>
+      <p><a href="/reviews/ne-zha-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ne Zha 2</a></p>
+
+      <hr>
+
+      <h2>#18 (Most Traditional): The SpongeBob Movie: Search for SquarePants (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +42 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 1.28 &bull; <strong>Trad Score:</strong> 43.1 &bull; <strong>Genre:</strong> Animation / Adventure / Comedy</p>
+      <p>The SpongeBob Movie: Search for SquarePants is the most traditionally grounded animated and family film of 2025, and it is not close. A +42 TRAD margin with a traditional score of 43.1 and a woke score of only 1.28 places this at the top of the traditional tier for the year. SpongeBob has always operated on the premise that optimism, friendship, hard work, and loyalty are genuinely funny and genuinely good. The 2025 film does not abandon those values. It celebrates them. A zero-worry recommendation for families with children of any age. The full VirtueVigil review documents the complete score breakdown and confirms this is as clean as family content gets in 2025.</p>
+      <p><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The SpongeBob Movie: Search for SquarePants</a></p>
+
+      <hr>
+
+      <h2>What the 2025 Animated Season Tells Us</h2>
+      <p>Three of the 18 reviewed 2025 animated and family films landed at woke or woke-lean. Fifteen landed traditional-lean or better. That ratio is the most favorable for traditional content of any genre in the 2025 VirtueVigil dataset. The standout pattern is the near-zero woke scores clustered at the top of the traditional tier: Dog Man at 3.35, Karate Kid: Legends at 3.15, The King of Kings and Ne Zha 2 both at zero. These films did not accidentally score low on woke content. They were built with a clear creative orientation that rejected progressive ideological insertion.</p>
+
+      <p>The best picks for families with young children are Dog Man, The SpongeBob Movie, Paddington in Peru, The King of Kings, and How to Train Your Dragon. All five have woke scores under 10 and traditional scores over 20. Ne Zha 2 and Karate Kid: Legends are the top picks for older kids. The only titles to actively avoid are Zootopia 2 and KPop Demon Hunters.</p>
+
+      <p>Browse the complete 2025 genre rankings at <a href="/lists/">VirtueVigil Lists</a>, covering action, drama, comedy, thriller, horror, and sci-fi. Every reviewed film is in the database. Search any title at <a href="/">VirtueVigil.com</a> for the full trope-by-trope breakdown, or subscribe free for weekly Woke Trap alerts before every major release.</p>
+    </article>`
+  }));
 } // close async wrapper
 
 // Run the build
