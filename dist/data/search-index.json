@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/whiplash-2014.jpg"
   },
   {
+    "slug": "la-la-land-2016",
+    "title": "La La Land",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Musical / Romantic Drama",
+    "year": 2016,
+    "type": "film",
+    "wokeScore": 9.84,
+    "tradScore": 11.62,
+    "poster": "/images/posters/la-la-land-2016.jpg"
+  },
+  {
     "slug": "star-wars-the-last-jedi-2017",
     "title": "Star Wars: The Last Jedi",
     "verdict": "WOKE",
