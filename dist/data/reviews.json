@@ -120091,5 +120091,241 @@
       "metaDescription": "VirtueVigil's full VVWS v1.1 review of La La Land (2016). Is the Oscar-winning Chazelle musical woke or traditional? Trope audit, creative team, and verdict. Score: 0 MIXED.",
       "keywords": "is La La Land woke, La La Land conservative review, La La Land traditional values, Ryan Gosling Emma Stone La La Land, La La Land VirtueVigil, La La Land ideology, La La Land VVWS score"
     }
+  },
+  {
+    "id": "the-social-network-2010",
+    "slug": "the-social-network-2010",
+    "title": "The Social Network",
+    "year": 2010,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Biographical Drama",
+    "date": "2026-04-29",
+    "datePublished": "2026-04-29",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "15 min",
+    "poster": "/images/posters/the-social-network-2010.jpg",
+    "releaseDate": "2010-10-01",
+    "rating": "PG-13",
+    "runtime": "120 min",
+    "director": "David Fincher",
+    "writers": [
+      "Aaron Sorkin",
+      "Ben Mezrich"
+    ],
+    "cast": [
+      {
+        "name": "Jesse Eisenberg",
+        "role": "Mark Zuckerberg"
+      },
+      {
+        "name": "Andrew Garfield",
+        "role": "Eduardo Saverin"
+      },
+      {
+        "name": "Justin Timberlake",
+        "role": "Sean Parker"
+      },
+      {
+        "name": "Armie Hammer",
+        "role": "Cameron / Tyler Winklevoss"
+      },
+      {
+        "name": "Max Minghella",
+        "role": "Divya Narendra"
+      },
+      {
+        "name": "Rooney Mara",
+        "role": "Erica Albright"
+      }
+    ],
+    "studio": "Columbia Pictures / Scott Rudin Productions",
+    "distributor": "Sony Pictures",
+    "verdict": "WOKE LEAN",
+    "wokeScore": 13.02,
+    "tradScore": 6.74,
+    "authIndex": 34,
+    "scoreMargin": "-6 WOKE",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The Social Network does not qualify as a woke trap. Sorkin's screenplay consistently frames Zuckerberg as the villain of his own success story from the opening scene. The film's critique of Silicon Valley meritocracy, its treatment of the Winklevoss twins as sympathetic victims, and its feminist critique via the Erica and the depositions framing are all established in the first act. Nothing is hidden. The film's ideology is its aesthetic."
+    },
+    "seoTitle": "Is The Social Network Woke? Fincher Zuckerberg Film Reviewed | VirtueVigil",
+    "seoDescription": "VirtueVigil's VVWS v1.1 review of The Social Network (2010). Is the David Fincher Facebook movie woke or traditional? Trope audit, creative team breakdown, and final verdict. Score: -7 WOKE LEAN.",
+    "seoKeywords": [
+      "is The Social Network woke",
+      "The Social Network conservative review",
+      "The Social Network traditional values",
+      "The Social Network VirtueVigil score",
+      "David Fincher Social Network review",
+      "Social Network ideology analysis",
+      "is The Social Network propaganda",
+      "Zuckerberg movie review",
+      "The Social Network VVWS score",
+      "is The Social Network appropriate",
+      "Aaron Sorkin politics",
+      "Social Network liberal bias",
+      "Jesse Eisenberg Zuckerberg",
+      "Facebook movie woke or not",
+      "best tech films ideology"
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 96,
+      "rottenTomatoesAudience": 96,
+      "imdb": 7.8,
+      "metacritic": 95,
+      "oscarNominations": 8,
+      "oscarCategories": "Best Picture, Best Director, Best Adapted Screenplay (WIN - Aaron Sorkin), Best Film Editing (WIN), Best Original Score (WIN), Best Cinematography, Best Sound Mixing, Best Sound Editing",
+      "budget": "$40,000,000",
+      "globalBoxOffice": "$224,920,315"
+    },
+    "creative_team": {
+      "director": {
+        "name": "David Fincher",
+        "ideology": "LIBERAL-LEANING. Fincher's filmography is not consistently political but The Social Network reflects a clear worldview. The film's central argument, that Facebook was founded on betrayal and that its creator's success does not redeem his character, is a progressive critique of Silicon Valley meritocracy framing. Fincher has directed films about toxic masculinity (Fight Club, Gone Girl), institutional corruption (Zodiac, Mindhunter), and the costs of unchecked ambition (The Social Network). His films consistently center on systems and how they warp people. That is not a conservative instinct.",
+        "profile": "David Fincher is technically among the finest directors working in Hollywood. His visual precision, his control of pace, and his ability to make sitting-and-talking sequences feel as tense as action sequences are all evident in The Social Network. The deposition scenes, the Henley rowing sequence, the Facemash night-coding sequence: these are masterclasses in sustained attention. Fincher does not waste frames. His political instincts do not compromise his craft. The film is genuinely excellent cinema regardless of its ideological slant."
+      },
+      "writers": {
+        "names": "Aaron Sorkin",
+        "profile": "Aaron Sorkin is explicitly and openly a liberal writer. The West Wing. The Newsroom. Steve Jobs. Molly's Game. His protagonists are always the smartest person in the room delivering rapid-fire speeches that make progressive arguments sound like common sense. The Social Network is Sorkin at his most controlled, partly because Fincher reined him in. Sorkin's screenplay is also his most dishonest: the film presents a largely invented version of events that Ben Mezrich's source book acknowledges is fictionalized, but the script does not. Erica Albright is fictional. The depositions are compressed fictions. The framing device of Zuckerberg refreshing Erica's profile at the end is pure Sorkin invention. None of this is disclosed to the audience."
+      },
+      "lead_producer": {
+        "name": "Scott Rudin / Dana Brunetti / Michael De Luca",
+        "company": "Columbia Pictures / Scott Rudin Productions"
+      },
+      "composer": {
+        "name": "Trent Reznor / Atticus Ross",
+        "profile": "The Trent Reznor and Atticus Ross score won the Oscar and is genuinely exceptional. The electronic score creates a sense of cold, flickering ambition that perfectly serves the film's view of Zuckerberg as a machine running in human form. 'Hand Covers Bruise' is one of cinema's better title-sequence compositions. The score is ideologically inert while emotionally precise."
+      },
+      "cinematographer": {
+        "name": "Jeff Cronenweth",
+        "profile": "Cronenweth's cinematography is defined by cold blue-gray tones, underlit interiors, and an aesthetic that deliberately makes Harvard and Silicon Valley feel equally sterile. The famous Henley rowing sequence was shot in a way that makes the outdoors look indoors. The visual grammar reinforces the film's argument that every environment Zuckerberg inhabits becomes a controlled space."
+      },
+      "casting_director": {
+        "name": "Laray Mayfield",
+        "profile": "Jesse Eisenberg as Zuckerberg is a performance of controlled hostility that is still one of the decade's best. Eisenberg makes Zuckerberg simultaneously brilliant and genuinely unpleasant to be around, which is the film's entire argument in performance form. Andrew Garfield as Eduardo Saverin provides the film's emotional center and the audience's identification point. Justin Timberlake as Sean Parker is a genuine revelation: he is charismatic and predatory in exactly the right proportions. The casting is across the board excellent regardless of the film's politics."
+      },
+      "top_cast": [
+        {
+          "name": "Jesse Eisenberg",
+          "role": "Mark Zuckerberg"
+        },
+        {
+          "name": "Andrew Garfield",
+          "role": "Eduardo Saverin"
+        },
+        {
+          "name": "Justin Timberlake",
+          "role": "Sean Parker"
+        },
+        {
+          "name": "Armie Hammer",
+          "role": "Cameron / Tyler Winklevoss"
+        }
+      ]
+    },
+    "parentalGuidance": {
+      "mpaaRating": "PG-13",
+      "mpaaDescriptors": "Sexual content, drug and alcohol use, and language",
+      "recommendedAge": "14+",
+      "contentWarnings": [
+        "Language throughout, including strong language in several scenes",
+        "Brief sexual content: an early scene implies oral sex off-screen in a bathroom stall",
+        "Drug use: cocaine use depicted at a Silicon Valley party",
+        "Heavy alcohol use in several scenes",
+        "Depictions of online harassment and public shaming",
+        "A fraternity initiation sequence depicts drinking to excess",
+        "No significant violence"
+      ],
+      "parentalNotes": "The Social Network is rated PG-13 and the rating is appropriate, though the lower end of PG-13 territory. The brief implied sexual content in an early scene and the cocaine use at a party are the most significant content concerns. The film is a technically excellent watch for teenagers 14+ who have the context to understand what it is doing ideologically. Parents should be aware that the film presents a fictionalized, heavily editorialized version of real events and real people. Discussing the distinction between cinematic biography and factual reporting is worthwhile with teenage viewers."
+    },
+    "fidelityCasting": {
+      "assessment": "LARGELY FAITHFUL",
+      "explanation": "The Social Network is a biographical film with real people portrayed. The central creative team is white male, which is historically accurate. Eduardo Saverin is Brazilian-American; he is played by Andrew Garfield, who is British-American, which is an arguable fidelity miss but not a diversity-driven casting decision. Divya Narendra is South Asian-American and is played by Max Minghella, who is half-Chinese-Italian-American. The Winklevoss twins are white and played by Armie Hammer with CGI doubling. The casting is driven by performance considerations rather than diversity agenda."
+    },
+    "summary": {
+      "overall": "The Social Network is a brilliantly made film that requires some ideological sorting before you decide what to do with it.\n\nLet's start with what it actually is. It is Aaron Sorkin's editorial opinion about Mark Zuckerberg, fictionalized enough to avoid defamation liability but presented as biography. The film invents a female character (Erica Albright) whose rejection of Zuckerberg is positioned as the emotional origin of Facebook. It compresses and invents deposition testimony. It presents a version of the Winklevoss dispute that multiple participants have disputed. It ends with Zuckerberg refreshing a page to see if a woman he hurt has accepted his friend request, which is pure screenwriting invention. None of this is disclosed. The film looks like fact. It isn't.\n\nSorkin's agenda is visible in every major scene. The Winklevoss twins are old-money Harvard legacy students (sympathetic victims). Eduardo Saverin is the loyal friend with heart (sympathetic victim). Mark Zuckerberg is the brilliant, socially damaged opportunist who betrays everyone around him (villain). Sean Parker is the predatory Valley disruptor who corrupts Zuckerberg's one authentic friendship (villain). The women in the film are either objects of pursuit, victims of harassment, or ethical voices that Zuckerberg ignores. That framing is not neutral.\n\nFrom a VVWS standpoint, the film tilts woke lean because its central ideology is that meritocratic ambition, particularly male ambition in a technology context, is corrosive and socially irresponsible. The Winklevoss twins are portrayed as victims of their own good faith in dealing with a social inferior who out-maneuvered them. The film's implicit argument is that talent and drive without ethics produce monsters, which is fine as a premise, but Sorkin's version weights it in ways that reflect progressive assumptions about power, class, and gender.\n\nStill. It is a genuinely great film as a craft object. Fincher's direction is metronomic and precise. The Trent Reznor score is one of cinema's better electronic soundscapes. Jesse Eisenberg's Zuckerberg is a memorable screen creation regardless of how accurately it represents the real person. The rowing sequence set to 'In the Hall of the Mountain King' is a genuine set piece.\n\nWatch it understanding what it is: a Sorkin essay about Silicon Valley ambition presented as fact. You will get more out of it that way.",
+      "adultInsight": "Given that this review is being published in 2026 and Zuckerberg has in the intervening years become one of the more publicly conservative tech figures, The Social Network has dated in interesting ways. The film's portrait of him as a socially oblivious aspirant who will betray any relationship for competitive advantage now sits awkwardly against the actual Zuckerberg's public evolution. Sorkin's editorial frame has been partly overtaken by reality in ways neither Sorkin nor Fincher anticipated.",
+      "parentalGuidance": "PG-13 for language, implied sexual content, and drug/alcohol use. Intellectually engaging for teenagers 14+ with parental discussion about its fictionalized nature and its ideological framing."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-SN-001",
+        "name": "Achievement through intelligence and relentless work",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "Whatever else the film says about Zuckerberg, it does not deny that he built something real through genuine intelligence and extraordinary effort. The Facemash coding sequence and the early Facebook development scenes show a person working at a level that is visibly exceptional. The film cannot make Zuckerberg into a villain without acknowledging that he earned his success technically. That acknowledgment is a genuine traditional credit."
+      },
+      {
+        "id": "TRAD-SN-002",
+        "name": "Loyalty and friendship as real moral goods",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.0,
+        "explanation": "Eduardo Saverin's arc is structured as a lesson in the value of loyalty. He is the film's emotional center precisely because he represents what Zuckerberg sacrifices: genuine friendship. The film treats this sacrifice as a real moral failure. That framing reflects a traditional value around friendship and loyalty even though the film uses it to criticize rather than celebrate."
+      },
+      {
+        "id": "TRAD-SN-003",
+        "name": "Consequences for betrayal",
+        "category": "Traditional",
+        "severity": 1,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 0.7,
+        "explanation": "The film's legal depositions frame the story as a reckoning. Zuckerberg is sued. He pays. The film presents consequence as existing, even if the consequence is financial rather than moral. This is minimal traditional content because the consequence is not commensurate with the damage and the film does not present it as redemptive."
+      },
+      {
+        "id": "WOKE-SN-001",
+        "name": "Male ambition framed as inherently exploitative",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "The film's central argument is that a young man's ambition and competitiveness caused him to exploit everyone around him. This is presented not as a character flaw specific to Zuckerberg but as a systemic critique of the Silicon Valley 'move fast and break things' ethos. The framing implies that the problem is male ambition itself, not merely this particular man's ethical failures. Sorkin's script establishes this in the first scene (Erica's breakup speech) and sustains it through every major plot beat."
+      },
+      {
+        "id": "WOKE-SN-002",
+        "name": "Women as ethical conscience / victims of male ambition",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "Every significant female character in The Social Network exists to either be damaged by male ambition or to voice the film's moral critique. Erica's breakup speech functions as the film's opening thesis statement. The depositions lawyer who challenges Zuckerberg is a woman with a cutting last line. The women are consistently positioned as more ethically clear-eyed than the men. This is a progressive framing choice that reduces female characters to moral instruments while framing male characters as the agents of the actual story."
+      },
+      {
+        "id": "WOKE-SN-003",
+        "name": "Class critique and inherited privilege as counterweight to meritocracy",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The Winklevoss subplot positions old-money Harvard legacy students as the victims of a scholarship student with no social connections. The film's framing is that the Winklevosses represent a social order that Zuckerberg disrupts, and that their grievance against him is partly rooted in class resentment. This class critique runs beneath the surface of the legal dispute and adds a progressive dimension to what is otherwise a contract dispute."
+      },
+      {
+        "id": "WOKE-SN-004",
+        "name": "Skepticism of tech billionaire myth",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The film systematically demythologizes the Zuckerberg origin story. The good intentions are shown as rationalizations. The innovation is shown as partly theft. The success is shown as built on exploitation. This is a progressive critique of the self-made man narrative that is central to conservative economic mythology. The film does not allow Zuckerberg the status of earned hero even while acknowledging his technical achievement."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is The Social Network Woke? Fincher Facebook Biopic VVWS Review | VirtueVigil",
+      "metaDescription": "VirtueVigil's full VVWS v1.1 review of The Social Network (2010). Is the David Fincher Zuckerberg film woke or traditional? Trope audit, creative team, and verdict. Score: -7 WOKE LEAN.",
+      "keywords": "is The Social Network woke, Social Network conservative review, Social Network ideology, David Fincher Zuckerberg, Social Network VirtueVigil, Aaron Sorkin liberal bias, Social Network VVWS score"
+    }
   }
 ]
