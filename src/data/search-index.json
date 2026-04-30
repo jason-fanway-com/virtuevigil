@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/the-godfather-1972.jpg"
   },
   {
+    "slug": "heat-1995",
+    "title": "Heat",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical (Warner Bros.)",
+    "genre": "Action / Crime / Drama",
+    "year": 1995,
+    "type": "film",
+    "wokeScore": 5,
+    "tradScore": 16,
+    "poster": "/images/posters/heat-1995.jpg"
+  },
+  {
     "slug": "whiplash-2014",
     "title": "Whiplash",
     "verdict": "TRADITIONAL",
