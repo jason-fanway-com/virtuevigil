@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/goodfellas-1990.jpg"
   },
   {
+    "slug": "the-godfather-1972",
+    "title": "The Godfather",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (Paramount Pictures)",
+    "genre": "Crime / Drama",
+    "year": 1972,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 23,
+    "poster": "/images/posters/the-godfather-1972.jpg"
+  },
+  {
     "slug": "whiplash-2014",
     "title": "Whiplash",
     "verdict": "TRADITIONAL",
