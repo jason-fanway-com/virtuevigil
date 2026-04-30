@@ -1920,6 +1920,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/comedy-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/animated-family-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/adventure-fantasy-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2865,6 +2866,7 @@ function buildListsHubPage() {
         'adventure-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'animated-family-movies-2025-woke-ranking',
+        'adventure-fantasy-movies-2025-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2934,7 +2936,8 @@ function buildListsHubPage() {
       'action-movies-2025-woke-ranking': 'Every 2025 Action Movie Ranked by Woke Score',
       'comedy-movies-2025-woke-ranking': 'Every 2025 Comedy Movie Ranked by Woke Score',
       'sci-fi-movies-2025-woke-ranking': 'Every 2025 Sci-Fi Movie Ranked by Woke Score',
-      'animated-family-movies-2025-woke-ranking': 'Every 2025 Animated & Family Movie Ranked by Woke Score'
+      'animated-family-movies-2025-woke-ranking': 'Every 2025 Animated & Family Movie Ranked by Woke Score',
+      'adventure-fantasy-movies-2025-woke-ranking': 'Every 2025 Adventure & Fantasy Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -21312,6 +21315,231 @@ function buildThrillerMovies2025WokeRankingListicle() {
       <p>The best picks for families with young children are Dog Man, The SpongeBob Movie, Paddington in Peru, The King of Kings, and How to Train Your Dragon. All five have woke scores under 10 and traditional scores over 20. Ne Zha 2 and Karate Kid: Legends are the top picks for older kids. The only titles to actively avoid are Zootopia 2 and KPop Demon Hunters.</p>
 
       <p>Browse the complete 2025 genre rankings at <a href="/lists/">VirtueVigil Lists</a>, covering action, drama, comedy, thriller, horror, and sci-fi. Every reviewed film is in the database. Search any title at <a href="/">VirtueVigil.com</a> for the full trope-by-trope breakdown, or subscribe free for weekly Woke Trap alerts before every major release.</p>
+    </article>`
+  }));
+
+  // --- Every 2025 Adventure & Fantasy Movie Ranked by Woke Score ---
+  console.log('  lists/adventure-fantasy-movies-2025-woke-ranking/index.html');
+  writePage('lists/adventure-fantasy-movies-2025-woke-ranking/index.html', buildListiclePage({
+    slug: 'adventure-fantasy-movies-2025-woke-ranking',
+    title: 'Every 2025 Adventure & Fantasy Movie Ranked by Woke Score',
+    description: 'All 18 reviewed 2025 adventure and fantasy films ranked from most woke to most traditional using VirtueVigil scores. Films, series, and anime covered.',
+    canonicalPath: 'lists/adventure-fantasy-movies-2025-woke-ranking',
+    publishDate: '2026-04-30',
+    htmlContent: `<article class="listicle-article">
+
+      <p>Adventure and fantasy are the genres where Hollywood hides its most ambitious ideology and its most unambiguous heroism. In 2025, VirtueVigil reviewed 18 films, series, and anime entries whose primary genre includes adventure or fantasy. The ideological spread is substantial: from a -8 WOKE margin all the way to a +42 TRAD margin, covering Chinese mythology, Japanese anime, American animation, live-action blockbusters, Netflix originals, and streaming series.</p>
+
+      <p>This ranking runs from most ideologically progressive at the top to most traditionally grounded at the bottom. Every entry links to the full VirtueVigil review with complete trope audits, parental guidance sections, and score breakdowns. Series entries are scored across full seasons. Woke Score and Traditional Score are independent axes. The margin between them drives this ranking.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): KPop Demon Hunters (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 24.18 &bull; <strong>Trad Score:</strong> 16.42 &bull; <strong>Genre:</strong> Animated Musical Urban Fantasy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Netflix's animated musical about a KPop idol group that secretly hunts demons ties for the most progressive score in the 2025 adventure and fantasy category at -8 WOKE. The woke score of 24.18 reflects consistent progressive framing across identity content, girl-power construction, and cultural commentary embedded throughout the runtime. The traditional score of 16.42 comes from genuine teamwork, sacrifice, and chosen-family themes that give the film its emotional engine. A film that functions as entertainment while carrying an ideological orientation that parents should assess before watching with younger children.</p>
+      <p><a href="/reviews/kpop-demon-hunters-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of KPop Demon Hunters</a></p>
+
+      <hr>
+
+      <h2>#2: Avatar: Fire and Ash (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 21.6 &bull; <strong>Trad Score:</strong> 13.4 &bull; <strong>Genre:</strong> Epic Sci-Fi Action Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>James Cameron's third Avatar film is technically extraordinary and ideologically predictable. Fire and Ash repeats every idea the franchise put on the table in 2009: anti-military messaging, the noble-indigenous-versus-corporate-colonizers framework, and a white protagonist who becomes the best version of a culture that is not his own. The woke score of 21.6 reflects that consistent messaging. The traditional score of 13.4 captures the warrior-father-protecting-family arc that Cameron layers underneath the ideology every time. Visually unmatchable. Politically unsurprising. The full review gives the complete score breakdown.</p>
+      <p><a href="/reviews/avatar-fire-and-ash-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avatar: Fire and Ash</a></p>
+
+      <hr>
+
+      <h2>#3: Mickey 17 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 11 &bull; <strong>Trad Score:</strong> 5 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Theatrical (Warner Bros.)</p>
+      <p>Bong Joon-ho has confirmed publicly that Mickey 17 is a Trump allegory. The villain is a populist politician delivering speeches about making the colony great, dressed to read as a visual joke about the former president. The film earns a -6 WOKE margin with a woke score of 11 and a traditional score of only 5, reflecting the political allegory's dominance over the survival-adventure premise. The story of an expendable worker who gets repeatedly killed and reprinted is genuinely inventive. The ideological framework wrapped around it is not subtle. Read the full review before deciding whether that framing is the film you want to spend two hours with.</p>
+      <p><a href="/reviews/mickey-17-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mickey 17</a></p>
+
+      <hr>
+
+      <h2>#4: Andor - Season 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 15 &bull; <strong>Trad Score:</strong> 10 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Disney+</p>
+      <p>Andor Season 2 is probably the finest piece of television Disney has produced under the Star Wars banner, and it is without reservation the most explicitly political. Tony Gilroy has made a show about the birth of a rebellion against an authoritarian empire and shot it with the narrative rigor of a prestige drama. The woke score of 15 reflects the overt anti-fascist political framing, institutional critique, and progressive ideological content embedded throughout. The traditional score of 10 captures the sacrifice, loyalty, and earned courage themes that make Cassian Andor's arc genuinely moving. A -5 WOKE verdict on the best Star Wars content in years. The full review is required reading for any fan.</p>
+      <p><a href="/reviews/andor-s2/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Andor - Season 2</a></p>
+
+      <hr>
+
+      <h2>#5: Death of a Unicorn (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 16.9 &bull; <strong>Trad Score:</strong> 12.3 &bull; <strong>Genre:</strong> Dark Fantasy / Comedy Horror &bull; <strong>Platform:</strong> Theatrical / HBO Max</p>
+      <p>Death of a Unicorn is an anti-capitalist satire wrapped in a creature feature and it does not try to hide it. The rich people are cartoonishly evil, the young progressive woman is the moral compass, and the unicorns are nature's revenge on corporate greed. The woke score of 16.9 reflects those anti-corporate, anti-wealth ideological pillars running throughout the film. The traditional score of 12.3 captures father-daughter bonding and personal conscience themes that give the story its warmth. A -5 WOKE verdict on a film that commits to its premise with genuine energy. The full review details every scoring category.</p>
+      <p><a href="/reviews/death-of-a-unicorn-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Death of a Unicorn</a></p>
+
+      <hr>
+
+      <h2>#6: Stranger Things - Season 5 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 13 &bull; <strong>Trad Score:</strong> 8 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Stranger Things was once a miracle: nostalgia for stories about kids solving problems, fathers protecting families, and communities pulling together against genuine evil. Season 5's -5 WOKE verdict reflects how far the show has drifted from that original orientation. The woke score of 13 captures the progressive ideology accumulated across later seasons in character framing, relationship dynamics, and thematic content. The traditional score of 8 reflects the survival and loyalty themes that the show's best moments still deliver. A bittersweet farewell to a series that was once the clearest argument for traditional storytelling on streaming television. The full review documents the drift in detail.</p>
+      <p><a href="/reviews/stranger-things/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Stranger Things</a></p>
+
+      <hr>
+
+      <h2>#7: The Electric State (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 13.63 &bull; <strong>Trad Score:</strong> 9.52 &bull; <strong>Genre:</strong> Sci-Fi / Action-Adventure / Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>The Russo Brothers spent $320 million adapting Simon Stalenhag's hauntingly beautiful illustrated novel and produced a bloated, quip-heavy adventure film that has more in common with a theme park ride than the source material. The woke score of 13.63 reflects progressive ideological content and institutional critique woven throughout the narrative. The traditional score of 9.52 captures the sibling-loyalty and found-family themes at the story's core. A -4 WOKE verdict on the most expensive argument yet that money cannot buy a soul. The full review documents where the $320 million went and what it bought ideologically.</p>
+      <p><a href="/reviews/the-electric-state-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Electric State</a></p>
+
+      <hr>
+
+      <h2>#8: Companion (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 7 &bull; <strong>Trad Score:</strong> 5 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Theatrical (New Line Cinema)</p>
+      <p>Drew Hancock's debut feature is a sharper film than the marketing suggests and a more ideologically loaded one. Companion arrives fully formed with tight craft and a strong performance from Sophie Thatcher, delivering a feminist thesis about AI relationships with the efficiency of a well-designed genre machine. The woke score of 7 and traditional score of 5 are both modest, producing a -2 WOKE MIXED verdict that reflects a film sitting precisely on the ideological fault line between genre entertainment and progressive social commentary. Whether the thesis lands as provocative truth or progressive sermon will depend on the viewer. The full VirtueVigil review lays out the case for both readings.</p>
+      <p><a href="/reviews/companion-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Companion</a></p>
+
+      <hr>
+
+      <h2>#9: Black Mirror - Season 7 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -1 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 9 &bull; <strong>Trad Score:</strong> 8 &bull; <strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Black Mirror Season 7 demonstrates why Charlie Brooker's anthological format has endured: no single thematic agenda can dominate when each episode is a discrete story. The season returns with six episodes that probe technology, identity, and consequence from multiple ideological angles, producing a combined woke score of 9 and traditional score of 8 that reflects genuine ambiguity rather than suppressed ideology. The -1 WOKE MIXED verdict places this at the ideological center of the 2025 adventure and fantasy category. The show has never been fully co-opted by any one political tendency, and Season 7 maintains that reputation. The full review breaks down each episode individually.</p>
+      <p><a href="/reviews/black-mirror-s7/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Mirror - Season 7</a></p>
+
+      <hr>
+
+      <h2>#10: Elio (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 18 &bull; <strong>Trad Score:</strong> 24 &bull; <strong>Genre:</strong> Animation / Sci-Fi / Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Pixar's Elio carries the highest combined ideology scores in this entire list: woke score of 18, traditional score of 24. The net +6 TRAD margin earns a TRADITIONAL LEAN verdict, but the total ideological footprint is among the largest of any 2025 adventure or fantasy entry. The traditional content comes from family loyalty, identity earned through courage rather than assigned by group membership, and a found-family structure that validates belonging. The woke content reflects Pixar's current sensibilities around identity and inclusion, including content removed before release that still left a fingerprint on the final film's scoring. Parents evaluating this for young children should read the full VirtueVigil review before deciding.</p>
+      <p><a href="/reviews/elio-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Elio</a></p>
+
+      <hr>
+
+      <h2>#11: A Minecraft Movie (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2.7 &bull; <strong>Trad Score:</strong> 10.24 &bull; <strong>Genre:</strong> Fantasy Adventure Comedy &bull; <strong>Platform:</strong> Theatrical (Warner Bros. Pictures)</p>
+      <p>A Minecraft Movie is an honest film: it is not pretending to be Citizen Kane and it is not sneaking in a gender studies lecture. The woke score of 2.7 is one of the lowest in the 2025 adventure and fantasy cohort, reflecting a creative team that kept ideological overhead near zero. The traditional score of 10.24 comes from friendship, courage under pressure, and the simple proposition that ordinary people can do extraordinary things when they decide to try. The critics mostly did not like it. The $961 million box office suggests the critics were irrelevant. A clean recommendation for families who want adventure without ideology. The full review documents the complete score breakdown.</p>
+      <p><a href="/reviews/a-minecraft-movie-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Minecraft Movie</a></p>
+
+      <hr>
+
+      <h2>#12: Anaconda (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 4.4 &bull; <strong>Trad Score:</strong> 12.18 &bull; <strong>Genre:</strong> Action / Adventure / Comedy / Horror &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Four middle-aged friends from Buffalo scrape together a loan and head to the Amazon to shoot a guerrilla remake of the glorious 1997 original, and the premise is more irresistible than the finished film. The woke score of 4.4 is low, reflecting a comedy-adventure that prioritizes laughs over ideology. The traditional score of 12.18 captures the male friendship, shared adventure, and working-class aspiration themes that give the film its heart. A +8 TRAD verdict on a movie that knows what it is and commits to being that without apology. The full review documents every scoring category and whether the execution lives up to the pitch.</p>
+      <p><a href="/reviews/anaconda-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Anaconda</a></p>
+
+      <hr>
+
+      <h2>#13: The Life of Chuck (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 3.5 &bull; <strong>Trad Score:</strong> 15.75 &bull; <strong>Genre:</strong> Drama / Fantasy &bull; <strong>Platform:</strong> Theatrical (Neon)</p>
+      <p>The universe is ending, billboards bearing the face of an accountant named Charles Krantz are appearing worldwide, and Mike Flanagan's adaptation of Stephen King's novella works backwards through a life to ask what made it worth living. The woke score of 3.5 is extremely low for a prestige theatrical release in 2025. The traditional score of 15.75 reflects the film's meditation on gratitude, quiet lives of dignity, family memory, and the radical proposition that one unremarkable man's joy is worth the same as any legend's. A +12 TRAD verdict on one of the most spiritually conservative films of the year dressed in literary fantasy clothing. The full review is essential reading.</p>
+      <p><a href="/reviews/the-life-of-chuck-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Life of Chuck</a></p>
+
+      <hr>
+
+      <h2>#14: Paddington in Peru (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 8.4 &bull; <strong>Trad Score:</strong> 22.5 &bull; <strong>Genre:</strong> Adventure / Comedy / Family &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The third Paddington film earns a +14 TRAD margin and does so with the same gentle integrity that made the first two films beloved across the political spectrum. Paddington in Peru is about going home, honoring the people who shaped you, and the enduring value of politeness and good manners as genuine virtues rather than affectations. The woke score of 8.4 reflects modern production choices that do not compromise the story's moral architecture. The traditional score of 22.5 confirms the franchise's core values are fully intact in the third installment. One of the cleanest family adventure picks in the 2025 database. The full review confirms it.</p>
+      <p><a href="/reviews/paddington-in-peru-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Paddington in Peru</a></p>
+
+      <hr>
+
+      <h2>#15: Demon Slayer: Infinity Castle (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 4 &bull; <strong>Trad Score:</strong> 23.1 &bull; <strong>Genre:</strong> Animation / Action / Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Ufotable's theatrical adaptation of Demon Slayer's most anticipated arc is the most technically ambitious traditionally animated film since The Lion King, and it earns every frame of the $778.9 million it grossed worldwide. The woke score of only 4 reflects a creative team working from Japanese source material with no Western progressive ideological agenda to satisfy. The traditional score of 23.1 comes from duty, sacrifice, protecting family, and the warrior's obligation to those who cannot defend themselves: martial virtues embedded in the manga and faithfully rendered on screen. A +19 TRAD verdict on one of the finest adventure films of the year. The full review has parental guidance notes on violence intensity.</p>
+      <p><a href="/reviews/demon-slayer-infinity-castle-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Demon Slayer: Infinity Castle</a></p>
+
+      <hr>
+
+      <h2>#16: How to Train Your Dragon (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +29 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 4.7 &bull; <strong>Trad Score:</strong> 33.2 &bull; <strong>Genre:</strong> Family / Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Dean DeBlois directed all three animated How to Train Your Dragon films and insisted on full creative control for the live-action remake. That condition shows in the finished product: a film about a boy proving himself worthy of his father's respect through courage and unconventional thinking, delivered without softening. The woke score of 4.7 is among the lowest in the entire 2025 adventure category, reflecting a creative team that trusted the source material instead of updating it for contemporary sensibilities. The traditional score of 33.2 confirms the story's core is not just intact but amplified. A +29 TRAD verdict and a rare genuine win for the live-action remake format. The full review documents what makes this work.</p>
+      <p><a href="/reviews/how-to-train-your-dragon-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of How to Train Your Dragon</a></p>
+
+      <hr>
+
+      <h2>#17: Ne Zha 2 (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +39 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 0 &bull; <strong>Trad Score:</strong> 38.57 &bull; <strong>Genre:</strong> Animation / Fantasy / Action &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Ne Zha 2 is one of the most extraordinary animated films made anywhere in the world in the past decade, and its VirtueVigil score proves why it resonated so broadly: a woke score of zero against a traditional score of 38.57 for a +39 TRAD margin that is among the highest in the entire 2025 database across all genres. Yang Yu's sequel to the 2019 phenomenon builds on Chinese mythological values that align closely with traditional Western ones: filial piety, warrior honor, sacrifice for family and community, and the idea that destiny is earned rather than given. There is no progressive ideological content to score. One of the most remarkable adventure films in recent memory, full stop. The full review documents everything.</p>
+      <p><a href="/reviews/ne-zha-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ne Zha 2</a></p>
+
+      <hr>
+
+      <h2>#18 (Most Traditional): The SpongeBob Movie: Search for SquarePants (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +42 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 1.28 &bull; <strong>Trad Score:</strong> 43.1 &bull; <strong>Genre:</strong> Animation / Adventure / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The SpongeBob Movie: Search for SquarePants is the most traditionally grounded adventure or fantasy film of 2025, and it is not close. A +42 TRAD margin with a traditional score of 43.1 and a woke score of only 1.28 places this at the very top of the traditional tier for the year. The fourth SpongeBob theatrical outing arrives with the kind of refreshing simplicity that has become almost exotic in modern animated filmmaking: a straightforward story about friendship and courage, delivered without a lecture, that does not try to be anything other than a SpongeBob movie. SpongeBob wants to be a big guy. That is the whole movie. And it is exactly enough. The full review confirms this is as clean as adventure filmmaking gets in 2025.</p>
+      <p><a href="/reviews/the-spongebob-movie-search-for-squarepants-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The SpongeBob Movie: Search for SquarePants</a></p>
+
+      <hr>
+
+      <h2>What the 2025 Adventure and Fantasy Rankings Tell Us</h2>
+
+      <p>The 2025 adventure and fantasy category runs 50 ideological points from -8 WOKE to +42 TRAD: a spread that is wider than any other 2025 genre ranking in the VirtueVigil database. The pattern is clear once you see it. Films produced in Asia (Ne Zha 2, Demon Slayer) consistently score at the top of the traditional tier because their source material carries values that Western progressive ideology has not penetrated. Films built inside legacy American franchises (SpongeBob, Paddington, How to Train Your Dragon, Minecraft) score traditionally when their creative teams trust the source material and score progressively when they update it. Films produced inside Disney or Netflix's original content pipelines (Avatar, Andor, Stranger Things, Electric State) almost always pull the margin negative regardless of individual story intent.</p>
+
+      <p>The best picks for families are The SpongeBob Movie, Ne Zha 2, How to Train Your Dragon, Demon Slayer: Infinity Castle, and Paddington in Peru. All five have woke scores under 10 and traditional scores above 20. The Life of Chuck and A Minecraft Movie are clean picks for older audiences. The films to actively assess before watching are KPop Demon Hunters, Avatar: Fire and Ash, Mickey 17, Andor Season 2, and Stranger Things Season 5. None of them are incompetent. All of them carry an ideological orientation worth knowing about in advance.</p>
+
+      <p>Browse all 2025 genre rankings at <a href="/lists/">VirtueVigil Lists</a>, including <a href="/lists/action-movies-2025-woke-ranking/">Action</a>, <a href="/lists/thriller-movies-2025-woke-ranking/">Thriller</a>, <a href="/lists/comedy-movies-2025-woke-ranking/">Comedy</a>, <a href="/lists/sci-fi-movies-2025-woke-ranking/">Sci-Fi</a>, <a href="/lists/animated-family-movies-2025-woke-ranking/">Animated &amp; Family</a>, and <a href="/lists/drama-movies-2025-woke-ranking/">Drama</a>. Every reviewed film is in the database. Search any title at <a href="/">VirtueVigil.com</a> for the full score breakdown, or subscribe free for weekly Woke Trap alerts before every major release.</p>
+
     </article>`
   }));
 } // close async wrapper
