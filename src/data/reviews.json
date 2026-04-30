@@ -120327,5 +120327,272 @@
       "metaDescription": "VirtueVigil's full VVWS v1.1 review of The Social Network (2010). Is the David Fincher Zuckerberg film woke or traditional? Trope audit, creative team, and verdict. Score: -7 WOKE LEAN.",
       "keywords": "is The Social Network woke, Social Network conservative review, Social Network ideology, David Fincher Zuckerberg, Social Network VirtueVigil, Aaron Sorkin liberal bias, Social Network VVWS score"
     }
+  },
+  {
+    "id": "goodfellas-1990",
+    "slug": "goodfellas-1990",
+    "title": "GoodFellas",
+    "year": 1990,
+    "type": "film",
+    "platform": "Theatrical (Warner Bros.)",
+    "genre": "Biography / Crime / Drama",
+    "date": "2026-04-30",
+    "datePublished": "2026-04-30",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "17 min",
+    "poster": "/images/posters/goodfellas-1990.jpg",
+    "releaseDate": "1990-09-19",
+    "rating": "R (Pervasive Language, Strong Violence, Drug Use)",
+    "runtime": "145 min",
+    "director": "Martin Scorsese",
+    "writers": [
+      "Nicholas Pileggi",
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Ray Liotta",
+        "role": "Henry Hill"
+      },
+      {
+        "name": "Robert De Niro",
+        "role": "Jimmy Conway"
+      },
+      {
+        "name": "Joe Pesci",
+        "role": "Tommy DeVito"
+      },
+      {
+        "name": "Lorraine Bracco",
+        "role": "Karen Hill"
+      },
+      {
+        "name": "Paul Sorvino",
+        "role": "Paul Cicero"
+      },
+      {
+        "name": "Frank Sivero",
+        "role": "Frankie Carbone"
+      },
+      {
+        "name": "Tony Darrow",
+        "role": "Sonny Bunz"
+      }
+    ],
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2,
+    "tradScore": 13,
+    "authIndex": 76,
+    "scoreMargin": "+11 TRAD",
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "No trap. GoodFellas front-loads the glamour of mob life deliberately, but the moral reckoning arrives well before the halfway mark and dominates the final hour. Henry Hill's narration turns corrosive long before the credits roll. The film is structured as a rise-and-fall morality play, and the fall is total. Anyone claiming the film glorifies organized crime without consequences watched a different movie."
+    },
+    "creative_team": {
+      "director": {
+        "name": "Martin Scorsese",
+        "ideology": "LIBERAL (personal) / NEUTRAL (filmmaking)",
+        "profile": "Scorsese is a lifelong New York liberal with documented progressive social views. His filmmaking is another matter. GoodFellas, The Departed, Gangs of New York, and Killers of the Flower Moon all demonstrate a director who lets moral complexity speak for itself rather than inserting ideological messaging. GoodFellas in particular is bracingly non-preachy about its subject matter. Scorsese trusts the audience to draw conclusions. That trust is itself a conservative artistic instinct, even if the man holding the camera votes differently."
+      },
+      "writer": {
+        "name": "Nicholas Pileggi & Martin Scorsese",
+        "profile": "Pileggi's source book Wiseguy is reported nonfiction, drawn from hundreds of hours of interviews with Henry Hill after he entered witness protection. The screenplay compresses and dramatizes but does not invent the essential moral arc. Hill's cooperation with the FBI, his life in the program as a nobody in a suburb eating egg noodles instead of pasta, and his genuine regret are all part of the documented record. The screenplay earns its credibility by staying close to the source."
+      },
+      "lead_producer": {
+        "name": "Irwin Winkler",
+        "company": "Warner Bros."
+      },
+      "composer": {
+        "name": "N/A (licensed soundtrack)"
+      },
+      "top_cast": [
+        {
+          "name": "Ray Liotta",
+          "role": "Henry Hill"
+        },
+        {
+          "name": "Robert De Niro",
+          "role": "Jimmy Conway"
+        },
+        {
+          "name": "Joe Pesci",
+          "role": "Tommy DeVito"
+        },
+        {
+          "name": "Lorraine Bracco",
+          "role": "Karen Hill"
+        },
+        {
+          "name": "Paul Sorvino",
+          "role": "Paul Cicero"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL",
+        "confidence": "high"
+      },
+      "producers": [
+        {
+          "name": "Irwin Winkler",
+          "company": "Warner Bros.",
+          "profile": "Veteran Hollywood producer with credits ranging from Rocky to Raging Bull. Winkler has never been a particularly ideological producer. He follows quality filmmakers and GoodFellas was Scorsese in peak form."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Ray Liotta",
+          "role": "Henry Hill"
+        },
+        {
+          "name": "Robert De Niro",
+          "role": "Jimmy Conway"
+        },
+        {
+          "name": "Joe Pesci",
+          "role": "Tommy DeVito"
+        },
+        {
+          "name": "Lorraine Bracco",
+          "role": "Karen Hill"
+        },
+        {
+          "name": "Paul Sorvino",
+          "role": "Paul Cicero"
+        },
+        {
+          "name": "Frank Sivero",
+          "role": "Frankie Carbone"
+        },
+        {
+          "name": "Tony Darrow",
+          "role": "Sonny Bunz"
+        },
+        {
+          "name": "Mike Starr",
+          "role": "Frenchy"
+        },
+        {
+          "name": "Frank Vincent",
+          "role": "Billy Batts"
+        },
+        {
+          "name": "Chuck Low",
+          "role": "Morrie Kessler"
+        }
+      ]
+    },
+    "summary": {
+      "overall": "Let's be direct: GoodFellas is one of the greatest American films ever made. That's not a controversial statement in 2026 and it wasn't controversial in 1990. The interesting question for VirtueVigil is what it actually says, morally, about the world it depicts. And the answer is complicated in the best possible way.\n\nThe film follows Henry Hill (Ray Liotta) from childhood in Brooklyn in the 1950s through his peak years as a mid-level mob associate, into his cocaine-fueled paranoid collapse, and finally into witness protection. The first hour is bracingly seductive. Henry narrates his own rise with genuine excitement. The camera moves like it wants to be there. The music is perfect. The food looks incredible. Scorsese gives you the life before he takes it away, and he does this on purpose.\n\nBy the time you reach the final third, the party is over and has been over for a while. Henry is a wreck. The people around him are dropping. Jimmy Conway (Robert De Niro, doing some of the coldest work of his career) is eliminating his Lufthansa heist crew one by one because dead men don't collect shares. Tommy DeVito (Joe Pesci, in a performance so terrifying it won the Oscar and deserved to) is pure id in a suit, capable of killing someone for looking at him wrong. And then he gets killed, suddenly, off-screen, for breaking the rules one time too many.\n\nThat's the actual moral of GoodFellas. Not a speech. Not a title card. Just an off-screen execution and Henry Hill moving a new family into a new suburb, eating egg noodles instead of pasta, watching his life shrink to the size of a witness protection dossier. The film calls it out in Henry's own voice: 'I'm an average nobody. I get to live the rest of my life like a schnook.' That's the judgment. It's withering.\n\nThe film's relationship to traditional values is subtle but genuine. The mob world Scorsese depicts is built on codes: loyalty, hierarchy, respect for those above you. These codes are perversions of legitimate traditional values, which is precisely what makes the film interesting. The mob version of family dinner comes with the understanding that the man carving the turkey might have someone's hands in a meat grinder the next morning. The mob version of loyalty includes Jimmy Conway killing everyone who knows about the Lufthansa job. The codes exist. They're just operating in a context that corrupts them completely.\n\nKaren Hill (Lorraine Bracco) is often cited as a proto-feminist character because she has an interior life and agency. I don't read her that way at all. She's a woman seduced by power and money who makes choices and lives with consequences. Her narration is honest about her own culpability in ways that feel more morally complex than most contemporary female characters who are simply declared right by default. She wanted the life. She got the life. She stayed in the life longer than she should have. The film doesn't excuse her for this.\n\nPesci's Tommy DeVito is the film's most important character for understanding what it's actually saying. Tommy is violence without loyalty, ambition without code, appetite without restraint. He kills Billy Batts for a personal insult during a truce. He kills Spider for talking back. He kills without permission and without purpose. And when he gets called to his own button ceremony, the ones above him use the occasion to execute him for the Batts killing. The hierarchy has rules. Tommy refused to follow them. The hierarchy responded. This is not progressive messaging.",
+      "adultInsight": "Conservative adults who haven't seen GoodFellas in a while should revisit it with fresh eyes. What Scorsese is doing is more interesting than either the 'it glorifies crime' camp or the 'it condemns crime' camp will admit.\n\nThe film presents a world built on masculine codes of loyalty, hierarchy, and honor. It then shows, in meticulous detail, what happens when those codes operate without a legitimate moral foundation. The result is corruption, betrayal, and destruction. This is not an argument against loyalty, hierarchy, and honor. It's an argument for applying those values in contexts that can sustain them.\n\nHenry Hill's tragedy is specifically that the codes he learned as a kid, work hard, earn respect, be loyal to your crew, were real codes. They just applied to a criminal organization instead of a legitimate one. His skills, his hustle, his loyalty, his ability to read a room: all of these would have made him successful in almost any other context. The waste of a capable man in a corrupt institution is genuinely sad, and Scorsese treats it as such.\n\nThe film also has something important to say about consequences. Every character who breaks the rules ends up dead, in jail, or in witness protection. Tommy dies for disrespecting the hierarchy. Jimmy destroys his own crew because he can't control his paranoia and greed. Henry loses everything because he can't stop dealing cocaine. The film is not ambiguous about outcomes. It's ruthlessly clear. Actions have consequences. The consequences in GoodFellas are severe and they arrive without redemption or second chances.\n\nThis is what great crime fiction does: it uses the criminal world as a laboratory for testing what happens when masculine values operate without moral grounding. GoodFellas gives you the answer. It's not pretty.",
+      "parentalGuidance": "GoodFellas is rated R and earns every part of that rating.\n\nViolence: Frequent and sometimes shocking. The Billy Batts beating and murder, the Morrie killing, the spider scene (Tommy shoots a young crew member in the foot and then, when he complains, shoots him dead), and several other incidents are graphic. The violence is not gratuitous in the slasher sense, but it is realistic and often sudden. This is the film's point: in the mob world, death is casual and arbitrary.\n\nLanguage: Extremely strong throughout. The film reportedly contains over 300 uses of the f-word. This is accurate to its milieu and not sanitized.\n\nSexual Content: Some adult content. Nothing graphic by contemporary standards.\n\nDrug Use: The cocaine sequences in the final act are extensive and deliberately disorienting. Scorsese puts you inside Henry's cocaine psychosis. It's effective filmmaking and not fun to watch.\n\nAge Recommendation: Strictly 17 and older. For mature adults with high tolerance for violence and language, GoodFellas is required viewing as a landmark of American cinema.\n\nDiscussion Points: How does the film use the mob code as a perverted version of legitimate traditional values? Why does Tommy's death feel both shocking and inevitable? What is Henry Hill's American Dream actually a version of? Why does Scorsese refuse to moralize through dialogue?"
+    },
+    "tropeAudit": [
+      {
+        "trope": "Violence Glamorization (Pre-Consequence Arc)",
+        "id": "WOKE-031",
+        "category": "WOKE",
+        "severity": 2,
+        "authenticity": "High",
+        "authenticityMultiplier": 0.7,
+        "centrality": "Moderate",
+        "centralityMultiplier": 1.0,
+        "weightedScore": 1.4,
+        "location": "First half, especially the Copacabana tracking shot sequence and the exhilarating montage of Henry's rising lifestyle. The film makes the life look genuinely good before it starts taking it apart.",
+        "authenticity_note": "Organic. Scorsese is depicting the subjective experience of someone who genuinely thought this life was worth having. The glamour is a narrative tool, not an endorsement."
+      },
+      {
+        "trope": "Drug Use Depicted With Kinetic Energy",
+        "id": "WOKE-018",
+        "category": "WOKE",
+        "severity": 2,
+        "authenticity": "High",
+        "authenticityMultiplier": 0.7,
+        "centrality": "Low",
+        "centralityMultiplier": 0.5,
+        "weightedScore": 0.7,
+        "location": "Final act: the paranoid helicopter day that climaxes in Henry's arrest. The cocaine sequences are viscerally realized. They're meant to be terrifying and mostly are, but the kinetic filmmaking sometimes tips toward exciting.",
+        "authenticity_note": "Organic. Scorsese uses the film's visual energy against itself. The same technique that made the early lifestyle scenes exciting is now used to depict disintegration. It's intentional."
+      },
+      {
+        "trope": "Crime Doesn't Pay (Total Moral Reckoning)",
+        "id": "TRADITIONAL-022",
+        "category": "TRADITIONAL",
+        "severity": 4,
+        "authenticity": "High",
+        "authenticityMultiplier": 0.7,
+        "centrality": "High",
+        "centralityMultiplier": 1.8,
+        "weightedScore": 5.04,
+        "location": "The entire third act and Henry's final monologue. 'I'm an average nobody. I get to live the rest of my life like a schnook.' Every character who goes all-in on the criminal life ends up dead, imprisoned, or diminished. No exceptions.",
+        "authenticity_note": "Authentic. This is the historical record. Henry Hill's actual life in witness protection was exactly this diminished. Nicholas Pileggi's reporting is the source."
+      },
+      {
+        "trope": "Masculine Loyalty and Hierarchy Codes",
+        "id": "TRADITIONAL-028",
+        "category": "TRADITIONAL",
+        "severity": 3,
+        "authenticity": "High",
+        "authenticityMultiplier": 0.7,
+        "centrality": "High",
+        "centralityMultiplier": 1.8,
+        "weightedScore": 3.78,
+        "location": "Throughout. The mob world operates on a rigid code: you don't betray your friends, you respect those above you, you earn your position. These codes are genuine and the film takes them seriously even as it shows their corruption.",
+        "authenticity_note": "Authentic. The codes are real. The Italian-American mob culture had these rules. The film depicts them accurately as both a genuine social structure and a fundamentally corrupted one."
+      },
+      {
+        "trope": "Italian-American Family and Religious Culture",
+        "id": "TRADITIONAL-019",
+        "category": "TRADITIONAL",
+        "severity": 2,
+        "authenticity": "High",
+        "authenticityMultiplier": 0.7,
+        "centrality": "Moderate",
+        "centralityMultiplier": 1.0,
+        "weightedScore": 1.4,
+        "location": "The family dinner scenes, the Christmas celebrations, the religious iconography in the neighborhood. Paul Cicero's Sunday gravy. These elements are presented with genuine warmth.",
+        "authenticity_note": "Authentic. Drawn from real cultural practice. The warmth is real. The crime exists alongside it, not because of it."
+      },
+      {
+        "trope": "Consequences of Betrayal",
+        "id": "TRADITIONAL-033",
+        "category": "TRADITIONAL",
+        "severity": 3,
+        "authenticity": "High",
+        "authenticityMultiplier": 0.7,
+        "centrality": "Moderate",
+        "centralityMultiplier": 1.0,
+        "weightedScore": 2.1,
+        "location": "Jimmy Conway's systematic elimination of the Lufthansa heist crew. Every man who could testify about the score is killed. Stacks, Frenchy, Morrie. The film presents this as Jimmy's paranoia and greed, but it also demonstrates that betrayal, or the possibility of it, has irreversible consequences.",
+        "authenticity_note": "Authentic. This is documented history. Jimmy Burke (the real Jimmy Conway) did systematically eliminate associates after the Lufthansa heist."
+      },
+      {
+        "trope": "Ambition as American Drive (Perverted)",
+        "id": "TRADITIONAL-041",
+        "category": "TRADITIONAL",
+        "severity": 2,
+        "authenticity": "High",
+        "authenticityMultiplier": 0.7,
+        "centrality": "Low",
+        "centralityMultiplier": 0.5,
+        "weightedScore": 0.7,
+        "location": "Henry Hill's early voiceover establishes him as a kid who wanted to be somebody. 'As far back as I can remember, I always wanted to be a gangster.' The film treats this as a recognizable American impulse applied to the wrong institution.",
+        "authenticity_note": "Authentic. Henry Hill's testimony consistently described his entry into mob life as a form of immigrant ambition. The 'wrong path' framing is the film's moral architecture."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is GoodFellas (1990) Woke? Martin Scorsese Crime Film Review | VirtueVigil",
+      "metaDescription": "Is GoodFellas woke? VirtueVigil verdict: TRADITIONAL (+11). Scorsese's mob epic is a morality tale dressed as a celebration. Crime doesn't pay, loyalty codes matter, and the fall is total.",
+      "keywords": "is goodfellas woke, goodfellas 1990 conservative review, goodfellas scorsese traditional values, goodfellas vvws score, goodfellas moral message, is goodfellas appropriate conservative"
+    },
+    "wokeTrap": false,
+    "parental_guidance": {
+      "rating": "R",
+      "age_recommendation": "17+",
+      "violence": "Frequent and realistic. Sudden murders, beatings, and graphic moments throughout.",
+      "language": "Extremely strong. Over 300 uses of profanity documented.",
+      "sexual_content": "Some adult content, nothing graphic.",
+      "drug_use": "Extensive cocaine use in the final act, depicted as paranoid and destructive.",
+      "thematic_concerns": "Criminal lifestyle presented seductively before consequences arrive. Parental discussion recommended."
+    }
   }
 ]
