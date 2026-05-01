@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/in-the-grey-2026.jpg"
   },
   {
+    "slug": "the-breadwinner-2026",
+    "title": "The Breadwinner",
+    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Comedy / Family",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5.78,
+    "tradScore": 13.02,
+    "poster": "/images/posters/the-breadwinner-2026.jpg"
+  },
+  {
     "slug": "goodfellas-1990",
     "title": "GoodFellas",
     "verdict": "TRADITIONAL",
