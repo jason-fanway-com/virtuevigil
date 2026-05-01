@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/the-chosen-last-supper-2025.jpg"
   },
   {
+    "slug": "in-the-grey-2026",
+    "title": "In the Grey",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Thriller / Spy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2.7,
+    "tradScore": 14.28,
+    "poster": "/images/posters/in-the-grey-2026.jpg"
+  },
+  {
     "slug": "goodfellas-1990",
     "title": "GoodFellas",
     "verdict": "TRADITIONAL",
