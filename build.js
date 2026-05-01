@@ -1921,6 +1921,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/sci-fi-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/animated-family-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/adventure-fantasy-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/biographical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2867,6 +2868,7 @@ function buildListsHubPage() {
         'woke-animated-kids-movies',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
+        'biographical-movies-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2937,7 +2939,8 @@ function buildListsHubPage() {
       'comedy-movies-2025-woke-ranking': 'Every 2025 Comedy Movie Ranked by Woke Score',
       'sci-fi-movies-2025-woke-ranking': 'Every 2025 Sci-Fi Movie Ranked by Woke Score',
       'animated-family-movies-2025-woke-ranking': 'Every 2025 Animated & Family Movie Ranked by Woke Score',
-      'adventure-fantasy-movies-2025-woke-ranking': 'Every 2025 Adventure & Fantasy Movie Ranked by Woke Score'
+      'adventure-fantasy-movies-2025-woke-ranking': 'Every 2025 Adventure & Fantasy Movie Ranked by Woke Score',
+      'biographical-movies-woke-ranking': 'Every Biographical Movie Ranked by Woke Score (All Time)'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -21542,6 +21545,341 @@ function buildThrillerMovies2025WokeRankingListicle() {
 
     </article>`
   }));
+
+  // --- Every Biographical Movie Ranked by Woke Score (All Time) ---
+  console.log('  lists/biographical-movies-woke-ranking/index.html');
+  writePage('lists/biographical-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'biographical-movies-woke-ranking',
+    title: 'Every Biographical Movie Ranked by Woke Score',
+    description: 'All 28 biographical films reviewed by VirtueVigil ranked from most traditional to most woke. From Reagan (+41.9) to The Apprentice (-14.3).',
+    canonicalPath: 'lists/biographical-movies-woke-ranking',
+    publishDate: '2026-05-01',
+    htmlContent: `<article class="listicle-article">
+
+      <p>Hollywood has always loved the biopic. The genre promises intimacy with greatness, a front-row seat to history, a chance to understand how extraordinary people became who they were. But biopics are also the place where ideological agendas hide most comfortably, because a real person's story provides cover. You cannot argue with the facts, the filmmakers say. But you can argue with which facts they chose, how they framed them, and whose version of history they decided to tell.</p>
+
+      <p>VirtueVigil has reviewed 28 biographical films across all years and genres. This is the complete ranking, from the most strongly traditional at #1 to the most ideologically progressive at #28. Every score reflects our methodology: measuring the density and framing of ideological content, not the quality of the filmmaking. A great film can score poorly for traditional values. A terrible film can score well. We are not ranking entertainment. We are ranking ideology.</p>
+
+      <hr>
+
+      <h2>#1 - Reagan (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +41.9 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2.4 &bull; <strong>Trad Score:</strong> 44.28 &bull; <strong>Year:</strong> 2024</p>
+      <p>Reagan is not a biopic. It is a monument. Sean McNamara's film, 14 years in the making, is an unapologetic celebration of Ronald Reagan's life, faith, and legacy. It does not hedge. It does not seek balance. It presents the 40th president as a man of conviction whose values shaped the arc of the Cold War. Dennis Quaid delivers a performance of genuine reverence, and the film earns its patriotic emotion by grounding it in specific moments and real stakes. The highest traditional score of any biographical film we have reviewed. If you want a biopic that unapologetically affirms conservative values, this is the ceiling.</p>
+      <p><a href="/reviews/reagan-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Reagan</a></p>
+
+      <hr>
+
+      <h2>#2 - American Sniper (2014)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +34.1 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2.45 &bull; <strong>Trad Score:</strong> 36.6 &bull; <strong>Year:</strong> 2014</p>
+      <p>Clint Eastwood's portrayal of Chris Kyle is exactly what it looks like: a film about a man who believed in his country, his family, and his mission, told without apology or qualification. The film does not make the Iraq War's politics its subject. It makes Chris Kyle its subject. That choice is itself ideological, and it generated enormous controversy from critics who wanted Eastwood to interrogate the mission rather than honor the man. He declined. The result is one of the most financially successful war films ever made and one of the most unapologetically patriotic biopics of its era.</p>
+      <p><a href="/reviews/american-sniper-2014/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of American Sniper</a></p>
+
+      <hr>
+
+      <h2>#3 - Society of the Snow (2023)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +30.6 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 1.4 &bull; <strong>Trad Score:</strong> 31.99 &bull; <strong>Year:</strong> 2023</p>
+      <p>J.A. Bayona's film about the 1972 Andes plane crash is one of the most spiritually serious survival films ever made. The Uruguayan rugby players who survived did so through faith, brotherhood, and an act of desperate necessity that the film treats with complete moral seriousness. There is no agenda here. There is only the question of how men face death and what they owe each other when civilization falls away. It earned a near-perfect traditional score because every value it affirms -- sacrifice, community, faith, male brotherhood -- is rooted in something ancient and real.</p>
+      <p><a href="/reviews/society-of-the-snow-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Society of the Snow</a></p>
+
+      <hr>
+
+      <h2>#4 - The Optimist: The Bravest Act Is Truth (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21.8 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 3.01 &bull; <strong>Trad Score:</strong> 24.82 &bull; <strong>Year:</strong> 2026</p>
+      <p>A small, independent drama about a real Holocaust survivor that mainstream Hollywood would never make and that should be seen by far more people than it will reach. The film is unadorned, honest, and grounded in the kind of human dignity that identity politics films mistake for representation. It does not treat its subject as a vehicle for contemporary messaging. It treats him as a person whose story is worth telling on its own terms. That restraint is what makes it powerful and what earns its traditional score.</p>
+      <p><a href="/reviews/the-optimist-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Optimist</a></p>
+
+      <hr>
+
+      <h2>#5 - I Swear (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20.7 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 1.4 &bull; <strong>Trad Score:</strong> 22.1 &bull; <strong>Year:</strong> 2026</p>
+      <p>Kirk Jones' biographical drama about a man living with Tourette syndrome is a quiet, dignified portrait of perseverance, family loyalty, and the refusal to let neurological difference define a life. The film does not weaponize disability. It does not treat its subject as a symbol. It tells a specific human story with specificity and care, and its traditional score reflects how consistently it affirms family, faith in individual capacity, and the power of community support without any ideological overlay.</p>
+      <p><a href="/reviews/i-swear-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of I Swear</a></p>
+
+      <hr>
+
+      <h2>#6 - Ford v Ferrari (2019)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20.1 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2 &bull; <strong>Trad Score:</strong> 22.05 &bull; <strong>Year:</strong> 2019</p>
+      <p>James Mangold's film about Carroll Shelby, Ken Miles, and the 1966 Le Mans race is a near-perfect traditional action-biography. Two men with extraordinary competence, a shared obsession with winning, and a genuine friendship navigating a corporate bureaucracy that wants to sand down their edges. The film is explicitly about individual excellence versus institutional mediocrity, and it picks a clear side. Matt Damon and Christian Bale are both operating at full capacity. One of the best traditionally-scored biographical films of the last decade and not a political statement in sight.</p>
+      <p><a href="/reviews/ford-v-ferrari-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ford v Ferrari</a></p>
+
+      <hr>
+
+      <h2>#7 - Father Stu (2022)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19.8 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2 &bull; <strong>Trad Score:</strong> 21.84 &bull; <strong>Year:</strong> 2022</p>
+      <p>Mark Wahlberg financed this Catholic boxing biopic himself after studios passed. The story of Stuart Long, a boxer who became a priest after a near-fatal accident and then lived with a degenerative muscle disease while ministering to prisoners, is one of the most unlikely true stories in modern American Catholicism. The film does not soften his rough edges or sentimentalize his faith. It takes seriously the idea that suffering has redemptive meaning. A genuine act of religious filmmaking in an era when Hollywood treats faith as a demographic, not a conviction.</p>
+      <p><a href="/reviews/father-stu-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Father Stu</a></p>
+
+      <hr>
+
+      <h2>#8 - Hacksaw Ridge (2016)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19.0 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2.4 &bull; <strong>Trad Score:</strong> 21.35 &bull; <strong>Year:</strong> 2016</p>
+      <p>Mel Gibson's film about Desmond Doss, the Seventh-day Adventist conscientious objector who refused to carry a weapon and saved 75 men at the Battle of Okinawa, is one of the most straightforwardly faithful films Hollywood has produced in this century. Doss's faith is presented as real, admirable, and the direct cause of his extraordinary courage. The combat sequences are among the most visceral ever filmed. The contrast between Doss's gentleness and the violence surrounding him is handled without irony. This is a film that believes in its protagonist's God without qualification.</p>
+      <p><a href="/reviews/hacksaw-ridge-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Hacksaw Ridge</a></p>
+
+      <hr>
+
+      <h2>#9 - Song Sung Blue (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18.9 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 3.6 &bull; <strong>Trad Score:</strong> 22.54 &bull; <strong>Year:</strong> 2025</p>
+      <p>Craig Brewer found a true story so improbable and so genuinely joyful that he simply got out of its way. This biographical drama anchors itself in family, redemption, and the kind of second-chance narrative that Hollywood once made regularly. The film does not lecture. It does not position its subject as a symbol for a contemporary cause. It tells a specific story about specific people with warmth and humor and earns its emotional moments because it built to them honestly. A quietly excellent traditional-values film that deserves more attention than it received.</p>
+      <p><a href="/reviews/song-sung-blue-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Song Sung Blue</a></p>
+
+      <hr>
+
+      <h2>#10 - Tombstone (1993)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16.4 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 1.4 &bull; <strong>Trad Score:</strong> 17.78 &bull; <strong>Year:</strong> 1993</p>
+      <p>Tombstone is one of the best Westerns ever made and its traditional score reflects that. The friendship between Wyatt Earp and Doc Holliday is the film's beating heart: two men who have nothing left to prove except to each other, standing up for something in a lawless town because it is the right thing to do. Val Kilmer's Doc Holliday is one of the great supporting performances in American film. The film presents justice, male loyalty, and moral courage as unambiguous goods. It does not hedge. It does not deconstruct. It just tells the story of men who drew a line and held it.</p>
+      <p><a href="/reviews/tombstone-1993/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Tombstone</a></p>
+
+      <hr>
+
+      <h2>#11 - The Greatest Showman (2017)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13.3 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 7.28 &bull; <strong>Trad Score:</strong> 20.58 &bull; <strong>Year:</strong> 2017</p>
+      <p>Critics savaged this film at 55% on Rotten Tomatoes. Audiences gave it a 90% audience score and made it a global phenomenon. The P.T. Barnum story lends itself to multiple readings, and The Greatest Showman chooses the most joyful one: a man who built a spectacle that celebrated human difference and turned outsiders into stars. The film's traditional score is driven by its celebration of entrepreneurship, family restoration, and the American dream of building something from nothing. The woke score rises because the "otherness" framing occasionally tips into identity politics territory, but the net margin is solidly traditional.</p>
+      <p><a href="/reviews/greatest-showman-2017/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Greatest Showman</a></p>
+
+      <hr>
+
+      <h2>#12 - Air (2023)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12.8 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2.4 &bull; <strong>Trad Score:</strong> 15.2 &bull; <strong>Year:</strong> 2023</p>
+      <p>Ben Affleck directed and co-starred in this drama about Nike's pitch for the Air Jordan deal in 1984. It is 112 minutes about a sneaker negotiation and it is completely riveting, because it is actually about something real: the belief that one person, with one impossible idea, can change an entire industry by refusing to accept what everyone else accepts as the ceiling. Matt Damon plays Sonny Vaccaro as a true believer in a way that feels almost religious. The film's traditional score reflects its consistent affirmation of competence, persuasion, and individual conviction over institutional consensus.</p>
+      <p><a href="/reviews/air-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Air</a></p>
+
+      <hr>
+
+      <h2>#13 - Cabrini (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12.0 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 3 &bull; <strong>Trad Score:</strong> 15 &bull; <strong>Year:</strong> 2024</p>
+      <p>Angel Studios released this story of Frances Xavier Cabrini, an Italian immigrant nun who built a hospital empire in New York despite being told by the Catholic Church hierarchy that she was too frail and too female for the work. The film is a genuine faith biography: Cabrini's power comes from her relationship with God, not from a feminist awakening. Some will see a proto-feminist story here, but the film's framing is explicitly Catholic. Cabrini succeeds because of faith and an iron will, not because she rejected the Church. Angel Studios knows its audience, and this is exactly the kind of story that audience wants told honestly.</p>
+      <p><a href="/reviews/cabrini-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cabrini</a></p>
+
+      <hr>
+
+      <h2>#14 - GoodFellas (1990)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11.0 TRADITIONAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 2 &bull; <strong>Trad Score:</strong> 13 &bull; <strong>Year:</strong> 1990</p>
+      <p>Scorsese's biographical crime epic scores traditional for reasons that might surprise you. GoodFellas is not a celebration of the mob. It is a cautionary story about men who rejected legitimate paths to success in favor of shortcuts, built a world on violence and betrayal, and eventually lost everything. Henry Hill ends the film in witness protection, having destroyed everyone he loved. The film's loyalty codes, masculine hierarchy, and family structure read as genuinely traditional. The criminality is the corruption of those values, not a replacement for them. Scorsese made a moral film. It just does not announce itself as one.</p>
+      <p><a href="/reviews/goodfellas-1990/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of GoodFellas</a></p>
+
+      <hr>
+
+      <h2>#15 - California Schemin' (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7.8 TRADITIONAL LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 3.14 &bull; <strong>Trad Score:</strong> 10.89 &bull; <strong>Year:</strong> 2026</p>
+      <p>James McAvoy stars in this biographical crime-comedy about two young men who built a surf brand on a fabricated origin story. The film is warmer than it sounds, grounding its con-artist premise in genuine friendship and the price of ambition pursued without integrity. Its traditional lean comes from how seriously the film takes consequences: the lies compound, the friendship strains, and the ending does not let them off the hook. It is not a moral lecture, but it is a moral story, which is enough to separate it from films that treat deception as character development without cost.</p>
+      <p><a href="/reviews/california-schemin-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of California Schemin'</a></p>
+
+      <hr>
+
+      <h2>#16 - Till (2022)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7.7 TRADITIONAL LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 10.29 &bull; <strong>Trad Score:</strong> 17.99 &bull; <strong>Year:</strong> 2022</p>
+      <p>Chinonye Chukwu's film is not about Emmett Till. It is about Mamie Till, and that distinction elevates it above the civil rights drama formula. Danielle Deadwyler delivers one of the most devastating performances in recent American film as a mother who refused to let her son's murder be buried. The film is driven by maternal love and moral courage: Mamie Till insisted on an open casket because she wanted the world to see what was done to her son. Those are traditionally rooted values even in a story about racial injustice. The woke score rises from contemporary racial framing, but the net margin lands in traditional lean because the film's emotional core is a mother's refusal to submit.</p>
+      <p><a href="/reviews/till-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Till</a></p>
+
+      <hr>
+
+      <h2>#17 - Remember the Titans (2000)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7.1 TRADITIONAL LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 9.14 &bull; <strong>Trad Score:</strong> 16.24 &bull; <strong>Year:</strong> 2000</p>
+      <p>Denzel Washington coaches a newly integrated Virginia football team in 1971. The film earns its traditional lean through its explicit affirmation of shared excellence, masculine leadership, and team unity over racial division. Coach Boone demands his players become a team before they become anything else. The woke score rises because the film's racial integration premise is handled with contemporary framing, but the net result is a film that believes merit, hard work, and shared purpose can overcome anything. That is a traditional message regardless of the racial composition of the cast.</p>
+      <p><a href="/reviews/remember-the-titans-2000/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Remember the Titans</a></p>
+
+      <hr>
+
+      <h2>#18 - I'm Still Here (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6.7 TRADITIONAL LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 10.54 &bull; <strong>Trad Score:</strong> 17.24 &bull; <strong>Year:</strong> 2024</p>
+      <p>Walter Salles made the most restrained political film of the decade. This Brazilian drama tells the true story of Eunice Paiva, whose husband was disappeared by the military dictatorship in 1971, and who spent decades demanding the truth about what happened to him. The film earns its traditional lean because Eunice's resistance is rooted in family, not ideology. She does not become a political activist. She becomes a mother and wife who refuses to accept a lie. That specificity separates it from the political film genre. The emotional engine is maternal devotion, and the film trusts it completely.</p>
+      <p><a href="/reviews/im-still-here-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of I'm Still Here</a></p>
+
+      <hr>
+
+      <h2>#19 - Michael (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5.4 TRADITIONAL LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 11.88 &bull; <strong>Trad Score:</strong> 17.29 &bull; <strong>Year:</strong> 2026</p>
+      <p>Michael Jackson is the most complicated subject a biopic could attempt in 2026. The authorized biopic produced by the Jackson estate does not engage with the abuse allegations. It focuses on artistry, childhood trauma under Joe Jackson's brutal management, and the loneliness of being the most famous person on earth. The traditional lean comes from the film's genuine affirmation of family -- even a deeply dysfunctional one -- as the source of both Michael's gifts and his wounds. The woke score rises from racial and identity content inherent to Motown and Michael's own story. It is not a progressive screed. It is a tragedy about genius and the cost of fame.</p>
+      <p><a href="/reviews/michael-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Michael</a></p>
+
+      <hr>
+
+      <h2>#20 - Bohemian Rhapsody (2018)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5.3 TRADITIONAL LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 7.88 &bull; <strong>Trad Score:</strong> 13.18 &bull; <strong>Year:</strong> 2018</p>
+      <p>The Queen biopic presents a genuinely complicated case. Freddie Mercury's homosexuality is central to the story, but the film frames his identity struggles as a threat to the band and his family relationships, not as liberation. The movie is structured as a redemption arc where Freddie returns to his chosen family -- the band -- after nearly destroying it through excess and bad decisions. The traditional lean reflects the film's consistent affirmation of creative brotherhood and the chosen family as the source of stability that individual excess cannot replace. The emotional resolution is conservatively structured even if the content is not.</p>
+      <p><a href="/reviews/bohemian-rhapsody-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Bohemian Rhapsody</a></p>
+
+      <hr>
+
+      <h2>#21 - Bob Marley: One Love (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5.0 TRADITIONAL LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 11 &bull; <strong>Trad Score:</strong> 16 &bull; <strong>Year:</strong> 2024</p>
+      <p>The authorized Marley biopic focuses on the 1976-1977 period: the assassination attempt, the Smile Jamaica concert, the Exodus album. Marley's Rastafarian faith is central and treated with genuine respect. The film's traditional lean comes from its consistent affirmation of faith, family, and Marley's belief in love as a real force rather than a political slogan. The woke score rises from the racial politics that are inseparable from Marley's story and his explicit anti-Babylon messaging. But the film's emotional core is a man of deep faith whose music came from something spiritual. That framing earns a positive margin even amid charged political content.</p>
+      <p><a href="/reviews/bob-marley-one-love-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Bob Marley: One Love</a></p>
+
+      <hr>
+
+      <h2>#22 - Blue Moon (2025)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score mixed">MARGIN: +2.5 MIXED</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 11.54 &bull; <strong>Trad Score:</strong> 14.07 &bull; <strong>Year:</strong> 2025</p>
+      <p>Richard Linklater's chamber drama about lyricist Lorenz Hart on the opening night of Carousel earns its mixed score honestly. Hart's story is inseparable from his closeted homosexuality and the self-destruction it fueled, and Linklater does not pretend otherwise. The film is warm toward its subject without being a contemporary identity narrative. Hart is presented as a man of his era, not a symbol for ours. Linklater is too good a filmmaker to let either side win cleanly: the traditional and woke scores nearly cancel out because the film genuinely holds the tension between the beauty of what Hart created and the costs of the life he lived.</p>
+      <p><a href="/reviews/blue-moon-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Blue Moon</a></p>
+
+      <hr>
+
+      <h2>#23 - Better Man (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score mixed">MARGIN: +2.0 MIXED</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 10 &bull; <strong>Trad Score:</strong> 12 &bull; <strong>Year:</strong> 2024</p>
+      <p>Michael Gracey's decision to portray Robbie Williams as a CGI chimpanzee is either a stroke of brilliance or a catastrophic gimmick. Regardless, the film's content is more interesting than its production choices. Williams's story is one of fame-induced self-destruction, absent fatherhood, and the search for validation from a parent who was never present. The film's mixed score reflects genuine tension between traditional themes -- family wounds, the costs of fame, addiction as self-medication -- and progressive framing of identity and sexuality. Neither side fully wins, which is exactly what a mixed verdict means.</p>
+      <p><a href="/reviews/better-man-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Better Man</a></p>
+
+      <hr>
+
+      <h2>#24 - A Complete Unknown (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score mixed">MARGIN: +2.0 MIXED</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 14 &bull; <strong>Trad Score:</strong> 16 &bull; <strong>Year:</strong> 2024</p>
+      <p>James Mangold's Bob Dylan biopic is secretly a film about the dangers of ideological conformity. Dylan goes electric not just as a musical choice but as a refusal to become the political symbol the folk movement needed him to be. That anti-conformity message cuts both ways: it can be read as individualism (traditional) or as liberation from cultural constraints (progressive). Timothee Chalamet's Dylan is not a hero or a villain -- he is a man who refused every box anyone tried to put him in. That refusal is the film's subject, and Mangold does not resolve it cleanly. Hence: mixed.</p>
+      <p><a href="/reviews/a-complete-unknown-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Complete Unknown</a></p>
+
+      <hr>
+
+      <h2>#25 - The Iron Claw (2023)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score mixed">MARGIN: +1.9 MIXED</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 9.2 &bull; <strong>Trad Score:</strong> 11.1 &bull; <strong>Year:</strong> 2023</p>
+      <p>Sean Durkin's film about the Von Erich wrestling dynasty is a haunting portrait of how family legacy and cultural values can become weapons. Fritz Von Erich built his sons to be champions and inadvertently destroyed them. The traditional score reflects the film's genuine engagement with masculine identity, family loyalty, and the costs of living under a patriarch's vision. The woke score rises because the film frames that patriarchal pressure as the source of tragedy. The Von Erich story does not yield to easy ideological conclusions, and Durkin is honest enough not to force one. It lands mixed because that is what it actually is.</p>
+      <p><a href="/reviews/the-iron-claw-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Iron Claw</a></p>
+
+      <hr>
+
+      <h2>#26 - Lorne (2026)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4.3 WOKE LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 10.92 &bull; <strong>Trad Score:</strong> 6.58 &bull; <strong>Year:</strong> 2026</p>
+      <p>Morgan Neville's documentary portrait of Lorne Michaels is well-made and genuinely revealing about how SNL shaped American comedy and culture. It is also a celebration of someone who has spent 50 years at the intersection of progressive media and liberal politics. The woke lean is not aggressive -- this is not a screed. But the film's uncritical admiration for Michaels and the world he built, including the SNL institutional culture that has lurched hard left in recent years, gives it a negative margin. Worth watching if you are curious about how comedy has been manufactured for half a century. Go in knowing whose vision it is celebrating.</p>
+      <p><a href="/reviews/lorne-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Lorne</a></p>
+
+      <hr>
+
+      <h2>#27 - The Social Network (2010)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6.3 WOKE LEAN</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 13.02 &bull; <strong>Trad Score:</strong> 6.74 &bull; <strong>Year:</strong> 2010</p>
+      <p>David Fincher and Aaron Sorkin made one of the sharpest films of the last 25 years, and its ideological position is complicated. The film is not a celebration of Zuckerberg. It is a prosecution. Every male character is morally compromised. The women are either props or victims. The vision of tech entrepreneurship it presents is one of theft, betrayal, and social destruction masquerading as innovation. Sorkin is a liberal writing from a liberal perspective, and the film's critique of Silicon Valley wealth is rooted in class resentment. A brilliant film with a woke lean that feels entirely consistent with Sorkin's worldview.</p>
+      <p><a href="/reviews/the-social-network-2010/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Social Network</a></p>
+
+      <hr>
+
+      <h2>#28 - The Apprentice (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -14.3 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Woke Score:</strong> 21 &bull; <strong>Trad Score:</strong> 6.65 &bull; <strong>Year:</strong> 2024</p>
+      <p>Ali Abbasi and Gabriel Sherman set out to make a film that explains Donald Trump as a product of Roy Cohn's manipulation, power worship, and amoral ambition. The film depicts a sexual assault. It frames Trump's entire worldview as the corruption of an impressionable young man by a sociopathic mentor. It is the most overtly political biographical film in recent American cinema, released weeks before the 2024 election. The production's timing, financing, and marketing choices make its agenda impossible to separate from its content. The highest negative score in our biographical film database and the most straightforwardly political entry on this list.</p>
+      <p><a href="/reviews/the-apprentice-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Apprentice</a></p>
+
+      <hr>
+
+      <h2>What This Ranking Tells You</h2>
+      <p>Biopics reveal ideology more clearly than almost any other genre, because the subject is real. The filmmaker cannot invent a conclusion. They choose which conclusion to emphasize. Reagan (2024) and The Apprentice (2024) are both biographical films about American political figures. They sit at opposite ends of this ranking because their filmmakers made opposite choices about what a life means and who gets to decide.</p>
+
+      <p>The most traditionally-scored biopics in our database -- Reagan, American Sniper, Society of the Snow, Hacksaw Ridge, Ford v Ferrari -- share a common trait: they take their subjects' own values seriously. They do not deconstruct the protagonist's beliefs from a position of contemporary superiority. They ask what it meant to live by those beliefs and what it cost. That is the difference between a biographical film and an ideological statement with a real person's name attached.</p>
+
+      <p>Browse all 28 full reviews at <a href="/">VirtueVigil.com</a> for complete trope-by-trope breakdowns. Search any title for the full score breakdown, or explore our <a href="/lists/">Lists</a> section for more ranked guides including <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>, <a href="/lists/highest-traditional-scores-all-time/">Highest Traditional Scores Ever</a>, and <a href="/lists/best-sports-movies-conservatives-all-time/">Best Sports Movies for Conservatives</a>.</p>
+
+    </article>`
+  }));
+
 } // close async wrapper
 
 // Run the build
