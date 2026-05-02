@@ -21880,7 +21880,97 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
 
-} // close async wrapper
+  // ============================================
+  // LISTICLE: Every 2026 Romance Movie Ranked by Woke Score
+  // Added: 2026-05-02 (Destiny cron)
+  // ============================================
+  function buildRomanceMovies2026WokeRankingListicle() {
+  writePage('lists/romance-movies-2026-woke-ranking/index.html', buildListiclePage({
+    slug: 'romance-movies-2026-woke-ranking',
+    title: 'Every 2026 Romance Movie Ranked by Woke Score',
+    description: 'All 9 reviewed 2026 romance films ranked from most traditional to most woke using VirtueVigil scores. From Solo Mio to The Drama, know what you are getting before you watch.',
+    canonicalPath: 'lists/romance-movies-2026-woke-ranking',
+    publishDate: '2026-05-02',
+    htmlContent: `<article class="listicle-article">
+  <p>Romance in 2026 is a divided genre. On one end, you have films like Solo Mio and You, Me &amp; Tuscany that still believe in love as something worth building a life around. On the other, you have The Drama asking audiences to root for a character who planned a school shooting, and The Bride! reframing the Frankenstein monster as a feminist manifesto. The distance between those two poles tells you everything about where Hollywood romantic storytelling is headed in 2026.</p>
+
+  <p>VirtueVigil reviewed every major 2026 romance release using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across categories including gender politics, relationship framing, sexual content, religious critique, and institutional authority. This list ranks all 9 reviewed 2026 romance films from most traditional to most woke. Every entry links to the full review. If you want to know what to watch and what to skip, start here.</p>
+
+  <hr>
+
+  <h2>#1 Most Traditional &mdash; Solo Mio (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> +21 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Romance / Comedy / Drama</p>
+  <p>Kevin James plays Matt Taylor, a man who flies to Italy for his wedding only to be left at the altar with a note. Instead of flying home crushed, he stays in Tuscany and rebuilds himself. Solo Mio is a film about masculine resilience, the beauty of slowing down, and why showing up still matters. It does not lecture. It does not hedge. James delivers a performance that is genuinely surprising in its range, and the film earns every warm moment through honest storytelling rather than ideology. The highest traditional score of any 2026 romance film we reviewed.</p>
+  <p><a href="/reviews/solo-mio-2026/">Read the full VirtueVigil review of Solo Mio (2026)</a></p>
+
+  <hr>
+
+  <h2>#2 &mdash; You, Me &amp; Tuscany (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> +17 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Romantic Comedy</p>
+  <p>Kat Coiro's wide-release romantic comedy stars Halle Bailey as Anna, a young drifter who crashes at an Italian villa and falls for Michael (Reg&eacute;-Jean Page). You, Me &amp; Tuscany is an uncynical film. It celebrates romantic love as transformative, honors family loyalty, and shows a woman finding purpose through courage and connection. No ideological baggage. No lectures. Just a romantic comedy that believes in romance. A rare thing in 2026.</p>
+  <p><a href="/reviews/you-me-tuscany-2026/">Read the full VirtueVigil review of You, Me &amp; Tuscany (2026)</a></p>
+
+  <hr>
+
+  <h2>#3 &mdash; Fantasy Life (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> +14 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Comedy / Romance / Drama</p>
+  <p>Matthew Shear wrote, directed, and stars in this small-budget New York indie about Sam, a paralegal navigating job loss and romantic uncertainty. Fantasy Life is the kind of romantic comedy that feels made by someone who actually believes in love, and it shows. Shear's Sam is a man who shows up for the people in his life, including children who are not his responsibility, and the film treats that as heroic because it is. Premiered at SXSW. Quietly one of the best romance films of 2026.</p>
+  <p><a href="/reviews/fantasy-life-2026/">Read the full VirtueVigil review of Fantasy Life (2026)</a></p>
+
+  <hr>
+
+  <h2>#4 &mdash; Reminders of Him (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> +11 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Romance / Drama</p>
+  <p>Based on the Colleen Hoover novel, Reminders of Him follows a mother who served time in prison and returns to fight for a relationship with the daughter she has never known. Director Vanessa Caswill keeps the focus on emotional honesty rather than ideology. The result is a tearjerker built around one of the most traditional premises in modern romance fiction: a parent's love that cannot be extinguished by tragedy. A woke-leaning ex-convict framing partially undercuts the moral clarity, but the core values hold.</p>
+  <p><a href="/reviews/reminders-of-him-2026/">Read the full VirtueVigil review of Reminders of Him (2026)</a></p>
+
+  <hr>
+
+  <h2>#5 &mdash; People We Meet on Vacation (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> -3 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Genre:</strong> Romantic Comedy</p>
+  <p>Emily Henry's BookTok juggernaut gets a film adaptation with two attractive leads and a decade-spanning will-they-won't-they structure. The film delivers exactly what its audience expects: beautiful international locations, crackling chemistry, and an emotional ending that earns its payoff. The woke lean comes from progressive lifestyle framing throughout the relationship arc, but the fundamental commitment to romantic love and earned commitment keeps it from tipping fully into ideological territory. A perfectly pleasant date movie with minor reservations.</p>
+  <p><a href="/reviews/people-we-meet-on-vacation-2026/">Read the full VirtueVigil review of People We Meet on Vacation (2026)</a></p>
+
+  <hr>
+
+  <h2>#6 &mdash; Bridgerton: Season 4 (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> -6 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Genre:</strong> Regency Romance Drama</p>
+  <p>Netflix's Regency romance franchise returns for its fourth season with a Cinderella structure dropped into a version of historical England that bears no resemblance to the real thing. Bridgerton Season 4 keeps the beautiful architecture, the costumes, and the romantic tension while stripping away the social realities that made the period interesting. The post-racial historical revisionism is the primary ideological driver. As comfort fantasy it functions. As historical romance it does not survive scrutiny.</p>
+  <p><a href="/reviews/bridgerton-season-4-2026/">Read the full VirtueVigil review of Bridgerton: Season 4 (2026)</a></p>
+
+  <hr>
+
+  <h2>#7 &mdash; Wuthering Heights (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> -9 WOKE &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Genre:</strong> Gothic Romance / Drama</p>
+  <p>Emerald Fennell directed this adaptation of Emily Bronte's classic, and the Promising Young Woman director's fingerprints are on every frame. Wuthering Heights has always been a story about obsessive, destructive love, but Fennell's version bends the gothic elements into a vehicle for contemporary gender politics. The woke score of 35 sits at the top of the WOKE LEAN band. Heathcliff's rage and Cathy's rebellion are reimagined through a modern lens that shifts the moral weight in ways Bronte never intended. Technically impressive. Ideologically pointed.</p>
+  <p><a href="/reviews/wuthering-heights-2026/">Read the full VirtueVigil review of Wuthering Heights (2026)</a></p>
+
+  <hr>
+
+  <h2>#8 &mdash; The Bride! (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> -14 WOKE &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Gothic Romance / Horror</p>
+  <p>Maggie Gyllenhaal's gothic romance reimagines the Bride of Frankenstein as a feminist manifesto. Set in 1936 Chicago, a murdered woman named Ida (Jessie Buckley) is brought back to life and told her purpose is to serve the monster who created her. The climax includes an explicit on-screen reference designed to remove any ambiguity about the director's intent. The Bride! does not pretend to be subtle. It is an argument about bodily autonomy and institutional control delivered through Universal Monsters iconography. Technically accomplished and ideologically aggressive in equal measure.</p>
+  <p><a href="/reviews/the-bride-2026/">Read the full VirtueVigil review of The Bride! (2026)</a></p>
+
+  <hr>
+
+  <h2>#9 Most Woke &mdash; The Drama (2026)</h2>
+  <p><strong>VirtueVigil Score:</strong> -14 WOKE &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Dark Comedy / Romance / Drama</p>
+  <p>Kristoffer Borgli's A24 film stars Zendaya and Robert Pattinson as a couple about to be married who discover during their wedding week that Emma once planned a school shooting as a teenager. The Drama frames this revelation as a difficult conversation to be worked through, not a moral dealbreaker. It asks the audience to extend sympathy to a character who planned mass murder of children, and does so with enough craft and star power that many critics complied. Zendaya and Pattinson are genuinely brilliant. The film's premise is genuinely indefensible. Both things are true. Opened to $13M with a 79% on Rotten Tomatoes from critics who missed the point entirely.</p>
+  <p><a href="/reviews/the-drama-2026/">Read the full VirtueVigil review of The Drama (2026)</a></p>
+
+  <hr>
+
+  <h2>What 2026 Romance Tells You About Hollywood</h2>
+  <p>The best 2026 romance films share a common quality: they believe that love is worth something. Solo Mio, You, Me &amp; Tuscany, Fantasy Life, and Reminders of Him all treat romantic commitment as meaningful rather than provisional, and they do not require their characters to dismantle traditional structures to earn a happy ending. The films that score woke treat romance as either a vehicle for ideology or a backdrop for progressive ideas about identity and power. That split is not accidental. It reflects two different understandings of what love stories are for. VirtueVigil will keep scoring them so you always know which you are getting before you sit down to watch.</p>
+
+  <p>Browse the full <a href="/reviews/">VirtueVigil review archive</a> for complete scores on every film we have analyzed. If a 2026 romance title is missing from this list, it has not yet been reviewed. Check back as new releases are scored throughout the year.</p>
+</article>`
+  }));
+  }
+  buildRomanceMovies2026WokeRankingListicle();
+
+} // close buildSite async wrapper
 
 // Run the build
 buildSite().catch(err => { console.error('Build failed:', err); process.exit(1); });
