@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/logan-2017.jpg"
   },
   {
+    "slug": "it-2017",
+    "title": "It",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror / Coming-of-Age",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 7.4,
+    "tradScore": 15.54,
+    "poster": "/images/posters/it-2017.jpg"
+  },
+  {
     "slug": "the-color-purple-2023",
     "title": "The Color Purple",
     "verdict": "WOKE LEAN",
