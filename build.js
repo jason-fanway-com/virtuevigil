@@ -21970,6 +21970,127 @@ function buildThrillerMovies2025WokeRankingListicle() {
   }
   buildRomanceMovies2026WokeRankingListicle();
 
+  // Every 2024 Horror Movie Ranked by Woke Score
+  function buildHorrorMovies2024WokeRankingListicle() {
+    writePage('lists/horror-movies-2024-woke-ranking/index.html', buildListiclePage({
+      slug: 'horror-movies-2024-woke-ranking',
+      title: 'Every 2024 Horror Movie Ranked by Woke Score',
+      description: 'All 14 reviewed 2024 horror films ranked from most woke to most traditional. VirtueVigil scores every 2024 horror release from Heretic to The Watchers.',
+      canonicalPath: 'lists/horror-movies-2024-woke-ranking',
+      publishDate: '2026-05-03',
+      htmlContent: `<article class="listicle-article">
+      <p>Horror is Hollywood's most efficient ideological delivery system. The genre gives filmmakers cover: wrap a message in jump scares and darkness and audiences absorb it before the lights come on. In 2024, horror delivered some of the most aggressively ideological films in recent memory alongside a few genuine entries that played it straight.</p>
+      <p>We scored all 14 reviewed 2024 horror films in the VirtueVigil database using our Woke-Watch Scoring System. Rankings run from most ideologically loaded to most traditionally grounded. Positive net scores lean woke. Negative net scores lean traditional. If you want to know what you are walking into before movie night, this is your guide.</p>
+
+      <hr>
+      <h2>#1 &mdash; <a href="/reviews/heretic-2024/">Heretic (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge strongly-woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 41</span><span class="mini-score trad">TRAD: 14</span><span class="mini-score" style="color:#c44040;">NET: +27 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>The most ideologically charged horror film of 2024 by a significant margin. Two Mormon missionaries visit a man's home and spend 90 minutes being dismantled by Hugh Grant's intellectually seductive atheist. The film's central thesis is that religion is an evolutionary system of control, and the missionaries are given no effective rebuttal. Their silence is the point. This is not a horror film that touches on religion. It is a theological assault on Christianity using the genre as a delivery mechanism. Net woke plus 27.</p>
+      <p><a href="/reviews/heretic-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#2 &mdash; <a href="/reviews/the-substance-2024/">The Substance (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge strongly-woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 37</span><span class="mini-score trad">TRAD: 13</span><span class="mini-score" style="color:#c44040;">NET: +24 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Coralie Fargeat's body horror spectacle uses 21,000 liters of fake blood to make one argument: Hollywood destroys women. The male executive who fires the protagonist is shot through a fish-eye lens that turns him into a grotesque caricature. Men in this film are predators or leering grotesques without exception. The female body becomes a metaphor for patriarchal violence. Technically audacious and completely merciless in its feminist fury. Net woke plus 24.</p>
+      <p><a href="/reviews/the-substance-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#3 &mdash; <a href="/reviews/immaculate-2024/">Immaculate (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge strongly-woke">STRONGLY WOKE</span><span class="mini-score woke">WOKE: 29</span><span class="mini-score trad">TRAD: 8</span><span class="mini-score" style="color:#c44040;">NET: +21 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Sydney Sweeney spent years developing this as a vehicle for a specific message. An American nun arrives at an Italian convent and discovers the Church has been running a forced conception experiment to produce a second Christ. Reproductive autonomy is the explicit thesis. Any institution that overrides a woman's bodily choice, including the Catholic Church, is the horror villain. A significant woke trap for devout Catholic audiences going in blind. Net woke plus 21.</p>
+      <p><a href="/reviews/immaculate-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#4 &mdash; <a href="/reviews/maxxxine-2024/">MaXXXine (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke">WOKE</span><span class="mini-score woke">WOKE: 32</span><span class="mini-score trad">TRAD: 14</span><span class="mini-score" style="color:#c44040;">NET: +18 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Crime</p>
+      <p>The third film in Ti West's X trilogy drops Mia Goth into 1985 Los Angeles, where the Moral Majority is the monster. The film's villain is a televangelist conservative orchestrating murders to stop a porn star's Hollywood crossover. Sex work is morally neutral. The protagonist killing her own fundamentalist father is the triumphant climax. VirtueVigil scored it WOKE at net plus 18.</p>
+      <p><a href="/reviews/maxxxine-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#5 &mdash; <a href="/reviews/lisa-frankenstein-2024/">Lisa Frankenstein (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke-lean">WOKE LEAN</span><span class="mini-score woke">WOKE: 7</span><span class="mini-score trad">TRAD: 2</span><span class="mini-score" style="color:#c44040;">NET: +5 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Diablo Cody's horror comedy about a teenage girl who resurrects a Victorian corpse and begins a relationship with him. The horror elements are largely comedic and the ideology lands softly, but the premise normalizes necromantic romance and positions the protagonist's suburban domesticity as something to escape rather than protect. Net woke plus 5 places it in the lower tier of the woke cohort from 2024.</p>
+      <p><a href="/reviews/lisa-frankenstein-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#6 &mdash; <a href="/reviews/speak-no-evil-2024/">Speak No Evil (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge woke-lean">WOKE LEAN</span><span class="mini-score woke">WOKE: 9.18</span><span class="mini-score trad">TRAD: 6.78</span><span class="mini-score" style="color:#c44040;">NET: +2.4 WOKE</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Thriller</p>
+      <p>One of the most uncomfortable films of 2024. A clinical, precise horror film about a man who cannot protect his family because he has outsourced confrontation to social norms his entire life. The subtext around male passivity and the failure of polite compliance to ward off genuine predation gives it a complicated ideological reading. The woke lean is narrow at plus 2.4, and the film earns its darkness honestly. A tonal outlier in 2024 horror.</p>
+      <p><a href="/reviews/speak-no-evil-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#7 &mdash; <a href="/reviews/a-quiet-place-day-one-2024/">A Quiet Place: Day One (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 12.6</span><span class="mini-score trad">TRAD: 11.62</span><span class="mini-score" style="color:#999;">NET: +1.0 MIXED</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Sci-Fi</p>
+      <p>A genuinely well-made survival horror film with real emotional weight that scores almost precisely split. A terminally ill cancer patient caught in an alien invasion on her last good day gets a story that could have played either direction. The franchise's survival instincts and traditional family dynamics pull one way while the lead's identity markers pull the other. The result is essentially neutral at net plus 1, making it the closest thing to an ideologically honest blockbuster in the 2024 horror class.</p>
+      <p><a href="/reviews/a-quiet-place-day-one-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#8 &mdash; <a href="/reviews/terrifier-3-2024/">Terrifier 3 (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 8.22</span><span class="mini-score trad">TRAD: 10.92</span><span class="mini-score" style="color:#4a9e6b;">NET: -2.7 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Slasher</p>
+      <p>Art the Clown returns for Christmas in the most graphically violent mainstream horror release of 2024. Damien Leone's micro-budget franchise operates entirely outside the ideological economy of prestige horror. There is no thesis. There is no message. There is Art the Clown and what he does to everyone who encounters him. The traditional lean is slight at minus 2.7, mostly from the absence of progressive framing rather than any affirmative values messaging. For pure genre fans who want horror without a lecture, Terrifier 3 delivers.</p>
+      <p><a href="/reviews/terrifier-3-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#9 &mdash; <a href="/reviews/smile-2-2024/">Smile 2 (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge mixed">MIXED</span><span class="mini-score woke">WOKE: 8.1</span><span class="mini-score trad">TRAD: 10.92</span><span class="mini-score" style="color:#4a9e6b;">NET: -2.8 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror, Mystery, Thriller</p>
+      <p>Parker Finn's sequel is bigger, louder, and more technically ambitious than its predecessor. It is also, paradoxically, a more traditionally structured morality tale. The curse transfers through suffering and the narrative arc follows cause and consequence without exempting its protagonist from accountability. The celebrity context gives it a sharper edge than the first film. Scores MIXED with a slight traditional lean at minus 2.8. One of the more ideologically honest mainstream horror films of 2024.</p>
+      <p><a href="/reviews/smile-2-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#10 &mdash; <a href="/reviews/alien-romulus-2024/">Alien: Romulus (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad-lean">TRADITIONAL LEAN</span><span class="mini-score woke">WOKE: 5</span><span class="mini-score trad">TRAD: 8</span><span class="mini-score" style="color:#4a9e6b;">NET: -3 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>The best Alien film since James Cameron's Aliens in 1986. Fede Alvarez stripped the franchise back to its essential elements: desperate people in a confined space being hunted by something that wants to use their bodies as incubators. The film's survival instincts are pure. The characters protect each other, the stakes are real, and the ideology stays out of it. A clean traditional lean at minus 3. Safe for conservative horror fans who loved the original franchise.</p>
+      <p><a href="/reviews/alien-romulus-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#11 &mdash; <a href="/reviews/abigail-2024/">Abigail (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad-lean">TRADITIONAL LEAN</span><span class="mini-score woke">WOKE: 3</span><span class="mini-score trad">TRAD: 6</span><span class="mini-score" style="color:#4a9e6b;">NET: -3 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Radio Silence's vampire heist film does exactly what it promises and does it with more craft than the premise deserves. A locked-room thriller about mercenaries who discover the girl they kidnapped is a centuries-old vampire. The film earns its lean through professional competence, clear moral stakes, and a story that does not need ideology to function. Pure genre entertainment at minus 3.</p>
+      <p><a href="/reviews/abigail-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#12 &mdash; <a href="/reviews/nosferatu-2024/">Nosferatu (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad-lean">TRADITIONAL LEAN</span><span class="mini-score woke">WOKE: 4</span><span class="mini-score trad">TRAD: 9</span><span class="mini-score" style="color:#4a9e6b;">NET: -5 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>Robert Eggers' remake is one of the most uncompromisingly traditional horror films made by a major director in the past decade. He takes Murnau's 1922 silent masterpiece and Bram Stoker's novel behind it and treats them with a reverence that refuses any contemporary political grafting. The Gothic structure, the spiritual stakes, the masculine heroism that ultimately matters in the final act, all of it runs counter to the ideological grain of prestige horror. One of the safest picks in 2024 horror. Net traditional minus 5.</p>
+      <p><a href="/reviews/nosferatu-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#13 &mdash; <a href="/reviews/longlegs-2024/">Longlegs (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad-lean">TRADITIONAL LEAN</span><span class="mini-score woke">WOKE: 6</span><span class="mini-score trad">TRAD: 11</span><span class="mini-score" style="color:#4a9e6b;">NET: -5 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror</p>
+      <p>The most unnerving American horror film of 2024, and one of the few in recent memory that takes Satanism seriously as a moral force rather than ironic aesthetic. Osgood Perkins has made a deeply strange, deliberately disorienting film about a genuine supernatural evil and the investigator who must confront it. The traditional lean comes from the film's theological seriousness: evil is real here, and it demands a real response. Net traditional minus 5.</p>
+      <p><a href="/reviews/longlegs-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+      <h2>#14 &mdash; <a href="/reviews/the-watchers-2024/">The Watchers (2024)</a></h2>
+      <div class="listicle-scores"><span class="verdict-badge trad-lean">TRADITIONAL LEAN</span><span class="mini-score woke">WOKE: 3.8</span><span class="mini-score trad">TRAD: 13.65</span><span class="mini-score" style="color:#4a9e6b;">NET: -9.9 TRAD</span></div>
+      <p class="listicle-meta"><strong>Genre:</strong> Supernatural Horror / Fantasy</p>
+      <p>Ishana Night Shyamalan's directorial debut scores as the most traditionally grounded 2024 horror film in the database. The gap between its 27% critical score and 68% audience score tells you something: critics punished it for not conforming to prestige horror's ideological norms. The film's supernatural framework leans heavily on traditional myth, sacrifice, and moral order. It is more complete in its first act than its resolution, but as a values signal it is the clearest safe pick in the 2024 horror class. Net traditional minus 9.9.</p>
+      <p><a href="/reviews/the-watchers-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>What 2024 Horror Tells You About Hollywood</h2>
+      <p>Four of the fourteen 2024 horror films in VirtueVigil's database land in the strongly woke or woke categories. Those four films, Heretic, The Substance, Immaculate, and MaXXXine, share a common structure: traditional institutions (Christianity, domesticity, the Church, conservative moral culture) are the monster, and the protagonist's liberation from those institutions is the horror film's arc. This is not a coincidence. It is a pattern, and it runs through the prestige tier of 2024 horror consistently.</p>
+      <p>The traditional lean films in 2024 are notable for what they do not do. Nosferatu, Longlegs, and Alien: Romulus do not need to attack traditional values to generate tension. They use genre mechanics honestly. The Watchers scores highest on the traditional side precisely because it builds on mythological and moral frameworks rather than dismantling them.</p>
+      <p>Use VirtueVigil before you watch. The gap between a -27 and a -10 is the difference between a theological assault and a safe Friday night. Browse the full <a href="/lists/horror-movies-2025-woke-ranking/">2025 horror ranking</a>, <a href="/lists/woke-horror-movies-2024/">10 most woke 2024 horror films</a>, and the complete <a href="/reviews/">VirtueVigil review archive</a> for scores on every film we have analyzed.</p>
+</article>`
+    }));
+  }
+  buildHorrorMovies2024WokeRankingListicle();
+
 } // close buildSite async wrapper
 
 // Run the build
