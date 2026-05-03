@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/it-2017.jpg"
   },
   {
+    "slug": "blade-runner-2049-2017",
+    "title": "Blade Runner 2049",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi / Neo-Noir / Drama",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 16.6,
+    "tradScore": 16.24,
+    "poster": "/images/posters/blade-runner-2049-2017.jpg"
+  },
+  {
     "slug": "the-color-purple-2023",
     "title": "The Color Purple",
     "verdict": "WOKE LEAN",
