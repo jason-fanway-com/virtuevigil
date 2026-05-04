@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/red-notice-2021.jpg"
   },
   {
+    "slug": "the-gray-man-2022",
+    "title": "The Gray Man",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Action / Spy Thriller",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 8.04,
+    "tradScore": 14.49,
+    "poster": "/images/posters/the-gray-man-2022.jpg"
+  },
+  {
     "slug": "logan-2017",
     "title": "Logan",
     "verdict": "TRADITIONAL",
