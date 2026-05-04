@@ -1894,6 +1894,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/most-woke-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2025/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/highest-woke-scores-all-time/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-horror-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/disney-plus-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/date-night-movies-non-woke/`, changefreq: 'monthly', priority: '0.8' },
@@ -1922,6 +1923,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/animated-family-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/adventure-fantasy-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/biographical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/drama-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2843,6 +2845,7 @@ function buildListsHubPage() {
         'canceled-movies-reviewed',
         'dc-movies-woke-ranking',
         'highest-traditional-scores-all-time',
+        'highest-woke-scores-all-time',
         'hollywood-anti-american-movies',
         'mcu-movies-ranked-woke-score',
         'movies-attacking-traditional-values',
@@ -2857,6 +2860,7 @@ function buildListsHubPage() {
         'comedy-movies-woke-ranking-2024',
         'drama-movies-2026-woke-ranking',
         'drama-movies-2025-woke-ranking',
+        'drama-movies-2024-woke-ranking',
         'action-movies-2025-woke-ranking',
         'comedy-movies-2025-woke-ranking',
         'sci-fi-movies-2025-woke-ranking',
@@ -2906,6 +2910,7 @@ function buildListsHubPage() {
       'woke-sequels-more-woke-than-original': 'Woke Sequels More Woke Than the Original',
       'most-woke-movies-decade': 'Most Woke Movies of the Decade',
       'highest-traditional-scores-all-time': 'Highest Traditional Scores of All Time',
+      'highest-woke-scores-all-time': '10 Movies With the Highest Woke Scores Ever',
       'audience-vs-critic-scores-conservative': 'Audience vs Critic Scores (Conservative)',
       'movies-attacking-traditional-values': 'Movies Attacking Traditional Values',
       'hollywood-anti-american-movies': 'Hollywood Anti-American Movies',
@@ -2940,7 +2945,8 @@ function buildListsHubPage() {
       'sci-fi-movies-2025-woke-ranking': 'Every 2025 Sci-Fi Movie Ranked by Woke Score',
       'animated-family-movies-2025-woke-ranking': 'Every 2025 Animated & Family Movie Ranked by Woke Score',
       'adventure-fantasy-movies-2025-woke-ranking': 'Every 2025 Adventure & Fantasy Movie Ranked by Woke Score',
-      'biographical-movies-woke-ranking': 'Every Biographical Movie Ranked by Woke Score (All Time)'
+      'biographical-movies-woke-ranking': 'Every Biographical Movie Ranked by Woke Score (All Time)',
+      'drama-movies-2024-woke-ranking': 'Every 2024 Drama Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -10280,6 +10286,157 @@ function buildAppleTvWokeRankingListicle() {
         <p>The VirtueVigil scale is built to measure both directions. High woke scores warn you. High traditional scores reward you. This list shows what the top of the traditional side looks like: faith epics that treat God as real, patriotic films that treat America as worth defending, sports stories where discipline and sacrifice mean something, and animated films that trust kids with genuine moral stakes.</p>
         <p>Not every film here is a clean win. Zootopia 2 and Scarpetta score high on traditional content but get outpaced by their woke scores. That's worth knowing too. The database is honest about what's in every film, not just the headline verdict. Browse hundreds more scored reviews at <a href="https://virtuevigil.com/reviews/">virtuevigil.com</a>. Every film is ranked by both tradScore and wokeScore so you can make the call yourself. For more positive picks, see our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a> and <a href="/lists/highest-woke-scores-all-time/">10 Movies With the Highest Woke Scores Ever</a>.</p>
       </div>
+    </article>`
+  }));
+
+  writePage('lists/highest-woke-scores-all-time/index.html', buildListiclePage({
+    slug: 'highest-woke-scores-all-time',
+    title: '10 Movies With the Highest Woke Scores Ever (VirtueVigil Rankings)',
+    description: 'The 10 films with the highest raw woke scores in the entire VirtueVigil database, ranked from lowest to highest. A consumer protection list for conservative audiences.',
+    canonicalPath: 'lists/highest-woke-scores-all-time',
+    publishDate: '2026-05-04',
+    htmlContent: `<article class="listicle-article">
+      <p>The VirtueVigil database scores hundreds of films using a dual-axis methodology: one score measuring the density of progressive ideological content, one measuring traditional values. Most of the time we talk about net margins, which tell you the whole story in one number. But raw woke scores are worth examining on their own, because they tell you something different: not just that a film leans progressive, but how much ideological content was packed into the runtime.</p>
+
+      <p>A high raw woke score means the filmmakers made a choice to maximize progressive messaging. Sometimes that happens at the expense of traditional content. Sometimes it happens alongside genuine traditional elements, producing a muddled film that does not know what it is arguing for. Both cases are here. This list ranks the 10 films in the VirtueVigil database by the highest raw woke scores we have recorded. These are the record-setters. The all-time leaders. The films that earned a spot in the ideology hall of fame.</p>
+
+      <p>Rankings run from #10 to #1. Every film links to its full VirtueVigil review with the complete trope audit, creative team analysis, and parental guidance.</p>
+
+      <hr>
+
+      <h2>#10 &mdash; <a href="/reviews/the-creator-2023/">The Creator (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 35.88</span>
+        <span class="mini-score trad">TRAD: 4.9</span>
+        <span class="mini-score" style="color:#c44040;">NET: +31.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Director:</strong> Gareth Edwards &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Gareth Edwards made Rogue One, which was a good action film wearing Star Wars clothes. Then he made The Creator, which is a good-looking antiwar film wearing science fiction clothes, with a woke score of 35.88 and a traditional score of 4.9. That trad score is not a misprint. Almost nothing in this film registers as traditional. The AI beings at the center of the story are stand-ins for any marginalized group you care to name. The American military is the unambiguous villain. Human resistance fighters trying to destroy the AI are presented as the genocidal faction. The visual work is extraordinary. The ideology is a blunt instrument. For a film that cost $80 million and looked like $300 million, it is telling that the story it chose to tell is a sustained attack on Western military intervention dressed in future-war aesthetics.</p>
+      <p><a href="/reviews/the-creator-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Creator</a></p>
+
+      <hr>
+
+      <h2>#9 &mdash; <a href="/reviews/anora-2024/">Anora (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 36.0</span>
+        <span class="mini-score trad">TRAD: 10.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +26.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Director:</strong> Sean Baker &bull; <strong>Platform:</strong> Theatrical / A24</p>
+      <p>Best Picture at the 97th Academy Awards. Palme d'Or at Cannes. And a woke score of 36, which is the ninth highest in the VirtueVigil database. Sean Baker's film about a Brooklyn sex worker who briefly marries a Russian oligarch's son is not a quiet film ideologically. It presents sex work without moral judgment, frames conventional structures of family and marriage as tools of class oppression, and refuses its protagonist any redemption that looks like conventional morality. The Academy rewarded it with the highest honor in American cinema. Baker is a genuinely skilled filmmaker. His naturalism is disarming. That is exactly what makes a raw woke score of 36 worth flagging: it is not delivered like a lecture. It is embedded in the story so deeply that it functions as the story's entire nervous system. Traditional viewers were not the intended audience, and the film has no interest in pretending otherwise.</p>
+      <p><a href="/reviews/anora-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Anora</a></p>
+
+      <hr>
+
+      <h2>#8 &mdash; <a href="/reviews/the-substance-2024/">The Substance (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 37.0</span>
+        <span class="mini-score trad">TRAD: 13.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +24.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Director:</strong> Coralie Fargeat &bull; <strong>Platform:</strong> Theatrical / MUBI</p>
+      <p>Coralie Fargeat does not do subtext. The Substance is a body horror film about ageism and the male gaze, and Fargeat is not shy about saying so in every interview. A fading TV fitness star takes a black-market drug that creates a younger version of herself, and the film uses the body horror genre to deliver a sustained, furious argument about how women are consumed and discarded by entertainment. The woke score of 37 reflects a film that uses Cronenbergian excess as its delivery mechanism for feminist ideology. Demi Moore gives a genuinely harrowing performance. Margaret Qualley embodies detachment as a weapon. The final act is one of the most deliberately provocative sequences in recent mainstream horror. It is technically ambitious, morally certain, and relentless. If the goal was to make conservative audiences deeply uncomfortable, it succeeds. The raw score confirms this was not an accident.</p>
+      <p><a href="/reviews/the-substance-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Substance</a></p>
+
+      <hr>
+
+      <h2>#7 &mdash; <a href="/reviews/heretic-2024/">Heretic (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 41.0</span>
+        <span class="mini-score trad">TRAD: 14.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +27.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Directors:</strong> Scott Beck, Bryan Wood &bull; <strong>Platform:</strong> Theatrical / A24</p>
+      <p>Hugh Grant stars as a soft-spoken man who traps two Mormon missionaries in his home and proceeds to dismantle their faith using logic, manipulation, and an extended analysis of a Radiohead album. A woke score of 41 reflects the density of the anti-religious argument packed into what appears to be a horror film. Heretic is not horror in any conventional sense. It is a philosophical takedown of organized religion delivered through the mechanics of a bottle thriller. Grant's performance is magnetic and genuinely terrifying because his character is articulate, well-prepared, and persuasive. The missionaries are treated sympathetically but outmatched. The film gives faith a full hearing in order to dismantle it systematically. Scott Beck and Bryan Woods constructed a two-hour argument that religion is a control mechanism, and dressed it in enough genre clothing to get mainstream distribution. This is one of the most ideologically dense films of 2024, and the raw score confirms it.</p>
+      <p><a href="/reviews/heretic-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Heretic</a></p>
+
+      <hr>
+
+      <h2>#6 &mdash; <a href="/reviews/glass-onion-2022/">Glass Onion: A Knives Out Mystery (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 42.0</span>
+        <span class="mini-score trad">TRAD: 18.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +24.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Director:</strong> Rian Johnson &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Rian Johnson's second Benoit Blanc mystery is a satirical attack on disruptive tech billionaires, delivered as a murder mystery aboard a private island. The villain is a thinly veiled Elon Musk type whose entire identity is performance and whose genius is a con. The film's traditional score of 18 is pulled up by its mystery genre mechanics and the old-fashioned pleasure of watching a clever detective work. The woke score of 42 comes from a sustained satirical argument that wealthy tech visionaries are frauds whose employees and communities pay the price for their ego. Glass Onion is sharply written and well-made, which is precisely what keeps the ideology digestible for mainstream audiences. Johnson knows how to hide the agenda in the entertainment. The raw score cuts through that camouflage.</p>
+      <p><a href="/reviews/glass-onion-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Glass Onion</a></p>
+
+      <hr>
+
+      <h2>#5 &mdash; <a href="/reviews/conclave-2024/">Conclave (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 42.6</span>
+        <span class="mini-score trad">TRAD: 3.85</span>
+        <span class="mini-score" style="color:#c44040;">NET: +38.8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Director:</strong> Edward Berger &bull; <strong>Platform:</strong> Theatrical / Focus Features</p>
+      <p>The highest net woke margin in this top 10 belongs to Conclave, a prestige thriller about electing a new Pope that spends its entire runtime interrogating Catholic doctrine and pushing a progressive theological agenda. Edward Berger directs with elegance. Ralph Fiennes leads with conviction. And the woke score of 42.6 reflects a film that uses the Vatican setting as a stage for a sustained argument that conservative Catholic positions are morally compromised and that progressive reform is the only legitimate path forward. Every cardinal defending tradition is portrayed as corrupt or self-serving. The reformist faction receives moral clarity as a gift the script does not ask them to earn. The twist ending involving intersex identity is the ideological climax the entire film builds toward. VirtueVigil rates this as a Woke Trap: the full extent of the political content does not become clear until the final act, by which point the audience is fully invested. Nominated for eight Academy Awards. The trad score of 3.85 is one of the lowest in the database.</p>
+      <p><a href="/reviews/conclave-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Conclave</a></p>
+
+      <hr>
+
+      <h2>#4 &mdash; <a href="/reviews/poor-things-2023/">Poor Things (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 47.0</span>
+        <span class="mini-score trad">TRAD: 9.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +38.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Director:</strong> Yorgos Lanthimos &bull; <strong>Platform:</strong> Theatrical / Searchlight</p>
+      <p>Yorgos Lanthimos won Best Picture at the 96th Academy Awards for a film about a woman brought to life in a dead body, who discovers her sexual and intellectual autonomy through a grand tour of European vice, philosophy, and social transgression. The woke score of 47 places Poor Things fourth all-time in the VirtueVigil database, and the trad score of 9 confirms that almost no traditional counterweight exists. Emma Stone plays Bella Baxter as a woman unshackled from the social conditioning that shapes everyone else, and the film treats every conventional expectation she rejects as evidence of its own moral clarity. The sexual content is explicit and ideologically loaded. The film's entire argument is that freedom from traditional moral frameworks is not just permissible but liberating. Lanthimos builds this argument into a visually extraordinary package that convinced the Academy it was watching art about art. The raw score says otherwise.</p>
+      <p><a href="/reviews/poor-things-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Poor Things</a></p>
+
+      <hr>
+
+      <h2>#3 &mdash; <a href="/reviews/barbie-2023/">Barbie (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 48.0</span>
+        <span class="mini-score trad">TRAD: 16.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +32.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Director:</strong> Greta Gerwig &bull; <strong>Platform:</strong> Theatrical / Warner Bros.</p>
+      <p>The highest-grossing film of 2023, domestically and globally. A billion-dollar box office. A Mattel licensing deal turned into a feature-length feminist manifesto. Greta Gerwig and Noah Baumbach wrote a script that uses the Barbie universe as a vehicle for sustained commentary on patriarchy, female objectification, and the limitations of a world designed by men. The woke score of 48 is the third highest in the database. The traditional score of 16 is mostly earned by the film's superficial nostalgia for the Barbie toy line and the genuine warmth of some of its performances. The monologue that made social media cry in theaters is a direct-address articulation of the film's entire thesis: being a woman is impossible, and the standards are set by people who do not care. It is delivered sincerely. There is no irony. The raw score reflects a film that understood exactly what it was making and made it confidently at maximum scale.</p>
+      <p><a href="/reviews/barbie-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Barbie</a></p>
+
+      <hr>
+
+      <h2>#2 &mdash; <a href="/reviews/scarpetta/">Scarpetta (2026)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">WOKE: 58.0</span>
+        <span class="mini-score trad">TRAD: 42.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +16.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Scarpetta is a special case: the second highest raw woke score in the database, but a traditional score of 42 that keeps the net margin at a comparatively modest plus-16. The film scores high on both sides because it is built around Dr. Kay Scarpetta, a forensic pathologist whose professional excellence, institutional authority, and forensic rigor generate genuine traditional content. That trad score is real. Scarpetta as a character operates with discipline, precision, and moral conviction in a framework that values competence and accountability. But the woke score of 58 reflects the surrounding narrative architecture: identity politics are woven through the plotting, institutional critique runs beneath the procedural surface, and the gender dynamics of a female authority figure in a male-coded profession are treated as the story's organizing political argument. For a pre-release entry, these scores project a film that will reward conservatives for its procedural craft while asking them to absorb a significant ideological payload. Approach with awareness of what the numbers are telling you.</p>
+      <p><a href="/reviews/scarpetta/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Scarpetta</a></p>
+
+      <hr>
+
+      <h2>#1 &mdash; <a href="/reviews/zootopia-2-2025/">Zootopia 2 (2025)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">WOKE: 91.0</span>
+        <span class="mini-score trad">TRAD: 53.0</span>
+        <span class="mini-score" style="color:#c44040;">NET: +38.0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Director:</strong> Byron Howard, Jason Hand &bull; <strong>Platform:</strong> Netflix</p>
+      <p>A woke score of 91. Not a typo. Zootopia 2 holds the all-time record in the VirtueVigil database by a margin that is not close. The original Zootopia, released in 2016, was already one of the most ideologically explicit animated films ever made, using a city of anthropomorphic animals as a setting for sustained messaging about systemic racism, implicit bias, and institutional prejudice. The sequel arrived on Netflix in 2025 and doubled down on that framework to a degree that produced a woke score more than thirty points higher than any other film we have reviewed. The traditional score of 53 is genuine: Zootopia 2 depicts a functioning society, family bonds, institutional order, and civic pride with enough coherence to generate real traditional content. But every element of that traditional framework is placed in service of a progressive allegory about who is excluded from it. The net margin of plus-38 WOKE tells you where the film lands. The raw score of 91 tells you how hard it was working to get there. For parents choosing what to put on for their children, this is the most important number in the database. A woke score of 91 means the ideological messaging in this animated Netflix film is more concentrated than in Barbie, more concentrated than in Poor Things, more concentrated than in Conclave. It is the all-time leader. The data built this ranking, and the data is not ambiguous.</p>
+      <p><a href="/reviews/zootopia-2-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Zootopia 2</a></p>
+
+      <hr>
+
+      <h2>What the Highest Woke Scores Tell You</h2>
+      <p>Raw woke scores measure ideological density, not net margin. A film can score high on woke content while also generating genuine traditional content, which produces a complicated picture. Scarpetta and Zootopia 2 both demonstrate this. What the raw score tells you is how much ideological messaging is present, regardless of what else is happening in the film. The highest woke scores in the database cluster in a recognizable pattern: prestige films with awards ambitions, animated films targeting children through streaming, genre films using horror or science fiction as ideology delivery systems. That pattern is worth knowing.</p>
+      <p>For the opposite end of the scale, see our <a href="/lists/highest-traditional-scores-all-time/">10 Movies With the Highest Traditional Scores Ever</a> and our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>. For year-by-year woke tracking, see <a href="/lists/most-woke-movies-2024/">Most Woke Movies of 2024</a>, <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a>, and <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>. Every film in the database has a full review at <a href="/reviews/">virtuevigil.com/reviews/</a>.</p>
     </article>`
   }));
 
@@ -22090,6 +22247,382 @@ function buildThrillerMovies2025WokeRankingListicle() {
     }));
   }
   buildHorrorMovies2024WokeRankingListicle();
+
+  // ============================================
+  function buildDramaMovies2024WokeRankingListicle() {
+  console.log('  lists/drama-movies-2024-woke-ranking/index.html');
+  writePage('lists/drama-movies-2024-woke-ranking/index.html', buildListiclePage({
+    slug: 'drama-movies-2024-woke-ranking',
+    title: 'Every 2024 Drama Movie Ranked by Woke Score',
+    description: 'All 32 reviewed 2024 drama, biography, and prestige films ranked from most woke to most traditional using VirtueVigil scores. Anora, Emilia Perez, Reagan, Shogun, and 28 more.',
+    canonicalPath: 'lists/drama-movies-2024-woke-ranking',
+    publishDate: '2026-05-04',
+    htmlContent: `<article class="listicle-article">
+      <p>Drama is where 2024 Hollywood showed its hand most clearly. The genre produced two of the year's most ideologically extreme films (Anora and Emilia Perez) and one of its most traditional (Reagan). Between those poles you find the full spectrum of modern Hollywood values: prestige films that wear ideology as identity, mid-budget fare that imports progressive assumptions without examining them, and a handful of genuinely traditional stories that made it to screens despite the current.</p>
+
+      <p>VirtueVigil reviewed 32 drama-adjacent releases from 2024, covering theatrical releases, streaming originals, limited awards contenders, and prestige television. This list ranks all of them by VirtueVigil Woke Score margin, running from the most ideologically progressive at the top to the most traditionally grounded at the bottom. The scores measure the density and intensity of ideological content, not artistic quality. A high woke score does not mean a bad film. It means a loaded one. Use this list to navigate the 2024 drama slate with full information before you press play.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): Anora (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -26 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Streaming (A24) &bull; <strong>Director:</strong> Sean Baker</p>
+      <p>The Palme d'Or winner at Cannes 2024 earns the highest woke score of any drama in VirtueVigil's 2024 database. Sean Baker's portrait of a New York sex worker who marries a Russian oligarch's son dismantles marriage, class aspiration, and traditional femininity with the same casual aggression. The film's awards sweep was driven by critical consensus that framed its ideology as insight. At -26 WOKE, audiences with traditional values will find little common ground with the film's moral framework.</p>
+      <p><a href="/reviews/anora-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#2: Emilia Perez (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -22 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical / Crime / Drama &bull; <strong>Platform:</strong> Netflix &bull; <strong>Director:</strong> Jacques Audiard</p>
+      <p>A French director made a Spanish-language Netflix musical about a Mexican cartel boss who transitions to a woman and becomes a humanitarian activist. That sentence is the film's entire ideological program. Emilia Perez swept awards season on critical goodwill and identity politics momentum before international audiences pushed back. VirtueVigil's score of -22 WOKE reflects the density of progressive content across gender identity, institutional critique, and the film's fundamental premise that masculine violence and feminine virtue are biologically separable constructs.</p>
+      <p><a href="/reviews/emilia-perez-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#3: Babygirl (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -15 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Erotic Thriller / Drama &bull; <strong>Platform:</strong> Theatrical / A24 &bull; <strong>Director:</strong> Halina Reijn</p>
+      <p>Nicole Kidman stars as a powerful CEO who enters a submissive relationship with a young male intern. Babygirl frames the affair as female self-discovery and liberation from the performance of corporate authority. The film is technically accomplished and Kidman's performance earned awards attention, but the ideological content is consistent and unambiguous: the character's traditional marriage and executive identity are presented as constraints, and transgression is framed as authenticity. At -15 WOKE, it sits firmly in territory traditional viewers will want to avoid.</p>
+      <p><a href="/reviews/babygirl-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#4: The Apprentice (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -14 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biographical Drama &bull; <strong>Platform:</strong> Theatrical (Briarcliff Entertainment) &bull; <strong>Director:</strong> Ali Abbasi</p>
+      <p>A fictionalized account of Donald Trump's early career mentored by Roy Cohn, directed by an Iranian filmmaker and financed by a consortium of European and independent American money. The film presents Trump's development through a lens of moral corruption, with Cohn as the architect of a philosophy built on lying, winning at any cost, and projecting dominance. Whatever one thinks of its subject, the ideological intent of the filmmakers is not subtle. At -14 WOKE, The Apprentice is a political document dressed as biography.</p>
+      <p><a href="/reviews/the-apprentice-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#5: Nickel Boys (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -13 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical (Orion / Amazon MGM) &bull; <strong>Director:</strong> RaMell Ross</p>
+      <p>Adapted from Colson Whitehead's Pulitzer Prize-winning novel about a Florida reform school in the Jim Crow era, Nickel Boys is formally inventive and emotionally brutal. Director RaMell Ross shoots the film entirely in first-person perspective, placing the audience inside the experience of the Black protagonist. The historical subject matter is real and the abuses documented. Where VirtueVigil's score registers is in the film's framing of institutional America as irredeemably structured around racial violence, a progressive analytical lens applied to historical material without counterweight.</p>
+      <p><a href="/reviews/nickel-boys-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#6: Queer (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -13 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romantic Drama &bull; <strong>Platform:</strong> Theatrical (A24) &bull; <strong>Director:</strong> Luca Guadagnino</p>
+      <p>Luca Guadagnino adapts William S. Burroughs' semi-autobiographical novella with Daniel Craig as a gay American expatriate in 1950s Mexico City falling into obsessive love with a younger man. The film is visually immersive and Craig's performance is committed. The ideological content is straightforward: a gay identity narrative presented without moral framework, framed instead through longing, alienation, and desire. At -13 WOKE, it sits in the same band as Nickel Boys, with its progressive content embedded in the story's fundamental premise rather than injected as commentary.</p>
+      <p><a href="/reviews/queer-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#7: A Different Man (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -12 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller / Drama / Sci-Fi &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Aaron Schimberg</p>
+      <p>Sebastian Stan plays an actor with neurofibromatosis who undergoes an experimental procedure that makes him conventionally attractive, then watches as a man with the same condition (Adam Pearson) becomes everything he wanted to be. A Different Man uses body horror and dark comedy to interrogate identity, beauty standards, and the performance of disability. The progressive ideological content is embedded in the film's thesis: that the desire for normalcy is itself a form of self-betrayal. Technically sharp, ideologically pointed, at -12 WOKE.</p>
+      <p><a href="/reviews/a-different-man-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#8: Megalopolis (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -12 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Epic / Political Drama &bull; <strong>Platform:</strong> Theatrical / VOD &bull; <strong>Director:</strong> Francis Ford Coppola</p>
+      <p>Francis Ford Coppola's self-financed passion project, forty years in the making and $120 million of his own money, envisions a future Roman-American city torn between a visionary architect (Adam Driver) and a corrupt mayor. The political allegory is not subtle: Coppola's utopian architect stands against conservative corruption, and the film's ideology of progress and collective reinvention is baked into its structure. Box office catastrophe. Ideologically consistent. At -12 WOKE, it shares a band with A Different Man while operating at a completely different scale of ambition and failure.</p>
+      <p><a href="/reviews/megalopolis-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#9: Wicked (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -11 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical &bull; <strong>Platform:</strong> Theatrical / Peacock &bull; <strong>Director:</strong> Jon M. Chu</p>
+      <p>The long-awaited adaptation of the Broadway megahit delivers exactly what the stage show promised: a feminist revisionist origin story for the Wicked Witch, reframing Oz through the lens of institutional oppression, conformist cruelty, and outsider identity. Wicked earned $670 million worldwide because it is a technically spectacular piece of musical filmmaking. The ideological content is the entire point: the good-bad binary of Oz dismantled, authority reimagined as the villain, and nonconformity as moral virtue. At -11 WOKE, parents taking kids should know what story they are actually sitting down to watch.</p>
+      <p><a href="/reviews/wicked-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#10: Kinds of Kindness (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -7 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical (Searchlight Pictures) &bull; <strong>Director:</strong> Yorgos Lanthimos</p>
+      <p>Yorgos Lanthimos follows Poor Things with a triptych of darkly absurdist stories about control, obedience, and submission, each starring the same actors in different configurations of power. The film is deliberately alienating and refuses conventional narrative satisfactions. The ideological content comes through the cumulative effect: institutions, marriages, employers, and cults are presented as interchangeable mechanisms of coercion. Lanthimos is a precise filmmaker, and the nihilism here is intentional. At -7 WOKE, it earns its lean through consistent structural critique of authority and tradition.</p>
+      <p><a href="/reviews/kinds-of-kindness-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#11: Challengers (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical (Amazon MGM Studios) &bull; <strong>Director:</strong> Luca Guadagnino</p>
+      <p>Guadagnino's tennis triangle is formally brilliant: three characters, two decades, one championship match structured in fragmented flashbacks. Zendaya's Tashi is the film's moral center, and the film frames her manipulation of two men who love her as strategic intelligence rather than cruelty. The woke lean comes from the film's treatment of commitment and fidelity as constraints rather than virtues, and its refusal to moralize about any character's behavior. A film that believes strongly in personal agency and very little in obligation. Seductive filmmaking in service of a relativist moral framework.</p>
+      <p><a href="/reviews/challengers-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#12: Blitz (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Apple TV+ &bull; <strong>Director:</strong> Steve McQueen</p>
+      <p>Steve McQueen's World War II drama follows a biracial boy evacuated from London during the Blitz who runs away to find his single mother. The film's historical setting is authentic and the production values are exceptional. The woke lean emerges from the film's insistence on framing the British war effort primarily through the lens of racial exclusion and class hierarchy, with the war itself serving as backdrop to a story about belonging and institutional racism. A technically excellent film with a consistent ideological lens applied to historical material.</p>
+      <p><a href="/reviews/blitz-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#13: The Room Next Door (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Pedro Almodovar</p>
+      <p>Pedro Almodovar's English-language debut stars Tilda Swinton and Julianne Moore in a meditative film about a woman dying of cancer who asks her estranged friend to be present as she ends her life through assisted suicide. The film treats euthanasia as the ultimate expression of personal autonomy and frames opposition to it as failure of compassion. Almodovar is a master filmmaker, and The Room Next Door is beautiful and emotionally genuine. The ideological content is its premise. At -4 WOKE, the lean is driven by the film's advocacy framing of a major bioethics debate.</p>
+      <p><a href="/reviews/the-room-next-door-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#14: The Brutalist (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -3 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical (A24 / Focus Features UK) &bull; <strong>Director:</strong> Brady Corbet</p>
+      <p>Brady Corbet's three-and-a-half-hour epic follows Hungarian-Jewish architect Laszlo Toth (Adrien Brody) as he immigrates to postwar America and struggles to realize his vision against the patronage of a wealthy industrialist (Guy Pearce). The Brutalist is genuinely ambitious and Brody's performance is among the decade's best. The -3 WOKE lean reflects the film's progressive framing of American capitalism as corrupting of artistic vision and immigrant aspiration, a consistent ideological undercurrent that never overwhelms the film's genuine grandeur.</p>
+      <p><a href="/reviews/the-brutalist-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#15: Joker: Folie a Deux (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical / Drama / Thriller &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Todd Phillips</p>
+      <p>Todd Phillips' sequel to his billion-dollar origin story strips out everything audiences came for and replaces it with a jukebox musical set inside Arkham Asylum. The Joker's trial becomes a platform for commentary on celebrity, mental illness, and the American justice system. Lady Gaga's Harley Quinn exists primarily to expose the Joker persona as performance rather than identity. Box office disaster: $58 million against a $200 million budget. At -2 WOKE, the lean is modest but the film's fundamental project, dismantling the mythologized version of a character audiences loved, is deliberate and ideologically consistent.</p>
+      <p><a href="/reviews/joker-folie-a-deux-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#16: A Complete Unknown (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Biopic &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> James Mangold</p>
+      <p>Timothee Chalamet's Bob Dylan biopic covers the years 1961 to 1965, from Dylan's arrival in Greenwich Village to his electric performance at Newport. James Mangold directs with discipline and Chalamet's physical performance is remarkable. The film's mixed score reflects genuine tension: Dylan's artistic individualism and refusal to be defined by any political movement pulls against the progressive cultural milieu he inhabited. Neither a conservative film nor a progressive one. A biopic that trusts its subject's complexity without imposing ideology on it.</p>
+      <p><a href="/reviews/a-complete-unknown-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#17: A Real Pain (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical (Searchlight Pictures) &bull; <strong>Director:</strong> Jesse Eisenberg</p>
+      <p>Jesse Eisenberg writes, directs, and stars alongside Kieran Culkin as two American cousins who travel to Poland for a Holocaust tour in honor of their late grandmother. A Real Pain is about grief, identity, and the uncomfortable gap between historical memory and lived experience. Eisenberg's film respects its subject without using it as a political vector. The mixed score reflects genuine balance: the film engages seriously with Jewish identity and suffering without importing progressive commentary onto the material.</p>
+      <p><a href="/reviews/a-real-pain-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#18: Better Man (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical / Biography / Drama &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Michael Gracey</p>
+      <p>Michael Gracey's Robbie Williams biopic is audacious in form: Williams is played by a CGI chimpanzee throughout. The decision to render the subject as a primate is Williams' own idea, a self-deprecating metaphor for how he felt performing for audiences that loved a persona he was never sure he believed in. Better Man's mixed score reflects a film that takes addiction, ambition, and masculine vulnerability seriously without importing contemporary ideology. A stranger and more honest celebrity biography than Hollywood usually permits.</p>
+      <p><a href="/reviews/better-man-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#19: The Bear Season 3 (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Hulu / FX &bull; <strong>Director:</strong> Christopher Storer</p>
+      <p>The Bear's third season pushes deeper into the psychological cost of excellence. Carmy is building something that demands everything, and the show treats that ambition as simultaneously admirable and destructive. The traditional lean comes from the show's core conviction: craft matters, standards matter, and the people who hold others to high expectations are not villains for doing so. The Bear remains the most honest portrayal of male leadership and professional obsession on television. At +4 TRAD, it earns its lean through consistent values rather than explicit messaging.</p>
+      <p><a href="/reviews/the-bear/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#20: Bob Marley: One Love (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography / Drama / Music &bull; <strong>Platform:</strong> Theatrical (Paramount) / Paramount+</p>
+      <p>Kingsley Ben-Adir plays Bob Marley in a biopic that centers on the period surrounding the 1976 Smile Jamaica concert, including the assassination attempt that nearly killed Marley two days before the show. The film emphasizes Marley's faith, his commitment to his family, and his belief in music as a spiritual force. One Love earns its traditional lean by keeping its subject's religious conviction, family loyalty, and artistic purpose at the center of the story rather than importing contemporary ideology onto the material.</p>
+      <p><a href="/reviews/bob-marley-one-love-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#21: We Live in Time (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romance / Drama &bull; <strong>Platform:</strong> Theatrical / A24 &bull; <strong>Director:</strong> John Crowley</p>
+      <p>Andrew Garfield and Florence Pugh star in a non-linear love story about a couple navigating cancer. John Crowley's film earns its traditional lean by taking marriage and family seriously as the framework within which its characters find meaning. The film does not moralize. It simply shows two people building a life together and what is at stake when that life is threatened. In a year of prestige drama that mostly treated commitment as a burden, We Live in Time treats it as the point. A genuinely moving counterweight to the rest of the 2024 drama slate.</p>
+      <p><a href="/reviews/we-live-in-time-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#22: It Ends with Us (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romance / Drama &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Justin Baldoni</p>
+      <p>Blake Lively stars in the Colleen Hoover adaptation as Lily Bloom, a woman who escapes an abusive relationship and rebuilds her life. The film takes domestic violence seriously as a moral issue rather than using it as a platform for progressive gender politics. It Ends with Us is a commercial romance with real emotional weight. The traditional lean comes from the film's core message: personal courage, self-respect, and the willingness to leave are not feminist ideology but human dignity. A thoughtful adaptation of a bestselling novel with genuine values clarity.</p>
+      <p><a href="/reviews/it-ends-with-us-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#23: Sing Sing (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical / Digital (A24) &bull; <strong>Director:</strong> Greg Kwedar</p>
+      <p>Colman Domingo stars as Divine G, a real incarcerated man who maintained his innocence for decades while building a prison theater program at Sing Sing. The film is co-written by Divine G himself and features actual incarcerated and formerly incarcerated performers. Sing Sing earns its traditional lean by taking human dignity, redemption, and the transformative power of artistic discipline seriously, without importing progressive carceral politics onto the material. One of the year's most quietly moving dramas.</p>
+      <p><a href="/reviews/sing-sing-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#24: September 5 (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Historical Thriller &bull; <strong>Platform:</strong> Theatrical (Paramount Pictures) &bull; <strong>Director:</strong> Tim Fehlbaum</p>
+      <p>Tim Fehlbaum's tense procedural recreates the ABC Sports broadcast team's real-time coverage of the 1972 Munich Olympic massacre. Confined almost entirely to the broadcast control room, September 5 is about journalism, responsibility, and what happens when the instinct to cover a story collides with the reality of people dying on screen. The traditional lean comes from the film's clear-eyed treatment of terrorism as evil and its respect for the human stakes of the events. A disciplined, historically grounded thriller that takes its subject seriously.</p>
+      <p><a href="/reviews/september-5-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#25: I'm Still Here (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Biography &bull; <strong>Platform:</strong> Theatrical (Sony Pictures Classics) &bull; <strong>Director:</strong> Walter Salles</p>
+      <p>Walter Salles' Oscar winner for Best International Film tells the true story of Eunice Paiva, whose husband was disappeared by the Brazilian military dictatorship in 1971 and who spent decades fighting for answers while raising five children alone. Fernanda Torres delivers a performance of extraordinary restraint. I'm Still Here earns its traditional lean through the film's central values: maternal love as unbreakable, family as the unit that survives political violence, and personal courage in the face of institutional evil. A film that understands what traditional values actually mean when they are tested.</p>
+      <p><a href="/reviews/im-still-here-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#26: Hard Truths (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical / Bleecker Street &bull; <strong>Director:</strong> Mike Leigh</p>
+      <p>Mike Leigh's British drama centers on Pansy, a woman whose rage at the world has made her almost unbearable to be around. Marianne Jean-Baptiste's performance is one of the finest of 2024. Leigh's film earns its traditional lean by treating family obligation, the value of relationships, and the cost of bitterness with moral seriousness. Hard Truths is not a comfortable film, but it is an honest one. It shows what happens when someone refuses the work of connection, and it does not excuse that refusal. A film with genuine values clarity beneath its abrasive surface.</p>
+      <p><a href="/reviews/hard-truths-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#27: Fly Me to the Moon (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romantic Comedy / Drama / Historical &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Greg Berlanti</p>
+      <p>Scarlett Johansson and Channing Tatum star in a romantic comedy set against the 1969 moon landing. Johansson plays a marketing consultant hired to manufacture a fake moon landing backup; Tatum plays the NASA launch director who believes in the real mission. The film uses its premise to celebrate American ingenuity, the space program, and the idea that some achievements are worth doing for their own sake. Fly Me to the Moon earns its traditional lean through genuine patriotism, a romantic arc built on honesty, and a film that respects its historical setting.</p>
+      <p><a href="/reviews/fly-me-to-the-moon-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#28: Cabrini (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biographical Drama / Faith / History &bull; <strong>Platform:</strong> Theatrical / Angel Studios &bull; <strong>Director:</strong> Alejandro Monteverde</p>
+      <p>Angel Studios' biopic of Frances Xavier Cabrini, the first American citizen canonized by the Catholic Church, follows her mission to New York in 1889 to serve the city's Italian immigrant population. Cristiana Dell'Anna plays Cabrini as a woman who built institutions through sheer force of faith and will against entrenched opposition. Cabrini earned $32 million against a $35 million budget before crossing into profitability on home release, proving the faith audience will show up for quality. At +12 TRAD, it is among the year's strongest traditional picks in drama.</p>
+      <p><a href="/reviews/cabrini-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#29: Landman (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Neo-Western Drama &bull; <strong>Platform:</strong> Paramount+ &bull; <strong>Director:</strong> Taylor Sheridan</p>
+      <p>Taylor Sheridan's Paramount+ drama about the Texas oil industry stars Billy Bob Thornton as Tommy Norris, a fixer who navigates cartel violence, corporate politics, and the moral compromises of extractive capitalism. Landman earned Paramount+ its highest viewership numbers since launch. The traditional lean is strong: masculine competence, family loyalty, work ethic, and the idea that men who can solve problems are valuable in a world that needs problems solved. Sheridan continues to build the most consistent traditional-values franchise in prestige television.</p>
+      <p><a href="/reviews/landman-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#30: The Bikeriders (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime Drama &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Jeff Nichols</p>
+      <p>Jeff Nichols' chronicle of the fictional Vandals Motorcycle Club from its 1960s founding through its violent dissolution in the 1970s is a portrait of masculine brotherhood and its limits. Tom Hardy, Austin Butler, and Jodie Comer anchor a film that takes seriously the appeal of belonging, loyalty, and identity built around a shared code. The Bikeriders earns its traditional score by treating masculine community as genuinely valuable without romanticizing its violence. A film that understands what men lose when institutions that once gave them identity disappear.</p>
+      <p><a href="/reviews/the-bikeriders-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#31: Shogun (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge trad">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Historical Drama &bull; <strong>Platform:</strong> FX / Hulu &bull; <strong>Director:</strong> Rachel Kondo, Caillin Puybarret</p>
+      <p>FX's miniseries adaptation of James Clavell's novel swept the Emmy Awards and earned them: it is the most disciplined piece of prestige television in 2024. Set in feudal Japan at a moment of civil war, Shogun takes honor, duty, sacrifice, and loyalty seriously as moral categories, not ironic ones. The characters who hold to their codes at cost to themselves are the heroes. The characters who abandon them for convenience are the villains. Simple moral clarity, executed with extraordinary craft. The highest traditional score of any television drama VirtueVigil reviewed in 2024.</p>
+      <p><a href="/reviews/shogun-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>#32 (Most Traditional): Reagan (2024)</h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-trad">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +42 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography / Drama / History &bull; <strong>Platform:</strong> Theatrical &bull; <strong>Director:</strong> Sean McNamara</p>
+      <p>Dennis Quaid's Ronald Reagan biopic earns the highest traditional score of any 2024 drama in VirtueVigil's database, by a significant margin. At +42 TRAD, it is not a balanced portrait of a complicated figure: it is a celebration of Reagan's faith, patriotism, anti-communism, and the belief that America is worth defending. Jon Voight narrates as a Soviet intelligence officer who tracked Reagan and came to respect him. Reagan earned $21 million against a modest budget from the faith and conservative audience. A film that knows exactly who it is for and delivers for that audience with full conviction.</p>
+      <p><a href="/reviews/reagan-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review</a></p>
+
+      <hr>
+
+      <h2>What 2024 Drama Tells You About Hollywood</h2>
+      <p>The 2024 drama landscape is defined by two extremes and a contested middle. At the ideological peak, Anora and Emilia Perez earned critical adulation and awards trophies by presenting progressive identity politics as prestige filmmaking. At the traditional end, Reagan and Shogun demonstrated that there is a large, underserved audience for films and television that take traditional values seriously. Between those poles, the majority of 2024 drama sits in mixed or lean territory, importing progressive assumptions without declaring them, or engaging genuinely with human complexity without resolving it ideologically.</p>
+      <p>The data from 2024 confirms what VirtueVigil's full database shows: drama is the genre where ideology is most consistently embedded, and where the gap between critical consensus and audience values is widest. Use this list before you watch. Browse the companion <a href="/lists/drama-movies-2025-woke-ranking/">2025 Drama ranking</a> and <a href="/lists/drama-movies-2026-woke-ranking/">2026 Drama ranking</a> for the full three-year picture, or explore <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a> for the cross-genre woke leaders. Every scored film is at <a href="/reviews/">VirtueVigil.com/reviews/</a>.</p>
+    </article>`
+  }));
+  }
+  buildDramaMovies2024WokeRankingListicle();
 
 } // close buildSite async wrapper
 
