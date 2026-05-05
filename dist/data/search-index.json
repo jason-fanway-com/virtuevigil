@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/die-hard-1988.jpg"
   },
   {
+    "slug": "back-to-the-future-1985",
+    "title": "Back to the Future",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Adventure / Comedy / Sci-Fi",
+    "year": 1985,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 18.19,
+    "poster": "/images/posters/back-to-the-future-1985.jpg"
+  },
+  {
     "slug": "extraction-2-2023",
     "title": "Extraction 2",
     "verdict": "TRADITIONAL",
