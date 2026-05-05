@@ -22624,7 +22624,386 @@ function buildThrillerMovies2025WokeRankingListicle() {
   }
   buildDramaMovies2024WokeRankingListicle();
 
+  // ============================================
+  // EVERY 2024 ACTION MOVIE RANKED BY WOKE SCORE
+  // ============================================
+  function buildActionMovies2024WokeRankingListicle() {
+  console.log('  lists/action-movies-2024-woke-ranking/index.html');
+  writePage('lists/action-movies-2024-woke-ranking/index.html', buildListiclePage({
+    slug: 'action-movies-2024-woke-ranking',
+    title: 'Every 2024 Action Movie Ranked by Woke Score',
+    description: 'All 32 reviewed 2024 action films ranked from most woke to most traditional using VirtueVigil scores. Monkey Man, Twisters, The Beekeeper, Furiosa, and every scored action release.',
+    canonicalPath: 'lists/action-movies-2024-woke-ranking',
+    publishDate: '2026-05-05',
+    htmlContent: `<article class="listicle-article">
+
+      <p>Action cinema is Hollywood's most profitable genre and its most reliable pipeline for ideology. The explosions distract. The worldview underneath them does not go away. In 2024, VirtueVigil reviewed and scored 32 action releases covering theatrical blockbusters, streaming originals, animated spectacles, superhero entries, and international productions using the full dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures traditional values content including duty, sacrifice, family loyalty, and earned competence.</p>
+
+      <p>This ranking runs from the most ideologically progressive at the top to the most traditionally grounded at the bottom. A high woke score does not mean a bad film. It means a loaded one. Use this list before you sit down with your family or recommend something to a friend. Every entry links to the full VirtueVigil review with complete trope audits and parental guidance.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/monkey-man-2024/">Monkey Man (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -14 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>Dev Patel's revenge thriller earns its -14 WOKE margin through heavy anti-colonial framing, Hindu nationalist villains, and a narrative that positions every traditional authority structure as the source of evil in India. The film was championed by Jordan Peele after Netflix passed on it, and its political messaging is the primary reason for both the critical enthusiasm and the conservative audience avoidance. Visually striking and ideologically relentless.</p>
+      <p><a href="/reviews/monkey-man-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Monkey Man</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/the-boys-season-4-2024/">The Boys: Season 4 (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -12 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero Satire / Action Drama &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Amazon's superhero satire pushed its political allegories past parody in Season 4 with a thinly veiled Trump analog running for president on a platform of superhuman invincibility. The show is technically exceptional and ideologically nakedly one-sided. At -12 WOKE it is the most politically loaded piece of superhero content released in 2024 and it makes no pretense of balance.</p>
+      <p><a href="/reviews/the-boys-season-4-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Boys: Season 4</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/borderlands-2024/">Borderlands (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -9 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Eli Roth spent $115 million turning a beloved M-rated video game into a PG-13 Guardians of the Galaxy knockoff with a DEI-cast ensemble that exists to represent rather than characterize. The -9 WOKE margin reflects relentless progressive identity signaling layered over a meandering narrative that sacrificed the anarchic energy of the source material. The film grossed $33 million worldwide and stands as one of the worst video game adaptations ever committed to film.</p>
+      <p><a href="/reviews/borderlands-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Borderlands</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/madame-web-2024/">Madame Web (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller / Superhero &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Sony's attempt to launch a female-led Spider-Man adjacent franchise earned 11% on Rotten Tomatoes and a -4 WOKE margin through progressive character framing and feminist messaging imported into a superhero template that could not structurally support them. The ideological payload is secondary to the film's fundamental incompetence as a narrative, but the woke lean is consistently present throughout. One of 2024's most comprehensively failed blockbusters.</p>
+      <p><a href="/reviews/madame-web-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Madame Web</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/civil-war-2024/">Civil War (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical / Amazon Prime Video</p>
+      <p>Alex Garland's dystopian war film presents deliberate political ambiguity as its central argument while embedding a -4 WOKE margin through its progressive journalist protagonist framing and institutional critique that runs through the film's core premise. Garland explicitly avoids ideological resolution and frames political neutrality as a virtue in itself. The result is a film that thinks refusing to take sides is a moral position rather than a default.</p>
+      <p><a href="/reviews/civil-war-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Civil War</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/kung-fu-panda-4-2024/">Kung Fu Panda 4 (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -3 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated / Family / Action &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>The fourth DreamWorks installment imported the most notable ideological shift in the franchise: a female villain positioned as Po's true successor, a franchise-ending moral about relinquishing power to someone more qualified, and progressive relationship dynamics that softened the series' traditional family messaging. At -3 WOKE LEAN it represents a gentle but clear drift from the franchise's original values foundation. The fundamentals of craft remain but the worldview has moved.</p>
+      <p><a href="/reviews/kung-fu-panda-4-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Kung Fu Panda 4</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/deadpool-wolverine-2024/">Deadpool &amp; Wolverine (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -3 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Marvel's first R-rated MCU entry delivered the meta-commentary and fan service its audience wanted while embedding progressive signaling in character dynamics and casual ideological assumptions throughout. The -3 WOKE margin reflects woke-adjacent framing rather than explicit messaging. At $1.34 billion worldwide it is the highest-grossing R-rated film of all time and proof that a moderately woke product can still dominate when the brand is strong enough.</p>
+      <p><a href="/reviews/deadpool-wolverine-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Deadpool &amp; Wolverine</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/atlas-2024/">Atlas (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -1 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Science Fiction Action &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Jennifer Lopez's Netflix sci-fi action film about an AI analyst who reluctantly bonds with a mech suit earns its narrow -1 WOKE margin through consistent framing of AI as fundamentally trustworthy and humanity's resistance to it as the primary obstacle to progress. The film is not ideologically aggressive: its progressive assumptions are background radiation rather than foreground messaging. Functional entertainment that sits narrowly on the woke side of mixed.</p>
+      <p><a href="/reviews/atlas-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Atlas</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/kingdom-of-the-planet-of-the-apes-2024/">Kingdom of the Planet of the Apes (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Action Adventure &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Wes Ball's franchise revival arrives generations after Caesar's revolution and earns its narrow +2 TRAD margin through strong storytelling fundamentals, earned hero mythology, and genuine themes of freedom versus servitude. Progressive elements including female protagonist framing and institutional skepticism keep it narrowly in mixed territory. A competent, largely values-neutral franchise film that respects its audience and honors the legacy of the original trilogy.</p>
+      <p><a href="/reviews/kingdom-of-the-planet-of-the-apes-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Kingdom of the Planet of the Apes</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/argylle-2024/">Argylle (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Spy Comedy &bull; <strong>Platform:</strong> Theatrical / Apple TV+</p>
+      <p>Matthew Vaughn's spy thriller earns its +2 TRAD margin through traditional genre pleasures undermined by progressive character framing in key supporting roles. The premise involves a romance novelist who discovers her fiction is based on real spy operations, and the film never decides whether it wants to be clever or spectacular. At $96 million against a $200 million budget it was one of 2024's most expensive commercial failures.</p>
+      <p><a href="/reviews/argylle-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Argylle</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/bad-boys-ride-or-die-2024/">Bad Boys: Ride or Die (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+      <p>The fourth Bad Boys film earns its +2 TRAD margin through the franchise's traditional core: male partnership, loyalty under fire, and earned competence as the primary virtue. Progressive character dynamics in secondary roles keep it narrowly in mixed territory. Will Smith's continued presence post-Oscars controversy did not significantly hurt the film, which grossed $399 million worldwide on the strength of the franchise brand and Martin Lawrence's natural charisma.</p>
+      <p><a href="/reviews/bad-boys-ride-or-die-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Bad Boys: Ride or Die</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/ghostbusters-frozen-empire-2024/">Ghostbusters: Frozen Empire (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy / Supernatural &bull; <strong>Platform:</strong> Theatrical / Max</p>
+      <p>The second Ghostbusters Afterlife sequel earns its +4 TRAD margin through multigenerational family loyalty, small-town community as the emotional anchor, and traditional heroism that requires genuine sacrifice. Characters from the 2016 reboot appear in supporting roles but do not drive the narrative. A competent, broadly safe family adventure with genuine heart that respects the original franchise without being enslaved to it.</p>
+      <p><a href="/reviews/ghostbusters-frozen-empire-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ghostbusters: Frozen Empire</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/the-penguin-2024/">The Penguin (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> HBO</p>
+      <p>Colin Farrell's HBO limited series earns its +5 TRAD margin through prestige crime storytelling that takes ambition, loyalty, and consequence seriously without becoming politically coded. The show is not ideologically captured: its portrayal of crime and power is morally complex rather than progressively framed. At eight episodes it stands as one of the best-crafted pieces of superhero-adjacent television in recent memory and proof that the genre does not require ideology to function.</p>
+      <p><a href="/reviews/the-penguin-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Penguin</a></p>
+
+      <hr>
+
+      <h2>#14: <a href="/reviews/the-fall-guy-2024/">The Fall Guy (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical (Universal Pictures)</p>
+      <p>Ryan Gosling's stuntman action comedy earns its +5 TRAD margin by respecting the working-class craftspeople who make movies possible: stuntmen as unsung heroes, practical action as the virtue, romantic love as the goal. The film's progressive secondary character framing is present but does not dominate a narrative that is fundamentally about competence, loyalty, and doing the hard job nobody sees. One of 2024's most genuinely enjoyable mainstream action films.</p>
+      <p><a href="/reviews/the-fall-guy-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fall Guy</a></p>
+
+      <hr>
+
+      <h2>#15: <a href="/reviews/rebel-moon-part-two-the-scargiver-2024/">Rebel Moon Part Two: The Scargiver (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action / Adventure &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Zack Snyder's second Netflix epic earns its +6 TRAD margin through themes of sacrifice, community defense, and the harvester village's traditional way of life as something worth protecting against an imperial threat. Snyder borrows from Star Wars and Seven Samurai and lands in traditional territory almost by structural necessity. A visual achievement in service of a narrative that cannot fully match it, but whose values architecture is genuinely traditional.</p>
+      <p><a href="/reviews/rebel-moon-part-two-the-scargiver-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Rebel Moon Part Two</a></p>
+
+      <hr>
+
+      <h2>#16: <a href="/reviews/kraven-the-hunter-2024/">Kraven the Hunter (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Superhero &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+      <p>Sony's final Spider-Man Universe entry earns its +6 TRAD margin through its central premise: a hunter with a strict personal code who targets criminals rather than animals. The film is not ideologically sophisticated but its core moral architecture is built around earned competence and self-imposed rules rather than institutional authority. Anti-poaching messaging provides a brief progressive note but does not dominate a narrative that is fundamentally about a man living by his code.</p>
+      <p><a href="/reviews/kraven-the-hunter-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Kraven the Hunter</a></p>
+
+      <hr>
+
+      <h2>#17: <a href="/reviews/godzilla-x-kong-the-new-empire-2024/">Godzilla x Kong: The New Empire (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Sci-Fi / Monster &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The MonsterVerse's fourth installment earns its +8 TRAD margin by fully committing to spectacle over ideology. A radioactive dinosaur and a giant ape team up against an alien threat while humanity provides technical support from the sidelines. The film's values architecture is built on protective instinct, earned alliance, and family bonds rather than progressive messaging. It is the purest Monsterverse entry in a decade and the franchise's most thoroughly traditional film.</p>
+      <p><a href="/reviews/godzilla-x-kong-the-new-empire-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Godzilla x Kong: The New Empire</a></p>
+
+      <hr>
+
+      <h2>#18: <a href="/reviews/the-ministry-of-ungentlemanly-warfare-2024/">The Ministry of Ungentlemanly Warfare (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical (Lionsgate)</p>
+      <p>Guy Ritchie's WWII action film based on declassified British Special Operations Executive missions earns its +9 TRAD margin through unironic masculine competence, Allied patriotism, and men doing extraordinarily dangerous things because someone has to. Henry Cavill leads with old-school masculine charm that Hollywood has largely abandoned. A film that knows exactly what it is, commits without apology, and earns its place as one of the most traditionally grounded action films of 2024.</p>
+      <p><a href="/reviews/the-ministry-of-ungentlemanly-warfare-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Ministry of Ungentlemanly Warfare</a></p>
+
+      <hr>
+
+      <h2>#19: <a href="/reviews/rebel-ridge-2024/">Rebel Ridge (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Jeremy Saulnier's Netflix thriller about a Marine veteran fighting civil asset forfeiture abuse earns its +10 TRAD margin through property rights, individual liberty, and due process as its core values. The villain is a corrupt local police department. The hero is a civilian exercising his constitutional rights with extraordinary competence. One of the most ideologically libertarian action films in recent memory and one of the most underrated releases of 2024.</p>
+      <p><a href="/reviews/rebel-ridge-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Rebel Ridge</a></p>
+
+      <hr>
+
+      <h2>#20: <a href="/reviews/thelma-2024/">Thelma (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical / VOD (Magnolia Pictures)</p>
+      <p>Josh Margolin's action comedy about a 93-year-old woman who reclaims what a scammer stole from her earns its +10 TRAD margin through multigenerational family love, elderly competence and dignity, and a moral framework that refuses to accept victimhood as a permanent condition. June Squibb delivers one of 2024's most charming performances. A film about a grandmother who decides to handle her own problem, and it works completely.</p>
+      <p><a href="/reviews/thelma-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Thelma</a></p>
+
+      <hr>
+
+      <h2>#21: <a href="/reviews/red-one-2024/">Red One (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Christmas Comedy &bull; <strong>Platform:</strong> Theatrical / Prime Video</p>
+      <p>Amazon's Christmas action spectacle earned 31% from critics and genuine audience enthusiasm, which tells you something. The +11 TRAD margin reflects traditional holiday values, father-son reconciliation, and a moral framework that positions childhood wonder as worth protecting at great personal cost. Critics called it dopey and formulaic. Audiences called it fun. The gap between those reactions is a VirtueVigil data point in itself.</p>
+      <p><a href="/reviews/red-one-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Red One</a></p>
+
+      <hr>
+
+      <h2>#22: <a href="/reviews/beverly-hills-cop-axel-f-2024/">Beverly Hills Cop: Axel F (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Netflix's fourth Beverly Hills Cop entry earns its +11 TRAD margin by returning the franchise to its roots: a working-class Detroit detective who solves cases through street smarts, loyalty, and irreverence toward institutional authority rather than compliance with it. The father-daughter relationship provides genuine emotional grounding. Eddie Murphy remains one of the most naturally charismatic performers in Hollywood and this film lets him be exactly that.</p>
+      <p><a href="/reviews/beverly-hills-cop-axel-f-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Beverly Hills Cop: Axel F</a></p>
+
+      <hr>
+
+      <h2>#23: <a href="/reviews/sonic-the-hedgehog-3-2024/">Sonic the Hedgehog 3 (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The best film in the franchise earns its +14 TRAD margin through friendship, family loyalty, and a villain whose tragedy stems directly from the absence of those values. Shadow the Hedgehog arrives as a credible antagonist whose arc mirrors Sonic's but resolves through betrayal and isolation rather than community. A family action film that earns its emotional beats without manufacturing them and delivers the best animated action sequences of the 2024 holiday season.</p>
+      <p><a href="/reviews/sonic-the-hedgehog-3-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sonic the Hedgehog 3</a></p>
+
+      <hr>
+
+      <h2>#24: <a href="/reviews/road-house-2024/">Road House (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Amazon's remake of the 1989 Patrick Swayze classic earns its +14 TRAD margin through masculine competence, community protection, and a hero who finds meaning in defending people who cannot defend themselves. Jake Gyllenhaal commits fully to the physicality and the throwback sensibility. A film that embraces exactly what it is without apology and delivers it cleanly, which is all a Road House remake needed to do.</p>
+      <p><a href="/reviews/road-house-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Road House</a></p>
+
+      <hr>
+
+      <h2>#25: <a href="/reviews/furiosa-a-mad-max-saga-2024/">Furiosa: A Mad Max Saga (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>George Miller's prequel earns its +14 TRAD margin by being precisely what the anti-woke culture war said it was not: a film about revenge, survival, and refusing to be defined by what was taken from you. The progressive surface-level readings are there if you want them, but the values architecture running through the film is unambiguously traditional. Anya Taylor-Joy carries the weight of the prequel origin burden with genuine conviction.</p>
+      <p><a href="/reviews/furiosa-a-mad-max-saga-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Furiosa: A Mad Max Saga</a></p>
+
+      <hr>
+
+      <h2>#26: <a href="/reviews/venom-the-last-dance-2024/">Venom: The Last Dance (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Superhero &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The Venom franchise concludes with its most coherent entry and its highest traditional score. Tom Hardy's Venom is fundamentally a story about an alien predator who chooses loyalty, sacrifice, and human connection over his own nature. The +14 TRAD margin reflects genuine earned sacrifice in the third act and traditional values that run consistently throughout. A better film than it had any right to be and a fitting conclusion to a franchise nobody expected to work.</p>
+      <p><a href="/reviews/venom-the-last-dance-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Venom: The Last Dance</a></p>
+
+      <hr>
+
+      <h2>#27: <a href="/reviews/twisters-2024/">Twisters (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Disaster &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Glen Powell and Daisy Edgar-Jones anchor one of 2024's most crowd-pleasing blockbusters with a +15 TRAD margin earned through rural American values, scientific competence grounded in personal sacrifice, and a romance built on respect and shared purpose rather than progressive relationship dynamics. Twisters feels like it was made for the entire country rather than the coasts. Disaster films have historically scored traditionally and this is the best modern example of why.</p>
+      <p><a href="/reviews/twisters-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Twisters</a></p>
+
+      <hr>
+
+      <h2>#28: <a href="/reviews/transformers-one-2024/">Transformers One (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation / Action / Adventure &bull; <strong>Platform:</strong> Theatrical / Paramount+</p>
+      <p>The animated prequel earns its +16 TRAD margin by doing what no live-action Transformers film managed: making the audience genuinely care about Optimus Prime and Megatron before their transformation. The film's core is a friendship that breaks under ideological pressure, and the tragedy of that betrayal drives everything that follows. The best Transformers film since the 1986 animated original and the most emotionally honest entry in the franchise's history.</p>
+      <p><a href="/reviews/transformers-one-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Transformers One</a></p>
+
+      <hr>
+
+      <h2>#29: <a href="/reviews/gladiator-ii-2024/">Gladiator II (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Ridley Scott's sequel earns its +16 TRAD margin through Roman honor, military competence, and a hero's journey that requires sacrifice of personal ambition for the good of a civilization worth saving. The film is not subtle: it is a celebration of traditional masculine virtues dressed in epic spectacle. A worthy successor to the original that does not attempt to deconstruct the values that made the first film resonate and is better for that restraint.</p>
+      <p><a href="/reviews/gladiator-ii-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Gladiator II</a></p>
+
+      <hr>
+
+      <h2>#30: <a href="/reviews/carry-on-2024/">Carry-On (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +17 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Netflix's Christmas Eve action thriller earns its +17 TRAD margin by being a genuinely old-fashioned Die Hard variant: one TSA officer, one airport, one objective, and the stakes are a flight full of families trying to get home for the holidays. Taron Egerton carries it with complete conviction and the film never loses sight of what it is. A throwback that works because it respects the formula rather than trying to subvert it.</p>
+      <p><a href="/reviews/carry-on-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Carry-On</a></p>
+
+      <hr>
+
+      <h2>#31: <a href="/reviews/the-beekeeper-2024/">The Beekeeper (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Jason Statham's most coherent action film in years earns its +21 TRAD margin through a moral framework built on earned justice, community protection, and a hero who operates by a code that predates modern ideological debates. The villain is a tech-industry scammer who preys on elderly victims. The Beekeeper dismantles them with righteous efficiency and zero apology. This is the kind of film Charles Bronson made his career on, and it earns every comparison.</p>
+      <p><a href="/reviews/the-beekeeper-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Beekeeper</a></p>
+
+      <hr>
+
+      <h2>#32 (Most Traditional): <a href="/reviews/solo-leveling-reawakening-2024/">Solo Leveling: ReAwakening (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +27 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation / Action / Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The theatrical release of the Crunchyroll anime series earns the highest traditional score of any 2024 action film in VirtueVigil's database at +27 TRAD. The margin reflects earned masculine power, duty, sacrifice, and the Japanese meritocratic value framework that runs through the source material. Protagonist Sung Jin-Woo earns every power level through suffering and refuses victimhood at every turn. The most traditionally grounded action release of 2024 is an anime, which tells you something about where traditional storytelling is thriving right now.</p>
+      <p><a href="/reviews/solo-leveling-reawakening-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Solo Leveling: ReAwakening</a></p>
+
+      <hr>
+
+      <h2>What 2024 Action Tells You About Hollywood</h2>
+      <p>The 2024 action landscape splits cleanly at the data level. Three films (Monkey Man, The Boys Season 4, Borderlands) scored below -9 WOKE and represented the genre's most aggressively ideological entries. The majority of the slate (20 of 32 films) scored in traditional-lean or traditional territory, which confirms what VirtueVigil's full database consistently shows: action is the genre most resistant to progressive ideological capture because the structural demands of the genre fight it. You cannot make a compelling action hero who is also a victim. The hero has to act, and action requires agency, competence, and consequence. The films that tried to import woke ideology without honoring those structural requirements (Borderlands, Madame Web) failed both commercially and artistically.</p>
+      <p>Browse the companion <a href="/lists/action-movies-2025-woke-ranking/">Every 2025 Action Movie Ranked by Woke Score</a> and <a href="/lists/action-movies-2026-woke-ranking/">Every 2026 Action Movie Ranked by Woke Score</a> for the complete three-year picture, or check <a href="/lists/most-woke-movies-2024/">10 Most Woke Movies of 2024</a> for the cross-genre woke leaders. Every scored film is at <a href="/reviews/">VirtueVigil.com/reviews/</a>. Subscribe free for weekly Woke Trap alerts before every major release.</p>
+    </article>`
+  }));
+  }
+  buildActionMovies2024WokeRankingListicle();
+
 } // close buildSite async wrapper
 
 // Run the build
-buildSite().catch(err => { console.error('Build failed:', err); process.exit(1); });
+buildSite().catch(err => { console.error("Build failed:", err); process.exit(1); });
