@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/back-to-the-future-1985.jpg"
   },
   {
+    "slug": "lord-of-the-rings-fellowship-2001",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Adventure / Fantasy / Drama",
+    "year": 2001,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 25.9,
+    "poster": "/images/posters/lotr-fellowship-2001.jpg"
+  },
+  {
     "slug": "extraction-2-2023",
     "title": "Extraction 2",
     "verdict": "TRADITIONAL",
