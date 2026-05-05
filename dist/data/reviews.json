@@ -124088,5 +124088,298 @@
       "metaDescription": "VirtueVigil's full VVWS v1.1 review of The Gray Man (2022) with Ryan Gosling and Chris Evans. We score every trope, analyze the Russo Brothers' spy thriller, and answer: is it woke or traditional? Verdict: TRADITIONAL LEAN (+6 margin).",
       "keywords": "is The Gray Man woke, The Gray Man 2022 review, Ryan Gosling Gray Man, Chris Evans villain, Russo Brothers Gray Man, Ana de Armas Gray Man, Gray Man Netflix, is Gray Man appropriate, Gray Man conservative review, Gray Man VirtueVigil score, Sierra Six"
     }
+  },
+  {
+    "id": "die-hard-1988",
+    "slug": "die-hard-1988",
+    "title": "Die Hard",
+    "year": 1988,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Action / Thriller",
+    "date": "2026-05-05",
+    "datePublished": "2026-05-05",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "13 min",
+    "poster": "/images/posters/die-hard-1988.jpg",
+    "releaseDate": "1988-07-15",
+    "rating": "R",
+    "runtime": "132 min",
+    "director": "John McTiernan",
+    "writers": [
+      "Jeb Stuart",
+      "Steven de Souza"
+    ],
+    "preRelease": false,
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2.5,
+    "tradScore": 15.05,
+    "authIndex": 81,
+    "scoreMargin": "+13 TRAD",
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "No trap. Die Hard is exactly what it looks like from the first frame: a blue-collar cop using grit and wit to save hostages and win back his wife. The marriage subplot involving Holly's career ambitions is handled with genuine nuance and resolves in a traditional direction, but this is not hidden. It is the emotional spine of the film from the first scene in the limo."
+    },
+    "creative_team": {
+      "director": {
+        "name": "John McTiernan",
+        "ideology": "NEUTRAL",
+        "profile": "McTiernan is an action craftsman first and foremost. His filmography, including Predator, The Hunt for Red October, Last Action Hero, and The Thomas Crown Affair, shows a consistent interest in competent men under extreme pressure. No political axe to grind. His work from this era is ideologically neutral and execution-focused. Die Hard reflects his strengths without any ideological agenda beyond the belief that good guys should win and villains should get what they deserve."
+      },
+      "writer": {
+        "name": "Jeb Stuart & Steven de Souza",
+        "profile": "Adapted from Roderick Thorp's 1979 novel Nothing Lasts Forever, itself a sequel to The Detective. Stuart wrote the initial draft establishing the marriage subplot and McClane's character; de Souza polished the action and dialogue. The screenplay's smartest decision was making McClane's primary motivation a domestic one. He isn't saving the world. He's trying not to lose his wife. This grounds the action in something a real audience can feel."
+      },
+      "lead_producer": {
+        "name": "Joel Silver",
+        "company": "Silver Pictures / 20th Century Fox"
+      },
+      "composer": {
+        "name": "Michael Kamen"
+      },
+      "top_cast": [
+        {
+          "name": "Bruce Willis",
+          "role": "John McClane"
+        },
+        {
+          "name": "Alan Rickman",
+          "role": "Hans Gruber"
+        },
+        {
+          "name": "Bonnie Bedelia",
+          "role": "Holly Gennaro McClane"
+        },
+        {
+          "name": "Reginald VelJohnson",
+          "role": "Sergeant Al Powell"
+        },
+        {
+          "name": "Alexander Godunov",
+          "role": "Karl"
+        },
+        {
+          "name": "Hart Bochner",
+          "role": "Harry Ellis"
+        },
+        {
+          "name": "Paul Gleason",
+          "role": "Deputy Police Chief Dwayne T. Robinson"
+        },
+        {
+          "name": "De'voreaux White",
+          "role": "Argyle"
+        },
+        {
+          "name": "James Shigeta",
+          "role": "Joseph Yoshinobu Takagi"
+        },
+        {
+          "name": "William Atherton",
+          "role": "Richard Thornburg"
+        }
+      ],
+      "prediction": {
+        "verdict": "TRADITIONAL",
+        "confidence": "high"
+      },
+      "producers": [
+        {
+          "name": "Joel Silver",
+          "company": "Silver Pictures",
+          "profile": "Silver is one of the defining producers of 1980s action cinema. His slate includes the Lethal Weapon series, Predator, and The Matrix. No strong ideological profile beyond a consistent preference for crowd-pleasing genre films. His commercial instincts are not ideological ones."
+        }
+      ],
+      "full_cast": [
+        {
+          "name": "Bruce Willis",
+          "role": "John McClane"
+        },
+        {
+          "name": "Alan Rickman",
+          "role": "Hans Gruber"
+        },
+        {
+          "name": "Bonnie Bedelia",
+          "role": "Holly Gennaro McClane"
+        },
+        {
+          "name": "Reginald VelJohnson",
+          "role": "Sergeant Al Powell"
+        },
+        {
+          "name": "Alexander Godunov",
+          "role": "Karl"
+        },
+        {
+          "name": "Hart Bochner",
+          "role": "Harry Ellis"
+        },
+        {
+          "name": "Paul Gleason",
+          "role": "Dwayne T. Robinson"
+        },
+        {
+          "name": "De'voreaux White",
+          "role": "Argyle"
+        },
+        {
+          "name": "James Shigeta",
+          "role": "Joseph Takagi"
+        },
+        {
+          "name": "William Atherton",
+          "role": "Richard Thornburg"
+        },
+        {
+          "name": "Robert Davi",
+          "role": "Agent Johnson"
+        },
+        {
+          "name": "Grand L. Bush",
+          "role": "Agent Johnson (the other one)"
+        }
+      ]
+    },
+    "trad_tropes": [
+      {
+        "id": "TRAD-DH-001",
+        "name": "Masculine Hero / One-Man Competence",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": 0.7,
+        "centrality": 1.8,
+        "weightedScore": 6.3,
+        "description": "John McClane is the film's entire argument. He wins not because the plot hands him victory but because he is tougher, smarter, and more stubborn than everyone else in Nakatomi Plaza. He gets cut. He bleeds. He runs out of ammunition and adapts. The film celebrates masculine competence, specifically the kind earned through working-class grit rather than elite training or natural gifts, as the most reliable force in a crisis. Every official authority figure in the film fails. McClane succeeds alone."
+      },
+      {
+        "id": "TRAD-DH-002",
+        "name": "Marriage Redemption / Family as Motivation",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "The entire film exists because McClane flew to Los Angeles to save his marriage. Not to be a hero. Not for adventure. He loves his wife and she's slipping away and he wants her back. This is the emotional engine. The action plot is the obstacle between him and that goal. When Holly takes off the Rolex at the end and identifies herself as Holly McClane, it is the film's true climax. The marriage is restored. The action was the means, not the end."
+      },
+      {
+        "id": "TRAD-DH-003",
+        "name": "Law Enforcement Heroism / Good Cop Archetype",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.8,
+        "description": "McClane is a cop, and the film never lets you forget it. His police instincts, reading a crime scene, improvising under fire, using radio protocols, keeping civilians calm, are what save the hostages. Al Powell's arc is equally important: a cop who made a terrible mistake, who retreated to desk work, rediscovering his identity as a peace officer when it matters most. Both men find themselves through their professional identity, not in spite of it."
+      },
+      {
+        "id": "TRAD-DH-004",
+        "name": "Clear Good vs. Evil / Villain Gets What He Deserves",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 1.0,
+        "weightedScore": 2.1,
+        "description": "Hans Gruber is not redeemed. He is not given a sympathetic backstory that makes you understand his radicalization. He's a thief. A murderer. He executes Joseph Takagi in cold blood in front of the hostages because he is exactly what he appears to be: a predator dressed in a nice suit. The film is morally uncomplicated in this way. Evil is punished. Good is rewarded. The defenestration of Gruber is earned and satisfying in the oldest narrative sense."
+      },
+      {
+        "id": "TRAD-DH-005",
+        "name": "Individual Self-Reliance / Distrust of Bureaucracy",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": 0.7,
+        "centrality": 0.5,
+        "weightedScore": 1.05,
+        "description": "Every institutional actor in the film makes the situation worse. The LAPD captain makes tactical errors. The FBI agents blow the power and nearly get everyone killed. The TV journalist exposes a child, forcing Gruber's hand. The only person who improves the situation is one man acting on his own judgment. Die Hard is an argument for the individual over the institution that would register as libertarian-conservative in any political framing."
+      }
+    ],
+    "woke_tropes": [
+      {
+        "id": "WOKE-DH-001",
+        "name": "Career Woman / Independent Wife Reclaims Maiden Name",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": 1.0,
+        "centrality": 1.0,
+        "weightedScore": 2.0,
+        "description": "Holly Gennaro gave up the McClane name when she relocated to Los Angeles for her career. This is presented as a real wound between the spouses, something McClane resents and has difficulty articulating. The film doesn't condemn Holly for it. She's competent, respected, and clearly good at her job. But the film does frame the distance in the marriage as connected to her career prioritization. The ending, where she reidentifies herself as Holly McClane, reads as the film coming down gently on the side of the marriage over the career."
+      },
+      {
+        "id": "WOKE-DH-002",
+        "name": "Corporate Greed Subtext",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": 1.0,
+        "centrality": 0.5,
+        "weightedScore": 0.5,
+        "description": "Nakatomi Corporation as a target carries vague 1980s anxiety about Japanese corporate expansion and wealth. Harry Ellis's character, the smarmy cocaine-using executive who tries to negotiate with terrorists, functions as a critique of corporate culture. These elements are minor and incidental rather than thematic. The film is not making an argument about capitalism. It just uses corporate wealth as the setting for its heist-gone-wrong premise."
+      }
+    ],
+    "externalScores": {
+      "rottenTomatoesCritic": 94,
+      "rottenTomatoesAudience": 94,
+      "imdb": 8.2,
+      "metacritic": 70,
+      "boxOffice": "$140.8M worldwide against a $28M budget"
+    },
+    "fidelityCasting": {
+      "sourceType": "Novel",
+      "sourceTitle": "Nothing Lasts Forever by Roderick Thorp (1979)",
+      "assessment": "Jeb Stuart and Steven de Souza significantly reworked Thorp's source material. In the novel, the protagonist is older, the hostages include his daughter rather than estranged wife, and the ending is considerably darker. The film's decision to center the story on a marriage rather than a father-daughter relationship, and to make the ending triumphant rather than tragic, is the most important creative departure. It transforms an action-thriller into a story about marital restoration. Bruce Willis was not the first choice (Sylvester Stallone, Arnold Schwarzenegger, and others passed), but his casting proved essential: his approachability and everyman quality made McClane's vulnerability legible in a way a more typically heroic actor would not have achieved."
+    },
+    "parentalGuidance": {
+      "mpaaRating": "R",
+      "mpaaDescriptors": "Language, violence",
+      "recommendedAge": "15+",
+      "contentWarnings": [
+        "Action violence throughout including shootings, hand-to-hand combat, explosions, and a man falling from a high-rise building",
+        "A character is shot multiple times and killed (not graphic by modern standards but intense)",
+        "Strong profanity throughout: McClane's language is consistent with blue-collar R-rated action convention",
+        "Brief cocaine use by a secondary character (Harry Ellis)",
+        "Moderate alcohol depicted (McClane drinks on the flight)",
+        "Hostage situation with an execution shown in cold blood",
+        "Marital estrangement and career-vs-marriage tension as themes (handled maturely and resolved positively)",
+        "No sexual content beyond an implied marital reunion",
+        "Terrorist/criminal violence as premise"
+      ],
+      "guidance": "Die Hard's R rating is primarily for language and action violence. There is no sexual content, minimal gore, and the violence, while frequent, is mostly clean by modern standards. The marital subplot is entirely appropriate for teenagers and actually models something worth discussing: what it looks like when two people love each other but let career and distance damage their marriage, and what it costs to repair it. For families with teens 15 and older, this is a legitimate classic worth watching together. The brief cocaine scene is handled without glamorization. Parents of younger viewers should preview first."
+    },
+    "comparison_films": [
+      {
+        "title": "Lethal Weapon",
+        "year": 1987,
+        "verdict": "TRADITIONAL LEAN",
+        "comparison": "The closest contemporary comparison. Both films pair a competent male lead with a comedy of errors under pressure. Lethal Weapon is more interested in male friendship and grief; Die Hard is more interested in marriage and individual competence. Riggs is suicidal and broken; McClane is stubborn and functional. Both films celebrate masculine toughness without irony."
+      },
+      {
+        "title": "Predator",
+        "year": 1987,
+        "verdict": "TRADITIONAL",
+        "comparison": "McTiernan's other great film of this period. Similar celebration of masculine competence under pressure, but Predator strips away the domestic motivation entirely. Dutch has no wife to save. He just has to survive. Die Hard is the superior film for traditional audiences precisely because the personal stakes matter as much as the physical ones."
+      },
+      {
+        "title": "Speed",
+        "year": 1994,
+        "verdict": "TRADITIONAL LEAN",
+        "comparison": "The most obvious Die Hard imitator that actually has its own identity. Keanu Reeves's Jack Traven shares McClane's resourcefulness and blue-collar heroism, but Speed's romantic subplot is far thinner and the villain is less interesting. Die Hard remains the template that Speed, and about fifty other films, have tried and failed to match."
+      }
+    ],
+    "summary": {
+      "overall": "Die Hard is one of the few action films where the traditional values aren't incidental decoration. They are the engine.\n\nJohn McClane flew to Los Angeles from New York to patch up his marriage. That's it. That's why he's in Nakatomi Plaza on Christmas Eve. He loves his wife. He doesn't want to be divorced. He's nervous about seeing her. He rehearses what he's going to say in the limo on the way from the airport. Then twelve German thieves take the building hostage and the next two hours happen.\n\nThe setup is brilliant in a way the sequels never figured out. McClane is a man out of his element, in bare feet, with a service weapon and gradually diminishing ammunition, using intelligence and working-class stubbornness rather than superhero competence. He gets cut. He bleeds. He has a one-sided panic attack on the radio with a cop he's never met. He's scared. The film earns its action sequences because it establishes costs before it pays them off.\n\nHans Gruber, played by Alan Rickman in the performance that made his career, is the ideal villain. Smarter than everyone in the building, knows it, doesn't bother hiding it. His scheme, dress the robbery as a political action to manipulate the FBI's predictable response, is genuinely clever. He doesn't need a sympathetic origin story. He's a predator in a well-tailored suit. He loses because he underestimated one stubborn New York cop who absolutely refused to stay down.\n\nSergeant Al Powell (Reginald VelJohnson) provides the film's emotional core alongside McClane. Their CB radio conversations are a clinic in establishing character through dialogue. Two men who cannot see each other, building genuine friendship across a crisis. Powell's arc from a desk cop haunted by a shooting mistake to a man who acts decisively when it counts mirrors McClane's marriage arc. Both men rediscover who they are under pressure. The film believes this is what pressure is for.\n\nThe marriage subplot is what serious viewers keep coming back to. Holly is clearly capable and ambitious. She took her maiden name back. She relocated for her career. The film presents these facts without comment and without condemnation. McClane is hurt by the name change. He tells Powell about it. He can't quite articulate why. The film doesn't tell you who was right.\n\nBy the end, Holly takes off the Nakatomi Rolex she has been wearing as a kind of professional armor and identifies herself as Holly McClane to the television cameras. Five seconds. The film doesn't underscore it with a music swell. She just does it. That is a marriage working itself out under fire, and it is more emotionally satisfying than any explicit conversation about their relationship would have been.\n\nThe action holds up because McTiernan understood something most action directors have forgotten: spatial geography. You always know where things are in Nakatomi Plaza. You know which floor, which hallway, which elevator shaft, which roof. Die Hard became the template that every other action movie copies, and none of them copy this part well enough. Knowing where you are in the space is what makes the action sequences feel earned rather than chaotic.",
+      "adultInsight": "Die Hard is conservative in the way most action films from this era were conservative without being self-conscious about it. The values embedded in the film, a man saving his wife, a cop refusing to quit, evil getting what it deserves, aren't arguments. They are assumptions. The filmmakers didn't argue for them because it didn't occur to them that anyone would argue against them.\n\nThe marriage subplot rewards adult re-reading. Holly is presented as competent and independent, and the film doesn't punish her for those qualities. But it does gently suggest that something was lost when the Rolex replaced the wedding name. The film believes marriages require both people to stay invested. Holly was so focused on her career that she created distance she didn't fully intend. McClane didn't know how to close it without getting defensive. The Christmas Eve crisis strips all that away. The ending isn't a capitulation. It's a restoration.\n\nThe film's politics around institutional authority deserve attention. Every official system in Die Hard fails completely. The LAPD captain makes tactical error after tactical error. The FBI agents blow the power and nearly enable the robbery. The television journalist exposes a child to danger chasing a story. The only force that actually improves the situation is one individual acting on his own judgment with incomplete information and limited resources. That is a deeply American, specifically conservative-libertarian fantasy, and Die Hard executes it more elegantly than almost any film in the genre.\n\nWhat Die Hard understood, and what the sequels squandered, is that McClane works as a hero because he has something to lose that isn't his life. Survival stakes are fine. Marriage stakes are better. The best action heroes are fighting for something specific and personal. John McClane is fighting to go home with his wife. Everything else is the obstacle."
+    },
+    "seoTitle": "Is Die Hard (1988) Woke? | VirtueVigil Review",
+    "seoDescription": "Is Die Hard woke? VirtueVigil scores it TRADITIONAL (+13 TRAD). Bruce Willis's action classic is driven by masculine heroism, marriage redemption, and one man's refusal to quit. Our full VVWS breakdown.",
+    "seoKeywords": [
+      "is die hard woke",
+      "die hard 1988 review conservative",
+      "die hard woke check",
+      "die hard traditional values",
+      "die hard bruce willis marriage subplot",
+      "die hard vvws score",
+      "virtuevigil die hard",
+      "die hard conservative review"
+    ]
   }
 ]
