@@ -1924,6 +1924,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/adventure-fantasy-movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/biographical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/drama-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/thriller-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2873,6 +2874,7 @@ function buildListsHubPage() {
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
+        'thriller-movies-2024-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2946,7 +2948,8 @@ function buildListsHubPage() {
       'animated-family-movies-2025-woke-ranking': 'Every 2025 Animated & Family Movie Ranked by Woke Score',
       'adventure-fantasy-movies-2025-woke-ranking': 'Every 2025 Adventure & Fantasy Movie Ranked by Woke Score',
       'biographical-movies-woke-ranking': 'Every Biographical Movie Ranked by Woke Score (All Time)',
-      'drama-movies-2024-woke-ranking': 'Every 2024 Drama Movie Ranked by Woke Score'
+      'drama-movies-2024-woke-ranking': 'Every 2024 Drama Movie Ranked by Woke Score',
+      'thriller-movies-2024-woke-ranking': 'Every 2024 Thriller Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -23002,6 +23005,229 @@ function buildThrillerMovies2025WokeRankingListicle() {
   }));
   }
   buildActionMovies2024WokeRankingListicle();
+
+  // EVERY 2024 THRILLER MOVIE RANKED BY WOKE SCORE
+  // ============================================
+  function buildThrillerMovies2024WokeRankingListicle() {
+  console.log('  lists/thriller-movies-2024-woke-ranking/index.html');
+  writePage('lists/thriller-movies-2024-woke-ranking/index.html', buildListiclePage({
+    slug: 'thriller-movies-2024-woke-ranking',
+    title: 'Every 2024 Thriller Movie Ranked by Woke Score',
+    description: 'All 18 reviewed 2024 thriller, crime, and suspense films ranked from most woke to most traditional. Conclave, Blink Twice, The Beekeeper, Rebel Ridge, and every scored release.',
+    canonicalPath: 'lists/thriller-movies-2024-woke-ranking',
+    publishDate: '2026-05-06',
+    htmlContent: `<article class="listicle-article">
+      <p>The 2024 thriller slate ran the ideological spectrum harder than almost any other genre. At one end: Conclave, a Vatican procedural that scored the highest woke number of any 2024 thriller in VirtueVigil's database by a substantial margin. At the other: The Beekeeper, a Jason Statham revenge picture that delivered one of the most unambiguous traditional scores of the entire year. Between those poles, 16 more films revealed exactly where the genre stands when the data is applied without editorial overlay.</p>
+
+      <p>VirtueVigil scores every film using a dual-axis system: Woke Score measures progressive ideological content; Traditional Score measures traditional values including duty, competence, sacrifice, and moral clarity. The margin between them drives this ranking. A wide woke margin means the ideology is structural to the film. A wide traditional margin means the opposite. This list runs from most ideologically progressive to most traditionally grounded. Every entry links to the complete VirtueVigil review with detailed trope audits and parental guidance.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/conclave-2024/">Conclave (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -39 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Edward Berger's papal election thriller scores woke:42.6 against trad:3.85, the highest woke number of any 2024 thriller in the VirtueVigil database by a wide margin. The film positions the most progressive cardinal as the moral anchor of the story while framing the institution itself as irredeemably compromised by tradition and hierarchy. The LGBTQ+ revelation at the climax is structural, not incidental. Viewers who approach Conclave as a procedural will find craft; viewers who track ideology will find it running the entire mechanism of the film from the first scene to the last.</p>
+      <p><a href="/reviews/conclave-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Conclave</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/emilia-perez-2024/">Emilia Perez (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -22 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical / Crime / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Jacques Audiard's Mexican cartel musical scores woke:28 against trad:6 for a -22 WOKE margin. The film's entire structural premise is built around a cartel boss who fakes their death to undergo gender transition and rebuild a life. The trans identity arc is not a subplot or a character detail. It is the load-bearing premise that every other element of the film serves. The -22 margin reflects how thoroughly that premise saturates the scoring across every dimension VirtueVigil measures. Audiard's filmmaking is formally inventive; the ideology is non-negotiable.</p>
+      <p><a href="/reviews/emilia-perez-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Emilia Perez</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/maxxxine-2024/">MaXXXine (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -18 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Crime &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Ti West's conclusion to his X trilogy scores woke:32 against trad:14 for a -18 WOKE margin. Set in 1980s Hollywood during the satanic panic, MaXXXine positions religious fundamentalism and conservative political pressure as the primary antagonist forces threatening the protagonist's life and career. The film's villain is a televangelist and the critique of conservative moral authority is explicit and persistent throughout. The 14 traditional score reflects the protagonist's genuine agency and survival drive, but the woke content dominates the ideological architecture.</p>
+      <p><a href="/reviews/maxxxine-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of MaXXXine</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/love-lies-bleeding-2024/">Love Lies Bleeding (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -17 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Rose Glass's queer crime thriller scores woke:26 against trad:9 for a -17 WOKE margin. The film centers a lesbian relationship between a gym manager and a drifter bodybuilder whose violent entanglement with the gym manager's criminal father drives the plot. The LGBTQ+ content is structural rather than decorative, the female-driven violence framework is central, and the film's moral universe operates outside traditional frameworks for family, loyalty, and consequence. A technically accomplished thriller whose ideological content is as dense as its genre craft.</p>
+      <p><a href="/reviews/love-lies-bleeding-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Love Lies Bleeding</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/blink-twice-2024/">Blink Twice (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -16 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Thriller / Mystery &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Zoe Kravitz's directorial debut scores woke:22.24 against trad:5.88 for a -16 WOKE margin. The film is structured as a feminist thriller about sexual assault and exploitation by the ultra-wealthy, with a tech billionaire as the villain and the female protagonist's survival and resistance as the moral engine. The progressive content is not ambient. It is the architecture of the plot. Every major story beat is designed to arrive at a feminist conclusion about power, predation, and complicity. Kravitz made the film she intended to make, and the score reflects that precision.</p>
+      <p><a href="/reviews/blink-twice-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Blink Twice</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/babygirl-2024/">Babygirl (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -15 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Erotic Thriller / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Nicole Kidman's erotic thriller scores woke:19.22 against trad:4.4 for a -15 WOKE margin. The film centers on a female CEO who enters a submissive affair with a younger male intern while maintaining a high-status marriage, exploring sexual power dynamics through a lens that consistently positions female desire and autonomy as the central moral questions. The progressive framing of sexuality, professional power, and female identity outside traditional roles drives the woke score. The traditional score of 4.4 is among the lowest of any 2024 thriller, reflecting a film that operates almost entirely outside conventional values frameworks.</p>
+      <p><a href="/reviews/babygirl-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Babygirl</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/a-different-man-2024/">A Different Man (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -12 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller / Drama / Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Aaron Schimberg's film about a man with neurofibromatosis who undergoes experimental treatment to alter his appearance scores woke:18.52 against trad:6.3 for a -12 WOKE margin. The film's exploration of disability identity, body autonomy, and the social construction of normalcy drives the progressive score throughout. The thriller elements emerge from the protagonist's psychological deterioration after his transformation and his complicated relationship with his former self. A24's ideological fingerprints are consistent with their broader catalog. The full VirtueVigil review details how the disability identity framing operates across the film's three acts.</p>
+      <p><a href="/reviews/a-different-man-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Different Man</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/madame-web-2024/">Madame Web (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller / Superhero &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Sony's Spider-Man Universe entry scores woke:13.42 against trad:9.15 for a -4 WOKE LEAN. The film's feminist superhero framing, all-female team dynamic, and positioning of the male villain as a threat to female empowerment drive the progressive score. The 9.15 traditional score reflects some genuine competence content and personal sacrifice in the protagonist's arc, but the woke framing is the dominant register. Madame Web was one of the most commercially unsuccessful films of 2024, confirming what VirtueVigil's data shows repeatedly: high woke scores and box office performance trend in opposite directions.</p>
+      <p><a href="/reviews/madame-web-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Madame Web</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/speak-no-evil-2024/">Speak No Evil (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>James Watkins's American remake of the Danish original scores woke:9.18 against trad:6.78 for a -2 WOKE LEAN. The film's progressive content is concentrated in gender dynamics and the horror premise's critique of social politeness norms that prioritize conflict avoidance over self-protection. The traditional content in the original involved martial competence and decisive action; the remake softens that resolution, which affects the traditional score relative to what a firmer ending would have produced. A narrowly woke lean rather than a definitively woke film. Read the full VirtueVigil review for the comparison between the two versions.</p>
+      <p><a href="/reviews/speak-no-evil-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Speak No Evil</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/joker-folie-a-deux-2024/">Joker: Folie a Deux (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical / Drama / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Todd Phillips's divisive sequel scores woke:24.5 against trad:22.13 for a -2 WOKE LEAN, the most nearly balanced score of any 2024 thriller in the database. The film's progressive content comes from its anti-hero mythology critique, class grievance framing, and gender dynamics. The traditional content comes from the courtroom accountability arc, Arthur Fleck's confrontation with the consequences of his choices, and the film's ultimate refusal to let the Joker mythology go unchallenged. At -2, Joker 2 is the rare entry where the ideological content is genuinely contested inside the film rather than settled in one direction.</p>
+      <p><a href="/reviews/joker-folie-a-deux-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Joker: Folie a Deux</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/trap-2024/">Trap (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>M. Night Shyamalan's concert-venue thriller about a serial killer attending a pop show with his daughter scores woke:13.5 against trad:14.24 for a near-dead-heat MIXED. The traditional content is driven by the father-daughter relationship at the film's center, which carries genuine warmth even given the protagonist's monstrous nature. The woke content reflects modern social commentary embedded in secondary elements of the premise. Trap is one of the most ideologically neutral thrillers of 2024 at the scoring level, which is consistent with Shyamalan's general tendency to let genre mechanics carry the narrative rather than political messaging.</p>
+      <p><a href="/reviews/trap-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Trap</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/the-order-2024/">The Order (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Justin Kurzel's FBI procedural about fighting white supremacist domestic terrorism in 1980s Montana scores woke:10.14 against trad:10.99 for a near-zero MIXED. Jude Law's FBI agent brings genuine institutional competence and personal duty to the role, which drives the traditional score. The subject matter requires engaging with far-right ideology, which produces some woke content in how that ideology is framed and interrogated. The scores are close because the film commits to its procedural mechanics rather than letting the political subject matter push the needle further in either direction. A more ideologically disciplined entry than the premise might suggest.</p>
+      <p><a href="/reviews/the-order-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Order</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/smile-2-2024/">Smile 2 (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Mystery / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Parker Finn's sequel scores woke:8.1 against trad:10.92 for a +3 TRAD MIXED. The film follows a pop star being consumed by a cursed entity that feeds on trauma. The traditional content reflects the film's treatment of personal responsibility, the cost of denial, and the horror-genre convention that confronting darkness requires genuine courage. The woke content is scattered across mental health framing and celebrity culture critique rather than concentrated in ideological messaging. Smile 2 is a horror-thriller that functions as genre entertainment with modest ideological overhead in either direction.</p>
+      <p><a href="/reviews/smile-2-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Smile 2</a></p>
+
+      <hr>
+
+      <h2>#14: <a href="/reviews/september-5-2024/">September 5 (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Historical Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Tim Fehlbaum's account of the ABC Sports team covering the 1972 Munich Olympics massacre scores woke:5.4 against trad:12.6 for a +7 TRAD traditional lean. The film's traditional content is driven by journalistic duty, the weight of bearing witness to real events, and the professional competence of individuals making consequential decisions under extreme pressure. The historical grounding keeps the ideology tethered to documented reality rather than contemporary editorial framing. September 5 is one of the more honorable historical thrillers of the year, earning its traditional lean through craft and authenticity rather than propaganda.</p>
+      <p><a href="/reviews/september-5-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of September 5</a></p>
+
+      <hr>
+
+      <h2>#15: <a href="/reviews/rebel-ridge-2024/">Rebel Ridge (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Thriller &bull; <strong>Platform:</strong> Streaming (Netflix)</p>
+      <p>Jeremy Saulnier's Netflix thriller scores woke:8.18 against trad:18.5 for a +10 TRAD traditional verdict. Aaron Pierre plays a Marine who confronts corrupt small-town police after they seize his cash through civil forfeiture. The traditional content is carried by the protagonist's physical courage, tactical competence, personal honor, and refusal to accept institutional injustice. The institutional corruption theme could theoretically drift progressive, but the film's resolution is built on individual agency and earned justice rather than systemic critique. The 8.18 woke score reflects some modern social framing but the traditional content is dominant and character-driven.</p>
+      <p><a href="/reviews/rebel-ridge-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Rebel Ridge</a></p>
+
+      <hr>
+
+      <h2>#16: <a href="/reviews/carry-on-2024/">Carry-On (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +17 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Streaming (Netflix)</p>
+      <p>Taron Egerton's Netflix Christmas thriller scores woke:3 against trad:20.23 for a +17 TRAD traditional verdict. A TSA agent is blackmailed into letting a weapon through airport security and chooses to find another way. The film's traditional content is anchored in duty, civilian protection, and personal courage under credible threat. The 3 woke score is among the lowest of any 2024 thriller, reflecting a film that stays entirely within genre mechanics without importing ideological commentary. Carry-On is the kind of functional entertainment that does exactly what it promises and earns a strong traditional score through consistent application of the values it stakes its premise on.</p>
+      <p><a href="/reviews/carry-on-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Carry-On</a></p>
+
+      <hr>
+
+      <h2>#17: <a href="/reviews/the-bikeriders-2024/">The Bikeriders (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Jeff Nichols's chronicle of the Vandals motorcycle club scores woke:5.5 against trad:23.1 for a +18 TRAD traditional verdict. The film's traditional content is carried by male brotherhood, working-class identity, loyalty between men, and the tragedy of watching a genuine community erode under external pressure. The 5.5 woke score reflects some modern character framing in peripheral roles, but the central narrative treats the motorcycle club's values with serious ethnographic respect rather than irony or critique. One of the most traditionally grounded crime films of 2024, and one that will resonate strongly with audiences who respond to genuine working-class masculine storytelling.</p>
+      <p><a href="/reviews/the-bikeriders-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Bikeriders</a></p>
+
+      <hr>
+
+      <h2>#18 (Most Traditional): <a href="/reviews/the-beekeeper-2024/">The Beekeeper (2024)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>David Ayer's Jason Statham vehicle scores woke:4.25 against trad:25.48 for a +21 TRAD strongly traditional verdict, the highest traditional score of any 2024 thriller in VirtueVigil's database. The villain is a tech-industry scammer preying on elderly citizens. The Beekeeper dismantles the operation with righteous efficiency, operating by a code of duty and justice that is explicit and unambiguous throughout. The 4.25 woke score is the lowest of any thriller in this ranking, reflecting a film that has essentially no ideological overhead beyond the traditional framework driving its protagonist. If you want a 2024 thriller that delivers traditional values without hedging, this is the top result from the data.</p>
+      <p><a href="/reviews/the-beekeeper-2024/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Beekeeper</a></p>
+
+      <hr>
+
+      <h2>What the 2024 Thriller Data Shows</h2>
+      <p>The 2024 thriller genre splits almost exactly at the center of this ranking. The top seven films all scored WOKE or STRONGLY WOKE with margins ranging from -12 to -39. The bottom five scored TRADITIONAL or STRONGLY TRADITIONAL with margins from +10 to +21. The three films in the middle (Trap, The Order, Smile 2) were within 3 points of each other in either direction, representing the genuinely neutral center of the genre. For 2024, the thriller slate rewarded viewers who knew which films to target. The Beekeeper, Carry-On, Rebel Ridge, and The Bikeriders delivered real traditional content at scale. Conclave, Emilia Perez, and Love Lies Bleeding front-loaded ideology. The data makes the choice clear. Browse the companion <a href="/lists/thriller-movies-2025-woke-ranking/">Every 2025 Thriller Movie Ranked by Woke Score</a> and <a href="/lists/thriller-movies-2026-woke-ranking/">Every 2026 Thriller Movie Ranked by Woke Score</a> for the complete three-year picture. Every reviewed film across all genres is at <a href="/reviews/">VirtueVigil.com/reviews/</a>. Subscribe free for weekly Woke Trap alerts before every major release.
+      </p>
+    </article>`
+  }));
+  }
+  buildThrillerMovies2024WokeRankingListicle();
 
 } // close buildSite async wrapper
 
