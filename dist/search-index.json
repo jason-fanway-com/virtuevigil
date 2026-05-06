@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/terminator-2-judgment-day-1991.jpg"
   },
   {
+    "slug": "silence-of-the-lambs-1991",
+    "title": "The Silence of the Lambs",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Thriller / Crime / Drama",
+    "year": 1991,
+    "type": "film",
+    "wokeScore": 6.48,
+    "tradScore": 21.42,
+    "poster": "/images/posters/silence-of-the-lambs-1991.jpg"
+  },
+  {
     "slug": "die-hard-1988",
     "title": "Die Hard",
     "verdict": "TRADITIONAL",
