@@ -23228,6 +23228,116 @@ function buildThrillerMovies2025WokeRankingListicle() {
   }));
   }
   buildThrillerMovies2024WokeRankingListicle();
+  buildAnimatedFamily2024WokeRankingListicle();
+
+
+// ============================================
+// LISTICLE: Every 2024 Animated & Family Movie Ranked by Woke Score
+// Added: 2026-05-07
+// ============================================
+  function buildAnimatedFamily2024WokeRankingListicle() {
+  writePage('lists/animated-family-movies-2024-woke-ranking/index.html', buildListiclePage({
+    slug: 'animated-family-movies-2024-woke-ranking',
+    title: 'Every 2024 Animated & Family Movie Ranked by Woke Score',
+    description: 'All 11 reviewed 2024 animated and family films ranked from most traditional to most woke. The definitive VirtueVigil parent guide to animation in 2024.',
+    canonicalPath: 'lists/animated-family-movies-2024-woke-ranking',
+    publishDate: '2026-05-07',
+    htmlContent: `<article class="listicle-article">
+      <p>2024 was a surprisingly strong year for animated and family film. The genre produced one Oscar winner, several box office giants, and at least two films that earned genuine critical acclaim. It also produced a few entries that quietly embedded progressive messaging under colorful visuals and beloved franchise branding. Parents deserve a clear breakdown of what is actually in these films before they hit play.</p>
+
+      <p>VirtueVigil reviewed all 11 major animated and family releases of 2024 and scored each one using our Woke Score methodology. The list below runs from most traditional to most ideologically progressive. Each entry links to the full review with trope-by-trope analysis. The good news: 2024 animation leaned heavily traditional. The bad news: a few familiar names carry more messaging than their marketing suggested.</p>
+
+      <hr>
+
+      <h2>#1 (Most Traditional) - Solo Leveling: ReAwakening (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 1.26 &bull; <strong>Traditional Score:</strong> 28.35 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Margin:</strong> +27.1 TRAD</p>
+      <p>The anime theatrical event of 2024 is also the most traditionally scored animated release of the year by a wide margin. Solo Leveling: ReAwakening centers on Sung Jinwoo, a young man who enters lethal dungeons to pay his hospitalized mother's bills and protect his sister. The film's core values are sacrifice, duty, and earned strength through suffering. No identity politics, no institutional critique, no progressive subtext. Japanese anime frequently produces content that aligns with traditional values by default, and this is a clear example.</p>
+      <p><a href="/reviews/solo-leveling-reawakening-2024/">Read the full VirtueVigil review of Solo Leveling: ReAwakening</a></p>
+
+      <hr>
+
+      <h2>#2 - The Wild Robot (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 7.12 &bull; <strong>Traditional Score:</strong> 27.93 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Margin:</strong> +20.8 TRAD</p>
+      <p>The best animated film of 2024 and the most traditionally framed major studio release in the genre. Chris Sanders made a film about a robot who accidentally becomes a mother and discovers that parenthood is the most important thing she will ever do. That premise runs directly against the grain of what Hollywood animated films usually argue. The Wild Robot is not subtle about its thesis: sacrifice, nurturing, and the bonds formed through committed caregiving are what give life meaning. The environmental framing and nature imagery earn a small woke score, but they are secondary to what the film is genuinely about.</p>
+      <p><a href="/reviews/the-wild-robot-2024/">Read the full VirtueVigil review of The Wild Robot</a></p>
+
+      <hr>
+
+      <h2>#3 - Transformers One (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 2.0 &bull; <strong>Traditional Score:</strong> 18.48 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Margin:</strong> +16.5 TRAD</p>
+      <p>The best Transformers film since the 1986 original succeeds by doing something the live-action franchise never managed: it makes you care about Optimus Prime and Megatron as characters before they become myths. The film is built on friendship, loyalty, and the tragedy of what happens when ideology corrupts a relationship between equals. The anti-caste messaging earns a small woke score, but it is handled with restraint and the dominant framework is the friendship and sacrifice of two Cybertronians who once believed in the same things.</p>
+      <p><a href="/reviews/transformers-one-2024/">Read the full VirtueVigil review of Transformers One</a></p>
+
+      <hr>
+
+      <h2>#4 - Inside Out 2 (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 10.08 &bull; <strong>Traditional Score:</strong> 20.16 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Margin:</strong> +10.1 TRAD</p>
+      <p>Pixar's highest-grossing film of all time earned it by going back to basics. After years of underperformers and culture war controversies, Inside Out 2 made a movie about a teenager learning to handle anxiety, failure, and the complexity of growing up. The diverse background casting earns a modest woke score, but the film's thesis is fundamentally traditional: you are not your worst feelings, self-acceptance comes from doing hard things, and the guidance of people who love you matters. Riley's family is intact and warm. The emotional messaging is universal rather than ideological.</p>
+      <p><a href="/reviews/inside-out-2-2024/">Read the full VirtueVigil review of Inside Out 2</a></p>
+
+      <hr>
+
+      <h2>#5 - Mufasa: The Lion King (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 14.2 &bull; <strong>Traditional Score:</strong> 22.8 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +8.6 TRAD</p>
+      <p>Disney's prequel to the 1994 classic carries the weight of its predecessor's legacy and mostly handles it with care. The chosen family framing earns a meaningful woke score: Mufasa is an orphan outsider with no blood claim to the pride he joins, and the film explicitly values chosen belonging over lineage. That is a consistent progressive theme in contemporary Disney. The traditional scores are driven by the father-son bond, legacy and responsibility, and the sacrifice themes that made the original resonate. A mixed picture, but the traditional elements outweigh the progressive ones.</p>
+      <p><a href="/reviews/mufasa-2024/">Read the full VirtueVigil review of Mufasa: The Lion King</a></p>
+
+      <hr>
+
+      <h2>#6 - Despicable Me 4 (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 3.0 &bull; <strong>Traditional Score:</strong> 10.0 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +7.0 TRAD</p>
+      <p>The fourth Despicable Me installment is formulaic comfort food, and its ideology is similarly conventional. Gru's entire arc centers on protecting his wife, daughters, and infant son from a villain who targets them because of him. The nuclear family is the value the film defends, unambiguously and without irony. Illumination is not in the business of messaging: they are in the business of profitable franchise animation. That instinct produces politically neutral content by default, and Despicable Me 4 is the clearest example in the studio's 2024 output.</p>
+      <p><a href="/reviews/despicable-me-4-2024/">Read the full VirtueVigil review of Despicable Me 4</a></p>
+
+      <hr>
+
+      <h2>#7 - Paddington in Peru (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 2.0 &bull; <strong>Traditional Score:</strong> 9.0 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +7.0 TRAD</p>
+      <p>The third Paddington film continues the series' core argument: that courtesy, warmth, and genuine goodness are more powerful than cynicism. The Browns are an intact, loving family who make decisions together. The adventure in Peru is driven by familial bonds rather than social commentary. Paddington remains one of the safest franchises in mainstream family entertainment, and this entry does nothing to change that reputation. The VirtueVigil score reflects a film that is simply kind and traditional without trying to be either.</p>
+      <p><a href="/reviews/paddington-in-peru-2024/">Read the full VirtueVigil review of Paddington in Peru</a></p>
+
+      <hr>
+
+      <h2>#8 - IF (Imaginary Friends) (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 4.0 &bull; <strong>Traditional Score:</strong> 9.0 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +5.0 TRAD</p>
+      <p>John Krasinski's most emotionally ambitious film is built around a father-daughter bond and the terror of losing a parent. Twelve-year-old Bea's entire journey is shaped by her love for her hospitalized father, and the film earns its emotional weight by taking that relationship seriously. The diverse ensemble of imaginary friends earns a modest woke score, but the dominant framework is traditional: grief, family love, and the resilience that comes from being anchored to the people who matter most.</p>
+      <p><a href="/reviews/if-2024/">Read the full VirtueVigil review of IF (Imaginary Friends)</a></p>
+
+      <hr>
+
+      <h2>#9 - Flow (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 5.78 &bull; <strong>Traditional Score:</strong> 10.64 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +4.9 TRAD</p>
+      <p>Latvia's first Oscar winner is a wordless animated film made by one person over five years using free software. A cat survives a flooded, human-free world alongside other animals. The environmental catastrophe framing earns a woke score, but Gints Zilbalodis was not making a climate lecture. He was making a survival story about a solitary creature learning to exist in community. The film's traditional scores come from its quiet emphasis on cooperation, resilience, and earned trust. The Oscar was deserved. The content is safer than most Disney releases.</p>
+      <p><a href="/reviews/flow-2024/">Read the full VirtueVigil review of Flow</a></p>
+
+      <hr>
+
+      <h2>#10 - Moana 2 (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 13.0 &bull; <strong>Traditional Score:</strong> 17.0 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +4.0 TRAD</p>
+      <p>The sequel to Disney's 2016 cultural phenomenon preserves the Pacific Islander authenticity that made the original special. The cultural specificity earns traditional scores that keep the balance positive despite progressive elements. Moana 2 is a competent if lesser follow-up that coasts on affection for the original while adding team dynamics and expanded mythology. It is fine, and families who loved the first film will enjoy it. The ideological content is modest and the traditional framing of community, ancestry, and duty holds.</p>
+      <p><a href="/reviews/moana-2-2024/">Read the full VirtueVigil review of Moana 2</a></p>
+
+      <hr>
+
+      <h2>#11 (Most Woke) - Kung Fu Panda 4 (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 10.0 &bull; <strong>Traditional Score:</strong> 7.0 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Margin:</strong> -3.0 WOKE</p>
+      <p>The only 2024 animated film to score net woke, and only narrowly. Kung Fu Panda 4 trades the original trilogy's master-student mentorship framework for identity politics and franchise management. Po is pushed aside from his Dragon Warrior role to make room for a new female protagonist, and the film's progressive elements outweigh what remains of the original's merit-based achievement framing. The mentorship and legacy transmission that defined the earlier films is still present but diluted. A disappointing entry in a once-great franchise, and the most ideologically progressive animated film parents will encounter from 2024's major releases.</p>
+      <p><a href="/reviews/kung-fu-panda-4-2024/">Read the full VirtueVigil review of Kung Fu Panda 4</a></p>
+
+      <hr>
+
+      <h2>The Verdict on 2024 Animation</h2>
+      <p>Ten out of eleven 2024 animated films scored net traditional. That is the best genre-wide ratio VirtueVigil has recorded for any major year in animation. The Wild Robot and Solo Leveling: ReAwakening stand as two of the most traditionally scored animated releases in recent memory. Transformers One and Inside Out 2 prove that major franchise films can succeed without progressive messaging. Even the Disney entries, historically the most ideologically active studio in family animation, came in on the traditional side. Kung Fu Panda 4 is the exception, and it paid a price in audience goodwill.</p>
+
+      <p>For parents building a watch list, 2024 animated film is a strong year. Start with The Wild Robot. Work through Transformers One and Inside Out 2. Save the franchise entries for when the kids ask. And skip Kung Fu Panda 4 if your children loved what the original stood for: what remains of that is getting harder to find in the sequels.</p>
+
+      <p>Browse the full VirtueVigil database at <a href="/">virtuevigil.com</a> for every scored film, sorted by genre, year, platform, and values rating. See also <a href="/lists/animated-family-movies-2025-woke-ranking/">Every 2025 Animated &amp; Family Movie Ranked</a> and <a href="/lists/animated-family-movies-2026-woke-ranking/">Every 2026 Animated &amp; Family Movie Ranked</a> for the complete three-year picture.</p>
+
+      <h2>Methodology Note</h2>
+      <p>VirtueVigil scores films on a 0-100 scale measuring the density of ideologically progressive content across gender politics, religious framing, racial messaging, sexual content framing, and institutional critique. The Traditional Score measures the density of traditional values content including faith, family, duty, sacrifice, and merit. Scores reflect content density, not quality. For methodology details visit our <a href="/methodology.html">Methodology page</a>.</p>
+    </article>`
+  }));
+}
 
 } // close buildSite async wrapper
 
