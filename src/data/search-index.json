@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/supergirl-2026.jpg"
   },
   {
+    "slug": "evil-dead-burn-2026",
+    "title": "Evil Dead: Burn",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Horror / Supernatural / Survival",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.1,
+    "tradScore": 13.86,
+    "poster": "/images/posters/evil-dead-burn-2026.jpg"
+  },
+  {
     "slug": "terminator-2-judgment-day-1991",
     "title": "Terminator 2: Judgment Day",
     "verdict": "TRADITIONAL",
