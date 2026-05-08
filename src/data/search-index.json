@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/creed-2015.jpg"
   },
   {
+    "slug": "dunkirk-2017",
+    "title": "Dunkirk",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "War / Historical Drama",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 1.7,
+    "tradScore": 24.08,
+    "poster": "/images/posters/dunkirk-2017.jpg"
+  },
+  {
     "slug": "jack-ryan-ghost-war-2026",
     "title": "Jack Ryan: Ghost War",
     "verdict": "TRADITIONAL",
