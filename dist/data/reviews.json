@@ -126904,5 +126904,232 @@
       "Dunkirk war film traditional",
       "Nolan Dunkirk ideology"
     ]
+  },
+  {
+    "id": "lone-survivor-2013",
+    "slug": "lone-survivor-2013",
+    "title": "Lone Survivor",
+    "year": 2013,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "War / Action / Biography",
+    "date": "2026-05-08",
+    "datePublished": "2026-05-08",
+    "dateRelease": "2014-01-10",
+    "author": "Debra Ducane",
+    "readTime": "14 min",
+    "poster": "/images/posters/lone-survivor-2013.jpg",
+    "rating": "R (Strong Bloody War Violence and Pervasive Language)",
+    "runtime": "121 min",
+    "director": "Peter Berg",
+    "cast": [
+      "Mark Wahlberg",
+      "Taylor Kitsch",
+      "Emile Hirsch",
+      "Ben Foster",
+      "Eric Bana",
+      "Alexander Ludwig",
+      "Ali Suliman"
+    ],
+    "genres": [
+      "War",
+      "Biography",
+      "Action"
+    ],
+    "studio": "Universal Pictures / Emmett/Furla/Oasis Films",
+    "distributor": "Universal Pictures",
+    "verdict": "STRONGLY TRADITIONAL",
+    "wokeScore": 2.45,
+    "tradScore": 25.34,
+    "authIndex": 90,
+    "scoreMargin": "+23 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Lone Survivor is not a woke trap. The margin is +22.89 TRAD. The rules of engagement debate is the only sequence that carries any moral ambiguity, and the film does not frame it as an argument against the military. It frames it as the cost of honor: these men chose to die for a code rather than compromise it. That is a profoundly traditional value. No negative margin, no hidden messaging, no trap."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 75,
+      "rottenTomatoesAudience": 90,
+      "imdb": 7.5,
+      "metacritic": 60,
+      "oscarNominations": 2,
+      "oscarWins": 0,
+      "oscarCategories": "Best Sound Editing, Best Sound Mixing",
+      "budget": "$40M",
+      "globalBoxOffice": "$154.8M domestic / $173M worldwide"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Peter Berg",
+        "ideology": "LEAN TRADITIONAL. Berg is Hollywood's most consistent director of military and patriotic American stories. He does not apologize for them. Friday Night Lights, Lone Survivor, Patriots Day, Deepwater Horizon, and Mile 22 form a body of work that consistently centers working-class American men doing difficult things with competence and sacrifice. His politics read as broadly patriotic and practically conservative.",
+        "profile": "Berg adapted Marcus Luttrell's memoir with Luttrell's active involvement and cooperation. He spent significant time with Navy SEALs in preparation, and the training footage at the film's opening is genuine SEAL training documentation. Berg's approach to military subjects is to treat the men as adults doing an extraordinarily demanding job, not as props for political statements. His critic scores often lag behind audience scores because his unapologetic patriotism does not appeal to the critical establishment. Lone Survivor has a 75% on Rotten Tomatoes from critics and a 90% from audiences. The gap tells you everything about who the film is for."
+      },
+      "writer": {
+        "name": "Peter Berg",
+        "ideology": "LEAN TRADITIONAL. The screenplay adapts Luttrell's memoir with fidelity to its central argument: these men chose honor over survival, and that choice is worth honoring in return.",
+        "profile": "Berg wrote the screenplay from Marcus Luttrell's 2007 memoir of the same name. The decision to open the film with real SEAL training footage and close it with photographs of the 19 Americans killed in Operation Red Wings is a deliberate statement about purpose: this is a film made to honor real people, not to exploit their story. The screenplay's handling of the rules of engagement debate is genuinely difficult and does not give easy answers. It presents three intelligent men reaching different conclusions about an impossible choice. That moral honesty is the script's greatest strength."
+      },
+      "lead_producer": {
+        "name": "Sarah Aubrey / Norton Herrick / Randall Emmett",
+        "company": "Universal Pictures / Film44",
+        "ideology": "NEUTRAL. No ideological agenda beyond producing the film."
+      },
+      "composer": {
+        "name": "Explosions in the Sky / Steve Jablonsky",
+        "signal": "Post-rock band Explosions in the Sky (Friday Night Lights) contributed to the score alongside Jablonsky. The music is atmospheric and mournful, treating the violence as tragedy rather than entertainment. No political agenda in the music."
+      },
+      "top_cast": [
+        {
+          "name": "Mark Wahlberg",
+          "role": "Marcus Luttrell"
+        },
+        {
+          "name": "Taylor Kitsch",
+          "role": "Lt. Michael Murphy"
+        },
+        {
+          "name": "Emile Hirsch",
+          "role": "Danny Dietz"
+        },
+        {
+          "name": "Ben Foster",
+          "role": "Matt Axelson"
+        },
+        {
+          "name": "Eric Bana",
+          "role": "Lt. Cmdr. Erik Kristensen"
+        },
+        {
+          "name": "Alexander Ludwig",
+          "role": "Shane Patton"
+        },
+        {
+          "name": "Ali Suliman",
+          "role": "Mohammed Gulab"
+        }
+      ]
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-030",
+        "name": "Rules of Engagement Moral Debate",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "The film's pivotal scene involves the four SEALs debating what to do after they discover three Pashtun goatherds, including a young boy, who have stumbled onto their hidden position. Their options are: kill the civilians (illegal under ROE, morally catastrophic), tie them to a tree and leave them (they'll die of exposure), or release them and face likely compromise of the mission. Murphy decides to release them, citing the ROE and their own moral convictions. The debate is presented honestly, with characters making intelligent arguments for different positions. Dietz and Axelson advocate for harsher options. Murphy and Luttrell hold the line on the ROE. The film does not judge the men who argued for killing. It honors the men who chose not to. Authenticity is High because this debate is documented in Luttrell's memoir as having occurred almost exactly this way."
+      },
+      {
+        "id": "WOKE-031",
+        "name": "Afghan Civilians Depicted with Dignity",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.35,
+        "description": "Mohammed Gulab and his village shelter Luttrell at enormous personal risk. The film treats them as fully realized human beings with their own honor code, genuine courage, and real stakes. This is not a statement about the Afghanistan War or American foreign policy. It is an accurate portrayal of the Pashtunwali code and of the specific people who saved Luttrell's life. Authenticity is High because it happened exactly this way. The complexity is earned rather than injected."
+      },
+      {
+        "id": "TRAD-030",
+        "name": "Military Brotherhood and the Choice to Die Together",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "Four men. One mission. The film's central emotional argument is that these men chose each other over survival at every decision point. Murphy exposes himself to certain death to get radio contact for a distress call, walking uphill into the open. Axelson fights until he physically cannot fight any longer, covering Luttrell's escape. Dietz keeps moving on wounds that should have incapacitated him ten minutes earlier. Every death is depicted as a choice: a man deciding that his brothers matter more than his survival. This is military brotherhood at its most distilled and most honest."
+      },
+      {
+        "id": "TRAD-031",
+        "name": "Honor Code Above Self-Preservation",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "The entire film turns on a single moral decision: the SEALs release the goatherds because the rules of engagement and their own conscience demand it, even though doing so probably means their deaths. Murphy says it directly: 'We're not doing it. We're not killing kids.' This is not sentimentality. It is the belief that being the kind of person who does not kill children is more important than surviving. The film presents this as the correct choice, not as naive idealism. The men who made that choice are heroes. The film does not second-guess them."
+      },
+      {
+        "id": "TRAD-032",
+        "name": "Tribute to the Fallen as Sacred Obligation",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "The film closes with photographs of the 19 Americans killed in Operation Red Wings, including the 8 SEALs and 8 Night Stalker crew killed in the rescue attempt. Real faces. Real names. Real people whose families will carry this forever. This is not a marketing decision. It is a moral statement: these people existed, they died doing something that mattered, and they deserve to be remembered by name. Berg and Luttrell made this film because they believe that obligation is real. The closing photographs are one of the most genuinely moving sequences in American war cinema."
+      },
+      {
+        "id": "TRAD-033",
+        "name": "Traditional Masculine Competence at Peak Capacity",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "description": "The opening training footage and the combat sequences both treat male physical and tactical competence with genuine reverence. These are not generic action heroes. They are men who have trained for years to reach physical and mental capacities most humans never approach. The film does not treat this with irony. It does not deconstruct the warrior archetype. It respects it. The SEALs' competence makes their deaths more devastating, not less: these were the best possible men in the worst possible situation."
+      },
+      {
+        "id": "TRAD-034",
+        "name": "Pashtunwali: A Universal Honor Code Transcending Politics",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "description": "Mohammed Gulab risks his life and his entire village to protect Luttrell, per the Pashtunwali code of Lokhay: the obligation to protect a guest at any cost. He turns away Taliban commanders who come to take Luttrell. He walks Luttrell to the American base through Taliban-held territory. The film presents Pashtunwali not as cultural exoticism but as a genuine honor code with real stakes. The point is clear: traditional values of duty, hospitality, and courage are not uniquely Western or American. They exist across cultures, and where they exist, they produce the same results: people protecting each other at personal cost."
+      },
+      {
+        "id": "TRAD-035",
+        "name": "Will to Survive in Service of Others",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Luttrell's survival is depicted as the result of his training, Gulab's protection, and something beyond both: a refusal to quit that the film presents as fundamentally tied to his accountability to his teammates. He is the lone survivor. He carries the weight of that. The will to live is not for himself; it is because his brothers' deaths deserve a witness who can tell the truth about how they died. This is a traditional understanding of survival as obligation rather than luck."
+      }
+    ],
+    "summary": {
+      "overall": "Peter Berg made Lone Survivor because Marcus Luttrell asked him to. That origin matters. This is not a Hollywood producer's decision to exploit military sacrifice for box office returns. It is a filmmaker honoring a promise to a man who lost his entire team on a mountain in Afghanistan in 2005 and has spent the years since trying to make sure they are not forgotten.\n\nOperation Red Wings. June 28, 2005. Four Navy SEALs insert into the Kunar Province of Afghanistan to surveil and assess Taliban commander Ahmad Shah. Their mission is compromised when three Pashtun goatherds stumble onto their position. What follows is one of the costliest special operations losses in American military history: 19 Americans dead, including all three of the men sent to rescue the SEAL team, and three of the four SEALs on the ground. One man survived.\n\nThe film earns its R rating. The combat sequences in the second half are among the most physically brutal in recent American war cinema, not because Berg is showing off, but because he needs you to understand what these men endured and still kept fighting. They fall down ridges. They absorb rounds. They keep moving. The physical punishment is not gratuitous; it is testimony. This is what they actually went through.\n\nThe film's moral center is the rules of engagement scene, about 40 minutes in. Murphy, Luttrell, Dietz, and Axelson have the three goatherds zip-tied in front of them. The oldest one stares at Murphy with pure hatred. The boy won't look at anyone. Murphy goes through the options: kill them, leave them tied to die of exposure, or release them and likely get compromised. Dietz and Axelson push back hard. Murphy holds the line. He releases them. Within the hour, dozens of Taliban fighters are coming up the mountain.\n\nSome critics found this scene politically convenient, a way to make the SEALs seem morally superior to their enemy. That reading misses the point. The film is not arguing that military action in Afghanistan was wise or that the rules of engagement are always right. It is arguing that these specific men chose to be the kind of people who do not kill children, and they paid for that choice with their lives. That is not propaganda. That is a moral fact, and it deserves to be honored.\n\nMark Wahlberg carries the film's emotional weight without ever seeming to be doing so consciously. This is his best physical performance: he commits to every fall, every wound, every moment of pure exhaustion. But the standout among the four is Ben Foster as Axelson, who fights on wounds that would have dropped anyone else and covers Luttrell's escape with the kind of defiant courage that you usually only see in fiction. Taylor Kitsch's Murphy is the performance the film rests on, and he delivers it quietly and completely.\n\nMohammed Gulab (Ali Suliman) is not a small part. He is the film's second argument. The Pashtunwali code of Lokhay, the obligation to protect a guest at any cost, motivates him to risk his village and his family to keep one American soldier alive. The Taliban come for Luttrell. Gulab turns them away. Berg treats Gulab with the same respect he treats the SEALs: as a man with a genuine honor code making difficult choices because that is what his values demand.\n\nThe film closes with real photographs of the 19 men who died. Real faces. Real ages. Real families who received folded flags. The gap between the film's commercial success ($154M domestic) and its critical reception (75% RT) is a perfect illustration of the gap between critics who found the film too simple and audiences who understood exactly what it was saying. War is not complex in the way graduate seminars mean when they use that word. War is complex in the way that men dying for each other is complex: it is simultaneously the worst thing human beings do to each other and the context that produces the most transcendent examples of what human beings can be for each other.\n\nLone Survivor understands that. Berg made it to honor 19 men whose names should not be forgotten. It succeeds.",
+      "oneLiner": "Peter Berg's tribute to the 19 Americans killed in Operation Red Wings. Brotherhood, honor code, and sacrifice rendered with brutal honesty. One of the best military films of the 2010s.",
+      "verdict": "Lone Survivor is STRONGLY TRADITIONAL. The film is built on military brotherhood, honor codes, self-sacrifice, and the belief that how you choose to die defines who you are. The rules of engagement debate is the most morally complex sequence in the film, and it lands on the traditional side: these men chose their code over their survival. The tribute to the fallen is genuine and earned.",
+      "adultInsight": "Essential viewing for anyone interested in military film or in understanding what actual service looks like at the pointy end. The rules of engagement debate is genuinely thought-provoking and does not offer easy answers. The Pashtunwali sequence, Mohammed Gulab's protection of Luttrell, is one of the most interesting explorations of universal honor codes in American war cinema. The closing photographs are devastating. This is a film made with genuine moral seriousness about real people, and it shows.",
+      "parentalGuidance": "Ages 17+. Hard R. The combat violence is sustained, intense, and realistic: multiple gunshot wounds, men falling down rocky terrain, blood throughout. Not appropriate for sensitive viewers or anyone under 15. Language is pervasive military profanity. No sexual content. No drug use. The themes of honor, death, and sacrifice are handled with mature seriousness and are appropriate for discussion with older teenagers who can handle the violence."
+    },
+    "seo": {
+      "titleTag": "Is Lone Survivor (2013) Woke? | VirtueVigil Full VVWS Review",
+      "metaDescription": "VirtueVigil's full VVWS v1.1 review of Lone Survivor (2013). TradScore 25.34, WokeScore 2.45, margin +23 TRAD. Verdict: STRONGLY TRADITIONAL. Brotherhood, honor code, and tribute to fallen warriors.",
+      "keywords": "lone survivor woke, is lone survivor woke, lone survivor conservative review, lone survivor traditional values, peter berg lone survivor review, lone survivor mark wahlberg, virtuevigil lone survivor, lone survivor woke score"
+    },
+    "box_office_gross": "$154.8M domestic / $173M worldwide",
+    "rt_score": 75,
+    "imdb_score": 7.5,
+    "parental_guidance": {
+      "violence": "Severe. Sustained realistic combat violence, gunshot wounds, physical trauma. Hard R.",
+      "language": "Severe. Pervasive military profanity throughout.",
+      "sexual_content": "None.",
+      "drug_use": "None.",
+      "age_recommendation": "17+"
+    },
+    "seoTitle": "Is Lone Survivor (2013) Woke? Mark Wahlberg Navy SEAL Film Reviewed | VirtueVigil",
+    "seoDescription": "VirtueVigil's complete VVWS v1.1 review of Lone Survivor (2013). TradScore 25.34, margin +23 TRAD. Verdict: STRONGLY TRADITIONAL. Military brotherhood, honor code, and tribute to fallen soldiers.",
+    "seoKeywords": [
+      "is Lone Survivor woke",
+      "Lone Survivor 2013 conservative review",
+      "Lone Survivor traditional values",
+      "Peter Berg Lone Survivor review",
+      "Lone Survivor woke score",
+      "Mark Wahlberg Navy SEAL movie review",
+      "Lone Survivor VirtueVigil",
+      "is Lone Survivor appropriate families",
+      "Lone Survivor Operation Red Wings review",
+      "Lone Survivor VVWS review",
+      "military movie traditional review 2013",
+      "Lone Survivor woke or not"
+    ]
   }
 ]

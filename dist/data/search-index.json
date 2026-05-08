@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/dunkirk-2017.jpg"
   },
   {
+    "slug": "lone-survivor-2013",
+    "title": "Lone Survivor",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "War / Action / Biography",
+    "year": 2013,
+    "type": "film",
+    "wokeScore": 2.45,
+    "tradScore": 25.34,
+    "poster": "/images/posters/lone-survivor-2013.jpg"
+  },
+  {
     "slug": "jack-ryan-ghost-war-2026",
     "title": "Jack Ryan: Ghost War",
     "verdict": "TRADITIONAL",
