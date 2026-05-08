@@ -126441,5 +126441,232 @@
       "metaDescription": "VirtueVigil's full VVWS v1.1 pre-release review of Evil Dead: Burn (2026) directed by S\u00e9bastien Vanicek. We audit the Evil Dead franchise's latest for woke content and answer: traditional or woke? Verdict: TRADITIONAL (+11 margin).",
       "keywords": "is Evil Dead Burn woke, Evil Dead Burn 2026 review, Sebastien Vanicek Evil Dead, Evil Dead Burn traditional, Evil Dead franchise woke, Hunter Doohan Evil Dead Burn, Evil Dead Burn parental guide, Evil Dead Burn conservative review, Evil Dead Burn July 2026"
     }
+  },
+  {
+    "id": "creed-2015",
+    "slug": "creed-2015",
+    "title": "Creed",
+    "year": 2015,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Drama / Sports",
+    "date": "2026-05-08",
+    "datePublished": "2026-05-08",
+    "dateRelease": "2015-11-25",
+    "author": "Debra Ducane",
+    "readTime": "13 min",
+    "poster": "/images/posters/creed-2015.jpg",
+    "rating": "PG-13 (Violence, Language, Brief Sexual Content)",
+    "runtime": "133 min",
+    "director": "Ryan Coogler",
+    "cast": [
+      "Michael B. Jordan",
+      "Sylvester Stallone",
+      "Tessa Thompson",
+      "Phylicia Rashad",
+      "Tony Bellew",
+      "Graham McTavish",
+      "Wood Harris"
+    ],
+    "genres": [
+      "Drama",
+      "Sports",
+      "Legacy Film"
+    ],
+    "studio": "Metro-Goldwyn-Mayer / Warner Bros. Pictures",
+    "distributor": "Warner Bros. Pictures",
+    "verdict": "STRONGLY TRADITIONAL",
+    "wokeScore": 2.7,
+    "tradScore": 24.64,
+    "authIndex": 88,
+    "scoreMargin": "+22 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Creed (2015) is not a woke trap. The margin is +21.94 TRAD, which means the traditional designation is not even close. The woke signals present, primarily the illegitimacy backstory and some light racial gatekeeping subtext in the boxing establishment, are genre-organic and historically grounded rather than ideological injections. Nothing is concealed. The film's values, work ethic, mentorship, earned legacy, and masculine perseverance, are front-loaded from the first frame. No trap here."
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 95,
+      "rottenTomatoesAudience": 92,
+      "imdb": 7.6,
+      "metacritic": 83,
+      "oscarNominations": 1,
+      "oscarWins": 0,
+      "oscarCategories": "Best Supporting Actor (Stallone)",
+      "budget": "$35M",
+      "globalBoxOffice": "$173.6M worldwide"
+    },
+    "creative_team": {
+      "director": {
+        "name": "Ryan Coogler",
+        "ideology": "MODERATELY WOKE. Coogler centers race and social context in his work, but his storytelling instincts consistently serve the story rather than the agenda. Creed is the clearest proof: this is a film about fathers and sons, discipline and legacy, built on the most traditional sports movie framework in Hollywood history.",
+        "profile": "Coogler made Creed at 28. His debut Fruitvale Station was a gut-punch about Oscar Grant, raw and political and genuinely great. Creed is something different: a crowd-pleasing Rocky sequel that happened to reframe the franchise with a Black protagonist and director. The key word is 'reframe.' Coogler did not reimagine Rocky as a social justice vehicle. He used the Rocky architecture to tell a story about what sons inherit from fathers they never knew, and what mentors owe the men they take on. The racial context is present but never polemical. What dominates is craft: the famous one-take boxing sequence, the emotional precision of Stallone's performance, the relationship between a young man and his grief. Creed earned its $173M worldwide. And it earned its Best Supporting Actor nomination for Stallone, his first since the original Rocky in 1977."
+      },
+      "writer": {
+        "name": "Ryan Coogler, Aaron Covington",
+        "ideology": "NEUTRAL to MODERATELY WOKE. The screenplay is disciplined. Racial subtext exists but never overshadows the character work or the traditional sports movie scaffolding.",
+        "profile": "Covington wrote the original story and co-wrote the screenplay with Coogler. The script's architecture is classical: outsider with extraordinary potential, unlikely mentor with something left to prove, obstacle after obstacle, moral victory at the end. The innovation is Adonis's specific psychology. He does not want to ride his father's name. He wants to earn his own. That decision, to refuse the inheritance of fame in favor of earning earned respect, is about as American a value as exists in cinema. The script earns every emotional beat."
+      },
+      "lead_producer": {
+        "name": "Irwin Winkler / Robert Chartoff / William Chartoff / Charles Winkler",
+        "company": "Metro-Goldwyn-Mayer",
+        "ideology": "NEUTRAL. The Winkler/Chartoff team produced the original Rocky series. No ideological agenda beyond commercial and craft excellence."
+      },
+      "composer": {
+        "name": "Ludwig Goransson",
+        "signal": "Goransson's score blends hip-hop production with orchestral drama, treating both with equal seriousness. It sounds like Philadelphia. It sounds like the inside of a training gym at 5 AM. No political agenda in the music."
+      },
+      "top_cast": [
+        {
+          "name": "Michael B. Jordan",
+          "role": "Adonis Creed"
+        },
+        {
+          "name": "Sylvester Stallone",
+          "role": "Rocky Balboa"
+        },
+        {
+          "name": "Tessa Thompson",
+          "role": "Bianca"
+        },
+        {
+          "name": "Phylicia Rashad",
+          "role": "Mary Anne Creed"
+        },
+        {
+          "name": "Tony Bellew",
+          "role": "Pretty Ricky Conlan"
+        },
+        {
+          "name": "Graham McTavish",
+          "role": "Tommy Holiday"
+        },
+        {
+          "name": "Wood Harris",
+          "role": "Tony 'Little Duke' Burton"
+        }
+      ]
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-010",
+        "name": "Illegitimacy as Backstory Foundation",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "The entire premise is built on Adonis being Apollo Creed's illegitimate son, born from an affair. The film does not moralize about this. It uses the illegitimacy as a wound that drives Adonis's psychology: he was denied his father's name, denied his father's presence, and now wants to claim something of his own on his own terms. The backstory is functional and emotionally resonant rather than politically charged. Authenticity scores Moderate because the film acknowledges the hurt of absent fatherhood without idealizing illegitimacy as a lifestyle."
+      },
+      {
+        "id": "WOKE-011",
+        "name": "Boxing Establishment Resistance",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "When Adonis approaches the Delphi Boxing gym (his father's old team), they turn him away. There is institutional resistance to Adonis as an outsider who hasn't come up through the traditional channels. This is not framed explicitly as racial gatekeeping but carries some of that subtext. The resistance is genre-standard for sports movies: the establishment resists the upstart. Authenticity is High because professional boxing organizations genuinely resist fighters without pedigree, regardless of race."
+      },
+      {
+        "id": "TRAD-010",
+        "name": "Masculine Mentorship and Surrogate Fatherhood",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "Rocky becoming Adonis's trainer is the film's emotional core, and it works on every level. Rocky lost Mickey, his trainer-as-father. He lost Adrian. He's been alone and aimless for years. Adonis lost Apollo before he was born. He has Marie Anne, his father's widow who raised him with love and privilege, but he doesn't have a man who believes in him the way Mickey believed in Rocky. Their relationship fills that gap for both of them. Rocky teaches Adonis. Adonis gives Rocky a reason to fight his cancer. This is not therapy-speak about emotional support networks. It is two men who need each other doing what men do: showing up, working hard, demanding more, and caring through action rather than conversation."
+      },
+      {
+        "id": "TRAD-011",
+        "name": "Work Ethic and Discipline as the Only Path",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "description": "Every training sequence in this film is an argument for discipline over talent. Adonis is physically gifted, but the film has zero interest in that gift unless it is backed by thousands of hours of punishing work. The famous one-take training sequence, Adonis running through the streets of Philadelphia with a pack of motorcycles trailing him, is one of the most kinetically joyful things Coogler has put on screen. But it is also unambiguous: greatness is not given, it is earned through physical and mental discipline, day after day, in a cold gym before the sun comes up."
+      },
+      {
+        "id": "TRAD-012",
+        "name": "Legacy, Bloodline, and the Weight of a Name",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "description": "The film is fundamentally about what you inherit from a father you never knew and what you do with it. Adonis refuses to use the Creed name early on because he wants to build his own identity, not cash a check his father wrote. When he finally allows himself to be Adonis Creed in the ring, it is not capitulation. It is integration: he has become worthy of the name through his own effort. This is a classically conservative understanding of legacy: you earn what you inherit by living up to it, not by discarding it."
+      },
+      {
+        "id": "TRAD-013",
+        "name": "Perseverance Through Pain and Moral Victory",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "description": "Adonis loses the fight. He goes the distance with the world champion, knocking him down twice, but loses on a split decision. The film frames this as victory. Not participation-trophy victory. Real victory: you set out to prove something, you proved it, and winning the belt was never the actual goal. The Rocky series has always understood this distinction between championship and character. Creed honors that understanding while making it feel fresh."
+      },
+      {
+        "id": "TRAD-014",
+        "name": "Committed Romantic Relationship Built on Honesty",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Adonis and Bianca's relationship is grounded in mutual respect and direct communication. When Adonis reveals who his father was, Bianca doesn't run. When she reveals she has progressive hearing loss that will eventually leave her deaf, Adonis doesn't run. Two people being honest with each other about what they carry. The film treats their relationship as a source of strength rather than complication. Tessa Thompson and Michael B. Jordan have real chemistry, and the writing respects them both as full people."
+      },
+      {
+        "id": "TRAD-015",
+        "name": "Personal Accountability and Self-Made Identity",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Adonis had everything handed to him. Mary Anne Creed raised him with wealth, privilege, and love. He walked away from a finance job at a hedge fund to pursue boxing. His establishment family thinks he's throwing his life away. He does it anyway, on his own terms, using his own body, taking full accountability for every choice. The film never frames this as rebellion against oppression. It frames it as a man choosing to test himself rather than coast on inherited comfort. That's a profoundly traditional value system."
+      }
+    ],
+    "summary": {
+      "overall": "Ryan Coogler took one of Hollywood's most sacred franchises and made it matter again. That should have been impossible. The Rocky series had been diminishing returns for decades, and the idea of a spinoff centered on Apollo Creed's illegitimate son sounded like franchise desperation. It is the opposite. Creed is the best Rocky film since the original 1976 picture. Possibly better than the original, depending on what you're measuring.\n\nAdonis Creed (Michael B. Jordan) has everything money can buy and nothing money can actually provide. He's Apollo Creed's son by affair, raised in luxury by his father's widow Mary Anne (Phylicia Rashad), educated and provided for in ways most people never experience. He quits his finance job to pursue boxing. His family thinks he's lost his mind. The Delphi Boxing gym, his father's old team, won't train him because they don't want the liability of Apollo Creed's son getting hurt in the ring. So he drives from LA to Philadelphia and shows up at a closed restaurant run by Rocky Balboa.\n\nSylvester Stallone has made a long career out of playing characters who refuse to quit. Rocky is the purest expression of that. But Stallone in 2015 gives the best performance of his life, and that is not a qualified compliment. The Rocky he plays here is tired and resigned and lonely. He visits Adrian's grave every week. He's eating alone at his restaurant on Sunday mornings. He has nothing left to fight for, which means he has no reason to get out of bed. Adonis gives him one. Stallone was nominated for Best Supporting Actor at the Oscars and should have won. The Academy gave it to Mark Rylance in Bridge of Spies, which is a defensible choice and also wrong.\n\nThe mentorship between Rocky and Adonis is the whole film. Everything else, the fights, the romance with Bianca (Tessa Thompson), the training montages, the revelation of Rocky's cancer diagnosis, all of it circles back to two men who need each other for different reasons and can only communicate that need through the work of boxing. Rocky never says he loves Adonis. He shows up every morning. He watches every fight with his hand pressed against his chest, willing Adonis through every punch. That's how traditional masculine love actually works, and Coogler understands it without any need to explain it.\n\nThe famous one-take boxing sequence, filmed on a single Steadicam pass, remains one of the best constructed shots in sports cinema. It puts you inside the ring with the kind of immediacy that most fight choreography can't achieve. You feel the punches. You hear the crowd. You understand in your body what Adonis is risking. This is filmmaking craft serving story, not showing off.\n\nThe film ends with Adonis losing on a split decision. Two judges give it to Conlan. One judge gives it to Adonis. And Adonis, bloodied and standing, was not supposed to survive that long. He went the distance. He knocked down the champion. He proved what he came to prove. The Rocky series has always known that the belt is the wrong measure of success. Character is the measure. Creed honors that tradition completely.\n\nConservative audiences will find this film deeply satisfying. The values it operates on, work ethic, masculine mentorship, earned legacy, personal accountability, and commitment to the people who depend on you, are exactly the values that made the original Rocky resonate in 1976. Coogler did not modernize them. He trusted them. The trust was rewarded with $173M worldwide and a film that still holds up a decade later.",
+      "oneLiner": "The best Rocky film since 1976. A masterclass in masculine mentorship, earned legacy, and what it actually means to prove yourself.",
+      "verdict": "Creed is STRONGLY TRADITIONAL. The film operates on a framework of work ethic, masculine mentorship, earned legacy, and personal accountability that is fundamentally conservative in the best sense. The woke signals are minor and genre-organic. This is not a progressive film wearing traditional clothes. This is a traditional film made with genuine craft and emotional intelligence.",
+      "adultInsight": "Required viewing for any parent raising a son who wants to understand how to talk about fathers, discipline, and proving yourself without a lecture. The Stallone performance alone is worth 2 hours. The Rocky/Adonis mentorship relationship models what men owe each other across generations more clearly than almost anything else in contemporary cinema. The racial context is present but never weaponized. This is a film about universal values told through specific characters. It earns that universality.",
+      "parentalGuidance": "Appropriate for ages 13+. The PG-13 rating is accurate. Violence is boxing violence: intense, physical, occasionally bloody, never gratuitous. Language includes some profanity but nothing severe. There is a brief implied sexual encounter between Adonis and Bianca, tasteful and non-explicit. No drug use. The themes of illegitimacy, absent fathers, cancer, and fighting through grief are handled with emotional maturity and are worth discussing with teenagers."
+    },
+    "seo": {
+      "titleTag": "Is Creed (2015) Woke? | VirtueVigil Full VVWS Review",
+      "metaDescription": "VirtueVigil's full VVWS v1.1 review of Creed (2015). TradScore 24.64, WokeScore 2.70, margin +22 TRAD. Verdict: STRONGLY TRADITIONAL. Masculine mentorship, earned legacy, and work ethic dominate.",
+      "keywords": "creed 2015 woke, is creed woke, creed movie review conservative, creed traditional values, ryan coogler creed review, creed michael b jordan sylvester stallone, virtuevigil creed, creed woke score, creed rocky spinoff review"
+    },
+    "box_office_gross": "$173.6M worldwide ($109.7M domestic)",
+    "rt_score": 95,
+    "imdb_score": 7.6,
+    "parental_guidance": {
+      "violence": "Moderate. Boxing violence, intense and occasionally bloody. No gratuitous gore.",
+      "language": "Mild to moderate. Some profanity but nothing severe.",
+      "sexual_content": "Mild. Brief implied sexual encounter between Adonis and Bianca, non-explicit.",
+      "drug_use": "None.",
+      "age_recommendation": "13+"
+    },
+    "seoTitle": "Is Creed (2015) Woke? Michael B. Jordan Rocky Spinoff Reviewed | VirtueVigil",
+    "seoDescription": "VirtueVigil's complete review of Creed (2015). VVWS v1.1 scores every trope: tradScore 24.64, wokeScore 2.70, margin +22 TRAD. Verdict: STRONGLY TRADITIONAL. Work ethic, masculine mentorship, earned legacy.",
+    "seoKeywords": [
+      "is Creed 2015 woke",
+      "Creed movie conservative review",
+      "Creed 2015 traditional values",
+      "Ryan Coogler Creed review",
+      "Michael B Jordan Creed woke or not",
+      "Creed 2015 VirtueVigil score",
+      "Creed Sylvester Stallone review",
+      "Creed Rocky spinoff traditional",
+      "is Creed appropriate for families",
+      "Creed 2015 woke score",
+      "Creed VVWS review",
+      "Creed sports movie conservative"
+    ]
   }
 ]
