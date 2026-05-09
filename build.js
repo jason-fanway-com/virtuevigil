@@ -23338,6 +23338,122 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
 }
+  buildComedy2024WokeRankingListicle();
+
+// ============================================
+// LISTICLE: Every 2024 Comedy Movie Ranked by Woke Score
+// Added: 2026-05-08
+// ============================================
+  function buildComedy2024WokeRankingListicle() {
+  writePage('lists/comedy-movies-2024-woke-ranking/index.html', buildListiclePage({
+    slug: 'comedy-movies-2024-woke-ranking',
+    title: 'Every 2024 Comedy Movie Ranked by Woke Score',
+    description: 'All 12 reviewed 2024 comedy films ranked from most traditional to most woke. VirtueVigil\'s definitive guide to ideological content in 2024 comedy.',
+    canonicalPath: 'lists/comedy-movies-2024-woke-ranking',
+    publishDate: '2026-05-08',
+    htmlContent: `<article class="listicle-article">
+      <p>Comedy is supposed to be apolitical. It used to be. In 2024 the genre split hard: some comedies were exactly what they advertised, pure entertainment with no agenda, while others used jokes to deliver messaging that would not have survived a straight-faced delivery. The difference matters if you are choosing how to spend two hours.</p>
+
+      <p>VirtueVigil reviewed all 12 major comedy releases of 2024 and scored each one on our Woke Score methodology. The list below runs from most traditional to most ideologically progressive. Each entry links to the full review. The short version: 2024 comedy ran mostly traditional, with two clear exceptions at the bottom that earned their woke scores the hard way.</p>
+
+      <hr>
+
+      <h2>#1 (Most Traditional) - Am I Racist? (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 3.7 &bull; <strong>Traditional Score:</strong> 33.81 &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Margin:</strong> +30 TRAD</p>
+      <p>Matt Walsh's documentary comedy is the most traditionally scored comedy of 2024 by a substantial margin. Walsh goes undercover in DEI training and anti-racism spaces, exposing their internal contradictions with a straight face and a recorder running. The film earns its traditional scores by defending colorblind principles, lampooning institutional anti-racism as a racket, and arguing that treating people as individuals rather than racial categories is the correct moral position. It is sharp, funny, and more effective than a hundred op-eds on the same subject.</p>
+      <p><a href="/reviews/am-i-racist-2024/">Read the full VirtueVigil review of Am I Racist?</a></p>
+
+      <hr>
+
+      <h2>#2 - Sonic the Hedgehog 3 (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 4.2 &bull; <strong>Traditional Score:</strong> 18.34 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Margin:</strong> +14 TRAD</p>
+      <p>The best Sonic film yet is also the most politically neutral. Sonic 3 imports Shadow the Hedgehog from the games and builds a story around vengeance, found family, and the choice between darkness and belonging. The traditional scores reflect earned heroism, self-sacrifice, and consistent male friendship at the center of every major decision. There is no DEI casting exercise, no environmental lecture, no identity politics subplot. It is a video game adaptation that understood the assignment and delivered exactly what its audience wanted.</p>
+      <p><a href="/reviews/sonic-the-hedgehog-3-2024/">Read the full VirtueVigil review of Sonic the Hedgehog 3</a></p>
+
+      <hr>
+
+      <h2>#3 - Beverly Hills Cop: Axel F (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 4.0 &bull; <strong>Traditional Score:</strong> 15.0 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Margin:</strong> +11 TRAD</p>
+      <p>Eddie Murphy returning to Axel Foley for Netflix was a bigger deal than the streaming numbers suggested. The film earns its traditional scores by grounding the entire plot in Axel's relationship with his daughter: every reckless move he makes is in service of protecting her. The father-daughter bond is the moral center of the film, and it holds. The 1984 and 1987 franchise energy is preserved without retrofitting progressive messaging onto a character who never needed it. A clean legacy sequel that respects what came before.</p>
+      <p><a href="/reviews/beverly-hills-cop-axel-f-2024/">Read the full VirtueVigil review of Beverly Hills Cop: Axel F</a></p>
+
+      <hr>
+
+      <h2>#4 - Red One (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 5.35 &bull; <strong>Traditional Score:</strong> 16.44 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Margin:</strong> +11 TRAD</p>
+      <p>Amazon's Christmas action comedy had a rough critical reception but landed solidly traditional on the VirtueVigil scale. Dwayne Johnson plays the head of security for Santa Claus, and the film's values are exactly what the premise implies: Christmas spirit is real, sacrifice for others matters, and the cynical loner who does not believe in anything is the one who needs to be saved. The father-son reconciliation arc and the straightforward celebration of Christmas tradition anchor the traditional score. It is not a great film, but it is a safe one.</p>
+      <p><a href="/reviews/red-one-2024/">Read the full VirtueVigil review of Red One</a></p>
+
+      <hr>
+
+      <h2>#5 - Inside Out 2 (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 10.08 &bull; <strong>Traditional Score:</strong> 20.16 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Margin:</strong> +10 TRAD</p>
+      <p>Pixar's return to form was also its highest-grossing film ever. Inside Out 2 earns its comedy-drama designation by making anxiety funny before making it meaningful. The traditional scores come from Riley's intact, supportive family, the film's argument that complex feelings do not override character and values, and a resolution that trusts the audience to handle emotional nuance without being lectured. The diverse background casting earns a woke score, but the dominant framework is universal rather than ideological. A genuine achievement in mainstream family animation.</p>
+      <p><a href="/reviews/inside-out-2-2024/">Read the full VirtueVigil review of Inside Out 2</a></p>
+
+      <hr>
+
+      <h2>#6 - Fly Me to the Moon (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 5.78 &bull; <strong>Traditional Score:</strong> 14.28 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +9 TRAD</p>
+      <p>The Apollo 11 romantic comedy starring Scarlett Johansson and Channing Tatum earns its traditional score through its historical framing and its underlying argument that the moon landing was a genuine American achievement worth celebrating and worth dying for if necessary. The romance is conventional and the patriotic backdrop gives the film a clear values orientation. A modest woke score reflects the Johansson character's con-artist agency framing, but the dominant note is admiration for American ambition and the people who built something the world had never seen before.</p>
+      <p><a href="/reviews/fly-me-to-the-moon-2024/">Read the full VirtueVigil review of Fly Me to the Moon</a></p>
+
+      <hr>
+
+      <h2>#7 - Ghostbusters: Frozen Empire (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 6.0 &bull; <strong>Traditional Score:</strong> 10.0 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +4 TRAD</p>
+      <p>The second Ghostbusters: Afterlife entry suffers from franchise bloat but keeps its ideological content minimal. The Spengler family remains the emotional core, intergenerational legacy is explicitly valued, and the returning original cast is treated with respect rather than replaced. The film does not do anything interesting with its ideas, but it also does not use the screen time to lecture the audience. Ghostbusters: Frozen Empire is a mild traditional lean by default: a mainstream blockbuster that chose not to make choices.</p>
+      <p><a href="/reviews/ghostbusters-frozen-empire-2024/">Read the full VirtueVigil review of Ghostbusters: Frozen Empire</a></p>
+
+      <hr>
+
+      <h2>#8 - Argylle (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 11.2 &bull; <strong>Traditional Score:</strong> 13.0 &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Margin:</strong> +2 TRAD</p>
+      <p>Matthew Vaughn's spy comedy is a chaos delivery system that earns ideological scores on both sides for opposite reasons. The female lead spy framing and the diversity-forward casting push the woke score up. The patriotism framing, the competence-before-identity ethic, and the genuine action craft pull it back. The result is a film that does not have a coherent ideological position because it is not really trying to communicate one. It is trying to be entertaining, and it mostly succeeds. A genuine mixed result from a director who knows how to make genre films.</p>
+      <p><a href="/reviews/argylle-2024/">Read the full VirtueVigil review of Argylle</a></p>
+
+      <hr>
+
+      <h2>#9 - Hit Man (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 4.0 &bull; <strong>Traditional Score:</strong> 4.0 &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Margin:</strong> 0 NEUTRAL</p>
+      <p>Richard Linklater's dark comedy about an undercover cop who starts to become the hit man he pretends to be is the most politically neutral film on this list. The woke score reflects mild progressive cultural markers and the female lead agency framing. The traditional score reflects duty, the consequences of violating moral codes, and the film's ambivalent ending that does not endorse the protagonist's choices. Hit Man is a film about identity and performance that ultimately refuses to take a clear position on either. The dead-even score reflects a genuine ideological wash.</p>
+      <p><a href="/reviews/hit-man-2024/">Read the full VirtueVigil review of Hit Man</a></p>
+
+      <hr>
+
+      <h2>#10 - Beetlejuice Beetlejuice (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 16.0 &bull; <strong>Traditional Score:</strong> 12.0 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Margin:</strong> -4 WOKE</p>
+      <p>Tim Burton's long-delayed sequel delivers the aesthetic pleasures of the original and a new protagonist who is markedly more progressive than Winona Ryder's Lydia was in 1988. Astrid's character arc is built around rejecting her mother's anxiety and overprotection, which earns a mild woke score for its individualism-over-family framing. The LGBTQ representation earns additional woke points. The traditional scores come from the family reconciliation subplot and the spiritual framework the franchise has always carried. A mild net-woke result for a franchise that used to sit squarely in dark-but-safe territory.</p>
+      <p><a href="/reviews/beetlejuice-beetlejuice-2024/">Read the full VirtueVigil review of Beetlejuice Beetlejuice</a></p>
+
+      <hr>
+
+      <h2>#11 - Mean Girls (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 15.9 &bull; <strong>Traditional Score:</strong> 9.6 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Margin:</strong> -6 WOKE</p>
+      <p>The musical adaptation of the 2004 teen comedy updates the original's sharp social satire with contemporary progressive framing. The non-binary character addition is the most visible ideological update, but the progressive content runs deeper: the film's critique of social hierarchies has been recoded from universal human behavior into a specifically gendered and intersectional analysis. The 2004 film was hard on everyone equally. The 2024 version has clear heroes and villains sorted by identity. The traditional scores come from the female friendship repair arc, which the original built better.</p>
+      <p><a href="/reviews/mean-girls-2024/">Read the full VirtueVigil review of Mean Girls</a></p>
+
+      <hr>
+
+      <h2>#12 (Most Woke) - Borderlands (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 17.5 &bull; <strong>Traditional Score:</strong> 8.26 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Margin:</strong> -9 WOKE</p>
+      <p>The year's most woke comedy is also its biggest commercial disaster: a $115 million video game adaptation that earned $33 million worldwide. Borderlands the game was anarchic, crude, and funny regardless of ideology. Borderlands the film replaced that energy with a progressive casting exercise and a female-led ensemble built around identity rather than competence. Cate Blanchett's Lilith is competent enough, but the film surrounds her with progressive signaling that feels imported from a different genre entirely. The audience stayed away. The budget did not survive. The ideological content was not the only problem, but it was visible.</p>
+      <p><a href="/reviews/borderlands-2024/">Read the full VirtueVigil review of Borderlands</a></p>
+
+      <hr>
+
+      <h2>The Verdict on 2024 Comedy</h2>
+      <p>Nine out of twelve 2024 comedies scored net traditional. That is a strong genre-wide result. The standouts are Am I Racist? for its direct ideological engagement, and Sonic the Hedgehog 3 for proving that a major franchise sequel can entertain a mass audience without any progressive messaging whatsoever. Beverly Hills Cop: Axel F and Red One round out a solid top four that families and conservatives can watch without surprises.</p>
+
+      <p>The bottom of the list is instructive. Borderlands is the clearest case study in 2024 of what happens when progressive casting and messaging replace genuine craft: the audience did not show up, and the studio absorbed a nine-figure loss. Mean Girls 2024 is a subtler example, updating a film that did not need updating with ideological content that dilutes what made the original sharp. Both entries made the same mistake: they assumed the messaging would not cost them. It did.</p>
+
+      <p>Browse every scored film at <a href="/">VirtueVigil.com</a> for the complete database sorted by genre, year, platform, and values score. See also <a href="/lists/comedy-movies-2025-woke-ranking/">Every 2025 Comedy Movie Ranked</a> and <a href="/lists/comedy-movies-2026-woke-ranking/">Every 2026 Comedy Movie Ranked</a> for the full three-year picture.</p>
+
+      <h2>Methodology Note</h2>
+      <p>VirtueVigil scores films on a 0-100 scale measuring the density of ideologically progressive content across gender politics, religious framing, racial messaging, sexual content framing, and institutional critique. The Traditional Score measures the density of traditional values content including faith, family, duty, sacrifice, and merit. Scores reflect content density, not quality. For methodology details visit our <a href="/methodology.html">Methodology page</a>.</p>
+    </article>`
+  }));
+  }
 
 } // close buildSite async wrapper
 
