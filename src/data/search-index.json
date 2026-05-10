@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/sicario-2015.jpg"
   },
   {
+    "slug": "the-accountant-2016",
+    "title": "The Accountant",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Thriller / Crime",
+    "year": 2016,
+    "type": "film",
+    "wokeScore": 6,
+    "tradScore": 22.96,
+    "poster": "/images/posters/the-accountant-2016.jpg"
+  },
+  {
     "slug": "in-the-lost-lands-2025",
     "title": "In the Lost Lands",
     "verdict": "TRADITIONAL LEAN",
