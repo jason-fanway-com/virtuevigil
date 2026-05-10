@@ -23453,6 +23453,102 @@ function buildThrillerMovies2025WokeRankingListicle() {
       <p>VirtueVigil scores films on a 0-100 scale measuring the density of ideologically progressive content across gender politics, religious framing, racial messaging, sexual content framing, and institutional critique. The Traditional Score measures the density of traditional values content including faith, family, duty, sacrifice, and merit. Scores reflect content density, not quality. For methodology details visit our <a href="/methodology.html">Methodology page</a>.</p>
     </article>`
   }));
+
+  console.log('  lists/sci-fi-movies-2024-woke-ranking/index.html');
+  writePage('lists/sci-fi-movies-2024-woke-ranking/index.html', buildListiclePage({
+    slug: 'sci-fi-movies-2024-woke-ranking',
+    title: 'Every 2024 Sci-Fi Movie Ranked by Woke Score',
+    description: 'All 10 reviewed 2024 sci-fi films ranked from most traditional to most woke. VirtueVigil\'s definitive guide to ideological content in 2024 science fiction.',
+    canonicalPath: 'lists/sci-fi-movies-2024-woke-ranking',
+    publishDate: '2026-05-10',
+    htmlContent: `<article class="listicle-article">
+      <p>Science fiction is Hollywood's favorite ideology delivery system. The genre's speculative distance gives studios plausible deniability: it is just a story about space, or robots, or post-apocalyptic wastelands. But the politics are always there, encoded in who survives, who holds power, what the villains represent, and which values the story rewards in its final act.</p>
+
+      <p>VirtueVigil reviewed all 10 major sci-fi releases of 2024 and scored each on our Woke Score methodology. The list runs from most traditional to most ideologically progressive. Four films scored net traditional, three landed in genuinely mixed territory, and three earned woke scores for different but equally clear reasons. Every entry links to the full review. If a film surprised you, click through. The data is there.</p>
+
+      <hr>
+
+      <h2>#1 (Most Traditional) - Furiosa: A Mad Max Saga (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 8.0 &bull; <strong>Traditional Score:</strong> 22.0 &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Margin:</strong> +14 TRAD</p>
+      <p>The most traditional sci-fi film of 2024 is also the one the internet spent months insisting was woke. Furiosa is not woke. George Miller's origin story for the character Charlize Theron made iconic in Fury Road is built around trauma, survival, revenge, and the cost of pursuing those things at the expense of everything else. Anya Taylor-Joy's Furiosa earns her competence through suffering, not as a progressive statement, but as consequence. The film honors sacrifice, honors vengeance as moral necessity, and delivers one of the most striking portrayals of hard-earned strength in recent blockbuster filmmaking. The woke score reflects surface elements; the traditional score reflects what the film is actually about.</p>
+      <p><a href="/reviews/furiosa-a-mad-max-saga-2024/">Read the full VirtueVigil review of Furiosa: A Mad Max Saga</a></p>
+
+      <hr>
+
+      <h2>#2 - Godzilla x Kong: The New Empire (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 6.0 &bull; <strong>Traditional Score:</strong> 14.0 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +8 TRAD</p>
+      <p>A radioactive dinosaur and a giant ape team up to fight an evil orangutan overlord. There is nothing ideological here. The MonsterVerse's fourth entry is pure spectacle, and its traditional scores come from the teamwork-over-individualism framework, the protective instinct Kong displays toward a young Hollow Earth child, and the absence of progressive messaging in any form. The human characters are thin but functional. The monster fights are enormous. Godzilla x Kong earns its traditional lean by simply choosing to be an entertainment product rather than a statement. That choice becomes a data point when the rest of your genre is making different ones.</p>
+      <p><a href="/reviews/godzilla-x-kong-the-new-empire-2024/">Read the full VirtueVigil review of Godzilla x Kong: The New Empire</a></p>
+
+      <hr>
+
+      <h2>#3 - Rebel Moon - Part Two: The Scargiver (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 18.0 &bull; <strong>Traditional Score:</strong> 24.0 &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Margin:</strong> +6 TRAD</p>
+      <p>Zack Snyder's Netflix sci-fi epic is ideologically complicated in ways neither his fans nor his critics have the vocabulary to handle. Snyder is a self-described progressive Democrat who makes films that celebrate sacrifice, martial honor, and the courage required to fight for a community worth protecting. The Scargiver is the clearest expression of that contradiction. The traditional scores reflect the harvest defense sequence, the warrior code the characters operate by, and the film's conviction that some things are worth dying for. The woke scores reflect casting choices and surface-level identity framing. The net result is a traditional lean, which would surprise anyone who categorized Snyder based on social media discourse rather than his actual filmography.</p>
+      <p><a href="/reviews/rebel-moon-part-two-the-scargiver-2024/">Read the full VirtueVigil review of Rebel Moon: The Scargiver</a></p>
+
+      <hr>
+
+      <h2>#4 - Kingdom of the Planet of the Apes (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 12.6 &bull; <strong>Traditional Score:</strong> 14.2 &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Margin:</strong> +2 TRAD</p>
+      <p>Wes Ball's franchise reboot arrives many generations after Caesar's legacy and works hard to honor that lineage without being enslaved by it. Young chimpanzee Noa lives in a peaceful eagle-taming clan until Proximus Caesar, a gorilla warlord who has twisted Caesar's teachings into a justification for empire, shatters his world. The franchise has always used apes to hold a mirror up to human nature, and this entry continues that tradition. The mixed score reflects a film that sidesteps the worst progressive pitfalls while carrying some of the genre's standard diversity-forward casting. A competent entry that mostly earns its place in the franchise.</p>
+      <p><a href="/reviews/kingdom-of-the-planet-of-the-apes-2024/">Read the full VirtueVigil review of Kingdom of the Planet of the Apes</a></p>
+
+      <hr>
+
+      <h2>#5 - A Quiet Place: Day One (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 12.6 &bull; <strong>Traditional Score:</strong> 11.62 &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Margin:</strong> -1 WOKE</p>
+      <p>The Quiet Place prequel is a frustrating near-miss. The premise is genuinely strong: Sam, a terminally ill cancer patient caught in the alien invasion on what might be her last good day, has nothing to lose and becomes a more compelling protagonist because of it. Lupita Nyong'o is excellent. The New York setting gives the franchise's soundscape a different texture than the rural entries. But the film's handling of Sam's arc leans on progressive framing in ways that undercut its emotional power. The net result is a genuine wash, and a missed opportunity, because the raw material for a great Quiet Place entry was clearly on the table.</p>
+      <p><a href="/reviews/a-quiet-place-day-one-2024/">Read the full VirtueVigil review of A Quiet Place: Day One</a></p>
+
+      <hr>
+
+      <h2>#6 - Atlas (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 12.2 &bull; <strong>Traditional Score:</strong> 10.82 &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Margin:</strong> -1 WOKE</p>
+      <p>Netflix's Jennifer Lopez sci-fi action film is exactly what it looks like: a watchable Sunday afternoon movie with no particular ambition. Lopez plays Atlas Shepherd, a military data analyst who has spent her career distrusting AI after a synthetic named Harlan went rogue and massacred thousands. The anti-AI premise earns traditional scores. The progressive casting and Atlas's lone-wolf agency framing push the woke score up. The film does not have a coherent ideological position because it is not really trying to have one. It is trying to keep you watching, and it mostly succeeds. The near-neutral score reflects a genuine wash rather than either side winning the argument.</p>
+      <p><a href="/reviews/atlas-2024/">Read the full VirtueVigil review of Atlas</a></p>
+
+      <hr>
+
+      <h2>#7 - Dune: Part Two (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 19.36 &bull; <strong>Traditional Score:</strong> 11.55 &bull; <strong>Verdict:</strong> WOKE LEAN &bull; <strong>Margin:</strong> -8 WOKE</p>
+      <p>Denis Villeneuve's sequel is a technical achievement of genuine rarity: a prestige science fiction epic that is visually overwhelming, thematically serious, and beautifully acted. It is also ideologically complex in ways the first film was not. Frank Herbert's novel is an extended critique of messianic politics and religious manipulation, and Villeneuve commits to that critique more fully in Part Two. Paul Atreides' transformation into a religious figurehead is framed as a catastrophe in slow motion. The woke lean reflects the consistent anti-religious framing, the identity-forward casting, and the film's treatment of the Fremen as a population manipulated rather than empowered. Brilliant cinema, genuine woke lean, both things at once.</p>
+      <p><a href="/reviews/dune-part-two-2024/">Read the full VirtueVigil review of Dune: Part Two</a></p>
+
+      <hr>
+
+      <h2>#8 - Borderlands (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 17.5 &bull; <strong>Traditional Score:</strong> 8.26 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Margin:</strong> -9 WOKE</p>
+      <p>A $115 million video game adaptation that earned $33 million worldwide and debuted at 0% on Rotten Tomatoes. Borderlands the game was anarchic, crude, and funny regardless of ideology. Borderlands the film replaced that energy with a progressive casting exercise and an ensemble built around identity rather than competence. Cate Blanchett's Lilith is theoretically capable, but the film surrounds her with progressive signaling imported from a different genre entirely. The audience did not show up. The budget did not survive. The ideological content was not the only problem, but it was visible, and it cost real money.</p>
+      <p><a href="/reviews/borderlands-2024/">Read the full VirtueVigil review of Borderlands</a></p>
+
+      <hr>
+
+      <h2>#9 - Megalopolis (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 20.83 &bull; <strong>Traditional Score:</strong> 8.98 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Margin:</strong> -12 WOKE</p>
+      <p>Francis Ford Coppola spent forty years and $120 million of his own money making a film most audiences could not finish. That is not a failure of craft. Adam Driver is magnetic. The production design is extraordinary. Coppola knows how to direct. What Megalopolis lacks is an audience for its ideas. The film imagines a future American Rome in ideological collapse, with its utopian architect protagonist arguing that human civilization can transcend its self-destructive impulses if only the right visionary is given enough power. That argument, delivered through increasingly dense symbolism, is progressive utopianism in its most uncompromising form. The woke score is not a surprise. The film makes no effort to hide what it believes.</p>
+      <p><a href="/reviews/megalopolis-2024/">Read the full VirtueVigil review of Megalopolis</a></p>
+
+      <hr>
+
+      <h2>#10 (Most Woke) - A Different Man (2024)</h2>
+      <p><strong>VirtueVigil Woke Score:</strong> 18.52 &bull; <strong>Traditional Score:</strong> 6.3 &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Margin:</strong> -12 WOKE</p>
+      <p>A Different Man is the most insidious entry on this list because it presents one film and delivers another. The surface narrative follows an awkward man with neurofibromatosis who undergoes a procedure to change his face, gains confidence, and attempts a normal life. The actual film is about male entitlement, romantic rejection, and psychological revenge, wrapped in indie prestige aesthetics and asking you to celebrate the protagonist's transformation. The woke score reflects consistent progressive identity framing, the film's treatment of disability politics, and the way it recodes its protagonist's arc as liberation while running a much darker story underneath. A woke trap in the most literal sense.</p>
+      <p><a href="/reviews/a-different-man-2024/">Read the full VirtueVigil review of A Different Man</a></p>
+
+      <hr>
+
+      <h2>The Verdict on 2024 Sci-Fi</h2>
+      <p>The best sci-fi of 2024 came from filmmakers who understood that the genre's power comes from stakes, not sermons. Furiosa and Godzilla x Kong trusted their audiences to bring their own values to the screen. Dune: Part Two delivered its progressive content through genuinely complex storytelling rather than surface-level messaging. Even Borderlands and Megalopolis had identifiable artistic goals, even if one collapsed commercially and the other found almost no audience at all.</p>
+
+      <p>The 2024 sci-fi picture is split: four net traditional, three genuinely mixed, three net woke. That is a better genre-level result than action or drama in the same year, and a reminder that spectacle-forward filmmaking tends to crowd out ideological content by necessity. When your budget goes to monsters and effects, there is less space for lectures.</p>
+
+      <p>Browse every scored film at <a href="/">VirtueVigil.com</a> for the complete database sorted by genre, year, platform, and values score. See also <a href="/lists/sci-fi-movies-2025-woke-ranking/">Every 2025 Sci-Fi Movie Ranked</a> and <a href="/lists/sci-fi-movies-2026-woke-ranking/">Every 2026 Sci-Fi Movie Ranked</a> for the full three-year picture.</p>
+
+      <h2>Methodology Note</h2>
+      <p>VirtueVigil scores films on a 0-100 scale measuring the density of ideologically progressive content across gender politics, religious framing, racial messaging, sexual content framing, and institutional critique. The Traditional Score measures the density of traditional values content including faith, family, duty, sacrifice, and merit. Scores reflect content density, not quality. For methodology details visit our <a href="/methodology.html">Methodology page</a>.</p>
+    </article>`
+  }));
   }
 
 } // close buildSite async wrapper
