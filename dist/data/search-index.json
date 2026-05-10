@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/captain-america-the-winter-soldier-2014.jpg"
   },
   {
+    "slug": "sicario-2015",
+    "title": "Sicario",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Crime / Thriller / Drama",
+    "year": 2015,
+    "type": "film",
+    "wokeScore": 17.84,
+    "tradScore": 15.88,
+    "poster": "/images/posters/sicario-2015.jpg"
+  },
+  {
     "slug": "in-the-lost-lands-2025",
     "title": "In the Lost Lands",
     "verdict": "TRADITIONAL LEAN",
