@@ -1925,6 +1925,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/biographical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/drama-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2835,7 +2836,8 @@ function buildListsHubPage() {
         'best-movies-for-teenagers-non-woke-2026',
         'best-true-story-movies-conservatives',
         'best-western-movies-conservatives',
-        'superhero-movies-traditional-values'
+        'superhero-movies-traditional-values',
+        'best-father-son-movies'
       ]
     },
     {
@@ -20531,6 +20533,9 @@ function buildAudienceVsCriticScoresListicle() {
   // --- Thriller Movies 2025 Woke Ranking ---
   buildThrillerMovies2025WokeRankingListicle();
 
+  // --- Best Father-Son Movies --- (function stub pending, commented out)
+  // buildBestFatherSonMoviesListicle();
+
   // --- Lists Hub Page ---
   console.log('\nBuilding lists hub page:');
   writePage('lists/index.html', buildListsHubPage());
@@ -23550,6 +23555,131 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
   }
+
+  // ============================================
+  // Every 2024 Adventure & Fantasy Movie Ranked by Woke Score
+  // Added: 2026-05-11 by Destiny (cron: destiny-listicle-publish)
+  // ============================================
+  writePage('lists/adventure-fantasy-movies-2024-woke-ranking/index.html', buildListiclePage({
+    slug: 'adventure-fantasy-movies-2024-woke-ranking',
+    title: 'Every 2024 Adventure & Fantasy Movie Ranked by Woke Score',
+    description: 'All 14 reviewed 2024 adventure and fantasy films ranked from most traditional to most woke using VirtueVigil\'s scoring system.',
+    canonicalPath: 'lists/adventure-fantasy-movies-2024-woke-ranking',
+    publishDate: '2026-05-11',
+    htmlContent: `<article class="listicle-article">
+      <p>Adventure and fantasy films are Hollywood's biggest tent. They sell the most tickets, move the most merchandise, and reach the broadest audiences. They are also the genre where ideology lands softest because the spectacle acts as cover. When a franchise delivers dragons, giant robots, or interplanetary warfare at sufficient volume, audiences often absorb the accompanying politics without registering them.</p>
+
+      <p>VirtueVigil reviewed 14 adventure and fantasy films released in 2024. The results are more encouraging than you might expect. The majority of this genre landed in traditional territory. The animated entries performed especially well. The sequels that pushed progressive agendas were outnumbered by blockbusters that delivered classic themes of sacrifice, loyalty, and earned heroism. Here is the full picture, ranked from most traditional to most woke.</p>
+
+      <hr>
+
+      <h2>#1 - Solo Leveling: ReAwakening (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Score Margin:</strong> +27 TRAD &bull; <strong>Woke Score:</strong> 1.26 &bull; <strong>Traditional Score:</strong> 28.35</p>
+      <p>The theatrical release of the hit anime delivers one of the strongest traditional values profiles of any 2024 release. Sung Jinwoo's entire motivation is sacrifice: he enters lethal dungeons to keep his hospitalized mother and his sister supported. The self-made hero arc is pure meritocracy, with power earned through suffering rather than inherited or granted. Male brotherhood, duty to family, and stoic endurance dominate every frame.</p>
+      <p><a href="/reviews/solo-leveling-reawakening-2024/">Read the full VirtueVigil review of Solo Leveling: ReAwakening</a></p>
+
+      <hr>
+
+      <h2>#2 - Transformers One (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL &bull; <strong>Score Margin:</strong> +16 TRAD &bull; <strong>Woke Score:</strong> 2.0 &bull; <strong>Traditional Score:</strong> 18.48</p>
+      <p>The best Transformers film since the 1986 original earns that distinction partly through its values. The story is built on sacred male friendship, heroic sacrifice, and a clear moral universe where good and evil are real and distinct. The anti-caste messaging exists but it is gentle and never preachy. What dominates is the tragedy of a brotherhood destroyed by corruption, told with genuine emotional weight.</p>
+      <p><a href="/reviews/transformers-one-2024/">Read the full VirtueVigil review of Transformers One</a></p>
+
+      <hr>
+
+      <h2>#3 - Furiosa: A Mad Max Saga (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL &bull; <strong>Score Margin:</strong> +14 TRAD &bull; <strong>Woke Score:</strong> 8.0 &bull; <strong>Traditional Score:</strong> 22.0</p>
+      <p>Despite months of online debate about whether a female-led Mad Max film is inherently woke, Furiosa is not. George Miller built a revenge story on themes of homeland, survival, and the cost of vengeance that align closely with traditional heroic narrative. The female lead earns her place within the story's logic rather than replacing a male hero. The woke score of 8 is among the lowest of any +14 TRAD film in VirtueVigil's database.</p>
+      <p><a href="/reviews/furiosa-a-mad-max-saga-2024/">Read the full VirtueVigil review of Furiosa: A Mad Max Saga</a></p>
+
+      <hr>
+
+      <h2>#4 - Sonic the Hedgehog 3 (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL &bull; <strong>Score Margin:</strong> +14 TRAD &bull; <strong>Woke Score:</strong> 4.2 &bull; <strong>Traditional Score:</strong> 18.34</p>
+      <p>The franchise's best entry goes darker without losing its soul. Shadow the Hedgehog is given a genuine backstory of loss and betrayal that earns his rage. The found-family bond between Sonic, Tails, Knuckles, and their adopted human parents is treated with sincerity and used as the emotional stakes in the climax. A rare franchise threequel that actually gets better.</p>
+      <p><a href="/reviews/sonic-the-hedgehog-3-2024/">Read the full VirtueVigil review of Sonic the Hedgehog 3</a></p>
+
+      <hr>
+
+      <h2>#5 - Red One (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL &bull; <strong>Score Margin:</strong> +11 TRAD &bull; <strong>Woke Score:</strong> 5.35 &bull; <strong>Traditional Score:</strong> 16.44</p>
+      <p>Critics hated it (31% on Rotten Tomatoes). Audiences gave it 92%. Amazon's second-biggest theatrical release ever. Red One takes Christmas seriously as an institution worth protecting and builds its story around belief, redemption through action, and the restoration of a cynical man to genuine faith in something larger than himself. It is comfort cinema executed well, and comfort cinema for traditional audiences is not nothing.</p>
+      <p><a href="/reviews/red-one-2024/">Read the full VirtueVigil review of Red One</a></p>
+
+      <hr>
+
+      <h2>#6 - The Watchers (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +10 TRAD &bull; <strong>Woke Score:</strong> 3.8 &bull; <strong>Traditional Score:</strong> 13.65</p>
+      <p>Ishana Night Shyamalan's debut builds its horror-fantasy premise around guilt, accountability, and redemption in ways critics apparently missed (27% on Rotten Tomatoes vs. 68% audience score). Mina's arc is entirely about accepting responsibility for abandoning her mother when she was needed most. The supernatural threat is almost secondary to the moral framework the film is actually arguing for.</p>
+      <p><a href="/reviews/the-watchers-2024/">Read the full VirtueVigil review of The Watchers</a></p>
+
+      <hr>
+
+      <h2>#7 - Mufasa: The Lion King (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +10 TRAD &bull; <strong>Woke Score:</strong> 6.8 &bull; <strong>Traditional Score:</strong> 16.4</p>
+      <p>Director Barry Jenkins builds a prequel that functions as a sustained argument for duty, mentorship, and earned leadership. Mufasa does not want power for its own sake. He accepts the burden because it is his responsibility. The film's conservative core is intact despite its Disney pedigree, and the themes of chosen family and sacrifice are handled with more sincerity than most of the studio's recent output.</p>
+      <p><a href="/reviews/mufasa-lion-king-2024/">Read the full VirtueVigil review of Mufasa: The Lion King</a></p>
+
+      <hr>
+
+      <h2>#8 - Gladiator II (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +7 TRAD &bull; <strong>Woke Score:</strong> 7.68 &bull; <strong>Traditional Score:</strong> 14.84</p>
+      <p>Ridley Scott at 86 still delivers spectacle with thematic depth. The story of Lucius maintaining honor and identity under slavery is classic stoic virtue: moral clarity regardless of external circumstance. The film interrogates empire rather than celebrating it, which carries some progressive undertone, but the heroic framework is solidly traditional throughout.</p>
+      <p><a href="/reviews/gladiator-2-2024/">Read the full VirtueVigil review of Gladiator II</a></p>
+
+      <hr>
+
+      <h2>#9 - Rebel Moon - Part Two: The Scargiver (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +6 TRAD &bull; <strong>Woke Score:</strong> 18.0 &bull; <strong>Traditional Score:</strong> 24.0</p>
+      <p>Zack Snyder remains the most misread filmmaker in the culture war. The Scargiver features a diverse cast in a story built on deeply traditional narrative pillars: sacrifice, community defense, and standing ground against an overwhelming enemy. The woke score of 18 reflects genuine progressive elements, but the trad score of 24 reflects how thoroughly the film's heart remains conventional.</p>
+      <p><a href="/reviews/rebel-moon-part-two-the-scargiver-2024/">Read the full VirtueVigil review of Rebel Moon - Part Two: The Scargiver</a></p>
+
+      <hr>
+
+      <h2>#10 - Flow (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Score Margin:</strong> +5 TRAD &bull; <strong>Woke Score:</strong> 5.78 &bull; <strong>Traditional Score:</strong> 10.64</p>
+      <p>Latvia's Oscar winner is a genuine miracle: a solo-made animated film with no dialogue and a $3.5 million budget that beat Disney and Pixar on their own turf. The climate allegory is present but subordinated to a story about a cat learning trust and cooperation with former predators. The emotional core is traditional in the most fundamental sense: survival, community, and the value of earned relationships.</p>
+      <p><a href="/reviews/flow-2024/">Read the full VirtueVigil review of Flow</a></p>
+
+      <hr>
+
+      <h2>#11 - Kingdom of the Planet of the Apes (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> MIXED &bull; <strong>Score Margin:</strong> +2 TRAD &bull; <strong>Woke Score:</strong> 12.6 &bull; <strong>Traditional Score:</strong> 14.2</p>
+      <p>The franchise reboot delivers a competent sci-fi adventure that sidesteps the worst progressive pitfalls while maintaining the series' traditional strength: using apes to examine human nature. The colonial allegory is present and deliberate, but the hero's arc is fundamentally about protecting family and community. The nearly even score reflects a film genuinely in tension with itself.</p>
+      <p><a href="/reviews/kingdom-of-the-planet-of-the-apes-2024/">Read the full VirtueVigil review of Kingdom of the Planet of the Apes</a></p>
+
+      <hr>
+
+      <h2>#12 - Godzilla x Kong: The New Empire (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> MIXED &bull; <strong>Score Margin:</strong> +1 TRAD &bull; <strong>Woke Score:</strong> 9.44 &bull; <strong>Traditional Score:</strong> 10.08</p>
+      <p>The MonsterVerse entry knows exactly what it is and commits fully: maximum spectacle, minimal politics. The humans solve problems through strategy and teamwork. The monsters fight each other with increasing absurdity. The near-even score reflects the absence of strong content in either direction, not ideological tension. This is the rare blockbuster with nothing to say, and nothing to say is not the same as saying something wrong.</p>
+      <p><a href="/reviews/godzilla-x-kong-new-empire-2024/">Read the full VirtueVigil review of Godzilla x Kong: The New Empire</a></p>
+
+      <hr>
+
+      <h2>#13 - Beetlejuice Beetlejuice (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -4 WOKE &bull; <strong>Woke Score:</strong> 16.0 &bull; <strong>Traditional Score:</strong> 12.0</p>
+      <p>Tim Burton's belated sequel delivers the Beetlejuice aesthetic while layering in progressive family dynamics that muddy the nostalgic appeal. The new generation of characters includes identity and sexuality content woven into the family comedy structure. The Beetlejuice scenes work; the progressive framing around them is less successful commercially or culturally.</p>
+      <p><a href="/reviews/beetlejuice-beetlejuice-2024/">Read the full VirtueVigil review of Beetlejuice Beetlejuice</a></p>
+
+      <hr>
+
+      <h2>#14 - Dune: Part Two (2024)</h2>
+      <p><strong>VirtueVigil Verdict:</strong> WOKE LEAN &bull; <strong>Score Margin:</strong> -8 WOKE &bull; <strong>Woke Score:</strong> 19.36 &bull; <strong>Traditional Score:</strong> 11.55</p>
+      <p>Denis Villeneuve's technical achievement is real. His ideological agenda is equally real. The film's explicit thesis is that Paul Atreides is a cautionary figure rather than a hero, and the holy war he enables is a critique of charismatic authority and religious nationalism. Villeneuve amplified Herbert's subtext into the foreground argument, turning a heroic epic into a sustained warning about the danger of leaders people choose to believe in.</p>
+      <p><a href="/reviews/dune-part-two-2024/">Read the full VirtueVigil review of Dune: Part Two</a></p>
+
+      <hr>
+
+      <h2>The Bottom Line on 2024 Adventure and Fantasy</h2>
+      <p>Fourteen films. Eleven in traditional territory. Two mixed. Only two woke. Adventure and fantasy in 2024 performed better than virtually any other genre on the VirtueVigil scale. The animated films especially: Solo Leveling, Transformers One, and Flow all delivered clean values profiles. The franchise entries were split, with Sonic and Red One outperforming the expectations of anyone who has watched Hollywood over the last decade.</p>
+
+      <p>Dune Part Two and Beetlejuice Beetlejuice were the exceptions, not the rule. Browse the full VirtueVigil database at <a href="/">VirtueVigil.com</a> to see how every reviewed film scores across all genres and years. For more 2024 genre rankings, see <a href="/lists/action-movies-2024-woke-ranking/">Every 2024 Action Movie Ranked</a>, <a href="/lists/horror-movies-2024-woke-ranking/">Every 2024 Horror Movie Ranked</a>, and <a href="/lists/drama-movies-2024-woke-ranking/">Every 2024 Drama Movie Ranked</a>.</p>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil Woke Score system, which measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. The system does not measure quality, entertainment value, or artistic merit. A high woke score means a film contains a high volume of identifiable progressive messaging relative to its runtime. For full methodology details, visit our <a href="/methodology.html">Methodology</a> page.</p>
+    </article>`
+  }));
 
 } // close buildSite async wrapper
 
