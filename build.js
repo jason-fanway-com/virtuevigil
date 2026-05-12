@@ -23681,6 +23681,251 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
 
+  console.log('  lists/action-movies-2023-woke-ranking/index.html');
+  writePage('lists/action-movies-2023-woke-ranking/index.html', buildListiclePage({
+    slug: 'action-movies-2023-woke-ranking',
+    title: 'Every 2023 Action Movie Ranked by Woke Score',
+    description: 'All 20 reviewed 2023 action films ranked from most woke to most traditional. Sound of Freedom, John Wick 4, The Creator, Mission Impossible, Godzilla Minus One, and every scored action release.',
+    canonicalPath: 'lists/action-movies-2023-woke-ranking',
+    publishDate: '2026-05-12',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2023 was a landmark year for Hollywood action cinema and a revealing one for anyone paying attention to the ideology underneath the spectacle. VirtueVigil reviewed and scored 20 action releases from 2023 spanning theatrical blockbusters, Netflix originals, superhero entries, war films, and international productions. Every film was run through the full dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures duty, sacrifice, family loyalty, patriotism, and earned competence.</p>
+
+      <p>This ranking runs from the most ideologically progressive at the top to the most traditionally grounded at the bottom. 2023 split hard: five films landed in woke or woke-lean territory, fifteen in traditional or neutral. That gap tells you something. The audience noticed too. The five most traditional films on this list collectively outgrossed every woke entry by a wide margin. Every entry links to the full VirtueVigil review.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/the-creator-2023/">The Creator (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -31 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Sci-Fi &bull; <strong>Platform:</strong> Theatrical (20th Century Studios)</p>
+      <p>Gareth Edwards built a gorgeous film around a genuinely bad politics problem. The Creator frames America as the aggressor villain destroying AI life, positions every US military institution as evil, and inverts the moral hierarchy of every action archetype it borrows from. At -31 WOKE it is the most ideologically loaded film in the 2023 action pool by a significant margin. The craft is real. The agenda is relentless.</p>
+      <p><a href="/reviews/the-creator-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Creator</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/the-marvels-2023/">The Marvels (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -14 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The Marvels broke the MCU's aura of commercial invincibility with a $206 million worldwide gross against a $374 million budget. The -14 WOKE margin reflects relentless progressive identity framing across all three leads with little narrative grounding to justify the messaging. Critics praised it. Audiences stayed home. The film stands as the clearest data point yet that MCU woke content has a box office ceiling.</p>
+      <p><a href="/reviews/the-marvels-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Marvels</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/aquaman-and-the-lost-kingdom-2023/">Aquaman and the Lost Kingdom (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -12 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Superhero / Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The DCEU went out the way it lived: drowning in its own ambition. Aquaman and the Lost Kingdom was supposed to be a triumphant send-off but delivered a -12 WOKE margin through progressive environmental messaging, climate crisis framing as the central villain motivation, and Amber Heard's reduced but still present character serving the franchise's troubled optics. The film grossed $127 million domestically against massive production and marketing costs. It killed the DCEU.</p>
+      <p><a href="/reviews/aquaman-and-the-lost-kingdom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Aquaman and the Lost Kingdom</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/blue-beetle-2023/">Blue Beetle (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theaters / Max</p>
+      <p>Blue Beetle is the most politically opinionated DC film since Zack Snyder left the franchise and one of its more entertaining entries. Those two facts exist in constant tension. The -6 WOKE lean comes through anti-corporate messaging, anti-military industrial complex framing, and progressive Latino family identity politics woven throughout the narrative. It works better than most of the DCEU output around it, which makes the ideology harder to ignore rather than easier.</p>
+      <p><a href="/reviews/blue-beetle-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Blue Beetle</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/ant-man-and-the-wasp-quantumania-2023/">Ant-Man and the Wasp: Quantumania (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Quantumania had one job: introduce Kang the Conqueror as the next Thanos-level threat. It failed at almost everything except the Kang part, and then Jonathan Majors' conviction removed Kang from the MCU entirely. The -4 WOKE lean is light relative to other MCU Phase Five entries but consistently present in family dynamics and progressive character framing. The film is remembered primarily for what it broke rather than what it built.</p>
+      <p><a href="/reviews/ant-man-and-the-wasp-quantumania-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ant-Man and the Wasp: Quantumania</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/">Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation / Action / Comedy &bull; <strong>Platform:</strong> Theatrical (Paramount Pictures)</p>
+      <p>The best animated TMNT film in decades and one of the most visually distinctive studio productions of 2023. Director Jeff Fowler and producer Seth Rogen delivered a film with genuine energy and a +4 TRAD margin built on brotherhood, earning your place, and the turtles' desire to be accepted while remaining true to what they are. The progressive elements are minor relative to the franchise's traditionally coded core themes. A genuine win for action animation.</p>
+      <p><a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of TMNT: Mutant Mayhem</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/indiana-jones-dial-of-destiny-2023/">Indiana Jones and the Dial of Destiny (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Streaming</p>
+      <p>Harrison Ford's farewell to Indiana Jones landed a +7 TRAD margin despite the franchise's age and Lucasfilm's recent track record. The film's core argument is traditional: Indy earned his place, legacy matters, and the hero's arc ends with earned rest rather than replacement. The female co-lead is competent without being positioned as superior, which for 2023 Lucasfilm is notable restraint. An imperfect finale but a traditionally grounded one.</p>
+      <p><a href="/reviews/indiana-jones-dial-of-destiny-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Indiana Jones and the Dial of Destiny</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/transformers-rise-of-the-beasts-2023/">Transformers: Rise of the Beasts (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Director Steven Caple Jr. moved the Transformers franchise in a more character-grounded direction with a protagonist whose arc is built on family loyalty, personal sacrifice, and earning respect through action rather than status. The +8 TRAD margin reflects strong traditional values throughlines that outweigh light progressive elements in the supporting cast dynamics. A better film than its marketing suggested and a values-positive blockbuster for families.</p>
+      <p><a href="/reviews/transformers-rise-of-the-beasts-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Transformers: Rise of the Beasts</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/guardians-of-the-galaxy-vol-3-2023/">Guardians of the Galaxy Vol. 3 (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>James Gunn's farewell to the franchise he built is the rarest thing in MCU Phase Five: a film that earns its emotions without lecturing the audience. The +9 TRAD margin comes from Rocket's arc of found family and earned belonging, genuine sacrifice, and a conclusion that rewards loyalty rather than subverting it. Gunn made a traditionally coded film inside the world's most progressive franchise. That is a genuine achievement worth acknowledging.</p>
+      <p><a href="/reviews/guardians-of-the-galaxy-vol-3-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guardians of the Galaxy Vol. 3</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/dungeons-dragons-honor-among-thieves-2023/">Dungeons &amp; Dragons: Honor Among Thieves (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Fantasy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>In the year of Barbie and Oppenheimer, Honor Among Thieves was the best pure adventure film Hollywood released and the one most people forgot to mention. The +9 TRAD margin reflects a classically structured hero ensemble built on competence, loyalty, and moral accountability. The progressive elements are surface-level casting choices that do not penetrate the film's traditional adventure DNA. An underseen gem that deserved better box office.</p>
+      <p><a href="/reviews/dungeons-dragons-honor-among-thieves-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dungeons &amp; Dragons: Honor Among Thieves</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/shazam-fury-of-the-gods-2023/">Shazam! Fury of the Gods (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Max</p>
+      <p>Critics gave it 50%. Audiences gave it 84%. That gap tells you more than the Rotten Tomatoes score ever could. Shazam! Fury of the Gods earned its +12 TRAD margin through genuine family values, a protagonist whose power comes from chosen brotherhood rather than identity politics, and a film that genuinely liked its hero without deconstructing him. The box office was disappointing but the values profile was one of the strongest in the DCEU's entire run.</p>
+      <p><a href="/reviews/shazam-fury-of-the-gods-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shazam! Fury of the Gods</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/extraction-2-2023/">Extraction 2 (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Extraction 2 does something rare in action sequels: it actually justifies its existence. Chris Hemsworth's Tyler Rake returns with a +13 TRAD margin built on sacrifice, masculine competence without apology, and a rescue mission framed as redemption through duty. Director Sam Hargrave's prison sequence is among the best action set pieces of the decade. The film works because it respects its genre and its audience. No lectures. Just execution.</p>
+      <p><a href="/reviews/extraction-2-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Extraction 2</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/the-covenant-2023/">Guy Ritchie's The Covenant (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / War / Thriller &bull; <strong>Platform:</strong> Theatrical (MGM / Amazon)</p>
+      <p>One of the most criminally overlooked action films of 2023 and one of the most traditionally coded war films of the decade. Guy Ritchie's story of an American Special Forces soldier and his Afghan interpreter is built entirely on honor, sacrifice, and the moral weight of a debt unpaid. At +16 TRAD it reflects everything the genre used to stand for before Hollywood decided war films needed to critique the institutions they depicted rather than the enemies those institutions fought.</p>
+      <p><a href="/reviews/the-covenant-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guy Ritchie's The Covenant</a></p>
+
+      <hr>
+
+      <h2>#14: <a href="/reviews/the-equalizer-3-2023/">The Equalizer 3 (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Thriller &bull; <strong>Platform:</strong> Theatrical (Sony Pictures)</p>
+      <p>The rare third entry in an action franchise that improves on what came before. Denzel Washington's Robert McCall earns his +18 TRAD margin through moral clarity that never wavers: there is evil in the world, good men have a responsibility to act, and justice is not a committee decision. The Italian village setting strips away the noise of modern action cinema and leaves a film about a man doing what needs to be done because it is right. One of 2023's most overlooked gems.</p>
+      <p><a href="/reviews/the-equalizer-3-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Equalizer 3</a></p>
+
+      <hr>
+
+      <h2>#15: <a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/">Mission: Impossible - Dead Reckoning Part One (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Seven films in, Tom Cruise's Mission: Impossible franchise remains the gold standard for Hollywood action filmmaking. Dead Reckoning Part One is built on a classically American premise: one man against the machine, refusing to surrender even when the machine is winning. The +18 TRAD margin reflects duty, sacrifice, and institutional loyalty that never tips into cynicism about the missions or the people who run them. The train sequence alone is worth the admission price.</p>
+      <p><a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mission: Impossible - Dead Reckoning Part One</a></p>
+
+      <hr>
+
+      <h2>#16: <a href="/reviews/godzilla-minus-one-2023/">Godzilla Minus One (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Drama / Sci-Fi &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The best Godzilla film in decades and one of the most traditionally coded action films of 2023 from any country. Director Takashi Yamazaki built the story around a former kamikaze pilot processing survivor's guilt through sacrifice and duty to community. The +19 TRAD margin reflects themes of earned redemption, paternal responsibility, and collective action grounded in love for country and family. It was made for $15 million and demolished the monster movie genre. Hollywood should be embarrassed.</p>
+      <p><a href="/reviews/godzilla-minus-one-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Godzilla Minus One</a></p>
+
+      <hr>
+
+      <h2>#17: <a href="/reviews/gran-turismo-2023/">Gran Turismo (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sports Drama / Action &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Gran Turismo is the kind of film Hollywood used to make with confidence: a true story about a young man who works harder than anyone else, earns the respect of skeptics, and achieves something improbable through skill and discipline. The +19 TRAD margin comes from a protagonist whose success is entirely merit-based, a mentor relationship built on earned trust, and a narrative that never hedges on the value of individual excellence. Straightforward, earned, and deeply satisfying.</p>
+      <p><a href="/reviews/gran-turismo-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Gran Turismo</a></p>
+
+      <hr>
+
+      <h2>#18: <a href="/reviews/fast-x-2023/">Fast X (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Fast X is exactly what the Fast and Furious franchise has always been: a maximalist action spectacle built around the unironic belief that family is the most powerful force in the universe. The +20 TRAD margin reflects twenty-plus years of brand commitment to themes Hollywood now treats as embarrassing: loyalty, sacrifice, chosen family, and the idea that the people next to you matter more than any institution. Critics roll their eyes. Audiences keep coming back. There is a lesson there.</p>
+      <p><a href="/reviews/fast-x-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Fast X</a></p>
+
+      <hr>
+
+      <h2>#19: <a href="/reviews/john-wick-chapter-4-2023/">John Wick: Chapter 4 (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Crime / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>John Wick: Chapter 4 is the rare action sequel that earns the word epic. Chad Stahelski's nearly three-hour opus earns its +23 TRAD margin through a protagonist whose moral code is absolute: he made a promise, he will honor it regardless of cost, and the price is everything. The action choreography is the best in franchise history and the film's worldview is classically masculine in the best sense. No lectures, no progressive hedging. A man's word and a man's choices are the entire story.</p>
+      <p><a href="/reviews/john-wick-chapter-4-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of John Wick: Chapter 4</a></p>
+
+      <hr>
+
+      <h2>#20 (Most Traditional): <a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +27 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action &bull; <strong>Platform:</strong> Streaming</p>
+      <p>Studios sat on this film for five years. Fox shelved it after the Disney acquisition. Angel Studios released it independently and it grossed $250 million against a $14.5 million budget, defeating Indiana Jones at the domestic box office on its opening weekend. The +27 TRAD margin is the highest in any 2023 action film by far, built on Christian faith, parental sacrifice, and the moral clarity that protecting children from exploitation is non-negotiable. The fact that critics mocked it tells you everything about where the industry's values actually sit.</p>
+      <p><a href="/reviews/sound-of-freedom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Sound of Freedom</a></p>
+
+      <hr>
+
+      <h2>The Bottom Line on 2023 Action</h2>
+      <p>Twenty films. Fifteen in traditional or traditional-lean territory. Five in woke or woke-lean territory. The numbers are clear: 2023 action cinema skewed heavily traditional, and the box office reflected it. Sound of Freedom, John Wick: Chapter 4, Mission: Impossible, Godzilla Minus One, and Fast X collectively dominated. The Creator, The Marvels, and Aquaman's farewell were expensive failures. The audience is voting with their wallets. Hollywood is still not listening.</p>
+
+      <p>Browse the complete VirtueVigil database at <a href="/">VirtueVigil.com</a> to see how every reviewed film scores. For more genre and year rankings, see <a href="/lists/action-movies-2024-woke-ranking/">Every 2024 Action Movie Ranked</a>, <a href="/lists/action-movies-2025-woke-ranking/">Every 2025 Action Movie Ranked</a>, and <a href="/lists/action-movies-2026-woke-ranking/">Every 2026 Action Movie Ranked</a>.</p>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil dual-scoring methodology. Woke Score measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. Traditional Score measures duty, sacrifice, patriotism, family loyalty, faith, and earned competence. The system does not measure quality, entertainment value, or artistic merit. For full methodology details, visit our <a href="/methodology.html">Methodology</a> page.</p>
+    </article>`
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
