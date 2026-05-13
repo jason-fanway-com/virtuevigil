@@ -23926,6 +23926,174 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
 
+  console.log('  lists/drama-movies-2023-woke-ranking/index.html');
+  writePage('lists/drama-movies-2023-woke-ranking/index.html', buildListiclePage({
+    slug: 'drama-movies-2023-woke-ranking',
+    title: 'Every 2023 Drama Movie Ranked by Woke Score',
+    description: 'All 13 reviewed 2023 drama and prestige films ranked from most woke to most traditional. Oppenheimer, Killers of the Flower Moon, Society of the Snow, The Boys in the Boat, and every scored drama.',
+    canonicalPath: 'lists/drama-movies-2023-woke-ranking',
+    publishDate: '2026-05-13',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2023 was the year Hollywood produced its most ambitious prestige slate in years, and the most ideologically revealing one. VirtueVigil reviewed and scored 13 drama, biography, and prestige films from 2023 spanning Oscar bait, international productions, and platform originals. Every film was run through the full dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures duty, sacrifice, family loyalty, faith, and earned competence.</p>
+
+      <p>This ranking runs from the most ideologically progressive at the top to the most traditionally grounded at the bottom. 2023 drama split unevenly: five films landed in woke or woke-lean territory, two scored MIXED, and six landed in traditional territory. That tilt toward traditional is driven largely by the international productions and historical epics that dominated the back half of the year. Every entry links to the full VirtueVigil review.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/oppenheimer-2023/">Oppenheimer (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Streaming</p>
+      <p>Christopher Nolan's three-hour Oppenheimer tops the 2023 drama list not because it is a propaganda film but because its Woke Score of 30 reflects the density of progressive content packed into its running time: Communist associations portrayed sympathetically, the conservative national security establishment framed as the villain, and sustained moral ambiguity about American military power. The Traditional Score of 26 keeps it at WOKE LEAN rather than WOKE, reflecting genuine patriotism, American scientific genius, and the weight of moral responsibility. The craft is extraordinary. The ideological slant is real and deliberate.</p>
+      <p><a href="/reviews/oppenheimer-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Oppenheimer</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/killers-of-the-flower-moon-2023/">Killers of the Flower Moon (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Apple TV+</p>
+      <p>Martin Scorsese's 206-minute account of the Osage murders earns its WOKE LEAN rating through historically grounded material: systemic white racism as documented institutional reality, settler colonial violence as the film's moral center, and federal complicity in Native dispossession. The critical distinction is that every woke-coded element reflects documented historical fact rather than manufactured ideology, which the VVWS scoring system appropriately discounts. The Traditional Score of 15 reflects the film's genuine treatment of marriage, moral consequence, and the eventual function of American justice. Lily Gladstone's performance is among the best of the decade.</p>
+      <p><a href="/reviews/killers-of-the-flower-moon-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Killers of the Flower Moon</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/the-color-purple-2023/">The Color Purple (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical / Drama / Historical &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Blitz Bazawule's musical adaptation of Alice Walker's novel is what it has always been across four iterations: a structurally feminist text in which patriarchal abuse of Black women by Black men is the central horror, female solidarity is the liberation, and a lesbian relationship is Celie's path to self-discovery. The woke signals are not incidental. They are the story. Fantasia Barrino is extraordinary in the lead and Danielle Brooks as Sofia is her equal. The faith elements and community themes carry genuine traditional weight but are subordinated to the feminist liberation framework. Go in informed or do not go.</p>
+      <p><a href="/reviews/the-color-purple-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Color Purple</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/american-fiction-2023/">American Fiction (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy / Drama &bull; <strong>Platform:</strong> Streaming</p>
+      <p>Cord Jefferson's debut feature is a sharp satire of the publishing industry's exploitation of Black trauma narratives for progressive consumption, and Jeffrey Wright's performance is among the best of the year. The film's central critique, that cultural institutions reward Black writers for performing suffering rather than exercising craft, is partially a conservative argument delivered from within progressive assumptions. The satire blinks in the third act. The gay subplot is earnest inclusion amid otherwise pointed material. At -8 WOKE, the film critiques progressive practice without ever challenging progressive premises, which is precisely its limitation and its interest.</p>
+      <p><a href="/reviews/american-fiction-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of American Fiction</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/priscilla-2023/">Priscilla (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -10 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Sofia Coppola's beautifully crafted film about Priscilla Presley's life at Graceland is exactly what it looks like: a feminist portrait of marriage as captivity. The film is structured so that Elvis exists as a force Priscilla orbits rather than a person she partners with, and her decision to leave is coded as maturity and self-actualization throughout. Cailee Spaeny won Venice Best Actress and deserves it. But craft in service of a bad thesis is still a bad thesis. The traditional understanding of marriage as a covenant two people navigate together is simply not available in this film's emotional vocabulary.</p>
+      <p><a href="/reviews/priscilla-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Priscilla</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/napoleon-2023/">Napoleon (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Historical / Epic / Drama &bull; <strong>Platform:</strong> Theatrical / Apple TV+</p>
+      <p>Ridley Scott's Napoleon is a film at war with itself. The battle sequences, Austerlitz especially, are extraordinary. The portrait of Napoleon as a socially maladroit, emotionally stunted man who cannot function without Josephine's approval is a deliberate directorial choice that deflates its masculine subject systematically. The +1 TRAD margin reflects genuine tension: war presented as costly, marriage as a serious institution, ambition as demanding real sacrifice, all wrestling with a film that consistently treats masculine greatness as rooted in pathology. French historians were apoplectic about the inaccuracies. Scott did not care. The Director's Cut on Apple TV+ at 205 minutes is the more complete version.</p>
+      <p><a href="/reviews/napoleon-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Napoleon</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/the-iron-claw-2023/">The Iron Claw (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama Biography Sports &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Sean Durkin's account of the Von Erich wrestling dynasty is a haunting study of what happens when traditional values around masculinity and dominance are taken to their extreme without room for vulnerability. The +2 TRAD margin reflects a film that does not argue those values are wrong but argues they are incomplete. Fritz Von Erich is not a cartoon villain. He is a man who built something through will and then broke his sons in the building. Zac Efron gives the performance of his career. The film's argument, that strength without vulnerability is brittle, is not a radical idea, but it may unsettle viewers who prioritize achievement above all else.</p>
+      <p><a href="/reviews/the-iron-claw-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Iron Claw</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/past-lives-2023/">Past Lives (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Romance &bull; <strong>Platform:</strong> Streaming</p>
+      <p>Celine Song's debut feature about a Korean-American woman choosing her husband over her childhood sweetheart is one of the most quietly radical films of 2023 because it actually takes the marriage seriously. Nora chose Arthur. The film never suggests she chose wrong. Her husband is not an obstacle to be cleared but a life genuinely built. When she cries after Hae Sung's taxi pulls away, she is grieving something real without repudiating the life she has. The +2 TRAD margin reflects that genuine respect for commitment against the film's progressive cultural ambient, including its specific sympathy for the emotional cost of assimilation and immigration.</p>
+      <p><a href="/reviews/past-lives-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Past Lives</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/maestro-2023/">Maestro (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography / Drama &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Bradley Cooper's seven-years-in-the-making portrait of Leonard Bernstein is fundamentally a film about a marriage, specifically about what Felicia Montealegre paid to love one of the most brilliant and most exhausting men in 20th-century American music. The film treats that marriage as real and serious and worth the cost. The scene where Mulligan quietly tells Cooper what thirty years of loving him has cost her is one of 2023's best. The TRADITIONAL LEAN verdict holds despite the film's sympathetic treatment of Bernstein's bisexuality because the moral weight of the marriage, and Felicia's freely chosen sacrifice, drives every major emotional beat. Maestro earns its traditional score through the back door.</p>
+      <p><a href="/reviews/maestro-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Maestro</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/the-holdovers-2023/">The Holdovers (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy / Drama &bull; <strong>Platform:</strong> Streaming</p>
+      <p>Alexander Payne's 1970-set boarding school character study is one of the most traditionally-oriented prestige films of 2023, a fact that almost nobody mentioned in the avalanche of critical praise. Paul Giamatti's Paul Hunham is a man who believes in the transmission of knowledge, refuses to compromise academic standards when institutional pressure demands it, and serves as a genuine mentor to a damaged student. The film values the humanities with actual seriousness. When Hunham tells Tully that studying history means understanding how little human nature has changed in 3,000 years, it is one of the most classically traditional statements any Hollywood film has made in years. Five Oscar nominations. Completely deserved.</p>
+      <p><a href="/reviews/the-holdovers-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Holdovers</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/air-2023/">Air (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biographical Sports Drama &bull; <strong>Platform:</strong> Theatrical / Amazon Prime Video</p>
+      <p>Ben Affleck's film about the Nike deal that created Air Jordan should not work and completely does. The American entrepreneurial spirit is celebrated without irony throughout. Phil Knight building Nike from nothing, Sonny Vaccaro betting his career on a conviction nobody else shares, Deloris Jordan negotiating the first athlete royalty clause in Nike history to protect her son's name: all presented as capitalism working at its best, two parties finding terms that genuinely serve both interests. The +13 TRAD margin comes from a film that frames individual conviction against institutional pressure as heroic, merit and belief as the currencies that matter, and a mother protecting her family's future as the most important negotiation in the room. One of 2023's most enjoyable films.</p>
+      <p><a href="/reviews/air-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Air</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/the-boys-in-the-boat-2023/">The Boys in the Boat (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sports / Drama / Historical &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>In 1936, nine working-class boys from the University of Washington went to Berlin and beat Germany at Hitler's showcase Olympics while the Fuhrer watched from the stands. George Clooney directs with restraint, trusting a story that needs no inflation. The +21 TRAD margin is entirely earned: American patriotism, working-class grit against establishment skepticism, teamwork as the highest athletic virtue, male mentorship done right, and a coach who serves his athletes by demanding their best. Joe Rantz, a Depression-era teenager abandoned by his family, rebuilds himself through persistence and learns through rowing what trust actually costs. If you want to know what STRONGLY TRADITIONAL looks like without apology, this is the film you recommend.</p>
+      <p><a href="/reviews/the-boys-in-the-boat-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Boys in the Boat</a></p>
+
+      <hr>
+
+      <h2>#13 (Most Traditional): <a href="/reviews/society-of-the-snow-2023/">Society of the Snow (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +31 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Biography / Adventure &bull; <strong>Platform:</strong> Netflix</p>
+      <p>J.A. Bayona's account of the 1972 Andes plane crash is one of the best films Netflix has ever funded and almost certainly the most traditionally-minded. The Catholic faith of the Uruguayan rugby team survivors is not incidental. It is structural. The moral debate over whether consuming their dead friends constitutes sin or sacrament is handled with genuine theological seriousness. The brotherhood of the team, the willingness of two men to volunteer to walk across the Andes with no map on the basis of duty rather than heroism, the framing of survival as an obligation to those who love you: the +31 TRAD margin is the highest of any 2023 drama by a wide margin. A film that reminds you what cinema can do when it stops trying to be clever. One of the best films of the decade.</p>
+      <p><a href="/reviews/society-of-the-snow-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Society of the Snow</a></p>
+
+      <hr>
+
+      <h2>The Bottom Line on 2023 Drama</h2>
+      <p>Thirteen films. Five in woke or woke-lean territory. Two MIXED. Six in traditional territory. The prestige end of 2023 drama leaned progressive, led by Oppenheimer and Killers of the Flower Moon. But the most traditionally-coded films, Society of the Snow, The Boys in the Boat, and Air, represent some of the strongest values profiles in the genre across any year. The lesson is consistent: when drama trusts the audience to care about sacrifice, duty, and moral consequence without political framing, it is almost universally better than when it lectures. 2023 had both kinds in abundance.</p>
+
+      <p>Browse the complete VirtueVigil database at <a href="/">VirtueVigil.com</a> to see how every reviewed film scores. For more 2023 genre rankings, see <a href="/lists/action-movies-2023-woke-ranking/">Every 2023 Action Movie Ranked</a>. For more drama rankings across years, see <a href="/lists/drama-movies-2024-woke-ranking/">Every 2024 Drama Movie Ranked</a> and <a href="/lists/drama-movies-2025-woke-ranking/">Every 2025 Drama Movie Ranked</a>.</p>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil dual-scoring methodology. Woke Score measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. Traditional Score measures duty, sacrifice, patriotism, family loyalty, faith, and earned competence. The system does not measure quality, entertainment value, or artistic merit. For full methodology details, visit our <a href="/methodology.html">Methodology</a> page.</p>
+    </article>`
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
