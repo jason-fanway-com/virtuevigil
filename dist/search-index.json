@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/priscilla-2023.jpg"
   },
   {
+    "slug": "maestro-2023",
+    "title": "Maestro",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Biography / Drama",
+    "year": 2023,
+    "type": "film",
+    "wokeScore": 5.18,
+    "tradScore": 8.54,
+    "poster": "/images/posters/maestro-2023.jpg"
+  },
+  {
     "slug": "evil-dead-rise-2023",
     "title": "Evil Dead Rise",
     "verdict": "TRADITIONAL",
