@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/maestro-2023.jpg"
   },
   {
+    "slug": "the-piano-lesson-2024",
+    "title": "The Piano Lesson",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 3.92,
+    "tradScore": 8.7,
+    "poster": "/images/posters/the-piano-lesson-2024.jpg"
+  },
+  {
     "slug": "evil-dead-rise-2023",
     "title": "Evil Dead Rise",
     "verdict": "TRADITIONAL",
