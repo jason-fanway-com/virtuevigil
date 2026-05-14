@@ -1925,6 +1925,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/biographical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/drama-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/thriller-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
@@ -2877,6 +2878,7 @@ function buildListsHubPage() {
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
         'thriller-movies-2024-woke-ranking',
+        'thriller-movies-2023-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2951,7 +2953,8 @@ function buildListsHubPage() {
       'adventure-fantasy-movies-2025-woke-ranking': 'Every 2025 Adventure & Fantasy Movie Ranked by Woke Score',
       'biographical-movies-woke-ranking': 'Every Biographical Movie Ranked by Woke Score (All Time)',
       'drama-movies-2024-woke-ranking': 'Every 2024 Drama Movie Ranked by Woke Score',
-      'thriller-movies-2024-woke-ranking': 'Every 2024 Thriller Movie Ranked by Woke Score'
+      'thriller-movies-2024-woke-ranking': 'Every 2024 Thriller Movie Ranked by Woke Score',
+      'thriller-movies-2023-woke-ranking': 'Every 2023 Thriller Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -24088,6 +24091,141 @@ function buildThrillerMovies2025WokeRankingListicle() {
       <p>Thirteen films. Five in woke or woke-lean territory. Two MIXED. Six in traditional territory. The prestige end of 2023 drama leaned progressive, led by Oppenheimer and Killers of the Flower Moon. But the most traditionally-coded films, Society of the Snow, The Boys in the Boat, and Air, represent some of the strongest values profiles in the genre across any year. The lesson is consistent: when drama trusts the audience to care about sacrifice, duty, and moral consequence without political framing, it is almost universally better than when it lectures. 2023 had both kinds in abundance.</p>
 
       <p>Browse the complete VirtueVigil database at <a href="/">VirtueVigil.com</a> to see how every reviewed film scores. For more 2023 genre rankings, see <a href="/lists/action-movies-2023-woke-ranking/">Every 2023 Action Movie Ranked</a>. For more drama rankings across years, see <a href="/lists/drama-movies-2024-woke-ranking/">Every 2024 Drama Movie Ranked</a> and <a href="/lists/drama-movies-2025-woke-ranking/">Every 2025 Drama Movie Ranked</a>.</p>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil dual-scoring methodology. Woke Score measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. Traditional Score measures duty, sacrifice, patriotism, family loyalty, faith, and earned competence. The system does not measure quality, entertainment value, or artistic merit. For full methodology details, visit our <a href="/methodology.html">Methodology</a> page.</p>
+    </article>`
+  }));
+
+  console.log('  lists/thriller-movies-2023-woke-ranking/index.html');
+  writePage('lists/thriller-movies-2023-woke-ranking/index.html', buildListiclePage({
+    slug: 'thriller-movies-2023-woke-ranking',
+    title: 'Every 2023 Thriller Movie Ranked by Woke Score',
+    description: 'All 10 reviewed 2023 thriller, crime, and suspense films ranked from most woke to most traditional. Saltburn, John Wick 4, Mission Impossible, The Covenant, The Equalizer 3, and every scored 2023 thriller.',
+    canonicalPath: 'lists/thriller-movies-2023-woke-ranking',
+    publishDate: '2026-05-14',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2023 was a split year for the thriller genre. On one end: Saltburn, one of the most aggressively progressive films of the decade, wrapped in prestige aesthetics and delivered to tens of millions of Amazon Prime subscribers. On the other: John Wick: Chapter 4, the most traditionally-coded major action-thriller franchise running in Hollywood, capping its run with one of the cleanest values profiles of any major 2023 release.</p>
+
+      <p>VirtueVigil reviewed and scored 10 thriller, crime, horror-thriller, and suspense films from 2023. Each was run through the full dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures duty, sacrifice, family loyalty, moral clarity, and earned competence. The ranking below runs from most ideologically progressive at the top to most traditionally grounded at the bottom. Every entry links to the full review.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/saltburn-2023/">Saltburn (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -32 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Thriller &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Emerald Fennell's Saltburn is a textbook woke trap. The trailers sold a stylish gothic psychological thriller in the Talented Mr. Ripley tradition. What audiences got was a class warfare revenge fantasy loaded with some of the most graphically transgressive sexual content in mainstream streaming history, ending with the sociopathic outsider dancing naked through an ancestral estate after systematically murdering every member of the aristocratic family. Barry Keoghan gives a genuinely unsettling performance and Jacob Elordi makes Felix Catton the film's only moral loss. None of that changes what the film argues: inherited wealth is stupid and disposable, transgression is liberation, and annihilation is triumph. The highest woke score of any 2023 thriller by a wide margin. -32 WOKE.</p>
+      <p><a href="/reviews/saltburn-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Saltburn</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/thanksgiving-2023/">Thanksgiving (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -0 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Slasher / Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Eli Roth finally got his 2007 fake Grindhouse trailer made into a feature, and the result is exactly what it needed to be. A Plymouth, Massachusetts Black Friday riot triggers a Pilgrim-costumed killer working through everyone responsible. The slasher genre's core moral framework, bad behavior earns consequences, is present and functional throughout. The corrupt sheriff twist in the third act is the film's weakest element. The consumerist critique of Black Friday reads less like progressive messaging and more like your grandfather complaining about malls. Sits essentially even on the dual-scoring axis at -0 WOKE, making it the most ideologically neutral film on this list after Saltburn's outlier score.</p>
+      <p><a href="/reviews/thanksgiving-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Thanksgiving</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/cocaine-bear-2023/">Cocaine Bear (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy / Thriller / Horror &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Elizabeth Banks directed a film in which a bear on cocaine commits grievous violence against an ensemble of unlucky bystanders, and it is a complete 180 from her Charlie's Angels gender-politics exercise. There is no ideology in Cocaine Bear. The film's most sympathetic character is a single mother searching for her daughter in a cocaine-saturated forest. Her maternal instinct is the emotional anchor. The criminals who pursue the drug shipment get what they deserve. Keri Russell holds the film's moral center with zero speeches and maximum determination. Nihilist-comic in worldview, classically structured in its maternal-protection stakes. +6 TRAD on a film directed by one of Hollywood's known progressives is genuinely notable. $88 million worldwide on a $32 million budget.</p>
+      <p><a href="/reviews/cocaine-bear-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cocaine Bear</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/m3gan-2022/">M3GAN (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Sci-Fi / Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>M3GAN became a cultural meme before most people saw it. What the queer icon discourse buried: the film's actual argument is that technology cannot replace human love, career-first parenting produces monstrous consequences, and children need real presence rather than optimized AI substitutes. Gemma uses M3GAN as a parenting shortcut and M3GAN grows into the role Gemma abdicated. The monster is the consequence of the moral failure, not random malfunction. The film's progressive elements, the corporate safety-dismissal subplot and reluctant-motherhood framing, are present but secondary. The traditional verdict holds: children need parents. +7 TRAD. One of the more clearly traditional horror films to come out of the post-Jordan Peele prestige ecosystem.</p>
+      <p><a href="/reviews/m3gan-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of M3GAN</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/five-nights-at-freddys-2023/">Five Nights at Freddy's (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Thriller &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>Scott Cawthon, openly Christian and openly conservative, insisted on creative control over the adaptation of his gaming franchise. The result reflects his values in every significant choice. Josh Hutcherson plays Mike Schmidt, a security guard sacrificing everything to maintain custody of his younger sister after a family tragedy. The film's moral core is sound: the man who protects those who cannot protect themselves, children deserve protection and adults who harm them are the worst kind of villain, evil is real and not softened by trauma or systemic context. The Jim Henson-built animatronics are spectacular. $297 million on a $20 million budget. Cawthon's audience showed up. +12 TRAD.</p>
+      <p><a href="/reviews/five-nights-at-freddys-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Five Nights at Freddy's</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/extraction-2-2023/">Extraction 2 (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Sam Hargrave's sequel justifies its existence with the 21-minute unbroken prison break sequence, one of the most technically accomplished single takes in recent genre cinema. But the values underneath are what earn the traditional score. Tyler Rake is a man whose capacity for violence is a gift when pointed toward the protection of those who cannot protect themselves. The film treats this without apology and without the modern Hollywood caveat that masculine protective instinct must be shown as pathology. Rake heals not through therapy or self-care but through action in service of something outside himself. That is a fundamentally traditional masculine archetype, treated with genuine respect. Nik Khan is a competent teammate without the female-supremacy framing that infects most contemporary action. +13 TRAD.</p>
+      <p><a href="/reviews/extraction-2-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Extraction 2</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/the-covenant-2023/">Guy Ritchie's The Covenant (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / War / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>One of the most traditionally-coded war films of the 2020s, criminally overlooked at the box office. US Army Sergeant John Kinley is carried 100 miles across Taliban-controlled terrain by his interpreter Ahmed after an ambush. When Kinley gets home and learns Ahmed's visa has been denied, he goes back. The film's moral framework is absolute: you protect the people who protected you. Loyalty is not conditional on paperwork. The debt between men who bled together does not expire because a bureaucrat lost a file. The film's critique of the Afghan interpreter program reads as the same position held by virtually every veteran who served alongside interpreters, directed at bureaucratic cowardice rather than at the military or at America. Dar Salim is extraordinary. Guy Ritchie's restraint is earned. +16 TRAD.</p>
+      <p><a href="/reviews/the-covenant-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guy Ritchie's The Covenant</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/the-equalizer-3-2023/">The Equalizer 3 (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The rare third entry in an action franchise that improves on everything before it. Moving Robert McCall to Southern Italy strips away the social commentary that burdened the first two films and lets Denzel Washington play a man finding something worth protecting in a community that showed him grace. When the Camorra arrives, McCall assesses, plans, gives them one chance, and takes them apart. The film's moral framework is pre-political: evil predators exist, the community cannot protect itself, one man with the skills and the will makes the difference. The village matters. The relationships McCall builds are built on service and mutual respect, and the film celebrates them without irony. Dakota Fanning handles her CIA analyst role as a competent professional, not a statement. No identity messaging. No lectures. $190 million worldwide on a $70 million budget. +18 TRAD.</p>
+      <p><a href="/reviews/the-equalizer-3-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Equalizer 3</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/">Mission: Impossible - Dead Reckoning Part One (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Seven films in, Mission: Impossible remains the gold standard for Hollywood action filmmaking and one of the few major franchises that still believes a hero's moral code matters. The villain is an artificial intelligence called the Entity, rewriting history to ensure its own survival. The film's argument: human virtue, the kind that cannot be predicted or gamed by algorithms, is the last defense against amoral technological power. Ethan Hunt does not torture, does not lie to his allies, and sacrifices himself repeatedly for people he could abandon. The Rome car chase, the Venice sequence, and the Orient Express finale are the finest setpieces of the franchise. Ilsa Faust's death is meaningful, not a refrigerator. Grace's arc is earned through action. Tom Cruise did the motorcycle-off-a-cliff jump himself. 96% on Rotten Tomatoes. +18 TRAD.</p>
+      <p><a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mission: Impossible Dead Reckoning</a></p>
+
+      <hr>
+
+      <h2>#10 (Most Traditional): <a href="/reviews/john-wick-chapter-4-2023/">John Wick: Chapter 4 (2023)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Crime / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Chad Stahelski's nearly three-hour epic is the rare sequel that earns the word. The franchise closes on its cleanest values profile, built on a strict code of honor, masculine competence and discipline celebrated without apology, zero sexual content, zero identity politics, and zero progressive messaging. Every character earns their place through demonstrated excellence. Men protect what they love. Debts are honored. The diverse international cast, including Donnie Yen and Hiroyuki Sanada, enriches the globe-trotting world without a single ounce of identity politics weight attached. The Osaka Continental sequence is one of the best pure action sequences in franchise cinema. +23 TRAD. The highest traditional score of any 2023 thriller we reviewed.</p>
+      <p><a href="/reviews/john-wick-chapter-4-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of John Wick: Chapter 4</a></p>
+
+      <hr>
+
+      <h2>The Bottom Line on 2023 Thriller</h2>
+      <p>Ten films. One outlier on the woke end in Saltburn, one MIXED in Thanksgiving, and eight landing in traditional territory. The 2023 thriller pool skewed heavily traditional, and the box office reflected it: John Wick 4, Mission Impossible, The Equalizer 3, and Five Nights at Freddy's collectively earned over a billion dollars worldwide. The most ideologically progressive entry, Saltburn, found its audience on streaming after a limited theatrical run. The pattern holds across genres: traditional films earn more at the box office. 2023 thriller made the case as clearly as any year.</p>
+
+      <p>Browse all 2023 genre rankings at <a href="/lists/action-movies-2023-woke-ranking/">Every 2023 Action Movie Ranked</a> and <a href="/lists/drama-movies-2023-woke-ranking/">Every 2023 Drama Movie Ranked</a>. For more thriller rankings across years, see <a href="/lists/thriller-movies-2024-woke-ranking/">Every 2024 Thriller Movie Ranked</a>, <a href="/lists/thriller-movies-2025-woke-ranking/">Every 2025 Thriller Movie Ranked</a>, and <a href="/lists/thriller-movies-2026-woke-ranking/">Every 2026 Thriller Movie Ranked</a>.</p>
 
       <h2>Methodology Note</h2>
       <p>All scores are generated using the VirtueVigil dual-scoring methodology. Woke Score measures the density and intensity of progressive ideological content across multiple categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. Traditional Score measures duty, sacrifice, patriotism, family loyalty, faith, and earned competence. The system does not measure quality, entertainment value, or artistic merit. For full methodology details, visit our <a href="/methodology.html">Methodology</a> page.</p>
