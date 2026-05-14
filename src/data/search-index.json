@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/white-lotus-s3-2025.jpg"
   },
   {
+    "slug": "the-pitt-2025",
+    "title": "The Pitt",
+    "verdict": "TRADITIONAL",
+    "platform": "Max (HBO)",
+    "genre": "Medical Drama / Thriller",
+    "year": 2025,
+    "type": "series",
+    "wokeScore": 3.4,
+    "tradScore": 20.58,
+    "poster": "/images/posters/the-pitt-2025.jpg"
+  },
+  {
     "slug": "priscilla-2023",
     "title": "Priscilla",
     "verdict": "WOKE",
