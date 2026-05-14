@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/the-pitt-2025.jpg"
   },
   {
+    "slug": "fight-or-flight-2025",
+    "title": "Fight or Flight",
+    "verdict": "TRADITIONAL",
+    "platform": "Apple TV+",
+    "genre": "Action / Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 13.58,
+    "poster": "/images/posters/fight-or-flight-2025.jpg"
+  },
+  {
     "slug": "priscilla-2023",
     "title": "Priscilla",
     "verdict": "WOKE",
