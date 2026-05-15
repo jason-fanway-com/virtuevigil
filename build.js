@@ -24232,6 +24232,128 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
 
+  // Every 2023 Animated & Family Movie Ranked by Woke Score
+  writePage('lists/animated-family-movies-2023-woke-ranking/index.html', buildListiclePage({
+    slug: 'animated-family-movies-2023-woke-ranking',
+    title: 'Every 2023 Animated & Family Movie Ranked by Woke Score',
+    description: 'All 10 reviewed 2023 animated and family films ranked from most traditional to most woke. VirtueVigil scores every family film of 2023, from The Super Mario Bros. Movie to Wish.',
+    canonicalPath: 'lists/animated-family-movies-2023-woke-ranking',
+    publishDate: '2026-05-15',
+    htmlContent: `<article class="listicle-article">
+      <p>2023 was a genuinely strong year for families at the movies. From a record-breaking Nintendo blockbuster to a quiet Studio Ghibli masterpiece to a D&D adaptation that actually worked, parents who chose carefully had more good options than the culture war discourse gave them credit for. VirtueVigil scored every animated and family film released in 2023 to help you separate the ones worth watching from the ones that would have surprised you midway through.</p>
+
+      <p>The rankings below run from most traditional (rank 1) to most woke (rank 10). Scores are calculated using the VirtueVigil dual-scoring methodology: the Woke Score measures the density of progressive ideological content, the Traditional Score measures the weight of traditional values content, and the margin tells you which direction the film leans. Every film listed here has a full review on VirtueVigil with trope-by-trope breakdowns and parental guidance notes.</p>
+
+      <hr>
+
+      <h2>#1 - The Super Mario Bros. Movie (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 1.4</span> &bull; <span class="score-trad">Trad Score: 15.33</span> &bull; <span class="score-margin">+14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Animated / Family Adventure &bull; <strong>Rating:</strong> PG</p>
+      <p>At $1.36 billion worldwide, The Super Mario Bros. Movie was the highest-grossing animated film of 2023, and it earned that number honestly. Mario and Luigi are brothers from a working-class background who love their family, work hard, and prove themselves through action rather than entitlement. Mario sets out to rescue his brother, defeats a monstrous villain, and comes home to the family that doubted him. Princess Peach is more capable than her 1985 NES counterpart, but the film treats this as a cosmetic update rather than an ideological statement: she is never positioned as superior to Mario, never delivers speeches about female capability, and never sidelines the male hero in his own story. This is among the cleanest major theatrical releases scored on VirtueVigil. Conservative families should take their children without hesitation.</p>
+      <p><a href="/reviews/the-super-mario-bros-movie-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Super Mario Bros. Movie</a></p>
+
+      <hr>
+
+      <h2>#2 - Migration (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 2.87</span> &bull; <span class="score-trad">Trad Score: 14.42</span> &bull; <span class="score-margin">+12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Animated / Family Comedy &bull; <strong>Rating:</strong> PG</p>
+      <p>Illumination's Migration is built on a nuclear family: a father who is the protector and who must grow by being brave rather than fearful, a mother who is the emotional compass, and children who are curious and need to be led. The father's arc is not deconstructed or mocked. His overprotectiveness is presented as love that must evolve into courage, not as patriarchal control to be dismantled. Keegan-Michael Key and Danny DeVito provide adult-calibrated comedy on top of the physical gags. This is one of the most traditionally structured family comedies Illumination has produced. Rated PG, recommended for ages 4 and up, with no ideological concerns of any kind.</p>
+      <p><a href="/reviews/migration-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Migration</a></p>
+
+      <hr>
+
+      <h2>#3 - Wonka (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 2.75</span> &bull; <span class="score-trad">Trad Score: 14.28</span> &bull; <span class="score-margin">+12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Musical / Fantasy / Family &bull; <strong>Rating:</strong> PG</p>
+      <p>Wonka is the rare prequel that earns its existence. Timothee Chalamet's Willy Wonka arrives in the city as a young man with a dream, a single coin, and a mother's recipe for the most extraordinary chocolate in the world. Nobody gives him the opportunity. Nobody rescues him with institutional support. He earns his way through ingenuity, persistence, and refusal to quit. The film's central message, that a dream sustained by love for a parent can carry you through adversity and triumph over corruption, is as traditional as filmmaking gets. The villain is a corrupt chocolate cartel; the resolution is individual excellence defeating institutional rot. Recommended for ages 5 and up without reservations: no sexual content, no gender ideology, no strong language, and a beautifully realized story about what love and hard work can build.</p>
+      <p><a href="/reviews/wonka-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wonka</a></p>
+
+      <hr>
+
+      <h2>#4 - The Boy and the Heron (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 3.6</span> &bull; <span class="score-trad">Trad Score: 14.7</span> &bull; <span class="score-margin">+11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Animated Fantasy Drama &bull; <strong>Rating:</strong> PG</p>
+      <p>Hayao Miyazaki's possibly final film is a grief meditation about a boy who must learn to accept a new mother and a new world without the one he lost. Mahito's journey through a spirit realm is a ritual of masculine coming-of-age: he must face his dead mother, understand that she is gone, and choose to return to the living world where a family is waiting for him. The film does not offer therapeutic self-acceptance as the answer to grief. It offers something harder: the decision to live in the real world with the family you have rather than the one you lost. This is one of the finest animated films ever made and one of the most traditionally structured. More emotionally demanding than Spirited Away, it rewards patience with genuine wisdom about loss, acceptance, and responsibility.</p>
+      <p><a href="/reviews/the-boy-and-the-heron-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Boy and the Heron</a></p>
+
+      <hr>
+
+      <h2>#5 - Shazam! Fury of the Gods (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 5.9</span> &bull; <span class="score-trad">Trad Score: 17.5</span> &bull; <span class="score-margin">+12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Superhero / Action &bull; <strong>Rating:</strong> PG-13</p>
+      <p>Critics abandoned Shazam! Fury of the Gods at 50% on Rotten Tomatoes. Families who actually watched it gave it 84%. The gap tells you something. The found family at the center of this film, the Vasquez foster children, is the DCEU's most underrated traditional values story: Victor and Rosa Vasquez are loving, stable foster parents who build family through commitment rather than biology, and the film treats their bonds as real and worth dying for. Billy's arc is about becoming worthy of the gifts he has been given, and the answer the film provides, that love and sacrifice confer worthiness rather than demanding it, carries straightforward Christian undertones. Minor progressive casting choices are present but decorative rather than ideological. Suitable for ages 10 and up.</p>
+      <p><a href="/reviews/shazam-fury-of-the-gods-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shazam! Fury of the Gods</a></p>
+
+      <hr>
+
+      <h2>#6 - Dungeons &amp; Dragons: Honor Among Thieves (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 3.7</span> &bull; <span class="score-trad">Trad Score: 12.92</span> &bull; <span class="score-margin">+9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Genre:</strong> Action / Adventure / Fantasy &bull; <strong>Rating:</strong> PG-13</p>
+      <p>In a year that included Barbie and Oppenheimer, Dungeons and Dragons: Honor Among Thieves was the best pure adventure film Hollywood released and the one most people forgot to discuss. The film has no political agenda. It has a father who loves his daughter, a group of misfits who choose each other, and a villain who is punished for his greed. Edgin's love for his daughter is the emotional spine of the entire story, and his self-sacrifice at the climax is handled with genuine care. The diverse ensemble is genre-appropriate for a fantasy setting and never tips into political messaging. Conservative adults who dismissed this for geek-culture reasons missed one of the best-executed adventure comedies of the decade. Ages 8 and up.</p>
+      <p><a href="/reviews/dungeons-dragons-honor-among-thieves-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dungeons &amp; Dragons: Honor Among Thieves</a></p>
+
+      <hr>
+
+      <h2>#7 - Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 4.97</span> &bull; <span class="score-trad">Trad Score: 8.64</span> &bull; <span class="score-margin">+4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Genre:</strong> Animation / Action / Comedy &bull; <strong>Rating:</strong> PG</p>
+      <p>The best TMNT film since 2007 and one of the most visually distinctive studio animated films in years, Mutant Mayhem succeeds because its father-son story works. Splinter is the film's moral center: his overwhelming love for the turtles, his protective instinct expressed through isolation, and his eventual decision to trust them to face the world are handled with genuine emotional depth. The Superfly grievance arc and acceptance messaging are real, but the film does not lecture about them and ultimately resolves its outsider theme through friendship and bravery rather than institutional validation. A Seth Rogen production more traditional than its pedigree suggests. Conservative parents will be pleasantly surprised.</p>
+      <p><a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of TMNT: Mutant Mayhem</a></p>
+
+      <hr>
+
+      <h2>#8 - Elemental (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 12.2</span> &bull; <span class="score-trad">Trad Score: 19.74</span> &bull; <span class="score-margin">+8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Genre:</strong> Animated / Romance &bull; <strong>Rating:</strong> PG</p>
+      <p>Critics gave Elemental 74% and audiences gave it 95%. That gap is not accidental. Critics evaluated the film on its immigration allegory. Audiences responded to something critics misread: the immigrant father storyline is the most traditionally Pixar has been in years. Bernie Lumen crossed an ocean, built a business from nothing, and sacrificed his own dreams so his daughter could have options. The film treats that sacrifice with complete seriousness. The immigration allegory and progressive city-as-metaphor framing are real but do not overwhelm a film fundamentally about honoring your parents, working hard, and finding success worthy of your family's sacrifice. The romance is sweet and chaste. Recommended for ages 6 and up.</p>
+      <p><a href="/reviews/elemental-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Elemental</a></p>
+
+      <hr>
+
+      <h2>#9 - Spider-Man: Across the Spider-Verse (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 12.59</span> &bull; <span class="score-trad">Trad Score: 10.64</span> &bull; <span class="score-margin">-2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> MIXED &bull; <strong>Genre:</strong> Animated / Superhero &bull; <strong>Rating:</strong> PG</p>
+      <p>The most technically ambitious animated film ever made, Across the Spider-Verse is a MIXED result by VirtueVigil scoring. Miles's relationship with his parents is genuinely traditional: his father is a loving, dedicated man proud of his son, and the emotional stakes of the father-son bond drive the film's most affecting moments. But the film's structural argument is anti-institutional: the Spider-Society enforces predetermined outcomes, Spider-Punk voices anarchist ideology explicitly, and the film sides unambiguously with Miles's self-determination against institutional authority. A transgender flag appears in the background of a key scene. The artistic achievement is real and substantial. Conservative parents should watch alongside teenagers and be prepared to discuss the anti-authority messaging and what the film is actually arguing beneath its stunning visuals.</p>
+      <p><a href="/reviews/spider-man-across-the-spider-verse-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: Across the Spider-Verse</a></p>
+
+      <hr>
+
+      <h2>#10 - Wish (2023)</h2>
+      <div class="listicle-scores">
+        <span class="score-woke">Woke Score: 17.45</span> &bull; <span class="score-trad">Trad Score: 11.9</span> &bull; <span class="score-margin">-6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Verdict:</strong> WOKE LEAN &bull; <strong>Genre:</strong> Animation / Musical / Fantasy &bull; <strong>Rating:</strong> PG</p>
+      <p>Disney's centennial celebration cost nearly $200 million and made audiences feel almost nothing. Asha discovers her king has been confiscating subjects' dreams and redistributing only the ones he deems safe. The central conflict actually carries a surprisingly anti-big-government dimension: your dreams belong to you, not the state. But that message drowns in diversity casting, a grievance-fueled villain arc, and musical numbers that never cohere. The DEI casting is obvious and the pacing drags. The real problem with Wish is not aggressive wokeness but creative vacancy: Disney made a film about the magic of dreams that forgot to include any. The woke lean score reflects the cumulative weight of content choices rather than a single dominant message, making this the animated disappointment of 2023 on both ideological and entertainment grounds.</p>
+      <p><a href="/reviews/wish-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wish</a></p>
+
+      <hr>
+
+      <h2>Methodology Note</h2>
+      <p>All scores are generated using the VirtueVigil dual-scoring system, which measures both the density of progressive ideological content (Woke Score) and the weight of traditional values content (Traditional Score) across categories including gender politics, family structure, religious themes, authority framing, and identity messaging. The margin between the two scores determines the verdict. Positive margins indicate a traditional lean; negative margins indicate a woke lean. For full details, visit our <a href="/methodology.html">Methodology</a> page.</p>
+
+      <p>This list covers all animated and family films from 2023 reviewed by VirtueVigil. Browse our <a href="/lists/">complete listicle archive</a> for ranked guides across every year and genre, or use the search on the homepage to look up any specific title in our database.</p>
+    </article>`
+  }));
+  console.log('  lists/animated-family-movies-2023-woke-ranking/index.html');
+
 } // close buildSite async wrapper
 
 // Run the build
