@@ -1926,6 +1926,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/drama-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/sci-fi-adventure-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
@@ -2879,6 +2880,7 @@ function buildListsHubPage() {
         'biographical-movies-woke-ranking',
         'thriller-movies-2024-woke-ranking',
         'thriller-movies-2023-woke-ranking',
+        'sci-fi-adventure-movies-2023-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2954,7 +2956,8 @@ function buildListsHubPage() {
       'biographical-movies-woke-ranking': 'Every Biographical Movie Ranked by Woke Score (All Time)',
       'drama-movies-2024-woke-ranking': 'Every 2024 Drama Movie Ranked by Woke Score',
       'thriller-movies-2024-woke-ranking': 'Every 2024 Thriller Movie Ranked by Woke Score',
-      'thriller-movies-2023-woke-ranking': 'Every 2023 Thriller Movie Ranked by Woke Score'
+      'thriller-movies-2023-woke-ranking': 'Every 2023 Thriller Movie Ranked by Woke Score',
+      'sci-fi-adventure-movies-2023-woke-ranking': 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -24353,6 +24356,205 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
   console.log('  lists/animated-family-movies-2023-woke-ranking/index.html');
+
+  writePage('lists/sci-fi-adventure-movies-2023-woke-ranking/index.html', buildListiclePage({
+    slug: 'sci-fi-adventure-movies-2023-woke-ranking',
+    title: 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score',
+    description: 'All 16 reviewed 2023 sci-fi, adventure, and fantasy films ranked from most woke to most traditional. Poor Things, The Creator, Guardians Vol. 3, Godzilla Minus One, and every scored 2023 genre film.',
+    canonicalPath: 'lists/sci-fi-adventure-movies-2023-woke-ranking',
+    publishDate: '2026-05-16',
+    htmlContent: `<article class="listicle-article">
+
+  <p>2023 was a landmark year for sci-fi and adventure cinema. From Yorgos Lanthimos winning the Academy Award for Best Picture with a surrealist feminist fantasy to Takashi Yamazaki delivering the most traditionally grounded Godzilla film in two decades, the genre spectrum in 2023 was as wide as any year in recent memory. The biggest studio franchises, Marvel, DC, Transformers, and Fast and Furious, all swung for the fences. Some landed. Some crashed. All of it is scored.</p>
+
+  <p>VirtueVigil reviewed and scored 16 sci-fi, adventure, and fantasy films from 2023. Each film was evaluated using the dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures duty, sacrifice, family loyalty, moral clarity, and earned competence. The ranking below runs from the most ideologically progressive at the top to the most traditionally grounded at the bottom. Every entry links to the full VirtueVigil review.</p>
+
+  <hr>
+
+  <h2>#1 (Most Woke): <a href="/reviews/poor-things-2023/">Poor Things (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+    <span class="mini-score woke">MARGIN: -38 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi &amp; Fantasy &bull; <strong>Platform:</strong> Streaming</p>
+  <p>Yorgos Lanthimos won Best Picture for a film about Bella Baxter, a woman brought back to life by a surgeon who has replaced her brain with a fetal one, embarking on a grand European journey of sexual discovery, philosophical awakening, and socialist radicalization. The film presents this trajectory not as tragedy but as liberation. Every patriarchal institution Bella encounters, marriage, financial dependence, religious authority, is coded as a cage. Every transgression is coded as growth. Director Lanthimos is among the most consistently progressive filmmakers working in prestige cinema, and Poor Things is his most explicit statement of intent. Woke Score of 47 with a traditional score of 9 gives it the widest ideological gap of any 2023 sci-fi or fantasy film reviewed. The Academy agreed with the thesis. -38 WOKE.</p>
+  <p><a href="/reviews/poor-things-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Poor Things</a></p>
+
+  <hr>
+
+  <h2>#2: <a href="/reviews/the-creator-2023/">The Creator (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+    <span class="mini-score woke">MARGIN: -31 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Gareth Edwards opens The Creator with the United States military detonating a nuclear weapon over a civilian city. That framing does not waver across the entire film. America is the aggressor. AI is the oppressed. The resistance fighters battling US forces are coded as the moral heroes of the story. Edwards has said the film was originally conceived before AI became a cultural flashpoint, but the version that reached theaters is a direct anti-American, anti-military argument in science fiction clothing. The cinematography is genuinely stunning. The ideology never lets up. Director ideology: Left-Progressive. The Creator earned $67 million on an $80 million budget, a significant theatrical miss. -31 WOKE.</p>
+  <p><a href="/reviews/the-creator-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Creator</a></p>
+
+  <hr>
+
+  <h2>#3: <a href="/reviews/aquaman-and-the-lost-kingdom-2023/">Aquaman and the Lost Kingdom (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke">WOKE</span>
+    <span class="mini-score woke">MARGIN: -12 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Superhero / Fantasy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>The DC Extended Universe ended not with a bang but with an extended climate lecture wrapped in superhero spectacle. Aquaman and the Lost Kingdom uses the villain's ancient weapon as a metaphor for fossil fuel exploitation threatening ocean civilizations, and the film never passes up an opportunity to make the parallel explicit. The environmental messaging dominates the third act and the climactic resolution centers on cleaning up pollution rather than defeating evil in any meaningful traditional sense. Jason Momoa's natural charisma holds the film together at a surface level. Below the surface, the ideology drives every major plot beat. Warner Bros. shut down the DCEU immediately after this film's release. -12 WOKE.</p>
+  <p><a href="/reviews/aquaman-and-the-lost-kingdom-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Aquaman and the Lost Kingdom</a></p>
+
+  <hr>
+
+  <h2>#4: <a href="/reviews/wish-2023/">Wish (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke-lean">WOKE LEAN</span>
+    <span class="mini-score woke">MARGIN: -6 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Animation / Musical / Fantasy &bull; <strong>Platform:</strong> Streaming / Theatrical</p>
+  <p>Disney's 100th anniversary film was supposed to be a celebration. What arrived was a story in which the established authority figure, the king who grants wishes to his subjects, is reframed as a controlling oppressor hoarding power from the people. Asha, the young female protagonist, leads a grassroots uprising against him. The institutional authority Disney spent a century building affection for is now the villain of its own anniversary film. The film underperformed badly, earning $257 million worldwide against a reported $200 million production budget and hundreds of millions more in marketing. The audience's response to a Disney film built around anti-authority messaging was measured at the box office. -6 WOKE.</p>
+  <p><a href="/reviews/wish-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wish</a></p>
+
+  <hr>
+
+  <h2>#5: <a href="/reviews/ant-man-and-the-wasp-quantumania-2023/">Ant-Man and the Wasp: Quantumania (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke-lean">WOKE LEAN</span>
+    <span class="mini-score woke">MARGIN: -4 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Adventure &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+  <p>The Marvel Cinematic Universe's Phase 5 opener fumbled its introduction of Kang the Conqueror while managing to slot in consistent progressive framing throughout. Cassie Lang's arc positions youthful idealism and anti-authoritarian resistance as the film's moral core. Scott Lang's protective fatherhood is undercut repeatedly in favor of Cassie's agency narrative. The Quantum Realm's oppressed population reads as a straightforward refugee allegory. Kang himself is underwritten as a villain despite Jonathan Majors giving a committed performance. The film earned $476 million worldwide, a significant MCU underperformance that triggered Marvel's Phase 5 recalibration. -4 WOKE.</p>
+  <p><a href="/reviews/ant-man-and-the-wasp-quantumania-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ant-Man and the Wasp: Quantumania</a></p>
+
+  <hr>
+
+  <h2>#6: <a href="/reviews/the-flash-2023/">The Flash (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge mixed">MIXED</span>
+    <span class="mini-score trad">MARGIN: +2 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Superhero / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>The Flash arrives at an essentially even ideological score despite the off-screen chaos surrounding its production and star. The film's central emotional engine, a son desperate to undo his mother's murder, is a genuinely traditional grief narrative about the impossibility of escaping loss. The multiverse mechanics dilute the emotional core rather than amplify it. The film's argument that trying to rewrite the past corrupts the future functions as a classically conservative temporal philosophy. At +2 TRAD, this is the most ideologically balanced DC film on the list. It is also the DCEU's most expensive box office failure at $268 million worldwide against a $200 million+ budget. +2 TRAD.</p>
+  <p><a href="/reviews/the-flash-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Flash</a></p>
+
+  <hr>
+
+  <h2>#7: <a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/">Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +4 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Animation / Action / Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Seth Rogen produced an energetic reboot centered on four brothers who want nothing more than to be accepted by the human world their father has kept them from. Splinter's overprotective parenting is challenged but his love is never questioned, the brothers fight for one another without hesitation, and the climax is driven by chosen family loyalty rather than individualist self-actualization. The teenage social anxiety and belonging themes are executed without the ideological loading that typically accompanies them. The hand-drawn aesthetic is genuinely striking. $181 million worldwide. A successful franchise relaunch with a surprisingly clean values profile. +4 TRAD.</p>
+  <p><a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of TMNT: Mutant Mayhem</a></p>
+
+  <hr>
+
+  <h2>#8: <a href="/reviews/transformers-rise-of-the-beasts-2023/">Transformers: Rise of the Beasts (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +8 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>The seventh Transformers film centers on Noah Diaz, a Brooklyn veteran struggling to provide for his family who gets pulled into the Autobot conflict. The film's male lead is coded straightforwardly: a man who takes responsibility, protects his brother, and earns his place through demonstrated competence. The Autobots carry the franchise's consistent values profile: loyalty, sacrifice for others, and fighting for something larger than oneself. There is no substantial progressive agenda present. The film is not great cinema, but it is exactly what it says it is: a big loud action movie about giant robots built around a working-class male protagonist who earns his victory. $439 million worldwide. +8 TRAD.</p>
+  <p><a href="/reviews/transformers-rise-of-the-beasts-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Transformers: Rise of the Beasts</a></p>
+
+  <hr>
+
+  <h2>#9: <a href="/reviews/guardians-of-the-galaxy-vol-3-2023/">Guardians of the Galaxy Vol. 3 (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +9 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+  <p>James Gunn's farewell to his Guardians chapter is the strongest MCU film of 2023 on every metric, including values. The Rocket origin story delivers the clearest anti-cruelty-to-animals message in any major 2023 film without transforming it into political messaging. The Guardians fight for each other out of genuine love, not obligation. Peter Quill's grief arc resolves with him returning to Earth to reconnect with family, a fundamentally traditional resolution. The High Evolutionary is one of the MCU's most effective villains: a man who believes his intelligence exempts him from basic moral constraints. The film's rejection of that argument is clear and satisfying. $845 million worldwide. +9 TRAD.</p>
+  <p><a href="/reviews/guardians-of-the-galaxy-vol-3-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Guardians of the Galaxy Vol. 3</a></p>
+
+  <hr>
+
+  <h2>#10: <a href="/reviews/dungeons-dragons-honor-among-thieves-2023/">Dungeons &amp; Dragons: Honor Among Thieves (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +9 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Fantasy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>The Dungeons and Dragons adaptation surprised by being a genuinely fun adventure film built around a father trying to reunite with his daughter. Chris Pine's Edgin is a man defined by grief over his dead wife and love for the child she left behind. The ensemble may be diverse in composition, but the character dynamics are driven by loyalty, competence hierarchies, and earned trust, not progressive power rebalancing. The film celebrates creative problem-solving and mutual sacrifice without inserting social justice commentary into the fantasy setting. $208 million worldwide. One of the cleaner adventure films of 2023. +9 TRAD.</p>
+  <p><a href="/reviews/dungeons-dragons-honor-among-thieves-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dungeons &amp; Dragons: Honor Among Thieves</a></p>
+
+  <hr>
+
+  <h2>#11: <a href="/reviews/the-boy-and-the-heron-2023/">The Boy and the Heron (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +11 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Animated Fantasy Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Hayao Miyazaki's likely final film is a densely personal work about grief, transition, and the willingness to return to the living world rather than lose oneself in fantasy. Mahito is a boy who retreats into a mysterious tower world after his mother's death and must choose whether to stay in its comfortable strangeness or accept a new family and an uncertain future. The film's traditional values emerge from its structure: self-pity is not rewarded, withdrawal is not sustainable, and the mature response to loss is re-engagement with the real world and the people in it. Winner of the Academy Award for Best Animated Feature. +11 TRAD.</p>
+  <p><a href="/reviews/the-boy-and-the-heron-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Boy and the Heron</a></p>
+
+  <hr>
+
+  <h2>#12: <a href="/reviews/wonka-2023/">Wonka (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +12 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Musical / Fantasy / Family &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Paul King's Wonka prequel is a straightforward traditional narrative about a young man with an impossible dream, a loyal team forged through shared hardship, and corrupt institutional power overcome through ingenuity and perseverance. Timothee Chalamet brings genuine charm to a character whose defining trait is generosity. The film's climax is driven by loyalty repaid, promises kept, and an orphaned boy reconnecting with a parent figure. The progressive content is minimal and incidental. One of the cleanest fantasy blockbusters of 2023. $632 million worldwide. +12 TRAD.</p>
+  <p><a href="/reviews/wonka-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wonka</a></p>
+
+  <hr>
+
+  <h2>#13: <a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/">Mission: Impossible - Dead Reckoning Part One (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +18 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Tom Cruise and Christopher McQuarrie's seventh Mission: Impossible chapter is the franchise's most explicitly traditional entry. Ethan Hunt's defining trait in Dead Reckoning is loyalty to individuals over institutions: he protects Grace not because the mission requires it but because she is a person worth protecting. The film's villain is an AI entity that exploits truth and human trust, a premise that functions as a classically conservative warning about technology replacing human judgment. The franchise has never incorporated progressive politics and Dead Reckoning continues that record. $567 million worldwide. +18 TRAD.</p>
+  <p><a href="/reviews/mission-impossible-dead-reckoning-part-one-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mission: Impossible Dead Reckoning</a></p>
+
+  <hr>
+
+  <h2>#14: <a href="/reviews/godzilla-minus-one-2023/">Godzilla Minus One (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +19 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Drama / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+  <p>Takashi Yamazaki's Godzilla film is the best argument for traditional masculine virtue to appear in a major sci-fi release in years. Koichi Shikishima is a kamikaze pilot who survived the war by failing to fulfill his duty and spends the entire film working to redeem himself through sacrifice. The film treats his shame as legitimate rather than as a product of unjust social pressure. Yamazaki's director ideology is conservative-traditional, with a career built on duty, sacrifice, and family. Made for $15 million. Earned $117 million worldwide. Won the Academy Award for Best Visual Effects over all American competition. +19 TRAD.</p>
+  <p><a href="/reviews/godzilla-minus-one-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Godzilla Minus One</a></p>
+
+  <hr>
+
+  <h2>#15: <a href="/reviews/fast-x-2023/">Fast X (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +20 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>The Fast franchise has always been built around one word: family. Fast X makes that explicit again as Dante Reyes systematically targets Dominic Toretto's blood and chosen kin to punish him for a decade-old slight. The entire film is a test of whether Toretto's family bonds hold under maximum pressure. They do. There is no therapy arc. There is no institutional critique. There is Dom Toretto standing between his family and anyone who threatens them. That framing is consistent across every film in the series and Fast X delivers it without apology. +20 TRAD.</p>
+  <p><a href="/reviews/fast-x-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Fast X</a></p>
+
+  <hr>
+
+  <h2>#16 (Most Traditional): <a href="/reviews/society-of-the-snow-2023/">Society of the Snow (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +31 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Drama / Biography / Adventure &bull; <strong>Platform:</strong> Netflix</p>
+  <p>J.A. Bayona's account of the 1972 Andes plane crash survivors is the most traditionally coded film on this list by a significant margin. The Uruguayan rugby team's survival story is built on faith, sacrifice, brotherhood, and the willingness to make morally unthinkable choices to survive. The film does not flinch from the cannibalism, and it does not use it for shock value: it uses it to illustrate that the will to survive, the obligation to those waiting for you, and faith that rescue is possible are worth any cost. The film contains no progressive ideology in any meaningful quantity. VirtueVigil confirmed: Not a woke trap. The highest traditional score of any 2023 sci-fi or adventure film we reviewed. +31 TRAD.</p>
+  <p><a href="/reviews/society-of-the-snow-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Society of the Snow</a></p>
+
+  <hr>
+
+  <h2>Methodology</h2>
+  <p>All scores use the VirtueVigil dual-scoring system. Woke Score measures the density and intensity of progressive ideological content across categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. Traditional Score measures duty, sacrifice, family loyalty, moral clarity, patriotism, and earned competence. The Score Margin is the difference between the two, with positive numbers indicating a traditional lean and negative numbers indicating a woke lean. For complete details, see the <a href="/methodology.html">VirtueVigil Methodology</a> page.</p>
+
+  <p>Browse the complete VirtueVigil database at <a href="/">VirtueVigil.com</a> to see how every reviewed film scores. For more 2023 genre rankings, see <a href="/lists/action-movies-2023-woke-ranking/">Every 2023 Action Movie Ranked</a>, <a href="/lists/drama-movies-2023-woke-ranking/">Every 2023 Drama Movie Ranked</a>, <a href="/lists/thriller-movies-2023-woke-ranking/">Every 2023 Thriller Movie Ranked</a>, and <a href="/lists/animated-family-movies-2023-woke-ranking/">Every 2023 Animated and Family Movie Ranked</a>. For the full sci-fi ranking across years, see <a href="/lists/sci-fi-movies-2024-woke-ranking/">Every 2024 Sci-Fi Movie Ranked</a> and <a href="/lists/sci-fi-movies-2025-woke-ranking/">Every 2025 Sci-Fi Movie Ranked</a>.</p>
+
+</article>`
+  }));
+  console.log('  lists/sci-fi-adventure-movies-2023-woke-ranking/index.html');
 
 } // close buildSite async wrapper
 
