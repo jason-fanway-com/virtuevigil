@@ -24556,6 +24556,370 @@ function buildThrillerMovies2025WokeRankingListicle() {
   }));
   console.log('  lists/sci-fi-adventure-movies-2023-woke-ranking/index.html');
 
+  writePage('lists/movies-2022-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-2022-woke-ranking',
+    title: 'Every 2022 Movie Ranked by Woke Score',
+    description: 'All 31 reviewed 2022 films ranked from most woke to most traditional. Glass Onion, Top Gun Maverick, The Batman, Strange World, Don\'t Worry Darling, The Terminal List, and every scored 2022 release.',
+    canonicalPath: 'lists/movies-2022-woke-ranking',
+    publishDate: '2026-05-20',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2022 was a year of extremes at the box office and in Hollywood ideology. VirtueVigil reviewed and scored all 31 major 2022 theatrical and streaming releases, applying the full dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures duty, sacrifice, family loyalty, patriotism, and earned competence. The results tell a story that the trades missed.</p>
+
+      <p>Glass Onion sits at one pole, a film that weaponizes its audience's contempt for billionaires and delivers it as prestige comedy. At the other end, The Terminal List and Top Gun: Maverick proved that unapologetically traditional content not only survives in 2022 Hollywood, it dominates. Every film links to the full VirtueVigil review. Ranked from most woke to most traditional.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/glass-onion-2022/">Glass Onion: A Knives Out Mystery (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -24 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Mystery / Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Rian Johnson's follow-up to Knives Out is a technically polished murder mystery that doubles as an extended lecture about the moral bankruptcy of tech billionaires. The -24 WOKE margin comes from the film's systematic framing of wealth, ambition, and male competence as inherently corrupt. Every traditionally coded character is a villain, fool, or traitor. The woke message is not subtext; it is the entire point. The filmmaking craft is real. The ideology is relentless and deliberate.</p>
+      <p><a href="/reviews/glass-onion-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Glass Onion</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/dont-worry-darling-2022/">Don't Worry Darling (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -19 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Olivia Wilde's domestic thriller frames the 1950s suburban ideal as a literal patriarchal prison where women are drugged into submission and their ambitions systematically erased. The -19 WOKE margin is driven by its core premise: traditional gender roles are not a cultural preference but an active conspiracy of male control. The film's conclusion frames female liberation as the only legitimate escape from an irredeemably oppressive domestic structure. Off-screen drama overshadowed the film's release, but the ideology would have made headlines regardless.</p>
+      <p><a href="/reviews/dont-worry-darling-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Don't Worry Darling</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/strange-world-2022/">Strange World (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -15 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Adventure &bull; <strong>Platform:</strong> Disney+ / Theatrical</p>
+      <p>Disney's most explicit progressive animated film of 2022 featured the studio's first openly gay teenage protagonist and built its environmental messaging into the central narrative premise. Strange World's $11.9 million domestic opening was the worst for a major Disney animated feature in decades. The -15 WOKE margin reflects a film designed to deliver progressive representation and climate ideology to children. The audience stayed home in numbers that should have been a warning Disney ignored.</p>
+      <p><a href="/reviews/strange-world-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Strange World</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/turning-red-2022/">Turning Red (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -13 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Comedy / Fantasy &bull; <strong>Platform:</strong> Disney+ (day-and-date)</p>
+      <p>Domee Shi's Pixar film about a Chinese-Canadian girl whose coming-of-age is literalized as an uncontrollable red panda transformation is a technically accomplished piece of animation that doubles as a critique of traditional immigrant parental expectations. The -13 WOKE margin emerges from the film's consistent framing of cultural tradition, parental authority, and filial duty as trauma sources rather than gifts. The resolution privileges the daughter's autonomy over the mother's legitimate concerns. Skipped theatrical in favor of Disney+ streaming, which tells you something about who greenlit it.</p>
+      <p><a href="/reviews/turning-red-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Turning Red</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/black-panther-wakanda-forever-2022/">Black Panther: Wakanda Forever (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Drama &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Ryan Coogler's sequel to Black Panther carried the enormous weight of Chadwick Boseman's death and largely handled it with dignity. The grief is real and the performances earn it. The -6 WOKE lean comes from the film's anti-colonial and anti-Western framing of Wakanda's conflict with Talokan, positioning the CIA as the primary villain motivating both sides. The progressive identity politics are present but secondary to the mourning narrative. A more traditionally coded film would have scored higher; the political framing keeps it in woke-lean territory.</p>
+      <p><a href="/reviews/black-panther-wakanda-forever-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Panther: Wakanda Forever</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/wednesday-2022/">Wednesday (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Supernatural Mystery / Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Tim Burton's Netflix reimagining of Wednesday Addams was one of the most-watched series launches in platform history. Wednesday herself is a classically anti-conformist character, which cuts across the progressive-traditional axis in interesting ways. The -5 WOKE lean comes primarily from progressive gender dynamics and the show's consistent framing of institutional authority as corrupt and untrustworthy. But Wednesday's core appeal, an uncompromising individualist who refuses to perform emotion she doesn't feel, connects with audiences across the political spectrum. The numbers proved it.</p>
+      <p><a href="/reviews/wednesday-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wednesday</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/thor-love-and-thunder-2022/">Thor: Love and Thunder (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Comedy &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Taika Waititi's second Thor film tried to replicate Ragnarok's irreverence and produced a significantly weaker result. The -4 WOKE lean reflects the franchise's continued drift toward progressive gender framing, with Jane Foster's worthiness arc positioned as a corrective to Thor's prior monopoly on power. The humor undercuts genuine dramatic stakes. $761 million worldwide but a Rotten Tomatoes audience score of 76%, which for an MCU film at that era signals meaningful audience disappointment. The MCU's Phase Four woke lean was becoming unmistakable by mid-2022.</p>
+      <p><a href="/reviews/thor-love-and-thunder-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Thor: Love and Thunder</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/ozark/">Ozark (Season 4, 2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller / Crime Drama &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Ozark's final season closed one of Netflix's best crime dramas with a -4 WOKE lean that reflects the show's consistent framing of systemic institutional corruption and its progressive critique of American capitalism. Marty Byrde is not redeemed; the show frames his survival as a function of moral compromise rather than competence. The Langmore arc, which provides the season's most traditional values content through Ruth's loyalty and family obligation, partially offsets the Byrde family's relentless moral bankruptcy. A superior show that lands just slightly left of center on the VirtueVigil scale.</p>
+      <p><a href="/reviews/ozark/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ozark</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/lightyear-2022/">Lightyear (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Sci-Fi / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The Toy Story universe origin story for Buzz Lightyear became a flash point when Disney included a same-sex kiss that had reportedly been cut under earlier studio guidance. The kiss is brief but its inclusion in a children's film was deliberate. The -4 WOKE lean reflects that choice alongside progressive messaging embedded in the sci-fi premise. The film grossed $226 million worldwide against a reported $200 million production budget before marketing. For Pixar, that's a commercial miss. For Disney, it was a reputational flashpoint they chose to make.</p>
+      <p><a href="/reviews/lightyear-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Lightyear</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/doctor-strange-multiverse-of-madness-2022/">Doctor Strange in the Multiverse of Madness (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -3 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Horror &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Sam Raimi's return to Marvel was the best MCU Phase Four film on craft alone, a genuine horror-inflected superhero movie with visual ambition most Phase Four entries completely lacked. The -3 WOKE lean is mild by MCU standards and primarily driven by the America Chavez character's progressive backstory framing and the film's treatment of Wanda Maximoff's maternal grief as a villain motivation. The horror elements are effectively deployed. Raimi's craftsmanship is visible throughout. $955 million worldwide made it one of the year's biggest hits.</p>
+      <p><a href="/reviews/doctor-strange-multiverse-of-madness-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Doctor Strange in the Multiverse of Madness</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/amsterdam-2022/">Amsterdam (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -1 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Mystery / Comedy / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>David O. Russell's fictionalized account of the Business Plot conspiracy assembled an absurd amount of A-list talent and produced one of 2022's biggest box office disasters, grossing $6.5 million against a $80 million budget. The -1 WOKE margin places it right at the boundary: anti-fascist conspiracy thriller with progressive sympathies but enough genuine friendship and loyalty between its leads to partially offset the ideological weight. The film's failure was not primarily ideological; it was structural. But the politics did not help.</p>
+      <p><a href="/reviews/amsterdam-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Amsterdam</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/the-menu-2022/">The Menu (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +0.4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Black Comedy / Horror &bull; <strong>Platform:</strong> Theatrical / HBO Max</p>
+      <p>Mark Mylod's dining horror-comedy skewers pretension across the class spectrum with enough even-handedness to land almost perfectly at neutral. The +0.4 TRAD margin is essentially zero, and appropriately so: The Menu targets haute cuisine culture, elite gatekeeping, and performative wealth consumption as its primary villains, but the working-class protagonist is rendered sympathetically and the film's conclusion rewards authenticity over status. Its critique is aimed at a very specific kind of progressive credentialing culture without endorsing a conservative alternative. The menu, so to speak, has something for everyone.</p>
+      <p><a href="/reviews/the-menu-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Menu</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/everything-everywhere-all-at-once-2022/">Everything Everywhere All at Once (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy / Drama / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The Daniels' multiverse film swept the Academy Awards and generated more ideological debate per frame than almost any film of the decade. The +1 TRAD margin reflects genuine analytical difficulty: the film contains significant progressive content including a gay daughter subplot and progressive identity framing, but its core argument is deeply family-centric. Evelyn Wang's arc ends with her choosing her family, her marriage, and her immigrant community over nihilism. That resolution is traditionally coded regardless of the progressive context surrounding it. Both sides of the culture war claimed this film. VirtueVigil calls it genuinely mixed.</p>
+      <p><a href="/reviews/everything-everywhere-all-at-once-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Everything Everywhere All at Once</a></p>
+
+      <hr>
+
+      <h2>#14: <a href="/reviews/house-of-the-dragon-2022/">House of the Dragon (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Fantasy / Epic Drama &bull; <strong>Platform:</strong> HBO Max</p>
+      <p>HBO's Game of Thrones prequel recovered the franchise from the catastrophic final seasons by returning to George R.R. Martin's source material and the political intrigue that made the original great. The +2 TRAD margin reflects a show built on dynastic obligation, succession legitimacy, and the price of power, all traditionally coded themes, undercut by the progressive framing around Queen Rhaenyra's inheritance rights and gender politics. The show treats both sides of the succession conflict with complexity rather than ideological favoritism. A dramatically superior product to its predecessor's final act.</p>
+      <p><a href="/reviews/house-of-the-dragon-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of House of the Dragon</a></p>
+
+      <hr>
+
+      <h2>#15: <a href="/reviews/avatar-the-way-of-water-2022/">Avatar: The Way of Water (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action / Adventure &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>James Cameron's sequel to the highest-grossing film in history is a technical marvel and an ideological muddle. The +3 TRAD margin captures the tension between Avatar's anti-colonial, pro-indigenous, environmentalist messaging and its deeply traditional core: Jake Sully is a father who will do anything to protect his family. Every major action beat is driven by parental sacrifice and family loyalty. The children's arcs are grounded in earning respect and choosing family over self. Cameron's politics lean progressive but his storytelling instincts are conservative. The result earns $2.3 billion and a slight traditional lean.</p>
+      <p><a href="/reviews/avatar-the-way-of-water-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avatar: The Way of Water</a></p>
+
+      <hr>
+
+      <h2>#16: <a href="/reviews/babylon-2022/">Babylon (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Period Drama / Black Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Damien Chazelle's Hollywood excess epic was critically admired and commercially ignored, grossing $15 million against a $78 million budget. The +4 TRAD lean comes from the film's ultimately tragic framing of unchecked hedonism: every character who prioritizes pleasure over purpose is destroyed by it. Manny's arc is the clearest expression of the traditional values argument, an immigrant who builds something real but cannot escape the corruption surrounding him. The film's three-hour runtime contains significant debauchery, but the moral ledger comes out in favor of those who choose meaning over sensation.</p>
+      <p><a href="/reviews/babylon-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Babylon</a></p>
+
+      <hr>
+
+      <h2>#17: <a href="/reviews/black-adam-2022/">Black Adam (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical / HBO Max</p>
+      <p>Dwayne Johnson's passion project set in the DCEU positioned Black Adam as an anti-hero whose ruthless violence is justified by the protection of his people. The +5 TRAD lean comes from the film's consistent emphasis on sacrifice, community defense, and the legitimacy of hard justice over progressive institutional procedure. Black Adam does not believe in restraint when his people are threatened, and the film endorses that position. The DCEU politics around the film were messy but the content itself is more traditional than most DC output from this era.</p>
+      <p><a href="/reviews/black-adam-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Adam</a></p>
+
+      <hr>
+
+      <h2>#18: <a href="/reviews/the-gray-man-2022/">The Gray Man (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Spy Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>The Russo Brothers' Netflix spy thriller featuring Ryan Gosling and Chris Evans delivers a +6 TRAD lean built on competence, duty to protect the innocent, and the distinction between honorable service and corrupt institutional power. Sierra Six operates by a personal moral code that supersedes his handlers' orders. Evans' villain Lloyd Hansen is defined by his willingness to harm anyone for institutional self-preservation, the opposite of Six's protective code. The action is competent and the values framing is clear. Netflix's second-most expensive production at that time.</p>
+      <p><a href="/reviews/the-gray-man-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Gray Man</a></p>
+
+      <hr>
+
+      <h2>#19: <a href="/reviews/till-2022/">Till (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biographical Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Chinonye Chukwu's account of Mamie Till-Mobley's fight for justice after her son Emmett Till's murder is driven by one of the most powerful parental sacrifice narratives of 2022. Mamie's decision to demand an open casket so the world could see what was done to her son is an act of extraordinary personal courage in service of a larger justice. The +8 TRAD lean comes from the film's emphasis on maternal love, moral courage under pressure, and the willingness to bear personal grief for a communal good. The film's historical subject matter and biographical framing keep it grounded in real human cost rather than political abstraction.</p>
+      <p><a href="/reviews/till-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Till</a></p>
+
+      <hr>
+
+      <h2>#20: <a href="/reviews/a-man-called-otto-2022/">A Man Called Otto (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Comedy &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+      <p>Tom Hanks' adaptation of A Man Called Ove is a quiet, effective film about a grieving widower whose rigid standards and community obligation pull him back from the edge of suicide. The +9 TRAD lean emerges from the film's consistent argument that responsibility to others gives life meaning. Otto's rules and maintenance of his neighborhood are not obsession; they are love expressed through duty. The immigrant neighbor family who reawakens his sense of purpose operates on exactly the same values framework: family first, community obligation, earned belonging. An underrated entry in Hanks' late-career filmography.</p>
+      <p><a href="/reviews/a-man-called-otto-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Man Called Otto</a></p>
+
+      <hr>
+
+      <h2>#21: <a href="/reviews/smile-2022/">Smile (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Psychological Thriller &bull; <strong>Platform:</strong> Theatrical / Paramount+</p>
+      <p>Parker Finn's debut horror film was the sleeper hit of 2022, grossing $217 million against a $17 million budget. The +10 TRAD lean comes from the film's framing of Dr. Rose Cotter's arc: confronting the trauma she has suppressed rather than managing it through institutional avoidance is the only path to survival. The horror represents the cost of unaddressed pain and the progressive therapeutic culture that enables evasion. The film's ending is bleak but consistent: the institutional frameworks meant to help her actively prevent the confrontation that might have saved her. One of the year's most effective horror films with meaningful values content.</p>
+      <p><a href="/reviews/smile-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Smile</a></p>
+
+      <hr>
+
+      <h2>#22: <a href="/reviews/nope-2022/">Nope (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>Jordan Peele's third film is his most traditionally coded, structured around a Black family fighting to keep their horse ranch and earn the respect their late father commanded. OJ Haywood is a quiet, competent man whose knowledge and connection to the land saves everyone around him. The +10 TRAD margin reflects family obligation, earned competence, and the rejection of spectacle culture as morally corrupting. The Gordy's Home subplot delivers Peele's sharpest observation: entertainment that treats violence as product eventually destroys both the audience and the performer. $171 million worldwide. Peele's most underappreciated film.</p>
+      <p><a href="/reviews/nope-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Nope</a></p>
+
+      <hr>
+
+      <h2>#23: <a href="/reviews/uncharted-2022/">Uncharted (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+      <p>The long-gestating video game adaptation starring Tom Holland and Mark Wahlberg grossed $401 million worldwide and delivered a clean action-adventure with a +11 TRAD margin. The film's values content centers on Nathan Drake's loyalty to his missing brother and his earned competence in high-stakes situations. The progressive content is minimal; no institutional critique, no identity politics, no gender role deconstruction. Sully's mercenary worldview is consistently positioned as inferior to Drake's loyalty-driven code. A straightforward adventure film that delivers what it promises without ideological detours.</p>
+      <p><a href="/reviews/uncharted-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Uncharted</a></p>
+
+      <hr>
+
+      <h2>#24: <a href="/reviews/puss-in-boots-the-last-wish-2022/">Puss in Boots: The Last Wish (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Adventure / Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>DreamWorks' Puss in Boots sequel was the critical and commercial resurrection of the Shrek universe and one of the best animated films of the decade. The +14 TRAD lean comes from the film's central argument: Puss must learn to value the life he has rather than seeking more. The villain Death is a wolf who hunts those who squander their lives carelessly. The resolution is not progressive self-discovery but genuinely traditional wisdom: love what you have, protect those who depend on you, and face mortality with courage rather than desperation. The film's 95% Rotten Tomatoes score was earned. One of 2022's best films by any measure.</p>
+      <p><a href="/reviews/puss-in-boots-the-last-wish-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Puss in Boots: The Last Wish</a></p>
+
+      <hr>
+
+      <h2>#25: <a href="/reviews/the-batman-2022/">The Batman (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Crime / Neo-Noir &bull; <strong>Platform:</strong> Theatrical / HBO Max</p>
+      <p>Matt Reeves' Batman reboot is the darkest and most morally serious take on the character in live-action history. The +14 TRAD margin comes from the film's unwavering commitment to personal justice, protective duty, and the distinction between vengeance and genuine service. Bruce Wayne's arc moves him from nihilistic vengeance to the understanding that his city needs hope, not fear. The Riddler's radicalized progressive vigilante arc functions as a direct critique: grievance-based destruction dressed as justice is not justice. $770 million worldwide. One of 2022's defining films.</p>
+      <p><a href="/reviews/the-batman-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Batman</a></p>
+
+      <hr>
+
+      <h2>#26: <a href="/reviews/tulsa-king-s1-2022/">Tulsa King (Season 1, 2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime Drama &bull; <strong>Platform:</strong> Paramount+</p>
+      <p>Sylvester Stallone's Paramount+ crime series was one of the platform's biggest hits of the year and a crystal-clear values signal. Dwight Manfredi is a New York mob boss exiled to Tulsa who builds a new organization through earned loyalty, personal code, and the old-school understanding that your word is your bond. The +16 TRAD margin reflects a show built on competence hierarchies, masculine respect, and the legitimacy of protecting those in your care. The progressive content is minimal. The conservative audience found it immediately and made it a hit. Yellowstone's fanbase migrated directly.</p>
+      <p><a href="/reviews/tulsa-king-s1-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Tulsa King</a></p>
+
+      <hr>
+
+      <h2>#27: <a href="/reviews/violent-night-2022/">Violent Night (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy / Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Tommy Wirkola's R-rated Santa action-comedy is the most gleefully traditional film in the 2022 pool. David Harbour's Santa Claus is a world-weary warrior who rediscovers his purpose by defending a child's genuine belief in Christmas. The +18 TRAD margin emerges from the film's unironic endorsement of Christmas faith, family loyalty, and the willingness to commit extreme violence in protection of the innocent. The film does not wink at its premise; it commits to it completely. The holiday setting enables content that a secular thriller could not carry with the same emotional weight. $74 million against a $20 million budget. Audience loved it.</p>
+      <p><a href="/reviews/violent-night-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Violent Night</a></p>
+
+      <hr>
+
+      <h2>#28: <a href="/reviews/father-stu-2022/">Father Stu (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Mark Wahlberg produced and starred in this biographical account of Father Stuart Long, a failed boxer and Hollywood extra who found Catholic faith and became a priest after a near-fatal accident, then ministered to prisoners while dying of inclusion body myositis. The +20 TRAD margin is the second-highest faith-coded score in the 2022 pool. The film is a direct argument for the redemptive power of faith, suffering as spiritual transformation, and the priestly vocation as the highest possible calling. Distributed by Sony's faith-based division. Wahlberg put significant personal capital behind it. The faith audience responded.</p>
+      <p><a href="/reviews/father-stu-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Father Stu</a></p>
+
+      <hr>
+
+      <h2>#29: <a href="/reviews/top-gun-maverick-2022/">Top Gun: Maverick (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Drama &bull; <strong>Platform:</strong> Theatrical / Paramount+</p>
+      <p>The film that proved the culture war has a box office dimension. Top Gun: Maverick earned $1.49 billion worldwide, became the highest-grossing film of Tom Cruise's career, and did it by being unapologetically traditional. Maverick is a film about masculine competence, military honor, generational mentorship, and the refusal to be replaced by technology or institutional mediocrity. It contains no progressive ideology, no gender politics, no institutional critique of the military. It celebrates what the military does. The audience responded with the biggest opening for a legacy sequel in cinema history. The numbers are the argument. +20 TRAD.</p>
+      <p><a href="/reviews/top-gun-maverick-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Top Gun: Maverick</a></p>
+
+      <hr>
+
+      <h2>#30: <a href="/reviews/tar-2022/">T&aacute;r (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Todd Field's character study of a brilliant female conductor whose abuse of power destroys her career is one of the most ideologically complex films of the decade. The +21 TRAD margin reflects the film's core argument: excellence without moral foundation is self-destructive, and institutional progressive credentials do not exempt anyone from the consequences of abusing power. Lydia Tar weaponizes progressive identity politics to silence her victims, and the film indicts that behavior directly. Cate Blanchett delivers one of cinema's great performances in service of a genuinely conservative moral: the rules apply to everyone, including those who wield progressive language as a shield.</p>
+      <p><a href="/reviews/tar-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of T&aacute;r</a></p>
+
+      <hr>
+
+      <h2>#31 (Most Traditional): <a href="/reviews/the-terminal-list-2022/">The Terminal List (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +24 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Military Action / Thriller &bull; <strong>Platform:</strong> Amazon Prime Video</p>
+      <p>Chris Pratt and Jack Carr's adaptation of the debut Terminal List novel was one of Amazon Prime's most-watched original series despite a critical consensus that despised it. The reason is legible: The Terminal List is a direct expression of conservative military values, institutional betrayal by corrupt government actors, and one man's refusal to let that betrayal go unanswered. James Reece's list is not vengeance; it is justice for the men who died because their government prioritized profit over their lives. The +24 TRAD margin is the highest in the 2022 pool. Critics hated it. The audience watched it more than almost anything Amazon had ever made. The gap between those two data points is the whole story.</p>
+      <p><a href="/reviews/the-terminal-list-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Terminal List</a></p>
+
+      <hr>
+
+      <h2>Methodology</h2>
+      <p>All scores use the VirtueVigil dual-scoring system. Woke Score measures the density and intensity of progressive ideological content across categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. Traditional Score measures duty, sacrifice, family loyalty, moral clarity, patriotism, and earned competence. The Score Margin is the difference between the two, with positive numbers indicating a traditional lean and negative numbers indicating a woke lean. For complete methodology details, see the <a href="/methodology.html">VirtueVigil Methodology</a> page.</p>
+
+      <p>Browse every reviewed film at <a href="/">VirtueVigil.com</a>. For other annual comprehensive rankings, see <a href="/lists/most-woke-movies-2023/">Most Woke Movies of 2023</a>, <a href="/lists/most-woke-movies-2024-complete/">Every 2024 Movie Ranked</a>, <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a>, and <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>. For genre-specific 2022 rankings, see the full VirtueVigil lists directory.</p>
+
+    </article>`
+  }));
+  console.log('  lists/movies-2022-woke-ranking/index.html');
+
 } // close buildSite async wrapper
 
 // Run the build
