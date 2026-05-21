@@ -6072,6 +6072,18 @@
     "poster": "/images/posters/parasite-2019.jpg"
   },
   {
+    "slug": "gran-torino-2008",
+    "title": "Gran Torino",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama",
+    "year": 2008,
+    "type": "film",
+    "wokeScore": 4.48,
+    "tradScore": 21.98,
+    "poster": "/images/posters/gran-torino-2008.jpg"
+  },
+  {
     "slug": "caught-stealing-2025",
     "title": "Caught Stealing",
     "verdict": "TRADITIONAL",
