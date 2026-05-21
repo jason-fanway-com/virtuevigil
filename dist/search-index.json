@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/the-departed-2006.jpg"
   },
   {
+    "slug": "parasite-2019",
+    "title": "Parasite",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Thriller / Dark Comedy / Drama",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 16.52,
+    "tradScore": 7.78,
+    "poster": "/images/posters/parasite-2019.jpg"
+  },
+  {
     "slug": "caught-stealing-2025",
     "title": "Caught Stealing",
     "verdict": "TRADITIONAL",
