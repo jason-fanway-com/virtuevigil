@@ -1929,6 +1929,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/thriller-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-adventure-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
@@ -2885,6 +2886,7 @@ function buildListsHubPage() {
         'thriller-movies-2023-woke-ranking',
         'sci-fi-adventure-movies-2023-woke-ranking',
         'movies-2023-woke-ranking',
+        'movies-2021-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2963,7 +2965,8 @@ function buildListsHubPage() {
       'thriller-movies-2024-woke-ranking': 'Every 2024 Thriller Movie Ranked by Woke Score',
       'thriller-movies-2023-woke-ranking': 'Every 2023 Thriller Movie Ranked by Woke Score',
       'sci-fi-adventure-movies-2023-woke-ranking': 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score',
-      'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score'
+      'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score',
+      'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -25551,6 +25554,183 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
   console.log('  lists/movies-2023-woke-ranking/index.html');
+
+  writePage('lists/movies-2021-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-2021-woke-ranking',
+    title: 'Every 2021 Movie Ranked by Woke Score',
+    description: 'All 14 reviewed 2021 films ranked from most woke to most traditional. Eternals, Spider-Man: No Way Home, Ghostbusters: Afterlife, Dune, Black Widow, No Time to Die, and every scored 2021 release.',
+    canonicalPath: 'lists/movies-2021-woke-ranking',
+    publishDate: '2026-05-21',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2021 was Hollywood's first full post-lockdown year, and the studios came back swinging with franchise entries, reboots, and a handful of genuine originals. VirtueVigil reviewed and scored all 14 major 2021 theatrical and streaming releases, applying the dual-scoring methodology across every film: Woke Score measures progressive ideological content, Traditional Score measures duty, sacrifice, family loyalty, patriotism, and earned competence.</p>
+
+      <p>The results split cleanly along franchise lines. MCU entries range from the franchise's worst ideological offender (Eternals) to its most emotionally devastating traditionally-coded film (Spider-Man: No Way Home). Every film links to the full VirtueVigil review. Ranked from most woke to most traditional.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/eternals-2021/">Eternals (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -14 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Sci-Fi / Superhero &bull; <strong>Platform:</strong> Theaters / Disney+</p>
+      <p>Chloe Zhao's MCU debut assembled the most diverse cast in superhero history and delivered the franchise's first openly gay hero, scoring the highest woke margin of any 2021 film at -14 WOKE. The maximum diversity ensemble is the film's organizing principle rather than its story, and the result earned the MCU's lowest Rotten Tomatoes and IMDB scores on record. The most ideologically ambitious MCU film was also its biggest critical and commercial failure.</p>
+      <p><a href="/reviews/eternals-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Eternals</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/the-matrix-resurrections-2021/">The Matrix Resurrections (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Action &bull; <strong>Platform:</strong> Theaters / HBO Max</p>
+      <p>Lana Wachowski's self-reflexive sequel makes the trans liberation allegory that was always encoded in the original Matrix mythology fully explicit this time, framing corporate power as the primary villain in a film that simultaneously mocks blockbuster sequel culture while being one. A fascinating failure: it fails as action, partially fails as story, and succeeds as a piece of cinema that forces genuine engagement with its own contradictions.</p>
+      <p><a href="/reviews/the-matrix-resurrections-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Matrix Resurrections</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/red-notice-2021/">Red Notice (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -6 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Comedy / Heist &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Netflix's $200 million heist comedy works on the surface until the ending, which exists specifically to reveal that Gal Gadot's villain was the mastermind who outmaneuvered every male lead from the start. Law enforcement is portrayed as globally incompetent bureaucracy throughout. Fun when it stays in motion, undermined by the structural female supremacy framing baked into its third-act twist.</p>
+      <p><a href="/reviews/red-notice-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Red Notice</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/black-widow-2021/">Black Widow (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Thriller &bull; <strong>Platform:</strong> Theaters / Disney+</p>
+      <p>Natasha Romanoff's belated solo film frames the Red Room program explicitly as a #MeToo allegory about institutionalized control over women's bodies, including forced sterilization as a plot point. Florence Pugh's Yelena is the film's genuine highlight, and the dysfunctional-family dynamic provides real entertainment, but the feminist revenge framework driving the central conflict holds the score in negative territory.</p>
+      <p><a href="/reviews/black-widow-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Widow</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/cruella-2021/">Cruella (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -2 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Comedy-Drama &bull; <strong>Platform:</strong> Theaters / Disney+</p>
+      <p>Disney ran Cruella de Vil through the villain rehabilitation machine, producing a girlboss origin story that justifies the iconic villain's cruelty through backstory trauma. The Joker-meets-The-Devil-Wears-Prada approach delivers genuine style and Emma Stone in peak form, but the underlying framework, that evil is always explained by victimhood, earns the slight negative margin.</p>
+      <p><a href="/reviews/cruella-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cruella</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/no-time-to-die-2021/">No Time to Die (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +0 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Spy Thriller &bull; <strong>Platform:</strong> Theaters</p>
+      <p>Daniel Craig's farewell is a film at war with itself. A Black female 007 replacement and a domesticated, emotionally vulnerable Bond push the score left; Bond's ultimate self-sacrifice for his family and his final commitment to duty over survival push it right. The elements cancel out in a film that earns its ending but fights itself across 163 minutes to get there. Craig's finest acting, the franchise's most divided legacy.</p>
+      <p><a href="/reviews/no-time-to-die-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of No Time to Die</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/space-jam-a-new-legacy-2021/">Space Jam: A New Legacy (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Live Action / Animated Sports Comedy &bull; <strong>Platform:</strong> Theaters / HBO Max</p>
+      <p>LeBron James and the Looney Tunes fight a Warner Bros. algorithm in a film that is itself a Warner Bros. algorithm. Lola Bunny's desexualization and the diverse ensemble framing register, but the father-son bond between LeBron and his estranged son Dom is the film's genuine emotional engine, nudging the overall score into positive territory despite the cynical IP exercise surrounding it.</p>
+      <p><a href="/reviews/space-jam-a-new-legacy-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Space Jam: A New Legacy</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/mortal-kombat-2021/">Mortal Kombat (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Martial Arts Action Fantasy &bull; <strong>Platform:</strong> Theaters / HBO Max</p>
+      <p>The 2021 reboot delivers faithful fatalities, a Scorpion-Sub-Zero feud built on genuine honor and cross-generational vengeance, and enough martial arts discipline to register as traditionally coded. The insertion of original character Cole Young, a non-white protagonist who exists to replace white roster members, and the default diverse ensemble hold it back from higher ground, but the film earns its +4 TRAD by actually caring about the source material's warrior code.</p>
+      <p><a href="/reviews/mortal-kombat-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mortal Kombat</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/free-guy-2021/">Free Guy (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Comedy Sci-Fi &bull; <strong>Platform:</strong> Theaters / Disney+</p>
+      <p>Ryan Reynolds plays an NPC who chooses to become a hero through genuine virtue rather than birth or circumstance, and it works better than it has any right to. The competent female lead runs the support structure, and corporate villainy is the antagonist, but the film's central message, that choosing good is meaningful even inside a system designed against it, lands as a surprisingly earnest traditional framework about individual agency and moral choice.</p>
+      <p><a href="/reviews/free-guy-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Free Guy</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/shang-chi-2021/">Shang-Chi and the Legend of the Ten Rings (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Fantasy &bull; <strong>Platform:</strong> Theaters / Disney+</p>
+      <p>Marvel's first Asian-led film delivered a deeply traditional family drama disguised as a representation exercise. Filial loyalty, the weight of inherited responsibility, and the tension between a son's identity and his father's legacy drive the story's real emotional core. The Chinese cultural specificity is handled with reverence rather than stereotyping, and the father-son-daughter family conflict grounds the superhero spectacle in something genuine.</p>
+      <p><a href="/reviews/shang-chi-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shang-Chi</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/encanto-2021/">Encanto (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation / Musical / Fantasy &bull; <strong>Platform:</strong> Theaters / Disney+</p>
+      <p>Disney's Colombian magical-family story earns its emotional payoff by centering family obligation, generational sacrifice, and the cost of perfectionism on the family unit. Body positivity messaging and anti-perfectionism framing register, but the film's resolution places the family's roots and collective bonds above individual gifts and personal ambition, landing it firmly in traditional territory as a rare modern animated film that respects the family structure it depicts.</p>
+      <p><a href="/reviews/encanto-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Encanto</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/dune-part-one-2021/">Dune: Part One (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Epic &bull; <strong>Platform:</strong> Theaters / HBO Max</p>
+      <p>Denis Villeneuve's long-fought adaptation honors duty, sacrifice, and the weight of leadership while delivering Frank Herbert's explicit warning against messianic politics. Duke Leto's honor and self-sacrifice, the Fremen's cultural rootedness, and the film's anti-messianic framework carry the score. The Bene Gesserit all-female power structure and diverse casting beyond the source material hold it below the top tier, but this is serious filmmaking that respects its audience.</p>
+      <p><a href="/reviews/dune-part-one-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Dune: Part One</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/ghostbusters-afterlife-2021/">Ghostbusters: Afterlife (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Supernatural Adventure Comedy &bull; <strong>Platform:</strong> Theaters / Paramount+</p>
+      <p>The most traditionally conservative blockbuster of 2021. A sincere, emotionally honest film about family legacy, the courage of children to honor their ancestors, and the importance of standing against genuine evil. The Spengler grandchildren carry their grandfather's work forward through inherited competence and earned love rather than birthright entitlement. The female lead and single-mother default family structure hold it back from STRONGLY TRADITIONAL, but Ghostbusters: Afterlife is a genuine conservative crowd-pleaser.</p>
+      <p><a href="/reviews/ghostbusters-afterlife-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ghostbusters: Afterlife</a></p>
+
+      <hr>
+
+      <h2>#14 (Most Traditional): <a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home (2021)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Science Fiction &bull; <strong>Platform:</strong> Theaters / Netflix</p>
+      <p>One of the most emotionally devastating blockbusters of the decade. Peter Parker earns the highest traditional score of any 2021 film through the ultimate sacrifice: he chooses to let everyone who loves him forget he exists in order to save the world. Responsibility, self-sacrifice, and the full cost of heroism drive a score that would be higher still without the race-swapped core characters and multiverse framing. The ending hits hard precisely because the film earned it frame by frame.</p>
+      <p><a href="/reviews/spider-man-no-way-home-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: No Way Home</a></p>
+
+      <hr>
+
+      <h2>Methodology</h2>
+      <p>All scores use the VirtueVigil dual-scoring system. Woke Score measures the density and intensity of progressive ideological content across categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. Traditional Score measures duty, sacrifice, family loyalty, moral clarity, patriotism, and earned competence. The Score Margin is the difference between the two, with positive numbers indicating a traditional lean and negative numbers indicating a woke lean. For complete methodology details, see the <a href="/methodology.html">VirtueVigil Methodology</a> page.</p>
+
+      <p>Browse every reviewed film at <a href="/">VirtueVigil.com</a>. For other annual comprehensive rankings, see <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked</a>, <a href="/lists/movies-2023-woke-ranking/">Every 2023 Movie Ranked</a>, <a href="/lists/most-woke-movies-2024-complete/">Every 2024 Movie Ranked</a>, <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a>, and <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>.</p>
+
+    </article>`
+  }));
+  console.log('  lists/movies-2021-woke-ranking/index.html');
 
 } // close buildSite async wrapper
 
