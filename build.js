@@ -1930,6 +1930,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/sci-fi-adventure-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/movies-2019-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
@@ -2887,6 +2888,7 @@ function buildListsHubPage() {
         'sci-fi-adventure-movies-2023-woke-ranking',
         'movies-2023-woke-ranking',
         'movies-2021-woke-ranking',
+        'movies-2019-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2966,7 +2968,8 @@ function buildListsHubPage() {
       'thriller-movies-2023-woke-ranking': 'Every 2023 Thriller Movie Ranked by Woke Score',
       'sci-fi-adventure-movies-2023-woke-ranking': 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score',
       'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score',
-      'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score'
+      'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score',
+      'movies-2019-woke-ranking': 'Every 2019 Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -25731,6 +25734,205 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
   console.log('  lists/movies-2021-woke-ranking/index.html');
+
+  writePage('lists/movies-2019-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-2019-woke-ranking',
+    title: 'Every 2019 Movie Ranked by Woke Score',
+    description: 'All 16 reviewed 2019 films ranked from most woke to most traditional. Captain Marvel, Lion King, Ford v Ferrari, Avengers Endgame, Joker, Parasite, and every scored 2019 release.',
+    canonicalPath: 'lists/movies-2019-woke-ranking',
+    publishDate: '2026-05-22',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2019 was the last normal year for Hollywood before a decade of chaos: COVID shutdowns, streaming wars, and franchise implosion. VirtueVigil reviewed and scored all 16 major 2019 theatrical releases, applying the full dual-scoring methodology. Woke Score measures progressive ideological content. Traditional Score measures duty, sacrifice, family loyalty, patriotism, and earned competence. The Score Margin is the difference between them.</p>
+
+      <p>2019 was also a year of sharp contrast. At one pole, Captain Marvel delivered the MCU's most deliberately ideological film. At the other, Ford v Ferrari, Midway, and The Lion King anchored a group of unapologetically traditional blockbusters that performed exactly as well as their ideological counterparts. Every film links to the full VirtueVigil review. Ranked from most woke to most traditional.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/captain-marvel-2019/">Captain Marvel (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -16 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Captain Marvel tops the 2019 list as the MCU's most deliberately ideological film. Released on International Women's Day, co-directed by a female director as a studio mandate for the franchise's first female-led superhero film, and built around an explicit feminist empowerment narrative. The -16 WOKE margin reflects a film where every male authority figure is a manipulative villain, the military is a colonial oppressor, and the protagonist's arc culminates not in earned heroism but in the removal of external limits on her power. Minimal traditional content. The MCU's most ideologically committed entry in its first decade.</p>
+      <p><a href="/reviews/captain-marvel-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain Marvel</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/toy-story-4-2019/">Toy Story 4 (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -9 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Family &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The most controversial entry on this list. Toy Story 4's -9 WOKE margin is not about gender politics or identity messaging. It is about philosophy. The film quietly dismantles the moral universe that the first three Toy Story films built: loyalty, duty, purpose through belonging, and commitment to a child. These are reframed in the fourth installment as attachments Woody needed to transcend. Self-discovery over duty. Personal authenticity over commitment to others. The franchise that built its entire moral architecture on purpose-through-service abandons that architecture in the final fifteen minutes and calls it growth.</p>
+      <p><a href="/reviews/toy-story-4-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Toy Story 4</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/parasite-2019/">Parasite (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -9 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller / Dark Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Bong Joon-ho's Palme d'Or and Best Picture winner is technically masterful and ideologically relentless. Every element of the film's architecture serves its class warfare thesis: wealth is fraudulently obtained, the rich are oblivious and contemptible, and the poor are resourceful people destroyed by a system they cannot escape no matter how talented they are. The -9 WOKE lean reflects a film that earns genuine admiration for its craft while delivering a coherent left-wing critique of capitalism through pure narrative precision. The darkest comedy to win Best Picture in decades.</p>
+      <p><a href="/reviews/parasite-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Parasite</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/knives-out-2019/">Knives Out (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Mystery / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Rian Johnson built one of the year's best films around a bluntly progressive immigration argument. The moral architecture is unambiguous: every virtue belongs to Marta Cabrera, the immigrant nurse protagonist, and every vice belongs to the wealthy native-born Thrombey family. The knife points clearly in one direction. Johnson is too skilled a filmmaker to let the thesis overwhelm the entertainment, and the result is a film conservatives can genuinely enjoy despite its openly progressive politics. Daniel Craig as Benoit Blanc delivers the best Craig performance not in a Bond film.</p>
+      <p><a href="/reviews/knives-out-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Knives Out</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/frozen-ii-2019/">Frozen II (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Musical Fantasy &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Frozen II takes bigger ideological swings than the original and connects with roughly half of them. Where the 2013 film was a personal story about sisters and self-acceptance, the sequel expands into colonialism, historical reparations, and the moral obligation to dismantle systems your ancestors built on exploitation. Elsa discovers her grandfather built a dam to weaken an indigenous people, and the resolution requires tearing it down regardless of consequences to Arendelle. The message is not subtle: inherited privilege must be actively dismantled, even at personal cost. A woke score of 19.0 reflects a film that chose to lecture where its predecessor chose to tell a story.</p>
+      <p><a href="/reviews/frozen-ii-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Frozen II</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/us-2019/">Us (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Horror &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Jordan Peele's follow-up to Get Out uses the Tethered as a progressive critique of American inequality: the underground people represent those society has discarded while surface counterparts live comfortable lives built on ignoring them. The -4 WOKE lean reflects sophisticated ideological framing embedded in the narrative architecture at every level. Lupita Nyong'o delivers an extraordinary dual performance that is the only reason the film's ambitious allegory holds together as long as it does. A more disciplined film than its predecessor wanted to be; a less disciplined film than Get Out actually was.</p>
+      <p><a href="/reviews/us-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Us</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/joker-2019/">Joker (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Drama / Crime &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Joker made a billion dollars, triggered FBI security warnings, and managed to infuriate both sides of the culture war simultaneously. The class warfare framing and Thomas Wayne as contemptuous plutocrat push the woke score to 13.05. But the film's anti-institutional nihilism, its refusal to offer progressive solutions to the social failures it depicts, and Todd Phillips' explicit contempt for woke culture push back. Joaquin Phoenix's performance is so dominant it transcends the debate entirely. The +1 TRAD margin is razor-thin and accurately reflects a film that neither side gets to claim.</p>
+      <p><a href="/reviews/joker-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Joker</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/uncut-gems-2019/">Uncut Gems (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime Thriller &bull; <strong>Platform:</strong> Theatrical / Netflix</p>
+      <p>The Safdie brothers made a film designed to induce sustained anxiety in its audience, and they succeed completely. Adam Sandler plays Howard Ratner, a diamond district jeweler with a gambling addiction and a catastrophic inability to stop betting on himself. The +3 TRAD lean comes from a film that presents male failure and self-destruction with moral clarity rather than systemic excuse-making. There is no institutional villain. Howard makes choices, Howard suffers consequences. The film scores MIXED because its ideology-adjacent content is minimal while its moral framework is genuinely traditional in structure even as it depicts deeply un-traditional behavior.</p>
+      <p><a href="/reviews/uncut-gems-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Uncut Gems</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/avengers-endgame-2019/">Avengers: Endgame (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The highest-grossing film in history earns a +3 TRAD margin because its emotional engine is entirely traditional: sacrifice, duty, love, and the courage to give everything for the people you protect. Tony Stark's death is the most traditionally coded moment in MCU history. The woke score of 10.54 comes from the all-female Avengers moment that paused the climax for a studio mandate and from the Steve Rogers shield handoff. The film has one foot in old-school Marvel storytelling and one foot in the progressive identity politics that would eventually sink the franchise. The traditional content dominates by a small margin.</p>
+      <p><a href="/reviews/avengers-endgame-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avengers: Endgame</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/aladdin-2019/">Aladdin (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Fantasy / Musical Adventure &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Disney's live-action remake of Aladdin preserves the original's warm heart and traditional love story while explicitly updating Jasmine's arc into feminist leadership territory. The woke score of 8.18 comes primarily from the new song "Speechless" and from the film's decision to give Jasmine political ambition to become Sultan. The core story still rewards honesty and punishes deception. Will Smith's Genie is the film's biggest surprise, delivering a high-energy performance that is entirely his own rather than a Robin Williams imitation. The +4 TRAD lean reflects a film that mostly respects its source material while making one deliberate ideological update.</p>
+      <p><a href="/reviews/aladdin-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Aladdin</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/spider-man-far-from-home-2019/">Spider-Man: Far From Home (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Far From Home had one job: be the first MCU film after Avengers: Endgame and make audiences feel okay moving forward without Tony Stark. It mostly pulls it off. Peter Parker's coming-of-age arc is earnest and traditionally coded: he has a crush, a best friend, and a desperate need for a father figure. The villain Mysterio exploits that grief with moral clarity that makes the film's architecture unusually clean for modern Marvel. The +11 TRAD margin reflects one of the cleaner MCU entries from an ideological standpoint, with mild woke markers in the diverse supporting cast that register without derailing the main story.</p>
+      <p><a href="/reviews/spider-man-far-from-home-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: Far From Home</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/once-upon-a-time-in-hollywood-2019/">Once Upon a Time in Hollywood (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Quentin Tarantino makes a movie about men being left behind and earns a +12 TRAD margin for it. Rick Dalton is a TV Western actor watching the Hollywood that made him disappear in real time, replaced by counterculture filmmakers who do not speak his language. The film's sympathy is entirely with working-class male friendship, craft, and the wish that competent men could always protect the innocent. The revisionist ending frames traditional masculine competence as a legitimate bulwark against the violence of 1960s counterculture chaos. Tarantino's love letter to a Hollywood that valued what he values.</p>
+      <p><a href="/reviews/once-upon-a-time-in-hollywood-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Once Upon a Time in Hollywood</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/1917-2019/">1917 (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Sam Mendes constructed 1917 as a single continuous shot to make audiences feel the cost of duty rather than observe it at editorial distance. Lance Corporal Schofield's mission to deliver a message that could save 1,600 lives is not complicated by ideological subplots or modern political messaging. It is a pure story about one man choosing to complete his mission at extraordinary personal cost because it is the right thing to do. The +19 TRAD margin reflects a war film made in the tradition of great war filmmaking: duty, sacrifice, and the weight of carrying someone else's survival on your back.</p>
+      <p><a href="/reviews/1917-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of 1917</a></p>
+
+      <hr>
+
+      <h2>#14: <a href="/reviews/ford-v-ferrari-2019/">Ford v Ferrari (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +20 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sports Drama / Biography &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Ford v Ferrari is the kind of film Hollywood used to make regularly and almost never makes anymore: two men who are extraordinarily good at something difficult fighting together against institutional forces that prefer mediocrity to excellence. There is no political subtext, no diversity mandate, and no ideological agenda. Matt Damon and Christian Bale as Carroll Shelby and Ken Miles deliver performances built entirely on craft, friendship, and the unapologetic pursuit of being the best in the world at something. The +20 TRAD margin reflects a film that trusts masculine competence, loyalty, and earned excellence to carry a story. It does.</p>
+      <p><a href="/reviews/ford-v-ferrari-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ford v Ferrari</a></p>
+
+      <hr>
+
+      <h2>#15: <a href="/reviews/midway-2019/">Midway (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +22 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War / Action &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Roland Emmerich's Midway is a straightforward tribute to one of the most improbable military victories in American history: four Japanese fleet carriers sunk in a single day by a numerically inferior American force six months after Pearl Harbor. The film does not editorialize, subvert, or reframe. It honors the men who fought, the intelligence officers who cracked the code, and the courage required to fly torpedo bombers into walls of anti-aircraft fire with no fighter cover. A +22 TRAD score in 2019 Hollywood is extraordinary. Midway earned it by refusing to be anything other than what it is: a war film that respects the war.</p>
+      <p><a href="/reviews/midway-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Midway</a></p>
+
+      <hr>
+
+      <h2>#16 (Most Traditional): <a href="/reviews/the-lion-king-2019/">The Lion King (2019)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Adventure &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Disney's photorealistic remake of its most traditionally structured story earns the highest traditional score of any 2019 film at +23 TRAD. The Lion King's moral architecture is Shakespearean in its clarity: a prince flees his responsibility, is called back to it by the memory of his father, and must accept the duties of leadership even when he would rather live in comfortable exile. Duty over comfort. Ancestry as obligation. The usurper punished and the rightful order restored. The remake is technically stunning but emotionally hollow compared to the original. That does not change what it is about, and what it is about is unambiguously, completely, traditionally coded.</p>
+      <p><a href="/reviews/the-lion-king-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Lion King</a></p>
+
+      <hr>
+
+      <h2>Methodology</h2>
+      <p>All scores use the VirtueVigil dual-scoring system. Woke Score measures the density and intensity of progressive ideological content across categories including gender politics, religious critique, racial messaging, sexual content framing, and institutional critique. Traditional Score measures duty, sacrifice, family loyalty, moral clarity, patriotism, and earned competence. The Score Margin is the difference between the two, with positive numbers indicating a traditional lean and negative numbers indicating a woke lean. For complete methodology details, see the <a href="/methodology.html">VirtueVigil Methodology</a> page.</p>
+
+      <p>Browse every reviewed film at <a href="/">VirtueVigil.com</a>. For other annual comprehensive rankings, see <a href="/lists/movies-2021-woke-ranking/">Every 2021 Movie Ranked</a>, <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked</a>, <a href="/lists/movies-2023-woke-ranking/">Every 2023 Movie Ranked</a>, <a href="/lists/most-woke-movies-2024-complete/">Every 2024 Movie Ranked</a>, and <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a>.</p>
+
+    </article>`
+  }));
+  console.log('  lists/movies-2019-woke-ranking/index.html');
 
 } // close buildSite async wrapper
 
