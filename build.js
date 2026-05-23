@@ -25934,6 +25934,160 @@ function buildThrillerMovies2025WokeRankingListicle() {
   }));
   console.log('  lists/movies-2019-woke-ranking/index.html');
 
+  // MEMORIAL DAY LISTICLE — added 2026-05-23
+  writePage('lists/best-memorial-day-movies/index.html', buildListiclePage({
+    slug: 'best-memorial-day-movies',
+    title: 'Best Memorial Day Movies for Patriots (Ranked)',
+    description: 'The best Memorial Day movies ranked by VirtueVigil score. 10 war and military films that honor sacrifice without the agenda. American Sniper to 1917.',
+    canonicalPath: 'lists/best-memorial-day-movies',
+    publishDate: '2026-05-23',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Memorial Day exists to honor the men and women who died in military service to this country. The films on this list take that seriously. Every one of them earned a TRADITIONAL or STRONGLY TRADITIONAL score from VirtueVigil, meaning the values on screen -- duty, sacrifice, brotherhood, and national honor -- are treated as goods worth defending, not relics worth deconstructing.</p>
+        <p>We scored hundreds of films. These are the ten war and military movies that passed without compromise. Put one on this weekend and remember what the holiday is actually for.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+34 TRAD</span>
+            </div>
+            <p>The highest traditional score on this entire list and it is not close. Clint Eastwood does not hedge, apologize, or deconstruct Chris Kyle. He treats patriotism, military service, and masculine virtue as unambiguous goods. Kyle is a sheepdog, his mission is righteous, and his sacrifice is honored without qualification. One of the most purely traditional war films Hollywood has produced in a generation.</p>
+            <a href="/reviews/american-sniper-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>The first 25 minutes are among the most important in American cinema history -- not because they are technically impressive (they are) but because they refuse to lie about what Normandy cost. The mission of saving one man for a grieving mother is treated as morally serious and worth dying for. Every soldier on screen is a real person doing something that matters. Spielberg at his most honest.</p>
+            <a href="/reviews/saving-private-ryan-1998/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-terminal-list-2022/">The Terminal List (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+24 TRAD</span>
+            </div>
+            <p>Critics gave it 40 percent on Rotten Tomatoes. Audiences gave it 94 percent. That gap tells you everything. Commander James Reece loses his men in a Syria ambush, then discovers his own government is behind the cover-up. The show treats military brotherhood as sacred, institutions as corruptible, and individual honor as the only thing worth protecting. Critics hated it. Patriots watched it twice.</p>
+            <a href="/reviews/the-terminal-list-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/lone-survivor-2013/">Lone Survivor (2013)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>Peter Berg made this film because Marcus Luttrell asked him to. That origin matters. This is not a Hollywood producer exploiting military sacrifice for box office returns. It is a filmmaker honoring a promise to a man who lost his entire team on a mountain in Afghanistan. The film treats the SEALs as heroes without irony, their deaths as tragedies without agenda, and their brotherhood as the purest thing on screen.</p>
+            <a href="/reviews/lone-survivor-2013/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-patriot-2000/">The Patriot (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>The kind of film Hollywood stopped making once it started worrying about how America looks to foreign markets. Unabashedly pro-American, pro-family, and pro-violent-resistance-to-tyranny. Benjamin Martin does not want to fight -- he has seven children and a farm -- but when tyranny comes for his family he picks up the tomahawks. Family, faith, and freedom are worth bleeding for. No footnotes required.</p>
+            <a href="/reviews/the-patriot-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/dunkirk-2017/">Dunkirk (2017)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>Christopher Nolan strips war of everything Hollywood taught audiences to expect: no named villains, minimal backstory, almost no dialogue. What remains is pure duty. Soldiers on a beach trying to get home. Civilians in small boats sailing toward the guns because it was the right thing to do. The film communicates sacrifice, endurance, and collective courage through image and sound alone. A masterwork.</p>
+            <a href="/reviews/dunkirk-2017/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/black-hawk-down-2001/">Black Hawk Down (2001)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>18 Americans died in the Battle of Mogadishu. 18 hours of combat. Ridley Scott puts you inside all of it and does not let you out. The film refuses to use those 18 deaths as a political argument about foreign policy. They died because they went back for each other. Brotherhood is the only ideology here. Released months after September 11th, it landed exactly when America needed it.</p>
+            <a href="/reviews/black-hawk-down-2001/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/midway-2019/">Midway (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>The Battle of Midway is one of the most improbable military victories in American history -- four Japanese fleet carriers sunk in a single day by a numerically inferior force six months after Pearl Harbor. Roland Emmerich treats the men who won it as genuine heroes without irony or modern revisionism. The film celebrates courage, intelligence under pressure, and the willingness to fly into near-certain death because the mission demanded it.</p>
+            <a href="/reviews/midway-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Desmond Doss refused to carry a weapon into combat and still won the Medal of Honor. Mel Gibson's film takes his faith seriously in a way most war films never dare. This is not a progressive conscientious objector story -- it is a story about a man whose convictions were forged by God and whose courage on that ridge saved 75 lives. Faith is not the problem here. Faith is the point.</p>
+            <a href="/reviews/hacksaw-ridge-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/1917-2019/">1917 (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Sam Mendes shoots 1917 as a single continuous take, placing the audience inside one soldier's run across the Western Front with no editorial distance between viewer and cost. Two men are ordered to cross enemy territory and deliver a message that will save 1,600 lives. The film earns its traditional score through pure conviction: duty is not questioned, sacrifice is not ironized, and the cost of both is never made comfortable.</p>
+            <a href="/reviews/1917-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <p>Every film on this list scored TRADITIONAL or STRONGLY TRADITIONAL on the VirtueVigil scoring system -- no agenda, no revisionism, no lectures. They honored the dead by taking the subject seriously. If you want to keep watching, browse the full VirtueVigil review database at <a href="/">VirtueVigil.com</a> for complete scores on hundreds of films. Use the scores to protect your time and spend it on content that shares your values.</p>
+      </div>
+    </article>`
+  }));
+  console.log('  lists/best-memorial-day-movies/index.html');
+
 } // close buildSite async wrapper
 
 // Run the build
