@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/i-love-boosters-2026.jpg"
   },
   {
+    "slug": "power-ballad-2026",
+    "title": "Power Ballad",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Musical Comedy Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 13.02,
+    "poster": "/images/posters/power-ballad-2026.jpg"
+  },
+  {
     "slug": "corporate-retreat-2026",
     "title": "Corporate Retreat",
     "verdict": "PREDICTED: TRADITIONAL",
