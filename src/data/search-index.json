@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/prey-2022.jpg"
   },
   {
+    "slug": "the-northman-2022",
+    "title": "The Northman",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Drama / Historical",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 4.4,
+    "tradScore": 24.64,
+    "poster": "/images/posters/the-northman-2022.jpg"
+  },
+  {
     "slug": "obsession-2026",
     "title": "Obsession",
     "verdict": "TRADITIONAL LEAN",
