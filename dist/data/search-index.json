@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "raiders-of-the-lost-ark-1981",
+    "title": "Raiders of the Lost Ark",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Adventure",
+    "year": 1981,
+    "type": "film",
+    "wokeScore": 2.4,
+    "tradScore": 24.64,
+    "poster": "/images/posters/raiders-of-the-lost-ark-1981.jpg"
+  },
+  {
     "slug": "obsession-2026",
     "title": "Obsession",
     "verdict": "TRADITIONAL LEAN",
