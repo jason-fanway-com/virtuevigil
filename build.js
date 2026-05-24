@@ -1931,6 +1931,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2019-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/movies-2017-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
@@ -2889,6 +2890,7 @@ function buildListsHubPage() {
         'movies-2023-woke-ranking',
         'movies-2021-woke-ranking',
         'movies-2019-woke-ranking',
+        'movies-2017-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2969,7 +2971,8 @@ function buildListsHubPage() {
       'sci-fi-adventure-movies-2023-woke-ranking': 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score',
       'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score',
       'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score',
-      'movies-2019-woke-ranking': 'Every 2019 Movie Ranked by Woke Score'
+      'movies-2019-woke-ranking': 'Every 2019 Movie Ranked by Woke Score',
+      'movies-2017-woke-ranking': 'Every 2017 Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -26087,6 +26090,129 @@ function buildThrillerMovies2025WokeRankingListicle() {
     </article>`
   }));
   console.log('  lists/best-memorial-day-movies/index.html');
+
+  writePage('lists/movies-2017-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-2017-woke-ranking',
+    title: 'Every 2017 Movie Ranked by Woke Score',
+    description: 'All 11 reviewed 2017 films ranked from most woke to most traditional using VirtueVigil scores. From Get Out to Paddington 2, here is the full ideological breakdown of a pivotal year in Hollywood.',
+    canonicalPath: 'lists/movies-2017-woke-ranking',
+    publishDate: '2026-05-24',
+    htmlContent: `<article class="listicle-article">
+  <p>2017 was a turning point for Hollywood's ideological direction. The year produced some of the most explicitly progressive blockbusters in franchise history alongside a handful of genuinely traditional films that reminded audiences what cinema could look like when it believed in something beyond its own messaging. It was the year Rian Johnson dismantled Luke Skywalker, Jordan Peele made a horror film out of racial grievance, and Christopher Nolan quietly made one of the most duty-driven war films in decades.</p>
+
+  <p>VirtueVigil reviewed all 11 films from 2017 currently in our database. Below they are ranked from most woke to most traditional using the VirtueVigil Woke Score (VVWS) methodology. Scores reflect the density and intensity of progressive ideological content relative to traditional values content. These are not quality ratings. Some of the most woke films on this list are also the most technically accomplished. The score tells you what the film believes, not whether it executes that belief well.</p>
+
+  <hr>
+
+  <h2>#11 (Most Woke) - Get Out (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> -12 WOKE &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Horror / Psychological Thriller &bull; <strong>Woke Trap:</strong> YES</p>
+  <p>Jordan Peele's debut feature is a woke trap by VirtueVigil definition: it opens as a conventional thriller and only reveals its full ideological thesis around the 65-minute mark of a 104-minute film. The Armitage family harvests Black bodies by transplanting white brains into them. Every white character in the film is complicit. The thesis is explicit and Peele has stated it directly in interviews: white liberals are the primary threat to Black Americans, and their progressive surface masks predatory intent. Brilliantly made. Deliberately divisive. The highest woke score of any 2017 film we reviewed.</p>
+  <p><a href="/reviews/get-out-2017/">Read the full VirtueVigil review of Get Out</a></p>
+
+  <hr>
+
+  <h2>#10 - Star Wars: The Last Jedi (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> -11 WOKE &bull; <strong>Verdict:</strong> WOKE &bull; <strong>Genre:</strong> Sci-Fi / Action / Adventure</p>
+  <p>Rian Johnson's entry in the Skywalker Saga remains the most ideologically aggressive studio blockbuster of the decade. Luke Skywalker is deconstructed into a broken exile who once contemplated murdering his sleeping nephew. Poe Dameron is punished by female authority figures throughout the entire film. The Casino Bight detour delivers an arms-dealer lecture that contributes zero to the plot. The film's central philosophy, kill the past, is delivered by Kylo Ren and endorsed by the narrative. Critics gave it 91% on Rotten Tomatoes. Audiences gave it 42%. That gap is the most honest data point in modern Hollywood. Mark Hamill said this was not his Luke. He was right.</p>
+  <p><a href="/reviews/star-wars-the-last-jedi-2017/">Read the full VirtueVigil review of The Last Jedi</a></p>
+
+  <hr>
+
+  <h2>#9 - Blade Runner 2049 (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> 0 NEUTRAL &bull; <strong>Verdict:</strong> MIXED &bull; <strong>Genre:</strong> Sci-Fi / Neo-Noir / Drama</p>
+  <p>Denis Villeneuve's sequel to the 1982 original is genuinely ideologically ambiguous, earning the rarest verdict in the VirtueVigil system: MIXED. The film's progressive signals are real: a corporate dystopia built on ecological collapse, a replicant liberation movement coded as a civil rights parallel, and the manufactured-memory premise destabilizing stable personal identity. But K's final act, a sacrifice performed without recognition or reward, in service of someone he has no obligation to protect, is one of the most classically traditional acts of heroism in 2017 cinema. The traditional and woke elements balance almost exactly. Roger Deakins won his first Oscar for the cinematography. It deserved every frame of that recognition.</p>
+  <p><a href="/reviews/blade-runner-2049-2017/">Read the full VirtueVigil review of Blade Runner 2049</a></p>
+
+  <hr>
+
+  <h2>#8 - Thor: Ragnarok (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> +7 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Genre:</strong> Superhero / Action Comedy</p>
+  <p>Taika Waititi arrived at Marvel and turned Thor into a comedic deconstruction. Mjolnir is destroyed in the first act. Thor's masculine identity is systematically stripped. Asgard's golden age is revealed to have been built on conquest and bloodshed. None of this should produce a traditional film. But what Waititi and the screenplay team built underneath all that irreverence is a story about duty to your people over attachment to place or symbol. Odin's deathbed teaching, Asgard is not a place, it is a people, is one of the most traditionally resonant moral conclusions in the MCU's entire catalog. Heimdall's quiet heroism earns full marks. Loki's reluctant loyalty toward his brother is genuine. +7 TRAD despite the director's instincts. Waititi made a more traditional film than he intended.</p>
+  <p><a href="/reviews/thor-ragnarok-2017/">Read the full VirtueVigil review of Thor: Ragnarok</a></p>
+
+  <hr>
+
+  <h2>#7 - Wonder Woman (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> +8 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Genre:</strong> Superhero / Action</p>
+  <p>Patty Jenkins understood something most superhero directors miss: the power of Wonder Woman is not her powers. It is her conviction. Diana walks into No Man's Land because it is the right thing to do, and she is the one who can do it. That is classical heroism with no need for an ideology attached. The female power framing and light anti-patriarchy notes in the London sequences push the woke score, but Steve Trevor's sacrifice, one of the finest character deaths in modern blockbuster cinema, and Diana's moral framework rooted in love, duty, and selflessness push it firmly into traditional territory. The feminist window dressing never takes over. What dominates is a hero who is simply good, without irony or qualification. The sequel abandoned all of this. The original earns its score.</p>
+  <p><a href="/reviews/wonder-woman-2017/">Read the full VirtueVigil review of Wonder Woman (2017)</a></p>
+
+  <hr>
+
+  <h2>#6 - It (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> +8 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL LEAN &bull; <strong>Genre:</strong> Horror / Coming-of-Age</p>
+  <p>Stephen King's great subject has always been childhood and what it costs to end it. Andy Muschietti's adaptation captures the essential traditional architecture of King's source material: seven children defeat ancient evil through friendship, collective courage, and the refusal to let fear make cowards of them. The Losers Club is a genuine community bound by shared danger and mutual loyalty. Bill's obsession with finding Georgie is love and duty simultaneously. The progressive signals are present but limited: Beverly's abuse narrative has feminist overtones, and the film mourns adult failure to protect children rather than celebrating it. That mourning is itself traditional. Adults are supposed to protect children. When they fail, it is a moral indictment, not a structural critique. $701M worldwide on a $35M budget. Horror audiences wanted this story told.</p>
+  <p><a href="/reviews/it-2017/">Read the full VirtueVigil review of It (2017)</a></p>
+
+  <hr>
+
+  <h2>#5 - The Greatest Showman (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> +13 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Musical Drama / Biopic</p>
+  <p>Michael Gracey's P.T. Barnum biopic is the kind of film progressive critics dismissed as saccharine and audiences could not stop watching. The soundtrack sold for years after release. The film's celebration of ambition, showmanship, family, and belonging cuts against the grain of contemporary Hollywood's preference for deconstruction. Hugh Jackman's Barnum builds something from nothing, nearly loses his family pursuing it, and chooses them over empire in the end. The outsider characters find dignity through their own excellence rather than through institutional advocacy. That framing is fundamentally conservative: identity is built, not assigned, and the circus is a meritocracy of spectacle. Critics hated it. The audience was right.</p>
+  <p><a href="/reviews/greatest-showman-2017/">Read the full VirtueVigil review of The Greatest Showman</a></p>
+
+  <hr>
+
+  <h2>#4 - Coco (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> +14 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Animated Adventure / Fantasy</p>
+  <p>Pixar's Mexico-set Day of the Dead story is one of the studio's most authentically traditional films. The entire emotional architecture is built on family, memory, and the belief that the dead live as long as they are remembered by the living. Miguel's journey into the Land of the Dead is ultimately a story about intergenerational obligation: the living owe the dead their memory, and the dead owe the living their blessing. The villain's motivation is the theft of memory itself, which frames amnesia as a form of killing. Family bonds across generations are the sacred thing this film protects. The cultural specificity of the Mexican setting is used to honor tradition rather than critique it. Coco won the Oscar for Best Animated Feature and earned it cleanly.</p>
+  <p><a href="/reviews/coco-2017/">Read the full VirtueVigil review of Coco</a></p>
+
+  <hr>
+
+  <h2>#3 - Logan (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> +18 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Action / Drama / Sci-Fi</p>
+  <p>James Mangold made the best superhero film ever produced, and it is explicitly a Western about a dying gunfighter who discovers what he is willing to die for. Logan sacrifices himself for Laura, a child grown from his DNA who he has slowly, reluctantly come to love as a daughter. His death is not an accident or a plot convenience. It is chosen, deliberate, and fully understood at the moment of choice. He tells her not to be what they made her to be. Then he dies in the woods, with her hand in his. That is classical heroic sacrifice, the oldest and most traditional act available to a storyteller. Hugh Jackman played this character for 17 years. He deserved an ending this good. He got one. The R rating is fully earned. Not for families. Essential for adults.</p>
+  <p><a href="/reviews/logan-2017/">Read the full VirtueVigil review of Logan</a></p>
+
+  <hr>
+
+  <h2>#2 - Dunkirk (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> +22 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> War / Historical Drama</p>
+  <p>Christopher Nolan made Dunkirk at the peak of his commercial power and chose to strip the war film of every Hollywood comfort: no hero's journey, almost no dialogue, a three-timeline structure running at different speeds, and a deliberate refusal to deliver triumphalism the audience has not earned. What he left underneath all that formal ambition is pure traditional moral architecture. Duty without asking for recognition. Civilian heroism because it was the right thing to do. A Spitfire pilot who burns his own plane after surrendering to ensure the enemy cannot use it. A civilian boat captain who turns toward Dunkirk the moment he is asked because 400,000 men need rescuing and he has a boat. Mark Rylance's Mr. Dawson is one of the finest performances in a Nolan film. Farrier's landing in enemy territory after his engine cuts out is one of the great sequences in recent war cinema. Three Oscars, 94 on Metacritic, and every bit of that deserved.</p>
+  <p><a href="/reviews/dunkirk-2017/">Read the full VirtueVigil review of Dunkirk</a></p>
+
+  <hr>
+
+  <h2>#1 (Most Traditional) - Paddington 2 (2017)</h2>
+  <p><strong>VirtueVigil Score:</strong> +30 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Family Comedy Adventure</p>
+  <p>Paul King made a film that might be the most morally serious movie of the last twenty years, wrapped in bright colors and starring a CGI bear. The argument Paddington 2 makes is quiet and consistent and deeply felt: be like Paddington. Be patient with people. Work for what you want. Take care of the elderly people you love. Show up for your neighbors. And when you go to prison for a crime you did not commit, teach the inmates to make marmalade cake until the warden softens. The prison-as-community sequence is not naivety. It is a demonstration that sustained goodness is a force that changes environments. That is a classically conservative insight, even if Paul King did not intend it that way. Hugh Grant's Phoenix Buchanan is one of the great comic villain performances in modern cinema. 100% on Rotten Tomatoes. It earned every percentage point. Screen this for your entire family immediately.</p>
+  <p><a href="/reviews/paddington-2-2017/">Read the full VirtueVigil review of Paddington 2</a></p>
+
+  <hr>
+
+  <h2>2017 at a Glance: The Full Ranking</h2>
+  <table style="width:100%; border-collapse:collapse; margin-bottom:1.5rem;">
+    <thead>
+      <tr style="background:#1a1a2e; color:#fff;">
+        <th style="padding:8px 12px; text-align:left;">Rank</th>
+        <th style="padding:8px 12px; text-align:left;">Film</th>
+        <th style="padding:8px 12px; text-align:left;">Score</th>
+        <th style="padding:8px 12px; text-align:left;">Verdict</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td style="padding:7px 12px;">Most Woke</td><td><a href="/reviews/get-out-2017/">Get Out</a></td><td>-12 WOKE</td><td>WOKE</td></tr>
+      <tr style="background:#f9f9f9;"><td style="padding:7px 12px;">2</td><td><a href="/reviews/star-wars-the-last-jedi-2017/">Star Wars: The Last Jedi</a></td><td>-11 WOKE</td><td>WOKE</td></tr>
+      <tr><td style="padding:7px 12px;">3</td><td><a href="/reviews/blade-runner-2049-2017/">Blade Runner 2049</a></td><td>0 NEUTRAL</td><td>MIXED</td></tr>
+      <tr style="background:#f9f9f9;"><td style="padding:7px 12px;">4</td><td><a href="/reviews/thor-ragnarok-2017/">Thor: Ragnarok</a></td><td>+7 TRAD</td><td>TRADITIONAL LEAN</td></tr>
+      <tr><td style="padding:7px 12px;">5</td><td><a href="/reviews/wonder-woman-2017/">Wonder Woman</a></td><td>+8 TRAD</td><td>TRADITIONAL LEAN</td></tr>
+      <tr style="background:#f9f9f9;"><td style="padding:7px 12px;">6</td><td><a href="/reviews/it-2017/">It</a></td><td>+8 TRAD</td><td>TRADITIONAL LEAN</td></tr>
+      <tr><td style="padding:7px 12px;">7</td><td><a href="/reviews/greatest-showman-2017/">The Greatest Showman</a></td><td>+13 TRAD</td><td>TRADITIONAL</td></tr>
+      <tr style="background:#f9f9f9;"><td style="padding:7px 12px;">8</td><td><a href="/reviews/coco-2017/">Coco</a></td><td>+14 TRAD</td><td>TRADITIONAL</td></tr>
+      <tr><td style="padding:7px 12px;">9</td><td><a href="/reviews/logan-2017/">Logan</a></td><td>+18 TRAD</td><td>TRADITIONAL</td></tr>
+      <tr style="background:#f9f9f9;"><td style="padding:7px 12px;">10</td><td><a href="/reviews/dunkirk-2017/">Dunkirk</a></td><td>+22 TRAD</td><td>STRONGLY TRADITIONAL</td></tr>
+      <tr><td style="padding:7px 12px;">Most Traditional</td><td><a href="/reviews/paddington-2-2017/">Paddington 2</a></td><td>+30 TRAD</td><td>STRONGLY TRADITIONAL</td></tr>
+    </tbody>
+  </table>
+
+  <h2>What 2017 Tells Us</h2>
+  <p>2017 was the year the ideological fault lines in Hollywood became impossible to ignore. The Last Jedi divided Star Wars fandom in ways that never fully healed. Get Out won the Oscar for Best Original Screenplay and cemented Jordan Peele as the prestige horror voice of a specific progressive worldview. Meanwhile, Dunkirk and Logan proved that craft and traditional values are not in tension: the most artistically serious films of the year were also among its most traditional.</p>
+
+  <p>The data is not subtle. 9 of 11 reviewed 2017 films score in positive traditional territory. Only 2 score in woke territory. But those 2 were among the year's most critically celebrated, most awarded, and most ideologically influential. Volume is not the issue. Platform and critical consensus amplification are the issue. Browse our full 2017 review archive or explore the complete rankings at <a href="/lists/">VirtueVigil Lists</a> to see how 2017 fits into the broader Hollywood ideological picture.</p>
+</article>`
+  }));
+  console.log('  lists/movies-2017-woke-ranking/index.html');
 
 } // close buildSite async wrapper
 
