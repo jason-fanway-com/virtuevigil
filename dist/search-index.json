@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/american-underdog-2021.jpg"
   },
   {
+    "slug": "sound-of-hope-2024",
+    "title": "Sound of Hope: The Story of Possum Trot",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Biography / Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 29.82,
+    "poster": "/images/posters/sound-of-hope-2024.jpg"
+  },
+  {
     "slug": "raiders-of-the-lost-ark-1981",
     "title": "Raiders of the Lost Ark",
     "verdict": "STRONGLY TRADITIONAL",
