@@ -1932,6 +1932,8 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2019-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2017-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/movies-2000s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/best-movies-about-masculinity/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
 
@@ -2891,6 +2893,7 @@ function buildListsHubPage() {
         'movies-2021-woke-ranking',
         'movies-2019-woke-ranking',
         'movies-2017-woke-ranking',
+        'movies-2000s-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2972,7 +2975,8 @@ function buildListsHubPage() {
       'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score',
       'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score',
       'movies-2019-woke-ranking': 'Every 2019 Movie Ranked by Woke Score',
-      'movies-2017-woke-ranking': 'Every 2017 Movie Ranked by Woke Score'
+      'movies-2017-woke-ranking': 'Every 2017 Movie Ranked by Woke Score',
+      'movies-2000s-woke-ranking': 'Every 2000s Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -26213,6 +26217,474 @@ function buildThrillerMovies2025WokeRankingListicle() {
 </article>`
   }));
   console.log('  lists/movies-2017-woke-ranking/index.html');
+
+  writePage('lists/best-movies-about-masculinity/index.html', buildListiclePage({
+    slug: 'best-movies-about-masculinity',
+    title: '10 Best Movies About Masculinity Done Right: Strength Without Apology',
+    description: 'The 10 best films about traditional masculinity scored by VirtueVigil. Duty, honor, protection, sacrifice -- masculinity treated as a virtue, not a disorder.',
+    canonicalPath: 'lists/best-movies-about-masculinity',
+    publishDate: '2026-05-25',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Hollywood spent fifteen years telling men they are the problem. Every third blockbuster arrived with a scene where the male hero is lectured into self-doubt, stripped of authority, or made to apologize for the instinct to protect. Audiences did not buy it. Box office receipts said so. Critics called it backlash. It was not backlash. It was preference.</p>
+        <p>The films on this list share one thing: they treat masculine virtue as a virtue. Strength in service of others. Discipline forged through pain. Courage that costs something. Sacrifice that asks nothing in return. No therapy arc, no deconstruction, no third-act speech about toxic patterns. Just men doing what men have always done when it matters most.</p>
+        <p>Every film here scored TRADITIONAL or STRONGLY TRADITIONAL on the VirtueVigil dual-scale methodology. The scores are not editorial preferences. They are the result of trope-by-trope analysis applied consistently across hundreds of films. These ten earned their places by the numbers.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+34 TRAD</span>
+            </div>
+            <p>The highest-scoring film on this list and it is not a contest. Clint Eastwood does not question Chris Kyle. He does not ask audiences to feel conflicted about a man who protected his fellow soldiers at great personal cost. Kyle is a sheepdog, framed exactly as he described himself, and the film accepts that framing without apology. TradScore 36.6, WokeScore 2.45. The scenes of Kyle watching over rooftops while Marines move below are not morally ambiguous. They are an argument that some men are built to stand between civilization and the people who want to destroy it. The film made 547 million dollars in North America. Audiences knew what they were watching.</p>
+            <a href="/reviews/american-sniper-2014/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gladiator-2000/">Gladiator (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+30 TRAD</span>
+            </div>
+            <p>Ridley Scott built a Best Picture winner around a man whose entire purpose is duty, honor, and revenge for his murdered family. Maximus does not have an arc where he discovers the emperor was not so bad after all. He has an arc where he endures slavery, the arena, and betrayal, and uses every instrument available to him to restore what was taken. TradScore 32.2, WokeScore 1.7. The film's animating conviction is that virtue is real, that some men embody it, and that a civilization worth defending is worth dying for. Russell Crowe earned the Oscar. The film earned everything else. It remains one of the great arguments for masculine purpose ever put on screen.</p>
+            <a href="/reviews/gladiator-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/rocky-1976/">Rocky (1976)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>Sylvester Stallone wrote this screenplay in three days and understood something that film school does not teach: the audience wants to see a man earn something through suffering. Rocky Balboa is not articulate, not handsome, not destined. He runs the steps at 4 AM in the dark because that is what it costs to be ready. TradScore 29.54, WokeScore 1.4. The film is about discipline before it is about boxing. It is about showing up before it is about winning. Stallone made it on 1.1 million dollars and no safety net. The film won Best Picture. The reason it still works fifty years later is that the argument at its center -- that a man who refuses to quit earns something real -- is permanently true.</p>
+            <a href="/reviews/rocky-1976/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>The opening twenty-five minutes at Omaha Beach are the most expensive argument ever made for the proposition that the men who stormed that beach deserve to be remembered on their own terms. Spielberg does not spare the cost. He does not spare the viewer. And then he builds the entire film around the question of whether it was worth it to lose eight men saving one. TradScore 30.8, WokeScore 2.5. The answer the film gives is yes, without hedging: because some things are worth any cost, because duty is a real obligation, because the measure of a man's life is what he did with it. Tom Hanks's final whispered question to Ryan -- "earn this" -- has never been improved upon as a summary of masculine moral inheritance.</p>
+            <a href="/reviews/saving-private-ryan-1998/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/lone-survivor-2013/">Lone Survivor (2013)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>Peter Berg made this film as a promise to Marcus Luttrell. That context matters. Every choice in the film -- including the extended combat sequences that critics found excessive -- is a refusal to make Michael Murphy, Danny Dietz, and Matthew Axelson smaller than they were. TradScore 25.34, WokeScore 2.45. The argument is not political. The argument is that these four men loved each other enough to die for each other, and that love of that kind deserves to be witnessed without editorial distance. A film about masculine brotherhood that does not explain, deconstruct, or qualify the bond it portrays.</p>
+            <a href="/reviews/lone-survivor-2013/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/beast-2026/">Beast (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+25 TRAD</span>
+            </div>
+            <p>The masculine protector story done exactly right, in 2026, with no apologies. An MMA champion who walked away from the cage and built a life as a commercial fisherman gets dragged back when the people he loves are threatened. TradScore 27.0, WokeScore 1.5. The film never once questions whether the protection instinct is a pathology to manage. The man defending his family is the hero, full stop. The violence is not framed as a symptom or a tragedy. It is a tool in the hands of someone who built his life to be good at it. The genre Hollywood built careers on for forty years, delivered without a single lecture about what it costs.</p>
+            <a href="/reviews/beast-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-terminal-list-2022/">The Terminal List (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+24 TRAD</span>
+            </div>
+            <p>Critics gave it 40 percent on Rotten Tomatoes. Audiences gave it 94 percent. That gap is not a statistical anomaly. It is a measurement of the distance between the critical establishment and the people who actually watch military-themed content. Commander James Reece loses his entire platoon in a Syria ambush and discovers his own government covered it up. TradScore 26.64, WokeScore 2.8. The show treats military brotherhood as the most sacred bond a man can have. It treats institutional betrayal as a genuine wrong that demands a genuine response. It does not ask Reece to process his feelings and seek mental health support. It asks him to be precise and dangerous and just. Critics hated it because they understood exactly what it was saying.</p>
+            <a href="/reviews/the-terminal-list-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/top-gun-maverick-2022/">Top Gun: Maverick (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>Tom Cruise spent thirty-six years protecting this character from the version of himself Hollywood wanted to make: the aging legend deconstructed, the bravado revealed as compensation, the mentor arc where the young pilot teaches the old one that feelings matter. None of that is in this film. TradScore 21.28, WokeScore 1.05. Maverick passes what he has earned to the next generation without demanding credit for it. The mission is impossible and he flies it anyway because the alternative is watching younger men die. The audience gave it 1.49 billion dollars. They were not applauding the flight sequences. They were applauding the argument underneath them: that some men are worth admiring without footnotes.</p>
+            <a href="/reviews/top-gun-maverick-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/braveheart-1995/">Braveheart (1995)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>Mel Gibson made a three-hour argument that freedom is worth your life and that the men who believe that most fully are the most dangerous men alive. William Wallace does not want a throne. He wants his land, his wife's memory, and the right to be left alone. When those things are taken, he becomes something Scotland had not seen before. TradScore 19.74, WokeScore 3.5. The film is covered in historical inaccuracies and does not care, because the argument is moral rather than academic. A man who will not be owned, who will not be bought, who will not negotiate with his own dignity: that is the film's ideal and it presents it without embarrassment. The crowd calling for freedom while charging into a line of spears has not aged a single day.</p>
+            <a href="/reviews/braveheart-1995/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>The most unusual film on this list because Desmond Doss never fired a weapon. He is here because moral courage is the root of all the other kinds. Doss refused to carry a rifle into combat on religious grounds, was mocked and assaulted by his own unit, was nearly court-martialed, and then single-handedly saved 75 men by lowering them off the ridge under fire after every other soldier had retreated. TradScore 21.35, WokeScore 2.4. His faith is not a quirk or a character flaw to be overcome. It is the source of everything he is and everything he does. Mel Gibson treats it as such. The film asks: what does it look like when a man's convictions are load-bearing? Doss is the answer. He carried every unconscious soldier to the cliff's edge and asked God for one more before he was done.</p>
+            <a href="/reviews/hacksaw-ridge-2016/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <p>Ten films, one argument: masculine virtue is real, it is worth celebrating, and the audience that wants to see it is large enough to move box office charts. American Sniper, Gladiator, Rocky, Saving Private Ryan, Lone Survivor, Beast, The Terminal List, Top Gun: Maverick, Braveheart, Hacksaw Ridge. Every one scored by the VirtueVigil methodology with no editorial thumb on the scale.</p>
+        <p>Father's Day is June 21st. If you are building a watch list for the men in your life who are tired of being told they are the problem, start here. Every film links to its full VirtueVigil review with complete trope-by-trope scoring, parental guidance, and analysis. Browse the full catalog at <a href="/reviews/">VirtueVigil.com/reviews/</a> and stop guessing what is worth your time.</p>
+        <p>For more: <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>, <a href="/lists/best-patriotic-war-movies/">Best Patriotic War Movies</a>, <a href="/lists/anti-woke-action-movies/">Anti-Woke Action Movies</a>.</p>
+      </div>
+    </article>`
+  }));
+  console.log('  lists/best-movies-about-masculinity/index.html');
+
+
+  // === DESTINY CRON 2026-05-25: Every 2000s Movie Ranked by Woke Score ===
+  writePage('lists/movies-2000s-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-2000s-woke-ranking',
+    title: 'Every 2000s Movie Ranked by Woke Score',
+    description: 'All 26 reviewed 2000-2009 films ranked from most traditional to most woke. VirtueVigil scores Gladiator, The Dark Knight, Passion of the Christ, Avatar, and every scored 2000s release.',
+    canonicalPath: 'lists/movies-2000s-woke-ranking',
+    publishDate: '2026-05-25',
+    htmlContent: `<article class="listicle-article">
+
+      <p>The 2000s were Hollywood's last decade before the ideological transformation became undeniable. You can see both poles clearly: Mel Gibson's The Passion of the Christ scoring +45 TRAD at one extreme, James Cameron's Avatar at -13 WOKE at the other. In between, you get Gladiator, The Dark Knight, Gran Torino, Taken, and Black Hawk Down, films that are unashamed about duty, sacrifice, and earned authority. VirtueVigil reviewed and scored all 26 major 2000s theatrical releases in its database, applying the full dual-scoring methodology. Ranked from most traditional to most woke.</p>
+
+      <p>This is the definitive ideological record of a decade that gave us the most explicitly Christian blockbuster in cinema history and the highest-grossing anti-colonial sci-fi film ever made, often in the same year. Every film links to the full VirtueVigil review.</p>
+
+      <hr>
+
+      <h2>#1 (Most Traditional): <a href="/reviews/the-passion-of-the-christ-2004/">The Passion of the Christ (2004)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +45 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biblical Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>No major studio film in the history of cinema scores this high on the VirtueVigil traditional axis. Gibson did not make a film about Jesus. He made an act of witness. The Passion of the Christ depicts the final 12 hours of Christ's life with graphic, unflinching detail, grounding divine sacrifice in physical suffering so real it demands a response. Every frame encodes redemptive suffering, substitutionary atonement, and the cost of love as its core moral logic. It grossed $612 million worldwide on a $30 million budget, proving that explicitly Christian content finds its audience when made without apology.</p>
+      <p><a href="/reviews/the-passion-of-the-christ-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Passion of the Christ</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/miracle-2004/">Miracle (2004)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +36 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Sports / History &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Everybody knows the ending. The 1980 US Olympic hockey team beating the Soviet Union is one of the most famous upsets in American sports history. Miracle's genius is making you feel the improbability anyway. The +36 TRAD margin comes from a film that is unambiguously about American exceptionalism, team sacrifice, and earned competence under pressure. Herb Brooks drills his players beyond endurance not to humiliate them but because the mission demands it. The film presents meritocracy, national pride, and physical discipline as unqualified goods and never flinches from that framing.</p>
+      <p><a href="/reviews/miracle-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Miracle</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/gladiator-2000/">Gladiator (2000)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +31 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Maximus wants to go home. That is the entire movie. He has served Rome faithfully, won its battles, and earned the right to his farm, his wife, and his son. Commodus takes all three and sends him to the arena anyway. What follows is a film built on duty, loyalty, betrayal, and the demand that honor be satisfied even at the cost of everything. The +31 TRAD margin reflects a film with no ideological agenda beyond the elemental: some things are worth dying for, cowardice and treachery carry consequences, and a man who serves well deserves to rest. Gladiator won five Academy Awards including Best Picture, a fact that would be impossible in 2026 Hollywood.</p>
+      <p><a href="/reviews/gladiator-2000/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Gladiator</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/lord-of-the-rings-fellowship-2001/">The Lord of the Rings: The Fellowship of the Ring (2001)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +25 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Adventure / Fantasy / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Tolkien's worldview is pre-modern, Catholic, and deeply suspicious of industrial progress. Jackson's adaptation preserves that core. The Fellowship's moral architecture is about ordinary people accepting burdens they did not choose, sacrificing comfort for a world they believe is worth saving, and understanding that some corruptions cannot be reformed but only destroyed. The +25 TRAD margin reflects a film that treats heroism as costly, male friendship as sacred, and the temptation of power as the central moral danger. Fellowship launched one of the most successful trilogies in cinema history precisely because that worldview resonates across generations.</p>
+      <p><a href="/reviews/lord-of-the-rings-fellowship-2001/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Lord of the Rings: The Fellowship of the Ring</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/the-incredibles-2004/">The Incredibles (2004)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +23 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated / Superhero / Family &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The most explicitly conservative major studio animated film since The Lion King. Brad Bird's masterpiece is about a family of genuinely exceptional people forced by a resentful bureaucratic culture to hide their gifts, pretend to be ordinary, and suppress what makes them great. The villain is a mediocre man who hated excellence because it reminded him of his own limits. The +23 TRAD margin captures a film that argues meritocracy is real, families are strongest when fathers lead with competence, and the demand that everyone be equally ordinary is a form of cultural death. Pixar has never made anything this politically clear again.</p>
+      <p><a href="/reviews/the-incredibles-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Incredibles</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/the-patriot-2000/">The Patriot (2000)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +22 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War / Historical / Action &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The kind of film Hollywood stopped making once foreign revenue became the priority. Benjamin Martin does not want to fight. He has seven children, a farm, and enough scars from the French and Indian War to last a lifetime. The British kill his son and burn his home, and then the math becomes simple. The +22 TRAD margin reflects a film about fatherhood as the foundation of national identity, the right of free men to resist tyranny, and a refusal to frame American independence as morally complicated. The Patriot is unashamed about what it celebrates and that directness is now a rarity in studio filmmaking.</p>
+      <p><a href="/reviews/the-patriot-2000/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Patriot</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/black-hawk-down-2001/">Black Hawk Down (2001)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +22 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War / Action / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Ridley Scott put you inside 18 hours of the Battle of Mogadishu and did not let you out until it was done. Released months after September 11th, Black Hawk Down landed with a clarity that felt prophetic. The +22 TRAD margin comes from a film that honors the men who fought without asking whether the mission was worth it, because for the soldiers on the ground the mission is always the men beside you. No political editorializing. No apology for American military presence. Just the cost of the job, paid in full, by men who did not hesitate when the radio went silent.</p>
+      <p><a href="/reviews/black-hawk-down-2001/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Hawk Down</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/300-2006/">300 (2006)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +21 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Epic / Historical Fantasy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>300 is not a subtle film. It has never claimed to be. It is 117 minutes of men choosing death over submission, shot in slow motion, delivered with the conviction of a director who believes every frame of what he is showing you. The +21 TRAD margin reflects a film about freedom requiring sacrifice, masculine discipline as the foundation of civilization, and the moral clarity that comes from knowing exactly what you are willing to die for. The Spartans do not debate whether Persia deserves to win. They fight. That clarity is the film's entire moral argument and it landed with audiences to the tune of $456 million worldwide.</p>
+      <p><a href="/reviews/300-2006/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of 300</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/click-2006/">Click (2006)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy Drama Fantasy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Click is a better film than it has any right to be because it has something real to say and is not ashamed to say it loudly. Michael Newman keeps skipping the present to get to the future, fast-forwarding through his wife, his kids, and his father's final years in pursuit of a promotion he believes will make everything worthwhile. The +18 TRAD margin reflects a film that treats the failure to be present with your family as a genuine tragedy, not a lifestyle preference. The third act is devastating in a way most comedies do not attempt. Adam Sandler earns it. The message is: no career is worth your children's childhood.</p>
+      <p><a href="/reviews/click-2006/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Click</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/taken-2008/">Taken (2008)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The phone call that made Liam Neeson a different kind of movie star. Bryan Mills is a retired CIA operative whose daughter is kidnapped by human traffickers in Paris. What follows is a father deploying every skill he has ever developed in service of one objective: bring her home. The +18 TRAD margin comes from a film that treats fatherhood as a vocation worth perfecting, male protection as a legitimate calling, and human trafficking as an unambiguous evil that deserves a violent answer. No political subtext. No moral complexity about whether Mills goes too far. He goes exactly as far as the situation requires.</p>
+      <p><a href="/reviews/taken-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Taken</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/gran-torino-2008/">Gran Torino (2008)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Walt Kowalski walks up a driveway at the end of Gran Torino knowing exactly what is about to happen to him. He has made his confession. He has put his affairs in order. He walks up anyway. The +18 TRAD margin reflects a film about a Korean War veteran who chooses sacrifice over vengeance, understanding that true protection sometimes means giving up the right to fight back. Clint Eastwood builds Walt as a man shaped by a culture that no longer exists and then shows what that culture's best values look like when applied without ego. One of the finest performances of Eastwood's career.</p>
+      <p><a href="/reviews/gran-torino-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Gran Torino</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/cast-away-2000/">Cast Away (2000)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +17 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Survival &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Four years alone on an uninhabited island. No villains, no social commentary, no progressive ideology. Just a man surviving and then deciding whether survival alone is enough. The +17 TRAD margin comes from a film that treats human ingenuity, willpower, and the will to live as intrinsic goods, rooted in love rather than ideology. Tom Hanks carries the film almost entirely alone for its second act and delivers one of the most physically and emotionally committed performances in his career. Cast Away makes the case that human resilience is fundamentally oriented toward connection and the people we love, not systems or politics.</p>
+      <p><a href="/reviews/cast-away-2000/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cast Away</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/the-dark-knight-2008/">The Dark Knight (2008)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Crime Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The best superhero film ever made, and one of the best crime films ever made. Nolan's Batman operates on a moral code that is explicitly traditional: some lines should never be crossed even when crossing them would save lives, because the moment you cross them you become the thing you are fighting. The +16 TRAD margin reflects a film that takes moral philosophy seriously, treats heroism as costly and often thankless, and stages the surveillance debate of the mid-2000s as a genuine moral question rather than progressive agitprop. The Joker is the finest screen villain in modern cinema because he illuminates how order depends on people who will accept the burden of being hated for maintaining it.</p>
+      <p><a href="/reviews/the-dark-knight-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Dark Knight</a></p>
+
+      <hr>
+
+      <h2>#14: <a href="/reviews/the-notebook-2004/">The Notebook (2004)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romance / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The professional critics never liked The Notebook. 53% on Rotten Tomatoes. The audience score is 86%. The film earned $115 million on a $29 million budget. The +14 TRAD margin reflects a love story that presents lifelong commitment, class-crossing devotion, and the dignity of growing old together as unqualified goods worth celebrating. Noah Calhoun builds a house with his hands because Allie said she loved it. He waits seven years. He reads to her every day until she forgets who he is and then reads to her anyway. That is what the film is about, and audiences responded to its clarity in numbers that critics were too jaded to understand.</p>
+      <p><a href="/reviews/the-notebook-2004/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Notebook</a></p>
+
+      <hr>
+
+      <h2>#15: <a href="/reviews/the-departed-2006/">The Departed (2006)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Thriller / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Scorsese spent his career making films about men who choose the wrong path and pay everything for it. The Departed is the fullest expression of that obsession. Every man who betrays his stated loyalty dies. The film does not traffic in progressive politics; it traffics in moral consequence. The +12 TRAD margin reflects a film that treats betrayal as a cardinal sin with existential stakes, frames institutional loyalty as the foundation of functional society, and delivers that verdict through one of the most brilliantly constructed third acts in modern cinema. The Academy finally gave Scorsese his Oscar for this one. He had earned it many times over.</p>
+      <p><a href="/reviews/the-departed-2006/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Departed</a></p>
+
+      <hr>
+
+      <h2>#16: <a href="/reviews/fantastic-mr-fox-2009/">Fantastic Mr. Fox (2009)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Comedy Adventure &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Wes Anderson's most straightforward moral tale and his most entertaining film, which is not a coincidence. Mr. Fox cannot stop being what he is, a thief with exceptional gifts who chooses to use them in service of his family rather than himself. The +11 TRAD margin reflects a film that frames masculine excellence as something to be directed, not extinguished, and treats fatherhood as the highest calling a naturally restless man can find. The stop-motion craft is extraordinary. The message is simple and meant: a good man uses his gifts for his family, not for himself, and that choice is worth everything.</p>
+      <p><a href="/reviews/fantastic-mr-fox-2009/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Fantastic Mr. Fox</a></p>
+
+      <hr>
+
+      <h2>#17: <a href="/reviews/iron-man-2008/">Iron Man (2008)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The film that started the MCU. Tony Stark is a weapons manufacturer who gets captured, builds a suit of armor to escape, and decides to use his genius in service of protection rather than profit. The +9 TRAD lean reflects the first act's unironic celebration of American defense technology and Stark's arc toward personal responsibility. The mild score rather than full TRADITIONAL reflects elements of progressive foreign policy framing in the third act. As the launch point for a franchise that would grow steadily more progressive over two decades, Iron Man stands as the MCU's most traditionally coded chapter by a significant margin.</p>
+      <p><a href="/reviews/iron-man-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Iron Man</a></p>
+
+      <hr>
+
+      <h2>#18: <a href="/reviews/inglourious-basterds-2009/">Inglourious Basterds (2009)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War / Drama / Black Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Tarantino's masterpiece may be the most gleefully pro-military film in American cinema since The Longest Day. A group of Jewish American soldiers hunts Nazi officers in occupied France with tactical precision and evident satisfaction. The film's violence is retributive, its moral universe is clear, and its climax rewrites history as an act of wish fulfillment so pure it becomes cathartic. The +7 TRAD lean rather than full TRADITIONAL reflects Tarantino's characteristic moral ambiguity in framing and some violence that serves spectacle over mission. The ideological core remains: Nazis deserve what they get, and the men who deliver it are doing right.</p>
+      <p><a href="/reviews/inglourious-basterds-2009/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Inglourious Basterds</a></p>
+
+      <hr>
+
+      <h2>#19: <a href="/reviews/remember-the-titans-2000/">Remember the Titans (2000)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Sports / Biography &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Remember the Titans scores TRADITIONAL LEAN, and if that surprises you, the math is worth understanding. The film is explicitly about racial integration and uses football as the mechanism by which white and Black players come to see each other as brothers rather than threats. That is a progressive premise delivered through entirely traditional values: masculine discipline, earned brotherhood, coaching authority, and the belief that a team united by shared sacrifice can accomplish what division cannot. The result is a film that sits across the political aisle in content but operates on traditional values in its core moral framework. The best sports movies always do.</p>
+      <p><a href="/reviews/remember-the-titans-2000/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Remember the Titans</a></p>
+
+      <hr>
+
+      <h2>#20: <a href="/reviews/catch-me-if-you-can-2002/">Catch Me If You Can (2002)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>One of Spielberg's most purely enjoyable films is also his most morally complicated from a traditional perspective. Frank Abagnale Jr. is a con artist, and the film never fully decides whether that is a problem. The +5 TRAD lean comes from the film's ultimate arc toward legitimate authority and earned identity: Frank ends up working for the FBI, his talents finally in service of the law rather than against it. The traditional score reflects redemption through legitimate work as the film's final destination, even if it lingers too lovingly on the frauds along the way to earn a higher margin.</p>
+      <p><a href="/reviews/catch-me-if-you-can-2002/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Catch Me If You Can</a></p>
+
+      <hr>
+
+      <h2>#21: <a href="/reviews/kill-bill-volume-1-2003/">Kill Bill: Volume 1 (2003)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Martial Arts / Revenge &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>At first glance it looks like a feminist revenge fantasy. On closer examination, The Bride's entire motivation is the protection of her unborn child, a maternal instinct so consuming it drives her to spend years mastering the most demanding martial disciplines on earth. The +5 TRAD lean reflects a film where the central moral force is motherhood and betrayal rather than gender ideology. The violence is stylized to the point of abstraction, which separates it from glorification. Tarantino is not making a political statement about female empowerment. He is making a film about a mother who will destroy anyone who stands between her and her child. That is a traditional premise dressed in exploitation film aesthetics.</p>
+      <p><a href="/reviews/kill-bill-volume-1-2003/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Kill Bill: Volume 1</a></p>
+
+      <hr>
+
+      <h2>#22: <a href="/reviews/no-country-for-old-men-2007/">No Country for Old Men (2007)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Thriller / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>No Country for Old Men has a conservative soul. The film ends without justice. Chigurh walks away. Sheriff Bell retires not in triumph but in defeat. The +5 TRAD lean comes from a film whose entire moral argument is that a culture which has abandoned its values cannot contain the evil it generates. Bell is not the villain of this story. The abandonment of the code he was raised to uphold is the villain, and he knows it. The Coen Brothers did not make a hopeful film. They made an honest one, and the McCarthy novel they adapted understood that moral decline has consequences that cannot be negotiated away.</p>
+      <p><a href="/reviews/no-country-for-old-men-2007/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of No Country for Old Men</a></p>
+
+      <hr>
+
+      <h2>#23: <a href="/reviews/the-hangover-2009/">The Hangover (2009)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>One of the most technically perfect R-rated comedies ever made, and a film about three men behaving abominably in Las Vegas. Both things are true. The Hangover scores TRADITIONAL LEAN because its moral logic ultimately points toward accountability: the bachelor party chaos is a consequence machine, and the resolution requires each man to face what his choices cost. Stu leaves the wrong woman. Phil confronts his domestic dissatisfaction. The film does not celebrate its debauchery without cost. The +3 TRAD margin is modest because it earns it modestly, but the throughline is there: adult men eventually have to be accountable for how they live.</p>
+      <p><a href="/reviews/the-hangover-2009/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Hangover</a></p>
+
+      <hr>
+
+      <h2>#24: <a href="/reviews/the-royal-tenenbaums-2001/">The Royal Tenenbaums (2001)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Anderson's most emotionally ambitious live-action film and the one that best reveals both what he can do and where his sensibility stops short. Royal Tenenbaum is a failed father who returns to his family under false pretenses and, in the process of deception, finds something genuine. The +2 TRAD margin reflects a film that ultimately argues for the value of family reconciliation and the weight of paternal absence, even as Anderson's ironic detachment keeps the emotional stakes at a slight remove. The conclusion earns its sentiment. The journey there is more interested in aesthetic than moral clarity, which is why it lands in MIXED rather than TRADITIONAL LEAN.</p>
+      <p><a href="/reviews/the-royal-tenenbaums-2001/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Royal Tenenbaums</a></p>
+
+      <hr>
+
+      <h2>#25: <a href="/reviews/hurt-locker-2008/">The Hurt Locker (2008)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War / Drama / Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The Hurt Locker opens with a Chris Hedges quote: "The rush of battle is often a potent and lethal addiction, for war is a drug." That quote is the film's thesis, its argument, and its final verdict. The -4 WOKE lean comes from a film that frames the American military presence in Iraq through a lens of psychological damage rather than mission and honor. SSgt James is not a hero. He is a man broken by war who cannot function without it. Kathryn Bigelow won Best Director for this film, making it the most decorated anti-war film in Oscar history. The craft is exceptional. The ideological framing of American soldiers as addiction cases rather than warriors is a clear left-of-center perspective.</p>
+      <p><a href="/reviews/hurt-locker-2008/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Hurt Locker</a></p>
+
+      <hr>
+
+      <h2>#26 (Most Woke): <a href="/reviews/avatar-2009/">Avatar (2009)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -13 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi / Action / Adventure &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The highest-grossing film in the history of cinema, and a movie with an explicit anti-colonial, anti-military, anti-corporate ideology delivered to more human beings than any other film ever made. The -13 WOKE margin comes from a film where the American military-industrial complex is the villain, indigenous land rights are the highest moral good, and the white protagonist achieves redemption by defecting to the other side. Cameron made a technically revolutionary film and filled it with progressive ideology so thorough it reads like a manifesto. That 3.1 billion people paid to watch it does not change what it is arguing. It changes how important that argument is to understand.</p>
+      <p><a href="/reviews/avatar-2009/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avatar</a></p>
+
+      <hr>
+
+      <h2>The 2000s in Review</h2>
+      <p>Twenty-six films. Twenty-two score TRADITIONAL LEAN or higher. The 2000s were the last decade where Hollywood produced traditionally coded content at this ratio consistently. Gladiator, Black Hawk Down, The Patriot, Taken, and Gran Torino were mainstream studio releases greenlit by the same studios that now produce content scoring -20 or below. The drift is documented. The data is clear.</p>
+      <p>One film from this decade scores WOKE: Avatar, and it is the highest-grossing film ever made, which tells you something about how ideology and entertainment can coexist when the craft is strong enough. The Hurt Locker edges into WOKE LEAN. Everything else is MIXED or better.</p>
+      <p>Browse the full VirtueVigil database to see how every reviewed film from every year scores. The retrospective annual rankings are ongoing.</p>
+      <p><a href="/reviews/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Browse all VirtueVigil film reviews</a></p>
+
+    </article>`
+  }));
+
 
 } // close buildSite async wrapper
 
