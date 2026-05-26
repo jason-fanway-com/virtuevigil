@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/bullet-train-2022.jpg"
   },
   {
+    "slug": "the-whale-2022",
+    "title": "The Whale",
+    "verdict": "MIXED",
+    "platform": "Theatrical / A24",
+    "genre": "Drama",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 9.14,
+    "tradScore": 9.14,
+    "poster": "/images/posters/the-whale-2022.jpg"
+  },
+  {
     "slug": "jesus-revolution-2023",
     "title": "Jesus Revolution",
     "verdict": "TRADITIONAL",
