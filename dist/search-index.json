@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "elvis-2022",
+    "title": "Elvis",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Biography / Drama / Music",
+    "year": 2022,
+    "type": "film",
+    "wokeScore": 7.88,
+    "tradScore": 11.62,
+    "poster": "/images/posters/elvis-2022.jpg"
+  },
+  {
     "slug": "jesus-revolution-2023",
     "title": "Jesus Revolution",
     "verdict": "TRADITIONAL",
