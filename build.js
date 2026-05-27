@@ -1934,6 +1934,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-2017-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2000s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2010s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/movies-1990s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-masculinity/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
@@ -2896,6 +2897,7 @@ function buildListsHubPage() {
         'movies-2017-woke-ranking',
         'movies-2000s-woke-ranking',
         'movies-2010s-woke-ranking',
+        'movies-1990s-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2979,7 +2981,8 @@ function buildListsHubPage() {
       'movies-2019-woke-ranking': 'Every 2019 Movie Ranked by Woke Score',
       'movies-2017-woke-ranking': 'Every 2017 Movie Ranked by Woke Score',
       'movies-2000s-woke-ranking': 'Every 2000s Movie Ranked by Woke Score',
-      'movies-2010s-woke-ranking': 'Every 2010s Movie Ranked by Woke Score'
+      'movies-2010s-woke-ranking': 'Every 2010s Movie Ranked by Woke Score',
+      'movies-1990s-woke-ranking': 'Every 1990s Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -27436,6 +27439,282 @@ function buildThrillerMovies2025WokeRankingListicle() {
       <p>Sixty-eight films. Eleven years of reviewed content. The distribution tells the story: the 2010s produced 5 WOKE films, 7 WOKE LEAN films, 9 MIXED films, 12 TRADITIONAL LEAN films, 22 TRADITIONAL films, and 13 STRONGLY TRADITIONAL films. The decade was not a monoculture. It was a battleground where both poles produced genuine excellence, and where the audience's appetite for traditional-values content, demonstrated by the box office performance of American Sniper, Hacksaw Ridge, Dunkirk, Interstellar, and the MCU's best entries, consistently exceeded what Hollywood believed its customers wanted.</p>
 
       <p>Browse the full <a href="/reviews/">VirtueVigil review archive</a> to find more films scored by decade, genre, and values profile. Every review is a complete ideological breakdown with line-level evidence for every score.</p>
+
+    </article>`
+  }));
+
+  console.log('  lists/movies-1990s-woke-ranking/index.html');
+  writePage('lists/movies-1990s-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-1990s-woke-ranking',
+    title: 'Every 1990s Movie Ranked by Woke Score',
+    description: 'All 23 reviewed 1990s films ranked from most woke to most traditional. Pulp Fiction, Fight Club, Titanic, Forrest Gump, Saving Private Ryan, The Lion King, Braveheart, and every scored 1990s release.',
+    canonicalPath: 'lists/movies-1990s-woke-ranking',
+    publishDate: '2026-05-27',
+    htmlContent: `<article class="listicle-article">
+
+      <p>The 1990s produced some of the most beloved films in American cinema history. It also produced, on quiet inspection, a surprisingly traditional decade. VirtueVigil has reviewed and scored 23 major 1990s theatrical releases using its full dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures duty, sacrifice, family loyalty, patriotism, and earned competence. The margin determines the verdict.</p>
+
+      <p>Of 23 scored films, 4 land in woke-lean territory, 9 lean or fully traditional, and 2 earn the highest STRONGLY TRADITIONAL designation. The films people grew up with and still love, Saving Private Ryan, The Lion King, Forrest Gump, Braveheart, Tombstone, Schindler's List, are almost uniformly traditional. The Tarantino entries, Reservoir Dogs and Pulp Fiction, are the decade's primary woke-lean outliers. Every entry links to the full VirtueVigil review. Ranked from most woke to most traditional.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/reservoir-dogs-1992/">Reservoir Dogs (1992)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Tarantino's debut feature is a technically brilliant heist-gone-wrong film built on masculine codes of loyalty and betrayal. The -4 WOKE lean reflects the film's moral relativism and transgressive content operating against a framework where loyalty and honor carry genuine weight. VirtueVigil scores Reservoir Dogs as the decade's most woke-coded film not because it pushes progressive ideology but because its moral universe rejects objective standards for conduct. The craft is extraordinary. The framework is fundamentally nihilistic.</p>
+      <p><a href="/reviews/reservoir-dogs-1992/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Reservoir Dogs</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/titanic-1997/">Titanic (1997)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Romance / Disaster &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>James Cameron's record-breaking disaster epic centers on a class-transgression romance where the aristocratic establishment is consistently framed as corrupt, suffocating, and deserving of its fate. The -5 WOKE lean comes from the film's systematic contempt for inherited wealth and social structure, with every working-class or disadvantaged character coded as morally superior to their supposed betters. Jack's sacrifice at the end carries genuine emotional weight, but the political scaffolding around the romance is unmistakable. The highest-grossing film of 1997 made a progressive argument about class and deserved it more credit than critics gave it.</p>
+      <p><a href="/reviews/titanic-1997/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Titanic</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/fight-club-1999/">Fight Club (1999)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -7 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Thriller / Psychological &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Fight Club's diagnosis of masculine emasculation in consumer culture is genuinely accurate. Its prescription, anarchist terrorism against financial infrastructure, is what earns the -7 WOKE lean. VirtueVigil's summary puts it plainly: the diagnosis is accurate, the prescription is poison. The film correctly identifies that modern commercial culture strips men of identity and purpose. It then concludes that blowing up buildings is the solution. A traditional framework would point toward duty, family, and earned competence. Fight Club points toward Project Mayhem and calls it liberation.</p>
+      <p><a href="/reviews/fight-club-1999/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Fight Club</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/pulp-fiction-1994/">Pulp Fiction (1994)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -8 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>A technical masterpiece that contains genuine moments of traditional honor, most notably Jules's spiritual transformation, alongside significant transgressive content including graphic violence, drug use, and sexual degradation treated as darkly comedic. The -8 WOKE lean required actual analysis to calculate: Pulp Fiction is not a progressive manifesto, it is a morally relativistic film that treats consequence and conduct as aesthetic choices rather than ethical facts. Jules walking away from his gun is one of cinema's most genuinely traditional character decisions. The film buries it in a structure designed to make you uncertain whether it matters.</p>
+      <p><a href="/reviews/pulp-fiction-1994/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Pulp Fiction</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/jurassic-park-1993/">Jurassic Park (1993)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Science Fiction / Adventure / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Spielberg's dinosaur masterwork is fundamentally a cautionary tale about hubris: the film's villain is not a person but the arrogance of scientific ambition without ethical constraint. Ian Malcolm's chaos theory lectures and Hammond's collapse from confident showman to shattered failure deliver a traditional message about the limits of human authority over nature. The +5 TRAD lean reflects the film's endorsement of natural order, parental protection, and the cost of playing God. John Hammond does not get what he deserves from the film; he gets what he built, which is the traditional framework's version of justice.</p>
+      <p><a href="/reviews/jurassic-park-1993/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Jurassic Park</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/se7en-1995/">Se7en (1995)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime / Thriller / Mystery &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>David Fincher's serial killer procedural is among the darkest films of the decade and yet earns a +7 TRAD lean because its moral framework is fundamentally traditional: John Doe's killings are organized around the Seven Deadly Sins, which are themselves a traditional Judeo-Christian moral taxonomy. The film takes sin seriously as a category of moral failure, which is more than most contemporary films are willing to do. Somerset and Mills represent duty, persistence, and the cost of moral clarity in a world that has abandoned standards. The ending is devastating precisely because moral order and personal justice are in direct conflict.</p>
+      <p><a href="/reviews/se7en-1995/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Se7en</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/the-matrix-1999/">The Matrix (1999)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Science Fiction &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The most politically contested film of the past thirty years belongs simultaneously to the red-pilled right and the trans-liberation left, and VirtueVigil's scoring says it leans traditional. Neo as messianic chosen hero, the sacrifice and resurrection arc, the brotherhood forged under genuine danger, the Morpheus mentor who demands commitment rather than comfort: the structural framework is ancient and traditional whatever the filmmakers intended. The +7 TRAD lean reflects a film whose progressive readings require active interpretation while its traditional readings emerge organically from the plot. The choice between the red pill and blue pill is itself a traditional argument: reality over comfortable illusion at any cost.</p>
+      <p><a href="/reviews/the-matrix-1999/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Matrix</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/billy-madison-1995/">Billy Madison (1995)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Billy Madison is a loud, frequently juvenile comedy about a rich man-child who must repeat grades K through 12 to earn his father's company and prove he deserves the inheritance he has coasted on his entire life. The +8 TRAD lean comes from the film's conservative moral core: a son who has not earned his position must earn it or lose it, and the process of earning it transforms him. The film does not frame Billy's immaturity as charming or acceptable; it frames it as a problem requiring resolution through demonstrated competence. Crude and funny, but the architecture underneath is genuinely traditional.</p>
+      <p><a href="/reviews/billy-madison-1995/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Billy Madison</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/shawshank-redemption-1994/">The Shawshank Redemption (1994)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The film audiences made immortal after critics and the box office missed it in 1994 earns a +9 TRAD lean for its portrait of hope, male friendship, and the refusal to let unjust imprisonment define a man's identity. Andy Dufresne's patience, dignity, and inner life maintained against every institutional effort to destroy them are presented as genuinely heroic. The film's critique of corrupt institutional authority is anti-traditional in principle but traditional in practice: what Red and Andy build is friendship, earned trust, and a future worth living for. The strongest traditional element is Morgan Freeman's narration treating human decency as a fact, not an ideology.</p>
+      <p><a href="/reviews/shawshank-redemption-1994/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Shawshank Redemption</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/goodfellas-1990/">GoodFellas (1990)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biography / Crime / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Scorsese's mob epic earns a +11 TRAD score not by endorsing organized crime but by depicting its moral consequences with complete seriousness. Henry Hill's rise is exciting and his fall is total, and the film never lets you forget that the codes of loyalty and family that make the mob seductive are the same codes that eventually destroy everything Hill values. GoodFellas is a moral film in the oldest tradition: it presents a life that looks good from the outside and is rotting from the inside, and it shows you both with equal clarity. The paranoia, the betrayal, the witness protection isolation: these are not footnotes, they are the point.</p>
+      <p><a href="/reviews/goodfellas-1990/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of GoodFellas</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/heat-1995/">Heat (1995)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Crime / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Michael Mann's three-hour crime epic earns its +11 TRAD score through an unsentimental depiction of professional codes, masculine discipline, and the cost of living outside the law. Both Neil McCauley and Vincent Hanna are defined by competence, focus, and the price their work extracts from their personal lives. The film treats McCauley's criminal code with the same moral seriousness as Hanna's law enforcement mandate, then resolves the conflict correctly: the man who cannot walk away from his work when loyalty demands it pays the ultimate price. Heat's famous coffee shop scene is the decade's most honest portrait of two men who understand each other completely and cannot be in the same world.</p>
+      <p><a href="/reviews/heat-1995/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Heat</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/good-will-hunting-1997/">Good Will Hunting (1997)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +11 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Romance &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Robin Williams at his absolute best. The story of a damaged young man with extraordinary gifts who must accept genuine mentorship to become capable of real love earns its +11 TRAD score through the mentor relationship at its center. Sean Maguire does not flatter Will or tell him his trauma excuses his choices; he challenges Will to do the hard work of accepting that he deserves to be loved. The film's conclusion, Will driving to California to be with Skylar, is a traditional act: choosing vulnerability and connection over the comfort of remaining superior to everyone. Politically mixed in its academic critique but emotionally honest about what it costs to grow up.</p>
+      <p><a href="/reviews/good-will-hunting-1997/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Good Will Hunting</a></p>
+
+      <hr>
+
+      <h2>#13: <a href="/reviews/big-daddy-1999/">Big Daddy (1999)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +12 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Adam Sandler's most emotionally effective early comedy earns a +12 TRAD score for what it depicts underneath the lowbrow humor: a man-child who stumbles into fatherhood and rises to meet it. Sonny Koufax begins the film as someone who has avoided every adult responsibility. Julian forces him to confront that avoidance and choose something larger than himself. The film's resolution, Sonny becoming a father through legal adoption after proving he can be one, is a genuine endorsement of chosen paternal commitment. Big Daddy argues that maturity is always a choice and that fatherhood is serious work, which is more traditional than most films twice as prestige-coded would dare to say.</p>
+      <p><a href="/reviews/big-daddy-1999/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Big Daddy</a></p>
+
+      <hr>
+
+      <h2>#14: <a href="/reviews/happy-gilmore-1996/">Happy Gilmore (1996)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +13 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sports / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Happy Gilmore is a crude, funny, working-class sports comedy about a man who enters professional golf to save his grandmother's house from the IRS. The +13 TRAD score comes from the film's genuine celebration of loyalty to family, its contempt for elite institutional gatekeeping, and Happy's arc from undisciplined aggressor to someone capable of competing with discipline when it matters. The film's villain, Bob Barker notwithstanding, is the golf establishment protecting its status from an outsider who belongs there on merit. Thirty years later, it still works precisely because it is fundamentally about a man doing whatever it takes for his grandmother.</p>
+      <p><a href="/reviews/happy-gilmore-1996/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Happy Gilmore</a></p>
+
+      <hr>
+
+      <h2>#15: <a href="/reviews/forrest-gump-1994/">Forrest Gump (1994)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Romance / Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Tom Hanks's Oscar-winning performance anchors one of American cinema's purest arguments for decency, loyalty, and the enduring power of simple love. Forrest's life is a direct rebuke to the counterculture posturing that surrounds him: while Jenny chases liberation and finds destruction, Forrest stays loyal, keeps his word, and builds something real. The +14 TRAD score reflects a film that treats sincerity as strength rather than naivety. Critics called it sentimental and conservative audiences made it one of the decade's most beloved films. Both observations are accurate. The film is openly, unashamedly traditional, and it is correct about everything it asserts.</p>
+      <p><a href="/reviews/forrest-gump-1994/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Forrest Gump</a></p>
+
+      <hr>
+
+      <h2>#16: <a href="/reviews/terminator-2-judgment-day-1991/">Terminator 2: Judgment Day (1991)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Sci-Fi / Thriller &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>James Cameron's sequel earns its +14 TRAD score through John Connor's relationship with the Terminator as surrogate father figure, the film's treatment of sacrifice as the highest possible act, and its endorsement of human dignity over machine efficiency. The T-800's final descent into the molten steel is the film's traditional thesis statement: a machine has learned what it means to choose death for the sake of others, which is the definition of genuine sacrifice. The anti-nuclear subtext adds progressive texture but does not undermine the film's central moral framework, which is about protecting the innocent at cost to oneself.</p>
+      <p><a href="/reviews/terminator-2-judgment-day-1991/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Terminator 2: Judgment Day</a></p>
+
+      <hr>
+
+      <h2>#17: <a href="/reviews/silence-of-the-lambs-1991/">The Silence of the Lambs (1991)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Thriller / Crime / Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Jonathan Demme's Oscar-winning serial killer procedural earns a +15 TRAD score through Clarice Starling's moral clarity, professional duty, and refusal to be diminished by every male authority figure and predator she encounters in the film. Starling is not a progressive heroine constructed to make a political point; she is a traditional hero who earns her victories through competence, courage, and moral commitment. The film treats law enforcement and the protection of innocent life as genuinely important work. Hannibal Lecter's intellectual menace is a foil designed to test Clarice's values and she passes every test without compromising what she is.</p>
+      <p><a href="/reviews/silence-of-the-lambs-1991/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Silence of the Lambs</a></p>
+
+      <hr>
+
+      <h2>#18: <a href="/reviews/the-wedding-singer-1998/">The Wedding Singer (1998)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Romantic Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Two good people fall in love in 1985 New Jersey in the most traditionally romantic film in Adam Sandler's catalog. The +15 TRAD score comes from a film that genuinely believes in marriage, fidelity, and the idea that the right person is worth finding even when the search is painful. Robbie Hart's heartbreak at the film's opening is treated as real grief, not plot mechanics. His recovery is not personal growth as self-actualization but rather the discovery of someone actually worth loving and committing to. The Wedding Singer makes the case for romantic permanence without irony or qualification, which makes it one of the most quietly traditional blockbusters the decade produced.</p>
+      <p><a href="/reviews/the-wedding-singer-1998/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Wedding Singer</a></p>
+
+      <hr>
+
+      <h2>#19: <a href="/reviews/braveheart-1995/">Braveheart (1995)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Drama / History &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Mel Gibson's Oscar-winning epic earns a +16 TRAD score for its unqualified celebration of freedom, sacrifice, and the individual's willingness to die for something larger than himself. William Wallace's cause is not rendered with historical precision but with emotional truth: the film argues that some things are worth dying for, that freedom and dignity are not negotiable, and that the man who chooses comfortable compromise over principled resistance is not living at all. Gibson's direction deploys violence not as spectacle but as consequence, making the cost of resistance viscerally real. Historically loose but emotionally true, as the VirtueVigil review notes. One of the most unapologetically traditional blockbusters of the 1990s.</p>
+      <p><a href="/reviews/braveheart-1995/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Braveheart</a></p>
+
+      <hr>
+
+      <h2>#20: <a href="/reviews/tombstone-1993/">Tombstone (1993)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Western / Action / Biography &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>George Pan Cosmatos's Western earns a +16 TRAD score through its treatment of masculine brotherhood, lawful authority, and the duty of capable men to stand against organized evil regardless of personal cost. Wyatt Earp returns from retirement not out of ambition but because the Cowboys have murdered his brother and threatened his family. Doc Holliday's loyalty to Wyatt, maintained even as tuberculosis kills him, is the film's deepest traditional argument: some friendships are worth dying for, and a man who has earned that friendship does not abandon it when it becomes inconvenient. Val Kilmer's Doc Holliday is one of the decade's finest performances and one of its most traditionally coded characters.</p>
+      <p><a href="/reviews/tombstone-1993/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Tombstone</a></p>
+
+      <hr>
+
+      <h2>#21: <a href="/reviews/schindlers-list-1993/">Schindler's List (1993)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Historical Drama &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>A war profiteer becomes the salvation of 1,200 people through individual moral courage in the film Hollywood, as VirtueVigil notes, could not make today. The +18 TRAD score reflects a film built entirely on the premise that individual moral responsibility to protect the innocent supersedes every institutional, economic, and political consideration. Schindler does not save the Jews of Krakow because of progressive politics; he saves them because he has looked at them as human beings and cannot look away. Oskar Schindler's breakdown at the film's end, weeping over what more he could have done, is the most traditional possible conclusion: the man who acted heroically measuring himself against what remained undone.</p>
+      <p><a href="/reviews/schindlers-list-1993/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Schindler's List</a></p>
+
+      <hr>
+
+      <h2>#22: <a href="/reviews/the-lion-king-1994/">The Lion King (1994)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +24 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated / Drama / Musical &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Disney's most traditionally scored film by a wide margin earns its +24 TRAD designation through an argument that is as old as civilization: a son has a duty to accept the responsibilities he was born to carry, and his refusal to accept them has consequences for everyone who depends on him. The Pride Lands' collapse under Scar's illegitimate rule is the film's political argument in miniature: rightful authority matters, abdication of duty is not peace but abandonment, and Hakuna Matata is a lie that must eventually be rejected. The film does not let Simba get away with his comfortable exile. It demands he return, accept responsibility, and lead. That is Disney's most traditional film by far.</p>
+      <p><a href="/reviews/the-lion-king-1994/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Lion King</a></p>
+
+      <hr>
+
+      <h2>#23 (Most Traditional): <a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +28 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / War &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The greatest war film ever made about American soldiers earns the highest traditional score of any 1990s film in the VirtueVigil database. Spielberg's Omaha Beach sequence makes you understand, at a physical level, what the men of the Greatest Generation endured on June 6, 1944, and the film never fully lets you back out of that understanding. Captain Miller's dying words, "Earn it," are the decade's most traditional statement: the debt incurred by sacrifice can never be repaid, only honored through a life worthy of what it cost. The final scene, an aged James Ryan asking his wife if he has been a good man, passes that question to the viewer. It does not answer. It leaves the obligation with you, which is exactly what the greatest traditional cinema does.</p>
+      <p><a href="/reviews/saving-private-ryan-1998/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Saving Private Ryan</a></p>
+
+      <hr>
+
+      <h2>The Full 1990s Picture</h2>
+      <p>Twenty-three films. A decade that built the most beloved cinema library in American pop culture memory. The distribution: 4 WOKE LEAN films, 5 TRADITIONAL LEAN films, 12 TRADITIONAL films, and 2 STRONGLY TRADITIONAL films. The 1990s were not a woke decade. They were a decade when traditional filmmaking values, masculine competence, sacrifice, loyalty, earned love, and genuine consequence, produced some of the most commercially and artistically successful films in history. The films people are still rewatching thirty years later are almost uniformly the traditional ones.</p>
+
+      <p>Browse the full <a href="/reviews/">VirtueVigil review archive</a> for every scored film by decade, genre, and values profile. For other decade rankings, see <a href="/lists/movies-2000s-woke-ranking/">Every 2000s Movie Ranked</a> and <a href="/lists/movies-2010s-woke-ranking/">Every 2010s Movie Ranked</a>. For the annual comprehensive rankings, see <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked</a> and <a href="/lists/movies-2023-woke-ranking/">Every 2023 Movie Ranked</a>.</p>
 
     </article>`
   }));
