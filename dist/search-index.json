@@ -6048,6 +6048,18 @@
     "poster": "/images/posters/avengers-age-of-ultron-2015.jpg"
   },
   {
+    "slug": "ghostbusters-1984",
+    "title": "Ghostbusters",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Comedy / Fantasy / Action",
+    "year": 1984,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 19.18,
+    "poster": "/images/posters/ghostbusters-1984.jpg"
+  },
+  {
     "slug": "elvis-2022",
     "title": "Elvis",
     "verdict": "TRADITIONAL LEAN",
