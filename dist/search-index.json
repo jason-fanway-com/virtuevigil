@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "avengers-age-of-ultron-2015",
+    "title": "Avengers: Age of Ultron",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Sci-Fi / Superhero",
+    "year": 2015,
+    "type": "film",
+    "wokeScore": 3.85,
+    "tradScore": 18.34,
+    "poster": "/images/posters/avengers-age-of-ultron-2015.jpg"
+  },
+  {
     "slug": "elvis-2022",
     "title": "Elvis",
     "verdict": "TRADITIONAL LEAN",
