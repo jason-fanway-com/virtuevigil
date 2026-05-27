@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/ghostbusters-1984.jpg"
   },
   {
+    "slug": "the-first-omen-2024",
+    "title": "The First Omen",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror / Supernatural Thriller",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 15.32,
+    "tradScore": 7.88,
+    "poster": "/images/posters/the-first-omen-2024.jpg"
+  },
+  {
     "slug": "elvis-2022",
     "title": "Elvis",
     "verdict": "TRADITIONAL LEAN",
