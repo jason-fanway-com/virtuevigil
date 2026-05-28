@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/fantastic-four-first-steps-2025.jpg"
   },
   {
+    "slug": "mortal-kombat-2-2026",
+    "title": "Mortal Kombat 2",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Martial Arts / Fantasy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.2,
+    "tradScore": 17.78,
+    "poster": "/images/posters/mk2poster2026.jpg"
+  },
+  {
     "slug": "avengers-age-of-ultron-2015",
     "title": "Avengers: Age of Ultron",
     "verdict": "TRADITIONAL",
