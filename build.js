@@ -9628,6 +9628,7 @@ buildHollywoodAntiAmericanMoviesListicle();
 buildChristopherNolanMoviesRankedListicle();
 buildMostWokeMovies2024CompleteListicle();
 buildAudienceVsCriticScoresListicle();
+buildPre1990WokeRankingListicle();
 
 module.exports = { buildListiclePage, writePage };
 
@@ -27718,6 +27719,105 @@ function buildThrillerMovies2025WokeRankingListicle() {
 
     </article>`
   }));
+
+function buildPre1990WokeRankingListicle() {
+  writePage('lists/movies-pre-1990-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-pre-1990-woke-ranking',
+    title: 'Every Classic Hollywood Film Ranked by Woke Score (Pre-1990)',
+    description: 'All 10 VirtueVigil-reviewed pre-1990 films ranked from most traditional to least. The Godfather, Rocky, Raiders, E.T., Ghostbusters, Die Hard, and more.',
+    canonicalPath: 'lists/movies-pre-1990-woke-ranking',
+    publishDate: '2026-05-28',
+    htmlContent: `<article class="listicle-article">
+      <p>Before the ideological drift, before the DEI mandates, before every blockbuster came packaged with a lesson, Hollywood made films that simply told great stories. The pre-1990 era produced some of the most beloved movies in American history, and almost none of them carry the progressive messaging that defines contemporary releases.</p>
+
+      <p>VirtueVigil has now reviewed all 10 major films from before 1990 in our database. The verdict is nearly unanimous: classical Hollywood was not building ideological content into its blockbusters. These films were made to entertain and tell human stories. They succeeded at both.</p>
+
+      <p>The rankings below run from #1 (most traditionally aligned) to #10. Every film earns either TRADITIONAL or STRONGLY TRADITIONAL. Not one crossed into woke territory. Scores reflect VirtueVigil's dual-axis system: higher margins mean stronger traditional alignment.</p>
+
+      <hr>
+
+      <h2>#1 - Hoosiers (1986)</h2>
+      <p><strong>Score Margin:</strong> +32 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Drama / Sports</p>
+      <p>The highest-scoring pre-1990 film in the VirtueVigil database. Coach Norman Dale arrives in Hickory under a cloud, earns nothing he does not deserve, and builds a championship team through discipline and refusal to lower his standards. Gene Hackman plays him as a man carrying real weight who earns genuine respect through results. Dennis Hopper earned his only Oscar nomination as Shooter Flatch, the town alcoholic whose recovery arc is handled with more dignity than almost any addiction depiction in American cinema. Masculine accountability, community cohesion, hard work, mentorship, faith in the background. Forty years old and it scores +32.</p>
+      <p><a href="/reviews/hoosiers-1986/">Read the full VirtueVigil review of Hoosiers</a></p>
+
+      <hr>
+
+      <h2>#2 - Rocky (1976)</h2>
+      <p><strong>Score Margin:</strong> +28 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Drama / Sports</p>
+      <p>Stallone wrote himself a part when broke and unknown, turned down $350,000 rather than sell the script without the acting role, and made a film that grossed $225 million and won Best Picture. Rocky Balboa is not trying to beat Apollo Creed. He is trying to go the distance, to prove to himself he is not just another bum from the neighborhood. That distinction between proving yourself to yourself versus performing for external approval is the film's entire moral argument. The devoted love story with Adrian, mentorship by Mickey, working-class Italian-American pride, and the unironic training montage make this the gold standard for traditional sports cinema.</p>
+      <p><a href="/reviews/rocky-1976/">Read the full VirtueVigil review of Rocky</a></p>
+
+      <hr>
+
+      <h2>#3 - Raiders of the Lost Ark (1981)</h2>
+      <p><strong>Score Margin:</strong> +22 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Action / Adventure</p>
+      <p>Spielberg and Lucas built Raiders as a love letter to 1930s adventure serials, producing one of the most morally clear action films ever made. Indiana Jones is defined entirely by what he does. The film's moral architecture is pre-modern in the best sense: the Nazis want the Ark for power, they are destroyed by it, Indy refuses to weaponize the sacred and survives. Harrison Ford's Indy is a physically capable, multi-talented American man who acts first. Karen Allen's Marion is tough, independent, and unmistakably feminine. The only progressive notes are genre conventions that don't disrupt a +22 TRAD film celebrating competence, courage, and reverence for the sacred.</p>
+      <p><a href="/reviews/raiders-of-the-lost-ark-1981/">Read the full VirtueVigil review of Raiders of the Lost Ark</a></p>
+
+      <hr>
+
+      <h2>#4 - The Godfather (1972)</h2>
+      <p><strong>Score Margin:</strong> +21 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Crime / Drama</p>
+      <p>The Godfather is not about crime. It is about family, and what happens when the values holding a family together begin to corrupt. Vito Corleone operates by a genuine code: family above everything, restraint before force, respect earned and demanded. Michael inherits his father's position without his father's wisdom. The tragedy is that Michael descends step by step into pure power-seeking while losing what the power was supposed to protect. Every man who violates the code faces destruction. The moral framework is exact. Conservative adults dismissing The Godfather as crime drama are missing one of the most explicitly traditional films in the American canon.</p>
+      <p><a href="/reviews/the-godfather-1972/">Read the full VirtueVigil review of The Godfather</a></p>
+
+      <hr>
+
+      <h2>#5 - E.T. the Extra-Terrestrial (1982)</h2>
+      <p><strong>Score Margin:</strong> +20 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Science Fiction / Family</p>
+      <p>E.T. is a masterpiece and a deeply traditional film about a fractured family healed by shared loyalty and sacrifice. Elliott's father left. His mother is overwhelmed. E.T.'s arrival gives the family a shared mission that repairs what the divorce broke. The film treats the absent father as a wound rather than an emancipation. Elliott's refusal to betray E.T. is moral courage: a scared kid doing what is right because he loves someone. The spiritual undertones, E.T.'s death and return, are deliberately built into the structure. The final departure is framed as love that persists beyond physical separation, the oldest traditional understanding of grief.</p>
+      <p><a href="/reviews/et-the-extra-terrestrial-1982/">Read the full VirtueVigil review of E.T. the Extra-Terrestrial</a></p>
+
+      <hr>
+
+      <h2>#6 - Ghostbusters (1984)</h2>
+      <p><strong>Score Margin:</strong> +19 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Comedy / Fantasy / Action</p>
+      <p>The most libertarian blockbuster of the 1980s, and it is not close. Three academics get fired, start a private business, and save New York from supernatural destruction. Government bureaucrat Walter Peck shuts down their containment unit against explicit warnings, causes the catastrophe, then tries to blame them. The mayor removes him and lets the competent men handle it. Male entrepreneurship over credentialism. Private competence over institutional authority. The film's woke score is 0.35, the lowest of any major Hollywood release in the database. Aykroyd and Ramis wrote what they believed, and what they believed was thoroughly traditional.</p>
+      <p><a href="/reviews/ghostbusters-1984/">Read the full VirtueVigil review of Ghostbusters</a></p>
+
+      <hr>
+
+      <h2>#7 - Top Gun (1986)</h2>
+      <p><strong>Score Margin:</strong> +17 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Action / Drama</p>
+      <p>Top Gun is 1986 in a bottle: a film that does not apologize for what it is. Naval aviators compete fiercely, grieve deeply, and fly into the real fight when it comes. The Navy set up recruiting tables in theater lobbies. Naval aviator applications went up approximately 500 percent after release. Val Kilmer's Iceman is correct about Maverick in every scene they share. Goose's death is earned. The relationship between Maverick and Charlie is traditional courtship executed cleanly.</p>
+      <p><a href="/reviews/top-gun-1986/">Read the full VirtueVigil review of Top Gun</a></p>
+
+      <hr>
+
+      <h2>#8 - Back to the Future (1985)</h2>
+      <p><strong>Score Margin:</strong> +17 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Adventure / Comedy / Sci-Fi</p>
+      <p>The most quietly conservative film of the 1980s. The entire premise is a moral argument: everything wrong with Marty's 1985 family traces to his father's failure to stand up to a bully thirty years earlier. One punch at the Enchantment Under the Sea dance is the film's true climax. The DeLorean is the delivery mechanism. The father-son redemption is the point. The restored 1985 is what a strong father produces, presented causally and without apology.</p>
+      <p><a href="/reviews/back-to-the-future-1985/">Read the full VirtueVigil review of Back to the Future</a></p>
+
+      <hr>
+
+      <h2>#9 - Jaws (1975)</h2>
+      <p><strong>Score Margin:</strong> +15 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Thriller</p>
+      <p>Fifty years later, Jaws is still the template for a certain kind of American story: a man comes to a community, finds it threatened, and risks everything to protect it. Three actual men with distinct personalities, histories, and fears. Their friction, mutual testing, and eventual unity is traditional masculinity in action. The corrupt mayor prioritizing tourism money over lives is a conservative critique of civic cowardice. Quint's Indianapolis monologue honors military sacrifice with specificity and weight. When Brody kills the shark, it is not a metaphor. It is a man defending his town.</p>
+      <p><a href="/reviews/jaws-1975/">Read the full VirtueVigil review of Jaws</a></p>
+
+      <hr>
+
+      <h2>#10 - Die Hard (1988)</h2>
+      <p><strong>Score Margin:</strong> +13 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Action / Thriller</p>
+      <p>John McClane flew to Los Angeles to patch up his marriage. That is the entire reason he is in Nakatomi Plaza on Christmas Eve. A man out of his element, in bare feet, fighting twelve German thieves because he loves his wife. Every institutional resource fails. Only one stubborn New York cop improves the situation. Holly taking off the Nakatomi Rolex and identifying herself as Holly McClane is five seconds with no music swell. A marriage working itself out under fire. Die Hard's deeply traditional values run clean for 132 minutes.</p>
+      <p><a href="/reviews/die-hard-1988/">Read the full VirtueVigil review of Die Hard</a></p>
+
+      <hr>
+
+      <h2>The Pre-1990 Verdict</h2>
+      <p>Ten films. Ten traditional verdicts. Not one crossed into woke territory. The average score margin is approximately +20 TRAD. Six earn STRONGLY TRADITIONAL verdicts. These films are the baseline: what mainstream American cinema looked like before the ideological drift. Every film is reviewed in full on VirtueVigil with complete trope-by-trope breakdowns, creative team analysis, parental guidance, and scoring detail.</p>
+
+      <p>Browse hundreds more reviews at <a href="/">VirtueVigil</a>. For the 1990s companion, see <a href="/lists/movies-1990s-woke-ranking/">Every 1990s Movie Ranked</a>. For the 2000s, see <a href="/lists/movies-2000s-woke-ranking/">Every 2000s Movie Ranked</a>.</p>
+
+      <hr>
+
+      <h2>Methodology Note</h2>
+      <p>All scores use the VirtueVigil Woke Score system. Does not measure quality or entertainment value. Full details at our <a href="/methodology.html">Methodology</a> page.</p>
+    </article>`
+  }));
+}
 
 } // close buildSite async wrapper
 
