@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/batman-v-superman-2016.jpg"
   },
   {
+    "slug": "zack-snyders-justice-league-2021",
+    "title": "Zack Snyder's Justice League",
+    "verdict": "TRADITIONAL",
+    "platform": "HBO Max",
+    "genre": "Action / Adventure / Superhero",
+    "year": 2021,
+    "type": "film",
+    "wokeScore": 5.8,
+    "tradScore": 23.52,
+    "poster": "/images/posters/zack-snyders-justice-league-2021.jpg"
+  },
+  {
     "slug": "mission-impossible-the-final-reckoning-2026",
     "title": "Mission: Impossible - The Final Reckoning",
     "verdict": "STRONGLY TRADITIONAL",
