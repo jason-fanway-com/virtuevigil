@@ -1935,6 +1935,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-2000s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2010s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-1990s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-masculinity/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
@@ -2898,6 +2899,7 @@ function buildListsHubPage() {
         'movies-2000s-woke-ranking',
         'movies-2010s-woke-ranking',
         'movies-1990s-woke-ranking',
+        'movies-2016-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
       ]
@@ -2982,7 +2984,8 @@ function buildListsHubPage() {
       'movies-2017-woke-ranking': 'Every 2017 Movie Ranked by Woke Score',
       'movies-2000s-woke-ranking': 'Every 2000s Movie Ranked by Woke Score',
       'movies-2010s-woke-ranking': 'Every 2010s Movie Ranked by Woke Score',
-      'movies-1990s-woke-ranking': 'Every 1990s Movie Ranked by Woke Score'
+      'movies-1990s-woke-ranking': 'Every 1990s Movie Ranked by Woke Score',
+      'movies-2016-woke-ranking': 'Every 2016 Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -27810,6 +27813,143 @@ function buildPre1990WokeRankingListicle() {
       <p>Ten films. Ten traditional verdicts. Not one crossed into woke territory. The average score margin is approximately +20 TRAD. Six earn STRONGLY TRADITIONAL verdicts. These films are the baseline: what mainstream American cinema looked like before the ideological drift. Every film is reviewed in full on VirtueVigil with complete trope-by-trope breakdowns, creative team analysis, parental guidance, and scoring detail.</p>
 
       <p>Browse hundreds more reviews at <a href="/">VirtueVigil</a>. For the 1990s companion, see <a href="/lists/movies-1990s-woke-ranking/">Every 1990s Movie Ranked</a>. For the 2000s, see <a href="/lists/movies-2000s-woke-ranking/">Every 2000s Movie Ranked</a>.</p>
+
+      <hr>
+
+      <h2>Methodology Note</h2>
+      <p>All scores use the VirtueVigil Woke Score system. Does not measure quality or entertainment value. Full details at our <a href="/methodology.html">Methodology</a> page.</p>
+    </article>`
+  }));
+
+  console.log('  lists/movies-2016-woke-ranking/index.html');
+  writePage('lists/movies-2016-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-2016-woke-ranking',
+    title: 'Every 2016 Movie Ranked by Woke Score',
+    description: 'All 10 reviewed 2016 films ranked from most traditional to most woke. Hacksaw Ridge, Risen, The Accountant, Civil War, Batman v Superman, Moana, La La Land, Deadpool, and Zootopia scored.',
+    canonicalPath: 'lists/movies-2016-woke-ranking',
+    publishDate: '2026-05-29',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2016 was the last year the MCU, DC, and a handful of faith-based productions quietly dominated the box office without the ideological white noise that would define the following decade. VirtueVigil has now scored all 10 major 2016 theatrical releases in our database, applying the full dual-scoring methodology: Woke Score for progressive ideological content, Traditional Score for duty, sacrifice, family loyalty, patriotism, and earned competence.</p>
+
+      <p>The results are striking. Nine of ten films land at MIXED or better. Only Zootopia crosses into negative territory, and even that film is more ideologically complex than its reputation suggests. 2016 was, by the numbers, one of the most traditionally coded mainstream release years VirtueVigil has scored. Ranked below from most traditional to most woke. Every film links to the full review.</p>
+
+      <hr>
+
+      <h2>#1 (Most Traditional): <a href="/reviews/risen-2016/">Risen (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +27 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biblical Drama / Historical Epic &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The highest traditional score of any 2016 film VirtueVigil has reviewed. Risen follows a Roman tribune investigating the disappearance of Jesus's body after the crucifixion and arriving at a faith he cannot explain away. The +27 TRAD margin reflects a film built entirely around the reality of Christ's resurrection, treated not as metaphor or sentiment but as a historical event that destroys a skeptic's worldview. No woke content. No progressive messaging. The most unapologetically Christian film in our 2016 database.</p>
+      <p><a href="/reviews/risen-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Risen</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +19 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> War / Biography &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Mel Gibson's true-story war film about Desmond Doss, the first conscientious objector to receive the Medal of Honor, is one of the most faith-driven mainstream films Hollywood has produced in a generation. Andrew Garfield plays Doss's Seventh-day Adventist conviction as a religious covenant, not a political stance, and Gibson treats that faith with complete seriousness. The old-fashioned courtship, the voluntary military service, the father-son arc of damaged masculinity seeking redemption: every element stacks toward the +19 TRAD score. The battle sequences are among the most intense ever filmed. The faith underneath them is the reason they matter.</p>
+      <p><a href="/reviews/hacksaw-ridge-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Hacksaw Ridge</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/the-accountant-2016/">The Accountant (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +17 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller / Crime &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Critics gave The Accountant 52 percent on Rotten Tomatoes. Audiences gave it 86 percent. That 34-point gap is ideological. The film presents an autistic man raised by a strict military father who becomes the most competent person in every room he enters: a mathematician, a forensic accountant, and a trained sniper. The +17 TRAD score reflects masculine self-reliance, military formation as strength, and disability as capability rather than victim narrative. Critics did not know what to do with a film that validated harsh parental discipline and autonomous male competence without irony. Audiences did. Now watch it before The Accountant 2 to understand who Christian Wolff actually is.</p>
+      <p><a href="/reviews/the-accountant-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Accountant</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/doctor-strange-2016/">Doctor Strange (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Fantasy &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The only MCU film directed by an openly Christian filmmaker, and it shows. Scott Derrickson brought his horror-and-theology background to Strange's origin story, giving the film a genuine investment in the idea that materialism is insufficient, that evil exists, and that self-sacrifice for others is the highest virtue. The ego-to-humility arc is the entire movie, not a subplot, and it lands because Derrickson treats it with moral seriousness. The +9 TRAD score is held back only by the Ancient One casting controversy, replacing a Tibetan male character with a white British woman. The ideological content otherwise is the most traditional in the MCU's Phase Two.</p>
+      <p><a href="/reviews/doctor-strange-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Doctor Strange</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/captain-america-civil-war-2016/">Captain America: Civil War (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +8 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action Drama &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The MCU's most politically sophisticated film makes an argument that cuts against the studio's progressive grain: individual conscience guided by proven moral character is more reliable than collective authority. Steve Rogers does not capitulate to the Sokovia Accords. He does not surrender Bucky Barnes. He is right on both counts, and the film knows it. The Sokovia Accords framework fails. The surveillance state is weaponized against those who trusted it. T'Challa's arc from vengeance to justice is the most classically traditional character beat in the franchise. The +8 TRAD score reflects a Russo Brothers film that still believed in moral clarity before Phase Four made ambiguity mandatory.</p>
+      <p><a href="/reviews/captain-america-civil-war-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Captain America: Civil War</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/batman-v-superman-2016/">Batman v Superman: Dawn of Justice (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Adventure &bull; <strong>Platform:</strong> Theatrical / HBO Max</p>
+      <p>Zack Snyder's DCEU is many things, but it is not progressive. Batman v Superman opens with Thomas Wayne's murder and never lets you forget that the film is about what grief does to men who were formed for greatness. Bruce Wayne's corruption, his branding of criminals, his willingness to act as judge and jury, is explicitly framed as moral failure, not as acceptable vigilante logic. Superman's death is the film's traditional summit: a man choosing to die for people who doubted whether he deserved to exist. The +4 TRAD score sits in TRADITIONAL LEAN territory. The deconstructionist framing and the government oversight debate keep it from climbing higher. The messianic ending keeps it from falling lower.</p>
+      <p><a href="/reviews/batman-v-superman-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Batman v Superman</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/moana-2016/">Moana (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +3 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Musical Adventure &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>More traditional than its marketing suggests. Moana sails not for personal liberation but to save her people from a dying island, and the film never lets her forget the difference. The father-daughter conflict resolves into mutual understanding rather than the daughter simply winning. The intergenerational continuity arc, revealing that her people were always wayfinders who lost their way, is the film's most traditionally coded beat. The +3 TRAD score reflects real tension between the feminist protagonist framing and the community-first moral architecture. Compared to Frozen, Brave, or The Little Mermaid, Moana is the most honest Disney princess film about what it actually costs to defy the people who raised you.</p>
+      <p><a href="/reviews/moana-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Moana</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/la-la-land-2016/">La La Land (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Musical / Romantic Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The Oscar darling with 14 nominations lands in MIXED territory on the VirtueVigil scale. Damien Chazelle does not moralize: he just shows you what choosing career over love costs, and lets you decide whether it was worth it. Sebastian's jazz purism, his refusal to compromise his artistic convictions even when they cost him everything, is the most traditionally coded element. The love story is treated with real weight. But the film declines to frame Mia's choice as a mistake, and that neutrality on whether career self-actualization is a valid substitute for building a family is the film's central woke-adjacent signal. A genuinely beautiful film sitting precisely at the center of the ideological scale.</p>
+      <p><a href="/reviews/la-la-land-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of La La Land</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/deadpool-2016/">Deadpool (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +2 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action Comedy &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Underneath the profanity, dismemberment, and sustained R-rated content is a love story about a man trying to get back to his woman. Wade Wilson does not pursue Ajax out of ideology or justice. He pursues him to destroy the threat to the relationship he can't let go of. That motivation is the oldest in storytelling, and the film takes it seriously even when it takes nothing else seriously. The MIXED score reflects a film where the core emotional drive is genuinely traditional and everything surrounding it is relentlessly not: explicit sexual content, antihero violence as entertainment, postmodern meta-deconstruction. Not for children. Not for anyone who needs their heroes to have a code. But for what it is, it knows exactly what it is.</p>
+      <p><a href="/reviews/deadpool-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Deadpool</a></p>
+
+      <hr>
+
+      <h2>#10 (Most Woke): <a href="/reviews/zootopia-2016/">Zootopia (2016)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -9 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Comedy / Mystery &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The most technically polished Disney film in years is also its most explicitly ideological. The predator/prey dynamic is not background color: the filmmakers confirmed it was designed as a systemic racism allegory, and it functions as one from the opening scene. Chief Bogo's institutional bias, Judy's own complicity in the prejudice she's fighting, the conspiracy involving the powerful manufacturing fear of the minority, and the film's consistent framing of problems as structural rather than individual: this is a graduate seminar on intersectionality animated for six-year-olds. The -9 WOKE score is the only negative margin in the 2016 dataset. The craft is extraordinary. The ideology is explicit. Know what you're walking into.</p>
+      <p><a href="/reviews/zootopia-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Zootopia</a></p>
+
+      <hr>
+
+      <h2>The 2016 Verdict</h2>
+      <p>Ten films. Nine at MIXED or better. Only one crosses into woke territory, and even that film has more traditional content than most progressives would admit. The average score margin across the 2016 dataset is approximately +8 TRAD. 2016 now sits as one of the most traditionally aligned mainstream years in VirtueVigil's retrospective annual rankings, outscoring every year we have comprehensively reviewed between 2017 and 2025.</p>
+
+      <p>Browse the full <a href="/reviews/">VirtueVigil review archive</a>. For other retrospective annual rankings, see <a href="/lists/movies-2017-woke-ranking/">Every 2017 Movie Ranked</a>, <a href="/lists/movies-2019-woke-ranking/">Every 2019 Movie Ranked</a>, <a href="/lists/movies-2021-woke-ranking/">Every 2021 Movie Ranked</a>, <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked</a>, and <a href="/lists/movies-2023-woke-ranking/">Every 2023 Movie Ranked</a>. For decade rankings, see <a href="/lists/movies-2010s-woke-ranking/">Every 2010s Movie Ranked</a> and <a href="/lists/movies-2000s-woke-ranking/">Every 2000s Movie Ranked</a>.</p>
 
       <hr>
 
