@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/a-star-is-born-2018.jpg"
   },
   {
+    "slug": "ready-player-one-2018",
+    "title": "Ready Player One",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Science Fiction / Action / Adventure",
+    "year": 2018,
+    "type": "film",
+    "wokeScore": 9.28,
+    "tradScore": 18.9,
+    "poster": "/images/posters/ready-player-one-2018.jpg"
+  },
+  {
     "slug": "man-of-steel-2013",
     "title": "Man of Steel",
     "verdict": "STRONGLY TRADITIONAL",
