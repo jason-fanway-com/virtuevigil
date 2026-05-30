@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "john-wick-chapter-3-parabellum-2019",
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Thriller",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 6.1,
+    "tradScore": 22.54,
+    "poster": "/images/posters/john-wick-chapter-3-parabellum-2019.jpg"
+  },
+  {
     "slug": "man-of-steel-2013",
     "title": "Man of Steel",
     "verdict": "STRONGLY TRADITIONAL",
