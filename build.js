@@ -1937,6 +1937,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-1990s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-masculinity/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
   ];
@@ -2897,6 +2898,7 @@ function buildListsHubPage() {
         'movies-2021-woke-ranking',
         'movies-2019-woke-ranking',
         'movies-2017-woke-ranking',
+        'movies-2018-woke-ranking',
         'movies-2000s-woke-ranking',
         'movies-2010s-woke-ranking',
         'movies-1990s-woke-ranking',
@@ -2983,6 +2985,7 @@ function buildListsHubPage() {
       'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score',
       'movies-2019-woke-ranking': 'Every 2019 Movie Ranked by Woke Score',
       'movies-2017-woke-ranking': 'Every 2017 Movie Ranked by Woke Score',
+      'movies-2018-woke-ranking': 'Every 2018 Movie Ranked by Woke Score',
       'movies-2000s-woke-ranking': 'Every 2000s Movie Ranked by Woke Score',
       'movies-2010s-woke-ranking': 'Every 2010s Movie Ranked by Woke Score',
       'movies-1990s-woke-ranking': 'Every 1990s Movie Ranked by Woke Score',
@@ -29384,6 +29387,110 @@ function buildPre1990WokeRankingListicle() {
       <p>All scores use the VirtueVigil Woke Score system. Scores do not measure quality or entertainment value. Full details at our <a href="/methodology.html">Methodology</a> page.</p>
     </article>`
   }));
+
+  writePage('lists/movies-2018-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-2018-woke-ranking',
+    title: 'Every 2018 Movie Ranked by Woke Score',
+    description: 'All 7 reviewed 2018 films ranked from most woke to most traditional. Black Panther, Avengers: Infinity War, Bohemian Rhapsody, A Star Is Born, Ready Player One, Hereditary, and Yellowstone.',
+    canonicalPath: 'lists/movies-2018-woke-ranking',
+    publishDate: '2026-05-31',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2018 was the year the MCU planted its cultural flag with two of its most ideologically charged releases and one of its most traditionally coded blockbusters. VirtueVigil reviewed and scored all 7 major 2018 theatrical and streaming releases, applying the dual-scoring methodology across every film. Woke Score measures progressive ideological content. Traditional Score measures duty, sacrifice, family loyalty, patriotism, and earned competence. The Score Margin is the difference between them.</p>
+
+      <p>The 2018 slate splits cleanly: Black Panther delivered the MCU's most culturally loaded film with scores that nearly cancel each other out, while Avengers: Infinity War and Yellowstone anchored the traditional end with some of the highest traditional scores VirtueVigil has recorded. Every film links to the full VirtueVigil review. Ranked from most woke to most traditional.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/black-panther-2018/">Black Panther (2018)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action / Adventure / Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The closest call of 2018. Black Panther tells a surprisingly traditional kingship story: T'Challa's duty to lead Wakanda, his reckoning with his father's sins, his defeat of Killmonger through moral superiority rather than raw force. But it wraps that story in heavy progressive packaging, including a colonialism and slavery critique as the film's central ideological engine and Afrofuturism as an identity celebration framework. The two sides of the scoring ledger nearly cancel each other out at +1 TRAD, making this the most ideologically contested film of 2018 and the most woke-leaning entry in the year's slate.</p>
+      <p><a href="/reviews/black-panther-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Panther</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/bohemian-rhapsody-2018/">Bohemian Rhapsody (2018)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Biographical Drama / Music &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>The Freddie Mercury biopic cannot ignore his bisexuality or his AIDS death, and it doesn't try to. But it frames his life primarily through the band's loyalty, his genius as a working musician who earned his success, and the tragedy of personal choices that led to early ruin. The found-family arc with Queen and Mercury's partial reconciliation with his estranged father push the traditional score. The film handles Mercury's sexuality with more restraint than most modern biopics would allow, which earned criticism from the progressive press and appreciation from everyone else.</p>
+      <p><a href="/reviews/bohemian-rhapsody-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Bohemian Rhapsody</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/a-star-is-born-2018/">A Star Is Born (2018)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Drama / Music / Romance &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Bradley Cooper's directorial debut is, at its core, a devastating love story built around sacrifice and commitment rather than empowerment. Jack Maine's arc ends in the ultimate act of love: he removes himself from Ally's life permanently to stop his own destruction from consuming hers. Marriage is treated with real weight and real stakes. The feminist-industry framing, a female artist succeeding in a male-dominated space and a male protagonist whose behavior is coded as destructive to his partner, holds the score below TRADITIONAL. But the film's emotional architecture is built on sacrifice and love, not on ideology.</p>
+      <p><a href="/reviews/a-star-is-born-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Star Is Born</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/ready-player-one-2018/">Ready Player One (2018)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Science Fiction / Action / Adventure &bull; <strong>Platform:</strong> Theatrical</p>
+      <p>Spielberg's nostalgia delivery mechanism is also a story about individual competence beating institutional power. Wade Watts wins because he is genuinely the best: he has mastered the Oasis through effort and obsession, not birthright or systemic advantage. Loyal friendships built on shared values drive every key plot turn. Corporate villainy is the antagonist, which pulls the score left, and a Black queer character is revealed behind a male avatar as a diversity note, but the film's resolution celebrates earned mastery and real community over collective identity politics.</p>
+      <p><a href="/reviews/ready-player-one-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ready Player One</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/hereditary-2018/">Hereditary (2018)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Supernatural &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Ari Aster's debut insists that evil is real, not metaphorical, not a trauma projection, not a symbol of systemic oppression. Paimon is a named demon from actual occult tradition, and he has been engineering the Graham family's destruction across generations. The horror is that a grandmother's demonic covenant destroyed her grandchildren before they were born. The film takes seriously the idea that one generation's choices impose inescapable consequences on the next, which is one of the most traditionally orthodox moral frameworks in cinema. The highest traditional score of any A24 horror film VirtueVigil has reviewed.</p>
+      <p><a href="/reviews/hereditary-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Hereditary</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/avengers-infinity-war-2018/">Avengers: Infinity War (2018)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>The MCU's best film is also its most traditionally weighted. Thanos argues that sacrificing half of all life is rational because resources are finite. The heroes refuse to apply that logic even when it would save them. Vision accepts death rather than compromise. Strange trades the Time Stone because he has seen the one winning path and trusts the sacrifice will be worth it. The film validates individual love and sacrifice over cold utilitarian calculation at every turn. Thanos wins by treating lives as expendable. The heroes lose because they refuse to. That is a conservative moral framework, and Infinity War commits to it completely.</p>
+      <p><a href="/reviews/avengers-infinity-war-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avengers: Infinity War</a></p>
+
+      <hr>
+
+      <h2>#7 (Most Traditional): <a href="/reviews/yellowstone-2018/">Yellowstone (2018, TV Series)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +15 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Neo-Western Drama &bull; <strong>Platform:</strong> Paramount Network</p>
+      <p>The most culturally significant conservative television property of the 21st century premieres in 2018, and Taylor Sheridan's Montana epic earns the highest raw traditional score of any 2018 title VirtueVigil has reviewed. John Dutton's fight to preserve the family ranch against developers, politicians, and rival claimants is a story about land as sacred inheritance and loyalty over self-interest. Rip Wheeler embodies masculine virtue defined by action over words and protection over performance. The progressive elements are present: Beth's forced sterilization backstory and Chief Rainwater's legitimate Indigenous grievance narrative both register on the woke scale. But they never displace the show's traditional core. 12 million Americans watched because the show gave them something Hollywood almost never does: rural working people treated as protagonists of their own story.</p>
+      <p><a href="/reviews/yellowstone-2018/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Yellowstone</a></p>
+
+      <hr>
+
+      <h2>The 2018 Verdict</h2>
+      <p>Seven films. The average score margin across the 2018 dataset is approximately +10 TRAD, placing 2018 as a solidly traditionally coded year overall. But the headline number is Black Panther: the most culturally significant MCU film ever made scores +1 TRAD, nearly balanced, because it tells a traditional story inside progressive packaging. The rest of 2018's slate leans traditional without ambiguity. Avengers: Infinity War and Yellowstone anchor the top of the list with the strongest traditional values scores in the year's dataset.</p>
+
+      <p>Browse the full <a href="/reviews/">VirtueVigil review archive</a>. For companion annual rankings, see <a href="/lists/movies-2019-woke-ranking/">Every 2019 Movie Ranked</a>, <a href="/lists/movies-2017-woke-ranking/">Every 2017 Movie Ranked</a>, <a href="/lists/movies-2016-woke-ranking/">Every 2016 Movie Ranked</a>, <a href="/lists/movies-2021-woke-ranking/">Every 2021 Movie Ranked</a>, and <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked</a>.</p>
+
+      <hr>
+
+      <h2>Methodology Note</h2>
+      <p>All scores use the VirtueVigil dual-scoring system. Woke Score measures the density and intensity of progressive ideological content. Traditional Score measures duty, sacrifice, family loyalty, moral clarity, and earned competence. The Score Margin is the difference between the two. Scores do not measure quality or entertainment value. Full details at our <a href="/methodology.html">Methodology</a> page.</p>
+    </article>`
+  }));
+  console.log('  lists/movies-2018-woke-ranking/index.html');
 
 } // close buildSite async wrapper
 
