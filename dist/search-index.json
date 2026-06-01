@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/jurassic-world-2015.jpg"
   },
   {
+    "slug": "midsommar-2019",
+    "title": "Midsommar",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Horror / Drama",
+    "year": 2019,
+    "type": "film",
+    "wokeScore": 20.58,
+    "tradScore": 2.4,
+    "poster": "/images/posters/midsommar-2019.jpg"
+  },
+  {
     "slug": "drishyam-3-2026",
     "title": "Drishyam 3",
     "verdict": "TRADITIONAL",
