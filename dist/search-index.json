@@ -6048,6 +6048,18 @@
     "poster": "/images/posters/a-quiet-place-2018.jpg"
   },
   {
+    "slug": "jurassic-world-2015",
+    "title": "Jurassic World",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Adventure / Sci-Fi",
+    "year": 2015,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 15.33,
+    "poster": "/images/posters/jurassic-world-2015.jpg"
+  },
+  {
     "slug": "drishyam-3-2026",
     "title": "Drishyam 3",
     "verdict": "TRADITIONAL",
