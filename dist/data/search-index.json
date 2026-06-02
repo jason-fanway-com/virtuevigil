@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/daredevil-born-again-s1-2025.jpg"
   },
   {
+    "slug": "stranger-things-s5-2025",
+    "title": "Stranger Things Season 5",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Sci-Fi / Horror / Drama",
+    "year": 2025,
+    "type": "series",
+    "wokeScore": 10.66,
+    "tradScore": 18.48,
+    "poster": "/images/posters/stranger-things-s5-2025.jpg"
+  },
+  {
     "slug": "a-quiet-place-2018",
     "title": "A Quiet Place",
     "verdict": "STRONGLY TRADITIONAL",
