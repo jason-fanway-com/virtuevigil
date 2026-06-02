@@ -31140,6 +31140,226 @@ The short answer is no.</p>
   }));
 
 
+  writePage('lists/woke-trap-movies-complete/index.html', buildListiclePage({
+    slug: 'woke-trap-movies-complete',
+    title: '15 Biggest Woke Traps in Cinema: Films That Looked Safe',
+    description: 'VirtueVigil ranks the 15 biggest confirmed woke traps in cinema: films where the marketing hid the ideology until you were already seated. Scored data only.',
+    canonicalPath: 'lists/woke-trap-movies-complete',
+    publishDate: '2026-06-02',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>VirtueVigil has scored more than 630 films and series. Most of them wear their ideology openly. Barbie is not hiding anything. The Apprentice is not shy. You know what you are getting before the popcorn cools.</p>
+        <p>Woke traps are different. They are films where the marketing, the genre packaging, the cast, or the brand name creates a specific expectation that the film then betrays. You sit down for a gothic romance and receive Emerald Fennell's agenda. You sit down for a Vatican thriller and receive a two-hour argument that Catholicism is irredeemably patriarchal. You sit down for Beetlejuice and discover the film is actually about Gen Z resentment of their parents' values.</p>
+        <p>This list covers 15 confirmed woke traps from the VirtueVigil database, ranked from most ideologically severe to least. Every film here met the VVWS v1.1 trap criteria: a negative score margin combined with content that does not fully surface until past the film's midpoint. These are the cases where the bait-and-switch was real, documented, and scored. Use this list before you buy a ticket.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/conclave-2024/">Conclave (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+              <span class="score-badge">39 WOKE</span>
+            </div>
+            <p>Edward Berger's Oscar contender marketed itself as a gripping Vatican thriller about the secret process of choosing a new pope. The progressive agenda runs from frame one through the final twist, which reframes Catholic tradition as an oppressive patriarchal institution incompatible with modern morality. The marketing sold intrigue. The film delivers a sustained attack on institutional Christianity dressed in gorgeous cinematography. WokeScore 42.6, TradScore 3.85.</p>
+            <a href="/reviews/conclave-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/glass-onion-2022/">Glass Onion: A Knives Out Mystery (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+              <span class="score-badge">24 WOKE</span>
+            </div>
+            <p>Rian Johnson sold Glass Onion as an equal-opportunity satire targeting all flavors of elite hypocrisy, and the surface-level mockery of a charismatic tech billionaire plays that way through the first act. Johnson's sympathies turn out to be precise: the villain is coded as a right-leaning tech bro who spreads COVID misinformation, and the ideological targets are exclusively right-coded. The claim of balance was the trap. WokeScore 24, TradScore 0.</p>
+            <a href="/reviews/glass-onion-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hamlet-2026/">Hamlet (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+              <span class="score-badge">21 WOKE</span>
+            </div>
+            <p>The Shakespeare name sold the ticket. The first fifty minutes establish faithful tragedy structure that any classic literature fan will find welcoming. The film then pivots into a South Asian setting and class critique framework that recasts the Prince of Denmark as a vehicle for contemporary marginalization messaging not present in the source text. Viewers expecting a prestige adaptation encountered something else entirely past the midpoint. WokeScore 30.24, TradScore 8.96.</p>
+            <a href="/reviews/hamlet-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/dont-worry-darling-2022/">Don't Worry Darling (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+              <span class="score-badge">19 WOKE</span>
+            </div>
+            <p>Olivia Wilde promoted her film as a meditation on female pleasure and female gaze, which was technically true but strategically incomplete. The trailers sold lush 1950s visuals, Florence Pugh in silk dresses, and a sexy psychological mystery. Audiences received a progressive polemic targeting patriarchal domestic arrangements, with the perfect husband revealed as the architect of literal female imprisonment. The bait-and-switch was precise and deliberate. WokeScore 21.84, TradScore 2.7.</p>
+            <a href="/reviews/dont-worry-darling-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/clown-in-a-cornfield-2025/">Clown in a Cornfield (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">18 WOKE</span>
+            </div>
+            <p>Every element of the marketing positioned this as vintage slasher entertainment: killer clown, rural town, teens in peril. It delivers that for its first half. The reveal that arrives well past the midpoint is that Frendo is a coordinated murder campaign run by the town's conservative establishment, including the mayor, sheriff, school teacher, and business owners. The film's thesis, that traditional small-town America is the source of violence against progressive youth, is not visible until the trap is already set. WokeScore 23, TradScore 5.</p>
+            <a href="/reviews/clown-in-a-cornfield-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/a-different-man-2024/">A Different Man (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">12 WOKE</span>
+            </div>
+            <p>The marketing positioned this as a feel-good story about an isolated man gaining confidence after a medical procedure changes his appearance. Viewers expecting a romantic comedy about self-acceptance received a film that pivots in its final act into a revenge narrative where the protagonist's violence against a woman is framed as justified moral action. The trailer's warm tone had no relationship to the film's actual ideological destination. WokeScore 18.52, TradScore 6.3.</p>
+            <a href="/reviews/a-different-man-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/get-out-2017/">Get Out (2017)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">12 WOKE</span>
+            </div>
+            <p>Jordan Peele's debut opened as a conventional interracial-couple-meets-the-parents thriller accessible to any horror fan in its first thirty minutes. The film's true mechanism, literal Black body harvesting by wealthy white liberals, crystallizes around the 68-minute mark in a 104-minute film, well past the point where most audiences had fully committed. Get Out effectively invented the modern woke trap: use genre conventions to build investment before delivering the ideological payload. WokeScore 16, TradScore 4.</p>
+            <a href="/reviews/get-out-2017/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/wuthering-heights/">Wuthering Heights (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">WOKE</span>
+              <span class="score-badge">10 WOKE</span>
+            </div>
+            <p>The Bronte name, the gothic romance setting, and the casting of Margot Robbie and Jacob Elordi created marketing materials that looked like prestige literary adaptation. Emerald Fennell then filled the film with explicit BDSM content, a masturbation scene, and degradation sequences that have no basis in Emily Bronte's source novel. The trailer's gothic romance framing gave no indication of Fennell's actual agenda. Families and schools approached this adaptation with confidence they did not deserve to have. WokeScore 36, TradScore 26.</p>
+            <a href="/reviews/wuthering-heights/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-last-of-us-s2/">The Last of Us: Season 2 (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">8 WOKE</span>
+            </div>
+            <p>Season 1 earned enormous trust through grounded post-apocalyptic storytelling and some of the most emotionally earned beats in prestige television. Season 2 leverages that trust with an architecturally precise bait-and-switch: ideological reframing that would not have survived scrutiny if presented upfront is introduced only after the audience's loyalty was secured across an entire first season. This trap required years of setup to spring. WokeScore 8, TradScore 0.</p>
+            <a href="/reviews/the-last-of-us-s2/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/dune-part-two-2024/">Dune: Part Two (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">8 WOKE</span>
+            </div>
+            <p>The first hour of Denis Villeneuve's sequel delivers what the marketing promised: spectacular visuals, Hans Zimmer's score, and adventure on a grand scale. After the midpoint, the film pivots into an explicit anti-messiah argument where faith-based leadership is condemned as inherently dangerous and Paul Atreides transforms from hero to cautionary tale about religious nationalism. Conservative viewers who identified with Paul's journey found the rug pulled in the second half. WokeScore 19.36, TradScore 11.55.</p>
+            <a href="/reviews/dune-part-two-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-first-omen-2024/">The First Omen (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">7 WOKE</span>
+            </div>
+            <p>The Omen franchise carries decades of goodwill with horror audiences who remember the 1976 original. The First Omen opens as an atmospheric religious horror film in that tradition: a young American woman in Rome, something wrong with the convent, a classic mystery. The anti-Catholic conspiracy that fully reveals itself in the second half includes senior Church leadership actively facilitating the birth of the Antichrist to reassert patriarchal control. The first act does not telegraph where the film is going. WokeScore 15.32, TradScore 7.88.</p>
+            <a href="/reviews/the-first-omen-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">12</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/civil-war-2024/">Civil War (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">4 WOKE</span>
+            </div>
+            <p>Alex Garland's marketing strategy was explicit: this is an apolitical film that refuses to name the President's party or take sides. That claim brought in conservative audiences exhausted by preachy Hollywood. The film's underlying architecture is progressive throughout: press as heroic, government as tyrannical, and moral authority residing entirely in female journalists. The deliberate ambiguity of the Texas+California alliance was bait. The film's sympathies were never genuinely balanced. WokeScore 22, TradScore 18.</p>
+            <a href="/reviews/civil-war-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">13</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/beetlejuice-beetlejuice-2024/">Beetlejuice Beetlejuice (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">4 WOKE</span>
+            </div>
+            <p>Tim Burton's sequel marketing leaned entirely on 1988 nostalgia: Keaton is back, the sandworms are back, the practical effects are back. The marketing downplayed that the film's emotional center is a Gen Z daughter who resents her mother's entire worldview, a progressive reframing of the Deetz family dynamic where Charles Deetz is killed off-screen and Delia's feminist art career is played straight. Viewers who bought tickets for nostalgia discovered they were watching a film about generational ideology conflict instead. WokeScore 16, TradScore 12.</p>
+            <a href="/reviews/beetlejuice-beetlejuice-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">14</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/opus-2025/">Opus (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">3 WOKE</span>
+            </div>
+            <p>The first ninety minutes deliver what the trailers promised: darkly comic transgression and John Malkovich doing deeply disturbing things in a desert compound. The final act reveals the film's actual function as a progressive critique of male predation and systemic exploitation, with imagery and messaging that would have repelled a portion of the target audience if presented upfront. The shock value packaging was cover for ideology. Audiences feel manipulated once the trap is sprung. WokeScore 8.4, TradScore 5.1.</p>
+            <a href="/reviews/opus-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">15</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/joker-folie-a-deux-2024/">Joker: Folie a Deux (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">2 WOKE</span>
+            </div>
+            <p>The original Joker became a billion-dollar phenomenon because conservative-leaning audiences connected with Arthur Fleck as a critique of societal abandonment. The sequel weaponized that goodwill: Folie a Deux systematically deconstructs, humiliates, and ultimately kills the character audiences had invested in across three years. The musical format was presented as an artistic choice, not as a mechanism for dismantling the original film's emotional power. Nothing in the marketing signaled what was coming. WokeScore 24.5, TradScore 22.13.</p>
+            <a href="/reviews/joker-folie-a-deux-2024/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The Woke Trap Verdict</h3>
+        <p>Every film on this list cleared VirtueVigil's confirmed woke trap threshold: marketing that concealed ideology combined with woke content that emerged after the audience was already committed. Some of these traps were subtle. Some were architecturally precise campaigns to reach audiences who would have skipped the film if they had known what it contained. Get Out invented the template. Hollywood has been refining it ever since.</p>
+        <p>The VirtueVigil woke trap database now covers more than 60 flagged films and series across all genres. Browse the complete review database at <a href="/reviews/">VirtueVigil</a> for full trope breakdowns on every scored film, check the original <a href="/lists/woke-trap-movies-list/">10 Woke Trap Movies</a> list, or explore the annual rankings for a comprehensive picture of Hollywood's ideological output year by year.</p>
+      </div>
+    </article>`
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
