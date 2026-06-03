@@ -31360,6 +31360,265 @@ The short answer is no.</p>
     </article>`
   }));
 
+  console.log('  lists/sports-movies-woke-ranking-all-time/index.html');
+  writePage('lists/sports-movies-woke-ranking-all-time/index.html', buildListiclePage({
+    slug: 'sports-movies-woke-ranking-all-time',
+    title: 'Every Sports Movie Ranked by Woke Score (All Time)',
+    description: 'VirtueVigil ranks all 18 reviewed sports films from most traditional to most woke using real VVWS data. From Miracle and Rocky to Space Jam: A New Legacy.',
+    canonicalPath: 'lists/sports-movies-woke-ranking-all-time',
+    publishDate: '2026-06-03',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Sports movies occupy a unique position in American cinema. At their best they are the purest expression of what traditional values look like on screen: sacrifice, discipline, teamwork, faith, and the refusal to quit. At their worst they use the sports frame to deliver progressive messaging under cover of a crowd-pleasing genre. VirtueVigil has now scored 18 sports films across five decades and the spread is wide.</p>
+        <p>Every film here was scored using the VirtueVigil Woke Score system, which measures ideological content across thematic categories and produces a numeric margin between woke content and traditional values content. The ranking below goes from most traditional to least traditional. The data is real. The scores are not opinions.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/miracle-2004/">Miracle (2004)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+36 TRAD</span>
+            </div>
+            <p>The 1980 US Olympic hockey team's defeat of the Soviet Union is the blueprint for what a traditional sports film can accomplish. Coach Herb Brooks demands sacrifice, unity, and the subordination of individual ego to national purpose, and the film never flinches from presenting those demands as correct and necessary. WokeScore 1.4, TradScore 37.38.</p>
+            <a href="/reviews/miracle-2004/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hoosiers-1986/">Hoosiers (1986)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+32 TRAD</span>
+            </div>
+            <p>If you want to show someone what a traditional sports film looks like, you show them Hoosiers. Coach Norman Dale earns the town's trust through discipline and results, redemption comes through hard work rather than ideology, and the film's climax delivers one of the most emotionally honest moments in the genre. WokeScore 2.75, TradScore 34.51.</p>
+            <a href="/reviews/hoosiers-1986/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/happy-gilmore-2-2025/">Happy Gilmore 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>Twenty-nine years between sequels and Happy Gilmore 2 lands stronger than expected: a comeback story built on earned love, fatherhood, and refusing to accept physical decline as a death sentence. Adam Sandler plays the character as a man who has grown up without abandoning who he is, and the film rewards loyalty to its original audience rather than chasing a new demographic. WokeScore 3.45, TradScore 31.22.</p>
+            <a href="/reviews/happy-gilmore-2-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/rocky-1976/">Rocky (1976)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>Rocky is fifty years old and it still works. The story of a Philadelphia club fighter who wills himself into a world heavyweight title shot is built entirely on traditional values: self-discipline, romantic commitment, respect for mentorship, and the belief that effort has intrinsic worth regardless of outcome. The cultural establishment tried to retire this template. Rocky made it immortal. WokeScore 1.4, TradScore 29.54.</p>
+            <a href="/reviews/rocky-1976/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/beast-2026/">Beast (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+26 TRAD</span>
+            </div>
+            <p>Beast is the kind of MMA film Hollywood almost never makes anymore: gritty, masculine, and uninterested in apologizing for either. A retired fighter dragged back into the cage to protect the people he loves is presented with complete sincerity, and the film's values framework centers on duty, protection, and earned redemption rather than identity or grievance. WokeScore 1.5, TradScore 27.</p>
+            <a href="/reviews/beast-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-underdog-2021/">American Underdog (2021)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+24 TRAD</span>
+            </div>
+            <p>Kurt Warner's story could have been made as a prestige drama full of ambivalence about faith and fortune. The Erwin brothers made it as a straightforward story about a man whose faith, humility, and refusal to quit carried him from stocking grocery shelves to a Super Bowl MVP award. The film presents Christian belief not as a cultural artifact but as an active force in a man's life, and it earns every beat. WokeScore 2, TradScore 26.04.</p>
+            <a href="/reviews/american-underdog-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/creed-2015/">Creed (2015)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>Ryan Coogler took one of Hollywood's most sacred franchises and made it matter again by returning to the Rocky formula without irony: discipline over entitlement, mentorship over grievance, and the fight as a test of character rather than a platform for messaging. Adonis Creed earns every scene he shares with Sylvester Stallone because the film is not interested in shortcuts. WokeScore 2.7, TradScore 24.64.</p>
+            <a href="/reviews/creed-2015/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-boys-in-the-boat-2023/">The Boys in the Boat (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>Nine working-class boys from the University of Washington, most from poverty, rowing against the Nazi-backed German team at the 1936 Berlin Olympics. George Clooney directs with clarity and restraint, and the film's values framework is explicit: collective sacrifice, American pride, and the proof that excellence built from nothing can face down any power structure. WokeScore 3.4, TradScore 24.22.</p>
+            <a href="/reviews/the-boys-in-the-boat-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/ford-v-ferrari-2019/">Ford v Ferrari (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>The Le Mans story is ultimately about two men who are extraordinarily good at something difficult and who fight together against institutional mediocrity to prove it. Carroll Shelby and Ken Miles represent a kind of masculine competence and loyalty that Hollywood rarely celebrates without qualification. James Mangold delivers the qualification-free version. WokeScore 2, TradScore 22.05.</p>
+            <a href="/reviews/ford-v-ferrari-2019/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gran-turismo-2023/">Gran Turismo (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>A true story about a young man who works harder than everyone else, earns the respect of skeptics, and does something that had never been done before. The video game angle is irrelevant once the film starts. What matters is the work ethic, the father-son relationship, and the film's complete lack of interest in excusing failure. WokeScore 3.3, TradScore 22.68.</p>
+            <a href="/reviews/gran-turismo-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/creed-iii-2023/">Creed III (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+17 TRAD</span>
+            </div>
+            <p>Michael B. Jordan's directorial debut is the best pure sports drama in the franchise since Rocky II. The film is built around accountability: a man confronting the consequences of a decision he made at seventeen that shaped two lives. Redemption here is not given, it is earned through honesty and physical sacrifice. WokeScore 5.1, TradScore 22.4.</p>
+            <a href="/reviews/creed-iii-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">12</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/f1-2025/">F1 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+17 TRAD</span>
+            </div>
+            <p>F1 is the purest strain of old-school Hollywood blockbuster released in 2025: a comeback story about a broken man who finds redemption through grit, self-sacrifice, and refusal to quit. Brad Pitt plays a disgraced driver brought back to mentor a young teammate, and the film presents competence, courage, and masculine mentorship as unambiguous goods. WokeScore 5.52, TradScore 22.68.</p>
+            <a href="/reviews/f1-2025/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">13</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/happy-gilmore-1996/">Happy Gilmore (1996)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+13 TRAD</span>
+            </div>
+            <p>Happy Gilmore is thirty years old and it still makes people laugh. Sandler's hockey reject turned pro golfer is motivated by love for his grandmother, contempt for pretension, and the desire to prove the establishment wrong on its own terms. There is nothing complicated about the values here: work hard, protect the people you love, and never let a suit tell you who you are. WokeScore 3.7, TradScore 17.15.</p>
+            <a href="/reviews/happy-gilmore-1996/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">14</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/air-2023/">Air (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+13 TRAD</span>
+            </div>
+            <p>A 112-minute film about a sneaker deal that works completely because Ben Affleck understands what the story is really about: a mid-level scout who believes in something everyone else has dismissed and refuses to stop pushing. The film celebrates conviction, salesmanship, and the willingness to risk your career on a bet. Nike corporate politics stay in the background where they belong. WokeScore 2.4, TradScore 15.2.</p>
+            <a href="/reviews/air-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">15</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/remember-the-titans-2000/">Remember the Titans (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>Remember the Titans scores traditional lean, which may surprise viewers who remember it as a safe family film. The integration story comes with genuine racial tension and some progressive framing around the justice of federal court-ordered busing, but Coach Boone's values framework is firmly traditional: unity through shared discipline, colorblind meritocracy, and football as a vehicle for building men. The competing messages produce a net positive margin. WokeScore 9.14, TradScore 16.24.</p>
+            <a href="/reviews/remember-the-titans-2000/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">16</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/goat-2026/">GOAT (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+9 TRAD</span>
+            </div>
+            <p>Stephen Curry's animated feature remembers something important about sports films: the underdog wins because he earns it, not because the system is rigged for him. GOAT delivers a traditional underdog formula with Curry's personal ethos baked in, though the animated format introduces some equity-adjacent messaging that keeps it from ranking higher. The core sports values are intact. WokeScore 8.28, TradScore 17.64.</p>
+            <a href="/reviews/goat-2026/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">17</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-iron-claw-2023/">The Iron Claw (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>The Von Erich wrestling dynasty story is haunting and technically well-made, but it lands as MIXED because its values content cuts in multiple directions simultaneously. The film critiques how toxic masculinity and unchecked paternal ambition destroyed a family, which undercuts the genuine traditional-values elements around loyalty, sacrifice, and brotherhood. The result is emotionally powerful and ideologically ambiguous. WokeScore 9.2, TradScore 11.1.</p>
+            <a href="/reviews/the-iron-claw-2023/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">18</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/space-jam-a-new-legacy-2021/">Space Jam: A New Legacy (2021)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+4 TRAD</span>
+            </div>
+            <p>Space Jam: A New Legacy is a watchable, occasionally charming, utterly cynical product that exists to serve the Warner Bros. IP portfolio rather than tell a story. The father-son redemption arc is present but thin, overwhelmed by franchise cross-promotion. The original Space Jam made it here by being genuinely fun. This sequel makes the list only because the underlying father-son framework pulls the score above neutral. WokeScore 5.2, TradScore 8.89.</p>
+            <a href="/reviews/space-jam-a-new-legacy-2021/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The VirtueVigil Sports Film Verdict</h3>
+        <p>Sixteen of 18 reviewed sports films score at or above neutral on the VVWS scale. That is not a coincidence. The sports genre is structurally resistant to progressive messaging because its core grammar, working for something, earning your place, competing on merit, is built from traditional values. The films that score lowest here are the ones that imported messaging from outside the genre into its frame. The films that score highest understood that the formula works precisely because the values are real.</p>
+        <p>Browse every sports film's full review at <a href="/reviews/">VirtueVigil.com</a> for complete trope breakdowns and score details. For more curated picks, see <a href="/lists/best-sports-movies-conservatives-all-time/">Best Sports Movies for Conservatives (All Time)</a> and <a href="/lists/best-war-movies-patriots/">Best War Movies for Patriots</a>. For the complete annual rankings covering every genre, see <a href="/lists/movies-2025-woke-ranking/">Every 2025 Movie Ranked</a> and <a href="/lists/movies-2026-woke-ranking-complete/">Every 2026 Movie Ranked</a>.</p>
+      </div>
+    </article>`
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
