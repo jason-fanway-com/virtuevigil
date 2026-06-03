@@ -6048,6 +6048,18 @@
     "poster": "/images/posters/aliens-1986.jpg"
   },
   {
+    "slug": "full-metal-jacket-1987",
+    "title": "Full Metal Jacket",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical / Streaming",
+    "genre": "War / Drama",
+    "year": 1987,
+    "type": "film",
+    "wokeScore": 13.18,
+    "tradScore": 10.22,
+    "poster": "/images/posters/full-metal-jacket-1987.jpg"
+  },
+  {
     "slug": "cobra-kai-2018",
     "title": "Cobra Kai",
     "verdict": "STRONGLY TRADITIONAL",
