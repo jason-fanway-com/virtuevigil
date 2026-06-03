@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "aliens-1986",
+    "title": "Aliens",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Streaming",
+    "genre": "Action / Sci-Fi / Horror",
+    "year": 1986,
+    "type": "film",
+    "wokeScore": 6.8,
+    "tradScore": 20.58,
+    "poster": "/images/posters/aliens-1986.jpg"
+  },
+  {
     "slug": "cobra-kai-2018",
     "title": "Cobra Kai",
     "verdict": "STRONGLY TRADITIONAL",
