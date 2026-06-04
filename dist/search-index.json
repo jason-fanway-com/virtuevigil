@@ -6048,6 +6048,18 @@
     "poster": "/images/posters/pirates-of-the-caribbean-curse-of-the-black-pearl-2003.jpg"
   },
   {
+    "slug": "the-revenant-2015",
+    "title": "The Revenant",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Adventure / Drama / Western",
+    "year": 2015,
+    "type": "film",
+    "wokeScore": 12.39,
+    "tradScore": 21.49,
+    "poster": "/images/posters/the-revenant-2015.jpg"
+  },
+  {
     "slug": "aliens-1986",
     "title": "Aliens",
     "verdict": "TRADITIONAL",
