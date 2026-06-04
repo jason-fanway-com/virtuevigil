@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/the-revenant-2015.jpg"
   },
   {
+    "slug": "batman-begins-2005",
+    "title": "Batman Begins",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Superhero / Drama",
+    "year": 2005,
+    "type": "film",
+    "wokeScore": 5.53,
+    "tradScore": 26.04,
+    "poster": "/images/posters/batman-begins-2005.jpg"
+  },
+  {
     "slug": "aliens-1986",
     "title": "Aliens",
     "verdict": "TRADITIONAL",
