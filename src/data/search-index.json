@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/predator-1987.jpg"
   },
   {
+    "slug": "deadpool-2-2018",
+    "title": "Deadpool 2",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Action / Comedy / Superhero",
+    "year": 2018,
+    "type": "film",
+    "wokeScore": 8.55,
+    "tradScore": 10.14,
+    "poster": "/images/posters/deadpool-2-2018.jpg"
+  },
+  {
     "slug": "pirates-of-the-caribbean-curse-of-the-black-pearl-2003",
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "verdict": "TRADITIONAL",
