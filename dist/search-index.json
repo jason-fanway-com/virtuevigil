@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "captain-america-the-first-avenger-2011",
+    "title": "Captain America: The First Avenger",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Adventure / Superhero",
+    "year": 2011,
+    "type": "film",
+    "wokeScore": 3.8,
+    "tradScore": 26.88,
+    "poster": "/images/posters/captain-america-the-first-avenger-2011.jpg"
+  },
+  {
     "slug": "pirates-of-the-caribbean-curse-of-the-black-pearl-2003",
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "verdict": "TRADITIONAL",
