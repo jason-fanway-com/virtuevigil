@@ -31881,6 +31881,174 @@ The short answer is no.</p>
     </article>`
   }));
 
+  console.log('  lists/drama-movies-2022-woke-ranking/index.html');
+  writePage('lists/drama-movies-2022-woke-ranking/index.html', buildListiclePage({
+    slug: 'drama-movies-2022-woke-ranking',
+    title: 'Every 2022 Drama Movie Ranked by Woke Score',
+    description: 'All 11 reviewed 2022 drama, biographical, and prestige films ranked by VirtueVigil Woke Score — from Glass Onion to Tar.',
+    canonicalPath: 'lists/drama-movies-2022-woke-ranking',
+    publishDate: '2026-06-05',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>2022 was a landmark year for prestige drama. Glass Onion arrived on Netflix to lavish critical praise. Tar swept awards season. Don't Worry Darling generated more headlines for its behind-the-scenes drama than anything on screen. Underneath all of it, a clear ideological pattern emerged: 2022's most celebrated drama films were also its most politically loaded ones.</p>
+        <p>VirtueVigil reviewed 11 drama, biographical, and prestige films from 2022. The rankings below go from most woke to most traditional using real VVWS data. Every entry links to the full review. The scores are measurements, not opinions.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/glass-onion-2022/">Glass Onion: A Knives Out Mystery (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">STRONGLY WOKE</span>
+              <span class="score-badge">-24 WOKE</span>
+            </div>
+            <p>Rian Johnson's Knives Out sequel is a feature-length class warfare lecture dressed up as a murder mystery. The villain is a self-made tech billionaire whose every impulse is venal and destructive. The film's entire moral framework reduces to: rich white men are the source of society's dysfunction. Glass Onion earned one of the highest woke scores VirtueVigil has ever recorded for a prestige drama.</p>
+            <a href="/reviews/glass-onion-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/dont-worry-darling-2022/">Don't Worry Darling (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke">STRONGLY WOKE</span>
+              <span class="score-badge">-19 WOKE</span>
+            </div>
+            <p>Olivia Wilde's psychological thriller frames a 1950s suburban idyll as a literal patriarchal prison where men trap women in domesticity against their will. The film's thesis is that traditional family life is a form of violence inflicted on women by men who fear female autonomy. The feminist messaging is not subtext. It is the entire story. The film's real-world drama overshadowed its ideology, but both pointed in the same direction.</p>
+            <a href="/reviews/dont-worry-darling-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/amsterdam-2022/">Amsterdam (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">-1 WOKE</span>
+            </div>
+            <p>David O. Russell's star-studded period mystery is a muddled affair that gestures toward a conspiracy involving American fascism in the 1930s. The film's critique of institutional power and nativist politics lands it barely in woke territory, but the margin is razor-thin. The friendship at the film's center has genuine warmth, and the anti-fascist framing is grounded in historical fact rather than pure ideology. A rare film where the woke score almost does not tell the whole story.</p>
+            <a href="/reviews/amsterdam-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-whale-2022/">The Whale (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">0 NEUTRAL</span>
+            </div>
+            <p>Darren Aronofsky's adaptation of Samuel D. Hunter's play stars Brendan Fraser as a morbidly obese gay man spending his final days trying to reconnect with his estranged teenage daughter. The film presents a gay relationship as the catalyst for the protagonist's self-destruction without condemning or endorsing it. Faith, redemption, and estrangement from family are explored with unusual honesty for a prestige A24 release. The score lands at exactly zero: two worldviews in genuine tension.</p>
+            <a href="/reviews/the-whale-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/house-of-the-dragon-2022/">House of the Dragon (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">+2 TRAD</span>
+            </div>
+            <p>HBO's Game of Thrones prequel centers the Targaryen civil war on a succession dispute triggered by a king's choice to name his daughter heir over male relatives. The series repeatedly foregrounds female agency within a medieval setting, and the show's framing treats the patriarchal resistance to Rhaenyra as the story's primary antagonistic force. Family loyalty, dynastic duty, and the cost of power are strong traditional throughlines that keep the score from sinking further.</p>
+            <a href="/reviews/house-of-the-dragon-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/babylon-2022/">Babylon (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+4 TRAD</span>
+            </div>
+            <p>Damien Chazelle's three-hour ode to Hollywood's silent-to-sound transition is chaotic, explicit, and hard to watch in stretches. The film's ideological content is genuinely mixed: it depicts excess as destructive and self-made success as fragile, which are traditional warnings. The protagonist's immigrant ambition and ultimate disillusionment with fame read as a cautionary tale rather than a celebration. Babylon is a mess, but a traditionally inflected one.</p>
+            <a href="/reviews/babylon-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/elvis-2022/">Elvis (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+4 TRAD</span>
+            </div>
+            <p>Baz Luhrmann's Elvis Presley biopic is a kinetic, maximalist portrait of American ambition and exploitation. The film treats Presley's faith, Southern roots, and deep connection to Black gospel and blues music with genuine respect. Colonel Tom Parker is the villain, and the film frames his exploitation of Elvis as a betrayal of authentic artistry. The traditional lean reflects the film's reverence for Presley's origins even as it critiques the machine that consumed him.</p>
+            <a href="/reviews/elvis-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/a-man-called-otto-2022/">A Man Called Otto (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>Tom Hanks stars as a grumpy widower who is pulled back from the edge of suicide by an immigrant family that moves in next door. The film is built on community obligation, the redemptive power of human connection, and grief as something that can be survived without discarding the person you loved. Mariana Trevino's performance as the neighbor who refuses to leave Otto alone is the film's traditional heart. A quiet, genuinely moving film that earned its traditional score.</p>
+            <a href="/reviews/a-man-called-otto-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/till-2022/">Till (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+8 TRAD</span>
+            </div>
+            <p>Chinonye Chukwu's film about Mamie Till-Mobley's fight for justice after her son Emmett's murder is a story about a mother's courage and refusal to let evil go unnamed. The film grounds its civil rights narrative in maternal love and the duty to bear witness. The open-casket scene is one of the most powerful moments in any 2022 film. The traditional lean reflects Mamie's faith, family bonds, and the film's rejection of political abstraction in favor of personal grief and righteous action.</p>
+            <a href="/reviews/till-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/father-stu-2022/">Father Stu (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>Mark Wahlberg produced and stars in this biographical drama about Stuart Long, a failed boxer who converts to Catholicism and becomes a priest while battling a devastating neuromuscular disease. The film does not soften its faith content or treat Catholicism as a quirky character choice. Long's conversion, priesthood, and suffering are presented as genuinely redemptive and true. Father Stu is one of the most unambiguously Catholic mainstream films made by a Hollywood studio in decades.</p>
+            <a href="/reviews/father-stu-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/tar-2022/">Tar (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>Todd Field's film about a renowned female conductor's fall from grace is one of the most counterintuitive high scorers in the VirtueVigil database. Critics celebrated Tar as a feminist triumph. The actual film is a meticulous dismantling of a person who weaponized progressive institutional power for personal gain. Cate Blanchett's Lydia Tar is a predator who uses woke language as a shield. The film's traditional lean comes from its willingness to hold her fully accountable with no ideological escape hatch.</p>
+            <a href="/reviews/tar-2022/" class="listicle-cta">Read Full VirtueVigil Review</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <h3>The 2022 Drama Verdict</h3>
+        <p>2022's prestige drama landscape split almost perfectly in half. Glass Onion and Don't Worry Darling came loaded with ideological intent. Father Stu and Tar earned their traditional scores through moral clarity and storytelling integrity. The middle ground, Amsterdam, The Whale, and House of the Dragon, reflects a Hollywood that had not yet fully committed to one direction. The biggest surprise in the data: Tar, the film critics held up as a feminist landmark, earns one of the highest traditional scores of the year because it actually follows the logic of accountability to its honest conclusion.</p>
+        <p>Browse all reviewed 2022 films at <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked by Woke Score</a>, or explore the companion genre rankings at <a href="/lists/action-movies-2022-woke-ranking/">Every 2022 Action Movie Ranked</a>. The full VirtueVigil database is at <a href="/reviews/">VirtueVigil.com/reviews/</a>.</p>
+      </div>
+    </article>`
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
