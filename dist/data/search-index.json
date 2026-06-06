@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/the-last-viking-2025.jpg"
   },
   {
+    "slug": "the-truman-show-1998",
+    "title": "The Truman Show",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Drama / Science Fiction / Comedy",
+    "year": 1998,
+    "type": "film",
+    "wokeScore": 12.8,
+    "tradScore": 17.64,
+    "poster": "/images/posters/the-truman-show-1998.jpg"
+  },
+  {
     "slug": "captain-america-the-first-avenger-2011",
     "title": "Captain America: The First Avenger",
     "verdict": "STRONGLY TRADITIONAL",
