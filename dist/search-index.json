@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "tuner-2026",
+    "title": "Tuner",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Crime / Drama / Thriller / Romance",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 4.1,
+    "tradScore": 14.98,
+    "poster": "/images/posters/tuner-2026.jpg"
+  },
+  {
     "slug": "captain-america-the-first-avenger-2011",
     "title": "Captain America: The First Avenger",
     "verdict": "STRONGLY TRADITIONAL",
