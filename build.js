@@ -1928,6 +1928,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/drama-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/thriller-movies-2022-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-adventure-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -2896,6 +2897,7 @@ function buildListsHubPage() {
         'biographical-movies-woke-ranking',
         'thriller-movies-2024-woke-ranking',
         'thriller-movies-2023-woke-ranking',
+        'thriller-movies-2022-woke-ranking',
         'sci-fi-adventure-movies-2023-woke-ranking',
         'movies-2023-woke-ranking',
         'movies-2021-woke-ranking',
@@ -2983,6 +2985,7 @@ function buildListsHubPage() {
       'drama-movies-2024-woke-ranking': 'Every 2024 Drama Movie Ranked by Woke Score',
       'thriller-movies-2024-woke-ranking': 'Every 2024 Thriller Movie Ranked by Woke Score',
       'thriller-movies-2023-woke-ranking': 'Every 2023 Thriller Movie Ranked by Woke Score',
+      'thriller-movies-2022-woke-ranking': 'Every 2022 Thriller Movie Ranked by Woke Score',
       'sci-fi-adventure-movies-2023-woke-ranking': 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score',
       'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score',
       'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score',
@@ -32045,6 +32048,164 @@ The short answer is no.</p>
         <h3>The 2022 Drama Verdict</h3>
         <p>2022's prestige drama landscape split almost perfectly in half. Glass Onion and Don't Worry Darling came loaded with ideological intent. Father Stu and Tar earned their traditional scores through moral clarity and storytelling integrity. The middle ground, Amsterdam, The Whale, and House of the Dragon, reflects a Hollywood that had not yet fully committed to one direction. The biggest surprise in the data: Tar, the film critics held up as a feminist landmark, earns one of the highest traditional scores of the year because it actually follows the logic of accountability to its honest conclusion.</p>
         <p>Browse all reviewed 2022 films at <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked by Woke Score</a>, or explore the companion genre rankings at <a href="/lists/action-movies-2022-woke-ranking/">Every 2022 Action Movie Ranked</a>. The full VirtueVigil database is at <a href="/reviews/">VirtueVigil.com/reviews/</a>.</p>
+      </div>
+    </article>`
+  }));
+
+  // ─────────────────────────────────────────────────────────────────
+  // Every 2022 Thriller Movie Ranked by Woke Score
+  // ─────────────────────────────────────────────────────────────────
+  console.log('  lists/thriller-movies-2022-woke-ranking/index.html');
+  writePage('lists/thriller-movies-2022-woke-ranking/index.html', buildListiclePage({
+    slug: 'thriller-movies-2022-woke-ranking',
+    title: 'Every 2022 Thriller Movie Ranked by Woke Score',
+    description: 'All 12 reviewed 2022 thriller and suspense films ranked from most woke to most traditional. Glass Onion, Don\'t Worry Darling, Smile, Violent Night, Bullet Train, and every scored 2022 thriller.',
+    canonicalPath: 'lists/thriller-movies-2022-woke-ranking',
+    publishDate: '2026-06-06',
+    htmlContent: `<article class="listicle-article">
+
+      <p>2022 was one of the most ideologically polarized years in recent cinema history, and no genre split wider than the thriller. At one extreme: Rian Johnson's Glass Onion, a prestige mystery engineered from the ground up as a progressive class parable. At the other: Violent Night, an R-rated Christmas action film built on a child's unironic faith in Santa Claus. Both are thrillers. Both earned their VirtueVigil scores honestly. The gap between them is 42 points.</p>
+
+      <p>VirtueVigil reviewed and scored 12 thriller, psychological thriller, mystery, spy, horror-thriller, and suspense films from 2022. Each film was run through the full dual-scoring methodology: Woke Score measures progressive ideological content, Traditional Score measures duty, sacrifice, family loyalty, moral clarity, and earned competence. The ranking runs from most ideologically progressive at the top to most traditionally grounded at the bottom. Every entry links to the full review.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/glass-onion-2022/">Glass Onion: A Knives Out Mystery (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -24 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Mystery / Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Rian Johnson's Glass Onion is a craftsman's thriller in service of a progressive fable. The villain is a right-coded tech billionaire who surrounded himself with enablers and built his empire on stolen credit. The hero is a Black woman reclaiming what was taken from her. The climax asks audiences to cheer the deliberate burning of the Mona Lisa as righteous revenge. Daniel Craig's Benoit Blanc is a joy to watch. The ideological architecture is just as deliberate as the mystery mechanics. At -24 WOKE, it is the most politically loaded thriller VirtueVigil reviewed in 2022.</p>
+      <p><a href="/reviews/glass-onion-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Glass Onion</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/dont-worry-darling-2022/">Don't Worry Darling (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -19 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Psychological Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Olivia Wilde confirmed in post-release interviews that the villain was explicitly modeled on Jordan Peterson as a stand-in for incel and manosphere ideology. The film's premise, men trapping women in a simulated 1950s domestic paradise without consent, is its thesis made literal. Traditional homemaking is not a backdrop but the horror itself. Florence Pugh delivers a performance too good for the movie around her. As a woke trap it is nearly perfect: the trailers sold a glossy period thriller, and the anti-patriarchy manifesto showed up at the 80-minute mark. -19 WOKE.</p>
+      <p><a href="/reviews/dont-worry-darling-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Don't Worry Darling</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/ozark/">Ozark (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Ozark's fourth and final season completes the series-long systematic emasculation of Marty Byrde and the elevation of Wendy as the family's true operator. The finale has Jonah pick up a shotgun to protect his parents from accountability. Evil wins. Ruth Langmore, the show's moral center and most traditionally coded character, is murdered for having a code of honor. The show drew conservative audiences in with a patriarch-protecting-family premise, then spent four seasons dismantling it. -4 WOKE.</p>
+      <p><a href="/reviews/ozark/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ozark</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/amsterdam-2022/">Amsterdam (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -1 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Mystery / Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>David O. Russell assembled a $80 million cast (Bale, Robbie, De Niro, Malek, Taylor Swift, Olyphant) to tell the story of a real 1933 plot by American industrialists to stage a fascist coup. The anti-fascist messaging is explicit and clearly aimed at the present. But Amsterdam's celebration of male loyalty, sacrifice under fire, and the duty to expose evil pulls hard in the other direction. Robert De Niro's speech about decency is one of the best-written monologues in any 2022 film. A structural mess with a traditionally grounded heart. -1 WOKE.</p>
+      <p><a href="/reviews/amsterdam-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Amsterdam</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/the-menu-2022/">The Menu (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: 0 NEUTRAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Black Comedy Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Ralph Fiennes plays a celebrity chef who invites a group of wealthy diners to a remote island and proceeds to hold them accountable for what they represent. The conservative read is real: the film savages cultural elites, pretentious food critics, and people who have turned everything meaningful into a status performance. Anya Taylor-Joy survives by ordering a cheeseburger and calling the food loveless. That cheeseburger is the film's thesis. An anti-capitalist undercurrent muddles the verdict, but it is one of the most effective satires of elite cultural pretension in recent memory. Dead even at 0 NEUTRAL.</p>
+      <p><a href="/reviews/the-menu-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Menu</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/everything-everywhere-all-at-once-2022/">Everything Everywhere All at Once (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Action Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Seven Academy Awards including Best Picture and one of the most genuinely complex values profiles in the VirtueVigil database. The daughter's lesbian relationship is central and its acceptance is the film's moral resolution. That is unavoidable. But the marriage worth saving, the immigrant work ethic honored without condescension, and Waymond Wang's argument that choosing kindness is a strategy rather than weakness are deeply traditional ideas. Michelle Yeoh and Ke Huy Quan carry a film that neither side of the culture war can claim cleanly. +1 TRAD by the narrowest possible margin.</p>
+      <p><a href="/reviews/everything-everywhere-all-at-once-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Everything Everywhere All at Once</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/bullet-train-2022/">Bullet Train (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>David Leitch puts Brad Pitt on a Japanese bullet train with a dozen assassins and lets the karma mechanics run. Every character is there because of choices made in the past. Every consequence arrives on schedule. The Kimura subplot, a father trying to stop his son from dying over grief for the son's own comatose child, is the film's traditional backbone: paternal love across generations, pursued at great personal cost. Aaron Taylor-Johnson and Brian Tyree Henry's bickering assassin partnership is the funniest double act of 2022. Critics were wrong. The audience was right. +5 TRAD.</p>
+      <p><a href="/reviews/bullet-train-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Bullet Train</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/the-gray-man-2022/">The Gray Man (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +6 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Spy Thriller &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Ryan Gosling's Sierra Six is a CIA assassin with a personal code that outlasts the corrupt institution that made him. He would not describe what he feels for the child he protects as love because he does not have that vocabulary, but the film makes clear that is what it is. The Gray Man's best argument is a conservative one: a man's moral framework can survive institutional corruption when it is grounded in protecting the innocent rather than serving power. Chris Evans's cartoonish villain costs the film tension it needed. The child-protection imperative carries the score. +6 TRAD.</p>
+      <p><a href="/reviews/the-gray-man-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Gray Man</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/prey-2022/">Prey (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Thriller &bull; <strong>Platform:</strong> Hulu</p>
+      <p>The best Predator film since 1987, set in 1719 on the Great Plains. Naru is a Comanche warrior who earns her right to face the alien through patience, observation, and willingness to face what no one else will. Her victory comes from weeks of study rather than physical superiority: she identifies a biological vulnerability, exploits it with a plant-based anticoagulant she discovered through observation, and wins. The warrior-proves-worth arc is one of the oldest stories in human storytelling, and Prey executes it with genuine discipline. The female-warrior progressive framing is real. So is the traditional earned-competence outcome. +7 TRAD.</p>
+      <p><a href="/reviews/prey-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Prey</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/smile-2022/">Smile (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror / Psychological Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Parker Finn's debut grossed $217 million on a $17 million budget. The mental health framing reads as progressive window dressing on a story with traditional bones: evil is real, you cannot outrun the past, and confronting what you have refused to face requires courage regardless of outcome. Rose Cotter's attempts to treat the curse as a medical problem all fail. The resolution demands a personal reckoning, not a systemic one. Sosie Bacon carries a genuinely demanding lead role. The horror sequences are among the decade's best. More traditionally grounded than its aesthetics suggest. +10 TRAD.</p>
+      <p><a href="/reviews/smile-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Smile</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/nope-2022/">Nope (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Horror Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Jordan Peele's most formally ambitious film and his most politically restrained. OJ Haywood is a deliberate Western archetype: the stoic ranch hand who communicates through work rather than words, competent beyond anyone's acknowledgment, constitutionally unwilling to perform his emotions for an audience. The Gordy chimpanzee subplot argues that trying to domesticate wild things for entertainment destroys everyone within reach. The Haywood family's legacy of unnamed Black labor in Hollywood's history is acknowledged without speechifying about it. Nope trusts its imagery more than its dialogue, which is a choice serious filmmaking earns. +10 TRAD, same margin as Smile, higher verdict tier.</p>
+      <p><a href="/reviews/nope-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Nope</a></p>
+
+      <hr>
+
+      <h2>#12 (Most Traditional): <a href="/reviews/violent-night-2022/">Violent Night (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Santa Claus is an immortal Viking warrior named Nicomund the Red, and a child's unironic faith in him is the most powerful force in the universe. David Harbour plays this with complete conviction. The film's thesis is embedded in its premise: Christmas magic is real if you choose to believe it, and that belief changes the world around you. The Lightstone family's commercial dysfunction is satire in service of the thesis, not class warfare. The violence is extreme. The traditional content is equally extreme. At +18 TRAD it is the most traditionally grounded thriller of 2022 and one of the most sincere Christmas films of the decade. Die Hard fans, this is your film.</p>
+      <p><a href="/reviews/violent-night-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Violent Night</a></p>
+
+      <hr>
+
+      <div class="listicle-conclusion">
+        <h3>The 2022 Thriller Verdict</h3>
+        <p>The 42-point gap between Glass Onion (-24) and Violent Night (+18) tells you everything about where Hollywood's thriller genre stood in 2022. Rian Johnson and Olivia Wilde brought the genre's most aggressive ideological freight. David Harbour and David Leitch built two of the year's most entertaining traditional-coded films inside the same genre. The middle ground, Amsterdam, The Menu, and Everything Everywhere, reflects filmmakers genuinely wrestling with competing values rather than landing cleanly on either side.</p>
+        <p>The biggest surprise in this data: Prey, released on Hulu with minimal theatrical presence, earns a stronger traditional score than The Gray Man's $200 million Netflix production. Competence and earned victory transcend budget. Browse the companion 2022 rankings at <a href="/lists/action-movies-2022-woke-ranking/">Every 2022 Action Movie Ranked</a> and <a href="/lists/drama-movies-2022-woke-ranking/">Every 2022 Drama Movie Ranked</a>. For the full annual overview, see <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked by Woke Score</a>. The complete VirtueVigil database is at <a href="/reviews/">VirtueVigil.com/reviews/</a>.</p>
       </div>
     </article>`
   }));
