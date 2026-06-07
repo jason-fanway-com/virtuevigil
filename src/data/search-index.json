@@ -6048,6 +6048,18 @@
     "poster": "/images/posters/finding-nemo-2003.jpg"
   },
   {
+    "slug": "wall-e-2008",
+    "title": "WALL-E",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Animated / Sci-Fi / Adventure / Romance",
+    "year": 2008,
+    "type": "film",
+    "wokeScore": 15.08,
+    "tradScore": 16.24,
+    "poster": "/images/posters/wall-e-2008.jpg"
+  },
+  {
     "slug": "tuner-2026",
     "title": "Tuner",
     "verdict": "TRADITIONAL",
