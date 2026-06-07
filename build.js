@@ -1929,6 +1929,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/thriller-movies-2024-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2022-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/comedy-movies-2022-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-adventure-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -2898,6 +2899,7 @@ function buildListsHubPage() {
         'thriller-movies-2024-woke-ranking',
         'thriller-movies-2023-woke-ranking',
         'thriller-movies-2022-woke-ranking',
+        'comedy-movies-2022-woke-ranking',
         'sci-fi-adventure-movies-2023-woke-ranking',
         'movies-2023-woke-ranking',
         'movies-2021-woke-ranking',
@@ -2986,6 +2988,7 @@ function buildListsHubPage() {
       'thriller-movies-2024-woke-ranking': 'Every 2024 Thriller Movie Ranked by Woke Score',
       'thriller-movies-2023-woke-ranking': 'Every 2023 Thriller Movie Ranked by Woke Score',
       'thriller-movies-2022-woke-ranking': 'Every 2022 Thriller Movie Ranked by Woke Score',
+      'comedy-movies-2022-woke-ranking': 'Every 2022 Comedy Movie Ranked by Woke Score',
       'sci-fi-adventure-movies-2023-woke-ranking': 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score',
       'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score',
       'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score',
@@ -32206,6 +32209,175 @@ The short answer is no.</p>
         <h3>The 2022 Thriller Verdict</h3>
         <p>The 42-point gap between Glass Onion (-24) and Violent Night (+18) tells you everything about where Hollywood's thriller genre stood in 2022. Rian Johnson and Olivia Wilde brought the genre's most aggressive ideological freight. David Harbour and David Leitch built two of the year's most entertaining traditional-coded films inside the same genre. The middle ground, Amsterdam, The Menu, and Everything Everywhere, reflects filmmakers genuinely wrestling with competing values rather than landing cleanly on either side.</p>
         <p>The biggest surprise in this data: Prey, released on Hulu with minimal theatrical presence, earns a stronger traditional score than The Gray Man's $200 million Netflix production. Competence and earned victory transcend budget. Browse the companion 2022 rankings at <a href="/lists/action-movies-2022-woke-ranking/">Every 2022 Action Movie Ranked</a> and <a href="/lists/drama-movies-2022-woke-ranking/">Every 2022 Drama Movie Ranked</a>. For the full annual overview, see <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked by Woke Score</a>. The complete VirtueVigil database is at <a href="/reviews/">VirtueVigil.com/reviews/</a>.</p>
+      </div>
+    </article>`
+  }));
+
+  // ─────────────────────────────────────────────────────────────────
+  // Every 2022 Comedy Movie Ranked by Woke Score
+  // ─────────────────────────────────────────────────────────────────
+  console.log('  lists/comedy-movies-2022-woke-ranking/index.html');
+  writePage('lists/comedy-movies-2022-woke-ranking/index.html', buildListiclePage({
+    slug: 'comedy-movies-2022-woke-ranking',
+    title: 'Every 2022 Comedy Movie Ranked by Woke Score',
+    description: 'All 13 reviewed 2022 comedy films ranked from most woke to most traditional. Glass Onion to Bullet Train, every scored 2022 comedy fully analyzed.',
+    canonicalPath: 'lists/comedy-movies-2022-woke-ranking',
+    publishDate: '2026-06-07',
+    htmlContent: `<article class="listicle-article">
+
+      <p>Comedy is the genre where ideology does its sneakiest work. When a film makes you laugh, your defenses come down. You are in a good mood. You are not thinking critically. That is exactly when the messaging lands hardest. VirtueVigil tracked 13 reviewed 2022 comedy and comedy-adjacent films to see which ones stayed clean and which ones used the laughs as cover for something else.</p>
+
+      <p>The results cover a wide ideological spectrum. Glass Onion sits at one end with a woke score of 42, one of the highest VirtueVigil has ever recorded. At the other end, Bullet Train and Violent Night barely register on the woke scale. Everything in between tells a story about how Hollywood deployed comedy in 2022. Ranked from most woke to most traditional using dual-axis VirtueVigil scores.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/glass-onion-2022/">Glass Onion: A Knives Out Mystery (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+        <span class="mini-score woke">MARGIN: -24 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Mystery / Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Rian Johnson builds mechanical puzzles better than almost anyone in Hollywood. The Glass Onion mystery is genuinely clever. The problem is that the film is not interested in telling a story. It is interested in making a political statement about a thinly veiled Elon Musk figure surrounded by sycophantic enablers. Every character is a caricature. Every punchline circles back to the same thesis: powerful disruptors are frauds, their followers are idiots, and the woman of color cleaning up behind them is the real genius. The comedy is mostly competent but the ideological freight is relentless and drags the woke score to 42, one of the highest VirtueVigil has ever tracked.</p>
+      <p><a href="/reviews/glass-onion-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Glass Onion</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/turning-red-2022/">Turning Red (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -13 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Comedy &bull; <strong>Platform:</strong> Disney+</p>
+      <p>Turning Red is technically brilliant and Domee Shi's direction is exceptional throughout. It is also one of Pixar's most ideologically loaded projects. The film's central thesis is that a 13-year-old girl should embrace her messy emotional and physically chaotic inner life rather than suppress it for family or cultural expectations. The panda metaphor is not subtle. The mother-daughter conflict frames generational cultural transmission as oppression. The pop music boy band obsession is treated as authentic self-expression that adults are wrong to discourage. The traditional score of 4.55 reflects genuine warmth in the family relationship, but the overall ideological thrust earns it a woke score of nearly 18.</p>
+      <p><a href="/reviews/turning-red-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Turning Red</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/thor-love-and-thunder-2022/">Thor: Love and Thunder (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Comedy &bull; <strong>Platform:</strong> Disney+ / Theatrical</p>
+      <p>Taika Waititi's follow-up to Thor: Ragnarok contains the raw material for a story about grief, faith, and divine failure. Christian Bale delivers a genuinely menacing villain as Gorr the God Butcher. What kills it is relentless tonal chaos and ideological additions layered on top. Jane Foster's female Thor arc is handled clumsily. The queer subtext involving Korg is made explicit and played for laughs. The film never earns its dramatic moments because the comedy undercuts everything. A woke lean at +4 WOKE reflects consistent progressive framing without crossing into full propaganda territory.</p>
+      <p><a href="/reviews/thor-love-and-thunder-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Thor: Love and Thunder</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/wednesday-2022/">Wednesday (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -5 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Supernatural Mystery Comedy &bull; <strong>Platform:</strong> Netflix</p>
+      <p>Wednesday broke Netflix records with 252 million household views in its first 28 days. Jenna Ortega's performance is genuinely compelling and the show has real entertainment value. The problem is that Wednesday Addams is framed throughout as an outsider hero whose rejection of conformity and authority is coded as virtue. The show celebrates social deviance as authenticity. The institutional authority figures are almost uniformly corrupt or incompetent. The messaging that normal society is the enemy and alienation is enlightenment runs through every episode. Entertaining, but the framing is consistently progressive.</p>
+      <p><a href="/reviews/wednesday-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wednesday</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/everything-everywhere-all-at-once-2022/">Everything Everywhere All at Once (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: +1 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Comedy Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Seven Academy Awards including Best Picture, and it scores MIXED on VirtueVigil with a traditional score that barely edges its woke score by less than one point. The Daniels built a genuinely moving story about immigrant sacrifice, mother-daughter love, and the courage it takes to keep going when nihilism feels rational. Those are traditional values. The film also contains explicit lesbian identity affirmation and nihilist philosophy as the ideological antagonist, which paradoxically makes it more traditional than expected. The result is genuinely balanced in a way Hollywood rarely achieves. Michelle Yeoh is extraordinary.</p>
+      <p><a href="/reviews/everything-everywhere-all-at-once-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Everything Everywhere All at Once</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/amsterdam-2022/">Amsterdam (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score woke">MARGIN: -1 WOKE</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Mystery Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>David O. Russell assembled one of 2022's most impressive casts for this period comedy-mystery about friendship, decency, and defending democracy against fascism. Christian Bale, Margot Robbie, John David Washington, Robert De Niro. The film is unfortunately a structural mess. The anti-fascist ideology maps explicitly onto contemporary politics, inflating the woke score. But the friendship at the film's center is genuine and the story cares about its characters' moral courage. The result is almost perfectly balanced ideologically while being notably imperfect cinematically. A near-tie that lands just on the woke side.</p>
+      <p><a href="/reviews/amsterdam-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Amsterdam</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/babylon-2022/">Babylon (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +4 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Black Comedy Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Damien Chazelle put the magic of movies through a meat grinder for three hours and nine minutes to see if anything noble survived. Babylon is spectacular, exhausting, infuriating, and genuinely moving. The black comedy framing masks a story that is romantic about the power of movies and tragic about the human cost of ambition. The progressive content includes a bisexual subplot and progressive racial framing for early Hollywood. The traditional lean comes from the film's conservative-in-structure message that excess and moral chaos destroy the people who pursue them. A rare traditional lean in a prestige art film. The ending will break you regardless of where you land politically.</p>
+      <p><a href="/reviews/babylon-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Babylon</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/the-menu-2022/">The Menu (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score trad">MARGIN: 0 NEUTRAL</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Black Comedy Horror &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Mark Mylod's class satire is slick, well-crafted, and genuinely funny while also making you uneasy. The setup is elegant: wealthy diners on a remote island, a chef with a vision, a menu that will kill them. The film is anti-elitist in a way that should appeal to conservatives, targeting wealthy progressive consumers as the real villains. But the ideology is muddled. Anya Taylor-Joy survives by ordering a cheeseburger and calling the food loveless. That cheeseburger is the film's thesis. VirtueVigil scored it nearly perfectly neutral at 9.3 woke vs 9.66 trad, the most evenly balanced result for any 2022 release. Genuinely agnostic in a way most Hollywood product refuses to be.</p>
+      <p><a href="/reviews/the-menu-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Menu</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/a-man-called-otto-2022/">A Man Called Otto (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +9 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Comedy Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Tom Hanks plays Otto Anderson, a recently retired widower making meticulous preparations to rejoin his late wife until a loud immigrant family moves in next door and derails his plans. The American remake of A Man Called Ove carries the Swedish original's core message intact: community, loyalty, and connection matter more than ideological purity. The film includes a trans neighbor subplot that accounts for most of its woke score, but the framing is compassionate rather than preachy and the character earns their place in the story. The dominant values are sacrifice, marriage, community, and the stubborn human refusal to give up on each other. A clean traditional lean from a mainstream release.</p>
+      <p><a href="/reviews/a-man-called-otto-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of A Man Called Otto</a></p>
+
+      <hr>
+
+      <h2>#10: <a href="/reviews/tulsa-king-s1-2022/">Tulsa King (Season 1, 2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +16 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Crime Comedy &bull; <strong>Platform:</strong> Paramount+</p>
+      <p>Sylvester Stallone at 77 is having the best run of his career. Tulsa King puts a New York mafia capo in Oklahoma and mines the fish-out-of-water premise for genuine comedy and genuine warmth. The show is not prestige television. The plotting is loose, the world-building is thin, and the antagonists are underdeveloped. None of that matters because Stallone is magnetic and the show's values are unambiguous. Loyalty, work ethic, masculine competence, and earned respect run through every episode. The Taylor Sheridan fingerprints are all over it. At +16 TRAD, one of the cleanest comedy scores VirtueVigil tracked in 2022.</p>
+      <p><a href="/reviews/tulsa-king-s1-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Tulsa King</a></p>
+
+      <hr>
+
+      <h2>#11: <a href="/reviews/puss-in-boots-the-last-wish-2022/">Puss in Boots: The Last Wish (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>Nobody expected an eleven-year sequel to a DreamWorks Shrek spinoff to be one of the best animated films of the decade. Puss in Boots: The Last Wish is not just good. It is genuinely great. The premise puts Puss in Boots on his last life confronting his own mortality through the metaphor of a literal Death pursuing him, rendered as a haunting wolf in a fairy tale visual style. The film's message is direct and earned: life is worth living, friendship is worth protecting, and running from your fears is not the same as being fearless. No progressive messaging. No agenda. Just a beautifully made film about courage and gratitude that earns every emotional beat it lands.</p>
+      <p><a href="/reviews/puss-in-boots-the-last-wish-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Puss in Boots: The Last Wish</a></p>
+
+      <hr>
+
+      <h2>#12: <a href="/reviews/violent-night-2022/">Violent Night (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +18 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>The pitch is perfect and absurd: Santa Claus is actually an immortal Viking warrior forced to fight through a hostage situation to protect the one child left in the world who still truly believes in Christmas. David Harbour commits completely. The action is brutal in ways the R rating earns. The film is unabashedly pro-Christmas, pro-family, and pro-the idea that some things are worth dying for. The comedy comes from the absurdity of the premise executed with total sincerity rather than ironic distance. A woke score of 2.5 against a traditional score of 20.58. One of the cleanest action comedies of the year.</p>
+      <p><a href="/reviews/violent-night-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Violent Night</a></p>
+
+      <hr>
+
+      <h2>#13 (Most Traditional): <a href="/reviews/bullet-train-2022/">Bullet Train (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +5 TRAD</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action Comedy Thriller &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+      <p>David Leitch's candy-colored action comedy puts a therapized assassin codenamed Ladybug on a Japanese bullet train alongside a dozen other killers with overlapping contracts. Brad Pitt plays him as someone who has genuinely internalized enough therapy-speak to believe in karma, good vibes, and the universe's plan. The comedy comes from his sincere philosophical commitment to nonviolence while being extremely good at violence. The progressive content is minimal. The traditional lean comes from the film's throughline about consequences, loyalty, and the costs of a life built on betrayal. Not a values film by design, but VirtueVigil tracked a clean traditional lean with essentially no agenda freight. The lowest woke score among 2022 comedies at 2.35.</p>
+      <p><a href="/reviews/bullet-train-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Bullet Train</a></p>
+
+      <hr>
+
+      <div class="listicle-conclusion">
+        <h3>The 2022 Comedy Verdict</h3>
+        <p>The spread in 2022 comedy is remarkable. Glass Onion scores 42 on the woke scale while Bullet Train scores 2.35. Both are comedies. Both are mainstream releases. The difference is intentionality. Johnson built Glass Onion around a political thesis and the comedy serves the argument. Leitch built Bullet Train around an action premise and the comedy serves the chaos. The films with the highest woke scores made their ideology the point. The films at the bottom made entertainment the point and kept their values implicit rather than broadcast.</p>
+        <p>Browse the companion 2022 rankings at <a href="/lists/action-movies-2022-woke-ranking/">Every 2022 Action Movie Ranked</a>, <a href="/lists/drama-movies-2022-woke-ranking/">Every 2022 Drama Movie Ranked</a>, and <a href="/lists/thriller-movies-2022-woke-ranking/">Every 2022 Thriller Movie Ranked</a>. For the full annual overview, see <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked by Woke Score</a>. Browse the complete VirtueVigil database at <a href="/reviews/">VirtueVigil.com/reviews/</a>.</p>
       </div>
     </article>`
   }));
