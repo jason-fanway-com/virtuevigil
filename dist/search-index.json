@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "finding-nemo-2003",
+    "title": "Finding Nemo",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animated / Adventure / Family",
+    "year": 2003,
+    "type": "film",
+    "wokeScore": 5,
+    "tradScore": 16.94,
+    "poster": "/images/posters/finding-nemo-2003.jpg"
+  },
+  {
     "slug": "tuner-2026",
     "title": "Tuner",
     "verdict": "TRADITIONAL",
