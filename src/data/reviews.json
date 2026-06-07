@@ -146096,7 +146096,7 @@
     "wokeScore": 5.0,
     "tradScore": 16.94,
     "authIndex": 77,
-    "scoreMargin": "+12 TRAD",
+    "scoreMargin": 11.940000000000001,
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
