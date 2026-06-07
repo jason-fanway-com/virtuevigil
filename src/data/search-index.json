@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/wall-e-2008.jpg"
   },
   {
+    "slug": "the-princess-bride-1987",
+    "title": "The Princess Bride",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Adventure / Fantasy / Comedy / Romance",
+    "year": 1987,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 19.53,
+    "poster": "/images/posters/the-princess-bride-1987.jpg"
+  },
+  {
     "slug": "tuner-2026",
     "title": "Tuner",
     "verdict": "TRADITIONAL",
