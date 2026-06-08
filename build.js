@@ -1911,6 +1911,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-movies-for-teenagers-non-woke-2026/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-true-story-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-western-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-movies-about-perseverance/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-4th-of-july-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/drama-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/action-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
@@ -2856,6 +2857,7 @@ function buildListsHubPage() {
         'best-true-story-movies-conservatives',
         'best-western-movies-conservatives',
         'best-4th-of-july-movies',
+        'best-movies-about-perseverance',
         'superhero-movies-traditional-values',
         'best-father-son-movies'
       ]
@@ -2971,6 +2973,7 @@ function buildListsHubPage() {
       'best-movies-about-education-teaching': 'Best Movies About Education and Teaching (Ranked by Values)',
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories',
       'best-western-movies-conservatives': 'Best Western Movies for Conservatives',
+      'best-movies-about-perseverance': 'Best Movies About Perseverance: Top 10 Never-Give-Up Films Ranked by VirtueVigil Score',
       'best-4th-of-july-movies': 'Best 4th of July Movies: Top 10 Patriotic Films for Independence Day',
       'drama-movies-2026-woke-ranking': 'Every 2026 Drama Movie Ranked by Woke Score',
       'action-movies-2026-woke-ranking': 'Every 2026 Action Movie Ranked by Woke Score',
@@ -32379,6 +32382,312 @@ The short answer is no.</p>
         <p>The spread in 2022 comedy is remarkable. Glass Onion scores 42 on the woke scale while Bullet Train scores 2.35. Both are comedies. Both are mainstream releases. The difference is intentionality. Johnson built Glass Onion around a political thesis and the comedy serves the argument. Leitch built Bullet Train around an action premise and the comedy serves the chaos. The films with the highest woke scores made their ideology the point. The films at the bottom made entertainment the point and kept their values implicit rather than broadcast.</p>
         <p>Browse the companion 2022 rankings at <a href="/lists/action-movies-2022-woke-ranking/">Every 2022 Action Movie Ranked</a>, <a href="/lists/drama-movies-2022-woke-ranking/">Every 2022 Drama Movie Ranked</a>, and <a href="/lists/thriller-movies-2022-woke-ranking/">Every 2022 Thriller Movie Ranked</a>. For the full annual overview, see <a href="/lists/movies-2022-woke-ranking/">Every 2022 Movie Ranked by Woke Score</a>. Browse the complete VirtueVigil database at <a href="/reviews/">VirtueVigil.com/reviews/</a>.</p>
       </div>
+    </article>`
+  }));
+
+  // ─────────────────────────────────────────────────────────────────
+  // Best Movies About Perseverance: Top 10 Never-Give-Up Films
+  // ─────────────────────────────────────────────────────────────────
+  console.log('  lists/best-movies-about-perseverance/index.html');
+  writePage('lists/best-movies-about-perseverance/index.html', buildListiclePage({
+    slug: 'best-movies-about-perseverance',
+    title: 'Best Movies About Perseverance: Top 10 Never-Give-Up Films Ranked by VirtueVigil Score',
+    description: 'The 10 best movies about perseverance, ranked by VirtueVigil\'s dual traditional/woke scoring system. True stories, sports films, and survival dramas where men refuse to quit.',
+    canonicalPath: 'lists/best-movies-about-perseverance',
+    publishDate: '2026-06-08',
+    htmlContent: `<article class="listicle-article">
+
+<p>Hollywood does not make perseverance films the way it used to. The genre has been crowded out by deconstruction: the story where the underdog wins but it turns out the winning was not the point, or the athlete who triumphs but learns the real victory was rejecting the sport entirely. The instinct to interrogate every act of striving before the striving is allowed to mean anything has produced a generation of films that distrust their own heroes.</p>
+
+<p>This list is a corrective. These are ten films where men face genuinely impossible situations and refuse to stop fighting. Not because the plot requires it. Not because the screenplay needed a third act. Because something in them would not quit, and the films are honest enough to treat that refusal as a virtue rather than a character flaw requiring therapy. Every film here is scored using VirtueVigil's dual WOKE/TRAD methodology. The rankings are by traditional score margin. The data built this list.</p>
+
+<p>Every film links to its full VirtueVigil review with complete scoring breakdowns, trope audits, and parental guidance. These are not films to watch alone. They are films to watch with your sons.</p>
+
+<hr>
+
+<h2>#10 - Hacksaw Ridge (2016)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 2.4</span>
+  <span class="score-badge trad-score">Traditional Score: 21.35</span>
+  <span class="score-badge verdict-traditional">TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +18.95</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> War / Biography &bull; <strong>Year:</strong> 2016 &bull; <strong>Director:</strong> Mel Gibson &bull; <strong>MPAA:</strong> R</p>
+<p>Desmond Doss was a Seventh-day Adventist who enlisted in the Army during World War II and refused to carry a weapon on religious grounds. His fellow soldiers thought he was a coward or a liability. The Army tried to discharge him. His sergeant tried to break him. Nobody could make him quit or compromise. At the Battle of Okinawa's Hacksaw Ridge, Doss single-handedly lowered 75 wounded men down a 400-foot cliff under fire, one at a time, praying over each one. He was the first conscientious objector in American history to be awarded the Medal of Honor. Mel Gibson's film is brutal by design: the combat sequences are among the most intense ever filmed. The brutality is the point. What Doss endured without a weapon, and what he accomplished without firing a single shot, only lands if you understand the ground he crossed to do it. TradScore 21.35, WokeScore 2.4. Faith treated as unconquerable. The man who refused to quit was also the man who refused to pick up a rifle, and both refusals came from the same unshakeable place.</p>
+<p><a href="/reviews/hacksaw-ridge-2016/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Hacksaw Ridge</a></p>
+
+<hr>
+
+<h2>#9 - Gran Turismo (2023)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 3.3</span>
+  <span class="score-badge trad-score">Traditional Score: 22.68</span>
+  <span class="score-badge verdict-traditional">TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +19.38</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Sports / Biography &bull; <strong>Year:</strong> 2023 &bull; <strong>Director:</strong> Neill Blomkamp &bull; <strong>MPAA:</strong> PG-13</p>
+<p>The true story of Jann Mardenborough sounds like something a studio exec would reject for being too convenient: a teenage kid from Cardiff becomes one of the fastest Gran Turismo players on earth, gets recruited by a Nissan executive into a program designed to turn gamers into real racing drivers, and ends up competing at Le Mans. The film earns its premise by taking the training seriously. Jann does not just transfer his simulator skills to a real car. He washes out multiple times, gets humiliated by professional drivers who resent his presence, watches a real person die in an accident caused in part by his actions, and keeps going anyway. His tenacity is not comfortable or photogenic. It costs him. TradScore 22.68, WokeScore 3.3. The meritocracy premise is entirely intact: a kid with exceptional skill earned his way into elite competition through talent, preparation, and a refusal to accept that the gap between virtual mastery and real-world excellence could not be closed. He closed it.</p>
+<p><a href="/reviews/gran-turismo-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Gran Turismo</a></p>
+
+<hr>
+
+<h2>#8 - Ford v Ferrari (2019)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 2.0</span>
+  <span class="score-badge trad-score">Traditional Score: 22.05</span>
+  <span class="score-badge verdict-traditional">TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +20.05</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Sports / Biography &bull; <strong>Year:</strong> 2019 &bull; <strong>Director:</strong> James Mangold &bull; <strong>MPAA:</strong> PG-13</p>
+<p>Two men trying to go faster than anyone had gone before against a bureaucracy that would rather lose safely than win dangerously. Carroll Shelby and Ken Miles are not persevering against Ferrari. They are persevering against Ford's management committees, marketing departments, and legal teams, all of whom want credit for a victory they would never have had without men willing to drive a prototype race car past its known limits. Matt Damon and Christian Bale are perfectly paired: Shelby is the salesman who knows how to work a system, Miles is the purist who will not compromise what the car needs even when it costs him personally. The 1966 Le Mans sequence is one of the great sustained action setpieces in recent cinema. The film trusts its audience to understand what was stolen from Ken Miles in the final lap and why it matters. TradScore 22.05, WokeScore 2.0. Competence, integrity, and male friendship presented as genuinely worth celebrating. One of the cleanest scores in the 2019 catalog.</p>
+<p><a href="/reviews/ford-v-ferrari-2019/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ford v Ferrari</a></p>
+
+<hr>
+
+<h2>#7 - The Boys in the Boat (2023)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 3.4</span>
+  <span class="score-badge trad-score">Traditional Score: 24.22</span>
+  <span class="score-badge verdict-traditional">TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +20.82</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Sports / Biography &bull; <strong>Year:</strong> 2023 &bull; <strong>Director:</strong> George Clooney &bull; <strong>MPAA:</strong> PG-13</p>
+<p>Nine working-class University of Washington students in 1936 scrapped their way from the junior varsity boat to the Olympic trials to the Berlin Games, where they raced in the shadow of the Nazi regime and beat the German crew on their home water. These were not privileged athletes. Joe Rantz, the film's anchor, spent parts of his childhood abandoned, living alone in the woods, surviving on what he could find. The rowing team gave him something he had never had: a unit of men who depended on him and whom he could trust in return. The film is about what eight men can accomplish when they stop rowing as individuals and become a single machine. That transformation is the film's argument, and it is presented without irony or qualification. TradScore 24.22, WokeScore 3.4. Brotherhood, discipline, and earned victory against a regime that believed Americans were soft. They were not.</p>
+<p><a href="/reviews/the-boys-in-the-boat-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Boys in the Boat</a></p>
+
+<hr>
+
+<h2>#6 - Last Breath (2025)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 3.4</span>
+  <span class="score-badge trad-score">Traditional Score: 24.29</span>
+  <span class="score-badge verdict-traditional">TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +20.89</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Survival / Biography &bull; <strong>Year:</strong> 2025 &bull; <strong>Director:</strong> Alex Parkinson &bull; <strong>MPAA:</strong> PG-13</p>
+<p>Chris Lemons is a saturation diver working 300 feet below the North Sea when the umbilical cord connecting him to his diving bell is severed. He has five minutes and forty seconds of emergency gas in his suit. The supply ship is anchored 600 feet away. The rescue will take at least thirty minutes. This is not a movie about a man who fights to survive. It is a movie about a man who stays calm, does the work in front of him, and waits to be found by men who refuse to leave him. Both sides of that equation are the story. Lemons does not panic. The crew on the surface does not give up. The film is based on actual 2012 events, and the real Chris Lemons was alive to consult on its production. TradScore 24.29, WokeScore 3.4. Brotherhood and competence under conditions where either one failing means death. The genre at its most elemental and most honest.</p>
+<p><a href="/reviews/last-breath-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Last Breath</a></p>
+
+<hr>
+
+<h2>#5 - Creed (2015)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 2.7</span>
+  <span class="score-badge trad-score">Traditional Score: 24.64</span>
+  <span class="score-badge verdict-traditional">TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +21.94</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Sports Drama &bull; <strong>Year:</strong> 2015 &bull; <strong>Director:</strong> Ryan Coogler &bull; <strong>MPAA:</strong> PG-13</p>
+<p>Adonis Creed is the illegitimate son of Apollo Creed, who died in the ring before Adonis knew him. He grew up in privilege, walked away from it, and seeks out Rocky Balboa in Philadelphia to train him the way Rocky trained his father. The film is structured as a meditation on legacy: whether a name is a gift or a burden, whether you can honor someone by trying to surpass them, and whether the son of a champion can become a champion on his own terms. Michael B. Jordan trains with visible ferocity. The fights are choreographed with a physicality that makes the punishment real. Stallone's Rocky is no longer the fighter but the trainer, passing forward what he learned, and his performance is among the best of his career. TradScore 24.64, WokeScore 2.7. Mentorship, masculine inheritance, and a young man who earns every inch of the respect he is given. The Rocky franchise passed the torch without dropping it.</p>
+<p><a href="/reviews/creed-2015/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Creed</a></p>
+
+<hr>
+
+<h2>#4 - Lone Survivor (2013)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 2.45</span>
+  <span class="score-badge trad-score">Traditional Score: 25.34</span>
+  <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +22.89</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> War / Biography &bull; <strong>Year:</strong> 2013 &bull; <strong>Director:</strong> Peter Berg &bull; <strong>MPAA:</strong> R</p>
+<p>Operation Red Wings, June 2005. Four Navy SEALs are inserted into the mountains of Afghanistan to surveil a Taliban commander. They are compromised by goatherds, debate whether to kill them or release them, choose to release them, and within the hour are fighting for their lives against a force of over 200 Taliban fighters. Marcus Luttrell is the only one who survives. The film does not frame its central moral dilemma as a political argument. It shows you what four men decided and then what that decision cost. Peter Berg's direction is unsparing: the falls, the wounds, and the distances these men cover while dying are documented with the kind of specificity that makes the film almost unbearable to watch. TradScore 25.34, WokeScore 2.45. The film does not interrogate whether the mission was right. It honors the men who carried it out. That alone makes it one of the most counter-cultural war films of the past twenty years.</p>
+<p><a href="/reviews/lone-survivor-2013/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Lone Survivor</a></p>
+
+<hr>
+
+<h2>#3 - American Underdog (2021)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 2.0</span>
+  <span class="score-badge trad-score">Traditional Score: 26.04</span>
+  <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +24.04</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Sports / Biography &bull; <strong>Year:</strong> 2021 &bull; <strong>Director:</strong> Andrew and Jon Erwin &bull; <strong>MPAA:</strong> PG</p>
+<p>Kurt Warner stocked grocery shelves for $5.50 an hour while his NFL dreams sat on the shelf with the product. He played arena football when nobody was watching. He was cut twice before the Rams called. He became Super Bowl MVP. The Erwin Brothers take this story and do not over-sentimentalize it. They let the timeline do its work: years of waiting, years of being told no, years of refusing to accept that the answer was final. Anna Paquin plays Brenda Warner, who raised two kids from a previous marriage and lost her parents in a tornado, and her faith anchors the film through stretches where Kurt's perseverance looks less like inspiration and more like stubbornness. The film does not resolve that tension. It earns it. TradScore 26.04, WokeScore 2.0. Faith, family, and the refusal to believe that circumstances are permanent. The cleanest score in the 2021 sports catalog.</p>
+<p><a href="/reviews/american-underdog-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of American Underdog</a></p>
+
+<hr>
+
+<h2>#2 - Rocky (1976)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 1.4</span>
+  <span class="score-badge trad-score">Traditional Score: 29.54</span>
+  <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +28.14</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Sports Drama &bull; <strong>Year:</strong> 1976 &bull; <strong>Director:</strong> John G. Avildsen &bull; <strong>MPAA:</strong> PG</p>
+<p>Rocky Balboa is a small-time club fighter in South Philadelphia who collects debts for a loan shark and has never had a real chance at anything. When Apollo Creed's original opponent drops out, he picks Rocky as a promotional stunt: the Italian Stallion against the world champion on the bicentennial. Rocky does not train to win. He trains to go the distance, to prove to himself that he is not a bum. Sylvester Stallone wrote this film, sold it for almost nothing to keep the lead role, and starred in one of the most commercially successful movies ever made. The sequel was inevitable. The meaning of the original was not. Rocky does not win the fight. He goes fifteen rounds with the heavyweight champion of the world and loses on a split decision. The final scene is not about victory. It is about what it costs to try as hard as you can and still fall short, and why the trying was worth every blow. TradScore 29.54, WokeScore 1.4. Ambition, neighborhood loyalty, romantic commitment, and a man who earns the right to be called something better than what the world told him he was. Fifty years later it has not dated by a frame.</p>
+<p><a href="/reviews/rocky-1976/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Rocky</a></p>
+
+<hr>
+
+<h2>#1 - Society of the Snow (2023)</h2>
+<div class="listicle-scores">
+  <span class="score-badge woke-score">Woke Score: 1.4</span>
+  <span class="score-badge trad-score">Traditional Score: 31.99</span>
+  <span class="score-badge verdict-traditional">STRONGLY TRADITIONAL</span>
+  <span class="score-badge margin-badge">Margin: +30.59</span>
+</div>
+<p class="listicle-meta"><strong>Genre:</strong> Survival / Biography &bull; <strong>Year:</strong> 2023 &bull; <strong>Director:</strong> J.A. Bayona &bull; <strong>MPAA:</strong> R</p>
+<p>October 13, 1972. Uruguayan Air Force Flight 571 crashes in the Andes. Forty-five people board in Montevideo. Sixteen walk out alive seventy-two days later. The film does not flinch from what kept them alive. It does not need to. The moral framework J.A. Bayona builds around the survival decision is one of the most theologically serious things in mainstream cinema in years: these young Catholic men, most of them deeply faithful, are forced to reason through what God would allow, what their obligation to the dead was, and what it means to survive when others cannot. The answer they arrive at is not comfortable. It is honest. The expedition across the Andes in which two men cover forty-five miles on foot in ten days, over 15,000-foot passes, with no cold-weather gear, without a map, navigating by memory toward a valley none of them had seen, is presented with the kind of physical specificity that makes heroism feel earned rather than cinematic. TradScore 31.99, WokeScore 1.4. Fraternal loyalty, faith under pressure, and the willingness to do the hardest possible thing because the alternative is to let everyone else die with you. The highest-scoring perseverance film in the VirtueVigil database.</p>
+<p><a href="/reviews/society-of-the-snow-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Society of the Snow</a></p>
+
+<hr>
+
+<div class="listicle-conclusion">
+  <h3>What These Films Share</h3>
+  <p>Ten films, five decades, three continents, and a single consistent argument: the man who refuses to stop deserves a story. Not because he always wins. Rocky does not win. Chris Lemons is lifted out of the water with less than a minute of air remaining. Kurt Warner waits years before his moment comes. What connects every film on this list is not the outcome but the quality of the effort, the refusal to accept that circumstances are the final word.</p>
+  <p>Hollywood is increasingly suspicious of that argument. The perseverance film has been crowded out by films that interrogate the striving, question the ambition, or redirect the climax toward inner growth rather than external victory. These ten films push back. They say that going the distance means something, that saving the man beside you is worth dying for, and that the gap between where you are and where you could be is closeable through work and will. Every film on this list has a full review at VirtueVigil with complete scoring breakdowns, trope audits, and parental guidance. Browse the full catalog at <a href="/reviews/">virtuevigil.com/reviews/</a> and find the films that earn your trust before you give it.</p>
+</div>
+
+</article>`
+  }));
+
+
+  // Every 2022 Sci-Fi, Fantasy & Animated Movie Ranked by Woke Score
+  // ─────────────────────────────────────────────────────────────────
+  console.log('  lists/sci-fi-fantasy-animated-movies-2022-woke-ranking/index.html');
+  writePage('lists/sci-fi-fantasy-animated-movies-2022-woke-ranking/index.html', buildListiclePage({
+    slug: 'sci-fi-fantasy-animated-movies-2022-woke-ranking',
+    title: 'Every 2022 Sci-Fi, Fantasy & Animated Movie Ranked by Woke Score',
+    description: 'All 10 reviewed 2022 sci-fi, fantasy, and animated films ranked from most woke to most traditional. Strange World to Puss in Boots, fully scored by VirtueVigil.',
+    canonicalPath: 'lists/sci-fi-fantasy-animated-movies-2022-woke-ranking',
+    publishDate: '2026-06-08',
+    htmlContent: `<article class="listicle-article">
+
+      <p>Science fiction, fantasy, and animation have always been Hollywood's ideological laboratory. These genres give filmmakers a sandbox to package progressive messages inside alien civilizations, magical kingdoms, and animated talking animals. Kids and families are the target demographic. The messaging lands before anyone notices it is happening.</p>
+
+      <p>In 2022, the pattern accelerated. Disney released three animated films, two of which scored among the highest woke scores in our database. The MCU contributed a multiverse thriller with identity politics baked into its premise. An A24 mind-bender about a Chinese-American immigrant became the most awarded film of the year while quietly pushing a progressive thesis about meaning and family. VirtueVigil scored all ten of the major 2022 sci-fi, fantasy, and animated releases using our Woke-Watch Scoring System. The results run from one of Disney's most overtly ideological productions ever made to one of the most refreshingly clean animated films in recent memory. Here is every film ranked from most woke to most traditional.</p>
+
+      <hr>
+
+      <h2>#1 (Most Woke): <a href="/reviews/strange-world-2022/">Strange World (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -15 WOKE</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 27.5 | TRAD: 12.32</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Sci-Fi/Adventure &bull; <strong>Platform:</strong> Disney+ / Theatrical</p>
+      <p>Disney's centennial-year animated film embeds two overt progressive agendas: a climate allegory where industrial civilization is literally a parasite killing its host planet, and the studio's first openly gay animated lead character. The miracle energy source powering the civilization is revealed to be a parasitic organism destroying the world beneath the characters' feet, a direct fossil fuel metaphor. The same-sex teenage relationship is treated as entirely normalized without announcement, a deliberate choice by director Don Hall. Disney lost an estimated $197 million on the film. The ideological content was never hidden, but audiences stayed away anyway.</p>
+      <p><a href="/reviews/strange-world-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Strange World</a></p>
+
+      <hr>
+
+      <h2>#2: <a href="/reviews/turning-red-2022/">Turning Red (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke">WOKE</span>
+        <span class="mini-score woke">MARGIN: -13 WOKE</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 17.85 | TRAD: 4.55</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Comedy/Fantasy &bull; <strong>Platform:</strong> Disney+ / Theatrical</p>
+      <p>Director Domee Shi confirmed in interviews that the red panda transformation is an explicit puberty and bodily autonomy metaphor. The film's central thesis is that Meilin's traditional Chinese-Canadian mother is the actual obstacle to her daughter's liberation. Parental authority and cultural conservatism are framed as a cage to break free from, not a heritage to honor. A traditional score of only 4.55 reflects how thoroughly the film replaced conventional family values content with a liberation-from-parents narrative. Parents expecting a fun animated animal adventure found something built around an argument instead.</p>
+      <p><a href="/reviews/turning-red-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Turning Red</a></p>
+
+      <hr>
+
+      <h2>#3: <a href="/reviews/lightyear-2022/">Lightyear (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -4 WOKE</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 10.22 | TRAD: 6.65</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animation/Sci-Fi/Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Pixar's first full theatrical release since COVID featured a same-sex kiss that generated significant controversy and resulted in bans in 14 countries. The film was sold as the in-universe movie that inspired young Andy to love his Buzz Lightyear toy, but it delivered a different product than many families expected. The lesbian relationship between Alisha Hawthorne and her wife is woven into the plot as a normalized story beat, and Izzy Hawthorne's character functions as a legacy narrative built around that relationship. Lightyear grossed $226 million worldwide against a $200 million production budget, becoming Pixar's first widely considered box office bomb.</p>
+      <p><a href="/reviews/lightyear-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Lightyear</a></p>
+
+      <hr>
+
+      <h2>#4: <a href="/reviews/doctor-strange-multiverse-of-madness-2022/">Doctor Strange in the Multiverse of Madness (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge woke-lean">WOKE LEAN</span>
+        <span class="mini-score woke">MARGIN: -3 WOKE</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 13.6 | TRAD: 10.22</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Adventure/Horror &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>Sam Raimi brought genuine horror craft to the MCU and Elizabeth Olsen delivered a villain performance of real power. The progressive content centers on America Chavez as the MCU's first LGBTQ+ Latin lead and the Illuminati line-up featuring gender-swapped legacy heroes. Wanda's maternal entitlement reframed as sympathetic grief carries more ideological weight than either casting choice. Raimi's instincts fight the franchise's identity-politics directives throughout, which is why the film is more interesting than most Phase Four output despite its woke lean verdict. Strange's traditional score of 10.22 reflects genuine themes of moral responsibility and self-sacrifice.</p>
+      <p><a href="/reviews/doctor-strange-multiverse-of-madness-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Doctor Strange in the Multiverse of Madness</a></p>
+
+      <hr>
+
+      <h2>#5: <a href="/reviews/everything-everywhere-all-at-once-2022/">Everything Everywhere All at Once (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +1 TRAD</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 15.34 | TRAD: 16.32</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Comedy/Sci-Fi/Drama &bull; <strong>Platform:</strong> Theatrical / A24</p>
+      <p>The most awarded film of 2022 is also the hardest to score cleanly. Evelyn Wang's arc is genuinely about mother-daughter reconciliation, intergenerational immigrant sacrifice, and the love that persists across infinite possibility. The progressive content sits in the nihilism-as-philosophy framing, queer relationship normalization for Joy and her girlfriend, and the film's suggestion that meaning must be chosen rather than inherited. The trad score barely edges ahead because the film's emotional core, a mother fighting to reconnect with her daughter, is traditional at its foundation. The MIXED verdict reflects a film that earned seven Oscars by being genuinely both things at once.</p>
+      <p><a href="/reviews/everything-everywhere-all-at-once-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Everything Everywhere All at Once</a></p>
+
+      <hr>
+
+      <h2>#6: <a href="/reviews/house-of-the-dragon-2022/">House of the Dragon (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +2 TRAD</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 12.92 | TRAD: 14.54</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Fantasy/Epic Drama &bull; <strong>Platform:</strong> HBO/Max</p>
+      <p>HBO's Game of Thrones prequel commits to a political drama about dynastic succession, duty, and the cost of compromise. The progressive elements center on a succession narrative explicitly framed around Rhaenyra's exclusion from power as an unjust gender-based grievance, with her claim treated as the moral center of a corrupt system. The traditional score reflects the show's genuine engagement with honor, loyalty, and the weight of family obligation under a system where everyone is compromised. Neither score dominates, and the MIXED verdict is accurate: this is a show that takes traditional power structures seriously enough to interrogate them rather than simply dismiss them.</p>
+      <p><a href="/reviews/house-of-the-dragon-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of House of the Dragon</a></p>
+
+      <hr>
+
+      <h2>#7: <a href="/reviews/avatar-the-way-of-water-2022/">Avatar: The Way of Water (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge mixed">MIXED</span>
+        <span class="mini-score" style="color:var(--accent-amber);">MARGIN: +3 TRAD</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 14.54 | TRAD: 17.14</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi/Action/Adventure &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
+      <p>James Cameron's long-awaited sequel embeds heavy environmental and anti-colonial messaging into a visually spectacular family saga. The human military antagonists operate with explicit parallels to colonial extraction industries. The Metkayina clan's ocean connection is coded as an indigenous spiritual relationship being violated for profit. What keeps the film in MIXED territory is Cameron's genuine commitment to the Sully family unit: Jake's protective fatherhood and the family's willingness to sacrifice for each other drive the emotional narrative with real sincerity. The film grossed $2.32 billion worldwide, suggesting that the ideological content did not alienate the audience the way Disney's animated agenda-films did the same year.</p>
+      <p><a href="/reviews/avatar-the-way-of-water-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Avatar: The Way of Water</a></p>
+
+      <hr>
+
+      <h2>#8: <a href="/reviews/prey-2022/">Prey (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+        <span class="mini-score trad">MARGIN: +7 TRAD</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 10.92 | TRAD: 18.34</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Action/Sci-Fi/Thriller &bull; <strong>Platform:</strong> Hulu</p>
+      <p>The Predator prequel is set in 1719 among the Comanche Nation and follows Naru, a young woman warrior who defeats an alien apex predator her tribe's best fighters cannot overcome. The feminist protagonist and revisionist historical framing add woke points, but the film's core is a story about earning respect through demonstrated skill, personal courage against impossible odds, and the satisfaction of a genuine competence narrative. Prey earned a 93 percent on Rotten Tomatoes and audience goodwill because Dan Trachtenberg let Naru win through intelligence and preparation rather than by being arbitrarily better than everyone for no reason. The film treats its protagonist's strength as earned, not assigned.</p>
+      <p><a href="/reviews/prey-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Prey</a></p>
+
+      <hr>
+
+      <h2>#9: <a href="/reviews/nope-2022/">Nope (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +10 TRAD</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 20 | TRAD: 30</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Horror/Sci-Fi &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>Jordan Peele's sci-fi horror film about an alien entity that feeds on attention delivers one of the most genuinely American stories in recent blockbuster cinema: two Black siblings who own a horse ranch in the California desert fighting to survive and document something the world has never seen. The woke score of 20 reflects Peele's commentary on spectacle culture and exploitation, but it is embedded in a story about family, legacy, craftsmanship, and the refusal to commodify your dignity. The traditional score of 30 reflects a film that respects its characters' agency and their determination to protect what belongs to them. OJ Haywood does not perform his fear for anyone. He works.</p>
+      <p><a href="/reviews/nope-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Nope</a></p>
+
+      <hr>
+
+      <h2>#10 (Most Traditional): <a href="/reviews/puss-in-boots-the-last-wish-2022/">Puss in Boots: The Last Wish (2022)</a></h2>
+      <div class="listicle-scores">
+        <span class="verdict-badge traditional">TRADITIONAL</span>
+        <span class="mini-score trad">MARGIN: +14 TRAD</span>
+        <span class="mini-score" style="color:var(--accent-amber);">WOKE: 2.4 | TRAD: 16.2</span>
+      </div>
+      <p class="listicle-meta"><strong>Genre:</strong> Animated Adventure Comedy &bull; <strong>Platform:</strong> Theatrical / Peacock</p>
+      <p>The cleanest watch on this list and one of the best animated films in years. DreamWorks made a film about a swashbuckling cat who has burned through eight of his nine lives learning to value the one he has left. The themes of mortality, humility, and choosing life over legend are delivered without a single progressive agenda insertion. The Death villain, a whistling bounty hunter who represents the inevitable consequence of recklessness, is one of the most striking animated antagonists in recent memory. A woke score of 2.4 is exceptional for any modern wide-release animation. Puss in Boots: The Last Wish proves that family animation can be emotionally resonant, technically excellent, and ideologically clean at the same time. It also made $484 million worldwide on a $90 million budget, proving that the audience for clean animation still exists and will show up.</p>
+      <p><a href="/reviews/puss-in-boots-the-last-wish-2022/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Puss in Boots: The Last Wish</a></p>
+
+      <hr>
+
+      <div class="listicle-conclusion">
+        <h3>The 2022 Lesson</h3>
+        <p>The 2022 sci-fi, fantasy, and animated landscape split sharply between Disney's ideological heavy hitters and a handful of films that put story first. Strange World and Turning Red represent Disney at its most agenda-driven, both losing significant money while delivering messages their audiences did not ask for. On the other end, Puss in Boots: The Last Wish and Nope prove that the same genres can produce genuinely great entertainment without a lecture attached.</p>
+        <p>The gap between Strange World (woke score: 27.5, lost $197M) and Puss in Boots (woke score: 2.4, made $394M profit) is not coincidental. Audiences in 2022 voted with their wallets in the sci-fi and animation space more clearly than in almost any other genre. Browse the full VirtueVigil review database at <a href="/reviews/">virtuevigil.com/reviews/</a> to see every film scored by the numbers. Know what you are watching before you press play.</p>
+      </div>
+
     </article>`
   }));
 
