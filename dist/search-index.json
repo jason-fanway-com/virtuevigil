@@ -6048,6 +6048,18 @@
     "poster": "/images/posters/harry-potter-and-the-sorcerers-stone-2001.jpg"
   },
   {
+    "slug": "home-alone-1990",
+    "title": "Home Alone",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Comedy / Family / Christmas",
+    "year": 1990,
+    "type": "film",
+    "wokeScore": 3.1,
+    "tradScore": 25.34,
+    "poster": "/images/posters/home-alone-1990.jpg"
+  },
+  {
     "slug": "finding-nemo-2003",
     "title": "Finding Nemo",
     "verdict": "TRADITIONAL",
