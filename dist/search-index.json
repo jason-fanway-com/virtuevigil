@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "harry-potter-and-the-sorcerers-stone-2001",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Fantasy / Family / Adventure",
+    "year": 2001,
+    "type": "film",
+    "wokeScore": 2.4,
+    "tradScore": 23.59,
+    "poster": "/images/posters/harry-potter-and-the-sorcerers-stone-2001.jpg"
+  },
+  {
     "slug": "finding-nemo-2003",
     "title": "Finding Nemo",
     "verdict": "TRADITIONAL",
