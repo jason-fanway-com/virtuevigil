@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/home-alone-1990.jpg"
   },
   {
+    "slug": "up-2009",
+    "title": "Up",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation / Adventure / Family",
+    "year": 2009,
+    "type": "film",
+    "wokeScore": 2.8,
+    "tradScore": 28.56,
+    "poster": "/images/posters/up-2009.jpg"
+  },
+  {
     "slug": "finding-nemo-2003",
     "title": "Finding Nemo",
     "verdict": "TRADITIONAL",
