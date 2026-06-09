@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/the-shining-1980.jpg"
   },
   {
+    "slug": "scarface-1983",
+    "title": "Scarface",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Crime / Drama",
+    "year": 1983,
+    "type": "film",
+    "wokeScore": 18.38,
+    "tradScore": 14.28,
+    "poster": "/images/posters/scarface-1983.jpg"
+  },
+  {
     "slug": "harry-potter-and-the-sorcerers-stone-2001",
     "title": "Harry Potter and the Sorcerer's Stone",
     "verdict": "STRONGLY TRADITIONAL",
