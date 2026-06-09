@@ -32691,6 +32691,112 @@ The short answer is no.</p>
     </article>`
   }));
 
+  // Listicle 138: Father's Day Movies Ranked by Traditional Values
+  console.log('  lists/best-fathers-day-movies-traditional-values/index.html');
+  writePage('lists/best-fathers-day-movies-traditional-values/index.html', buildListiclePage({
+    slug: 'best-fathers-day-movies-traditional-values',
+    title: "12 Best Father's Day Movies Ranked by Traditional Values",
+    description: "The 12 best movies for Father's Day ranked by VirtueVigil's Traditional Values Score. Gladiator, Finding Nemo, Logan, Taken, A Quiet Place, and more.",
+    canonicalPath: 'lists/best-fathers-day-movies-traditional-values',
+    publishDate: '2026-06-09',
+    htmlContent: `<article class="listicle-article">
+      <p>Father's Day lands on June 21. If you want to watch something that actually celebrates what fatherhood means, you are in the right place. This list ranks 12 films featuring strong father figures, protective dads, and surrogate fathers using the VirtueVigil Traditional Values Score. These are films that treat fatherhood as something real, something worth honoring, not something to deconstruct or satirize.</p>
+
+      <p>These are not ranked by how well-reviewed they are or how much money they made. They are ranked by VirtueVigil's traditional values margin, which measures duty, sacrifice, family loyalty, masculine virtue, and moral accountability. A higher positive margin means the film leans more strongly traditional. Every film on this list is a safe watch. Several are genuinely great films by any measure. The links below take you to the full VirtueVigil review for each one.</p>
+
+      <hr>
+
+      <h2>#1 - Gladiator (2000)</h2>
+      <p><strong>VirtueVigil Score:</strong> +31 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Action / Drama</p>
+      <p>Maximus Decimus Meridius is a general, a husband, and a father. His wife and son are murdered in the opening act. Everything he does from that point forward is about honoring their memory, completing the mission his murdered emperor set for him, and refusing to let their deaths be meaningless. Gladiator is the most traditionally coded blockbuster of its era. Strength, honor, sacrifice, and the idea that some things are worth dying for are not background themes here. They are the entire film. Russell Crowe won the Oscar, but the real achievement is how completely the movie commits to its worldview without flinching. The father-son bond is destroyed in the first act and drives everything in the next two hours.</p>
+      <p><a href="/reviews/gladiator-2000/">Read the full VirtueVigil review of Gladiator</a></p>
+
+      <hr>
+
+      <h2>#2 - The Lion King (1994)</h2>
+      <p><strong>VirtueVigil Score:</strong> +24 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Animated / Family</p>
+      <p>Mufasa and Simba are cinema's definitive father-son pair. The Lion King builds its entire structure around patrilineal inheritance, filial duty, and the catastrophic consequences of a son abandoning his responsibility. Mufasa's death is still one of the most emotionally devastating moments in animated film history because the story earns it completely. The message is direct: your father's legacy is your obligation, not your burden to escape. Scar represents the corruption that fills the vacuum when legitimate authority is destroyed. Nothing in The Lion King undercuts the father-son bond or suggests Simba's duty to return is anything other than right.</p>
+      <p><a href="/reviews/the-lion-king-1994/">Read the full VirtueVigil review of The Lion King</a></p>
+
+      <hr>
+
+      <h2>#3 - Cobra Kai (2018)</h2>
+      <p><strong>VirtueVigil Score:</strong> +23 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Drama / Martial Arts</p>
+      <p>Cobra Kai is the most unexpectedly traditional piece of American entertainment of the past decade. What looks like nostalgia bait turns out to be a serious meditation on mentorship, masculine virtue, earned legacy, and the lifelong cost of unresolved grievance. Johnny Lawrence becomes a father figure not just to Miguel but to an entire generation of lost kids. Daniel LaRusso learns that the wisdom Mr. Miyagi passed to him is not something he can keep private. The series insists that the knowledge and discipline fathers pass down to sons, biological or chosen, matters. It treats male mentorship as a calling. For Father's Day, this is essential viewing.</p>
+      <p><a href="/reviews/cobra-kai-2018/">Read the full VirtueVigil review of Cobra Kai</a></p>
+
+      <hr>
+
+      <h2>#4 - Creed (2015)</h2>
+      <p><strong>VirtueVigil Score:</strong> +22 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Sports / Drama</p>
+      <p>Ryan Coogler's Creed works as a Rocky sequel and as a standalone film about a young man without a father searching for one. Adonis Johnson shows up at Rocky Balboa's door not just for training but for something harder to name. Rocky resists at first because he knows what this kind of relationship costs. When he finally commits, he gives Adonis everything: the discipline, the tough love, the honest assessment of what it takes. The film operates on a framework of earned legacy, masculine mentorship, and personal accountability. Rocky's willingness to pour himself into someone else's future while fighting his own cancer diagnosis in private is one of the great father figure portrayals in modern sports cinema.</p>
+      <p><a href="/reviews/creed-2015/">Read the full VirtueVigil review of Creed</a></p>
+
+      <hr>
+
+      <h2>#5 - A Quiet Place (2018)</h2>
+      <p><strong>VirtueVigil Score:</strong> +20 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Horror / Thriller</p>
+      <p>John Krasinski wrote, directed, and starred in one of the most unambiguously pro-family films in mainstream American cinema in years. The Abbott family survives in near-total silence to avoid creatures that hunt by sound. Every decision the father makes is oriented around one thing: keeping his family alive and passing down the knowledge they need to survive after he is gone. The film's climax makes the father's role explicit and permanent. A Quiet Place does not comment on fatherhood. It demonstrates it in the most visceral terms possible. Krasinski turned a monster movie into a film about what fathers do when they know they cannot protect their children forever.</p>
+      <p><a href="/reviews/a-quiet-place-2018/">Read the full VirtueVigil review of A Quiet Place</a></p>
+
+      <hr>
+
+      <h2>#6 - Ford v Ferrari (2019)</h2>
+      <p><strong>VirtueVigil Score:</strong> +20 TRAD &bull; <strong>Verdict:</strong> STRONGLY TRADITIONAL &bull; <strong>Genre:</strong> Drama / Sports</p>
+      <p>James Mangold's film about Carroll Shelby and Ken Miles building the GT40 to beat Ferrari at Le Mans is also a film about what fathers pass to sons. Miles brings his boy to the track, explains what the car can do, and shows him what it looks like to pursue excellence without compromise. The relationship between father and son runs underneath the racing story as a quiet constant. Miles is a man who could make more money being more cooperative, and he refuses. His son watches every choice. Ford v Ferrari celebrates male excellence, craftsmanship, loyal friendship, family, and integrity against institutional mediocrity. Zero progressive content. It trusts its audience to understand why winning on your own terms matters.</p>
+      <p><a href="/reviews/ford-v-ferrari-2019/">Read the full VirtueVigil review of Ford v Ferrari</a></p>
+
+      <hr>
+
+      <h2>#7 - Father Stu (2022)</h2>
+      <p><strong>VirtueVigil Score:</strong> +20 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Drama / Faith</p>
+      <p>Mark Wahlberg paid for this film himself. Sony declined. A Catholic boxing biopic about a man who embraces progressive muscle disease as participation in Christ's suffering was not something a major studio wanted to fund. Wahlberg believed in it enough to write the check. Father Stu follows Stuart Long from a troubled relationship with his own father through a conversion that reframes everything about what family and sacrifice mean. The film is specific about what faith demands and honest about how difficult it is. It treats fatherhood, both earthly and divine, with the seriousness those relationships deserve. Not a comfortable watch. A true one.</p>
+      <p><a href="/reviews/father-stu-2022/">Read the full VirtueVigil review of Father Stu</a></p>
+
+      <hr>
+
+      <h2>#8 - Taken (2008)</h2>
+      <p><strong>VirtueVigil Score:</strong> +18 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Action / Thriller</p>
+      <p>Bryan Mills is an ex-CIA operative who spent his career being unavailable for his family. His daughter is kidnapped in Paris. The rest of the film is a single father refusing to let institutional barriers, geography, or the cost to himself stop him from bringing her home. The famous phone call became a cultural moment because it crystallized something real: a father's threat delivered with complete sincerity. Taken is not a complicated film. It is a direct expression of what paternal protection looks like when someone removes all the limits. Liam Neeson committed to it fully, and the result is one of the most watched and rewatched action films of its era for exactly this reason.</p>
+      <p><a href="/reviews/taken-2008/">Read the full VirtueVigil review of Taken</a></p>
+
+      <hr>
+
+      <h2>#9 - Logan (2017)</h2>
+      <p><strong>VirtueVigil Score:</strong> +18 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Action / Drama</p>
+      <p>James Mangold's final Wolverine film is a Western about a broken man who becomes a father figure whether he wants to or not. Logan is dying. He has been running from the idea of connection for decades. Laura, a child created from his DNA, is placed in his care, and he cannot abandon her no matter how much he wants to. The film builds to a cross marking his grave and a girl crying for the first time. If that moment does not land somewhere real, you are not paying attention. Logan treats the father-child bond as something that can grow from nothing, that emerges from sacrifice and proximity and the willingness to keep showing up even when it is the last thing you want to do.</p>
+      <p><a href="/reviews/logan-2017/">Read the full VirtueVigil review of Logan</a></p>
+
+      <hr>
+
+      <h2>#10 - Interstellar (2014)</h2>
+      <p><strong>VirtueVigil Score:</strong> +15 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Sci-Fi / Drama</p>
+      <p>Christopher Nolan built a film about physics, space, and the survival of the human race, and the emotional engine that drives all of it is a father who cannot bring himself to say goodbye to his daughter. Cooper leaves because he has to. Murph never forgives him. The film spans decades and dimensions, and what it keeps returning to is the question of whether the love between a parent and child can bridge any distance, even the ones that make communication impossible. Fatherhood as the film's central engine is treated without irony. The masculine duty to leave, to sacrifice, to do the hard thing even when the people you love do not understand it, is at the heart of what Nolan built here.</p>
+      <p><a href="/reviews/interstellar-2014/">Read the full VirtueVigil review of Interstellar</a></p>
+
+      <hr>
+
+      <h2>#11 - Forrest Gump (1994)</h2>
+      <p><strong>VirtueVigil Score:</strong> +14 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Drama / Comedy</p>
+      <p>Forrest Gump runs through three decades of American history, and the moment that stops the film cold is when Jenny tells him he has a son. Forrest has spent the entire film loving without condition and giving without expectation. His approach to fatherhood is exactly what he has always been: present, loyal, and willing. Tom Hanks carries the film on the strength of a character who takes loyalty, service, and unconditional love seriously and shows what those values produce across a lifetime. Forrest Gump is traditional cinema in the deepest sense because those values are the architecture of the story, not its decoration.</p>
+      <p><a href="/reviews/forrest-gump-1994/">Read the full VirtueVigil review of Forrest Gump</a></p>
+
+      <hr>
+
+      <h2>#12 - Finding Nemo (2003)</h2>
+      <p><strong>VirtueVigil Score:</strong> +12 TRAD &bull; <strong>Verdict:</strong> TRADITIONAL &bull; <strong>Genre:</strong> Animated / Family</p>
+      <p>Marlin is a clownfish who has spent his entire life avoiding risk because he lost everything once and cannot face losing what is left. When Nemo is taken, Marlin crosses an ocean. Finding Nemo is the father-son bond stripped to its absolute core: a parent who will keep going past every reasonable limit because the alternative is unacceptable. The film respects both characters, the overprotective father who has to learn to let go and the son who has to learn that his father's fear comes from love. The mild anti-captivity undercurrent barely registers against the overwhelming weight of what Pixar got right about parental sacrifice. For families watching on Father's Day, this one holds up completely.</p>
+      <p><a href="/reviews/finding-nemo-2003/">Read the full VirtueVigil review of Finding Nemo</a></p>
+
+      <hr>
+
+      <h2>About This Ranking</h2>
+      <p>All scores use the VirtueVigil Traditional Values Margin, which measures the net difference between traditional values content and progressive ideological messaging across categories including family structure, masculine virtue, duty and sacrifice, religious themes, and moral accountability. For full methodology details, visit our <a href="/methodology.html">Methodology page</a>.</p>
+
+      <p>Browse hundreds of additional reviews at <a href="/">VirtueVigil</a>, or explore more curated lists in our <a href="/lists/">Lists section</a>. Know what you are watching before you press play.</p>
+    </article>`
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
