@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "sully-2016",
+    "title": "Sully",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Biography / Drama / History",
+    "year": 2016,
+    "type": "film",
+    "wokeScore": 2.7,
+    "tradScore": 18.34,
+    "poster": "/images/posters/sully-2016.jpg"
+  },
+  {
     "slug": "the-exorcist-1973",
     "title": "The Exorcist",
     "verdict": "STRONGLY TRADITIONAL",
