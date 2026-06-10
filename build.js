@@ -1931,6 +1931,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/thriller-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/thriller-movies-2022-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/comedy-movies-2022-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/comedy-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-adventure-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -2902,6 +2903,7 @@ function buildListsHubPage() {
         'thriller-movies-2023-woke-ranking',
         'thriller-movies-2022-woke-ranking',
         'comedy-movies-2022-woke-ranking',
+        'comedy-movies-2023-woke-ranking',
         'sci-fi-adventure-movies-2023-woke-ranking',
         'movies-2023-woke-ranking',
         'movies-2021-woke-ranking',
@@ -2992,6 +2994,7 @@ function buildListsHubPage() {
       'thriller-movies-2023-woke-ranking': 'Every 2023 Thriller Movie Ranked by Woke Score',
       'thriller-movies-2022-woke-ranking': 'Every 2022 Thriller Movie Ranked by Woke Score',
       'comedy-movies-2022-woke-ranking': 'Every 2022 Comedy Movie Ranked by Woke Score',
+      'comedy-movies-2023-woke-ranking': 'Every 2023 Comedy Movie Ranked by Woke Score',
       'sci-fi-adventure-movies-2023-woke-ranking': 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score',
       'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score',
       'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score',
@@ -32795,6 +32798,161 @@ The short answer is no.</p>
 
       <p>Browse hundreds of additional reviews at <a href="/">VirtueVigil</a>, or explore more curated lists in our <a href="/lists/">Lists section</a>. Know what you are watching before you press play.</p>
     </article>`
+  }));
+
+  console.log('  lists/comedy-movies-2023-woke-ranking/index.html');
+  writePage('lists/comedy-movies-2023-woke-ranking/index.html', buildListiclePage({
+    slug: 'comedy-movies-2023-woke-ranking',
+    title: 'Every 2023 Comedy Movie Ranked by Woke Score',
+    description: 'All 12 reviewed 2023 comedy and musical films ranked from most woke to most traditional. Barbie to Wonka, every scored 2023 comedy fully analyzed.',
+    canonicalPath: 'lists/comedy-movies-2023-woke-ranking',
+    publishDate: '2026-06-10',
+    htmlContent: `<article class="listicle-article">
+
+  <p>Comedy is the genre where ideology does its quietest damage. When a film makes you laugh, your defenses drop. You are not on guard. That is exactly when the messaging slips through. VirtueVigil tracked every reviewed 2023 comedy, musical, and comedy-adjacent film using the dual-axis VVWS scoring system to determine which films stayed clean and which ones used the laughs as cover for something else.</p>
+
+  <p>The 2023 comedy landscape tells a stark story. At one end sits Barbie with a woke score of 48, the highest VirtueVigil has ever recorded for any film in this genre. At the other end sit Wonka and Migration with traditional margins of +12, offering families clean entertainment with real heart. In between lies the full spectrum of what comedy meant in 2023. All 12 films ranked from most woke to most traditional.</p>
+
+  <hr>
+
+  <h2>#1 (Most Woke): <a href="/reviews/barbie-2023/">Barbie (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+    <span class="mini-score woke">MARGIN: -32 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Comedy &bull; <strong>Director:</strong> Greta Gerwig</p>
+  <p>Nobody took their kids to a $1.44 billion feminist manifesto, but that is what they got. Barbie scored a 48 on the woke scale, the highest VirtueVigil has ever recorded for a comedy. The anti-patriarchy thesis is not embedded in the background; it is the entire spine of the film. Gloria's monologue about the impossible contradictions of womanhood is delivered without irony or qualification, and the Kendom takeover-and-defeat sequence is a direct allegory for feminist theory about historical gender construction. Greta Gerwig is a gifted filmmaker who made a sincere ideological argument wrapped in pink packaging, then distributed it to families who thought they were buying nostalgia.</p>
+  <p>The film does contain a genuinely moving traditional core: Barbie's choice to become mortal, to trade perfection for imperfect humanity, is a timeless theme. But those traditional elements exist in service of the feminist framework, not independently of it. A woke trap of the highest severity.</p>
+  <p><a href="/reviews/barbie-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Barbie</a></p>
+
+  <hr>
+
+  <h2>#2: <a href="/reviews/the-marvels-2023/">The Marvels (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke">WOKE</span>
+    <span class="mini-score woke">MARGIN: -14 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Comedy &bull; <strong>Platform:</strong> Disney+</p>
+  <p>The Marvels broke the MCU's aura of commercial invincibility by losing over $200 million for Disney. The film is structured as an all-female superhero team-up where every competent, brave, or emotionally intelligent character is female and Nick Fury is reduced to comic relief babysitting Flerken kittens. The script reads like a representation checklist: girl power team-up, Muslim superhero, Korean love interest for the Asian market, and cute animals for merchandise. What it forgot was a coherent story or a compelling villain. Iman Vellani is genuinely delightful and she alone salvages any goodwill the film has. The audience responded to the rest by staying home.</p>
+  <p><a href="/reviews/the-marvels-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Marvels</a></p>
+
+  <hr>
+
+  <h2>#3: <a href="/reviews/the-little-mermaid-2023/">The Little Mermaid (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke">WOKE</span>
+    <span class="mini-score woke">MARGIN: -12 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Musical &bull; <strong>Platform:</strong> Disney+</p>
+  <p>Disney sold this as a faithful recreation of a beloved classic and delivered a deliberate representation exercise with a combative press posture toward the audience that pushed back. The casting of Halle Bailey was explicitly positioned as a political statement by the studio and its director, who publicly accused objectors of racism. The film is also a sharper argument about female autonomy than the 1989 original: King Triton's protection of Ariel is reframed from paternal love to patriarchal control. Halle Bailey's voice is extraordinary and the production is lush. The traditional elements, true love, parental sacrifice, family reconciliation, are all present and they work. But the gap between what the marketing promised and what the studio consciously made is the trap.</p>
+  <p><a href="/reviews/the-little-mermaid-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Little Mermaid</a></p>
+
+  <hr>
+
+  <h2>#4: <a href="/reviews/the-color-purple-2023/">The Color Purple (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke-lean">WOKE LEAN</span>
+    <span class="mini-score woke">MARGIN: -8 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Musical / Drama / Historical &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Alice Walker's 1982 novel has a specific thesis, and every adaptation since has honored it faithfully: patriarchal abuse of Black women by Black men is systematic, and liberation comes through female solidarity, self-love, and the romantic love between women that male-female relationships within the story cannot provide. The 2023 musical version is well-made with exceptional performances from Fantasia Barrino and Danielle Brooks. It scores woke not because it is poorly crafted but because the ideological architecture is structural and intentional. Celie's faith, the film's spiritual framework, is genuine and central. But it exists in service of the feminist liberation story rather than as an independent value.</p>
+  <p><a href="/reviews/the-color-purple-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Color Purple</a></p>
+
+  <hr>
+
+  <h2>#5: <a href="/reviews/american-fiction-2023/">American Fiction (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke-lean">WOKE LEAN</span>
+    <span class="mini-score woke">MARGIN: -8 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Comedy / Drama &bull; <strong>Platform:</strong> Prime Video</p>
+  <p>American Fiction is the most interesting progressive film of 2023 because it accidentally makes a conservative argument. The publishing industry's appetite for Black trauma narratives told to validate white progressive audiences is satirized with razor precision. Jeffrey Wright's Monk is a serious artist trapped in a system that rewards performance of suffering over craft, which is at root a conservative critique of progressive patronage. But Cord Jefferson can only criticize the system from within its assumptions. His answer is more authentic representation, not less racial sorting. The gay subplot is earnest rather than satirical. The film blinks at the end. See it for Wright's extraordinary performance and for a case study in how the sharpest progressive self-critique still cannot escape its own framework.</p>
+  <p><a href="/reviews/american-fiction-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of American Fiction</a></p>
+
+  <hr>
+
+  <h2>#6: <a href="/reviews/wish-2023/">Wish (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke-lean">WOKE LEAN</span>
+    <span class="mini-score woke">MARGIN: -6 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Animation / Musical / Fantasy &bull; <strong>Platform:</strong> Disney+</p>
+  <p>Disney's centennial celebration lost $131 million and earned 49% on Rotten Tomatoes, the worst-reviewed Disney Animation Studios film in a generation. The DEI casting is front-loaded and aggressive: every ethnicity, body type, and disability is represented in the first five minutes of a Mediterranean kingdom that has no historical basis for that diversity. No one delivers a lecture about it, which conservative critics noted as restraint by modern Disney standards. What nobody noted loudly enough is that the film is simply bad: an anti-authoritarian premise with a pleasant anti-big-government message wrapped in the blandest animated musical Disney has released in decades. The ideology is the minor problem. The creative bankruptcy is the major one.</p>
+  <p><a href="/reviews/wish-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wish</a></p>
+
+  <hr>
+
+  <h2>#7: <a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/">Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +4 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Animation / Action / Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>The best animated TMNT film since the 2007 theatrical entry, with a visual style that looks like a teenager drew it in the best possible way. The traditional core is the father-son relationship between Splinter and the turtles: a terrified but loving father who must learn to trust his sons enough to let them go. Jackie Chan plays Splinter with genuine paternal warmth and the arc earns its emotional payoff. The Superfly villain arc carries an identity-grievance premise about mutants wanting justice from humans, which the film is smart enough to reject, but it occupies enough screen time to register. Using actual teenage voice actors gives the dialogue an authenticity that sets this apart from most animated franchise films. A solid traditional lean driven by real family values at the center.</p>
+  <p><a href="/reviews/teenage-mutant-ninja-turtles-mutant-mayhem-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of TMNT: Mutant Mayhem</a></p>
+
+  <hr>
+
+  <h2>#8: <a href="/reviews/cocaine-bear-2023/">Cocaine Bear (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +6 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Comedy / Thriller / Horror &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Elizabeth Banks, a filmmaker whose previous directorial effort Charlie's Angels was a tedious exercise in gender-politics messaging, set ideology aside entirely and made a genre film. The result is significantly more watchable than anything she did before. Cocaine Bear fully delivers on its premise: a 500-pound bear on cocaine commits grievous violence against an ensemble of unlucky bystanders, and director Banks has the comedic discipline to keep it funny. The film's emotional anchor is Keri Russell as a single mother fighting for her daughter's life, a classical maternal motivation. The drug dealer characters die because of their greed. There is no agenda. That it took a film about a cocaine bear to demonstrate what Hollywood can accomplish without ideology is both encouraging and telling. Made $88 million on a $32 million budget.</p>
+  <p><a href="/reviews/cocaine-bear-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Cocaine Bear</a></p>
+
+  <hr>
+
+  <h2>#9: <a href="/reviews/the-holdovers-2023/">The Holdovers (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +8 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Comedy / Drama &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Alexander Payne's warmhearted character study about three lonely people stuck together at a New England boarding school over Christmas 1970 is what Hollywood used to make routinely and now makes almost never. Paul Giamatti's Hunham failed a senator's son on merit, did it again when pressure came to reverse the grade, and lost his career for it. The film treats his stubborn personal integrity as admirable, not self-defeating. The reverence for classical learning and honest mentorship, the core mentor-student bond between Hunham and an unlikely teenager, is as traditional as storytelling gets. The Vietnam backdrop carries an antiwar atmosphere and the film does not actively challenge it, but no one delivers speeches about systemic anything. Five Oscar nominations for a reason. One of the best American films of the decade so far.</p>
+  <p><a href="/reviews/the-holdovers-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Holdovers</a></p>
+
+  <hr>
+
+  <h2>#10: <a href="/reviews/anyone-but-you-2023/">Anyone But You (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +9 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Romantic Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>The romantic comedy Hollywood forgot how to make. Sydney Sweeney and Glen Powell are two people who are clearly meant for each other spending 103 minutes refusing to admit it, and they do that job with obvious pleasure. The film's entire narrative engine is heterosexual attraction and the Shakespearean structure of Much Ado About Nothing, one of the oldest arguments in English literature for why two people who like each other should stop being stupid about it. Marriage is aspirational through the sister's wedding that frames the whole story. The R rating is for language and one understated romantic scene, not ideology. Made $220 million on $25 million. The audience loved it. The math is not complicated: cast the right people, trust the story, and do not lecture anyone.</p>
+  <p><a href="/reviews/anyone-but-you-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Anyone But You</a></p>
+
+  <hr>
+
+  <h2>#11: <a href="/reviews/migration-2023/">Migration (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +12 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Animated / Family Comedy &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Illumination's duck family adventure is a nuclear family story from first frame to last. Mack and Pam Mallard are a committed married couple with two kids. The overprotective-dad arc, a father who must learn to be brave enough to let his children discover the world, is one of the most traditional story structures in children's literature, from Swiss Family Robinson to Finding Nemo. The film does not comment on the family structure; it simply tells the story from inside it. Danny DeVito's Uncle Dan is the film's secret weapon: a pond hermit who represents what Mack becomes if he chooses safety over everything else. No ideology. No diversity lectures. Chris Meledandri runs a studio that has made billions by being aggressively non-political, and Migration is the proof. Rated PG. Appropriate for ages four and up.</p>
+  <p><a href="/reviews/migration-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Migration</a></p>
+
+  <hr>
+
+  <h2>#12 (Most Traditional): <a href="/reviews/wonka-2023/">Wonka (2023)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +12 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Musical / Fantasy / Family &bull; <strong>Platform:</strong> Theatrical / Streaming</p>
+  <p>Wonka is the rare prequel that earns its existence. The film's emotional engine is Willy Wonka's relationship with his deceased mother: everything he does is motivated by a promise he made to her and a dream they shared. When Timothee Chalamet sings "Pure Imagination" at the film's climax, he is not being whimsical. He is keeping a promise to a dead woman who believed in him. That is a profoundly traditional emotional foundation for a story. Paul King, the director of the Paddington films, brings the same visual warmth and emotional precision. The villain structure, a chocolate cartel that has corrupted police and church through bribery, targets dishonesty and greed rather than wealth or capitalism as such. Grossed $632 million worldwide. Bring the whole family.</p>
+  <p><a href="/reviews/wonka-2023/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Wonka</a></p>
+
+  <hr>
+
+  <h2>The 2023 Comedy Landscape: What the Scores Tell Us</h2>
+  <p>The 2023 comedy genre split sharply along ideological lines. Six films scored woke or woke lean. Six scored traditional lean or traditional. The woke end was dominated by franchise product: Barbie, The Marvels, and The Little Mermaid represent three of the biggest studios, the biggest budgets, and the most deliberate ideological positioning. The traditional end was anchored by smaller films, Migration and Wonka, that simply told good stories without an agenda to push. The Holdovers earned five Oscar nominations while barely registering on the woke scale. Anyone But You made $220 million by trusting a classic story structure instead of subverting it.</p>
+  <p>The pattern is consistent across every year VirtueVigil has tracked: the films built around ideology tend to underperform, and the films built around story tend to connect. Barbie's billion-dollar gross is the counterargument, but Barbie was also a cultural event with a marketing campaign that may never be replicated. The lesson from the rest of the list is clearer. Browse the full <a href="/reviews/">VirtueVigil review database</a> to see every scored film across all years and genres.</p>
+
+</article>`
   }));
 
 } // close buildSite async wrapper
