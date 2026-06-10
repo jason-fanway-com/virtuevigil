@@ -6060,6 +6060,18 @@
     "poster": "/images/posters/the-crow-2024.jpg"
   },
   {
+    "slug": "american-made-2017",
+    "title": "American Made",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Action / Biography / Crime",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 12.18,
+    "tradScore": 5.6,
+    "poster": "/images/posters/american-made-2017.jpg"
+  },
+  {
     "slug": "the-exorcist-1973",
     "title": "The Exorcist",
     "verdict": "STRONGLY TRADITIONAL",
