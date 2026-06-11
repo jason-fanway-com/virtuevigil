@@ -1932,6 +1932,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/thriller-movies-2022-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/comedy-movies-2022-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/comedy-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/action-superhero-movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/sci-fi-adventure-movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2023-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2021-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -2904,6 +2905,7 @@ function buildListsHubPage() {
         'thriller-movies-2022-woke-ranking',
         'comedy-movies-2022-woke-ranking',
         'comedy-movies-2023-woke-ranking',
+        'action-superhero-movies-2021-woke-ranking',
         'sci-fi-adventure-movies-2023-woke-ranking',
         'movies-2023-woke-ranking',
         'movies-2021-woke-ranking',
@@ -2995,6 +2997,7 @@ function buildListsHubPage() {
       'thriller-movies-2022-woke-ranking': 'Every 2022 Thriller Movie Ranked by Woke Score',
       'comedy-movies-2022-woke-ranking': 'Every 2022 Comedy Movie Ranked by Woke Score',
       'comedy-movies-2023-woke-ranking': 'Every 2023 Comedy Movie Ranked by Woke Score',
+      'action-superhero-movies-2021-woke-ranking': 'Every 2021 Action & Superhero Movie Ranked by Woke Score',
       'sci-fi-adventure-movies-2023-woke-ranking': 'Every 2023 Sci-Fi & Adventure Movie Ranked by Woke Score',
       'movies-2023-woke-ranking': 'Every 2023 Movie Ranked by Woke Score',
       'movies-2021-woke-ranking': 'Every 2021 Movie Ranked by Woke Score',
@@ -32951,6 +32954,154 @@ The short answer is no.</p>
   <h2>The 2023 Comedy Landscape: What the Scores Tell Us</h2>
   <p>The 2023 comedy genre split sharply along ideological lines. Six films scored woke or woke lean. Six scored traditional lean or traditional. The woke end was dominated by franchise product: Barbie, The Marvels, and The Little Mermaid represent three of the biggest studios, the biggest budgets, and the most deliberate ideological positioning. The traditional end was anchored by smaller films, Migration and Wonka, that simply told good stories without an agenda to push. The Holdovers earned five Oscar nominations while barely registering on the woke scale. Anyone But You made $220 million by trusting a classic story structure instead of subverting it.</p>
   <p>The pattern is consistent across every year VirtueVigil has tracked: the films built around ideology tend to underperform, and the films built around story tend to connect. Barbie's billion-dollar gross is the counterargument, but Barbie was also a cultural event with a marketing campaign that may never be replicated. The lesson from the rest of the list is clearer. Browse the full <a href="/reviews/">VirtueVigil review database</a> to see every scored film across all years and genres.</p>
+
+</article>`
+  }));
+
+  console.log('  lists/action-superhero-movies-2021-woke-ranking/index.html');
+  writePage('lists/action-superhero-movies-2021-woke-ranking/index.html', buildListiclePage({
+    slug: 'action-superhero-movies-2021-woke-ranking',
+    title: 'Every 2021 Action & Superhero Movie Ranked by Woke Score',
+    description: 'All 11 reviewed 2021 action and superhero films ranked from most woke to most traditional. Eternals to Spider-Man: No Way Home, every scored 2021 blockbuster fully analyzed.',
+    canonicalPath: 'lists/action-superhero-movies-2021-woke-ranking',
+    publishDate: '2026-06-11',
+    htmlContent: `<article class="listicle-article">
+
+  <p>2021 was the year superhero movies made their definitive statement about the direction Hollywood was heading. The MCU released five theatrical entries. The DCEU released Zack Snyder's four-hour director's cut. James Bond closed out a 15-year chapter. The Matrix returned after 18 years. VirtueVigil scored every major 2021 action and superhero release using the dual-axis VVWS scoring system to separate the films that held traditional values from the ones that quietly abandoned them.</p>
+
+  <p>The results are striking. The gap between the most woke film on this list, Eternals at a -14 WOKE margin, and the most traditional, Spider-Man: No Way Home at +19 TRAD, is 33 points. That is not variation. That is a fracture. 2021 told you exactly which Marvel directors were making art and which ones were making statements. All 11 films ranked from most woke to most traditional.</p>
+
+  <hr>
+
+  <h2>#1 (Most Woke): <a href="/reviews/eternals-2021/">Eternals (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke">WOKE</span>
+    <span class="mini-score woke">MARGIN: -14 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Superhero / Sci-Fi &bull; <strong>Director:</strong> Chloe Zhao</p>
+  <p>Chloe Zhao had just won the Academy Award for Nomadland when Marvel handed her a $200 million canvas and she used it to deliver an art film about immortal beings who are collectively coded as a found family of global diversity. The ideological fingerprint is aggressive: the first gay kiss in MCU history, a deaf superhero, a LGBTQ+ identity arc embedded in the Sprite storyline, and a cast assembled with explicit DEI intent. Zhao said publicly that the film was about how power structures require constant questioning, which is a summary of the academic progressive framework as applied to blockbuster filmmaking.</p>
+  <p>The result was the lowest-scoring MCU film among audiences in the franchise's history at that point. A 47% Rotten Tomatoes audience score. A $402 million global gross on a $200 million production budget before marketing, which effectively made it the MCU's first financial disappointment. The lesson Marvel should have drawn from Eternals was not drawn from Eternals. They kept going. The lesson is here in the data.</p>
+  <p><a href="/reviews/eternals-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Eternals</a></p>
+
+  <hr>
+
+  <h2>#2: <a href="/reviews/the-matrix-resurrections-2021/">The Matrix Resurrections (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke-lean">WOKE LEAN</span>
+    <span class="mini-score woke">MARGIN: -6 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Sci-Fi Action &bull; <strong>Director:</strong> Lana Wachowski</p>
+  <p>The original Matrix trilogy was a libertarian masterwork about an individual breaking free from a system of control. The Wachowskis were not thinking about gender politics in 1999; they were thinking about reality, free will, and the nature of consciousness. By 2021, Lana Wachowski was thinking about something else entirely. The Matrix Resurrections opens with Neo and Trinity rebranded as heteronormative office drones in a simulation called the Analyst, and the film spends significant runtime repositioning the red pill mythology, which had been widely adopted as a metaphor by the online right, as a tool of fascist manipulation. The message is unmistakable: Lana Wachowski came back to reclaim her IP from the people who had appropriated it.</p>
+  <p>The film is not agitprop. It is a genuine artistic statement from an auteur processing her own life through her most famous creation. But the original film's universal themes of liberation and chosen identity have been narrowed into something more specific and more divisive. The $37 million domestic opening weekend, against a $190 million budget, tells you how many people felt that trade was worth making.</p>
+  <p><a href="/reviews/the-matrix-resurrections-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Matrix Resurrections</a></p>
+
+  <hr>
+
+  <h2>#3: <a href="/reviews/red-notice-2021/">Red Notice (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke-lean">WOKE LEAN</span>
+    <span class="mini-score woke">MARGIN: -6 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action Comedy Heist &bull; <strong>Platform:</strong> Netflix</p>
+  <p>Netflix's most-watched original film at the time of its release is also one of the most conspicuously constructed products on this list. The trio of Dwayne Johnson, Ryan Reynolds, and Gal Gadot was assembled like a demographic portfolio, and the film's globe-trotting heist plot is content designed to be acceptable in every market Netflix operates in. The messaging is not aggressive; it is simply pervasive. Female authority figures consistently outmaneuver the male leads. Every institution of power is depicted as corruptible. The Interpol structure is played for laughs as an ineffective bureaucracy that the individual heroes must route around. These are common progressive framings, applied so casually that they barely register. The film scores woke lean not because it is making a grand argument but because all of its default assumptions point in one direction.</p>
+  <p><a href="/reviews/red-notice-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Red Notice</a></p>
+
+  <hr>
+
+  <h2>#4: <a href="/reviews/black-widow-2021/">Black Widow (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge woke-lean">WOKE LEAN</span>
+    <span class="mini-score woke">MARGIN: -5 WOKE</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action / Thriller &bull; <strong>Director:</strong> Cate Shortland</p>
+  <p>Black Widow scores as woke lean rather than strongly woke because the film contains genuine traditional strengths: a dysfunctional surrogate family that chooses each other, real sacrifice, and Natasha's death in Endgame honored rather than retconned. But the ideological scaffolding is conspicuous. The entire plot is structured as a feminist parable about the Red Room's systematic exploitation of women, and every male authority figure in the film is either a trafficker, a villain, or comic relief. General Ross is a corrupt bureaucrat. Dreykov is pure predatory patriarchy. Rick Mason exists only to be bossed around by Natasha. The film's thesis, that Natasha's liberation from institutional control required dismantling the patriarchal system that created her, is explicit rather than embedded.</p>
+  <p>This is still a quality action film with a career-best Scarlett Johansson performance. But the gap between what it could have been and what it chose to be is where the -5 lives.</p>
+  <p><a href="/reviews/black-widow-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Black Widow</a></p>
+
+  <hr>
+
+  <h2>#5: <a href="/reviews/no-time-to-die-2021/">No Time to Die (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge mixed">MIXED</span>
+    <span class="mini-score trad">MARGIN: +0 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action Spy Thriller &bull; <strong>Director:</strong> Cary Joji Fukunaga</p>
+  <p>Daniel Craig's farewell to James Bond is genuinely conflicted. The film introduced a Black female 00 agent who inherits Bond's number, a storyline that generated significant pre-release controversy among Bond fans who read it as replacement politics. That controversy is understandable: the positioning was deliberate and the marketing leaned into it. But the film itself does something more interesting. Bond's arc ends in an act of complete self-sacrifice to protect his daughter and the woman he loves, and Craig plays that final sequence with a weight and dignity that honors the character's 60-year legacy rather than subverting it. A father choosing to die so his child can live is the most traditional story in human literature.</p>
+  <p>The result is a film that cancels itself out: the progressive casting choices on one axis, the classical masculine sacrifice narrative on the other. +0 TRAD is an exact score, not a rounded number. No Time to Die genuinely sits at zero. Whether that reads as balance or incoherence depends on what you were hoping Bond would be.</p>
+  <p><a href="/reviews/no-time-to-die-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of No Time to Die</a></p>
+
+  <hr>
+
+  <h2>#6: <a href="/reviews/mortal-kombat-2021/">Mortal Kombat (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +4 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Martial Arts Action Fantasy &bull; <strong>Platform:</strong> Theatrical / HBO Max</p>
+  <p>The 2021 Mortal Kombat reboot is a film built around MMA fighter Lewis Tan playing Cole Young, a washed-up cage fighter who discovers his bloodline connects him to a chosen-warrior prophecy. The film's values are those of the fighting game it adapts: discipline, chosen purpose, loyalty to your team, and violence as an earned rite of passage. Cole's primary motivation throughout is protecting his wife and daughter, a classically traditional anchor for the action. The film does not engage with ideology at any point. No lectures. No messaging. The diversity of the cast mirrors the international fantasy geography of the source material rather than any political agenda, and the film is too interested in brutal fight choreography to care about anything else.</p>
+  <p><a href="/reviews/mortal-kombat-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Mortal Kombat</a></p>
+
+  <hr>
+
+  <h2>#7: <a href="/reviews/free-guy-2021/">Free Guy (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +8 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action Comedy Sci-Fi &bull; <strong>Director:</strong> Shawn Levy</p>
+  <p>Free Guy is the rare studio action comedy that is actually funny, actually original, and actually interested in what it is doing thematically. Ryan Reynolds plays Guy, an NPC in an open-world video game who gains consciousness and refuses to accept that his existence has no meaning. The film's philosophical spine is a genuine argument for the value of each individual life, the capacity for free will, and the worth of kindness as a strategy in a world that rewards selfishness. Those are traditional values. The corporate villain structure, a tech CEO who wants to delete Guy's world to steal IP, is a common Hollywood framing but the film applies it without any specific anti-capitalist messaging. Guy's acts of heroism are simple, direct, and rooted in caring about other people. $331 million on an $100 million budget.</p>
+  <p><a href="/reviews/free-guy-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Free Guy</a></p>
+
+  <hr>
+
+  <h2>#8: <a href="/reviews/shang-chi-2021/">Shang-Chi and the Legend of the Ten Rings (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+    <span class="mini-score trad">MARGIN: +9 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Action Adventure Fantasy &bull; <strong>Director:</strong> Destin Daniel Cretton</p>
+  <p>Shang-Chi surprised everyone, including the skeptics who expected a DEI checkbox exercise. Director Destin Daniel Cretton made a film rooted in Chinese martial arts mythology, multigenerational family trauma, and the specific emotional burden of a son trying to reconcile with a father who is both monstrous and genuinely loving. Tony Leung's Xu Wenwu is the best MCU villain since Thanos because he is not a symbol of an ideology. He is a grieving father who cannot accept his wife's death and channels that grief into destruction. The traditional themes, filial duty, the weight of a father's legacy, a son choosing sacrifice over vengeance, run throughout every act. The DEI framing of the marketing does not match what the film actually is. It is a family story, built from Chinese storytelling traditions, by a director who respected his source material.</p>
+  <p><a href="/reviews/shang-chi-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Shang-Chi and the Legend of the Ten Rings</a></p>
+
+  <hr>
+
+  <h2>#9: <a href="/reviews/ghostbusters-afterlife-2021/">Ghostbusters: Afterlife (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +15 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Supernatural Adventure Comedy &bull; <strong>Director:</strong> Jason Reitman</p>
+  <p>Jason Reitman made Ghostbusters: Afterlife as a deliberate corrective to the 2016 all-female reboot that alienated the original fanbase and lost Sony $70 million. The result is a film structured almost entirely around traditional values: a single mother rebuilding her family in a small town, a grandson discovering his grandfather's legacy, intergenerational bonds honored rather than discarded. Egon Spengler haunts the farmhouse to protect his family not because it is a plot device but because the film believes that fathers who fail their children in life can still love them in death. That is a genuinely moving traditional argument. The 2016 film said the original Ghostbusters' legacy belonged to women now. This film said it belonged to Egon's grandkids. The $129 million domestic gross on a $75 million budget confirmed which argument audiences preferred.</p>
+  <p><a href="/reviews/ghostbusters-afterlife-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Ghostbusters: Afterlife</a></p>
+
+  <hr>
+
+  <h2>#10: <a href="/reviews/zack-snyders-justice-league-2021/">Zack Snyder's Justice League (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +18 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Adventure &bull; <strong>Director:</strong> Zack Snyder</p>
+  <p>The Snyder Cut is four hours and two minutes of uncompromised directorial vision from a filmmaker who believes that superheroes should carry genuine moral weight, sacrifice real things, and earn their status through suffering rather than quipping their way through it. Every hero in the film gets a backstory that roots their power in personal loss: Aquaman's divided identity, Cyborg's grief over his transformation, The Flash's imprisoned father. The film's climax requires Superman to choose literal death to protect humanity, and Batman to confront his own culpability in Superman's previous death. That is a traditional moral framework. Power must be paid for. Sacrifice is sacred. Hubris has consequences. Zack Snyder makes films with biblical seriousness whether his critics appreciate it or not, and the VVWS scoring reflects that the values embedded in his work are consistently traditional at a structural level.</p>
+  <p><a href="/reviews/zack-snyders-justice-league-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Zack Snyder's Justice League</a></p>
+
+  <hr>
+
+  <h2>#11 (Most Traditional): <a href="/reviews/spider-man-no-way-home-2021/">Spider-Man: No Way Home (2021)</a></h2>
+  <div class="listicle-scores">
+    <span class="verdict-badge traditional">TRADITIONAL</span>
+    <span class="mini-score trad">MARGIN: +19 TRAD</span>
+  </div>
+  <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action / Science Fiction &bull; <strong>Director:</strong> Jon Watts</p>
+  <p>Spider-Man: No Way Home grossed $1.9 billion worldwide and became the third-highest-grossing film in history at the time of its release. It did this by being, at its core, a film about a teenager choosing to sacrifice everything, including every person who loves him, to save the lives of people who want to kill him. Peter Parker's final act is pure altruism with total self-erasure as the cost. Nobody remembers him. He loses MJ, Ned, the Avengers, his college acceptance, his entire identity. He accepts all of it because the alternative requires letting five people die. That is the most classically Christian moral framework in the MCU's entire history, and it is delivered without a single sermon.</p>
+  <p>The film also honors every Spider-Man who came before, treating the multiverse not as a diversity exercise but as a tribute to three generations of fans who grew up with different Peters. The emotional payoff of seeing Tobey Maguire and Andrew Garfield stand alongside Tom Holland is not about representation. It is about the accumulated weight of stories told well across 20 years. +19 TRAD. The best Marvel film since Endgame. Not a coincidence.</p>
+  <p><a href="/reviews/spider-man-no-way-home-2021/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of Spider-Man: No Way Home</a></p>
+
+  <hr>
+
+  <h2>What 2021 Tells Us About the State of the Superhero Genre</h2>
+  <p>2021 is the year when the data separates two kinds of superhero filmmaking definitively. On one side: films built around ideas, family, sacrifice, and earned emotion. Spider-Man: No Way Home, Zack Snyder's Justice League, Ghostbusters: Afterlife, Shang-Chi. On the other side: films built around representation, ideology, and studio mandates. Eternals, Black Widow, The Matrix Resurrections. The audience did not vote with their opinions. They voted with their wallets. No Way Home made nearly five times what Eternals made. Ghostbusters: Afterlife outperformed its entire production budget in domestic theatrical alone.</p>
+  <p>The pattern is not unique to 2021 but 2021 makes it clearest. The films with the highest traditional values margins are, almost without exception, the best-reviewed and best-performing films on this list. The films with the highest woke scores are the ones that underperformed relative to their budgets and franchise standing. VirtueVigil does not make arguments from commercial performance. But the commercial performance confirms the scoring, which is based only on content. Browse the full <a href="/reviews/">VirtueVigil review database</a> to see every scored film across every year and genre.</p>
 
 </article>`
   }));
