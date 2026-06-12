@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
+    "slug": "alien-1979",
+    "title": "Alien",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Sci-Fi / Horror",
+    "year": 1979,
+    "type": "film",
+    "wokeScore": 7.74,
+    "tradScore": 16.38,
+    "poster": "/images/posters/alien-1979.jpg"
+  },
+  {
     "slug": "squid-game-season-3-2025",
     "title": "Squid Game: Season 3",
     "verdict": "WOKE LEAN",
