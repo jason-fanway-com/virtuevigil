@@ -12,6 +12,18 @@
     "poster": "/images/posters/maria-2024.jpg"
   },
   {
+    "slug": "platoon-1986",
+    "title": "Platoon",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "War / Drama",
+    "year": 1986,
+    "type": "film",
+    "wokeScore": 13.58,
+    "tradScore": 18.48,
+    "poster": "/images/posters/platoon-1986.jpg"
+  },
+  {
     "slug": "disclosure-day-2026",
     "title": "Disclosure Day",
     "verdict": "RECOMMENDED",
