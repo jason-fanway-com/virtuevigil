@@ -33471,6 +33471,228 @@ The short answer is no.</p>
     </article>`
   }));
 
+  // Best Non-Woke Summer Blockbusters
+  console.log('  lists/best-non-woke-summer-blockbusters/index.html');
+  writePage('lists/best-non-woke-summer-blockbusters/index.html', buildListiclePage({
+    slug: 'best-non-woke-summer-blockbusters',
+    title: '15 Best Non-Woke Summer Blockbusters (All Time)',
+    description: 'The 15 best summer blockbusters with zero woke agenda, ranked by VirtueVigil traditional values score. Action, adventure, and war films that earned it.',
+    canonicalPath: 'lists/best-non-woke-summer-blockbusters',
+    publishDate: '2026-06-13',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Summer is when Hollywood goes big. Big budgets, big spectacle, big weekends. It is also when studios pack their most expensive productions with the most ideology, betting that audiences will swallow a lecture if the explosions are loud enough. Sometimes that bet pays off. Usually it does not. The films on this list are the exceptions that prove the rule: blockbusters that delivered the spectacle without the sermon.</p>
+        <p>VirtueVigil scored each of these films using our full methodology. Every entry earned a TRADITIONAL or STRONGLY TRADITIONAL verdict based on actual content, not reputation or marketing. These are not films that happen to avoid overt progressivism. These are films that actively embody traditional values: sacrifice, duty, honor, family, courage, and the will to fight for something worth protecting. Ranked by VirtueVigil traditional margin from highest to lowest.</p>
+        <p>Related: <a href="/lists/best-action-movies-2026/">Best Action Movies of 2026</a>, <a href="/lists/highest-traditional-scores-all-time/">10 Movies With the Highest Traditional Scores Ever</a>, <a href="/lists/best-traditional-movies-2026/">Best Traditional Movies of 2026</a>.</p>
+      </div>
+
+      <ol class="listicle-items">
+
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/ne-zha-2-2025/">Ne Zha 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+39 TRAD</span>
+            </div>
+            <p>The highest-grossing animated film in Chinese history and one of the most purely traditional blockbusters made anywhere in the world in the past decade. Built entirely around duty, filial devotion, sacrifice, and the bond between a father and son, it contains zero woke content from first frame to last. Western animation studios spent five years failing to make something this emotionally honest.</p>
+            <a href="/reviews/ne-zha-2-2025/" class="listicle-cta">Read the full VirtueVigil review of Ne Zha 2</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-sniper-2014/">American Sniper (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+34 TRAD</span>
+            </div>
+            <p>Clint Eastwood made this film at 84 and it is among the most confident directorial achievements of his career. Chris Kyle is framed exactly as he saw himself: a sheepdog protecting sheep from wolves. The film does not apologize for that framing, does not complicate it with progressive counterarguments, and does not punish Kyle for holding it. It is one of the highest-grossing war films in American box office history because it told a true story without flinching.</p>
+            <a href="/reviews/american-sniper-2014/" class="listicle-cta">Read the full VirtueVigil review of American Sniper</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/gladiator-2000/">Gladiator (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+31 TRAD</span>
+            </div>
+            <p>Twenty-five years old and it still hits like a fist to the chest. Maximus wants nothing more than to go home to his wife and son, to his farm, to the smell of wheat and horses in the morning. What he gets instead is betrayal, slavery, and the arena. The film is built on vengeance as a moral obligation and love as the thing worth dying for. Russell Crowe won the Oscar. Ridley Scott made his best film. Audiences showed up for five consecutive record-breaking weekends.</p>
+            <a href="/reviews/gladiator-2000/" class="listicle-cta">Read the full VirtueVigil review of Gladiator</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/13-hours-2016/">13 Hours: The Secret Soldiers of Benghazi (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+31 TRAD</span>
+            </div>
+            <p>Michael Bay made his best film when he stopped worrying about franchises and made a documentary-style war picture about six men who were told to stand down and fought anyway. The GRS contractors who defended the CIA annex in Benghazi on September 11, 2012 are presented without political spin: they were soldiers doing their jobs while the institution they served was paralyzed by politics. The film does not editorialize. It does not need to.</p>
+            <a href="/reviews/13-hours-2016/" class="listicle-cta">Read the full VirtueVigil review of 13 Hours</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/how-to-train-your-dragon-2025/">How to Train Your Dragon (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+29 TRAD</span>
+            </div>
+            <p>Dean DeBlois insisted on full creative control for the live-action remake of his own animated trilogy, and the result is clearly the work of someone who loved and understood the source material. The story is about a boy proving himself worthy of his father's legacy, and a father learning to accept that his son's path is different from his own without being lesser. No agenda, no social commentary inserted to update the property for modern audiences. Just the original story, told well.</p>
+            <a href="/reviews/how-to-train-your-dragon-2025/" class="listicle-cta">Read the full VirtueVigil review of How to Train Your Dragon</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/sound-of-freedom-2023/">Sound of Freedom (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+27 TRAD</span>
+            </div>
+            <p>Studios sat on this film for five years. Fox (which became Disney) shelved it after the acquisition. Angel Studios released it on July 4, 2023, and it made $14.2 million on opening day, eventually grossing over $250 million against a $14.5 million budget. The story of DHS agent Tim Ballard rescuing trafficked children is told without political hedging and without ideological reframing. Audiences found it in enormous numbers specifically because the corporate entertainment machine tried to suppress it.</p>
+            <a href="/reviews/sound-of-freedom-2023/" class="listicle-cta">Read the full VirtueVigil review of Sound of Freedom</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/fury-2014/">Fury (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+26 TRAD</span>
+            </div>
+            <p>David Ayer spent years researching April 1945 in Germany, the specific hell of a war that everyone knows is over while men are still dying for ground that will be surrendered by armistice in three weeks. Brad Pitt's Wardaddy holds his crew together through violence and brutality because that is the only moral framework left that keeps men alive in that environment. The film does not flinch from what war costs, which is exactly what makes it traditional: it respects the men who paid that cost.</p>
+            <a href="/reviews/fury-2014/" class="listicle-cta">Read the full VirtueVigil review of Fury</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/lord-of-the-rings-fellowship-2001/">The Lord of the Rings: The Fellowship of the Ring (2001)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+25 TRAD</span>
+            </div>
+            <p>Tolkien's worldview made visible, and Tolkien's worldview is explicitly pre-modern, Catholic, and traditional in its moral architecture. J.R.R. Tolkien fought in the Battle of the Somme, lost most of his closest friends, and spent decades working out his grief and his faith in fiction. Peter Jackson put that worldview on screen intact. The Fellowship is a film about ordinary men accepting a burden too large for them because no one else will carry it. That is not a progressive idea. It never was.</p>
+            <a href="/reviews/lord-of-the-rings-fellowship-2001/" class="listicle-cta">Read the full VirtueVigil review of The Lord of the Rings: The Fellowship of the Ring</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-terminal-list-2022/">The Terminal List (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+24 TRAD</span>
+            </div>
+            <p>A 40% on Rotten Tomatoes from critics and a 94% audience score. That gap is the story. Commander James Reece discovers his platoon was sacrificed as cover for an illegal pharmaceutical trial run on special operators by a defense contractor with political connections. His response is methodical, personal, and entirely outside institutional channels. The series is a portrait of a man who trusted the system, was betrayed by it, and chose to act according to his own code rather than wait for justice that will never come.</p>
+            <a href="/reviews/the-terminal-list-2022/" class="listicle-cta">Read the full VirtueVigil review of The Terminal List</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-incredibles-2004/">The Incredibles (2004)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>The most explicitly conservative major studio animated film since The Lion King. A family of genuinely exceptional people forced by a resentful government and a mediocrity-obsessed culture to suppress their gifts and pretend to be ordinary. Brad Bird's worldview runs through every frame: the film is an unambiguous critique of enforced equality of outcome and a defense of earned excellence. Syndrome's entire motivation is that he was denied what the exceptional had by nature. The film does not treat this as sympathetic.</p>
+            <a href="/reviews/the-incredibles-2004/" class="listicle-cta">Read the full VirtueVigil review of The Incredibles</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/karate-kid-legends-2025/">Karate Kid: Legends (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>The most traditionally coded major studio release of 2025. A movie about older men teaching a young man to be brave, disciplined, and honorable. Jackie Chan and Ralph Macchio together in one film, passing the same lesson down another generation without irony or deconstruction. No gender politics, no institutional critique, no subversion of the master-student relationship. Just the original premise, executed with craft and genuine warmth.</p>
+            <a href="/reviews/karate-kid-legends-2025/" class="listicle-cta">Read the full VirtueVigil review of Karate Kid: Legends</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">12</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/top-gun-maverick-2022/">Top Gun: Maverick (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+20 TRAD</span>
+            </div>
+            <p>The best American action film in at least a decade. Tom Cruise spent years making sure the practical flight sequences were real, that the film respected the people it depicted, and that the story earned its emotional beats. The result is a film that remembered something Hollywood had forgotten: audiences want to feel something, not be taught something. Maverick grossed $1.49 billion worldwide. The message was received.</p>
+            <a href="/reviews/top-gun-maverick-2022/" class="listicle-cta">Read the full VirtueVigil review of Top Gun: Maverick</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">13</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Desmond Doss is not a conscientious objector in the progressive sense. He is a Seventh-day Adventist who believes killing is wrong because God says so in the Bible. He holds his ground not because of ideology but because of faith, and the film treats that faith as the source of genuine heroism rather than naivety to be outgrown. Mel Gibson directed with the unflinching commitment to depicting what Doss actually endured, and the result is one of the most purely traditional war films ever made.</p>
+            <a href="/reviews/hacksaw-ridge-2016/" class="listicle-cta">Read the full VirtueVigil review of Hacksaw Ridge</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">14</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/captain-america-the-winter-soldier-2014/">Captain America: The Winter Soldier (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+15 TRAD</span>
+            </div>
+            <p>Still the MCU's best individual film a decade later. A 1970s political thriller wearing a superhero costume, and completely serious about both halves of that description. Steve Rogers does not trust what he is being asked to do by the institution he serves, and his distrust turns out to be correct. The film's traditional values score comes from its treatment of loyalty, sacrifice, and the moral obligation to fight institutional evil even when the institution is on your side.</p>
+            <a href="/reviews/captain-america-the-winter-soldier-2014/" class="listicle-cta">Read the full VirtueVigil review of Captain America: The Winter Soldier</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">15</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/john-wick-2014/">John Wick (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>The purest action film of the 21st century. A man's wife dies, leaves him a puppy so he has something to grieve alongside her, and Russian mobsters kill the puppy. What follows is technically flawless action filmmaking built on a premise so simple it strips away every excuse for narrative bloat. John Wick's code of honor is the film's only moral framework, and the film respects it completely. No lectures, no agenda, no apologies.</p>
+            <a href="/reviews/john-wick-2014/" class="listicle-cta">Read the full VirtueVigil review of John Wick</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <p>These 15 films prove the argument that studios refuse to accept: audiences do not want ideology with their spectacle. They want stories about people who stand for something, sacrifice something, and win or lose on the merits of their choices. Every film on this list delivered that. Every one of them earned its audience score by respecting its audience.</p>
+        <p>Browse the full VirtueVigil database to score every film you are considering this summer. We have reviewed over 700 films and shows, scored every one using our full methodology, and made every review freely available. If you want to know what you are walking into before you buy the ticket, we have already done the work.</p>
+        <p>Related: <a href="/lists/non-woke-action-movies-2024/">Best Non-Woke Action Movies 2024</a>, <a href="/lists/best-war-movies-patriots/">Best War Movies for Patriots</a>, <a href="/lists/conservative-movies-2026/">Top 10 Movies Conservatives Should Watch in 2026</a>.</p>
+      </div>
+    </article>`
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
