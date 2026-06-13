@@ -24,6 +24,18 @@
     "poster": "/images/posters/platoon-1986.jpg"
   },
   {
+    "slug": "gone-girl-2014",
+    "title": "Gone Girl",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Mystery / Thriller / Drama",
+    "year": 2014,
+    "type": "film",
+    "wokeScore": 6.18,
+    "tradScore": 12.18,
+    "poster": "/images/posters/gone-girl-2014.jpg"
+  },
+  {
     "slug": "disclosure-day-2026",
     "title": "Disclosure Day",
     "verdict": "RECOMMENDED",
