@@ -1,5 +1,17 @@
 [
   {
+    "slug": "juror-2-2024",
+    "title": "Juror #2",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Max",
+    "genre": "Crime / Drama / Mystery",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 5.95,
+    "tradScore": 15.54,
+    "poster": "/images/posters/juror-2-2024.jpg"
+  },
+  {
     "slug": "maria-2024",
     "title": "Maria",
     "verdict": "TRADITIONAL LEAN",
