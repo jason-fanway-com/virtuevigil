@@ -33693,6 +33693,224 @@ The short answer is no.</p>
     </article>`
   }));
 
+  console.log('  lists/war-movies-woke-ranking-all-time/index.html');
+  writePage('lists/war-movies-woke-ranking-all-time/index.html', buildListiclePage({
+    slug: 'war-movies-woke-ranking-all-time',
+    title: 'Every War Movie Ranked by Woke Score (All Time)',
+    description: 'All 15 war films reviewed by VirtueVigil ranked from most traditional to most woke. From 13 Hours and Saving Private Ryan to Full Metal Jacket and The Hurt Locker.',
+    canonicalPath: 'lists/war-movies-woke-ranking-all-time',
+    publishDate: '2026-06-14',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>War movies are where Hollywood's ideological drift is most visible, because the stakes make neutrality impossible. A war film either treats the men who fight as heroes worth honoring or it treats them as victims of forces beyond their control, damaged goods to be pitied, or instruments of an empire to be questioned. There is no middle ground. VirtueVigil has now reviewed 15 war films using the full scoring methodology, and the spread is stark: from +31 TRAD to -4 WOKE.</p>
+        <p>This list ranks every scored war film from most traditional to most woke. The top nine are STRONGLY TRADITIONAL. The bottom two are WOKE LEAN. The truth is that Hollywood still produces genuinely great war films when it gets out of its own way, and the data shows exactly where the line is.</p>
+      </div>
+
+      <ol class="listicle-items">
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/13-hours-2016/">13 Hours: The Secret Soldiers of Benghazi (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+31 TRAD</span>
+            </div>
+            <p>The highest traditional margin of any war film in the VirtueVigil database. Michael Bay shot the Benghazi attack with the unflinching honesty it deserved: six security contractors fought through the night against overwhelming odds to protect American personnel after the US government failed to send help. The film does not editorialize about political failure. It stays with the men. Their code, their loyalty to each other, and their willingness to die for people they barely knew carries every frame. A 40% on Rotten Tomatoes from critics who didn't want this story told. A 94% audience score from people who did.</p>
+            <a href="/reviews/13-hours-2016/" class="listicle-cta">Read the full VirtueVigil review of 13 Hours</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/saving-private-ryan-1998/">Saving Private Ryan (1998)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+28 TRAD</span>
+            </div>
+            <p>The first 25 minutes of Saving Private Ryan are among the most important minutes in American cinema not because of technical achievement but because of moral seriousness. Spielberg makes you understand at a cellular level what those men went through on June 6, 1944. The mission that follows, one man's life exchanged for a mother's grief, is treated as genuinely sacred. Sacrifice is the point, not the problem. Every soldier is a real person doing something that matters. No film has done more to ensure that generation is not forgotten.</p>
+            <a href="/reviews/saving-private-ryan-1998/" class="listicle-cta">Read the full VirtueVigil review of Saving Private Ryan</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/fury-2014/">Fury (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+26 TRAD</span>
+            </div>
+            <p>David Ayer made Fury because he cared about the weight of war, not the spectacle of it. April 1945 in Germany is a specific hell: the war is effectively over, everyone knows it, and men are still dying for ground that will be surrendered by armistice. A five-man Sherman tank crew fights through that final brutal stretch, and the film treats their bond as something earned through shared horror rather than manufactured sentiment. Brad Pitt's Wardaddy is one of the most fully realized warrior figures in recent cinema: brutal, protective, morally complex, and absolutely clear about his duty to the men under his command.</p>
+            <a href="/reviews/fury-2014/" class="listicle-cta">Read the full VirtueVigil review of Fury</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/lone-survivor-2013/">Lone Survivor (2013)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>Peter Berg made this film because Marcus Luttrell asked him to. That origin matters. Operation Red Wings and the loss of 19 Americans on a mountain in Afghanistan in 2005 is not a story Hollywood would have chosen. This is a filmmaker honoring a promise to a man who wanted his team remembered. The film is operationally accurate, emotionally honest, and completely free of revisionism. It does not ask whether the mission was worth it. The men believed it was. That belief is treated with respect.</p>
+            <a href="/reviews/lone-survivor-2013/" class="listicle-cta">Read the full VirtueVigil review of Lone Survivor</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/dunkirk-2017/">Dunkirk (2017)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>Christopher Nolan stripped everything Hollywood has trained audiences to expect from a war film: no hero's journey, almost no dialogue, no rousing speeches, no explanations. What remains is pure experience. The three-timeline structure puts you simultaneously on the beach, in a Spitfire, and aboard a civilian vessel crossing the Channel. The film's traditional values emerge not from sentiment but from action: ordinary people doing the right thing under impossible circumstances without being asked, without being compensated, and without a camera pointed at them to record it.</p>
+            <a href="/reviews/dunkirk-2017/" class="listicle-cta">Read the full VirtueVigil review of Dunkirk</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/midway-2019/">Midway (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>The Battle of Midway is one of the most improbable military victories in American history: four Japanese fleet carriers sunk in a single day by a numerically inferior American force six months after Pearl Harbor. Roland Emmerich's retelling gets the tone exactly right. This is not a film about complicated men doing morally ambiguous things. It is about skilled, disciplined, brave Americans who went out in SBD Dauntlesses and turned the Pacific War around by finding the enemy fleet at exactly the right moment. The woke score of 0.7 is the lowest of any war film in the database.</p>
+            <a href="/reviews/midway-2019/" class="listicle-cta">Read the full VirtueVigil review of Midway</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/black-hawk-down-2001/">Black Hawk Down (2001)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>The Battle of Mogadishu took 18 American lives, wounded 73, and lasted 18 hours. Ridley Scott puts you inside those hours and doesn't let you out. Released in early 2002, months after September 11th, the film landed with a resonance no one could have planned for. What Scott understood is that these men didn't fight and die for geopolitics. They fought for each other. That distinction, simple as it is, is what separates a war film that honors its subjects from one that exploits them.</p>
+            <a href="/reviews/black-hawk-down-2001/" class="listicle-cta">Read the full VirtueVigil review of Black Hawk Down</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-patriot-2000/">The Patriot (2000)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>The kind of film Hollywood stopped making when it started worrying about how America looked to foreign markets. Benjamin Martin doesn't want to fight. He has seven children, a farm, and memories of what he did in the French and Indian War that keep him up at night. The British kill his son and burn his home, and he picks up the rifle anyway. The film is unabashedly pro-American, pro-family, and entirely clear that violent resistance to tyranny is sometimes the only moral choice available. Mel Gibson understood that story. Not many directors do anymore.</p>
+            <a href="/reviews/the-patriot-2000/" class="listicle-cta">Read the full VirtueVigil review of The Patriot</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/1917-2019/">1917 (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Sam Mendes constructed 1917 as a single continuous shot to achieve one specific effect: total immersion. There is no editorial distance between the audience and Lance Corporal Schofield's race across enemy territory to stop a British advance that command already knows is a death trap. The film is about the cost of duty in the most literal sense. Schofield has one job. He does it. No speeches, no politics, no moral complexity inserted to make the audience feel sophisticated. Just a man running toward something that needs to be done because someone has to do it.</p>
+            <a href="/reviews/1917-2019/" class="listicle-cta">Read the full VirtueVigil review of 1917</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hacksaw-ridge-2016/">Hacksaw Ridge (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Desmond Doss is not a conscientious objector in the progressive sense. He is a Seventh-day Adventist who believes killing is wrong because God says so in the Bible. He holds his ground not because of ideology but because of faith, and the film treats that faith as the source of genuine heroism rather than naivety to be outgrown. He saved 75 men at Okinawa without firing a weapon. Mel Gibson directed with the commitment to depicting what Doss actually endured, and the result is one of the most faith-forward war films ever made by a major studio.</p>
+            <a href="/reviews/hacksaw-ridge-2016/" class="listicle-cta">Read the full VirtueVigil review of Hacksaw Ridge</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-covenant-2023/">Guy Ritchie's The Covenant (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>One of the most traditionally coded war films of the 2020s, and one that got criminally overlooked at the box office. US Army Sergeant John Kinley and his Afghan interpreter Ahmed form a bond under fire in Helmand Province, and when Kinley is wounded and his unit wiped out, Ahmed carries him 100 miles on foot to safety. The film is about a debt of honor: Kinley comes back for Ahmed. The values here are simple and completely unfashionable in 2023 Hollywood: loyalty, sacrifice, and a man who keeps his word even when no institution requires it.</p>
+            <a href="/reviews/the-covenant-2023/" class="listicle-cta">Read the full VirtueVigil review of The Covenant</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">12</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/inglourious-basterds-2009/">Inglourious Basterds (2009)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>Tarantino's masterpiece may be the most gleefully pro-military American film since The Longest Day. A squad of Jewish American soldiers hunts Nazi officers in occupied France while a Jewish French woman independently plots to burn the Nazi high command alive in her cinema. The film's traditional lean comes from its unambiguous moral universe: the Nazis are monsters, killing them is good, and the men who do the killing are operating on a righteous code. The woke score climbs because of revisionist historical framing, but the film's core values are as traditional as a rifle aimed at a swastika.</p>
+            <a href="/reviews/inglourious-basterds-2009/" class="listicle-cta">Read the full VirtueVigil review of Inglourious Basterds</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">13</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/platoon-1986/">Platoon (1986)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+5 TRAD</span>
+            </div>
+            <p>Oliver Stone's Vietnam experience rendered as cinema, and forty years later still one of the most honest American war films ever made. The anti-war messaging is real and present from the first frame. Chris Taylor arrives in country as an idealist and leaves something else entirely. What saves Platoon's traditional score from collapse is its honesty: Stone doesn't sanitize the cost of war or the moral damage it does, and that unflinching accuracy reads as respect for the men who were actually there, even when the film's politics cut against the mission. A genuinely complex entry on this list.</p>
+            <a href="/reviews/platoon-1986/" class="listicle-cta">Read the full VirtueVigil review of Platoon</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">14</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/full-metal-jacket-1987/">Full Metal Jacket (1987)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-3 WOKE</span>
+            </div>
+            <p>Full Metal Jacket is two films that have almost nothing to say to each other, lashed together by Kubrick's refusal to provide easy resolution. The first half, R. Lee Ermey's Gunnery Sergeant Hartman breaking recruits at Parris Island, is one of the most viscerally effective depictions of military training ever filmed and carries genuine traditional weight. The second half, a fragmented tour through Hue City during the Tet Offensive, deconstructs everything the first half built. Kubrick was not interested in honoring soldiers. He was interested in what war does to people. That gap is where the woke lean lives.</p>
+            <a href="/reviews/full-metal-jacket-1987/" class="listicle-cta">Read the full VirtueVigil review of Full Metal Jacket</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">15</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/hurt-locker-2008/">The Hurt Locker (2008)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>The film opens with a Chris Hedges quote: "The rush of battle is often a potent and lethal addiction, for war is a drug." That is the thesis, the argument, and the final verdict. Bigelow and Boal are not making a film that celebrates military service. They are making a film about a man for whom the absence of war is indistinguishable from the absence of meaning, and they treat that as a pathology. The film is not anti-military in a crude sense; the soldiers are portrayed as professionals. But the core argument, that what makes the best of them effective is also what destroys them as human beings, is where the WOKE LEAN verdict lives.</p>
+            <a href="/reviews/hurt-locker-2008/" class="listicle-cta">Read the full VirtueVigil review of The Hurt Locker</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <p>The data is clear: when Hollywood respects the men who fight and trusts audiences to respond to genuine sacrifice without irony or deconstruction, the results score STRONGLY TRADITIONAL every time. 13 of these 15 films earn TRADITIONAL or better. The two that don't are not bad films, but they are films made by directors who were more interested in what war costs than in what it means to serve. That distinction is what separates a war film from an anti-war film, and the scores reflect it precisely.</p>
+        <p>Browse the full VirtueVigil database to score every film you are considering. We have reviewed over 700 films and shows with full methodology available on every review page. Related lists: <a href="/lists/best-war-movies-patriots/">Best War Movies for Patriots</a>, <a href="/lists/patriotic-war-movies/">10 War Movies That Honor America</a>, <a href="/lists/best-memorial-day-movies/">Best Memorial Day Movies for Patriots</a>.</p>
+      </div>
+    </article>`
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
