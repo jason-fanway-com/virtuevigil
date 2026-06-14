@@ -24,6 +24,18 @@
     "poster": "/images/posters/alien-earth-2025.jpg"
   },
   {
+    "slug": "zero-day-2025",
+    "title": "Zero Day",
+    "verdict": "MIXED",
+    "platform": "Netflix",
+    "genre": "Drama / Thriller / Political",
+    "year": 2025,
+    "type": "tv",
+    "wokeScore": 15.22,
+    "tradScore": 14.6,
+    "poster": "/images/posters/zero-day-2025.jpg"
+  },
+  {
     "slug": "maria-2024",
     "title": "Maria",
     "verdict": "TRADITIONAL LEAN",
