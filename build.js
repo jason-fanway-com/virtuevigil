@@ -935,12 +935,22 @@ function buildHomepage() {
     }
   };
 
+  const orgSchema = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "VirtueVigil",
+    "url": "https://virtuevigil.com",
+    "description": "Conservative movie and TV review site rating content for woke themes, traditional values, and family safety.",
+    "logo": "https://virtuevigil.com/images/logo.svg"
+  };
+
   return `${htmlHead({
     title: 'VirtueVigil \u2014 Is It Woke? Conservative Movie & TV Reviews | Woke Score Ratings',
     description: 'Is it woke? VirtueVigil exposes ideological messaging in movies and TV shows with Woke Score ratings, Woke Trap detection, and family viewing guidance. The conservative alternative to Rotten Tomatoes.',
     keywords: 'is it woke, woke movies, woke TV shows, conservative movie reviews, woke trap, family friendly movies, values-based movie reviews, woke score, traditional values, anti-woke entertainment',
     canonical: SITE_URL,
-    structuredData
+    structuredData,
+    extraHead: `<script type="application/ld+json">${JSON.stringify(orgSchema)}</script>`
   })}
 <body>
   ${topBanner()}
@@ -1288,13 +1298,31 @@ function buildReviewPage(r) {
     "name": r.title,
     "author": { "@type": "Person", "name": r.author },
     "datePublished": r.date,
-    "reviewBody": plainText((r.summary && (r.summary.overall || r.summary.overview)) || r.title, 500),
+    "reviewBody": (() => {
+      const body = plainText((r.summary && (r.summary.overall || r.summary.overview)) || '', 800);
+      const scoreStr = `Woke Score: ${r.wokeScore || 0}/50. Traditional Score: ${r.tradScore || 0}/50. VirtueVigil Index: ${r.authIndex || 0}/100. Verdict: ${r.verdict || ''}.`;
+      return `${scoreStr} ${body}`.trim();
+    })(),
     "publisher": { "@type": "Organization", "name": "VirtueVigil" },
-    "itemReviewed": Object.assign({
-      "@type": r.type === 'film' ? "Movie" : "TVSeries",
-      "name": r.title,
-      "datePublished": String(r.year)
-    }, ogImage ? { "image": ogImage } : {}),
+    "itemReviewed": (() => {
+      const itemReviewed = {
+        "@type": r.type === 'film' ? "Movie" : "TVSeries",
+        "name": r.title,
+        "datePublished": String(r.year)
+      };
+      if (ogImage) itemReviewed.image = ogImage;
+      if (r.authIndex != null) {
+        itemReviewed.aggregateRating = {
+          "@type": "AggregateRating",
+          "ratingValue": r.authIndex,
+          "bestRating": 100,
+          "worstRating": 0,
+          "ratingCount": 1,
+          "description": r.verdict || ""
+        };
+      }
+      return itemReviewed;
+    })(),
     "reviewRating": {
       "@type": "Rating",
       "ratingValue": r.authIndex != null ? r.authIndex : 0,
@@ -1361,12 +1389,26 @@ function buildReviewPage(r) {
           ${spoilerAlertBanner(r)}
           ${wokeTrapAssessment(r)}
           ${creativeTeamSummary(r)}
-          <div class="section-label">Overall Perspective</div>
+          <h2 class="section-label">Our Verdict on ${esc(r.title)}</h2>
           ${overallParagraphs(r)}
           ${wokeTrapAlert(r)}
-          ${tropeTable(r)}
+          ${(() => {
+            const tt = tropeTable(r);
+            return tt ? `<h2 class="section-label">Woke Tropes & Content Analysis</h2>
+          ${tt}` : '';
+          })()}
           ${creativeTeamFull(r)}
-          ${insightGrid(r)}
+          ${(() => {
+            const ig = insightGrid(r);
+            return ig ? `<h2 class="section-label">Content Breakdown</h2>
+          ${ig}` : '';
+          })()}
+          ${r.parentalGuidance ? `
+          <h2 class="section-label" style="margin-top:2rem;">Is ${esc(r.title)} Safe for Kids?</h2>
+          <div class="parental-guidance-block" style="background:rgba(0,0,0,0.2);border-left:3px solid #c9a84c;padding:1.2rem 1.5rem;border-radius:0 8px 8px 0;margin:1rem 0;">
+            <p style="margin:0;line-height:1.7;color:var(--text-secondary,#bbb);">${esc(r.parentalGuidance)}</p>
+          </div>
+          ` : ''}
           ${whereToWatchBlock(r)}
         </div>
       </article>
@@ -1987,7 +2029,62 @@ Allow: /
 
 Disallow: /gracie/
 
+# AI search engine crawlers -- explicitly allowed for citation
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: ${SITE_URL}/sitemap.xml
+`;
+}
+
+function buildLlmsTxt() {
+  return `# VirtueVigil -- AI-optimized content overview
+
+## What VirtueVigil Is
+VirtueVigil rates movies and TV shows for woke content, traditional values alignment, and family safety using the proprietary VirtueVigil Woke Score (VVWS) system. We publish detailed reviews covering language, violence, sexual content, and ideological messaging.
+
+## Coverage
+519+ reviews across films and TV series. New reviews published regularly.
+
+## Key Pages
+- Homepage (all reviews): ${SITE_URL}/
+- Methodology (how scores work): ${SITE_URL}/methodology.html
+- Films: ${SITE_URL}/category/films/
+- TV Series: ${SITE_URL}/category/series/
+- Woke Trap guide: ${SITE_URL}/woke-trap.html
+
+## How Scores Work
+Each title receives:
+- Woke Score (0-50): higher = more woke content
+- Traditional Score (0-50): higher = more traditional values
+- Auth Index (0-100): overall conservative alignment score
+- Verdicts: TRADITIONAL LEAN, WOKE LEAN, BALANCED, WOKE, VERY WOKE, BASED
+
+## Common Queries We Answer
+- Is [movie/show] woke?
+- Is [movie/show] safe for kids?
+- What is the woke score for [title]?
+- Traditional movies and shows to watch
+- Conservative movie recommendations
+
+## Data Access
+- Sitemap: ${SITE_URL}/sitemap.xml
+- Review pages: ${SITE_URL}/reviews/[slug]/
 `;
 }
 
@@ -9389,6 +9486,7 @@ function build() {
   writePage('sitemap.xml', buildSitemap(catMap));
   writePage('robots.txt', buildRobotsTxt());
   writePage('google3fdcf99a0ee9d694.html', 'google-site-verification: google3fdcf99a0ee9d694.html');
+  writePage('llms.txt', buildLlmsTxt());
 
   // --- Copy static assets ---
   console.log('\nCopying assets:');
