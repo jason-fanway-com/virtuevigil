@@ -12,6 +12,18 @@
     "poster": "/images/posters/juror-2-2024.jpg"
   },
   {
+    "slug": "alien-earth-2025",
+    "title": "Alien: Earth",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "FX / Hulu",
+    "genre": "Horror / Sci-Fi / Thriller",
+    "year": 2025,
+    "type": "tv",
+    "wokeScore": 11.18,
+    "tradScore": 13.92,
+    "poster": "/images/posters/alien-earth-2025.jpg"
+  },
+  {
     "slug": "maria-2024",
     "title": "Maria",
     "verdict": "TRADITIONAL LEAN",
