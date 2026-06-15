@@ -1953,6 +1953,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-movies-for-teenagers-non-woke-2026/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-true-story-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-western-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-anti-communist-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-perseverance/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-4th-of-july-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/drama-movies-2026-woke-ranking/`, changefreq: 'weekly', priority: '0.9' },
@@ -2955,6 +2956,7 @@ function buildListsHubPage() {
         'best-movies-for-teenagers-non-woke-2026',
         'best-true-story-movies-conservatives',
         'best-western-movies-conservatives',
+        'best-anti-communist-movies',
         'best-4th-of-july-movies',
         'best-movies-about-perseverance',
         'superhero-movies-traditional-values',
@@ -3074,6 +3076,7 @@ function buildListsHubPage() {
       'best-movies-about-education-teaching': 'Best Movies About Education and Teaching (Ranked by Values)',
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories',
       'best-western-movies-conservatives': 'Best Western Movies for Conservatives',
+      'best-anti-communist-movies': 'Top 10 Anti-Communist Movies of All Time: Cinema\'s Best Defense of Freedom',
       'best-movies-about-perseverance': 'Best Movies About Perseverance: Top 10 Never-Give-Up Films Ranked by VirtueVigil Score',
       'best-4th-of-july-movies': 'Best 4th of July Movies: Top 10 Patriotic Films for Independence Day',
       'drama-movies-2026-woke-ranking': 'Every 2026 Drama Movie Ranked by Woke Score',
@@ -34007,6 +34010,376 @@ The short answer is no.</p>
         <p>Browse the full VirtueVigil database to score every film you are considering. We have reviewed over 700 films and shows with full methodology available on every review page. Related lists: <a href="/lists/best-war-movies-patriots/">Best War Movies for Patriots</a>, <a href="/lists/patriotic-war-movies/">10 War Movies That Honor America</a>, <a href="/lists/best-memorial-day-movies/">Best Memorial Day Movies for Patriots</a>.</p>
       </div>
     </article>`
+  }));
+
+  console.log('  lists/crime-gangster-movies-woke-ranking/index.html');
+  writePage('lists/crime-gangster-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'crime-gangster-movies-woke-ranking',
+    title: 'Every Crime & Gangster Movie Ranked by Woke Score',
+    description: 'All 26 crime, gangster, and mob films reviewed by VirtueVigil ranked from most traditional to most woke. The Godfather, GoodFellas, The Dark Knight, John Wick, Scarface, and more.',
+    canonicalPath: 'lists/crime-gangster-movies-woke-ranking',
+    publishDate: '2026-06-15',
+    htmlContent: `<article class="listicle-article">
+      <div class="listicle-intro">
+        <p>Crime cinema is the genre where Hollywood has always felt freest to operate outside conventional morality. Anti-heroes, moral ambiguity, and institutional corruption are the raw material. That freedom cuts both ways. When crime films are made with a genuine respect for order, sacrifice, and the cost of transgression, they produce some of the most powerful traditionally coded films ever made. When that freedom is used to celebrate transgression itself or to smuggle ideological messaging under the cover of style, the scores reflect it.</p>
+        <p>VirtueVigil has now reviewed 26 crime, gangster, mob, and heist films. The spread is the widest of any genre in the database: from +23 STRONGLY TRADITIONAL at the top to -22 STRONGLY WOKE at the bottom. The Godfather and Emilia Perez share a genre designation. The scores explain exactly what separates them.</p>
+      </div>
+
+      <ol class="listicle-items">
+        <li class="listicle-item">
+          <div class="listicle-rank">1</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/peaky-blinders-the-immortal-man-2026/">Peaky Blinders: The Immortal Man (2026)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>The Peaky Blinders film lands at the top of every crime list VirtueVigil runs because it understands something most modern crime filmmakers have forgotten: loyalty, brotherhood, and the weight of legacy are not things to be interrogated. They are the foundation. Tommy Shelby's world is brutal, criminal, and morally complicated, but the code it operates on is legible. Men keep their word. Blood matters. The film's high traditional score reflects a story rooted in those values even as its characters violate every law on the books. Style and substance aligned for the first time in a franchise that ran long enough to lose its own thread.</p>
+            <a href="/reviews/peaky-blinders-the-immortal-man-2026/" class="listicle-cta">Read the full VirtueVigil review of Peaky Blinders: The Immortal Man</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">2</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/john-wick-chapter-4-2023/">John Wick: Chapter 4 (2023)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+23 TRAD</span>
+            </div>
+            <p>The lowest woke score of any major action franchise in the VirtueVigil database: 0.5. Chad Stahelski built four films around a single idea, that a man's word is sacred, his loss irreplaceable, and his retribution inevitable, and never flinched from it once. Chapter 4 is the logical endpoint: John Wick earns his peace not through ideological transformation but through sacrifice. The code of the High Table is brutal, arbitrary, and medieval, but the film treats adherence to it as genuinely honorable. The Osaka sequence alone earns the traditional score. No franchise operating today comes close to this combination of craft and moral clarity.</p>
+            <a href="/reviews/john-wick-chapter-4-2023/" class="listicle-cta">Read the full VirtueVigil review of John Wick: Chapter 4</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">3</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-accountant-2-2025/">The Accountant 2 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+22 TRAD</span>
+            </div>
+            <p>Ben Affleck returns as Christian Wolff, the autistic forensic accountant who became one of the most quietly beloved action protagonists of the 2010s, and the sequel delivers on everything the original promised. Family is the mission. Loyalty is the code. The film explicitly frames Wolff's neurodivergence not as a limitation or a political statement but as a different way of being formidably competent in a world that underestimates people who don't fit the standard mold. That framing is traditional in the deepest sense: ability proven through action, character revealed through sacrifice. A film that respects its audience enough to not explain itself.</p>
+            <a href="/reviews/the-accountant-2-2025/" class="listicle-cta">Read the full VirtueVigil review of The Accountant 2</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">4</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-godfather-1972/">The Godfather (1972)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>The highest-scoring classic crime film in the database, and for reasons that become obvious the moment you think about what The Godfather is actually about. It is a film about family, loyalty, the weight of obligation, and the cost of power on the people who love you. The Corleone family is a criminal organization, but the moral architecture Coppola and Puzo built around it is profoundly traditional: fathers sacrifice for sons, sons carry the burden of fathers, women hold the family together, and betrayal is the unforgivable sin. The woke score of 2.0 is the lowest possible without being zero. Fifty-four years later, this film still teaches everything Hollywood has forgotten about how to construct a moral universe.</p>
+            <a href="/reviews/the-godfather-1972/" class="listicle-cta">Read the full VirtueVigil review of The Godfather</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">5</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-dark-knight-rises-2012/">The Dark Knight Rises (2012)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-traditional">STRONGLY TRADITIONAL</span>
+              <span class="score-badge">+21 TRAD</span>
+            </div>
+            <p>The most conservative film Christopher Nolan ever made, and one he has never quite gotten credit for. Bane's revolution is explicitly framed as a lie: the liberation of Gotham is a kangaroo court followed by mass execution, and the film treats revolutionary populism as a weapon wielded by the powerful against the naive. Bruce Wayne's arc is about the choice to sacrifice oneself for a city that neither knows you nor deserves you, because duty transcends gratitude. The ending is unambiguously hopeful, traditional, and earned. The Dark Knight gets more critical attention. The Dark Knight Rises makes the stronger argument about the world.</p>
+            <a href="/reviews/the-dark-knight-rises-2012/" class="listicle-cta">Read the full VirtueVigil review of The Dark Knight Rises</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">6</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/reacher-season-3-2025/">Reacher Season 3 (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+19 TRAD</span>
+            </div>
+            <p>Amazon's Reacher series has become the most consistently traditional franchise on any streaming platform, and Season 3 continued the streak with a woke score of 2.7 against a traditional score of 21.63. Jack Reacher operates on a code older than any institution: protect the innocent, punish the guilty, don't ask permission, don't wait for bureaucracies to act. The show earns its score by treating masculine competence, physical toughness, and moral clarity as virtues without irony or deconstruction. In 2025, that is a genuinely countercultural act.</p>
+            <a href="/reviews/reacher-season-3-2025/" class="listicle-cta">Read the full VirtueVigil review of Reacher Season 3</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">7</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-bikeriders-2024/">The Bikeriders (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+18 TRAD</span>
+            </div>
+            <p>Jeff Nichols made a film about the Vandals motorcycle club from the 1960s through the 1970s, drawn from Danny Lyon's photographs, and it is one of the most unexpected traditionally-coded films of 2024. Tom Hardy's Johnny is building something real: a community of men who have no other community, organized around loyalty and brotherhood in an era when those words were becoming unfashionable. The film mourns what the club becomes, which is exactly the right response. It treats the loss of masculine spaces and masculine codes not as progress but as genuine cultural impoverishment. Jodie Comer as Kathy is the moral center, and her love for a man who embodies that code is treated with complete respect.</p>
+            <a href="/reviews/the-bikeriders-2024/" class="listicle-cta">Read the full VirtueVigil review of The Bikeriders</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">8</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-accountant-2016/">The Accountant (2016)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+17 TRAD</span>
+            </div>
+            <p>The original Accountant was the rare mainstream action film that centered a protagonist with autism and treated his condition as a source of genuine capability rather than inspiration-porn or political messaging. Christian Wolff's father made a choice to raise his son to be strong rather than protected, and the film endorses that choice completely. The action is clean, the morality is clear, and the villain is a bureaucratic fraud. The film's traditional score comes from its core belief that competence is its own justification, that the right man doing the right job matters more than credentials, and that loyalty to the people you love supersedes loyalty to institutions that haven't earned it.</p>
+            <a href="/reviews/the-accountant-2016/" class="listicle-cta">Read the full VirtueVigil review of The Accountant</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">9</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-dark-knight-2008/">The Dark Knight (2008)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>The greatest superhero film ever made is also a film about the necessity of order, the cost of chaos, and the extraordinary price paid by the individuals who choose to stand between civilization and its enemies. The Joker is not misunderstood. He is not a product of systemic failure. He is a pure agent of destruction who has chosen to be one, and the film treats him as genuinely evil rather than as a mirror for social critique. Harvey Dent's fall is a tragedy about what chaos does to a good man. Batman's sacrifice, taking the blame for Dent's crimes to preserve Gotham's belief in justice, is a fundamentally conservative act: institutions must be protected even when the men inside them fail.</p>
+            <a href="/reviews/the-dark-knight-2008/" class="listicle-cta">Read the full VirtueVigil review of The Dark Knight</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">10</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/tulsa-king-s1-2022/">Tulsa King Season 1 (2022)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+16 TRAD</span>
+            </div>
+            <p>Taylor Sheridan and Sylvester Stallone gave Paramount+ its most traditionally coded original series in 2022, and Dwight Manfredi immediately became one of the most compelling characters on streaming television. A New York mob capo released after 25 years is exiled to Tulsa and proceeds to rebuild a life using nothing but street smarts, personal loyalty, and a code of conduct refined over a lifetime. The fish-out-of-water premise is a delivery mechanism for what Sheridan does best: portraying a world where a man's word and a man's reputation are all that actually matter. At 75, Stallone is doing career-best work.</p>
+            <a href="/reviews/tulsa-king-s1-2022/" class="listicle-cta">Read the full VirtueVigil review of Tulsa King Season 1</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">11</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/silence-of-the-lambs-1991/">The Silence of the Lambs (1991)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+15 TRAD</span>
+            </div>
+            <p>Jonathan Demme's masterpiece is a film about a woman proving herself inside an institution that underestimates her, and it is also one of the most traditional crime films ever made. Clarice Starling earns her credibility not through identity but through competence and courage. The film never condescends to her and never uses her gender as a source of conflict beyond the incidental. Hannibal Lecter is genuinely evil and the film treats him as such while making him fascinating. Buffalo Bill is not a product of society's failures; he is a predator. The institutional framework of the FBI, FBI procedures, and due process is treated as legitimate and worth defending. A film made today would use every one of these elements differently.</p>
+            <a href="/reviews/silence-of-the-lambs-1991/" class="listicle-cta">Read the full VirtueVigil review of The Silence of the Lambs</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">12</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/john-wick-2014/">John Wick (2014)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+14 TRAD</span>
+            </div>
+            <p>The film that launched the most traditionally coded action franchise of the last decade started with the simplest possible premise: they killed his dog. His wife gave him that dog to help him grieve. The men who killed it did not understand what they were taking or from whom. Everything that follows is retribution delivered with flawless craft and absolute moral clarity. There is no moral ambiguity about whether John Wick is right to do what he does. He is. The underworld has a code and those men violated it. The response is proportional by the code's own logic. Keanu Reeves understood this character in his bones and it shows in every frame.</p>
+            <a href="/reviews/john-wick-2014/" class="listicle-cta">Read the full VirtueVigil review of John Wick</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">13</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/the-departed-2006/">The Departed (2006)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+12 TRAD</span>
+            </div>
+            <p>Scorsese's best film of the 2000s is a tragedy about men trapped inside institutions that cannot be trusted, and the score reflects genuine complexity rather than ideology. Both the South Boston mob and the Massachusetts State Police are corrupt. Billy Costigan works inside one knowing it is rotten; Colin Sullivan works inside the other having built the rot himself. The traditional score survives because the film treats that corruption as genuinely tragic rather than as a systemic critique of institutions themselves. Men fail. The institutions, imperfect as they are, still represent something worth protecting. Jack Nicholson's Frank Costello is the rare villain who earns his menace through competence rather than cultural grievance.</p>
+            <a href="/reviews/the-departed-2006/" class="listicle-cta">Read the full VirtueVigil review of The Departed</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">14</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/goodfellas-1990/">GoodFellas (1990)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+11 TRAD</span>
+            </div>
+            <p>The film is a cautionary tale dressed as a celebration, and the moral is embedded in the final image: Henry Hill in witness protection, stripped of everything he chose to be, existing in a world he despises. GoodFellas is traditional not because it endorses the mob life but because it understands with devastating precision what that life costs. The code is real, the loyalty is real, the camaraderie is real, and every single one of them is hollow because none of it is built on anything that lasts. Scorsese loves these men and condemns them simultaneously. The woke score of 2.0 reflects a film entirely uninterested in contemporary ideological concerns. It has older and more permanent concerns on its mind.</p>
+            <a href="/reviews/goodfellas-1990/" class="listicle-cta">Read the full VirtueVigil review of GoodFellas</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">15</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/heat-1995/">Heat (1995)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional">TRADITIONAL</span>
+              <span class="score-badge">+11 TRAD</span>
+            </div>
+            <p>Michael Mann's masterwork is about two men on opposite sides of the law who are the same man, and the film treats their shared code with equal respect. Neil McCauley lives by one rule: be ready to walk away from anything in thirty seconds flat if you feel the heat coming around the corner. Vincent Hanna lives by an equally consuming obsession. Both are right. Both lose everything. The downtown LA shootout remains the greatest practical gunfight sequence in cinema, filmed with a documentary realism that every action film since has tried and failed to match. At 30 years old, Heat has not aged a frame.</p>
+            <a href="/reviews/heat-1995/" class="listicle-cta">Read the full VirtueVigil review of Heat</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">16</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/se7en-1995/">Se7en (1995)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+7 TRAD</span>
+            </div>
+            <p>David Fincher's most relentless film is a moral argument delivered through serial murder, and the argument is genuinely conservative: the world is broken, evil is real and motivated, and the institutions built to stop it are outmatched not by systemic failure but by the specific wickedness of specific men who choose it. John Doe believes he is a prophet correcting a corrupt society; the film treats him as a monster. Somerset's cynicism is not a political statement; it is exhaustion earned by decades of genuine engagement with genuine evil. The woke score of 10.82 comes from some gender and institutional framing that has dated slightly. The core of the film remains structurally traditional.</p>
+            <a href="/reviews/se7en-1995/" class="listicle-cta">Read the full VirtueVigil review of Se7en</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">17</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/catch-me-if-you-can-2002/">Catch Me If You Can (2002)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+5 TRAD</span>
+            </div>
+            <p>Spielberg made Frank Abagnale Jr.'s story enormously charming and got away with it because he never lets the audience forget what Abagnale was actually doing: lying constantly, defrauding people, and running from every genuine commitment in his life. The traditional lean comes from the film's real emotional core, the fractured relationship between Frank and his father, and the genuine paternal warmth of Carl Hanratty's pursuit. The FBI agent who never stops chasing Frank is ultimately the moral anchor of the film. When Frank finally stops running, it is toward structure, accountability, and an institution. The film frames that as peace, not defeat.</p>
+            <a href="/reviews/catch-me-if-you-can-2002/" class="listicle-cta">Read the full VirtueVigil review of Catch Me If You Can</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">18</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/no-country-for-old-men-2007/">No Country for Old Men (2007)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
+              <span class="score-badge">+5 TRAD</span>
+            </div>
+            <p>The Coen Brothers' Best Picture winner is the most pessimistic film in this ranking and also one of the most traditionally coded in its worldview. Sheriff Bell is a man out of time in the truest sense: the world he was equipped to police, the world where men operated by a recognizable code even when they violated it, is being replaced by something genuinely incomprehensible. Anton Chigurh is not a product of society. He is the absence of God given a cattle gun. The film treats that absence as a genuine catastrophe. The traditional lean exists because the moral framework of the film is rooted in a world before the transgression of its values, not in celebration of their erasure.</p>
+            <a href="/reviews/no-country-for-old-men-2007/" class="listicle-cta">Read the full VirtueVigil review of No Country for Old Men</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">19</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/joker-2019/">Joker (2019)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge mixed">MIXED</span>
+              <span class="score-badge">MIXED</span>
+            </div>
+            <p>Todd Phillips made a genuinely ambiguous film, and the MIXED verdict reflects genuine ambiguity rather than ideological hedging. Arthur Fleck's descent into violence is framed as a product of systemic failure: budget cuts to social services, institutional neglect, cruel indifference from the people around him. That framing carries real woke weight. But the film is deeply uncomfortable with the conclusion its own logic implies. The riot that follows Arthur's transformation is filmed as chaos rather than liberation. Phillips is not endorsing the Joker's worldview; he is holding it up for examination. The result is a film that asks hard questions and refuses to answer them, which is either cowardice or genuine complexity depending on how generously you read it.</p>
+            <a href="/reviews/joker-2019/" class="listicle-cta">Read the full VirtueVigil review of Joker</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">20</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/reservoir-dogs-1992/">Reservoir Dogs (1992)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>Tarantino's debut is a WOKE LEAN by the narrowest of margins, and the explanation requires some unpacking. The film is not ideologically progressive in any conventional sense. What pushes the score down is Tarantino's gleeful transgression of moral convention for its own sake, the ear scene exists to make audiences complicit in something they didn't want to watch, the authority figures are either dead or useless, and there is no moral reckoning at the end. The code the criminals operate on is real but self-contained. When it collapses, nothing replaces it. Tarantino is not making an argument. He is doing something more disorienting: removing the framework entirely and seeing what happens. That nihilism is what the score reflects.</p>
+            <a href="/reviews/reservoir-dogs-1992/" class="listicle-cta">Read the full VirtueVigil review of Reservoir Dogs</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">21</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/scarface-1983/">Scarface (1983)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-4 WOKE</span>
+            </div>
+            <p>De Palma and Stone made Scarface as a cautionary tale and launched a thousand rap videos instead. Tony Montana is supposed to be destroyed by his own excess; the film delivers exactly that destruction in its final twenty minutes. But the problem is that every frame before those twenty minutes is an intoxicating celebration of power, money, and violent self-determination, and audiences responded to the celebration rather than the conclusion. The WOKE LEAN verdict reflects a film that uses immigrant ambition as a vehicle for celebrating transgression, frames the American system as the enemy of a man who simply wanted more, and delivers its moral lesson at a volume too quiet to compete with what preceded it. A great film that became culturally counterproductive.</p>
+            <a href="/reviews/scarface-1983/" class="listicle-cta">Read the full VirtueVigil review of Scarface</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">22</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/wolf-of-wall-street-2013/">The Wolf of Wall Street (2013)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-6 WOKE</span>
+            </div>
+            <p>Scorsese made his Scarface problem worse. Jordan Belfort defrauded ordinary Americans out of their savings, destroyed lives, and lived in cartoonish excess while doing it, and The Wolf of Wall Street gives him three hours of the most energetic filmmaking of 2013. The final shot, Belfort addressing an audience of aspirants hanging on his every word, is a deliberate provocation: this man is still out there, still selling, and you are watching. The WOKE LEAN score comes not from progressive ideology but from a film that systematically tears down every institution, law enforcement, marriage, financial regulation, personal responsibility, without offering a coherent alternative. The result is three hours of gleeful nihilism wrapped in a critique that arrives too late and too quietly to land.</p>
+            <a href="/reviews/wolf-of-wall-street-2013/" class="listicle-cta">Read the full VirtueVigil review of The Wolf of Wall Street</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">23</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/american-made-2017/">American Made (2017)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-7 WOKE</span>
+            </div>
+            <p>Doug Liman frames Barry Seal's career as a DEA informant and Medellin cocaine smuggler as a comedy of American imperial overreach, and that framing is where the score goes south. Tom Cruise is enormously likable as Seal, but the film's target is the CIA, the Reagan administration, and American foreign policy rather than the man who chose to smuggle drugs for a living. Institutional critique is the engine. Seal is the audience surrogate through which American government incompetence and hypocrisy is delivered, which places the moral weight of the film in a different location than where the actual culpability lies. A fun film with a political axe to grind that it is not entirely honest about having.</p>
+            <a href="/reviews/american-made-2017/" class="listicle-cta">Read the full VirtueVigil review of American Made</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">24</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/pulp-fiction-1994/">Pulp Fiction (1994)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-8 WOKE</span>
+            </div>
+            <p>The most culturally influential crime film of the 1990s scores WOKE LEAN because Tarantino's entire formal project is built on demolishing moral hierarchy. The WOKE LEAN verdict is the mathematically correct response to a film where redemption is possible, the woke score of 17.98 reflects consistent transgressive content, and the gap between trad (10.08) and woke is exactly where Pulp Fiction lives as cinema: brilliantly amoral, interested in codes of conduct only insofar as violating them creates dramatic tension. Jules Winnfield's conversion is genuine and moving. The rest of the film is Tarantino delighting in the moral landscape he built around it. Both things are simultaneously true.</p>
+            <a href="/reviews/pulp-fiction-1994/" class="listicle-cta">Read the full VirtueVigil review of Pulp Fiction</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">25</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/adolescence-2025/">Adolescence (2025)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge woke-lean">WOKE LEAN</span>
+              <span class="score-badge">-8 WOKE</span>
+            </div>
+            <p>The Netflix one-shot series about a 13-year-old boy who murders a classmate became the most-watched English-language series in Netflix history, and the score reflects exactly what that story is doing ideologically. The series is genuinely powerful television. It is also a sustained argument that online masculine culture, Andrew Tate adjacent content, incel forums, and the failure of fathers to engage emotionally with their sons created a murderer. The institutional critique runs throughout: schools failed him, online platforms radicalized him, and the adults in his life were not equipped to stop it. The woke score of 22.54 against a traditional of 14.76 reflects a series whose emotional authenticity is real but whose causational argument is heavily loaded.</p>
+            <a href="/reviews/adolescence-2025/" class="listicle-cta">Read the full VirtueVigil review of Adolescence</a>
+          </div>
+        </li>
+
+        <li class="listicle-item">
+          <div class="listicle-rank">26</div>
+          <div class="listicle-content">
+            <h2><a href="/reviews/emilia-perez-2024/">Emilia Perez (2024)</a></h2>
+            <div class="listicle-badges">
+              <span class="verdict-badge strongly-woke">STRONGLY WOKE</span>
+              <span class="score-badge">-22 WOKE</span>
+            </div>
+            <p>The most woke crime film in the VirtueVigil database by a margin of 14 points. Jacques Audiard made a French film about a Mexican cartel boss who transitions to a woman and is thereby morally reborn, and it received 13 Oscar nominations, the most ever for a non-English-language film. The cartel violence of the first act is not criticized as moral failure; it is presented as the male identity to be shed. Transition is framed as liberation, redemption, and truth. The film managed to unite conservative and progressive critics against it for entirely different reasons: conservatives objected to the premise, progressives objected to its depiction of Mexican culture and trans identity. The Academy celebrated it anyway. The woke score of 28 against a traditional of 6 is the largest WOKE margin in the crime genre.</p>
+            <a href="/reviews/emilia-perez-2024/" class="listicle-cta">Read the full VirtueVigil review of Emilia Perez</a>
+          </div>
+        </li>
+
+      </ol>
+
+      <div class="listicle-conclusion">
+        <p>Twenty-six crime films, one genre, and a spread of 45 points between top and bottom. The data confirms what any honest film fan knows: the crime genre is not inherently woke or traditional. It is a canvas. The question is always what the filmmaker chose to paint on it. The Godfather and Emilia Perez are both crime films. The 45-point gap between their scores reflects everything that has changed in Hollywood between 1972 and 2024.</p>
+        <p>The top half of this list proves that you can make morally serious crime cinema without abandoning traditional values. The Godfather, GoodFellas, The Dark Knight, and the John Wick franchise all operate inside criminal worlds while treating loyalty, sacrifice, and the weight of consequence as genuinely meaningful. That combination is not a historical accident. It is a choice that filmmakers make or don't make. Browse the full VirtueVigil database to find every reviewed film scored and analyzed with full methodology. Related lists: <a href="/lists/highest-woke-scores-all-time/">10 Films With the Highest Woke Scores Ever</a>, <a href="/lists/highest-traditional-scores-all-time/">10 Films With the Highest Traditional Scores Ever</a>, <a href="/lists/woke-trap-movies-complete/">15 Biggest Woke Traps in Cinema</a>.</p>
+      </div>
+    </article>`
+  }));
+
+  writePage('lists/best-anti-communist-movies/index.html', buildListiclePage({
+    slug: 'best-anti-communist-movies',
+    title: 'Top 10 Anti-Communist Movies of All Time: Cinema\'s Best Defense of Freedom',
+    description: 'The 10 most powerful anti-communist films ever made, ranked by VirtueVigil traditional values score. From Reagan to Miracle to Red Dawn, these are the films that told the truth about collectivist tyranny.',
+    canonicalPath: 'lists/best-anti-communist-movies',
+    publishDate: '2026-06-15',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-anti-communist-movies/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
