@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/lucky-strike-2026.jpg"
   },
   {
+    "slug": "kraken-2026",
+    "title": "Kraken",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Horror / Monster / Action",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 7.38,
+    "tradScore": 11.06,
+    "poster": "/images/posters/kraken-2026.jpg"
+  },
+  {
     "slug": "juror-2-2024",
     "title": "Juror #2",
     "verdict": "TRADITIONAL",
