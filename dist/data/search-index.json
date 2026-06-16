@@ -6024,6 +6024,18 @@
     "poster": "/images/posters/carry-on-2024.jpg"
   },
   {
+    "slug": "star-wars-a-new-hope-1977",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Adventure / Sci-Fi",
+    "year": 1977,
+    "type": "film",
+    "wokeScore": 3.4,
+    "tradScore": 24.15,
+    "poster": "/images/posters/star-wars-a-new-hope-1977.jpg"
+  },
+  {
     "slug": "lucky-strike-2026",
     "title": "Lucky Strike",
     "verdict": "PREDICTED: TRADITIONAL",
