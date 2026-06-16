@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/star-wars-a-new-hope-1977.jpg"
   },
   {
+    "slug": "empire-strikes-back-1980",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Adventure / Sci-Fi",
+    "year": 1980,
+    "type": "film",
+    "wokeScore": 1.7,
+    "tradScore": 20.3,
+    "poster": "/images/posters/empire-strikes-back-1980.jpg"
+  },
+  {
     "slug": "lucky-strike-2026",
     "title": "Lucky Strike",
     "verdict": "PREDICTED: TRADITIONAL",
