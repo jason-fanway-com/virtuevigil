@@ -34382,6 +34382,15 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-anti-communist-movies/content.html'), 'utf-8')
   }));
 
+  writePage('lists/best-traditional-movies-2026-midyear/index.html', buildListiclePage({
+    slug: 'best-traditional-movies-2026-midyear',
+    title: 'Top 15 Best Movies of 2026 So Far (Ranked by Traditional Values)',
+    description: 'The 15 highest-scoring traditional films of 2026, ranked by VirtueVigil. Mid-year update covers 82 reviewed titles. From M:I Final Reckoning to A Great Awakening.',
+    canonicalPath: 'lists/best-traditional-movies-2026-midyear',
+    publishDate: '2026-06-17',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-movies-2026-midyear/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
