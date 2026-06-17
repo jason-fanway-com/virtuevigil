@@ -6024,6 +6024,18 @@
     "poster": "/images/posters/carry-on-2024.jpg"
   },
   {
+    "slug": "drive-2011",
+    "title": "Drive",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action / Crime / Drama",
+    "year": 2011,
+    "type": "film",
+    "wokeScore": 4,
+    "tradScore": 14.49,
+    "poster": "/images/posters/drive-2011.jpg"
+  },
+  {
     "slug": "star-wars-a-new-hope-1977",
     "title": "Star Wars: Episode IV - A New Hope",
     "verdict": "STRONGLY TRADITIONAL",
