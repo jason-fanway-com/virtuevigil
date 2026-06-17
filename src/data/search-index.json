@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/drive-2011.jpg"
   },
   {
+    "slug": "extraction-2020",
+    "title": "Extraction",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Action / Crime / Thriller",
+    "year": 2020,
+    "type": "film",
+    "wokeScore": 4.8,
+    "tradScore": 16.54,
+    "poster": "/images/posters/extraction-2020.jpg"
+  },
+  {
     "slug": "star-wars-a-new-hope-1977",
     "title": "Star Wars: Episode IV - A New Hope",
     "verdict": "STRONGLY TRADITIONAL",
