@@ -1984,6 +1984,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-2000s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2010s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-1990s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/movies-1980s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -3014,6 +3015,7 @@ function buildListsHubPage() {
         'movies-2000s-woke-ranking',
         'movies-2010s-woke-ranking',
         'movies-1990s-woke-ranking',
+        'movies-1980s-woke-ranking',
         'movies-2016-woke-ranking',
         'woke-horror-movies-2024',
         'woke-horror-movies-2025'
@@ -3107,6 +3109,7 @@ function buildListsHubPage() {
       'movies-2000s-woke-ranking': 'Every 2000s Movie Ranked by Woke Score',
       'movies-2010s-woke-ranking': 'Every 2010s Movie Ranked by Woke Score',
       'movies-1990s-woke-ranking': 'Every 1990s Movie Ranked by Woke Score',
+      'movies-1980s-woke-ranking': 'Every 1980s Movie Ranked by Woke Score',
       'movies-2016-woke-ranking': 'Every 2016 Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
@@ -34389,6 +34392,15 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-movies-2026-midyear',
     publishDate: '2026-06-17',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-movies-2026-midyear/content.html'), 'utf-8')
+  }));
+
+  writePage('lists/movies-1980s-woke-ranking/index.html', buildListiclePage({
+    slug: 'movies-1980s-woke-ranking',
+    title: 'Every 1980s Movie Ranked by Woke Score',
+    description: 'All 15 reviewed 1980s films ranked from most traditional to most woke. VirtueVigil scores Hoosiers, Raiders of the Lost Ark, Ghostbusters, Die Hard, Back to the Future, and every scored 1980s release.',
+    canonicalPath: 'lists/movies-1980s-woke-ranking',
+    publishDate: '2026-06-18',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/movies-1980s-woke-ranking/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
