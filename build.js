@@ -1985,6 +1985,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-2010s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-1990s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-1980s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/musical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -3110,7 +3111,8 @@ function buildListsHubPage() {
       'movies-2010s-woke-ranking': 'Every 2010s Movie Ranked by Woke Score',
       'movies-1990s-woke-ranking': 'Every 1990s Movie Ranked by Woke Score',
       'movies-1980s-woke-ranking': 'Every 1980s Movie Ranked by Woke Score',
-      'movies-2016-woke-ranking': 'Every 2016 Movie Ranked by Woke Score'
+      'movies-2016-woke-ranking': 'Every 2016 Movie Ranked by Woke Score',
+      'musical-movies-woke-ranking': 'Every Musical Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -34401,6 +34403,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/movies-1980s-woke-ranking',
     publishDate: '2026-06-18',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/movies-1980s-woke-ranking/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/musical-movies-woke-ranking/index.html');
+  writePage('lists/musical-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'musical-movies-woke-ranking',
+    title: 'Every Musical Movie Ranked by Woke Score',
+    description: 'All 26 musical films scored by VirtueVigil ranked from most traditional to most woke. From David and The Lion King to Wicked and Emilia Perez.',
+    canonicalPath: 'lists/musical-movies-woke-ranking',
+    publishDate: '2026-06-19',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/musical-movies-woke-ranking/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
