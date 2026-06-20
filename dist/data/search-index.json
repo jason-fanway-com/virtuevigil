@@ -6036,6 +6036,18 @@
     "poster": "/images/posters/the-karate-kid-1984.jpg"
   },
   {
+    "slug": "rudy-1993",
+    "title": "Rudy",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Sports / Biography",
+    "year": 1993,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 23.1,
+    "poster": "/images/posters/rudy-1993.jpg"
+  },
+  {
     "slug": "the-banshees-of-inisherin-2022",
     "title": "The Banshees of Inisherin",
     "verdict": "TRADITIONAL LEAN",
