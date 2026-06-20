@@ -34415,6 +34415,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/musical-movies-woke-ranking/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/superhero-movies-woke-ranking-all-time/index.html');
+  writePage('lists/superhero-movies-woke-ranking-all-time/index.html', buildListiclePage({
+    slug: 'superhero-movies-woke-ranking-all-time',
+    title: 'Every Superhero Movie Ranked by Woke Score (All Time)',
+    description: 'All 52 reviewed superhero films ranked from most traditional to most woke. VirtueVigil scores every scored superhero film from The Incredibles and Batman Begins through Captain Marvel, Eternals, and Birds of Prey.',
+    canonicalPath: 'lists/superhero-movies-woke-ranking-all-time',
+    publishDate: '2026-06-20',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/superhero-movies-woke-ranking-all-time/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
