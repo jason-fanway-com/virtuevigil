@@ -6024,6 +6024,18 @@
     "poster": "/images/posters/carry-on-2024.jpg"
   },
   {
+    "slug": "the-karate-kid-1984",
+    "title": "The Karate Kid",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Sports / Coming-of-Age",
+    "year": 1984,
+    "type": "film",
+    "wokeScore": 1.7,
+    "tradScore": 22.4,
+    "poster": "/images/posters/the-karate-kid-1984.jpg"
+  },
+  {
     "slug": "the-banshees-of-inisherin-2022",
     "title": "The Banshees of Inisherin",
     "verdict": "TRADITIONAL LEAN",
