@@ -1986,6 +1986,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-1990s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-1980s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/musical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/spy-espionage-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -3112,7 +3113,8 @@ function buildListsHubPage() {
       'movies-1990s-woke-ranking': 'Every 1990s Movie Ranked by Woke Score',
       'movies-1980s-woke-ranking': 'Every 1980s Movie Ranked by Woke Score',
       'movies-2016-woke-ranking': 'Every 2016 Movie Ranked by Woke Score',
-      'musical-movies-woke-ranking': 'Every Musical Movie Ranked by Woke Score'
+      'musical-movies-woke-ranking': 'Every Musical Movie Ranked by Woke Score',
+      'spy-espionage-movies-woke-ranking': 'Every Spy & Espionage Movie Ranked by Woke Score'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -34423,6 +34425,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/superhero-movies-woke-ranking-all-time',
     publishDate: '2026-06-20',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/superhero-movies-woke-ranking-all-time/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/spy-espionage-movies-woke-ranking/index.html');
+  writePage('lists/spy-espionage-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'spy-espionage-movies-woke-ranking',
+    title: 'Every Spy & Espionage Movie Ranked by Woke Score',
+    description: 'All 13 reviewed spy and espionage films ranked from most traditional to most woke. VirtueVigil scores Mission Impossible, Jack Ryan, Tenet, Black Bag, The Gray Man, No Time to Die, and more.',
+    canonicalPath: 'lists/spy-espionage-movies-woke-ranking',
+    publishDate: '2026-06-21',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/spy-espionage-movies-woke-ranking/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
