@@ -1987,6 +1987,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-1980s-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/musical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/spy-espionage-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/fantasy-movies-woke-ranking-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -3114,7 +3115,8 @@ function buildListsHubPage() {
       'movies-1980s-woke-ranking': 'Every 1980s Movie Ranked by Woke Score',
       'movies-2016-woke-ranking': 'Every 2016 Movie Ranked by Woke Score',
       'musical-movies-woke-ranking': 'Every Musical Movie Ranked by Woke Score',
-      'spy-espionage-movies-woke-ranking': 'Every Spy & Espionage Movie Ranked by Woke Score'
+      'spy-espionage-movies-woke-ranking': 'Every Spy & Espionage Movie Ranked by Woke Score',
+      'fantasy-movies-woke-ranking-all-time': 'Every Fantasy Movie Ranked by Woke Score (All Time)'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -34427,6 +34429,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/superhero-movies-woke-ranking-all-time/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/best-father-son-movies/index.html');
+  writePage('lists/best-father-son-movies/index.html', buildListiclePage({
+    slug: 'best-father-son-movies',
+    title: 'Best Father-Son Movies: Top 10 Films Celebrating the Bond Between Fathers and Sons',
+    description: 'The 10 highest-scoring father-son films in the VirtueVigil database, ranked by traditional values score. From Ne Zha 2 and The Lion King to Top Gun: Maverick and Karate Kid: Legends.',
+    canonicalPath: 'lists/best-father-son-movies',
+    publishDate: '2026-06-22',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-father-son-movies/content.html'), 'utf-8')
+  }));
+
   console.log('  lists/spy-espionage-movies-woke-ranking/index.html');
   writePage('lists/spy-espionage-movies-woke-ranking/index.html', buildListiclePage({
     slug: 'spy-espionage-movies-woke-ranking',
@@ -34435,6 +34447,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/spy-espionage-movies-woke-ranking',
     publishDate: '2026-06-21',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/spy-espionage-movies-woke-ranking/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/fantasy-movies-woke-ranking-all-time/index.html');
+  writePage('lists/fantasy-movies-woke-ranking-all-time/index.html', buildListiclePage({
+    slug: 'fantasy-movies-woke-ranking-all-time',
+    title: 'Every Fantasy Movie Ranked by Woke Score (All Time)',
+    description: 'All 49 reviewed fantasy films ranked from most traditional to most woke. From Ne Zha 2 and LOTR to Poor Things. VirtueVigil scores the full spectrum.',
+    canonicalPath: 'lists/fantasy-movies-woke-ranking-all-time',
+    publishDate: '2026-06-22',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/fantasy-movies-woke-ranking-all-time/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
