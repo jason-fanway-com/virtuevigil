@@ -1298,6 +1298,7 @@ function buildReviewPage(r) {
     "name": r.title,
     "author": { "@type": "Person", "name": r.author },
     "datePublished": r.date,
+    "dateModified": r.dateModified || r.date,
     "reviewBody": (() => {
       const body = plainText((r.summary && (r.summary.overall || r.summary.overview)) || '', 800);
       const scoreStr = `Woke Score: ${r.wokeScore || 0}/50. Traditional Score: ${r.tradScore || 0}/50. VirtueVigil Index: ${r.authIndex || 0}/100. Verdict: ${r.verdict || ''}.`;
@@ -1373,6 +1374,7 @@ function buildReviewPage(r) {
               <div class="featured-meta">
                 <span><i class="fas fa-${r.type === 'film' ? 'film' : 'tv'}"></i> ${r.type === 'film' ? 'Film' : 'Series'} &middot; ${esc(r.platform)}</span>
                 <span><i class="fas fa-calendar"></i> <time datetime="${r.date}" itemprop="datePublished">${formatDate(r.date)}</time></span>
+                ${(r.dateModified && r.dateModified !== r.date) ? `<span><i class="fas fa-sync-alt"></i> Updated <time datetime="${r.dateModified}" itemprop="dateModified">${formatDate(r.dateModified)}</time></span>` : ''}
                 <span><i class="fas fa-user-edit"></i> Analyzed by <span itemprop="author">Debra Ducane</span></span>
                 <span><i class="fas fa-clock"></i> ${esc(r.readTime)} read</span>
               </div>
@@ -2000,7 +2002,7 @@ function buildSitemap(catMap) {
   reviews.forEach(r => {
     urls.push({
       loc: `${SITE_URL}/reviews/${r.slug}/`,
-      lastmod: r.date,
+      lastmod: r.dateModified || r.date,
       changefreq: 'monthly',
       priority: '0.8'
     });
@@ -5801,10 +5803,10 @@ function build() {
 
   writePage('lists/woke-movies-box-office-flops/index.html', buildListiclePage({
     slug: 'woke-movies-box-office-flops',
-    title: '10 Woke Movies That Bombed at the Box Office',
-    description: 'Hollywood keeps pushing the agenda and audiences keep staying home. These 10 films scored WOKE or WOKE LEAN on VirtueVigil and confirmed it with verified box office losses.',
+    title: 'Woke Movies That Flopped: 10 Box Office Bombs Ranked',
+    description: 'Woke movies that flopped: 10 films that scored WOKE on VirtueVigil and then bombed at the box office. Verified losses and the agenda that sank them. Full list.',
     canonicalPath: 'lists/woke-movies-box-office-flops',
-    publishDate: '2026-03-20',
+    publishDate: '2026-06-22',
     htmlContent: `<article class="listicle-article">
       <p>The conventional wisdom in entertainment journalism holds that "go woke, go broke" is a myth. The data in this list tells a different story. Each film below earned a WOKE or WOKE LEAN verdict from VirtueVigil based on scored trope analysis, and each one underperformed or outright bombed at the verified box office. The numbers come from Box Office Mojo, Variety, The Hollywood Reporter, and other industry sources. Nothing here is estimated or invented.</p>
 
@@ -7508,10 +7510,10 @@ function build() {
 
   writePage('lists/christopher-nolan-movies-woke-ranking/index.html', buildListiclePage({
     slug: 'christopher-nolan-movies-woke-ranking',
-    title: 'Every Christopher Nolan Movie Ranked by Woke Score',
-    description: "Christopher Nolan's films ranked by VirtueVigil's Woke Score. From The Dark Knight to Oppenheimer, find out which Nolan film holds up on traditional values.",
+    title: 'Is Christopher Nolan Woke? Every Nolan Movie Ranked by Woke Score',
+    description: "Is Christopher Nolan woke? VirtueVigil ranks every Nolan film by Woke Score, from The Dark Knight to Oppenheimer. Five of six land traditional. See the full data.",
     canonicalPath: 'lists/christopher-nolan-movies-woke-ranking',
-    publishDate: '2026-03-24',
+    publishDate: '2026-06-22',
     htmlContent: `<article class="listicle-article">
 
       <p>Christopher Nolan has spent three decades building a reputation as Hollywood's great apolitical filmmaker. His movies are about time, identity, memory, and moral weight. They don't preach. They don't lecture. Critics on both sides of the aisle praise his work, and that's a rarity in an era when studios treat blockbusters as vehicles for social messaging. But reputation and data don't always match up.</p>
@@ -9090,10 +9092,10 @@ function build() {
 
   writePage('lists/most-woke-movies-2026/index.html', buildListiclePage({
     slug: 'most-woke-movies-2026',
-    title: 'Most Woke Movies of 2026 (So Far): Ranked by VirtueVigil',
-    description: '2026 is shaping up as one of the most ideologically charged years in recent memory. Here are the 10 most woke films and shows of 2026, ranked by VirtueVigil\'s scoring system.',
+    title: 'Most Woke Movies of 2026: The 10 Worst, Ranked',
+    description: 'The most woke movies of 2026, ranked by VirtueVigil. The 10 most ideologically charged films and shows of the year, scored by our VVWS system. See the full list.',
     canonicalPath: 'lists/most-woke-movies-2026',
-    publishDate: '2026-03-31',
+    publishDate: '2026-06-22',
     htmlContent: `<article class="listicle-article">
       <p>2026 is shaping up to be one of the most ideologically charged years in recent film history. We are only three months in, and the woke score database already contains films pushing ideology harder than most full-year slates from a decade ago. The Moment, a Charli XCX A24 mockumentary, has already posted the highest woke net score of any 2026 release: plus 27. The Bride!, a feminist Gothic reimagining of Frankenstein, came in at plus 13.7. Nightbitch, a Hulu drama about maternal rage and literal transformation, posted a trad score of zero.</p>
 
@@ -9240,6 +9242,8 @@ function build() {
       <p>The middle of the list (Last of Us S2, Butterfly Dreams, Bridgerton S4) represents a more common pattern: films and shows with genuine entertainment value that are also carrying ideological freight. These are the woke traps. The ones where you sit down for a good thriller or a romantic comedy and end up receiving a lecture you did not sign up for.</p>
 
       <p>VirtueVigil exists to prevent that. Full reviews for every film on this list are available at the links above. If you want the complete 2026 database sorted by score, visit our <a href="/reviews/">reviews page</a> and sort by year and verdict. New titles are added weekly.</p>
+
+      <p>Related coverage: see whether <a href="/reviews/daredevil-born-again-s2-2026/">Daredevil: Born Again Season 2 is woke</a>, our verdict on <a href="/reviews/disclosure-day-2026/">whether Disclosure Day is woke</a>, the case for <a href="/reviews/toy-story-4-2019/">why Toy Story 4 scored woke</a>, and the full <a href="/lists/christopher-nolan-movies-woke-ranking/">Is Christopher Nolan woke? director ranking</a>. For the box office fallout, read <a href="/lists/woke-movies-box-office-flops/">woke movies that flopped</a>.</p>
 
       <p>And if you want the other side of 2026, the films actually worth watching, see our companion list: <a href="/lists/best-traditional-movies-2026/">Best Traditional Movies of 2026 So Far.</a></p>
     </article>`
@@ -16548,10 +16552,10 @@ function buildAudienceVsCriticScoresListicle() {
 
   writePage('lists/best-kids-movies-2025-2026-no-agenda/index.html', buildListiclePage({
     slug: 'best-kids-movies-2025-2026-no-agenda',
-    title: 'Best Movies for Kids in 2025-2026: Zero Woke Agenda (Ranked by VirtueVigil)',
-    description: 'VirtueVigil ranks the 10 best kids movies of 2025-2026 with no woke agenda. Every film scored for family safety, traditional values, and clean entertainment.',
+    title: 'Best Kids Movies 2025-2026 With No Woke Agenda, Ranked',
+    description: 'The best kids movies of 2025-2026 with zero woke agenda, ranked by VirtueVigil. Every film scored for family safety, traditional values, and clean fun. Full list.',
     canonicalPath: 'lists/best-kids-movies-2025-2026-no-agenda',
-    publishDate: '2026-04-01',
+    publishDate: '2026-06-22',
     htmlContent: `<article class="listicle-article">
       <div class="listicle-intro">
         <h1 style="font-family:'Cinzel',Georgia,serif;font-size:1.6rem;color:#c9a84c;margin:0 0 20px;">Best Movies for Kids in 2025-2026: Zero Woke Agenda (Ranked by VirtueVigil)</h1>
@@ -17968,10 +17972,10 @@ function buildAudienceVsCriticScoresListicle() {
 
   writePage('lists/best-movies-for-teenagers-non-woke-2026/index.html', buildListiclePage({
     slug: 'best-movies-for-teenagers-non-woke-2026',
-    title: 'Best Movies for Teenagers (Non-Woke) 2026: Parent-Approved Picks',
-    description: 'Ten parent-approved movies for teens in 2026 that teach real values: heroism, sacrifice, responsibility, and courage. No agenda, no lectures, just great storytelling.',
+    title: 'Best Movies for Teenagers 2026: 10 Non-Woke, Parent-Approved Picks',
+    description: 'The best non-woke movies for teenagers in 2026, ranked by VirtueVigil. Ten parent-approved picks that teach heroism, sacrifice, and courage. No agenda, no lectures.',
     canonicalPath: 'lists/best-movies-for-teenagers-non-woke-2026',
-    publishDate: '2026-04-06',
+    publishDate: '2026-06-22',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-movies-for-teenagers-non-woke-2026/index.html'), 'utf-8')
   }));
 
