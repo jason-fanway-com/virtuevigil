@@ -12,6 +12,18 @@
     "poster": "/images/posters/spider-man-homecoming-2017.jpg"
   },
   {
+    "slug": "venom-2018",
+    "title": "Venom",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Superhero / Action / Sci-Fi",
+    "year": 2018,
+    "type": "film",
+    "wokeScore": 5.68,
+    "tradScore": 11.76,
+    "poster": "/images/posters/venom-2018.jpg"
+  },
+  {
     "slug": "girls-like-girls-2026",
     "title": "Girls Like Girls",
     "verdict": "WOKE",
