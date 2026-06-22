@@ -1,5 +1,17 @@
 [
   {
+    "slug": "spider-man-homecoming-2017",
+    "title": "Spider-Man: Homecoming",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Superhero / Action / Adventure",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 6.22,
+    "tradScore": 13.02,
+    "poster": "/images/posters/spider-man-homecoming-2017.jpg"
+  },
+  {
     "slug": "girls-like-girls-2026",
     "title": "Girls Like Girls",
     "verdict": "WOKE",
