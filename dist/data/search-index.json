@@ -24,6 +24,18 @@
     "poster": "/images/posters/venom-2018.jpg"
   },
   {
+    "slug": "ant-man-2015",
+    "title": "Ant-Man",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Superhero / Heist / Action / Comedy",
+    "year": 2015,
+    "type": "film",
+    "wokeScore": 3.9,
+    "tradScore": 21,
+    "poster": "/images/posters/ant-man-2015.jpg"
+  },
+  {
     "slug": "girls-like-girls-2026",
     "title": "Girls Like Girls",
     "verdict": "WOKE",
