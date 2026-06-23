@@ -24,6 +24,18 @@
     "poster": "/images/posters/stop-that-train-2026.jpg"
   },
   {
+    "slug": "hungry-2026",
+    "title": "Hungry",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / VOD",
+    "genre": "Survival Horror / Creature Feature / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.4,
+    "tradScore": 12.52,
+    "poster": "/images/posters/hungry-2026.jpg"
+  },
+  {
     "slug": "spider-man-homecoming-2017",
     "title": "Spider-Man: Homecoming",
     "verdict": "TRADITIONAL LEAN",
