@@ -326,7 +326,7 @@
   {
     "slug": "disclosure-day-2026",
     "title": "Disclosure Day",
-    "verdict": "RECOMMENDED",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Science Fiction, Thriller",
     "year": 2026,
@@ -2232,6 +2232,84 @@
     "poster": "/images/posters/normal-2026.jpg"
   },
   {
+    "slug": "deep-water-2026",
+    "title": "Deep Water",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Thriller / Survival / Action",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.5,
+    "tradScore": 14.2,
+    "poster": "/images/posters/deep-water-2026.jpg"
+  },
+  {
+    "slug": "pressure-2026",
+    "title": "Pressure",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Drama / History / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 7.2,
+    "tradScore": 11.8,
+    "poster": "/images/posters/pressure-2026.jpg"
+  },
+  {
+    "slug": "the-mandalorian-and-grogu-2026",
+    "title": "The Mandalorian and Grogu",
+    "verdict": "WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Science Fiction / Action / Adventure",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 11.4,
+    "tradScore": 7.8,
+    "poster": "/images/posters/the-mandalorian-and-grogu-2026.jpg"
+  },
+  {
+    "slug": "mortal-kombat-ii-2026",
+    "title": "Mortal Kombat II",
+    "verdict": "TRADITIONAL",
+    "year": 2026,
+    "wokeScore": 5.2,
+    "tradScore": 15.8,
+    "poster": "https://image.tmdb.org/t/p/w500/mk2poster2026.jpg"
+  },
+  {
+    "slug": "remarkably-bright-creatures-2026",
+    "title": "Remarkably Bright Creatures",
+    "verdict": "MIXED",
+    "year": 2026,
+    "wokeScore": 8.4,
+    "tradScore": 9.1,
+    "poster": "https://image.tmdb.org/t/p/w500/rbc2026.jpg"
+  },
+  {
+    "slug": "toy-story-5-2026",
+    "title": "Toy Story 5",
+    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation / Adventure / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 9.38,
+    "tradScore": 34.02,
+    "poster": "/images/posters/toy-story-5-2026.jpg"
+  },
+  {
+    "slug": "omaha-2026",
+    "title": "Omaha",
+    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 10.35,
+    "tradScore": 30.8,
+    "poster": "/images/posters/omaha-2026.jpg"
+  },
+  {
     "slug": "wuthering-heights-2026",
     "title": "Wuthering Heights",
     "verdict": "WOKE LEAN",
@@ -2242,6 +2320,18 @@
     "wokeScore": 35,
     "tradScore": 26,
     "poster": "/images/posters/wuthering-heights-2026.jpg"
+  },
+  {
+    "slug": "the-christophers-2026",
+    "title": "The Christophers",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Comedy / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 9.44,
+    "tradScore": 14.28,
+    "poster": "/images/posters/the-christophers-2026.jpg"
   },
   {
     "slug": "pizza-movie-2026",
@@ -2979,6 +3069,16 @@
     "wokeScore": 1.4,
     "tradScore": 31.99,
     "poster": "/images/posters/society-of-the-snow-2023.jpg"
+  },
+  {
+    "slug": "carry-on-2024",
+    "title": "Carry-On",
+    "verdict": "TRADITIONAL",
+    "genre": "Action / Thriller",
+    "year": 2024,
+    "wokeScore": 3,
+    "tradScore": 20.23,
+    "poster": "/images/posters/carry-on-2024.jpg"
   },
   {
     "slug": "smile-2022",
@@ -6425,18 +6525,6 @@
     "poster": "/images/posters/solo-mio-2026.jpg"
   },
   {
-    "slug": "wuthering-heights-2026",
-    "title": "Is Wuthering Heights (2026) Woke? | VirtueVigil Review",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Drama/Romance",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 20,
-    "tradScore": 13.88,
-    "poster": "/images/posters/wuthering-heights-2026.jpg"
-  },
-  {
     "slug": "black-bag-2025",
     "title": "Black Bag",
     "verdict": "TRADITIONAL",
@@ -8196,105 +8284,5 @@
     "wokeScore": 3.6,
     "tradScore": 10.2,
     "poster": "/images/posters/love-hurts-2025.jpg"
-  },
-  {
-    "slug": "carry-on-2024",
-    "title": "Carry-On",
-    "verdict": "TRADITIONAL",
-    "genre": "Action / Thriller",
-    "year": 2024,
-    "wokeScore": 3,
-    "tradScore": 20.23,
-    "poster": "/images/posters/carry-on-2024.jpg"
-  },
-  {
-    "slug": "deep-water-2026",
-    "title": "Deep Water",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Thriller / Survival / Action",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 3.5,
-    "tradScore": 14.2,
-    "poster": "/images/posters/deep-water-2026.jpg"
-  },
-  {
-    "slug": "pressure-2026",
-    "title": "Pressure",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Drama / History / Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 7.2,
-    "tradScore": 11.8,
-    "poster": "/images/posters/pressure-2026.jpg"
-  },
-  {
-    "slug": "the-mandalorian-and-grogu-2026",
-    "title": "The Mandalorian and Grogu",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Science Fiction / Action / Adventure",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 11.4,
-    "tradScore": 7.8,
-    "poster": "/images/posters/the-mandalorian-and-grogu-2026.jpg"
-  },
-  {
-    "slug": "mortal-kombat-ii-2026",
-    "title": "Mortal Kombat II",
-    "verdict": "TRADITIONAL",
-    "year": 2026,
-    "wokeScore": 5.2,
-    "tradScore": 15.8,
-    "poster": "https://image.tmdb.org/t/p/w500/mk2poster2026.jpg"
-  },
-  {
-    "slug": "remarkably-bright-creatures-2026",
-    "title": "Remarkably Bright Creatures",
-    "verdict": "MIXED",
-    "year": 2026,
-    "wokeScore": 8.4,
-    "tradScore": 9.1,
-    "poster": "https://image.tmdb.org/t/p/w500/rbc2026.jpg"
-  },
-  {
-    "slug": "toy-story-5-2026",
-    "title": "Toy Story 5",
-    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Animation / Adventure / Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 9.38,
-    "tradScore": 34.02,
-    "poster": "/images/posters/toy-story-5-2026.jpg"
-  },
-  {
-    "slug": "omaha-2026",
-    "title": "Omaha",
-    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Drama",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 10.35,
-    "tradScore": 30.8,
-    "poster": "/images/posters/omaha-2026.jpg"
-  },
-  {
-    "slug": "the-christophers-2026",
-    "title": "The Christophers",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Comedy / Drama",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 9.44,
-    "tradScore": 14.28,
-    "poster": "/images/posters/the-christophers-2026.jpg"
   }
 ]

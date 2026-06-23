@@ -15,35 +15,48 @@ const BUILD_VERSION = 'v1.7.1';
 const SRC = path.join(__dirname, 'src');
 const DIST = path.join(__dirname, 'dist');
 
-// === Fetch reviews from Supabase or fallback to local JSON ===
+// === Reviews source: LOCAL JSON IS AUTHORITATIVE ===
+// The local committed src/data/reviews.json is the single source of truth for what
+// ships to production. The daily review crons append ONLY to this file, so it is
+// always the most complete catalog. Supabase is queried (if a key is present) ONLY
+// to compare counts and surface drift -- it is never silently allowed to ship fewer
+// reviews than the committed JSON. Historically the opposite was true: the Netlify
+// build read stale Supabase and shipped 519 reviews while 693 sat committed in JSON.
+// That deploy gap is the root cause this guard exists to prevent.
 async function fetchReviews() {
   const url = process.env.VV_SUPABASE_URL || 'https://exqqyryeaktochnfxgyh.supabase.co';
   const key = process.env.VV_SUPABASE_SERVICE_ROLE_KEY;
-  
+
+  // ALWAYS load the local JSON. This is the authoritative source.
+  const localReviews = JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
+  console.log(`Loaded ${localReviews.length} reviews from local src/data/reviews.json (authoritative source)`);
+
   if (!key) {
-    console.log('No Supabase key found, falling back to local reviews.json');
-    return JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
+    console.log('No Supabase key present -> building from local JSON only.');
+    return localReviews;
   }
-  
+
+  // A key is present: query Supabase ONLY to compare counts and detect drift.
+  let supabaseReviews = null;
   try {
-    console.log('Fetching reviews from Supabase...');
-    const response = await fetch(`${url}/rest/v1/reviews?select=*&limit=1000`, {
+    console.log('Supabase key present -> fetching for COUNT COMPARISON ONLY (local JSON stays authoritative)...');
+    const response = await fetch(`${url}/rest/v1/reviews?select=*&limit=2000`, {
       headers: {
         'apikey': key,
         'Authorization': `Bearer ${key}`
       }
     });
-    
+
     if (!response.ok) {
-      console.warn(`Supabase fetch failed (${response.status}), falling back to local JSON`);
-      return JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
+      console.warn(`Supabase fetch failed (${response.status}) -> using local JSON (${localReviews.length} reviews).`);
+      return localReviews;
     }
-    
+
     const rows = await response.json();
-    console.log(`Fetched ${rows.length} reviews from Supabase`);
-    
+    console.log(`Supabase returned ${rows.length} reviews.`);
+
     // Map DB column names back to the JSON field names build.js expects
-    return rows.map(r => ({
+    supabaseReviews = rows.map(r => ({
       id: r.id,
       slug: r.slug,
       title: r.title,
@@ -82,15 +95,83 @@ async function fetchReviews() {
       spoiler_alert: r.spoiler_alert,
     }));
   } catch (err) {
-    console.warn(`Supabase error: ${err.message}, falling back to local JSON`);
-    return JSON.parse(fs.readFileSync(path.join(SRC, 'data/reviews.json'), 'utf-8'));
+    console.warn(`Supabase error: ${err.message} -> using local JSON (${localReviews.length} reviews).`);
+    return localReviews;
   }
+
+  // Decide source: LOCAL JSON WINS on ties and ambiguity. Supabase only wins if it
+  // strictly has MORE reviews (which would itself be a drift signal worth shouting about).
+  const localN = localReviews.length;
+  const remoteN = supabaseReviews.length;
+
+  if (localN !== remoteN) {
+    console.warn('\n========================================================================');
+    console.warn('  *** REVIEW SOURCE DRIFT DETECTED ***');
+    console.warn(`  Local committed JSON : ${localN} reviews`);
+    console.warn(`  Supabase             : ${remoteN} reviews`);
+    console.warn(`  Divergence           : ${Math.abs(localN - remoteN)} reviews`);
+    console.warn('  Supabase is NOT kept in sync by the publish pipeline. Investigate.');
+    console.warn('========================================================================\n');
+  } else {
+    console.log(`Source counts agree (${localN} = ${remoteN}). No drift.`);
+  }
+
+  if (remoteN > localN) {
+    console.warn(`Supabase has MORE reviews (${remoteN} > ${localN}); using Supabase. This is unusual -- the local JSON should be authoritative. Flag for review.`);
+    return supabaseReviews;
+  }
+
+  console.log(`Using LOCAL JSON as authoritative (${localN} reviews; Supabase had ${remoteN}).`);
+  return localReviews;
 }
 
 // === Main build function ===
 async function buildSite() {
   const reviews = await fetchReviews();
   reviews.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+// === REVIEW INTEGRITY GATE -- FAIL LOUD, NEVER SILENT-DROP ===
+// Every review that build.js will render must pass these checks. Anything malformed
+// is reported AND counted (not silently excluded). Invalid verdicts hard-fail the
+// build so a bad record (e.g. verdict="RECOMMENDED") can never quietly ship.
+const VALID_VERDICTS = new Set([
+  'STRONGLY TRADITIONAL', 'TRADITIONAL', 'TRADITIONAL LEAN', 'MIXED',
+  'WOKE LEAN', 'WOKE', 'STRONGLY WOKE'
+]);
+function normalizeVerdict(v) {
+  // Pre-release reviews legitimately prefix the verdict with "PREDICTED: ".
+  return String(v || '').replace(/^PREDICTED:\s*/i, '').trim().toUpperCase();
+}
+{
+  const inputCount = reviews.length;
+  const problems = [];
+  const seenSlugs = new Set();
+  for (const r of reviews) {
+    if (!r.slug) { problems.push(`MISSING SLUG on review id=${r.id || '(no id)'} title=${r.title || '(no title)'}`); continue; }
+    if (seenSlugs.has(r.slug)) problems.push(`DUPLICATE SLUG: ${r.slug}`);
+    seenSlugs.add(r.slug);
+    if (!r.title) problems.push(`MISSING TITLE: ${r.slug}`);
+    if (!r.date) problems.push(`MISSING DATE: ${r.slug}`);
+    const nv = normalizeVerdict(r.verdict);
+    if (!nv) {
+      problems.push(`MISSING VERDICT: ${r.slug}`);
+    } else if (!VALID_VERDICTS.has(nv)) {
+      problems.push(`INVALID VERDICT "${r.verdict}" on ${r.slug} (must be one of: ${[...VALID_VERDICTS].join(', ')})`);
+    }
+  }
+  if (problems.length > 0) {
+    console.error(`\n*** REVIEW INTEGRITY ISSUES (${problems.length}) -- inputCount=${inputCount} ***`);
+    problems.forEach(p => console.error(`  ${p}`));
+    const fatal = problems.filter(p => p.startsWith('INVALID VERDICT') || p.startsWith('MISSING SLUG') || p.startsWith('DUPLICATE SLUG'));
+    if (fatal.length > 0) {
+      console.error(`\nBUILD ABORTED: ${fatal.length} fatal integrity error(s). Fix src/data/reviews.json. No reviews are silently dropped.`);
+      process.exit(1);
+    }
+    console.warn(`Continuing build with ${problems.length} non-fatal warning(s); 0 reviews dropped (rendering all ${inputCount}).`);
+  } else {
+    console.log(`Review integrity gate PASS: all ${inputCount} reviews valid, 0 dropped.`);
+  }
+}
 
 // === POSTER QUALITY GATE — runs before build ===
 const posterDir = path.join(__dirname, 'src/images/posters');
@@ -2028,6 +2109,114 @@ ${urls.map(u => `  <url>
 </urlset>`;
 
   return xml;
+}
+
+function buildRedirects() {
+  // Single source of truth for the 404-cleanup 301s (see
+  // projects/virtuevigil/404-CLEANUP-PLAN-2026-06-22.md). All targets HTTP-200 verified.
+  return `# --- VirtueVigil 404 cleanup ---
+# Historical multi-genre category slugs -> base genre (the link emitter no longer
+# generates these; these catch URLs Google already crawled from an older build).
+/category/superhero-/-action-/-sci-fi/                       /category/superhero/                     301
+/category/crime-drama-/-fish-out-of-water-comedy/            /category/crime/                         301
+/category/action/sci-fi/                                     /category/sci-fi/                        301
+/category/sports-drama/action/                               /category/action/                        301
+/category/biography/musical/drama/                           /category/musical/                       301
+/category/horror-parody/comedy/                              /category/comedy/                        301
+/category/musical/comedy/                                    /category/musical/                       301
+/category/superhero/action/adventure/                        /category/superhero/                     301
+/category/sci-fi/action/adventure/                           /category/sci-fi/                        301
+/category/action/adventure/fantasy/                          /category/action/                        301
+/category/superhero-/-crime-thriller/                        /category/superhero/                     301
+/category/family-drama/                                      /category/drama/                         301
+/category/superhero-/-action/                                /category/superhero/                     301
+/category/action/thriller/sci-fi/                            /category/sci-fi/                        301
+/category/horror/post-apocalyptic/                           /category/horror/                        301
+/category/sci-fi/action/comedy/                              /category/sci-fi/                        301
+/category/horror/thriller/                                   /category/horror/                        301
+/category/horror/thriller/supernatural/                      /category/horror/                        301
+/category/action/adventure/horror/                           /category/action/                        301
+/category/historical/epic/drama/                             /category/drama/                         301
+/category/action/political-thriller/                         /category/action/                        301
+/category/crime-/-drama/                                     /category/crime/                         301
+/category/action/crime/thriller/                             /category/action/                        301
+/category/western-/-action/                                  /category/action/                        301
+/category/animation/action/adventure/                        /category/action/                        301
+/category/gothic-romance-/-horror/                           /category/horror/                        301
+/category/drama-/-dark-comedy/                               /category/drama/                         301
+/category/romantic-comedy/                                   /category/comedy/                        301
+/category/crime-/-thriller/                                  /category/thriller/                      301
+/category/political-thriller-/-historical-drama/             /category/thriller/                      301
+/category/action/adventure/sci-fi/                           /category/sci-fi/                        301
+/category/romance/comedy/drama/                              /category/romance/                       301
+/category/documentary/comedy/                                /category/comedy/                        301
+/category/animation/fantasy/action/                          /category/action/                        301
+/category/romance/drama/                                     /category/romance/                       301
+/category/animation/adventure/comedy/                        /category/animation/                     301
+/category/horror/drama/                                      /category/horror/                        301
+/category/crime/drama/thriller/                              /category/thriller/                      301
+/category/superhero/crime/neo-noir/                          /category/superhero/                     301
+/category/sci-fi/adventure/drama/                            /category/sci-fi/                        301
+/category/erotic-thriller/drama/                             /category/drama/                         301
+/category/documentary-/-concert-film/                        /category/documentary/                   301
+/category/drama/biopic/                                      /category/drama/                         301
+/category/thriller-/-drama/                                  /category/thriller/                      301
+/category/superhero/action/science-fiction/                  /category/superhero/                     301
+/category/dark-fantasy-/-comedy-horror/                      /category/horror/                        301
+/category/sci-fi/action/thriller/                            /category/sci-fi/                        301
+/category/black-comedy/sci-fi-thriller/                      /category/sci-fi/                        301
+/category/animation/action/fantasy/                          /category/action/                        301
+/category/animation/comedy/drama/                            /category/animation/                     301
+/category/sci-fi/drama/black-comedy/                         /category/sci-fi/                        301
+/category/action-/-martial-arts-/-revenge/                   /category/action/                        301
+/category/superhero/action/comedy/                           /category/superhero/                     301
+/category/action/disaster/                                   /category/action/                        301
+/category/action/thriller/spy/                               /category/action/                        301
+/category/animation/sci-fi/adventure/                        /category/sci-fi/                        301
+/category/musical/biography/drama/                           /category/musical/                       301
+/category/action,-superhero/                                 /category/superhero/                     301
+/category/musical/drama/adventure/                           /category/musical/                       301
+/category/action/sci-fi/monster/                             /category/sci-fi/                        301
+/category/horror-/-mystery-/-supernatural/                   /category/horror/                        301
+/category/sci-fi-romantic-action-horror/                     /category/sci-fi/                        301
+/category/drama/romance/                                     /category/romance/                       301
+/category/animated-musical-urban-fantasy/                    /category/musical/                       301
+/category/action/drama/                                      /category/action/                        301
+/category/action/sci-fi/superhero/                           /category/superhero/                     301
+/category/comedy/fantasy/                                    /category/fantasy/                       301
+/category/fantasy-/-epic-drama/                              /category/fantasy/                       301
+/category/biography,-drama,-music/                           /category/drama/                         301
+/category/thriller/horror/                                   /category/horror/                        301
+/category/biographical-sports-drama/                         /category/drama/                         301
+/category/fantasy/action/drama/                              /category/action/                        301
+
+# Old / yearless review slugs -> current year-suffixed slug
+/reviews/king-of-kings-2025/                                 /reviews/the-king-of-kings-2025/         301
+/reviews/spider-man-across-the-spider-verse/                 /reviews/spider-man-across-the-spider-verse-2023/ 301
+/reviews/spider-man-no-way-home/                             /reviews/spider-man-no-way-home-2021/    301
+/reviews/avengers-infinity-war/                              /reviews/avengers-infinity-war-2018/     301
+/reviews/ant-man-and-the-wasp-quantumania/                   /reviews/ant-man-and-the-wasp-quantumania-2023/ 301
+/reviews/guardians-of-the-galaxy-vol-3/                      /reviews/guardians-of-the-galaxy-vol-3-2023/ 301
+/reviews/captain-marvel/                                     /reviews/captain-marvel-2019/            301
+/reviews/avengers-endgame/                                   /reviews/avengers-endgame-2019/          301
+/reviews/black-widow/                                        /reviews/black-widow-2021/               301
+/reviews/eternals/                                           /reviews/eternals-2021/                  301
+/reviews/thor-love-and-thunder/                              /reviews/thor-love-and-thunder-2022/     301
+/reviews/doctor-strange-multiverse-of-madness/               /reviews/doctor-strange-multiverse-of-madness-2022/ 301
+/reviews/black-panther/                                      /reviews/black-panther-2018/             301
+/reviews/shang-chi/                                          /reviews/shang-chi-2021/                 301
+/reviews/thor-ragnarok/                                      /reviews/thor-ragnarok-2017/             301
+/reviews/iron-man/                                           /reviews/iron-man-2008/                  301
+/reviews/black-panther-wakanda-forever/                      /reviews/black-panther-wakanda-forever-2022/ 301
+/reviews/guardians-of-the-galaxy/                            /reviews/guardians-of-the-galaxy-2014/   301
+/reviews/doctor-strange/                                     /reviews/doctor-strange-2016/            301
+/reviews/the-marvels/                                        /reviews/the-marvels-2023/               301
+/reviews/captain-america-civil-war/                          /reviews/captain-america-civil-war-2016/ 301
+/reviews/reminders-of-him/                                   /reviews/reminders-of-him-2026/          301
+
+# Renamed lists
+/lists/animated-family-movies-2026-woke-ranking/             /lists/animated-family-movies-2025-woke-ranking/ 301
+`;
 }
 
 function buildRobotsTxt() {
@@ -9521,6 +9710,13 @@ function build() {
   const indexNowKey = 'c5c06a51b3df4a6fb07de4954187d031';
   fs.writeFileSync(path.join(DIST, `${indexNowKey}.txt`), indexNowKey);
   console.log('  IndexNow key file');
+
+  // Netlify _redirects -- 404 cleanup (historical crawl artifacts). Netlify reads
+  // _redirects from the publish dir (dist). The current emitter no longer produces
+  // multi-genre category URLs; these 301s catch URLs Google already crawled from an
+  // older build that slugified raw multi-genre strings.
+  fs.writeFileSync(path.join(DIST, '_redirects'), buildRedirects());
+  console.log('  _redirects (404 cleanup 301s)');
 
   // --- TikTok demo page ---
   const tiktokDir = path.join(DIST, 'tiktok');
