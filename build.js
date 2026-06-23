@@ -2071,6 +2071,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/musical-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/spy-espionage-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/fantasy-movies-woke-ranking-all-time/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-2026-midyear/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -3307,7 +3308,8 @@ function buildListsHubPage() {
       'movies-2016-woke-ranking': 'Every 2016 Movie Ranked by Woke Score',
       'musical-movies-woke-ranking': 'Every Musical Movie Ranked by Woke Score',
       'spy-espionage-movies-woke-ranking': 'Every Spy & Espionage Movie Ranked by Woke Score',
-      'fantasy-movies-woke-ranking-all-time': 'Every Fantasy Movie Ranked by Woke Score (All Time)'
+      'fantasy-movies-woke-ranking-all-time': 'Every Fantasy Movie Ranked by Woke Score (All Time)',
+      'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -34657,6 +34659,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/fantasy-movies-woke-ranking-all-time',
     publishDate: '2026-06-22',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/fantasy-movies-woke-ranking-all-time/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-movies-2026-midyear/index.html');
+  writePage('lists/most-woke-movies-2026-midyear/index.html', buildListiclePage({
+    slug: 'most-woke-movies-2026-midyear',
+    title: '15 Most Woke Movies of 2026 (Mid-Year Update)',
+    description: 'Hollywood\'s 15 most ideologically extreme films of 2026 ranked by VirtueVigil Woke Score. From The Moment to Wuthering Heights, the mid-year damage report.',
+    canonicalPath: 'lists/most-woke-movies-2026-midyear',
+    publishDate: '2026-06-23',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-2026-midyear/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
