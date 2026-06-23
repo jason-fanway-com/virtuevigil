@@ -22,6 +22,8 @@ import os
 import sys
 import re
 import time
+import base64
+import tempfile
 import urllib.request
 import urllib.parse
 from pathlib import Path
@@ -41,10 +43,17 @@ OMDB_BASE_URL = "http://www.omdbapi.com/"
 BRAVE_SEARCH_BASE = "https://api.search.brave.com/res/v1/images/search"
 SITEMAP_URL = "https://virtuevigil.com/sitemap.xml"
 
+# Vision safety gate (OpenAI gpt-4o-mini, vision-capable)
+OPENAI_VISION_URL = "https://api.openai.com/v1/chat/completions"
+OPENAI_VISION_MODEL = "gpt-4o-mini"
+VISION_TIMEOUT = 30  # seconds
+HTTP_USER_AGENT = "Mozilla/5.0 (compatible; VirtueVigilPosterBot/1.0; +https://virtuevigil.com)"
+
 SCRIPT_DIR = Path(__file__).parent
 REPO_DIR = SCRIPT_DIR.parent
 REVIEWS_JSON = REPO_DIR / 'src' / 'data' / 'reviews.json'
 POSTER_DIR = REPO_DIR / 'src' / 'images' / 'posters'
+REVIEW_QUEUE_PATH = SCRIPT_DIR / 'poster-review-queue.json'
 PLACEHOLDER_SIZE_THRESHOLD = 10000  # 10KB threshold for placeholder detection
 
 # Rate limiting
@@ -65,6 +74,8 @@ stats = {
     'placeholder': 0,
     'failed': 0,
     'skipped': 0,
+    'rejected': 0,   # Brave candidates rejected by vision gate
+    'queued': 0,     # Items appended to human-review queue
     'failed_slugs': []
 }
 
@@ -229,26 +240,231 @@ def search_brave_images(query, brave_key):
 
 
 def download_image(image_url, filepath, timeout=10):
-    """Download image from URL and save to filepath."""
+    """
+    Download image from URL and save to filepath.
+    Validates size + JPEG magic bytes ONLY. This is the trusted path used
+    for OMDb images. Untrusted (Brave) images MUST go through
+    download_image_to_temp + vision_safety_check + promote_temp instead.
+    """
     try:
-        with urllib.request.urlopen(image_url, timeout=timeout) as response:
+        req = urllib.request.Request(image_url, headers={'User-Agent': HTTP_USER_AGENT})
+        with urllib.request.urlopen(req, timeout=timeout) as response:
             image_data = response.read()
-        
+
         # Validate it's a reasonable image size (>1KB, <5MB)
         if len(image_data) < 1000 or len(image_data) > 5 * 1024 * 1024:
             return False
-        
+
         # Validate JPEG magic bytes
         if image_data[:2] != b'\xff\xd8':
             return False
-        
+
         with open(filepath, 'wb') as f:
             f.write(image_data)
-        
+
         return True
     except Exception as e:
         print(f"    ⚠️  Download error: {e}")
         return False
+
+
+def download_image_to_temp(image_url, timeout=10):
+    """
+    Download an UNTRUSTED image to a temporary file WITHOUT committing it to
+    the poster directory. Performs the same cheap structural validation
+    (size + JPEG magic bytes) as download_image.
+
+    Returns: path (str) to the temp JPEG on success, or None on failure.
+    The caller is responsible for deleting the temp file (use promote_temp
+    or os.unlink).
+    """
+    try:
+        req = urllib.request.Request(image_url, headers={'User-Agent': HTTP_USER_AGENT})
+        with urllib.request.urlopen(req, timeout=timeout) as response:
+            image_data = response.read()
+
+        # Validate it's a reasonable image size (>1KB, <5MB)
+        if len(image_data) < 1000 or len(image_data) > 5 * 1024 * 1024:
+            return None
+
+        # Validate JPEG magic bytes
+        if image_data[:2] != b'\xff\xd8':
+            return None
+
+        fd, tmp_path = tempfile.mkstemp(suffix='.jpg', prefix='vv_poster_')
+        with os.fdopen(fd, 'wb') as f:
+            f.write(image_data)
+
+        return tmp_path
+    except Exception as e:
+        print(f"    ⚠️  Download error: {e}")
+        return None
+
+
+def promote_temp(tmp_path, filepath):
+    """Move a validated temp image into its final poster location."""
+    try:
+        with open(tmp_path, 'rb') as src:
+            data = src.read()
+        with open(filepath, 'wb') as dst:
+            dst.write(data)
+        return True
+    except Exception as e:
+        print(f"    ⚠️  Promote error: {e}")
+        return False
+    finally:
+        try:
+            os.unlink(tmp_path)
+        except OSError:
+            pass
+
+
+def vision_safety_check(tmp_path, title, year, openai_key):
+    """
+    Content-safety + correctness gate for UNTRUSTED images.
+
+    Sends the image (base64) to the OpenAI vision model and asks for a strict
+    JSON verdict. ACCEPT only when the image is non-explicit, looks like a
+    real movie/TV poster, AND matches the given title/year.
+
+    Returns a dict:
+        {
+          'accept': bool,        # True only if all three positive conditions hold
+          'is_explicit': bool,
+          'is_movie_poster': bool,
+          'matches_title': bool,
+          'reason': str,
+          'error': str|None,     # set when the call itself failed / timed out
+        }
+
+    FAIL SAFE: on any error, timeout, missing key, or unparseable response,
+    'accept' is False and 'error' is populated so the caller routes to the
+    placeholder + human-review queue.
+    """
+    result = {
+        'accept': False,
+        'is_explicit': True,
+        'is_movie_poster': False,
+        'matches_title': False,
+        'reason': '',
+        'error': None,
+    }
+
+    if not openai_key:
+        result['reason'] = 'No OPENAI_API_KEY available'
+        result['error'] = 'missing_key'
+        return result
+
+    try:
+        with open(tmp_path, 'rb') as f:
+            b64 = base64.b64encode(f.read()).decode('ascii')
+    except Exception as e:
+        result['reason'] = f'Could not read temp image: {e}'
+        result['error'] = 'read_error'
+        return result
+
+    year_str = str(year) if year else 'unknown year'
+    prompt = (
+        "You are a strict content-safety and correctness reviewer for a movie "
+        "review website. Examine the image and decide three things about it.\n"
+        f"The image is supposed to be the official poster for the movie/TV "
+        f"title \"{title}\" ({year_str}).\n\n"
+        "Respond with ONLY a compact JSON object, no markdown, no prose, with "
+        "exactly these keys:\n"
+        '{"is_explicit": bool, "is_movie_poster": bool, "matches_title": bool, "reason": str}\n\n'
+        "Definitions:\n"
+        "- is_explicit: true if the image contains ANY nudity, sexual content, "
+        "pornography, gore, or otherwise NSFW/inappropriate material. When in "
+        "doubt, set true.\n"
+        "- is_movie_poster: true ONLY if this clearly looks like a legitimate "
+        "movie or TV poster / key art (title treatment, billing, cast, etc.).\n"
+        "- matches_title: true ONLY if the poster plausibly corresponds to the "
+        f"title \"{title}\" ({year_str}).\n"
+        "- reason: one short sentence explaining your decision."
+    )
+
+    payload = {
+        'model': OPENAI_VISION_MODEL,
+        'messages': [
+            {
+                'role': 'user',
+                'content': [
+                    {'type': 'text', 'text': prompt},
+                    {
+                        'type': 'image_url',
+                        'image_url': {
+                            'url': f'data:image/jpeg;base64,{b64}',
+                            'detail': 'low',
+                        },
+                    },
+                ],
+            }
+        ],
+        'max_tokens': 200,
+        'temperature': 0,
+    }
+
+    try:
+        data_bytes = json.dumps(payload).encode('utf-8')
+        req = urllib.request.Request(OPENAI_VISION_URL, data=data_bytes, method='POST')
+        req.add_header('Authorization', f'Bearer {openai_key}')
+        req.add_header('Content-Type', 'application/json')
+
+        with urllib.request.urlopen(req, timeout=VISION_TIMEOUT) as response:
+            resp = json.loads(response.read().decode('utf-8'))
+
+        content = resp['choices'][0]['message']['content'].strip()
+        # Strip markdown code fences if the model added them.
+        content = re.sub(r'^```(?:json)?\s*|\s*```$', '', content.strip())
+        verdict = json.loads(content)
+
+        result['is_explicit'] = bool(verdict.get('is_explicit', True))
+        result['is_movie_poster'] = bool(verdict.get('is_movie_poster', False))
+        result['matches_title'] = bool(verdict.get('matches_title', False))
+        result['reason'] = str(verdict.get('reason', ''))
+        result['accept'] = (
+            result['is_explicit'] is False
+            and result['is_movie_poster'] is True
+            and result['matches_title'] is True
+        )
+        return result
+    except Exception as e:
+        # FAIL SAFE: any error/timeout -> do not accept, route to queue.
+        result['reason'] = f'Vision check failed: {e}'
+        result['error'] = 'vision_error'
+        return result
+
+
+def queue_for_review(slug, title, url, reason):
+    """
+    Append a rejected / errored Brave candidate to the human-review queue
+    (scripts/poster-review-queue.json). Never raises; queue failures must not
+    block the pipeline.
+    """
+    entry = {
+        'slug': slug,
+        'title': title,
+        'url': url,
+        'reason': reason,
+        'timestamp': datetime.utcnow().isoformat() + 'Z',
+    }
+    try:
+        queue = []
+        if REVIEW_QUEUE_PATH.exists():
+            try:
+                with open(REVIEW_QUEUE_PATH, 'r') as f:
+                    queue = json.load(f)
+                if not isinstance(queue, list):
+                    queue = []
+            except Exception:
+                queue = []
+        queue.append(entry)
+        with open(REVIEW_QUEUE_PATH, 'w') as f:
+            json.dump(queue, f, indent=2)
+        stats['queued'] += 1
+        print(f"    🚩 Queued for human review ({reason})")
+    except Exception as e:
+        print(f"    ⚠️  Could not write review queue: {e}")
 
 
 def generate_placeholder(slug, title, year, filepath):
@@ -342,51 +558,90 @@ def generate_placeholder(slug, title, year, filepath):
         return False
 
 
-def process_poster(slug, title, year, existing, brave_key, force_replace=False):
+def process_poster(slug, title, year, existing, brave_key, openai_key=None, force_replace=False):
     """
-    Process a single poster through the fallback chain.
+    Process a single poster through the fallback chain:
+        1. OMDb (trusted, structural validation only)
+        2. Brave image search (UNTRUSTED -> vision safety+correctness gate)
+        3. VV-branded placeholder (always safe)
+
+    Safety invariant: a raw web (Brave) image is NEVER written to the poster
+    directory unless it passes the vision gate. Any rejection / error routes
+    to the placeholder and the human-review queue.
+
     Returns: 'omdb', 'brave', 'placeholder', or 'failed'
     """
     filepath = POSTER_DIR / f"{slug}.jpg"
-    
+
     # Check if poster already exists and is valid
     if filepath.exists() and not force_replace:
         if not is_placeholder(filepath):
             return 'skipped'
-    
+
     print(f"  {slug}...", end=" ", flush=True)
-    
-    # 1. Try OMDb
+
+    # 1. Try OMDb (trusted source, skips vision gate but still validated as JPEG)
     poster_url = query_omdb(title, year)
     if not poster_url:
         # Retry without year
         poster_url = query_omdb(title)
-    
+
     if poster_url and download_image(poster_url, filepath):
         print("✓ (OMDb)")
         return 'omdb'
-    
+
     # Rate limit before next attempt
     time.sleep(OMDB_DELAY)
-    
-    # 2. Try Brave Search
+
+    # 2. Try Brave Search (UNTRUSTED -> must pass the vision safety gate)
     if brave_key:
         search_query = f'"{title}" {year} movie poster official' if year else f'"{title}" movie poster official'
         image_url = search_brave_images(search_query, brave_key)
-        
-        if image_url and download_image(image_url, filepath):
-            print("✓ (Brave)")
-            return 'brave'
-        
+
+        if image_url:
+            # Download to a TEMP file first. Never write raw web bytes to the
+            # live poster directory before validation.
+            tmp_path = download_image_to_temp(image_url)
+            if tmp_path:
+                verdict = vision_safety_check(tmp_path, title, year, openai_key)
+                if verdict['accept']:
+                    if promote_temp(tmp_path, filepath):
+                        print("✓ (Brave, vision-approved)")
+                        return 'brave'
+                    # promote failed -> fall through to placeholder
+                else:
+                    # Rejected or vision error -> discard temp, queue, fall back.
+                    try:
+                        os.unlink(tmp_path)
+                    except OSError:
+                        pass
+                    if verdict.get('error'):
+                        reason = f"vision_error: {verdict['reason']}"
+                    else:
+                        flags = []
+                        if verdict['is_explicit']:
+                            flags.append('explicit')
+                        if not verdict['is_movie_poster']:
+                            flags.append('not_poster')
+                        if not verdict['matches_title']:
+                            flags.append('title_mismatch')
+                        reason = f"rejected[{','.join(flags)}]: {verdict['reason']}"
+                    stats['rejected'] += 1
+                    print(f"⛔ (Brave rejected: {reason[:60]})")
+                    queue_for_review(slug, title, image_url, reason)
+            else:
+                # Could not download a structurally valid JPEG candidate.
+                queue_for_review(slug, title, image_url, 'download_failed_or_invalid_jpeg')
+
         # Rate limit before next attempt
         time.sleep(BRAVE_DELAY)
-    
-    # 3. Generate placeholder
+
+    # 3. Generate placeholder (always safe)
     if HAS_PIL:
         if generate_placeholder(slug, title, year, filepath):
             print("⊞ (Placeholder)")
             return 'placeholder'
-    
+
     # Failed
     print("✗ (Failed)")
     return 'failed'
@@ -402,10 +657,11 @@ def ensure_poster(slug, title, year):
     # Load secrets
     secrets = load_secrets()
     brave_key = secrets.get('BRAVE_SEARCH_KEY')
+    openai_key = secrets.get('OPENAI_API_KEY')
     
     existing = get_existing_posters()
     
-    result = process_poster(slug, title, year, existing, brave_key, force_replace=False)
+    result = process_poster(slug, title, year, existing, brave_key, openai_key, force_replace=False)
     
     if result != 'failed':
         return str(filepath)
@@ -413,7 +669,7 @@ def ensure_poster(slug, title, year):
     return None
 
 
-def run_single_slug(slug, brave_key):
+def run_single_slug(slug, brave_key, openai_key=None):
     """Process a single slug."""
     print(f"\n🎬 Processing single slug: {slug}\n")
     
@@ -426,12 +682,12 @@ def run_single_slug(slug, brave_key):
         return
     
     existing = get_existing_posters()
-    result = process_poster(slug, review['title'], review['year'], existing, brave_key, force_replace=False)
+    result = process_poster(slug, review['title'], review['year'], existing, brave_key, openai_key, force_replace=False)
     
     stats[result if result in stats else 'failed'] += 1
 
 
-def run_all_reviews(brave_key):
+def run_all_reviews(brave_key, openai_key=None):
     """Process all reviews."""
     print(f"\n🎬 Processing all reviews\n")
     
@@ -453,6 +709,7 @@ def run_all_reviews(brave_key):
             review['year'],
             existing,
             brave_key,
+            openai_key,
             force_replace=False
         )
         
@@ -469,7 +726,7 @@ def run_all_reviews(brave_key):
             print(f"\n📈 Progress: {i}/{len(reviews)} ({100*i//len(reviews)}%)\n")
 
 
-def run_replace_placeholders(brave_key):
+def run_replace_placeholders(brave_key, openai_key=None):
     """Re-check placeholder posters and try to find real ones."""
     print(f"\n🎬 Replacing placeholder posters\n")
     
@@ -494,6 +751,7 @@ def run_replace_placeholders(brave_key):
             review['year'],
             existing,
             brave_key,
+            openai_key,
             force_replace=True
         )
         
@@ -512,11 +770,13 @@ def report_summary():
     print("=" * 70)
     print("POSTER PIPELINE SUMMARY")
     print("=" * 70)
-    print(f"✓ OMDb:         {stats['omdb']}")
-    print(f"✓ Brave:        {stats['brave']}")
-    print(f"⊞ Placeholder:  {stats['placeholder']}")
-    print(f"✗ Failed:       {stats['failed']}")
-    print(f"⏭ Skipped:      {stats['skipped']}")
+    print(f"✓ OMDb:           {stats['omdb']}")
+    print(f"✓ Brave (gated):  {stats['brave']}")
+    print(f"⊞ Placeholder:    {stats['placeholder']}")
+    print(f"⛔ Brave rejected: {stats['rejected']}")
+    print(f"🚩 Queued review:  {stats['queued']}")
+    print(f"✗ Failed:         {stats['failed']}")
+    print(f"⏭ Skipped:        {stats['skipped']}")
     print()
     
     if stats['failed_slugs']:
@@ -569,10 +829,14 @@ def main():
     # Load secrets
     secrets = load_secrets()
     brave_key = secrets.get('BRAVE_SEARCH_KEY')
+    openai_key = secrets.get('OPENAI_API_KEY')
     
     if not brave_key:
         print("⚠️  BRAVE_SEARCH_KEY not found in ~/.openclaw/.secrets")
         print("    Some features will be limited\n")
+    if not openai_key:
+        print("⚠️  OPENAI_API_KEY not found in ~/.openclaw/.secrets")
+        print("    Brave images CANNOT pass the vision gate -> placeholder fallback only\n")
     
     # Parse arguments
     mode = 'all'
@@ -596,11 +860,11 @@ def main():
     
     # Execute mode
     if mode == 'slug':
-        run_single_slug(slug, brave_key)
+        run_single_slug(slug, brave_key, openai_key)
     elif mode == 'replace':
-        run_replace_placeholders(brave_key)
+        run_replace_placeholders(brave_key, openai_key)
     else:
-        run_all_reviews(brave_key)
+        run_all_reviews(brave_key, openai_key)
     
     # Summary and commit
     report_summary()
