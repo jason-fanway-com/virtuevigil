@@ -24,6 +24,18 @@
     "poster": "/images/posters/the-sixth-sense-1999.jpg"
   },
   {
+    "slug": "american-history-x-1998",
+    "title": "American History X",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Crime / Drama",
+    "year": 1998,
+    "type": "film",
+    "wokeScore": 12.04,
+    "tradScore": 17.14,
+    "poster": "/images/posters/american-history-x-1998.jpg"
+  },
+  {
     "slug": "leviticus-2026",
     "title": "Leviticus",
     "verdict": "STRONGLY WOKE",
