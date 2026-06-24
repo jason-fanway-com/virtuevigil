@@ -36,6 +36,42 @@
     "poster": "/images/posters/american-history-x-1998.jpg"
   },
   {
+    "slug": "citizen-vigilante-2026",
+    "title": "Citizen Vigilante",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical / Digital",
+    "genre": "Action/Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 3.1,
+    "tradScore": 26.73,
+    "poster": "/images/posters/citizen-vigilante-2026.jpg"
+  },
+  {
+    "slug": "united-93-2006",
+    "title": "United 93",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Streaming",
+    "genre": "Drama/Thriller",
+    "year": 2006,
+    "type": "film",
+    "wokeScore": 2.45,
+    "tradScore": 25.2,
+    "poster": "/images/posters/united-93-2006.jpg"
+  },
+  {
+    "slug": "the-bear-s1-2022",
+    "title": "The Bear (Season 1)",
+    "verdict": "TRADITIONAL",
+    "platform": "Hulu / FX",
+    "genre": "Drama/Comedy",
+    "year": 2022,
+    "type": "tv",
+    "wokeScore": 5.45,
+    "tradScore": 23.52,
+    "poster": "/images/posters/the-bear-s1-2022.jpg"
+  },
+  {
     "slug": "leviticus-2026",
     "title": "Leviticus",
     "verdict": "STRONGLY WOKE",

@@ -2072,6 +2072,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/spy-espionage-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/fantasy-movies-woke-ranking-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026-midyear/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/vigilante-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -34669,6 +34670,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-movies-2026-midyear',
     publishDate: '2026-06-23',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-2026-midyear/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/vigilante-movies-woke-ranking/index.html');
+  writePage('lists/vigilante-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'vigilante-movies-woke-ranking',
+    title: 'Every Vigilante Movie Ranked by Woke Score',
+    description: '16 vigilante and one-man-justice films ranked from most traditional to most woke. VirtueVigil scores John Wick, The Beekeeper, Sound of Freedom, Die Hard, Taken, and more.',
+    canonicalPath: 'lists/vigilante-movies-woke-ranking',
+    publishDate: '2026-06-24',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/vigilante-movies-woke-ranking/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
