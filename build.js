@@ -173,36 +173,80 @@ function normalizeVerdict(v) {
   }
 }
 
-// === POSTER QUALITY GATE — runs before build ===
+// === POSTER QUALITY GATE — hard-abort on unresolvable missing posters ===
+// Policy:
+//   MISSING FIELD or MISSING FILE → auto-substitute _placeholder.jpg so no dead URL
+//     ships. If even the placeholder is absent, BUILD ABORTS (non-zero exit).
+//   CORRUPT (< 5 KB after substitution) → BUILD ABORTS (non-zero exit).
+//   BAD FILENAME (MV5B / @._V1_) → BUILD ABORTS (non-zero exit).
+// This gate runs in-process so every code path that calls build.js is covered,
+// including Netlify CI — there is no other publish path to guard.
 const posterDir = path.join(__dirname, 'src/images/posters');
-const posterIssues = [];
+const PLACEHOLDER_SRC = path.join(posterDir, '_placeholder.jpg');
+const posterFatalErrors = [];
+const posterAutoFixed = [];
+
 for (const review of reviews) {
+  // ── 1. Missing poster field: set a slug-specific placeholder path ──
   if (!review.poster) {
-    posterIssues.push(`MISSING FIELD: ${review.slug} has no poster field`);
+    const fallbackPath = `/images/posters/${review.slug}.jpg`;
+    console.warn(`⚠️  POSTER GATE: MISSING FIELD on ${review.slug} — auto-substituting placeholder`);
+    if (!fs.existsSync(PLACEHOLDER_SRC)) {
+      posterFatalErrors.push(`BUILD ABORT: _placeholder.jpg not found; cannot auto-fix missing poster field for ${review.slug}. Run: python3 scripts/poster-pipeline.py --slug ${review.slug}`);
+      continue;
+    }
+    const destPath = path.join(posterDir, `${review.slug}.jpg`);
+    fs.copyFileSync(PLACEHOLDER_SRC, destPath);
+    review.poster = fallbackPath;
+    posterAutoFixed.push(`${review.slug}: no poster field → placeholder copied`);
     continue;
   }
+
+  // ── 2. External URL posters (http/https) — skip disk checks; they resolve at load time ──
+  if (review.poster.startsWith('http://') || review.poster.startsWith('https://')) {
+    continue;
+  }
+
   const fname = review.poster.split('/').pop().split('?')[0];
   const fpath = path.join(posterDir, fname);
-  
+
+  // ── 3. File missing on disk: copy placeholder, repoint review.poster ──
   if (!fs.existsSync(fpath)) {
-    posterIssues.push(`MISSING FILE: ${fname} (review: ${review.slug})`);
+    console.warn(`⚠️  POSTER GATE: MISSING FILE ${fname} for ${review.slug} — auto-substituting placeholder`);
+    if (!fs.existsSync(PLACEHOLDER_SRC)) {
+      posterFatalErrors.push(`BUILD ABORT: _placeholder.jpg not found; cannot auto-fix missing file ${fname} for ${review.slug}. Run: python3 scripts/poster-pipeline.py --slug ${review.slug}`);
+      continue;
+    }
+    fs.copyFileSync(PLACEHOLDER_SRC, fpath);
+    posterAutoFixed.push(`${review.slug}: ${fname} missing → placeholder copied`);
+    // review.poster path stays the same; the file now exists
     continue;
   }
-  
+
+  // ── 4. File exists — check for known corruption ──
   const stat = fs.statSync(fpath);
   if (stat.size < 5000) {
-    posterIssues.push(`CORRUPT: ${fname} is only ${stat.size} bytes (review: ${review.slug})`);
+    posterFatalErrors.push(`BUILD ABORT: ${fname} is only ${stat.size} bytes (${review.slug}). Delete it and re-run: python3 scripts/poster-pipeline.py --slug ${review.slug}`);
   }
-  
-  // Check for corrupt MV5B... filenames from bad OMDb downloads
+
+  // ── 5. Bad OMDb filename leak ──
   if (fname.startsWith('MV5B') || fname.includes('@._V1_')) {
-    posterIssues.push(`BAD FILENAME: ${fname} (review: ${review.slug})`);
+    posterFatalErrors.push(`BUILD ABORT: BAD FILENAME ${fname} (${review.slug}). Rename the file and fix reviews.json poster field.`);
   }
 }
-if (posterIssues.length > 0) {
-  console.warn(`\n⚠️  POSTER ISSUES (${posterIssues.length}):`);
-  posterIssues.forEach(i => console.warn(`  ${i}`));
-  console.warn(`Build continuing but ${posterIssues.length} reviews have poster problems.\n`);
+
+if (posterAutoFixed.length > 0) {
+  console.warn(`\n🔧 POSTER GATE: auto-substituted placeholder for ${posterAutoFixed.length} review(s):`);
+  posterAutoFixed.forEach(m => console.warn(`   ${m}`));
+}
+if (posterFatalErrors.length > 0) {
+  console.error(`\n🚨 POSTER GATE FATAL — ${posterFatalErrors.length} error(s) that cannot be auto-fixed:`);
+  posterFatalErrors.forEach(e => console.error(`   ${e}`));
+  console.error(`\nBUILD ABORTED. Fix the above before publishing. No broken poster URLs will ship.`);
+  process.exit(1);
+}
+if (posterAutoFixed.length === 0 && posterFatalErrors.length === 0) {
+  console.log(`Poster gate PASS: all poster files present and valid.`);
 }
 
 // === Helpers ===
