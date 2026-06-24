@@ -12,6 +12,18 @@
     "poster": "/images/posters/the-green-mile-1999.jpg"
   },
   {
+    "slug": "the-sixth-sense-1999",
+    "title": "The Sixth Sense",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama / Mystery / Thriller",
+    "year": 1999,
+    "type": "film",
+    "wokeScore": 3.4,
+    "tradScore": 19.32,
+    "poster": "/images/posters/the-sixth-sense-1999.jpg"
+  },
+  {
     "slug": "leviticus-2026",
     "title": "Leviticus",
     "verdict": "STRONGLY WOKE",
