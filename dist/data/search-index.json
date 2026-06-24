@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-green-mile-1999",
+    "title": "The Green Mile",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Crime / Drama / Fantasy",
+    "year": 1999,
+    "type": "film",
+    "wokeScore": 9.44,
+    "tradScore": 21.28,
+    "poster": "/images/posters/the-green-mile-1999.jpg"
+  },
+  {
     "slug": "leviticus-2026",
     "title": "Leviticus",
     "verdict": "STRONGLY WOKE",
