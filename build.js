@@ -34726,6 +34726,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/vigilante-movies-woke-ranking/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/horror-movies-woke-ranking-all-time/index.html');
+  writePage('lists/horror-movies-woke-ranking-all-time/index.html', buildListiclePage({
+    slug: 'horror-movies-woke-ranking-all-time',
+    title: 'Most Woke Horror Movies of All Time Ranked by Woke Score',
+    description: '20 most ideologically loaded horror films ranked by woke score margin. VirtueVigil scores Heretic, The Substance, Immaculate, Midsommar, Get Out, and more. See which horror movies parents should screen first.',
+    canonicalPath: 'lists/horror-movies-woke-ranking-all-time',
+    publishDate: '2026-06-29',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/horror-movies-woke-ranking-all-time/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
