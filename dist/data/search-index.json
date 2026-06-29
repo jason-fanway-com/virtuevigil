@@ -1,5 +1,29 @@
 [
   {
+    "slug": "the-death-of-robin-hood-2026",
+    "title": "The Death of Robin Hood",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Thriller / Drama / Historical",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5.9,
+    "tradScore": 34.46,
+    "poster": "/images/posters/the-death-of-robin-hood-2026.jpg"
+  },
+  {
+    "slug": "the-bear-s2-2023",
+    "title": "The Bear (Season 2)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Hulu / FX",
+    "genre": "Comedy-Drama",
+    "year": 2023,
+    "type": "series",
+    "wokeScore": 4.2,
+    "tradScore": 34.86,
+    "poster": "/images/posters/the-bear-s2-2023.jpg"
+  },
+  {
     "slug": "the-green-mile-1999",
     "title": "The Green Mile",
     "verdict": "TRADITIONAL",
