@@ -1,0 +1,1351 @@
+{
+  "timestamp": "2026-06-30T12:46:21.044Z",
+  "fixCount": 190,
+  "fixes": [
+    {
+      "slug": "the-furious-2026",
+      "margin": 27,
+      "changes": [
+        "verdict: 'PREDICTED: STRONGLY TRADITIONAL' -> 'STRONGLY TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "backrooms-2026",
+      "margin": 14,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL LEAN' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "sheep-detectives-2026",
+      "margin": 27,
+      "changes": [
+        "verdict: 'PREDICTED: STRONGLY TRADITIONAL' -> 'STRONGLY TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "the-stranger-ozon-2026",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "mother-mary-2025",
+      "margin": -9,
+      "changes": [
+        "verdict: 'PREDICTED: WOKE LEAN' -> 'WOKE LEAN'",
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "you-me-tuscany-2026",
+      "margin": 17,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "apex-2026",
+      "margin": 12,
+      "changes": [
+        "summary.overall: markdown stripped"
+      ]
+    },
+    {
+      "slug": "devil-wears-prada-2-2026",
+      "margin": 1,
+      "changes": [
+        "wokeTrap: [object] -> false"
+      ]
+    },
+    {
+      "slug": "animal-farm-2026",
+      "margin": null,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'STRONGLY WOKE'",
+        "scoreMargin: '+10.86 TRAD' -> '0 NEUTRAL'",
+        "wokeTrap: undefined -> false",
+        "summary.overall: markdown stripped"
+      ]
+    },
+    {
+      "slug": "cliffhanger-2026",
+      "margin": 18,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "the-drama-2026",
+      "margin": -14,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "fallout-season-2-2025",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-boys-season-4-2024",
+      "margin": -12,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-yeti-2026",
+      "margin": 18,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'",
+        "summary.overall: markdown stripped"
+      ]
+    },
+    {
+      "slug": "busboys-2026",
+      "margin": 18,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "the-mummy-2026",
+      "margin": 22,
+      "changes": [
+        "verdict: 'PREDICTED: STRONGLY TRADITIONAL' -> 'STRONGLY TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "hamlet-2025",
+      "margin": 11,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "the-devil-wears-prada-2-2026",
+      "margin": 13,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "wednesday-season-2-2025",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "exit-8-2026",
+      "margin": 31,
+      "changes": [
+        "verdict: 'PREDICTED: STRONGLY TRADITIONAL' -> 'STRONGLY TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "hoppers-2026",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "dhurandhar-the-revenge-2026",
+      "margin": 27,
+      "changes": [
+        "scoreMargin: '+26.74 TRAD' -> '+27 TRAD'"
+      ]
+    },
+    {
+      "slug": "they-will-kill-you-2026",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "ready-or-not-2-2026",
+      "margin": -13,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "mother-mary-2026",
+      "margin": -11,
+      "changes": [
+        "verdict: 'PREDICTED: WOKE' -> 'WOKE'",
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "faces-of-death-2026",
+      "margin": 0,
+      "changes": [
+        "scoreMargin: '+0 TRAD' -> '0 NEUTRAL'"
+      ]
+    },
+    {
+      "slug": "the-watchers-2024",
+      "margin": 10,
+      "changes": [
+        "verdict: 'TRADITIONAL LEAN' -> 'TRADITIONAL'",
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "the-phoenician-scheme-2025",
+      "margin": 6,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "blink-twice-2024",
+      "margin": -16,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "you-me-and-tuscany-2026",
+      "margin": 14,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "lee-cronins-the-mummy-2026",
+      "margin": 15,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "spider-man-brand-new-day-2026",
+      "margin": 7,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "the-odyssey-2026",
+      "margin": 14,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "masters-of-the-universe-2026",
+      "margin": 10,
+      "changes": [
+        "verdict: 'TRADITIONAL LEAN' -> 'TRADITIONAL'",
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "super-mario-galaxy-movie-2026",
+      "margin": 10,
+      "changes": [
+        "verdict: 'TRADITIONAL LEAN' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "daredevil-born-again-s2-2026",
+      "margin": -12,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-pitt-s2-2026",
+      "margin": -20,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "society-of-the-snow-2023",
+      "margin": 31,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "smile-2022",
+      "margin": 10,
+      "changes": [
+        "verdict: 'TRADITIONAL LEAN' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "megalopolis-2024",
+      "margin": -12,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "a-man-called-otto-2022",
+      "margin": 9,
+      "changes": [
+        "scoreMargin: '+8 TRAD' -> '+9 TRAD'"
+      ]
+    },
+    {
+      "slug": "uncut-gems-2019",
+      "margin": 3,
+      "changes": [
+        "verdict: 'MIXED' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "zootopia-2016",
+      "margin": -9,
+      "changes": [
+        "verdict: 'WOKE' -> 'WOKE LEAN'",
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "chainsaw-man-reze-arc-2025",
+      "margin": -1,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-creator-2023",
+      "margin": -31,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "thanksgiving-2023",
+      "margin": 0,
+      "changes": [
+        "scoreMargin: '-0 WOKE' -> '0 NEUTRAL'"
+      ]
+    },
+    {
+      "slug": "mufasa-lion-king-2024",
+      "margin": 10,
+      "changes": [
+        "verdict: 'TRADITIONAL LEAN' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "reservoir-dogs-1992",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "fight-club-1999",
+      "margin": -7,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "wolf-of-wall-street-2013",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "black-swan-2010",
+      "margin": -2,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "pulp-fiction-1994",
+      "margin": -8,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "no-time-to-die-2021",
+      "margin": 0,
+      "changes": [
+        "scoreMargin: '+0 TRAD' -> '0 NEUTRAL'"
+      ]
+    },
+    {
+      "slug": "blue-beetle-2023",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-matrix-resurrections-2021",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "wonder-woman-1984-2020",
+      "margin": -2,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "birds-of-prey-2020",
+      "margin": -18,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "us-2019",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "knives-out-2019",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-white-lotus-season-3-2025",
+      "margin": -7,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "toy-story-4-2019",
+      "margin": -9,
+      "changes": [
+        "verdict: 'WOKE' -> 'WOKE LEAN'"
+      ]
+    },
+    {
+      "slug": "wednesday-2022",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-apprentice-2024",
+      "margin": -14,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "queer-2024",
+      "margin": -13,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "thunderbolts-2025",
+      "margin": 2,
+      "changes": [
+        "summary.overall: markdown stripped"
+      ]
+    },
+    {
+      "slug": "dont-worry-darling-2022",
+      "margin": -19,
+      "changes": [
+        "verdict: 'STRONGLY WOKE' -> 'WOKE'"
+      ]
+    },
+    {
+      "slug": "the-menu-2022",
+      "margin": 0,
+      "changes": [
+        "scoreMargin: '+0 TRAD' -> '0 NEUTRAL'"
+      ]
+    },
+    {
+      "slug": "father-stu-2022",
+      "margin": 20,
+      "changes": [
+        "verdict: 'TRADITIONAL' -> 'STRONGLY TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "tron-ares-2025",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "terrifier-3-2024",
+      "margin": 3,
+      "changes": [
+        "verdict: 'MIXED' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "scream-vi-2023",
+      "margin": -1,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "atlas-2024",
+      "margin": -1,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "smurfs-2025",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-wedding-banquet-2025",
+      "margin": -15,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "avatar-the-way-of-water-2022",
+      "margin": 3,
+      "changes": [
+        "verdict: 'MIXED' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "one-of-them-days-2025",
+      "margin": -2,
+      "changes": [
+        "verdict: 'WOKE LEAN' -> 'MIXED'",
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-naked-gun-2025",
+      "margin": 3,
+      "changes": [
+        "verdict: 'MIXED' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "smile-2-2024",
+      "margin": 3,
+      "changes": [
+        "verdict: 'MIXED' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "spider-man-across-the-spider-verse-2023",
+      "margin": -2,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "captain-marvel-2019",
+      "margin": -16,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "avatar-2009",
+      "margin": -13,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "titanic-1997",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-hunger-games-2012",
+      "margin": 3,
+      "changes": [
+        "verdict: 'MIXED' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "nickel-boys-2024",
+      "margin": -13,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "hamnet-2025",
+      "margin": 10,
+      "changes": [
+        "verdict: 'TRADITIONAL LEAN' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "bugonia-2025",
+      "margin": -20,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-ugly-stepsister-2025",
+      "margin": -7,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "blue-moon-2025",
+      "margin": 3,
+      "changes": [
+        "verdict: 'MIXED' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "it-was-just-an-accident-2025",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "kpop-demon-hunters-2025",
+      "margin": -8,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-bride-2026",
+      "margin": -14,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "if-i-had-legs-id-kick-you-2025",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "project-hail-mary-2026",
+      "margin": 7,
+      "changes": [
+        "summary.overall: markdown stripped"
+      ]
+    },
+    {
+      "slug": "ready-or-not-2-here-i-come-2026",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-electric-state-2025",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "adolescence-2025",
+      "margin": -8,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "aquaman-and-the-lost-kingdom-2023",
+      "margin": -12,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "maxxxine-2024",
+      "margin": -18,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "babygirl-2024",
+      "margin": -15,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "joker-folie-a-deux-2024",
+      "margin": -2,
+      "changes": [
+        "verdict: 'WOKE LEAN' -> 'MIXED'"
+      ]
+    },
+    {
+      "slug": "madame-web-2024",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "borderlands-2024",
+      "margin": -9,
+      "changes": [
+        "verdict: 'WOKE' -> 'WOKE LEAN'",
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "mean-girls-2024",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "captain-america-brave-new-world-2025",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "mulan-2020",
+      "margin": -3,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "thor-love-and-thunder-2022",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "frozen-ii-2019",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "cruella-2021",
+      "margin": -2,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "speak-no-evil-2024",
+      "margin": -2,
+      "changes": [
+        "verdict: 'WOKE LEAN' -> 'MIXED'",
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-amateur-2025",
+      "margin": 10,
+      "changes": [
+        "verdict: 'TRADITIONAL LEAN' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "g20-2025",
+      "margin": -7,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "doctor-strange-multiverse-of-madness-2022",
+      "margin": -3,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "turning-red-2022",
+      "margin": -13,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "lightyear-2022",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "eternals-2021",
+      "margin": -14,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "encanto-2021",
+      "margin": 10,
+      "changes": [
+        "verdict: 'TRADITIONAL LEAN' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "wish-2023",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "strange-world-2022",
+      "margin": -15,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "black-widow-2021",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "black-panther-wakanda-forever-2022",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-marvels-2023",
+      "margin": -14,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "ant-man-and-the-wasp-quantumania-2023",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "back-in-action-2025",
+      "margin": -2,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "den-of-thieves-2-pantera-2025",
+      "margin": 3,
+      "changes": [
+        "verdict: 'MIXED' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "death-of-a-unicorn-2025",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "scream-7-2026",
+      "margin": 8,
+      "changes": [
+        "summary.overall: markdown stripped"
+      ]
+    },
+    {
+      "slug": "a-quiet-place-day-one-2024",
+      "margin": -1,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "jurassic-world-rebirth-2025",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "andor-s2",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "love-lies-bleeding-2024",
+      "margin": -17,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "wicked-2024",
+      "margin": -11,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-moment-2026",
+      "margin": -27,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "barbie-2023",
+      "margin": -32,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "poor-things-2023",
+      "margin": -38,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "oppenheimer-2023",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "killers-of-the-flower-moon-2023",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "carry-on-2024",
+      "margin": 17,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "deep-water-2026",
+      "margin": 11,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "pressure-2026",
+      "margin": 5,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "the-mandalorian-and-grogu-2026",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: undefined -> true"
+      ]
+    },
+    {
+      "slug": "mortal-kombat-ii-2026",
+      "margin": 11,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "remarkably-bright-creatures-2026",
+      "margin": 1,
+      "changes": [
+        "wokeTrap: undefined -> false"
+      ]
+    },
+    {
+      "slug": "disclosure-day-2026",
+      "margin": -2,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "toy-story-5-2026",
+      "margin": 25,
+      "changes": [
+        "verdict: 'PREDICTED: STRONGLY TRADITIONAL' -> 'STRONGLY TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "omaha-2026",
+      "margin": 20,
+      "changes": [
+        "verdict: 'PREDICTED: STRONGLY TRADITIONAL' -> 'STRONGLY TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "corporate-retreat-2026",
+      "margin": 13,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "the-last-witness-2026",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "good-luck-have-fun-2026",
+      "margin": -3,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "mad-max-fury-road-2015",
+      "margin": -4,
+      "changes": [
+        "scoreMargin: '-3 WOKE' -> '-4 WOKE'",
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "top-gun-1986",
+      "margin": 16,
+      "changes": [
+        "scoreMargin: '+17 TRAD' -> '+16 TRAD'"
+      ]
+    },
+    {
+      "slug": "lorne-2026",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "star-wars-the-last-jedi-2017",
+      "margin": -11,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-social-network-2010",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "in-the-grey-2026",
+      "margin": 12,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "the-breadwinner-2026",
+      "margin": 7,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL LEAN' -> 'TRADITIONAL LEAN'"
+      ]
+    },
+    {
+      "slug": "the-color-purple-2023",
+      "margin": -8,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "red-notice-2021",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "supergirl-2026",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "sicario-2015",
+      "margin": -2,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "is-god-is-2026",
+      "margin": -10,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "priscilla-2023",
+      "margin": -10,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "white-lotus-s3-2025",
+      "margin": -9,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "hurt-locker-2008",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "eddington-2025",
+      "margin": -15,
+      "changes": [
+        "scoreMargin: '-16 WOKE' -> '-15 WOKE'",
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-last-showgirl-2024",
+      "margin": -3,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "avatar-aang-the-last-airbender-2026",
+      "margin": 18,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "dead-mans-wire-2026",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "parasite-2019",
+      "margin": -9,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "i-love-boosters-2026",
+      "margin": -19,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-first-omen-2024",
+      "margin": -7,
+      "changes": [
+        "woke_trap_assessment.is_trap -> true"
+      ]
+    },
+    {
+      "slug": "the-fantastic-four-first-steps-2026",
+      "margin": 16,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "mortal-kombat-2-2026",
+      "margin": 17,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "midsommar-2019",
+      "margin": -18,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "full-metal-jacket-1987",
+      "margin": -3,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "hunger-games-ballad-of-songbirds-and-snakes-2023",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "scarface-1983",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "the-crow-2024",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "american-made-2017",
+      "margin": -7,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "squid-game-season-3-2025",
+      "margin": -6,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "zero-day-2025",
+      "margin": -1,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "lucky-strike-2026",
+      "margin": 19,
+      "changes": [
+        "verdict: 'PREDICTED: TRADITIONAL' -> 'TRADITIONAL'"
+      ]
+    },
+    {
+      "slug": "all-quiet-on-the-western-front-2022",
+      "margin": -5,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "girls-like-girls-2026",
+      "margin": -13,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "amazing-digital-circus-last-act-2026",
+      "margin": -4,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "leviticus-2026",
+      "margin": -20,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "stop-that-train-2026",
+      "margin": -11,
+      "changes": [
+        "wokeTrap: false -> true"
+      ]
+    },
+    {
+      "slug": "citizen-vigilante-2026",
+      "margin": 24,
+      "changes": [
+        "wokeTrap: [object] -> false"
+      ]
+    },
+    {
+      "slug": "united-93-2006",
+      "margin": 23,
+      "changes": [
+        "wokeTrap: [object] -> false"
+      ]
+    },
+    {
+      "slug": "the-bear-s1-2022",
+      "margin": 18,
+      "changes": [
+        "wokeTrap: [object] -> false"
+      ]
+    },
+    {
+      "slug": "the-death-of-robin-hood-2026",
+      "margin": 29,
+      "changes": [
+        "scoreMargin: '+29 STRONGLY TRAD' -> '+29 TRAD'",
+        "wokeTrap: [object] -> false"
+      ]
+    }
+  ]
+}
