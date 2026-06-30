@@ -1,5 +1,41 @@
 [
   {
+    "slug": "scary-movie-2026",
+    "title": "Scary Movie (2026)",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theaters",
+    "genre": "Horror-Comedy / Parody",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 4.27,
+    "tradScore": 10.94,
+    "poster": "/images/posters/scary-movie-2026.jpg"
+  },
+  {
+    "slug": "the-shawshank-redemption-1994",
+    "title": "The Shawshank Redemption",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters (1994) / Home Video / Streaming",
+    "genre": "Drama / Prison",
+    "year": 1994,
+    "type": "film",
+    "wokeScore": 5.18,
+    "tradScore": 47.32,
+    "poster": "/images/posters/the-shawshank-redemption-1994.jpg"
+  },
+  {
+    "slug": "the-bear-s3-2024",
+    "title": "The Bear (Season 3)",
+    "verdict": "TRADITIONAL",
+    "platform": "Hulu / FX",
+    "genre": "Comedy-Drama",
+    "year": 2024,
+    "type": "series",
+    "wokeScore": 7.28,
+    "tradScore": 25.76,
+    "poster": "/images/posters/the-bear-s3-2024.jpg"
+  },
+  {
     "slug": "the-death-of-robin-hood-2026",
     "title": "The Death of Robin Hood",
     "verdict": "STRONGLY TRADITIONAL",
