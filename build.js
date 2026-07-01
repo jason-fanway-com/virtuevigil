@@ -34742,6 +34742,15 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-movies-2026-midyear/content.html'), 'utf-8')
   }));
 
+  writePage('lists/best-traditional-sci-fi-movies/index.html', buildListiclePage({
+    slug: 'best-traditional-sci-fi-movies',
+    title: '15 Best Sci-Fi Movies for Traditional Families (Ranked by Woke Score)',
+    description: 'The 15 most traditional sci-fi films in the VirtueVigil database, ranked by traditional margin. From Star Wars and Inception to Project Hail Mary -- sci-fi without the ideological baggage.',
+    canonicalPath: 'lists/best-traditional-sci-fi-movies',
+    publishDate: '2026-07-01',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-sci-fi-movies/content.html'), 'utf-8')
+  }));
+
   writePage('lists/movies-1980s-woke-ranking/index.html', buildListiclePage({
     slug: 'movies-1980s-woke-ranking',
     title: 'Every 1980s Movie Ranked by Woke Score',
