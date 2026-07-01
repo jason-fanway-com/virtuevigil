@@ -2045,6 +2045,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/tom-hanks-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/clint-eastwood-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-animated-kids-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/most-woke-animated-movies-parents/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/patriotic-war-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/anti-woke-action-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-action-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
@@ -3237,6 +3238,7 @@ function buildListsHubPage() {
         'sci-fi-movies-2026-woke-ranking',
         'adventure-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
+        'most-woke-animated-movies-parents',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3354,7 +3356,8 @@ function buildListsHubPage() {
       'musical-movies-woke-ranking': 'Every Musical Movie Ranked by Woke Score',
       'spy-espionage-movies-woke-ranking': 'Every Spy & Espionage Movie Ranked by Woke Score',
       'fantasy-movies-woke-ranking-all-time': 'Every Fantasy Movie Ranked by Woke Score (All Time)',
-      'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)'
+      'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)',
+      'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -34838,6 +34841,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/horror-movies-woke-ranking-all-time',
     publishDate: '2026-06-29',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/horror-movies-woke-ranking-all-time/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-animated-movies-parents/index.html');
+  writePage('lists/most-woke-animated-movies-parents/index.html', buildListiclePage({
+    slug: 'most-woke-animated-movies-parents',
+    title: 'The Most Woke Animated Movies Parents Should Know About — 25 Films Ranked',
+    description: '25 animated films ranked from most woke to most traditional using VirtueVigil\'s dual-scoring methodology. Every scored animated movie from Hoppers and Strange World to The Lion King and The Incredibles in one definitive parent guide.',
+    canonicalPath: 'lists/most-woke-animated-movies-parents',
+    publishDate: '2026-07-01',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-animated-movies-parents/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
