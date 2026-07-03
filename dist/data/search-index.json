@@ -1,5 +1,41 @@
 [
   {
+    "slug": "enola-holmes-3-2026",
+    "title": "Enola Holmes 3",
+    "verdict": "WOKE LEAN",
+    "platform": "Netflix",
+    "genre": "Mystery / Adventure",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 16.14,
+    "tradScore": 7.42,
+    "poster": "/images/posters/enola-holmes-3-2026.jpg"
+  },
+  {
+    "slug": "a-clockwork-orange-1971",
+    "title": "A Clockwork Orange",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical / Home Video",
+    "genre": "Crime / Dystopian / Psychological Drama",
+    "year": 1971,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 9.31,
+    "poster": "/images/posters/a-clockwork-orange-1971.jpg"
+  },
+  {
+    "slug": "game-of-thrones-s1-2011",
+    "title": "Game of Thrones (Season 1)",
+    "verdict": "TRADITIONAL",
+    "platform": "HBO",
+    "genre": "Fantasy / Drama",
+    "year": 2011,
+    "type": "series",
+    "wokeScore": 1,
+    "tradScore": 20.3,
+    "poster": "/images/posters/game-of-thrones-s1-2011.jpg"
+  },
+  {
     "slug": "scary-movie-2026",
     "title": "Scary Movie (2026)",
     "verdict": "TRADITIONAL LEAN",
