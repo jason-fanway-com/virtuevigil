@@ -34853,6 +34853,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-animated-movies-parents/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/best-traditional-war-movies/index.html');
+  writePage('lists/best-traditional-war-movies/index.html', buildListiclePage({
+    slug: 'best-traditional-war-movies',
+    title: 'Best Traditional War Movies — 10 Films Ranked by VirtueVigil Data',
+    description: '10 war films ranked by highest traditional margin using VirtueVigil dual-scoring. Fury, Saving Private Ryan, 13 Hours and more — scored on severity, authenticity, and centrality.',
+    canonicalPath: 'lists/best-traditional-war-movies',
+    publishDate: '2026-07-03',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-war-movies/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
