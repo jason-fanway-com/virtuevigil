@@ -12,6 +12,18 @@
     "poster": "/images/posters/star-wars-the-mandalorian-and-grogu-2026.jpg"
   },
   {
+    "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical / Home Video",
+    "genre": "Fantasy / Adventure / Epic",
+    "year": 2001,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 36.12,
+    "poster": "/images/posters/the-lord-of-the-rings-the-fellowship-of-the-ring-2001.jpg"
+  },
+  {
     "slug": "enola-holmes-3-2026",
     "title": "Enola Holmes 3",
     "verdict": "WOKE LEAN",
