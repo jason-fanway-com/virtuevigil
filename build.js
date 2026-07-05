@@ -3239,6 +3239,7 @@ function buildListsHubPage() {
         'adventure-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'most-woke-animated-movies-parents',
+        'most-woke-sci-fi-movies-parents',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3357,7 +3358,8 @@ function buildListsHubPage() {
       'spy-espionage-movies-woke-ranking': 'Every Spy & Espionage Movie Ranked by Woke Score',
       'fantasy-movies-woke-ranking-all-time': 'Every Fantasy Movie Ranked by Woke Score (All Time)',
       'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)',
-      'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About'
+      'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About',
+      'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -34861,6 +34863,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-war-movies',
     publishDate: '2026-07-03',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-war-movies/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-sci-fi-movies-parents/index.html');
+  writePage('lists/most-woke-sci-fi-movies-parents/index.html', buildListiclePage({
+    slug: 'most-woke-sci-fi-movies-parents',
+    title: 'Most Woke Sci-Fi Movies Parents Should Know About — VirtueVigil Rankings 2025',
+    description: 'From Poor Things to Captain America, we ranked the 20 most ideologically aggressive sci-fi films in our database. Every score backed by VirtueVigil\'s dual-metric methodology. Ranked most woke to least woke.',
+    canonicalPath: 'lists/most-woke-sci-fi-movies-parents',
+    publishDate: '2026-07-05',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-sci-fi-movies-parents/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
