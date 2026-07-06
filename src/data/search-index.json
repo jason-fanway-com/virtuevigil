@@ -12,6 +12,18 @@
     "poster": "/images/posters/young-washington-2026.jpg"
   },
   {
+    "slug": "blade-runner-1982",
+    "title": "Blade Runner",
+    "verdict": "MIXED",
+    "platform": "Theatrical / Home Video",
+    "genre": "Science Fiction / Noir / Dystopian",
+    "year": 1982,
+    "type": "film",
+    "wokeScore": 4.2,
+    "tradScore": 3.5,
+    "poster": "/images/posters/blade-runner-1982.jpg"
+  },
+  {
     "slug": "star-wars-the-mandalorian-and-grogu-2026",
     "title": "Star Wars: The Mandalorian and Grogu",
     "verdict": "TRADITIONAL",
