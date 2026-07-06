@@ -24,6 +24,18 @@
     "poster": "/images/posters/blade-runner-1982.jpg"
   },
   {
+    "slug": "silo-s3-2026",
+    "title": "Silo (Season 3)",
+    "verdict": "WOKE LEAN",
+    "platform": "Apple TV+",
+    "genre": "Science Fiction / Dystopian / Thriller",
+    "year": 2026,
+    "type": "tv",
+    "wokeScore": 5.32,
+    "tradScore": 2.45,
+    "poster": "/images/posters/silo-s3-2026.jpg"
+  },
+  {
     "slug": "star-wars-the-mandalorian-and-grogu-2026",
     "title": "Star Wars: The Mandalorian and Grogu",
     "verdict": "TRADITIONAL",
