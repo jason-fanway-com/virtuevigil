@@ -1,5 +1,41 @@
 [
   {
+    "slug": "severance-s1-2022",
+    "title": "Severance (Season 1)",
+    "verdict": "MIXED",
+    "platform": "Apple TV+",
+    "genre": "Sci-Fi / Thriller / Drama",
+    "year": 2022,
+    "type": "series",
+    "wokeScore": 10.82,
+    "tradScore": 12.32,
+    "poster": "/images/posters/severance-s1-2022.jpg"
+  },
+  {
+    "slug": "the-invite-2026",
+    "title": "The Invite",
+    "verdict": "WOKE",
+    "platform": "Theatrical (A24, limited release expanding)",
+    "genre": "Comedy / Dramedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 17.2,
+    "tradScore": 3.15,
+    "poster": "/images/posters/the-invite-2026.jpg"
+  },
+  {
+    "slug": "the-godfather-part-ii-1974",
+    "title": "The Godfather Part II",
+    "verdict": "TRADITIONAL",
+    "platform": "Streaming / Home Video",
+    "genre": "Crime / Drama",
+    "year": 1974,
+    "type": "film",
+    "wokeScore": 1.05,
+    "tradScore": 19.18,
+    "poster": "/images/posters/the-godfather-part-ii-1974.jpg"
+  },
+  {
     "slug": "young-washington-2026",
     "title": "Young Washington",
     "verdict": "STRONGLY TRADITIONAL",
