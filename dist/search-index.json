@@ -12,6 +12,42 @@
     "poster": "/images/posters/severance-s1-2022.jpg"
   },
   {
+    "slug": "little-brother-2026",
+    "title": "Little Brother (2026)",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.2,
+    "tradScore": 10.14,
+    "poster": "/images/posters/little-brother-2026.jpg"
+  },
+  {
+    "slug": "casablanca-1942",
+    "title": "Casablanca (1942)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "HBO Max / Amazon Prime / Apple TV",
+    "genre": "Drama / Romance / War",
+    "year": 1942,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 23.52,
+    "poster": "/images/posters/casablanca-1942.jpg"
+  },
+  {
+    "slug": "succession-s1-2018",
+    "title": "Succession (Season 1)",
+    "verdict": "WOKE",
+    "platform": "HBO / Max",
+    "genre": "Satirical Comedy-Drama",
+    "year": 2018,
+    "type": "series",
+    "wokeScore": 16.9,
+    "tradScore": 2.4,
+    "poster": "/images/posters/succession-s1-2018.jpg"
+  },
+  {
     "slug": "the-invite-2026",
     "title": "The Invite",
     "verdict": "WOKE",
