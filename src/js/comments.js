@@ -279,7 +279,7 @@
     document.querySelectorAll('.vote-btn').forEach(btn => {
       btn.addEventListener('click', function(e) {
         e.preventDefault();
-        const commentId = parseInt(this.dataset.comment);
+        const commentId = this.dataset.comment;
         const voteType = parseInt(this.dataset.vote);
         toggleVote(commentId, voteType);
       });
@@ -290,7 +290,7 @@
     document.querySelectorAll('.edit-btn').forEach(btn => {
       btn.addEventListener('click', function(e) {
         e.preventDefault();
-        editComment(parseInt(this.dataset.comment));
+        editComment(this.dataset.comment);
       });
     });
   }
@@ -299,7 +299,7 @@
     document.querySelectorAll('.delete-btn').forEach(btn => {
       btn.addEventListener('click', function(e) {
         e.preventDefault();
-        deleteComment(parseInt(this.dataset.comment));
+        deleteComment(this.dataset.comment);
       });
     });
   }
