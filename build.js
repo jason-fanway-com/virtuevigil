@@ -34890,6 +34890,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-sci-fi-movies-parents/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/best-traditional-action-movies/index.html');
+  writePage('lists/best-traditional-action-movies/index.html', buildListiclePage({
+    slug: 'best-traditional-action-movies',
+    title: 'Best Traditional Action Movies, Ranked by VirtueVigil (2026)',
+    description: 'The 20 most traditional action movies in VirtueVigil\'s database of 724+ reviews, ranked by traditional score margin. American Sniper, Gladiator, 13 Hours, John Wick, 300, and more — every score backed by dual-metric methodology.',
+    canonicalPath: 'lists/best-traditional-action-movies',
+    publishDate: '2026-07-09',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-action-movies/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
