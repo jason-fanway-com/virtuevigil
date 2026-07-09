@@ -12,6 +12,42 @@
     "poster": "/images/posters/severance-s1-2022.jpg"
   },
   {
+    "slug": "moana-2026",
+    "title": "Moana (2026)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Adventure / Family / Fantasy / Musical",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.5,
+    "tradScore": 19.39,
+    "poster": "/images/posters/moana-2026.jpg"
+  },
+  {
+    "slug": "12-angry-men-1957",
+    "title": "12 Angry Men (1957)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Amazon Prime / Apple TV / YouTube Movies",
+    "genre": "Drama / Crime",
+    "year": 1957,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 30.59,
+    "poster": "/images/posters/12-angry-men-1957.jpg"
+  },
+  {
+    "slug": "little-house-on-the-prairie-2026",
+    "title": "Little House on the Prairie (2026)",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Drama / Family / Western",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 2,
+    "tradScore": 20.16,
+    "poster": "/images/posters/little-house-on-the-prairie-2026.jpg"
+  },
+  {
     "slug": "little-brother-2026",
     "title": "Little Brother (2026)",
     "verdict": "TRADITIONAL LEAN",
