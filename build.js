@@ -10093,6 +10093,7 @@ buildMostWokeMovies2025Listicle();
 buildWokeHorrorMovies2025Listicle();
 buildDisneyPlusWokeRankingListicle();
 buildNetflixWokeRankedListicle();
+buildNetflixOriginalsWokeRankingListicle();
 buildAmazonPrimeWokeRankingListicle();
 buildBestTraditionalMovies2023Listicle();
 buildBestTraditionalMovies2024Listicle();
@@ -13656,6 +13657,20 @@ function buildNetflixWokeRankedListicle() {
         <p>Netflix runs two content tracks simultaneously. The mainstream entertainment track, action sequels, legacy franchise continuations, and warm family films, scores consistently traditional. The prestige track, the titles Netflix markets for awards and critical recognition, skews heavily woke. Bridgerton Season 4 and Emilia Perez dominate the woke end of this list. Peaky Blinders: The Immortal Man and Nonnas anchor the traditional end. Knowing which track you are on before you press play is exactly what VirtueVigil is here to help with. Browse all Netflix reviews at <a href="/reviews/">virtuevigil.com/reviews/</a> or see more platform rankings on the <a href="/lists/">lists page</a>.</p>
       </div>
     </article>`
+  }));
+}
+
+// ============================================
+// LISTICLE: Netflix Originals Ranked by Woke Score
+// ============================================
+function buildNetflixOriginalsWokeRankingListicle() {
+  writePage('lists/netflix-originals-woke-ranking/index.html', buildListiclePage({
+    slug: 'netflix-originals-woke-ranking',
+    title: 'Netflix Originals Ranked by Woke Score (2026)',
+    description: 'Every Netflix Original reviewed by VirtueVigil, ranked from wokest to most traditional. Glass Onion, Emilia Perez, Stranger Things, Squid Game, Wednesday, and more.',
+    canonicalPath: 'lists/netflix-originals-woke-ranking',
+    publishDate: '2026-07-08',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/netflix-originals-woke-ranking/content.html'), 'utf-8')
   }));
 }
 
