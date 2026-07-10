@@ -3240,6 +3240,7 @@ function buildListsHubPage() {
         'woke-animated-kids-movies',
         'most-woke-animated-movies-parents',
         'most-woke-sci-fi-movies-parents',
+        'most-woke-thriller-movies-parents-2025',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3359,7 +3360,8 @@ function buildListsHubPage() {
       'fantasy-movies-woke-ranking-all-time': 'Every Fantasy Movie Ranked by Woke Score (All Time)',
       'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)',
       'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About',
-      'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About'
+      'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
+      'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -34888,6 +34890,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-sci-fi-movies-parents',
     publishDate: '2026-07-05',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-sci-fi-movies-parents/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-thriller-movies-parents-2025/index.html');
+  writePage('lists/most-woke-thriller-movies-parents-2025/index.html', buildListiclePage({
+    slug: 'most-woke-thriller-movies-parents-2025',
+    title: 'Most Woke Thriller Movies Parents Should Know About (2025 Edition) — VirtueVigil Rankings',
+    description: 'From Conclave to Fight Club, we ranked the 20 most ideologically aggressive thriller films in our database. Every score backed by VirtueVigil\'s dual-metric methodology. Ranked most woke to least woke.',
+    canonicalPath: 'lists/most-woke-thriller-movies-parents-2025',
+    publishDate: '2026-07-10',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-thriller-movies-parents-2025/content.html'), 'utf-8')
   }));
 
   console.log('  lists/best-traditional-action-movies/index.html');
