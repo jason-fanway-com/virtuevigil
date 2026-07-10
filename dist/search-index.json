@@ -24,6 +24,18 @@
     "poster": "/images/posters/chernobyl-2019.jpg"
   },
   {
+    "slug": "the-isolate-thief-2026",
+    "title": "The Isolate Thief",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theatrical (Limited)",
+    "genre": "Western / Action / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2,
+    "tradScore": 17.7,
+    "poster": "/images/posters/the-isolate-thief-2026.jpg"
+  },
+  {
     "slug": "moana-2026",
     "title": "Moana (2026)",
     "verdict": "TRADITIONAL",
