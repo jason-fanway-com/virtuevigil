@@ -12,6 +12,18 @@
     "poster": "/images/posters/severance-s1-2022.jpg"
   },
   {
+    "slug": "chernobyl-2019",
+    "title": "Chernobyl (2019)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "HBO / Max",
+    "genre": "Historical Drama / Thriller",
+    "year": 2019,
+    "type": "series",
+    "wokeScore": 2,
+    "tradScore": 27.72,
+    "poster": "/images/posters/chernobyl-2019.jpg"
+  },
+  {
     "slug": "moana-2026",
     "title": "Moana (2026)",
     "verdict": "TRADITIONAL",
