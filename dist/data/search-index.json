@@ -276,6 +276,18 @@
     "poster": "/images/posters/the-bear-s2-2023.jpg"
   },
   {
+    "slug": "harry-potter-and-the-chamber-of-secrets-2002",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Fantasy / Family / Adventure / Mystery",
+    "year": 2002,
+    "type": "film",
+    "wokeScore": 4.62,
+    "tradScore": 36.68,
+    "poster": "/images/posters/harry-potter-and-the-chamber-of-secrets-2002.jpg"
+  },
+  {
     "slug": "the-green-mile-1999",
     "title": "The Green Mile",
     "verdict": "TRADITIONAL",
