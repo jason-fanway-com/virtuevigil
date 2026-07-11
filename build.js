@@ -34912,6 +34912,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-action-movies/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/best-traditional-drama-movies/index.html');
+  writePage('lists/best-traditional-drama-movies/index.html', buildListiclePage({
+    slug: 'best-traditional-drama-movies',
+    title: 'Best Traditional Drama Movies, Ranked by VirtueVigil (2026 Edition)',
+    description: 'The 20 most traditional drama films in VirtueVigil\'s database of 729+ reviews, ranked by traditional score margin. The Passion of the Christ, Shawshank, Rocky, Saving Private Ryan, 12 Angry Men, and more -- every score backed by dual-metric methodology.',
+    canonicalPath: 'lists/best-traditional-drama-movies',
+    publishDate: '2026-07-11',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-drama-movies/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
