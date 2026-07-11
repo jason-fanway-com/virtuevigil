@@ -24,6 +24,18 @@
     "poster": "/images/posters/toy-story-1995.jpg"
   },
   {
+    "slug": "widows-bay-s1-2026",
+    "title": "Widow's Bay",
+    "verdict": "TRADITIONAL",
+    "platform": "Apple TV+",
+    "genre": "Comedy Horror / Supernatural / Mystery / Thriller",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 2.35,
+    "tradScore": 18.55,
+    "poster": "/images/posters/widows-bay-s1-2026.jpg"
+  },
+  {
     "slug": "chernobyl-2019",
     "title": "Chernobyl (2019)",
     "verdict": "STRONGLY TRADITIONAL",
