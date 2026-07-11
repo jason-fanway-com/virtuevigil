@@ -54,7 +54,7 @@ REPO_DIR = SCRIPT_DIR.parent
 REVIEWS_JSON = REPO_DIR / 'src' / 'data' / 'reviews.json'
 POSTER_DIR = REPO_DIR / 'src' / 'images' / 'posters'
 REVIEW_QUEUE_PATH = SCRIPT_DIR / 'poster-review-queue.json'
-PLACEHOLDER_SIZE_THRESHOLD = 10000  # 10KB threshold for placeholder detection
+PLACEHOLDER_SIZE_THRESHOLD = 15000  # 15KB threshold for placeholder detection (placeholder is ~10.9KB)
 
 # Rate limiting
 OMDB_DELAY = 1.0  # seconds between OMDb requests
@@ -138,16 +138,39 @@ def get_existing_posters():
     return existing
 
 
+PLACEHOLDER_MD5 = None
+
+def _get_placeholder_md5():
+    """Lazy-load the MD5 hash of the placeholder image for fast detection."""
+    global PLACEHOLDER_MD5
+    if PLACEHOLDER_MD5 is not None:
+        return PLACEHOLDER_MD5
+    placeholder_path = POSTER_DIR / '_placeholder.jpg'
+    if placeholder_path.exists():
+        import hashlib
+        PLACEHOLDER_MD5 = hashlib.md5(placeholder_path.read_bytes()).hexdigest()
+    else:
+        PLACEHOLDER_MD5 = ''
+    return PLACEHOLDER_MD5
+
+
 def is_placeholder(filepath):
     """
     Detect if a poster file is a placeholder.
-    Heuristics:
-    - File size < 10KB (generated placeholders are small)
-    - File contains placeholder patterns (if readable)
+    Uses MD5 hash match first (most reliable), then size fallback.
     """
     if not filepath.exists():
         return False
     
+    # Primary: MD5 hash match against _placeholder.jpg
+    md5 = _get_placeholder_md5()
+    if md5:
+        import hashlib
+        fhash = hashlib.md5(filepath.read_bytes()).hexdigest()
+        if fhash == md5:
+            return True
+    
+    # Fallback: size threshold for non-hash matching placeholders
     size = filepath.stat().st_size
     if size < PLACEHOLDER_SIZE_THRESHOLD:
         return True
@@ -178,30 +201,30 @@ def load_reviews_from_json():
         return []
 
 
-def query_omdb(movie_title, year=None):
-    """Query OMDb API for poster URL."""
-    params = {
-        't': movie_title,
-        'apikey': OMDB_API_KEY,
-        'type': 'movie'
-    }
-    
-    if year:
-        params['y'] = str(year)
-    
-    url = OMDB_BASE_URL + '?' + urllib.parse.urlencode(params)
-    
-    try:
-        with urllib.request.urlopen(url, timeout=10) as response:
-            data = json.loads(response.read().decode('utf-8'))
-        
-        if data.get('Response') == 'True' and data.get('Poster') not in ['N/A', None]:
-            return data.get('Poster')
-        
-        return None
-    except Exception as e:
-        print(f"    ⚠️  OMDb error: {e}")
-        return None
+def query_omdb(title, year=None):
+    """Query OMDb API for poster URL. Tries movie first, falls back to series."""
+    # Try as movie first, then as series
+    for media_type in ['movie', 'series']:
+        params = {
+            't': title,
+            'apikey': OMDB_API_KEY,
+            'type': media_type
+        }
+        if year:
+            params['y'] = str(year)
+
+        url = OMDB_BASE_URL + '?' + urllib.parse.urlencode(params)
+
+        try:
+            with urllib.request.urlopen(url, timeout=10) as response:
+                data = json.loads(response.read().decode('utf-8'))
+
+            if data.get('Response') == 'True' and data.get('Poster') not in ['N/A', None]:
+                return data.get('Poster')
+        except Exception as e:
+            print(f"    ⚠️  OMDb error ({media_type}): {e}")
+
+        time.sleep(0.5)  # Small delay between movie/series attempts
 
 
 def search_brave_images(query, brave_key):
