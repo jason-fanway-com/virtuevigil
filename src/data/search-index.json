@@ -12,6 +12,18 @@
     "poster": "/images/posters/severance-s1-2022.jpg"
   },
   {
+    "slug": "toy-story-1995",
+    "title": "Toy Story",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical / Disney+",
+    "genre": "Animation / Adventure / Comedy / Family",
+    "year": 1995,
+    "type": "film",
+    "wokeScore": 0.5,
+    "tradScore": 30.12,
+    "poster": "/images/posters/toy-story-1995.jpg"
+  },
+  {
     "slug": "chernobyl-2019",
     "title": "Chernobyl (2019)",
     "verdict": "STRONGLY TRADITIONAL",
@@ -26,7 +38,7 @@
   {
     "slug": "the-isolate-thief-2026",
     "title": "The Isolate Thief",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical (Limited)",
     "genre": "Western / Action / Thriller",
     "year": 2026,
