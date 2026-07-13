@@ -1,5 +1,41 @@
 [
   {
+    "slug": "gail-daughtry-and-the-celebrity-sex-pass-2026",
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "verdict": "WOKE",
+    "platform": "Theaters",
+    "genre": "Comedy / Adventure / Satire",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 17.64,
+    "tradScore": 1.55,
+    "poster": "/images/posters/gail-daughtry-and-the-celebrity-sex-pass-2026.jpg"
+  },
+  {
+    "slug": "the-prestige-2006",
+    "title": "The Prestige",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Psychological Thriller / Drama / Mystery / Science Fiction",
+    "year": 2006,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 21.56,
+    "poster": "/images/posters/the-prestige-2006.jpg"
+  },
+  {
+    "slug": "stranger-things-s1-2016",
+    "title": "Stranger Things (Season 1)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Science Fiction / Horror / Drama / Mystery",
+    "year": 2016,
+    "type": "series",
+    "wokeScore": 5.4,
+    "tradScore": 26.74,
+    "poster": "/images/posters/stranger-things-s1-2016.jpg"
+  },
+  {
     "slug": "severance-s1-2022",
     "title": "Severance (Season 1)",
     "verdict": "MIXED",
