@@ -2132,6 +2132,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/vigilante-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-comedy-movies-parents/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2026-woke-ranking-complete/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-masculinity/`, changefreq: 'monthly', priority: '0.8' },
@@ -3254,6 +3255,7 @@ function buildListsHubPage() {
         'most-woke-animated-movies-parents',
         'most-woke-sci-fi-movies-parents',
         'most-woke-thriller-movies-parents-2025',
+        'most-woke-comedy-movies-parents',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3375,7 +3377,8 @@ function buildListsHubPage() {
       'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)',
       'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About',
       'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
-      'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)'
+      'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)',
+      'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -34933,6 +34936,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-action-movies',
     publishDate: '2026-07-09',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-action-movies/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-comedy-movies-parents/index.html');
+  writePage('lists/most-woke-comedy-movies-parents/index.html', buildListiclePage({
+    slug: 'most-woke-comedy-movies-parents',
+    title: 'Most Woke Comedy Movies Parents Should Know About — VirtueVigil Rankings 2026',
+    description: 'From Barbie to The Wolf of Wall Street, we ranked the 25 most ideologically aggressive comedy films in our database of 735+ reviews. Every score backed by VirtueVigil\'s dual-metric methodology. Ranked most woke to least woke.',
+    canonicalPath: 'lists/most-woke-comedy-movies-parents',
+    publishDate: '2026-07-14',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-comedy-movies-parents/content.html'), 'utf-8')
   }));
 
   console.log('  lists/best-traditional-drama-movies/index.html');
