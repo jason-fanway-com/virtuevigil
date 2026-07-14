@@ -1,5 +1,41 @@
 [
   {
+    "slug": "breaking-bad-s1-2008",
+    "title": "Breaking Bad (Season 1)",
+    "verdict": "TRADITIONAL",
+    "platform": "AMC",
+    "genre": "Crime Drama / Neo-Western / Thriller / Black Comedy",
+    "year": 2008,
+    "type": "series",
+    "wokeScore": 7.9,
+    "tradScore": 17.78,
+    "poster": "/images/posters/breaking-bad-s1-2008.jpg"
+  },
+  {
+    "slug": "the-silence-of-the-lambs-1991",
+    "title": "The Silence of the Lambs",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Psychological Thriller / Horror / Crime",
+    "year": 1991,
+    "type": "movie",
+    "wokeScore": 2.52,
+    "tradScore": 19.04,
+    "poster": "/images/posters/the-silence-of-the-lambs-1991.jpg"
+  },
+  {
+    "slug": "the-thing-1982",
+    "title": "The Thing",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Science Fiction / Horror",
+    "year": 1982,
+    "type": "movie",
+    "wokeScore": 0.7,
+    "tradScore": 21.56,
+    "poster": "/images/posters/the-thing-1982.jpg"
+  },
+  {
     "slug": "gail-daughtry-and-the-celebrity-sex-pass-2026",
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "verdict": "WOKE",
