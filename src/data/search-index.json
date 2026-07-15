@@ -1,5 +1,77 @@
 [
   {
+    "slug": "f1-2025",
+    "title": "F1",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical / Apple TV+",
+    "genre": "Action / Sports Drama",
+    "year": 2025,
+    "type": "movie",
+    "wokeScore": 1.05,
+    "tradScore": 32.41,
+    "poster": "/images/posters/f1-2025.jpg"
+  },
+  {
+    "slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+    "title": "The Lord of the Rings: The Return of the King",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Fantasy / Epic / Adventure",
+    "year": 2003,
+    "type": "movie",
+    "wokeScore": 0.35,
+    "tradScore": 64.47,
+    "poster": "/images/posters/the-lord-of-the-rings-the-return-of-the-king-2003.jpg"
+  },
+  {
+    "slug": "house-of-the-dragon-s1-2022",
+    "title": "House of the Dragon (Season 1)",
+    "verdict": "TRADITIONAL",
+    "platform": "HBO / Max",
+    "genre": "Fantasy / Drama",
+    "year": 2022,
+    "type": "tv",
+    "wokeScore": 5.22,
+    "tradScore": 7.43,
+    "poster": "/images/posters/house-of-the-dragon-s1-2022.jpg"
+  },
+  {
+    "slug": "breaking-bad-s1-2008",
+    "title": "Breaking Bad (Season 1)",
+    "verdict": "TRADITIONAL",
+    "platform": "AMC",
+    "genre": "Crime Drama / Neo-Western / Thriller / Black Comedy",
+    "year": 2008,
+    "type": "series",
+    "wokeScore": 7.9,
+    "tradScore": 17.78,
+    "poster": "/images/posters/breaking-bad-s1-2008.jpg"
+  },
+  {
+    "slug": "the-silence-of-the-lambs-1991",
+    "title": "The Silence of the Lambs",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Psychological Thriller / Horror / Crime",
+    "year": 1991,
+    "type": "movie",
+    "wokeScore": 2.52,
+    "tradScore": 19.04,
+    "poster": "/images/posters/the-silence-of-the-lambs-1991.jpg"
+  },
+  {
+    "slug": "the-thing-1982",
+    "title": "The Thing",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Science Fiction / Horror",
+    "year": 1982,
+    "type": "movie",
+    "wokeScore": 0.7,
+    "tradScore": 21.56,
+    "poster": "/images/posters/the-thing-1982.jpg"
+  },
+  {
     "slug": "gail-daughtry-and-the-celebrity-sex-pass-2026",
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "verdict": "WOKE",
@@ -6598,18 +6670,6 @@
     "wokeScore": 8.4,
     "tradScore": 14.7,
     "poster": "/images/posters/scary-movie-6-2026.jpg"
-  },
-  {
-    "slug": "f1-2025",
-    "title": "F1",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical (Warner Bros. / Apple Original Films)",
-    "genre": "Sports Drama/Action",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 5.52,
-    "tradScore": 22.68,
-    "poster": "/images/posters/f1-2025.jpg"
   },
   {
     "slug": "karate-kid-legends-2025",
