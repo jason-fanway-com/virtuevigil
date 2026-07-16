@@ -1,5 +1,41 @@
 [
   {
+    "slug": "thrash-2026",
+    "title": "Thrash",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Survival Thriller / Horror",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 2,
+    "tradScore": 15.68,
+    "poster": "/images/posters/thrash-2026.jpg"
+  },
+  {
+    "slug": "the-good-the-bad-and-the-ugly-1966",
+    "title": "The Good, the Bad and the Ugly",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Multiple Streamers",
+    "genre": "Western / Epic",
+    "year": 1966,
+    "type": "movie",
+    "wokeScore": 1.4,
+    "tradScore": 17.08,
+    "poster": "/images/posters/the-good-the-bad-and-the-ugly-1966.jpg"
+  },
+  {
+    "slug": "daredevil-born-again-2025",
+    "title": "Daredevil: Born Again",
+    "verdict": "TRADITIONAL",
+    "platform": "Disney+",
+    "genre": "Action / Crime Drama / Superhero",
+    "year": 2025,
+    "type": "tv",
+    "wokeScore": 2.1,
+    "tradScore": 19.32,
+    "poster": "/images/posters/daredevil-born-again-2025.jpg"
+  },
+  {
     "slug": "f1-2025",
     "title": "F1",
     "verdict": "STRONGLY TRADITIONAL",
