@@ -34891,7 +34891,7 @@ The short answer is no.</p>
   console.log('  lists/most-woke-horror-movies-of-all-time/index.html');
   writePage('lists/most-woke-horror-movies-of-all-time/index.html', buildListiclePage({
     slug: 'most-woke-horror-movies-of-all-time',
-    title: 'The 15 Most Woke Horror Movies of All Time — Ranked by VirtueVigil',
+    title: 'The 15 Most Woke Horror Movies of All Time Ranked by VirtueVigil',
     description: '15 most ideologically loaded horror films ranked by woke score margin. VirtueVigil scores Heretic, The Substance, Immaculate, Midsommar, Get Out, and more. Know what your kids are watching.',
     canonicalPath: 'lists/most-woke-horror-movies-of-all-time',
     publishDate: '2026-07-15',
