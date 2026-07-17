@@ -12,6 +12,18 @@
     "poster": "/images/posters/lucky-2026.jpg"
   },
   {
+    "slug": "apocalypse-now-1979",
+    "title": "Apocalypse Now",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Epic War / Psychological Drama",
+    "year": 1979,
+    "type": "film",
+    "wokeScore": 2.8,
+    "tradScore": 14.49,
+    "poster": "/images/posters/apocalypse-now-1979.jpg"
+  },
+  {
     "slug": "thrash-2026",
     "title": "Thrash",
     "verdict": "TRADITIONAL",
