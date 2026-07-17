@@ -24,6 +24,18 @@
     "poster": "/images/posters/apocalypse-now-1979.jpg"
   },
   {
+    "slug": "the-godfather-part-2-1974",
+    "title": "The Godfather Part II",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Epic Crime Drama",
+    "year": 1974,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 23.8,
+    "poster": "/images/posters/the-godfather-part-2-1974.jpg"
+  },
+  {
     "slug": "thrash-2026",
     "title": "Thrash",
     "verdict": "TRADITIONAL",
