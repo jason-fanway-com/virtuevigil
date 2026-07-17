@@ -2093,6 +2093,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-true-story-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-western-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-action-movies/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/best-traditional-sports-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-anti-communist-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-perseverance/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-4th-of-july-movies/`, changefreq: 'monthly', priority: '0.9' },
@@ -3212,6 +3213,7 @@ function buildListsHubPage() {
         'best-true-story-movies-conservatives',
         'best-western-movies-conservatives',
         'best-traditional-action-movies',
+        'best-traditional-sports-movies',
         'best-anti-communist-movies',
         'best-4th-of-july-movies',
         'best-movies-about-perseverance',
@@ -3338,6 +3340,7 @@ function buildListsHubPage() {
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories',
       'best-western-movies-conservatives': 'Best Western Movies for Conservatives',
       'best-traditional-action-movies': 'Best Traditional Action Movies: 25 Films Built on Honor, Courage, and Sacrifice',
+      'best-traditional-sports-movies': 'Best Traditional Sports Movies: 20 Films Built on Discipline, Sacrifice, and Mentorship',
       'best-anti-communist-movies': 'Top 10 Anti-Communist Movies of All Time: Cinema\'s Best Defense of Freedom',
       'best-movies-about-perseverance': 'Best Movies About Perseverance: Top 10 Never-Give-Up Films Ranked by VirtueVigil Score',
       'best-4th-of-july-movies': 'Best 4th of July Movies: Top 10 Patriotic Films for Independence Day',
@@ -18537,6 +18540,15 @@ function buildAudienceVsCriticScoresListicle() {
     canonicalPath: 'lists/best-traditional-action-movies',
     publishDate: '2026-07-13',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-action-movies/content.html'), 'utf-8')
+  }));
+
+  writePage('lists/best-traditional-sports-movies/index.html', buildListiclePage({
+    slug: 'best-traditional-sports-movies',
+    title: 'Best Traditional Sports Movies: 20 Films Built on Discipline, Sacrifice, and Mentorship',
+    description: 'The 20 most traditional sports films ranked by VirtueVigil scores. From Miracle and Hoosiers to Rocky and Creed, every score backed by the dual-metric VVWS methodology.',
+    canonicalPath: 'lists/best-traditional-sports-movies',
+    publishDate: '2026-07-17',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-sports-movies/content.html'), 'utf-8')
   }));
 
   writePage('lists/best-4th-of-july-movies/index.html', buildListiclePage({
