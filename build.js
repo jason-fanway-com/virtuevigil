@@ -2138,6 +2138,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-2026-woke-ranking-complete/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-masculinity/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/every-dc-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -3228,6 +3229,7 @@ function buildListsHubPage() {
         'audience-vs-critic-scores-conservative',
         'canceled-movies-reviewed',
         'dc-movies-woke-ranking',
+        'every-dc-movie-ranked-woke-score',
         'highest-traditional-scores-all-time',
         'highest-woke-scores-all-time',
         'hollywood-anti-american-movies',
@@ -3299,6 +3301,7 @@ function buildListsHubPage() {
       'hbo-max-shows-woke-ranking': 'HBO Max Shows Woke Ranking',
       'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
+      'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
       'most-woke-movies-2024-complete': 'Most Woke Movies of 2024 (Complete)',
       'conservative-sci-fi-movies-2024-2025': 'Conservative Sci-Fi Movies 2024\u20132025',
       'wokest-streaming-movies-2025-2026': 'Wokest Streaming Movies 2025\u20132026',
@@ -7850,6 +7853,15 @@ function build() {
         <p>Five out of six Nolan films score traditional. That's a better track record than almost any director working at his budget and profile. The Dark Knight Rises and Inception sit near the top of everything VirtueVigil has ever reviewed. Oppenheimer is the exception -- a film that uses Nolan's visual and structural authority to package a sympathetic take on a man whose politics were a legitimate national security concern. All six films are reviewed in full at VirtueVigil with complete trope audits, creative team profiles, and parental guidance assessments. Browse the full database at <a href="https://virtuevigil.com/reviews/">virtuevigil.com/reviews/</a> or see how other directors' filmographies score on our <a href="https://virtuevigil.com/lists/">lists page</a>.</p>
       </div>
     </article>`
+  }));
+
+  writePage('lists/every-dc-movie-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'every-dc-movie-ranked-woke-score',
+    title: 'Every DC Movie Ranked by Woke Score (2026 Edition)',
+    description: 'All 18 DC films ranked by VirtueVigil from most traditional (Man of Steel) to most woke (Birds of Prey). Full scores, margins, and verdicts for every DC theatrical release through 2026.',
+    canonicalPath: 'lists/every-dc-movie-ranked-woke-score',
+    publishDate: '2026-07-18',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-dc-movie-ranked-woke-score/content.html'), 'utf-8')
   }));
 
   writePage('lists/dc-movies-woke-ranking/index.html', buildListiclePage({

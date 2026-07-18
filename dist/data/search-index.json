@@ -12,6 +12,30 @@
     "poster": "/images/posters/ride-or-die-s1-2026.jpg"
   },
   {
+    "slug": "psycho-1960",
+    "title": "Psycho",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Horror / Thriller",
+    "year": 1960,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 12.04,
+    "poster": "/images/posters/psycho-1960.jpg"
+  },
+  {
+    "slug": "one-flew-over-the-cuckoos-nest-1975",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Psychological Drama",
+    "year": 1975,
+    "type": "film",
+    "wokeScore": 3.78,
+    "tradScore": 22.68,
+    "poster": "/images/posters/one-flew-over-the-cuckoos-nest-1975.jpg"
+  },
+  {
     "slug": "lucky-2026",
     "title": "Lucky",
     "verdict": "MIXED",
