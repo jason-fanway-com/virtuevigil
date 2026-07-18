@@ -1,0 +1,118 @@
+{
+  "id": "psycho-1960",
+  "slug": "psycho-1960",
+  "title": "Psycho",
+  "year": 1960,
+  "type": "film",
+  "platform": "Theaters",
+  "genre": "Horror / Thriller",
+  "date": "2026-07-18",
+  "datePublished": "2026-07-18",
+  "author": "VirtueVigil Editorial Team",
+  "readTime": "8 min",
+  "poster": "/images/posters/psycho-1960.jpg",
+  "releaseDate": "1960-09-08",
+  "rating": "R (Graphic Violence, Mature Themes, Psychological Horror)",
+  "runtime": "109 min",
+  "director": "Alfred Hitchcock",
+  "writers": ["Joseph Stefano"],
+  "cast": [
+    {"name": "Anthony Perkins", "role": "Norman Bates"},
+    {"name": "Janet Leigh", "role": "Marion Crane"},
+    {"name": "Vera Miles", "role": "Lila Crane"},
+    {"name": "John Gavin", "role": "Sam Loomis"},
+    {"name": "Martin Balsam", "role": "Milton Arbogast"},
+    {"name": "John McIntire", "role": "Sheriff Al Chambers"},
+    {"name": "Simon Oakland", "role": "Dr. Richman"}
+  ],
+  "studio": "Shamley Productions",
+  "distributor": "Paramount Pictures",
+  "verdict": "TRADITIONAL",
+  "wokeScore": 0,
+  "tradScore": 12.04,
+  "authIndex": 100,
+  "scoreMargin": "+12 TRAD",
+  "preRelease": false,
+  "wokeTrap": false,
+  "woke_trap_assessment": {
+    "is_trap": false,
+    "explanation": "Psycho cannot be a woke trap because it contains zero woke content. The verdict is TRADITIONAL with a margin of +12. The film is a 1960 horror-thriller about crime, punishment, and psychological deviance told through a deeply traditional moral framework. There is no ideological payload, hidden or otherwise."
+  },
+  "externalScores": {
+    "imdb": 8.5,
+    "rottenTomatoesCritic": 96,
+    "rottenTomatoesAudience": 95,
+    "metacritic": 97
+  },
+  "creative_team": {
+    "director": {
+      "name": "Alfred Hitchcock",
+      "ideology": "TRADITIONAL. Hitchcock was a Catholic-raised British director whose entire body of work is steeped in themes of guilt, punishment, voyeurism, and moral consequence. Psycho is arguably his most morally direct film: Marion Crane steals money and is punished with death. Norman Bates violates the natural order and is destroyed by it. Hitchcock's moral universe is Old Testament in its clarity."
+    },
+    "writers": [
+      {
+        "name": "Joseph Stefano",
+        "ideology": "TRADITIONAL. Stefano's screenplay heightens the moral framework of Bloch's novel. He made Norman younger and more sympathetic, but the moral trajectory is unchanged: Marion's theft leads to her death, Norman's psychosis results from his original sin of matricide, and justice ultimately prevails."
+      }
+    ]
+  },
+  "parentalGuidance": {
+    "sexualContent": "MODERATE. The opening scene shows Marion and Sam in a hotel room after a lunchtime tryst (implied, not explicit). Norman's voyeurism (watching Marion undress through a peephole) is presented as disturbing, not titillating. The film's treatment of sexuality is inseparable from its moral framework: illicit sex is connected to guilt, danger, and death.",
+    "violence": "DEFINING. The shower murder is one of the most famous scenes in cinema history and remains genuinely shocking despite being relatively bloodless. Arbogast's death on the staircase is also intense. The violence is psychological more than graphic. Hitchcock understood that what the audience imagines is worse than what is shown.",
+    "language": "MILD. 1960 standards; no strong profanity.",
+    "substanceUse": "MILD. Social drinking depicted. No drug use.",
+    "matureThemes": "DEFINING. Murder, theft, voyeurism, split personality, matricide, implied necrophilia, institutionalization. This is a deeply adult film that confronts psychological horror and moral transgression directly. Not for children under any circumstances."
+  },
+  "summary": {
+    "overall": "Psycho is Alfred Hitchcock's most influential film and one of the few movies that genuinely changed what cinema was allowed to do. Made in 1960 on a television crew's budget in black and white, it shattered taboos about violence, sexuality, and psychological horror that had governed Hollywood for three decades. The plot is deceptively simple: Marion Crane (Janet Leigh) steals forty thousand dollars from her employer and flees Phoenix to reunite with her debt-ridden lover. A rainstorm forces her to stop at the Bates Motel, a lonely establishment overseen by a shy young man named Norman Bates (Anthony Perkins) and his unseen, domineering mother. By the end of the night, Marion is dead, stabbed in the shower by a shadowy figure. A private investigator arrives, then Marion's sister Lila (Vera Miles) and her lover Sam, and the truth of the Bates Motel is gradually, horrifyingly revealed. The VVWS scores Psycho at TRADITIONAL with zero woke content. This is a film governed by a moral framework so traditional it borders on Old Testament: Marion steals, and she is punished with death. Norman commits matricide, and his guilt literally consumes him, fracturing his psyche into two personalities locked in a permanent, hellish argument. There is no DEI calculus, no gender politics, no ideological subtext. The film is interested in guilt, punishment, voyeurism, and the wages of sin. It is a masterpiece of traditional storytelling: a crime committed, a punishment exacted, and a moral order restored, however uneasily, by the final frame.",
+    "adultInsight": "Psycho rewards adult viewers not with answers but with questions that linger for decades. Why does Hitchcock spend the first third of the film making us care about Marion Crane, only to kill her? Why is Norman Bates, a murderer and a monster, also the character we feel the most complicated sympathy for? The film makes us complicit in Norman's voyeurism (we watch Marion undress too), then punishes us for our complicity. The shower scene is not just a murder; it is a violation of the viewer's expectations, a declaration that no one is safe and the filmmaker is in complete control. Teenagers desensitized by modern gore may find Psycho more disturbing, not less, because Hitchcock forces the imagination to do the work.",
+    "parentalGuidance": "Absolutely not for children. The film earned its R rating retroactively and would be a hard R by modern standards despite its lack of gore. The shower scene, the staircase murder, the final revelation of Mother's corpse, and the climactic basement sequence are all genuinely frightening. The psychological content (split personality, implied necrophilia, voyeurism) is mature in ways a simple slasher film is not. Recommended only for mature teenagers (16+) with parental guidance."
+  },
+  "seo": {
+    "titleTag": "Is Psycho Woke? | VirtueVigil Review (1960 Hitchcock Classic)",
+    "metaDescription": "Is Hitchcock's Psycho woke? We score the 1960 masterpiece through the VVWS lens. TRADITIONAL verdict for cinema's most influential horror film. Pure moral clarity.",
+    "keywords": "psycho woke, psycho hitchcock review conservative, is psycho woke, psycho virtuevigil, psycho parents guide, psycho woke score, psycho 1960 review"
+  },
+  "tropeAudit": [
+    {
+      "id": "TRADITIONAL-039",
+      "name": "Objective Good vs. Evil",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 5.04,
+      "description": "Hitchcock draws a clear moral line. Marion's theft is understandable but still theft, and the film punishes her for it. Norman Bates is portrayed with sympathy but the film never suggests his actions are anything but evil. The psychiatrist's speech is a traditional moral verdict: Norman's crimes are the product of his original sin, and his punishment is permanent psychological damnation."
+    },
+    {
+      "id": "TRADITIONAL-035",
+      "name": "The Just Lawman",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.10,
+      "description": "Private investigator Milton Arbogast is a model of professional diligence. He methodically tracks Marion to the Bates Motel and uncovers inconsistencies in Norman's story through careful questioning. He is competent, calm, and brave. His death is tragic because he was thorough. Law enforcement is portrayed as a force for order and justice."
+    },
+    {
+      "id": "TRADITIONAL-030",
+      "name": "Biblical Morality",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.10,
+      "description": "The film's moral logic is Judeo-Christian through and through. Marion Crane sins (theft, adultery) and is struck down. Norman Bates commits the ultimate sin (murdering his mother) and is consumed by guilt so profound it destroys his identity. The wages of sin is death. Hitchcock builds a moral universe where transgression is always punished."
+    },
+    {
+      "id": "TRADITIONAL-047",
+      "name": "Justice Restored",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 2.80,
+      "description": "By the film's end, Norman Bates is in custody. Marion's body and the stolen money are recovered from the swamp. Lila and Sam survive to carry the truth forward. The moral order, shattered by Norman's violence, is restored. The final shot of Marion's car being pulled from the swamp is a visual metaphor for justice: what was hidden is brought to light."
+    }
+  ]
+}
