@@ -2139,6 +2139,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-movies-about-masculinity/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/every-dc-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/every-spider-man-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -3230,6 +3231,7 @@ function buildListsHubPage() {
         'canceled-movies-reviewed',
         'dc-movies-woke-ranking',
         'every-dc-movie-ranked-woke-score',
+        'every-spider-man-movie-ranked-woke-score',
         'highest-traditional-scores-all-time',
         'highest-woke-scores-all-time',
         'hollywood-anti-american-movies',
@@ -3302,6 +3304,7 @@ function buildListsHubPage() {
       'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
+      'every-spider-man-movie-ranked-woke-score': 'Every Spider-Man Movie Ranked by Woke Score (2026)',
       'most-woke-movies-2024-complete': 'Most Woke Movies of 2024 (Complete)',
       'conservative-sci-fi-movies-2024-2025': 'Conservative Sci-Fi Movies 2024\u20132025',
       'wokest-streaming-movies-2025-2026': 'Wokest Streaming Movies 2025\u20132026',
@@ -7862,6 +7865,15 @@ function build() {
     canonicalPath: 'lists/every-dc-movie-ranked-woke-score',
     publishDate: '2026-07-18',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-dc-movie-ranked-woke-score/content.html'), 'utf-8')
+  }));
+
+  writePage('lists/every-spider-man-movie-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'every-spider-man-movie-ranked-woke-score',
+    title: 'Every Spider-Man Movie Ranked by Woke Score (2026)',
+    description: 'All 10 Spider-Man and Sony Spider-Verse films ranked by VirtueVigil from most traditional (No Way Home) to most woke (Madame Web). Full scores, margins, and verdicts through 2026.',
+    canonicalPath: 'lists/every-spider-man-movie-ranked-woke-score',
+    publishDate: '2026-07-19',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-spider-man-movie-ranked-woke-score/content.html'), 'utf-8')
   }));
 
   writePage('lists/dc-movies-woke-ranking/index.html', buildListiclePage({
