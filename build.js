@@ -2130,6 +2130,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/spy-espionage-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/fantasy-movies-woke-ranking-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026-midyear/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-of-2026-so-far/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/vigilante-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -3384,6 +3385,7 @@ function buildListsHubPage() {
       'spy-espionage-movies-woke-ranking': 'Every Spy & Espionage Movie Ranked by Woke Score',
       'fantasy-movies-woke-ranking-all-time': 'Every Fantasy Movie Ranked by Woke Score (All Time)',
       'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)',
+      'most-woke-movies-of-2026-so-far': 'The 20 Most Woke Movies of 2026 (So Far)',
       'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About',
       'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
       'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)',
@@ -34902,6 +34904,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-movies-2026-midyear',
     publishDate: '2026-06-23',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-2026-midyear/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-movies-of-2026-so-far/index.html');
+  writePage('lists/most-woke-movies-of-2026-so-far/index.html', buildListiclePage({
+    slug: 'most-woke-movies-of-2026-so-far',
+    title: 'The 20 Most Woke Movies of 2026 (So Far), Ranked by VirtueVigil',
+    description: 'From The Moment to Butterfly Dreams, we ranked the 20 most ideologically aggressive films and shows of 2026. Every score backed by VirtueVigil\'s dual-metric methodology. Ranked most woke to least woke.',
+    canonicalPath: 'lists/most-woke-movies-of-2026-so-far',
+    publishDate: '2026-07-20',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-of-2026-so-far/content.html'), 'utf-8')
   }));
 
   console.log('  lists/vigilante-movies-woke-ranking/index.html');

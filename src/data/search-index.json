@@ -1,5 +1,29 @@
 [
   {
+    "slug": "the-kidnapping-of-arabella-2025",
+    "title": "The Kidnapping of Arabella",
+    "verdict": "MIXED",
+    "platform": "Theaters",
+    "genre": "Italian Drama / Absurdist Comedy",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 4.22,
+    "tradScore": 5.04,
+    "poster": "/images/posters/the-kidnapping-of-arabella-2025.jpg"
+  },
+  {
+    "slug": "yellowstone-season-1-2018",
+    "title": "Yellowstone: Season 1",
+    "verdict": "TRADITIONAL",
+    "platform": "Paramount Network",
+    "genre": "Neo-Western Drama",
+    "year": 2018,
+    "type": "series",
+    "wokeScore": 4.2,
+    "tradScore": 23.38,
+    "poster": "/images/posters/yellowstone-season-1-2018.jpg"
+  },
+  {
     "slug": "ride-or-die-s1-2026",
     "title": "Ride or Die: Season 1",
     "verdict": "WOKE LEAN",
@@ -10,6 +34,30 @@
     "wokeScore": 10.36,
     "tradScore": 5.88,
     "poster": "/images/posters/ride-or-die-s1-2026.jpg"
+  },
+  {
+    "slug": "psycho-1960",
+    "title": "Psycho",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Horror / Thriller",
+    "year": 1960,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 12.04,
+    "poster": "/images/posters/psycho-1960.jpg"
+  },
+  {
+    "slug": "one-flew-over-the-cuckoos-nest-1975",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Psychological Drama",
+    "year": 1975,
+    "type": "film",
+    "wokeScore": 3.78,
+    "tradScore": 22.68,
+    "poster": "/images/posters/one-flew-over-the-cuckoos-nest-1975.jpg"
   },
   {
     "slug": "lucky-2026",
