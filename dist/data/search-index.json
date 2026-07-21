@@ -24,6 +24,18 @@
     "poster": "/images/posters/king-of-the-hill-season-15-2026.jpg"
   },
   {
+    "slug": "splash-city-2026",
+    "title": "Splash City",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Crime / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.75,
+    "tradScore": 11.3,
+    "poster": "/images/posters/splash-city-2026.jpg"
+  },
+  {
     "slug": "the-kidnapping-of-arabella-2025",
     "title": "The Kidnapping of Arabella",
     "verdict": "MIXED",

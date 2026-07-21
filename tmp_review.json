@@ -1,0 +1,152 @@
+{
+  "id": "splash-city-2026",
+  "slug": "splash-city-2026",
+  "title": "Splash City",
+  "year": 2026,
+  "type": "film",
+  "platform": "Theaters",
+  "genre": "Crime / Drama",
+  "date": "2026-07-21",
+  "datePublished": "2026-07-21",
+  "author": "VirtueVigil Editorial Team",
+  "readTime": "4 min",
+  "poster": "/images/posters/splash-city-2026.jpg",
+  "releaseDate": "2026-07-20",
+  "rating": "R (Violence, Language, Drug Content, Mature Themes)",
+  "runtime": "93 min",
+  "director": "Berner, Alex Ferrufino",
+  "writers": [
+    "Berner",
+    "Alex Ferrufino"
+  ],
+  "cast": [
+    {
+      "name": "Christopher Ammanuel",
+      "role": "Lead"
+    },
+    {
+      "name": "Reed Lorenzo Shannon",
+      "role": "Lead"
+    },
+    {
+      "name": "Vivian Lamolli",
+      "role": "Supporting"
+    },
+    {
+      "name": "T.J. Atoms",
+      "role": "Supporting"
+    }
+  ],
+  "studio": "Independent",
+  "distributor": "Independent",
+  "verdict": "TRADITIONAL",
+  "wokeScore": 1.75,
+  "tradScore": 11.3,
+  "authIndex": 87,
+  "scoreMargin": "+10 TRADITIONAL",
+  "preRelease": false,
+  "wokeTrap": false,
+  "woke_trap_assessment": {
+    "is_trap": false,
+    "explanation": "Splash City is not a woke trap. It is a straightforward independent crime drama set in the Bay Area that wears its genre identity openly. There is no hidden ideological payload past any runtime threshold. The film's concerns, family loyalty, personal resolve, the pull of the streets against the push toward honest work, are exactly what the premise advertises."
+  },
+  "externalScores": {
+    "rottenTomatoesCritic": 100,
+    "rottenTomatoesAudience": null
+  },
+  "creative_team": {
+    "director": {
+      "name": "Berner",
+      "ideology": "MODERATE. Berner (Gilbert Milam Jr.) is a Bay Area rapper, cannabis entrepreneur, and now filmmaker whose public persona is built on hustle and authenticity rather than political positioning. His creative work reflects intimate knowledge of Bay Area street culture without evident ideological framing. Splash City is his directorial debut."
+    },
+    "writers": [
+      {
+        "name": "Berner",
+        "ideology": "MODERATE. Berner writes from lived experience in the Bay Area. His storytelling draws from community knowledge rather than political grievance. No evidence of ideological filmmaking in his body of work."
+      },
+      {
+        "name": "Alex Ferrufino",
+        "ideology": "MODERATE. Co-director and co-writer with Berner. No public ideological profile. The creative partnership suggests shared commitment to authentic Bay Area storytelling."
+      }
+    ]
+  },
+  "parentalGuidance": {
+    "sexualContent": "MILD. The film's focus is on brotherhood and survival in a crime-adjacent environment. Romantic elements, if present, are not foregrounded.",
+    "violence": "MODERATE. Crime drama conventions include physical confrontations, the threat of street violence, and the ambient danger of the criminal underworld. Rated R for violence consistent with the genre.",
+    "language": "HIGH. R-rated crime drama set in the Bay Area streets. Strong language throughout consistent with the setting and genre.",
+    "substanceUse": "MODERATE. Berner's cannabis-industry background and the Bay Area setting make drug references and use likely. The R rating reflects adult content. Not glamorized but present as an element of street life.",
+    "matureThemes": "MODERATE. Family loyalty, criminal temptation, the struggle to escape difficult circumstances, brotherhood tested by diverging life paths. Adult themes handled with the seriousness the premise demands."
+  },
+  "summary": {
+    "overall": "Splash City is a small, scrappy independent crime drama from the Bay Area that knows exactly what it wants to be. That is rarer than it sounds, and it is worth more than most things a film can be. Berner (Gilbert Milam Jr.), the Bay Area rapper and cannabis entrepreneur, makes his directorial debut alongside co-director Alex Ferrufino, and the result is a film that does not reach for anything it cannot grab. It is a story about two brothers on diverging paths, one trying to go straight, the other pulled deeper into street life, set against an authentically rendered Bay Area backdrop. The filmmakers clearly know this world, and that intimacy gives Splash City a texture that no amount of production budget can manufacture.\n\nThe film lands at TRADITIONAL on the VVWS because its ideological architecture is fundamentally conservative in the apolitical sense of the word. The central question, whether personal resolve is enough to escape your circumstances, is a question about individual agency, and the film treats it with the seriousness it deserves. The brother attempting to leave street life behind represents the dignity of honest labor and the belief that hard work can reshape a life. The brother who cannot escape represents the tragic counterweight: the recognition that personal choice operates within constraints, but those constraints do not nullify the choice. That is a morally serious framework, and the film earns it.\n\nThe Bay Area setting is not deployed as a political argument. It is simply the place these characters live, and the filmmakers treat it with the specificity that only comes from knowing a place intimately. There is no lecture about systemic injustice, no sociology dressed as drama. The film trusts its audience to understand that growing up in a tough environment makes things harder without needing to be told that this is the environment's fault and not the individual's responsibility. That trust is the mark of filmmakers who respect their audience.",
+    "adultInsight": "Splash City is instructive as an example of what independent filmmaking can do when it is not chasing festival-circuit respectability or streaming-platform algorithmic placement. Berner and Ferrufino are making a movie for their community, and that orientation produces something different from the coastal independent cinema that dominates the conversation. The film's treatment of criminality is worth noting: it does not glamorize the street life, but it also does not reduce it to a sociological abstraction. The brother who stays in the life is not a villain, and the brother who leaves is not a hero. They are two people making different choices from the same starting position, and the film is interested in what those choices cost them. That is character-driven storytelling in the oldest tradition, and it is more ideologically honest than most films with ten times the budget.",
+    "parentalGuidance": "Rated R for violence, language, drug content, and mature themes. The Bay Area street setting means strong language and adult situations are present throughout. The film deals seriously with criminal temptation, family bonds under pressure, and the consequences of life choices. Suitable for mature teens and adults. Not for young viewers."
+  },
+  "seo": {
+    "titleTag": "Is Splash City Woke? | VirtueVigil Review (2026 Berner Crime Drama)",
+    "metaDescription": "Is Berner's Bay Area crime drama Splash City woke? We score the 2026 independent film on family loyalty, rugged individualism, and honest work. TRADITIONAL +10.",
+    "keywords": "splash city 2026 review, splash city berner woke, splash city virtuevigil, is splash city woke, berner film review, bay area crime drama 2026"
+  },
+  "tropeAudit": [
+    {
+      "id": "TRADITIONAL-037",
+      "name": "Small-Town Integrity",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 2.52,
+      "description": "The Bay Area community setting is rendered with authentic specificity by filmmakers who know it intimately. The film explores how local bonds, neighborhood identity, and community ties shape the brothers' lives and decisions. This is not a generic urban backdrop but a lived-in place whose gravitational pull on its characters is central to the story. The authenticity is High because the filmmakers' knowledge of the setting is firsthand, not researched."
+    },
+    {
+      "id": "TRADITIONAL-028",
+      "name": "The Rugged Individualist",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "High",
+      "centrality": "High",
+      "weightedScore": 3.78,
+      "description": "The central dramatic question of Splash City is whether personal resolve can overcome circumstances. This is the individualist framing at its core: the belief that a person's character and choices, not their environment, determine their destiny. The brother attempting to leave street life embodies this value, and the film treats his struggle as morally significant rather than naive. The question is asked seriously, and the answer, whatever it is, is earned through character-driven storytelling, not ideological prescription."
+    },
+    {
+      "id": "TRADITIONAL-041",
+      "name": "Industry and Perseverance",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "High",
+      "weightedScore": 3.6,
+      "description": "One brother's attempt to go straight requires sustained effort, hard work, and the daily discipline of resisting the pull of the streets. This is not a single dramatic choice but an ongoing commitment that must be renewed every day. The film presents honest labor as dignified and difficult, a counterweight to the quick-money temptation of criminal life. The perseverance narrative is central to the film's moral architecture."
+    },
+    {
+      "id": "TRADITIONAL-044",
+      "name": "The Honest Worker",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "The brother trying to leave street life represents the dignity of honest labor. His journey is not glamorous, but it is presented as the right path, the harder path, and the path worth taking. The film does not mock or undermine his choice to work honestly. In a genre that often defaults to antihero glamorization, this quiet affirmation of ordinary decency is a meaningful traditional signal."
+    },
+    {
+      "id": "WOKE-019",
+      "name": "The Redeemed Criminal (Systemic Framing)",
+      "category": "Woke",
+      "severity": 2,
+      "authenticity": "High",
+      "centrality": "Moderate",
+      "weightedScore": 1.4,
+      "description": "As a crime drama about brothers navigating street life, the film necessarily engages with criminality as a response to environmental pressures. The Bay Area setting and the divergent paths of the brothers may frame criminal behavior partly as a product of systemic conditions rather than purely individual moral failing. However, this is organic to the crime drama genre, not an imposed ideological framework. The authenticity is High because the framing arises from the characters' world, not from an external political agenda. The centrality is Moderate because the film's focus remains on the brothers' individual choices, not on systemic critique."
+    },
+    {
+      "id": "WOKE-001",
+      "name": "Ambient Diversity Signaling",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "High",
+      "centrality": "Low",
+      "weightedScore": 0.35,
+      "description": "As a Bay Area-set independent film with a diverse cast, there may be ambient diversity signaling in casting choices. However, this is authentic to the setting. The Bay Area is demographically diverse, and casting that reflects this reality is representational rather than ideological. The centrality is Low because the film's themes and conflicts are not organized around identity categories."
+    }
+  ]
+}
