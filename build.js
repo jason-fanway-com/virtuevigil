@@ -2267,6 +2267,8 @@ function buildRedirects() {
 # Old / yearless review slugs -> current year-suffixed slug
 /reviews/normal-2025/                                        /reviews/normal-2026/                    301
 /reviews/the-godfather-part-ii-1974/                         /reviews/the-godfather-part-2-1974/      301
+/reviews/devil-wears-prada-2-2026/                           /reviews/the-devil-wears-prada-2-2026/   301
+/reviews/they-will-kill-you/                                 /reviews/they-will-kill-you-2026/        301
 /reviews/king-of-kings-2025/                                 /reviews/the-king-of-kings-2025/         301
 /reviews/spider-man-across-the-spider-verse/                 /reviews/spider-man-across-the-spider-verse-2023/ 301
 /reviews/spider-man-no-way-home/                             /reviews/spider-man-no-way-home-2021/    301

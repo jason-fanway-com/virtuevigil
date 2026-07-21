@@ -3173,18 +3173,6 @@
     "poster": "/images/posters/apex-2026.jpg"
   },
   {
-    "slug": "devil-wears-prada-2-2026",
-    "title": "The Devil Wears Prada 2",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Comedy / Drama / Fashion",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 18.9,
-    "tradScore": 19.6,
-    "poster": "/images/posters/devil-wears-prada-2-2026.jpg"
-  },
-  {
     "slug": "animal-farm-2026",
     "title": "Animal Farm",
     "verdict": "PREDICTED: TRADITIONAL",
@@ -3338,18 +3326,6 @@
     "wokeScore": 2,
     "tradScore": 24.08,
     "poster": "/images/posters/the-mummy-2026.jpg"
-  },
-  {
-    "slug": "they-will-kill-you",
-    "title": "They Will Kill You",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical (Warner Bros. / New Line Cinema)",
-    "genre": "Action / Comedy / Horror",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 7.7,
-    "tradScore": 23.9,
-    "poster": "/images/posters/they-will-kill-you.jpg"
   },
   {
     "slug": "five-nights-at-freddys-2-2025",
