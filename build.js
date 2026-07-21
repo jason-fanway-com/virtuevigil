@@ -158,6 +158,16 @@ function normalizeVerdict(v) {
     } else if (!VALID_VERDICTS.has(nv)) {
       problems.push(`INVALID VERDICT "${r.verdict}" on ${r.slug} (must be one of: ${[...VALID_VERDICTS].join(', ')})`);
     }
+    // Content-completeness (non-fatal): required summary sections and the
+    // PREDICTED prefix rule for pre-release reviews. Warn-only for now because
+    // the existing corpus has legacy gaps; escalate to fatal once backfilled.
+    const sm = r.summary || {};
+    if (!String(sm.overall || '').trim()) problems.push(`MISSING SUMMARY.OVERALL: ${r.slug}`);
+    if (!String(sm.adultInsight || '').trim()) problems.push(`MISSING SUMMARY.ADULTINSIGHT: ${r.slug}`);
+    if (!String(sm.parentalGuidance || '').trim()) problems.push(`MISSING SUMMARY.PARENTALGUIDANCE: ${r.slug}`);
+    if (r.preRelease === true && !/^PREDICTED:\s/i.test(String(r.verdict || ''))) {
+      problems.push(`PRERELEASE WITHOUT PREDICTED PREFIX: ${r.slug} (verdict "${r.verdict}")`);
+    }
   }
   if (problems.length > 0) {
     console.error(`\n*** REVIEW INTEGRITY ISSUES (${problems.length}) -- inputCount=${inputCount} ***`);
@@ -2256,6 +2266,7 @@ function buildRedirects() {
 
 # Old / yearless review slugs -> current year-suffixed slug
 /reviews/normal-2025/                                        /reviews/normal-2026/                    301
+/reviews/the-godfather-part-ii-1974/                         /reviews/the-godfather-part-2-1974/      301
 /reviews/king-of-kings-2025/                                 /reviews/the-king-of-kings-2025/         301
 /reviews/spider-man-across-the-spider-verse/                 /reviews/spider-man-across-the-spider-verse-2023/ 301
 /reviews/spider-man-no-way-home/                             /reviews/spider-man-no-way-home-2021/    301

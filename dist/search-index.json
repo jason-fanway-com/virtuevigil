@@ -326,7 +326,7 @@
   {
     "slug": "the-isolate-thief-2026",
     "title": "The Isolate Thief",
-    "verdict": "TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL",
     "platform": "Theatrical (Limited)",
     "genre": "Western / Action / Thriller",
     "year": 2026,
@@ -418,18 +418,6 @@
     "wokeScore": 17.2,
     "tradScore": 3.15,
     "poster": "/images/posters/the-invite-2026.jpg"
-  },
-  {
-    "slug": "the-godfather-part-ii-1974",
-    "title": "The Godfather Part II",
-    "verdict": "TRADITIONAL",
-    "platform": "Streaming / Home Video",
-    "genre": "Crime / Drama",
-    "year": 1974,
-    "type": "film",
-    "wokeScore": 1.05,
-    "tradScore": 19.18,
-    "poster": "/images/posters/the-godfather-part-ii-1974.jpg"
   },
   {
     "slug": "young-washington-2026",
