@@ -216,18 +216,6 @@
     "poster": "/images/posters/breaking-bad-s1-2008.jpg"
   },
   {
-    "slug": "the-silence-of-the-lambs-1991",
-    "title": "The Silence of the Lambs",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Psychological Thriller / Horror / Crime",
-    "year": 1991,
-    "type": "movie",
-    "wokeScore": 2.52,
-    "tradScore": 19.04,
-    "poster": "/images/posters/the-silence-of-the-lambs-1991.jpg"
-  },
-  {
     "slug": "the-thing-1982",
     "title": "The Thing",
     "verdict": "STRONGLY TRADITIONAL",
@@ -1416,18 +1404,6 @@
     "poster": "/images/posters/cobra-kai-2018.jpg"
   },
   {
-    "slug": "daredevil-born-again-s1-2025",
-    "title": "Daredevil: Born Again",
-    "verdict": "TRADITIONAL",
-    "platform": "Disney+",
-    "genre": "Action / Crime / Drama / Superhero",
-    "year": 2025,
-    "type": "series",
-    "wokeScore": 5.8,
-    "tradScore": 18.48,
-    "poster": "/images/posters/daredevil-born-again-s1-2025.jpg"
-  },
-  {
     "slug": "stranger-things-s5-2025",
     "title": "Stranger Things Season 5",
     "verdict": "TRADITIONAL LEAN",
@@ -2016,18 +1992,6 @@
     "poster": "/images/posters/hurt-locker-2008.jpg"
   },
   {
-    "slug": "white-lotus-s3-2025",
-    "title": "The White Lotus: Season 3",
-    "verdict": "WOKE LEAN",
-    "platform": "Max (HBO)",
-    "genre": "Drama / Dark Comedy / Satire",
-    "year": 2025,
-    "type": "series",
-    "wokeScore": 14.52,
-    "tradScore": 5.5,
-    "poster": "/images/posters/white-lotus-s3-2025.jpg"
-  },
-  {
     "slug": "the-pitt-2025",
     "title": "The Pitt",
     "verdict": "TRADITIONAL",
@@ -2376,18 +2340,6 @@
     "poster": "/images/posters/back-to-the-future-1985.jpg"
   },
   {
-    "slug": "lord-of-the-rings-fellowship-2001",
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Adventure / Fantasy / Drama",
-    "year": 2001,
-    "type": "film",
-    "wokeScore": 1,
-    "tradScore": 25.9,
-    "poster": "/images/posters/lotr-fellowship-2001.jpg"
-  },
-  {
     "slug": "extraction-2-2023",
     "title": "Extraction 2",
     "verdict": "TRADITIONAL",
@@ -2652,18 +2604,6 @@
     "poster": "/images/posters/jackass-best-and-last-2026.jpg"
   },
   {
-    "slug": "death-of-robin-hood-2026",
-    "title": "The Death of Robin Hood",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Historical Drama / Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 6.18,
-    "tradScore": 12.18,
-    "poster": "/images/posters/death-of-robin-hood-2026.jpg"
-  },
-  {
     "slug": "minions-and-monsters-2026",
     "title": "Minions & Monsters",
     "verdict": "TRADITIONAL LEAN",
@@ -2808,18 +2748,6 @@
     "poster": "/images/posters/good-luck-have-fun-2026.jpg"
   },
   {
-    "slug": "mission-impossible-final-2025",
-    "title": "Mission: Impossible - The Final Reckoning",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Action Thriller Spy",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 5.6,
-    "tradScore": 21.4,
-    "poster": "/images/posters/mission-impossible-final-2025.jpg"
-  },
-  {
     "slug": "over-your-dead-body-2026",
     "title": "Over Your Dead Body",
     "verdict": "MIXED",
@@ -2854,18 +2782,6 @@
     "wokeScore": 7.68,
     "tradScore": 14.84,
     "poster": "/images/posters/gladiator-ii-2024.jpg"
-  },
-  {
-    "slug": "godzilla-x-kong-new-empire-2024",
-    "title": "Godzilla x Kong: The New Empire",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Action/Adventure/Sci-Fi",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 9.44,
-    "tradScore": 10.08,
-    "poster": "/images/posters/godzilla-x-kong-new-empire-2024.jpg"
   },
   {
     "slug": "a-different-man-2024",
@@ -3124,18 +3040,6 @@
     "wokeScore": 1.4,
     "tradScore": 22.1,
     "poster": "/images/posters/i-swear-2026.jpg"
-  },
-  {
-    "slug": "you-me-tuscany-2026",
-    "title": "You, Me & Tuscany",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Romantic Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 4.6,
-    "tradScore": 21.98,
-    "poster": "/images/posters/you-me-tuscany-2026.jpg"
   },
   {
     "slug": "hamlet-2026",
@@ -3520,18 +3424,6 @@
     "poster": "/images/posters/they-will-kill-you-2026.jpg"
   },
   {
-    "slug": "ready-or-not-2-2026",
-    "title": "Ready or Not 2: Here I Come",
-    "verdict": "WOKE",
-    "platform": "Theatrical",
-    "genre": "Horror / Dark Comedy / Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 21.42,
-    "tradScore": 8.82,
-    "poster": "/images/posters/ready-or-not-2-2026.jpg"
-  },
-  {
     "slug": "mother-mary-2026",
     "title": "Mother Mary",
     "verdict": "PREDICTED: WOKE",
@@ -3710,18 +3602,6 @@
     "wokeScore": 6.55,
     "tradScore": 23.1,
     "poster": "/images/posters/the-super-mario-galaxy-movie-2026.jpg"
-  },
-  {
-    "slug": "mission-impossible-the-final-reckoning-2025",
-    "title": "Mission: Impossible - The Final Reckoning",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical (Paramount Pictures)",
-    "genre": "Action / Spy Thriller",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 3.15,
-    "tradScore": 21.2,
-    "poster": "/images/posters/mission-impossible-final-reckoning-2025.jpg"
   },
   {
     "slug": "daredevil-born-again-s2-2026",
@@ -4224,30 +4104,6 @@
     "poster": "/images/posters/thanksgiving-2023.jpg"
   },
   {
-    "slug": "sonic-3-2024",
-    "title": "Sonic the Hedgehog 3",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Action Comedy Adventure Video Game Adaptation",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 5.2,
-    "tradScore": 11.8,
-    "poster": "/images/posters/sonic-3-2024.jpg"
-  },
-  {
-    "slug": "mufasa-lion-king-2024",
-    "title": "Mufasa: The Lion King",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Animated Drama Adventure",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 6.8,
-    "tradScore": 16.4,
-    "poster": "/images/posters/mufasa-lion-king-2024.jpg"
-  },
-  {
     "slug": "the-iron-claw-2023",
     "title": "The Iron Claw",
     "verdict": "MIXED",
@@ -4342,18 +4198,6 @@
     "wokeScore": 0.7,
     "tradScore": 14.65,
     "poster": "/images/posters/john-wick-2014.jpg"
-  },
-  {
-    "slug": "the-avengers-2012",
-    "title": "The Avengers",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Action / Superhero / Science Fiction",
-    "year": 2012,
-    "type": "film",
-    "wokeScore": 4.5,
-    "tradScore": 16.4,
-    "poster": "/images/posters/the-avengers-2012.jpg"
   },
   {
     "slug": "fight-club-1999",
@@ -5134,18 +4978,6 @@
     "wokeScore": 3.5,
     "tradScore": 19.74,
     "poster": "/images/posters/braveheart-1995.jpg"
-  },
-  {
-    "slug": "shawshank-redemption-1994",
-    "title": "The Shawshank Redemption",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical (Columbia Pictures / Castle Rock Entertainment)",
-    "genre": "Drama",
-    "year": 1994,
-    "type": "film",
-    "wokeScore": 6.3,
-    "tradScore": 15.4,
-    "poster": "/images/posters/shawshank-redemption-1994.jpg"
   },
   {
     "slug": "jurassic-park-1993",
@@ -7632,18 +7464,6 @@
     "poster": "/images/posters/death-of-a-unicorn-2025.jpg"
   },
   {
-    "slug": "scream-7",
-    "title": "Scream 7",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Horror",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 9.5,
-    "tradScore": 18.34,
-    "poster": "/images/posters/scream-7.jpg"
-  },
-  {
     "slug": "scream-7-2026",
     "title": "Scream 7",
     "verdict": "TRADITIONAL LEAN",
@@ -8459,18 +8279,6 @@
     "poster": "/images/posters/scarpetta.jpg"
   },
   {
-    "slug": "the-night-agent-s3",
-    "title": "The Night Agent - Season 3",
-    "verdict": "TRADITIONAL",
-    "platform": "Netflix",
-    "genre": "Action",
-    "year": 2026,
-    "type": "series",
-    "wokeScore": 7,
-    "tradScore": 25,
-    "poster": "/images/posters/the-night-agent-s3.jpg"
-  },
-  {
     "slug": "psycho-killer",
     "title": "Psycho Killer",
     "verdict": "STRONGLY TRADITIONAL",
@@ -8577,18 +8385,6 @@
     "wokeScore": 41,
     "tradScore": 14,
     "poster": "/images/posters/heretic-2024.jpg"
-  },
-  {
-    "slug": "good-luck-have-fun-dont-die",
-    "title": "Good Luck, Have Fun, Don't Die",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Action",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 5,
-    "tradScore": 21,
-    "poster": "/images/posters/good-luck-have-fun-dont-die.jpg"
   },
   {
     "slug": "poor-things-2023",
@@ -8699,18 +8495,6 @@
     "poster": "/images/posters/tar-2022.jpg"
   },
   {
-    "slug": "captain-america-brave-new-world",
-    "title": "Captain America: Brave New World",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Action, Superhero",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 8,
-    "tradScore": 5,
-    "poster": "/images/posters/captain-america-brave-new-world.jpg"
-  },
-  {
     "slug": "snow-white-2025",
     "title": "Snow White",
     "verdict": "WOKE LEAN",
@@ -8771,42 +8555,6 @@
     "poster": "/images/posters/yellowjackets.jpg"
   },
   {
-    "slug": "a-minecraft-movie",
-    "title": "A Minecraft Movie",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Comedy",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 5,
-    "tradScore": 4,
-    "poster": "/images/posters/a-minecraft-movie.jpg"
-  },
-  {
-    "slug": "thunderbolts",
-    "title": "Thunderbolts*",
-    "verdict": "MIXED",
-    "platform": "Theatrical",
-    "genre": "Action",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 7,
-    "tradScore": 5,
-    "poster": "/images/posters/thunderbolts.jpg"
-  },
-  {
-    "slug": "blue-moon",
-    "title": "Blue Moon",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Sony Pictures Classics",
-    "genre": "Drama",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 13.25,
-    "tradScore": 18,
-    "poster": "/images/posters/blue-moon.jpg"
-  },
-  {
     "slug": "eternity",
     "title": "Eternity",
     "verdict": "MIXED",
@@ -8817,18 +8565,6 @@
     "wokeScore": 3,
     "tradScore": 5,
     "poster": "/images/posters/eternity.jpg"
-  },
-  {
-    "slug": "solo-mio",
-    "title": "Solo Mio",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Angel Studios",
-    "genre": "Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 1,
-    "tradScore": 9,
-    "poster": "/images/posters/solo-mio.jpg"
   },
   {
     "slug": "i-can-only-imagine-2",

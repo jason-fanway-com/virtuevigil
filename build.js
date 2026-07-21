@@ -146,10 +146,16 @@ function normalizeVerdict(v) {
   const inputCount = reviews.length;
   const problems = [];
   const seenSlugs = new Set();
+  const seenTitleYear = new Map();
   for (const r of reviews) {
     if (!r.slug) { problems.push(`MISSING SLUG on review id=${r.id || '(no id)'} title=${r.title || '(no title)'}`); continue; }
     if (seenSlugs.has(r.slug)) problems.push(`DUPLICATE SLUG: ${r.slug}`);
     seenSlugs.add(r.slug);
+    // One review per title+year. Duplicate reviews of the same film fragment
+    // rankings and have shipped contradictory verdicts (2026-07-21 sweep).
+    const tyKey = String(r.title || '').toLowerCase().replace(/^the\s+/, '').replace(/[^a-z0-9]/g, '') + '|' + r.year;
+    if (seenTitleYear.has(tyKey)) problems.push(`DUPLICATE TITLE+YEAR: ${r.slug} duplicates ${seenTitleYear.get(tyKey)}`);
+    else seenTitleYear.set(tyKey, r.slug);
     if (!r.title) problems.push(`MISSING TITLE: ${r.slug}`);
     if (!r.date) problems.push(`MISSING DATE: ${r.slug}`);
     const nv = normalizeVerdict(r.verdict);
@@ -172,7 +178,7 @@ function normalizeVerdict(v) {
   if (problems.length > 0) {
     console.error(`\n*** REVIEW INTEGRITY ISSUES (${problems.length}) -- inputCount=${inputCount} ***`);
     problems.forEach(p => console.error(`  ${p}`));
-    const fatal = problems.filter(p => p.startsWith('INVALID VERDICT') || p.startsWith('MISSING SLUG') || p.startsWith('DUPLICATE SLUG'));
+    const fatal = problems.filter(p => p.startsWith('INVALID VERDICT') || p.startsWith('MISSING SLUG') || p.startsWith('DUPLICATE SLUG') || p.startsWith('DUPLICATE TITLE+YEAR'));
     if (fatal.length > 0) {
       console.error(`\nBUILD ABORTED: ${fatal.length} fatal integrity error(s). Fix src/data/reviews.json. No reviews are silently dropped.`);
       process.exit(1);
@@ -2269,6 +2275,28 @@ function buildRedirects() {
 /reviews/the-godfather-part-ii-1974/                         /reviews/the-godfather-part-2-1974/      301
 /reviews/devil-wears-prada-2-2026/                           /reviews/the-devil-wears-prada-2-2026/   301
 /reviews/they-will-kill-you/                                 /reviews/they-will-kill-you-2026/        301
+/reviews/you-me-tuscany-2026/                                /reviews/you-me-and-tuscany-2026/        301
+/reviews/ready-or-not-2-2026/                                /reviews/ready-or-not-2-here-i-come-2026/301
+/reviews/mission-impossible-the-final-reckoning-2025/        /reviews/mission-impossible-final-reckoning-2025/301
+/reviews/mission-impossible-final-2025/                      /reviews/mission-impossible-final-reckoning-2025/301
+/reviews/the-avengers-2012/                                  /reviews/avengers-2012/                  301
+/reviews/sonic-3-2024/                                       /reviews/sonic-the-hedgehog-3-2024/      301
+/reviews/mufasa-lion-king-2024/                              /reviews/mufasa-2024/                    301
+/reviews/white-lotus-s3-2025/                                /reviews/the-white-lotus-season-3-2025/  301
+/reviews/a-minecraft-movie/                                  /reviews/a-minecraft-movie-2025/         301
+/reviews/shawshank-redemption-1994/                          /reviews/the-shawshank-redemption-1994/  301
+/reviews/thunderbolts/                                       /reviews/thunderbolts-2025/              301
+/reviews/blue-moon/                                          /reviews/blue-moon-2025/                 301
+/reviews/the-night-agent-s3/                                 /reviews/night-agent-s3-2026/            301
+/reviews/godzilla-x-kong-new-empire-2024/                    /reviews/godzilla-x-kong-the-new-empire-2024/301
+/reviews/captain-america-brave-new-world/                    /reviews/captain-america-brave-new-world-2025/301
+/reviews/solo-mio/                                           /reviews/solo-mio-2026/                  301
+/reviews/scream-7/                                           /reviews/scream-7-2026/                  301
+/reviews/good-luck-have-fun-dont-die/                        /reviews/good-luck-have-fun-2026/        301
+/reviews/death-of-robin-hood-2026/                           /reviews/the-death-of-robin-hood-2026/   301
+/reviews/lord-of-the-rings-fellowship-2001/                  /reviews/the-lord-of-the-rings-the-fellowship-of-the-ring-2001/301
+/reviews/the-silence-of-the-lambs-1991/                      /reviews/silence-of-the-lambs-1991/      301
+/reviews/daredevil-born-again-s1-2025/                       /reviews/daredevil-born-again-2025/      301
 /reviews/king-of-kings-2025/                                 /reviews/the-king-of-kings-2025/         301
 /reviews/spider-man-across-the-spider-verse/                 /reviews/spider-man-across-the-spider-verse-2023/ 301
 /reviews/spider-man-no-way-home/                             /reviews/spider-man-no-way-home-2021/    301
