@@ -24,6 +24,18 @@
     "poster": "/images/posters/the-terminator-1984.jpg"
   },
   {
+    "slug": "casino-1995",
+    "title": "Casino",
+    "verdict": "TRADITIONAL",
+    "platform": "VOD / Physical",
+    "genre": "Crime, Drama",
+    "year": 1995,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 12.74,
+    "poster": "/images/posters/casino-1995.jpg"
+  },
+  {
     "slug": "the-bourne-identity-2002",
     "title": "The Bourne Identity",
     "verdict": "TRADITIONAL LEAN",
