@@ -12,6 +12,18 @@
     "poster": "/images/posters/the-debt-collector-2026.jpg"
   },
   {
+    "slug": "the-terminator-1984",
+    "title": "The Terminator",
+    "verdict": "TRADITIONAL",
+    "platform": "VOD / Physical",
+    "genre": "Sci-Fi, Action",
+    "year": 1984,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 13.62,
+    "poster": "/images/posters/the-terminator-1984.jpg"
+  },
+  {
     "slug": "the-bourne-identity-2002",
     "title": "The Bourne Identity",
     "verdict": "TRADITIONAL LEAN",
