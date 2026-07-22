@@ -34988,6 +34988,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-horror-movies-of-all-time/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/most-woke-sci-fi-movies-of-all-time/index.html');
+  writePage('lists/most-woke-sci-fi-movies-of-all-time/index.html', buildListiclePage({
+    slug: 'most-woke-sci-fi-movies-of-all-time',
+    title: 'The 15 Most Woke Sci-Fi Movies of All Time, VirtueVigil Rankings 2026',
+    description: '15 most ideologically loaded sci-fi films ranked by woke score margin. VirtueVigil scores Poor Things, The Creator, Captain Marvel, Avatar, The Last Jedi, Dune: Part Two, and more. Know what Hollywood encoded in your favorite sci-fi.',
+    canonicalPath: 'lists/most-woke-sci-fi-movies-of-all-time',
+    publishDate: '2026-07-21',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-sci-fi-movies-of-all-time/content.html'), 'utf-8')
+  }));
+
   console.log('  lists/most-woke-animated-movies-parents/index.html');
   writePage('lists/most-woke-animated-movies-parents/index.html', buildListiclePage({
     slug: 'most-woke-animated-movies-parents',

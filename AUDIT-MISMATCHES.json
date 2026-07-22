@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "slug": "mother-mary-2025",
+    "type": "verdict",
+    "current": "PREDICTED: WOKE LEAN",
+    "expected": "WOKE LEAN",
+    "margin": -9
+  },
+  {
+    "slug": "apex-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL",
+    "expected": "TRADITIONAL",
+    "margin": 12
+  },
+  {
+    "slug": "animal-farm-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL",
+    "expected": "TRADITIONAL",
+    "margin": 11
+  },
+  {
+    "slug": "beast-2026",
+    "type": "verdict",
+    "current": "PREDICTED: STRONGLY TRADITIONAL",
+    "expected": "STRONGLY TRADITIONAL",
+    "margin": 26
+  },
+  {
+    "slug": "mother-mary-2026",
+    "type": "verdict",
+    "current": "PREDICTED: WOKE",
+    "expected": "WOKE",
+    "margin": -11
+  },
+  {
+    "slug": "faces-of-death-2026",
+    "type": "verdict",
+    "current": "PREDICTED: MIXED",
+    "expected": "MIXED",
+    "margin": 0
+  },
+  {
+    "slug": "lee-cronins-the-mummy-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL",
+    "expected": "TRADITIONAL",
+    "margin": 15
+  },
+  {
+    "slug": "michael-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL LEAN",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 5
+  },
+  {
+    "slug": "spider-man-brand-new-day-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL LEAN",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 7
+  },
+  {
+    "slug": "avengers-doomsday-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL",
+    "expected": "TRADITIONAL",
+    "margin": 14
+  },
+  {
+    "slug": "sunrise-on-the-reaping-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL LEAN",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 7
+  },
+  {
+    "slug": "coyote-vs-acme-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL LEAN",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 7
+  },
+  {
+    "slug": "the-optimist-2026",
+    "type": "verdict",
+    "current": "PREDICTED: STRONGLY TRADITIONAL",
+    "expected": "STRONGLY TRADITIONAL",
+    "margin": 22
+  },
+  {
+    "slug": "ready-or-not-2-here-i-come-2026",
+    "type": "verdict",
+    "current": "PREDICTED: WOKE LEAN",
+    "expected": "WOKE LEAN",
+    "margin": -6
+  },
+  {
+    "slug": "scary-movie-6-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL LEAN",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 6
+  },
+  {
+    "slug": "ready-or-not-2",
+    "type": "verdict",
+    "current": "PREDICTED: WOKE LEAN",
+    "expected": "WOKE LEAN",
+    "margin": -3
+  },
+  {
+    "slug": "youngblood-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL LEAN",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 4
+  },
+  {
+    "slug": "in-the-grey-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL",
+    "expected": "TRADITIONAL",
+    "margin": 12
+  },
+  {
+    "slug": "the-breadwinner-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL LEAN",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 7
+  },
+  {
+    "slug": "avatar-aang-the-last-airbender-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL",
+    "expected": "TRADITIONAL",
+    "margin": 18
+  },
+  {
+    "slug": "the-fantastic-four-first-steps-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL",
+    "expected": "TRADITIONAL",
+    "margin": 16
+  },
+  {
+    "slug": "the-isolate-thief-2026",
+    "type": "verdict",
+    "current": "PREDICTED: TRADITIONAL",
+    "expected": "TRADITIONAL",
+    "margin": 16
+  }
+]
