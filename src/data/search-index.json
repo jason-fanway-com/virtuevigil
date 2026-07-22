@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-debt-collector-2026",
+    "title": "The Debt Collector",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Action, Crime, Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.05,
+    "tradScore": 14.84,
+    "poster": "/images/posters/the-debt-collector-2026.jpg"
+  },
+  {
     "slug": "the-bourne-identity-2002",
     "title": "The Bourne Identity",
     "verdict": "TRADITIONAL LEAN",
