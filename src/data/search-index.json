@@ -1600,8 +1600,8 @@
     "genre": "Action / Revenge Thriller / Drama",
     "year": 2026,
     "type": "film",
-    "wokeScore": 1.4,
-    "tradScore": 28.56,
+    "wokeScore": 0.5,
+    "tradScore": 21.34,
     "poster": "/images/posters/the-furious-2026.jpg"
   },
   {
@@ -1612,8 +1612,8 @@
     "genre": "Horror / Supernatural / Sci-Fi",
     "year": 2026,
     "type": "film",
-    "wokeScore": 4.9,
-    "tradScore": 19.34,
+    "wokeScore": 0.7,
+    "tradScore": 11.14,
     "poster": "/images/posters/backrooms-2026.jpg"
   },
   {
@@ -2267,13 +2267,13 @@
   {
     "slug": "sheep-detectives-2026",
     "title": "The Sheep Detectives",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Family Comedy / Mystery / Adventure",
     "year": 2026,
     "type": "film",
-    "wokeScore": 0.35,
-    "tradScore": 27.8,
+    "wokeScore": 0.7,
+    "tradScore": 12.82,
     "poster": "/images/posters/sheep-detectives-2026.jpg"
   },
   {
@@ -3058,8 +3058,8 @@
     "genre": "Horror (Found Footage)",
     "year": 2026,
     "type": "film",
-    "wokeScore": 1.9,
-    "tradScore": 21.28,
+    "wokeScore": 0,
+    "tradScore": 12.36,
     "poster": "/images/posters/hunting-matthew-nichols-2026.jpg"
   },
   {
@@ -3567,13 +3567,13 @@
   {
     "slug": "you-me-and-tuscany-2026",
     "title": "You, Me & Tuscany",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Romantic Comedy",
     "year": 2026,
     "type": "film",
-    "wokeScore": 6.4,
-    "tradScore": 20.02,
+    "wokeScore": 2.5,
+    "tradScore": 9.04,
     "poster": "/images/posters/you-me-and-tuscany-2026.jpg"
   },
   {

@@ -310,25 +310,20 @@
     "studio": "Hong Kong/China Production",
     "distributor": "Lionsgate Films",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 1.4,
-    "tradScore": 28.56,
+    "wokeScore": 0.5,
+    "tradScore": 21.34,
     "authIndex": 92,
-    "scoreMargin": "+27 TRAD",
+    "scoreMargin": "+21 TRAD",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "The Furious carries no woke trap potential. The premise is pure traditional action filmmaking. A father rescues his kidnapped daughter from criminal underworld. That core motivation is the oldest and most reliable traditional action framework available. The 100 percent RT critics score and festival circulation suggests the film delivers on that premise without ideological subtext. No bait and switch. No late game pivot toward progressive messaging."
+      "pct_runtime": 0,
+      "explanation": "The Furious is exactly what the promotional materials promised: a brutal, linear martial arts rescue thriller with no hidden ideological payload. The film never feigns progressive values only to subvert them later. Every minute is devoted to fight choreography, chase sequences, and the father-daughter rescue arc. No bait-and-switch."
     },
     "externalScores": {
-      "rottenTomatoesCritic": 100,
-      "rottenTomatoesAudience": 0,
-      "imdb": 7.7,
-      "metacritic": 0,
-      "oscarNominations": 0,
-      "oscarCategories": "",
-      "budget": "TBD",
-      "globalBoxOffice": "TBD (worldwide release May 29, 2026)"
+      "rt_critics": null,
+      "rt_audience": null
     },
     "creative_team": {
       "director": {
@@ -391,106 +386,80 @@
     },
     "tropeAudit": [
       {
-        "id": "TRAD-FUR-001",
-        "name": "Paternal Protection as Sacred Duty and Primary Motivation",
-        "category": "Traditional",
+        "id": "TRAD-001",
+        "name": "Paternal Protection as Sacred Duty",
+        "category": "TRADITIONAL-FAMILY",
         "severity": 5,
         "authenticity": "High",
         "centrality": "High",
         "weightedScore": 6.3,
-        "description": "The entire film is structured around one premise: Wang Wei's daughter is kidnapped, and his only purpose becomes rescuing her. This is not background motivation or character development. It is the plot's spine. Every action he takes, every enemy he defeats, every escalation he pursues is justified by and subordinated to the goal of protecting and recovering his child. Paternal protection as the highest masculine duty is the film's thesis. Severity 5 because this is the film's entire reason for existence. Authenticity High because this motivation is organic to the setup and not ideologically injected. Centrality High because nothing in the film exists except in service to this mission."
+        "description": "Xie Miao's character is defined entirely by his willingness to destroy anyone and anything to recover his kidnapped daughter. The father-daughter bond is the film's emotional and narrative engine, never subverted or mocked."
       },
       {
-        "id": "TRAD-FUR-002",
-        "name": "Father-Daughter Bond as the Film's Emotional Core",
-        "category": "Traditional",
-        "severity": 5,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 6.3,
-        "description": "The emotional foundation of The Furious is the father-daughter relationship. Wang Wei is not a superhero or a soldier. He is a tradesman who loves his daughter. Her kidnapping is devastating precisely because she is his child, not because she is a bargaining chip. The film's stakes are personal and familial rather than political or ideological. This is the oldest and most powerful emotional framework in action cinema. The father-daughter bond works because it taps into the deepest human protective instinct. Severity 5, High authenticity, High centrality - the relationship IS the story."
-      },
-      {
-        "id": "TRAD-FUR-003",
-        "name": "Male Competence and Martial Skill as Heroic Virtue",
-        "category": "Traditional",
+        "id": "TRAD-002",
+        "name": "Male Competence as Heroic Virtue",
+        "category": "TRADITIONAL-MASCULINITY",
         "severity": 4,
         "authenticity": "High",
         "centrality": "High",
         "weightedScore": 5.04,
-        "description": "The Furious is built on the premise that a man's skill, courage, and tactical ability are the only tools that matter in his rescue mission. There is no system to save him. No institution to call. No authority to appeal to. He must navigate the underworld using martial competence and intelligence. That framework is classically traditional. Male capability is not questioned or deconstructed. It is the solution. The hero wins because he is genuinely better at fighting than his opponents. This is the merit-based framework that traditional action cinema rests on."
+        "description": "The protagonist's martial skill, physical toughness, and tactical intelligence are presented as unambiguously heroic. No irony, no deconstruction. Joe Taslim's villain is defeated through superior competence, not luck or emotional breakthrough."
       },
       {
-        "id": "TRAD-FUR-004",
-        "name": "Moral Clarity: Antagonists Are Clearly Wrong",
-        "category": "Traditional",
+        "id": "TRAD-003",
+        "name": "Moral Clarity: Good vs Evil",
+        "category": "TRADITIONAL-MORALITY",
         "severity": 4,
         "authenticity": "High",
         "centrality": "Moderate",
         "weightedScore": 2.8,
-        "description": "The criminal underworld that kidnaps Wang Wei's daughter is not portrayed with moral complexity or sympathetic motivation. Criminal violence and child abduction are presented as unambiguously evil. The antagonists exist to be defeated. This is moral clarity rather than moral relativism. Traditional action film architecture depends on the audience knowing that the hero is right to fight. The Furious delivers that moral certainty without qualification."
+        "description": "The kidnappers are irredeemably evil. The father is unquestionably righteous. No moral ambiguity, no 'both sides,' no sympathetic villain backstory. The film operates on a clean moral axis throughout."
       },
       {
-        "id": "TRAD-FUR-005",
-        "name": "Self-Reliance and Lone Hero Against Superior Odds",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.8,
-        "description": "Wang Wei must navigate the criminal underworld essentially alone. He cannot rely on law enforcement or allies. He has only his skill and determination. The classic action hero archetype depends on this self-reliance framework. A man facing superior numbers, superior resources, and superior organization, winning only because of superior competence and will. That is traditional filmmaking at its most basic level. Every great action hero from John McClane to John Wick to the characters in The Raid operates within this framework."
-      },
-      {
-        "id": "TRAD-FUR-006",
-        "name": "Revenge as Justified Response to Violence",
-        "category": "Traditional",
+        "id": "TRAD-004",
+        "name": "Self-Reliance and Individual Agency",
+        "category": "TRADITIONAL-AGENCY",
         "severity": 3,
         "authenticity": "High",
         "centrality": "Moderate",
         "weightedScore": 2.1,
-        "description": "The Furious is fundamentally a revenge narrative. The kidnapping is the violation that justifies everything that follows. Revenge is not treated as a moral flaw or something to be overcome through forgiveness. It is treated as a proportional and justified response to violence against family. This is the moral framework of classical tragedy and classical action cinema. The hero's response to violation is action, not spiritual transcendence or therapy. Traditional filmmaking embraces that framework."
+        "description": "Police are ineffective. Institutions fail. The father must go outside the law and rely solely on his own skills. The film explicitly rejects institutional solutions in favor of individual action."
       },
       {
-        "id": "TRAD-FUR-007",
-        "name": "Physical Courage and Martial Excellence as Excellence",
-        "category": "Traditional",
+        "id": "TRAD-005",
+        "name": "Filial Piety and Honor Culture",
+        "category": "TRADITIONAL-FAMILY",
         "severity": 3,
         "authenticity": "High",
         "centrality": "Moderate",
         "weightedScore": 2.1,
-        "description": "The 100 percent critics score suggests The Furious delivers exceptional martial arts choreography and action sequences. Physical excellence and martial capability are not critiqued or deconstructed in traditional action cinema. They are celebrated. A man who fights well and with purpose is doing something excellent. This is a value statement, and it's a traditional one. The film appears to honor that value completely."
+        "description": "Rooted in Chinese cultural values: the father's obligation is not merely emotional but moral and existential. Honor is restored through violent action, not therapeutic processing."
       },
       {
-        "id": "WOKE-FUR-001",
-        "name": "International Cast Diversity in Supporting Roles",
-        "category": "Woke",
-        "severity": 1,
-        "authenticity": "High",
-        "centrality": "Low",
-        "weightedScore": 0.35,
-        "description": "The supporting cast includes Joe Taslim and other performers from Southeast Asian backgrounds, which is organically appropriate for a Hong Kong/China production with international distribution. This is the lowest possible woke signal - authentic to the production's geographic context rather than an ideological casting choice. Scored at minimum severity because the international cast reflects the film's production origin and distribution region rather than a diversity mandate."
+        "id": "TRAD-006",
+        "name": "Physical Mastery as Virtue",
+        "category": "TRADITIONAL-MASCULINITY",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 3.0,
+        "description": "Xie Miao's fight choreography is foregrounded as spectacle and character definition. The body as instrument of justice is a recurring visual motif."
       },
       {
-        "id": "WOKE-FUR-002",
-        "name": "Female Child as Victim Rather Than Active Agent",
-        "category": "Woke",
+        "id": "WOKE-001",
+        "name": "Daughter as Pure Damsel",
+        "category": "WOKE-GENDER",
         "severity": 1,
-        "authenticity": "High",
+        "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 0.7,
-        "description": "The daughter exists primarily as the motivation for the father's action rather than as an active agent in her own rescue. She is a victim to be rescued rather than a protagonist. This could be flagged as a mild woke concern in the sense that true feminist action cinema would position the female character as her own rescuer. However, this framing is organic to the revenge thriller genre and doesn't carry ideological weight. The film doesn't present her victimhood as a statement about female weakness - it's a plot device that generates the father's action."
+        "weightedScore": 0.5,
+        "description": "The daughter has zero agency. She exists entirely as an object to be rescued. Some Western critics dinged the film for this, though it is faithful to the genre's conventions and cultural context."
       }
     ],
     "summary": {
-      "headline": "A Father. A Criminal Underworld. One Mission That Never Stops.",
-      "overview": "The Furious arrived May 29, 2026, as a Hong Kong action thriller starring Xie Miao as Wang Wei, a tradesman forced into the criminal underworld to rescue his kidnapped daughter. Distributed by Lionsgate and arriving with a 100 percent Rotten Tomatoes critics score from festival circulation, this is traditional action filmmaking at its clearest. Our verdict: STRONGLY TRADITIONAL. The scoreMargin of +27.16 TRAD places it well above the +20 threshold with an authIndex of 92.",
-      "woke_analysis": "The wokeScore of 1.4 is one of the lowest this publication has scored. Both flagged woke tropes are scored at minimum severity and low centrality. The international cast reflects the film's Hong Kong/China production origin rather than ideological casting. The female child's role as victim and motivation is organic to the revenge thriller genre rather than a statement about female agency. There is no progressive political messaging anywhere in the available material. No gender ideology. No institutional critique. No lecture track. The Furious is a straightforward action film about a father protecting his child.",
-      "trad_analysis": "The tradScore of 28.56 is built on seven traditional tropes, led by Paternal Protection as Sacred Duty (6.3) and Father-Daughter Bond as Emotional Core (6.3). These are not background elements. They are the film's reason for existing. Male Competence as Heroic Virtue (5.04), Moral Clarity (2.8), and Self-Reliance Against Superior Odds (2.8) complete a tradScore reflecting a film with consistent traditional orientation at every structural level. The 100 percent critics score at festivals suggests the film delivers on its premise without compromise or qualification.",
-      "verdict_explanation": "The margin of +27.16 TRAD places The Furious well above the +20 threshold for STRONGLY TRADITIONAL. The premise, the plot structure, the action framework, and the creative team's apparent instinct all point toward a film built entirely on traditional values. The emotional core is paternal protection. The action is merit-based. The moral clarity is unambiguous. This combination produces STRONGLY TRADITIONAL scoring consistently.",
-      "bottom_line": "The Furious is a film for adults who love action and don't need their action wrapped in contemporary cultural commentary. A father rescues his daughter from criminals. That's the whole story. That's why you went to see it. It's also exactly why The Furious scores STRONGLY TRADITIONAL. Everything the film is exists in service to that simple, powerful premise.",
-      "overall": "Let's start with the scorecard, because it's the clearest thing about The Furious.\n\nOne hundred percent critics score at festivals. 7.7 on IMDB from festival audiences. Distributed internationally by Lionsgate, which built its modern reputation on the John Wick franchise and has developed an expertise in action thrillers. The film premiered in territories outside the US and received immediate critical consensus. The reviews used words like kick-ass, crowd-pleasing, dynamic, and unrelentingly brutal. None of them used the word woke.\n\nThat tells you what The Furious is.\n\nThe premise: Wang Wei is a tradesman. His daughter is kidnapped by criminals. He descends into the criminal underworld to get her back. That's the entire story. There is no secondary plot. There is no philosophical dimension. There is no late game twist revealing that the real villain was social inequality. There is only a father and his mission.\n\nThis is classical action cinema architecture. It's the framework of Die Hard, of John Wick, of The Raid, of every action film that works by stripping away everything except the protagonist's skill and the stakes he's fighting for. The Furious appears to operate entirely within that framework.\n\nXie Miao carries the film as Wang Wei. His casting suggests the production wanted a performer capable of the dual performance action cinema demands. Calm, controlled competence before the crisis. Explosive, unstoppable force during the rescue mission. The transition from one state to the other is the entire character arc. That's enough. Action cinema doesn't need complex psychology. It needs a clear motivation and a performer capable of delivering action convincingly.\n\nJoe Taslim's inclusion in the supporting cast signals martial arts credibility. Taslim is known for action work, and his presence suggests the production prioritized fighting ability and choreography over celebrity power. That's a traditional signal in itself. Films that care about fight choreography tend not to care about progressive messaging.\n\nThe 100 percent critics score from a diverse set of festival audiences globally suggests the film is delivering something that works across cultural boundaries. Action cinema crosses borders. Traditional values cross borders. This film appears to do both simultaneously.\n\nFor VirtueVigil readers: The Furious is exactly what it appears to be. A father protecting his daughter from criminals. That's the value system. That's the hero's motivation. That's the reason everything else happens. If you're looking for action without lecture, without gender ideology, without contemporary cultural commentary, The Furious delivers. Now in theaters and on digital.",
-      "adultInsight": "The Furious does not ask you to think. It asks you to watch. That's not a criticism. It's the highest compliment you can pay an action film of this caliber. Director Kenji Tanigaki, a veteran action choreographer who worked on the Rurouni Kenshin series, builds every fight sequence around clarity and consequence. You can see every strike. You understand why each one matters. Nothing is obscured by editing, and nothing is softened for audience comfort.\n\nThe value system is bone-simple and unapologetic about it. A father loves his daughter. When she is taken, he fights. There is no character arc about learning to care. No moment of hesitation where the hero wonders if rescue is the right approach. The love is present from frame one and it drives every decision Wang Wei makes. That kind of moral clarity is rare in 2026 cinema, and it's the reason the film works.\n\nXie Miao's performance as Wang Wei is physical in the way that great action performances are physical. He communicates through movement rather than dialogue. When he is calm, his stillness is convincing. When he fights, his ferocity is absolute. The transition between those states is the film's emotional engine. There is no winking at the camera. No ironic distance. The Furious takes its premise seriously, and that seriousness is the source of its power.\n\nAdults who grew up on 1980s and 1990s Hong Kong action cinema will recognize the lineage immediately. This is not a film that learned from John Wick. This is a film that comes from the same tradition John Wick learned from. The choreography, the pacing, the moral architecture -- all of it traces back to the Hong Kong action tradition where violence was ballet and the hero's motivation was never in question. The Furious honors that tradition without nostalgia or imitation. It simply continues it.",
-      "parentalGuidance": "Rated R for pervasive brutal violence throughout, including extended martial arts combat sequences with realistic injury depiction. This is not a PG-13 action film that happened to catch an R. The violence is the point. It is presented as the language through which the story is told.\n\nRecommended minimum age: 16, ideally 17+. The fight sequences are long, intense, and physically graphic. Bones break. Blood is visible. The combat is choreographed for realism rather than spectacle. Sensitive viewers, particularly those uncomfortable with hand-to-hand violence, should approach with caution. This is not horror violence. It's action violence presented at its most visceral.\n\nThe emotional content is straightforward: a father's love for his daughter, expressed through his willingness to destroy anyone standing between them. There is no sexual violence, no sexual content, and no drug use. The language is strong but not excessive. The film earns its R rating through combat intensity, not through exploitation or provocation.\n\nParents considering this for teens who enjoy action films should know that the violence here is more intense than the Marvel or Fast and Furious franchises. It sits closer to The Raid or John Wick in its depiction of combat. If your teen has watched and enjoyed those films, The Furious operates in the same register. If they have not, this is not the place to start.\n\nConservative families will find no ideological content to object to. The film is a rescue mission. The hero is a father. The villain is a criminal organization. The moral architecture is as traditional as the action choreography. What you see is what you get, and what you get is exactly what it promises."
+      "overall": "The Furious delivers precisely the film its pre-release materials promised: a relentless Hong Kong-style martial arts rescue thriller with zero ideological baggage. Xie Miao stars as a humble tradesman who tears through a criminal syndicate after his daughter is kidnapped. Joe Taslim brings menace as the primary antagonist, and the fight choreography is the best seen in a Chinese action import since the Ip Man series. The film is unapologetically traditional: father as protector, male competence as heroic, police as useless, and personal violence as the only path to justice. Western critics who ding it for the daughter's lack of agency are missing the point: this is a genre film operating within a specific cultural tradition, and it executes that tradition at an elite level. Lionsgate's US distribution gave it a respectable theatrical window, though its real audience is on digital. The film contains no progressive messaging, no subversion of its premise, and no woke trap. It knows exactly what it is and executes with confidence.",
+      "adultInsight": "The Furious is a fascinating study in cultural contrast. Chinese action cinema has always treated paternal protectiveness and male physical competence as sacred, and this film leans into those values harder than any export since the Ip Man franchise. The violence is genuinely brutal in a way that American action films have largely abandoned: bone-breaking practical stunts, extended hand-to-hand sequences with minimal cuts, and a willingness to let the protagonist get seriously hurt. Xie Miao's physical performance is extraordinary, channeling the silent intensity of classic Donnie Yen. The film's refusal to give the daughter any agency will frustrate viewers conditioned by Hollywood formulas, but within its own cultural logic, this is not a flaw but a feature: the story is about what a father will sacrifice, not what a daughter will overcome. The geopolitical subtext is worth noting as well. The film is a Chinese production with Hong Kong talent distributed by an American studio, and it contains exactly zero concessions to Western sensibilities. That is either refreshing or alienating depending on your perspective, but it is undeniably intentional.",
+      "parentalGuidance": "Rated R for strong and bloody violence throughout, including bone-breaking, stabbings, and extended fight sequences with realistic injury depiction. No sexual content. No nudity. Language is minimal given the Mandarin/Cantonese dialogue track with subtitles. The kidnapping premise involves children in peril, which may be distressing for younger viewers even if depicted without graphic harm to the child. Suitable for older teens comfortable with martial arts violence. The subtitled format requires reading ability."
     },
     "fidelity_casting": {
       "sourceType": "Original Screenplay",
@@ -578,25 +547,20 @@
     "studio": "A24",
     "distributor": "A24 Films",
     "verdict": "TRADITIONAL",
-    "wokeScore": 4.9,
-    "tradScore": 19.34,
+    "wokeScore": 0.7,
+    "tradScore": 11.14,
     "authIndex": 70,
-    "scoreMargin": "+14 TRAD",
+    "scoreMargin": "+10 TRAD",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "Backrooms does not qualify as a woke trap under VVWS v1.1 specifications. The film scores +14.44 TRAD, landing in the TRADITIONAL LEAN band (10-19 range). A woke trap requires actual negative margins and WOKE LEAN or worse verdicts. The available material shows no bait-and-switch structure or hidden progressive ideology. A24's distribution does not guarantee progressive content - the label has distributed apolitical and traditionally-aligned horror. Kane Pixels' creative profile shows no history of ideological messaging. No trap detected."
+      "pct_runtime": 0,
+      "explanation": "Backrooms contains no woke trap. Kane Parsons' adaptation of his own YouTube series is atmospheric horror first and last. The liminal-space premise lends itself to existential dread, not social messaging. The diverse cast (Ejiofor, Reinsve) serves the story without becoming the story. No character lectures. No progressive moralizing disguised as plot. The Async corporation subplot reads as classic sci-fi institutional critique, not contemporary political commentary."
     },
     "externalScores": {
-      "rottenTomatoesCritic": 0,
-      "rottenTomatoesAudience": 0,
-      "imdb": 0,
-      "metacritic": 0,
-      "oscarNominations": 0,
-      "oscarCategories": "",
-      "budget": "TBD",
-      "globalBoxOffice": "TBD (theatrical release May 29, 2026)"
+      "rt_critics": 87,
+      "rt_audience": 63
     },
     "creative_team": {
       "director": {
@@ -666,96 +630,60 @@
     },
     "tropeAudit": [
       {
-        "id": "TRAD-BR-001",
-        "name": "Rescue Mission as Moral Imperative",
-        "category": "Traditional",
+        "id": "TRAD-001",
+        "name": "Practical Competence as Survival Mechanism",
+        "category": "TRADITIONAL-AGENCY",
         "severity": 4,
         "authenticity": "High",
         "centrality": "High",
         "weightedScore": 5.04,
-        "description": "The plot becomes a rescue mission when a therapist's patient disappears into the Backrooms. Someone in danger must be brought back. That moral imperative drives the narrative forward. Rescue missions are the traditional action/horror framework - helping someone in distress is the unquestionable good that justifies all actions that follow. This is a conventional and deeply traditional plot structure in genre filmmaking."
+        "description": "Survival in the Backrooms depends not on emotional catharsis or therapy but on observation, pattern recognition, and physical endurance. Chiwetel Ejiofor's Clark is a researcher whose scientific method becomes a weapon. Competence, not identity, determines who lives."
       },
       {
-        "id": "TRAD-BR-002",
-        "name": "Practical Competence as Survival Mechanic",
-        "category": "Traditional",
+        "id": "TRAD-002",
+        "name": "Corporate Overreach as Villain",
+        "category": "TRADITIONAL-INSTITUTIONS",
         "severity": 3,
         "authenticity": "High",
         "centrality": "Moderate",
         "weightedScore": 2.1,
-        "description": "Surviving the Backrooms requires attention, observation, and practical problem-solving. Characters must notice details, understand the rules of the space, and adapt their behavior. This is traditional horror mechanics - survival depends on your competence and attention rather than luck or intervention by outside authorities. Nobody is coming to save you from a dimension that shouldn't exist. You save yourself through skill and observation."
+        "description": "The Async corporation's experiments with the Backrooms echo classic sci-fi warnings about institutional hubris. This is a traditional cautionary theme, not a progressive critique of capitalism specifically."
       },
       {
-        "id": "TRAD-BR-003",
-        "name": "Isolation and Self-Reliance as Horror Frame",
-        "category": "Traditional",
+        "id": "TRAD-003",
+        "name": "Human Resilience Against the Unknown",
+        "category": "TRADITIONAL-AGENCY",
         "severity": 3,
-        "authenticity": "High",
+        "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "Being lost in the Backrooms means being cut off from civilization, institutions, and help. Characters are completely self-reliant. There is no rescue team coming. No authority structure to appeal to. This is the foundational traditional horror setup - humans in crisis, using only their own resources and intelligence. No deus ex machina. No institutional solution."
+        "weightedScore": 3.0,
+        "description": "The film's emotional spine is the human capacity to endure incomprehensible horror. Mary's (Renate Reinsve) journey through the Backrooms is one of stubborn refusal to be broken, not identity affirmation."
       },
       {
-        "id": "TRAD-BR-004",
-        "name": "Supernatural Evil as External Threat",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "The Backrooms universe posits a dimension that is hostile, incomprehensible, and fundamentally dangerous. Evil or wrongness is portrayed as external to human morality. It is not the result of human social failure or individual psychological pathology. It is an external force that humans must contend with. This is traditional horror cosmology. The world contains genuine threats that are not the product of social injustice or systemic oppression."
-      },
-      {
-        "id": "TRAD-BR-005",
-        "name": "Allegory-Free Horror Mechanics",
-        "category": "Traditional",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Low",
-        "weightedScore": 1.4,
-        "description": "The Backrooms concept works as pure horror - a space that is wrong, disorienting, and dangerous. There is no implied social commentary about capitalism or consumerism (despite the furniture showroom setting), no metaphor for psychological states, no allegory for marginalization. The liminal space is simply an existential threat. Horror that doesn't attempt to make political or social points is rarer than it should be. This scores as traditional because it prioritizes horror mechanics over ideological messaging."
-      },
-      {
-        "id": "TRAD-BR-006",
-        "name": "Female Protagonist's Agency and Competence",
-        "category": "Traditional",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Low",
-        "weightedScore": 1.4,
-        "description": "Renate Reinsve carries the lead role, suggesting the protagonist is female and must navigate the Backrooms using her own competence. This is not framed as feminism or girl boss energy. It's simply the protagonist being capable of survival. The traditional framework for female characters in horror is competence without comment - a woman survives or rescues because she is intelligent and capable, not because the film is making a statement about female strength. That distinction matters for scoring."
-      },
-      {
-        "id": "WOKE-BR-001",
-        "name": "A24 Distribution and Indie Film Festival Circuit",
-        "category": "Woke",
+        "id": "TRAD-004",
+        "name": "Isolation and Self-Reliance",
+        "category": "TRADITIONAL-AGENCY",
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1,
-        "description": "A24 has become known for distributing films across the ideological spectrum. Some of their releases have been explicitly progressive (Midsommar, Men). Others are apolitical or traditional-leaning (Hereditary, The Farewell). A24 distribution alone does not indicate ideological content. The liminal horror concept from internet folklore has no inherent progressive messaging. This scores as a mild woke signal only because A24's brand has become associated with contemporary cultural positioning, not because the film itself shows ideological markers."
+        "weightedScore": 1.0,
+        "description": "Characters are frequently cut off from support systems and must rely on their own wits. No deus ex machina rescue. The liminal space itself enforces radical individualism."
       },
       {
-        "id": "WOKE-BR-002",
-        "name": "Psychological/Existential Horror Focus",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "Moderate",
+        "id": "WOKE-001",
+        "name": "Diverse Casting as Default",
+        "category": "WOKE-REPRESENTATION",
+        "severity": 1,
+        "authenticity": "Low",
         "centrality": "Low",
-        "weightedScore": 1.9,
-        "description": "Contemporary horror often uses psychological frameworks to explore social anxiety or institutional critique. The Backrooms premise could theoretically be interpreted as allegory for dissociation, dislocation, or institutional alienation. However, nothing in available materials suggests the film interprets it that way. The premise is presented as straightforward supernatural horror - a space that is genuinely otherworldly. Scored as mild woke signal only because psychological horror frameworks are sometimes deployed for social commentary, not because this film appears to use them that way."
+        "weightedScore": 0.7,
+        "description": "Chiwetel Ejiofor leads as Clark, Renate Reinsve co-leads as Mary. The casting is diverse but entirely organic to the story. No character's identity is foregrounded or made the subject of narrative attention. This is casting without agenda."
       }
     ],
     "summary": {
-      "headline": "A Door Opens in the Wrong Place. Everything That Follows Is Beautifully, Terrifyingly Wrong.",
-      "overview": "Backrooms arrived May 29, 2026, as A24's theatrical adaptation of Kane Pixels' viral YouTube horror universe. Directed by Kane Pixels himself and starring Renate Reinsve and Mark Duplass, this is psychological horror built on atmosphere, disorientation, and the uncanny wrongness of impossible spaces. Our verdict: TRADITIONAL LEAN. The scoreMargin of +14.44 TRAD places it solidly in the 10-19 band with moderate-high confidence.",
-      "woke_analysis": "The wokeScore of 4.9 reflects two mild woke signals. The A24 distribution label carries contemporary cultural associations, but A24 distributes across ideological boundaries. Psychological horror frameworks can be deployed for social commentary, but nothing in the available material suggests Backrooms uses them that way. The film appears to be straightforward supernatural horror without ideological scaffolding. There is no progressive messaging, no social allegory, no institutional critique implied in the premise. A door appears. Characters disappear. The space is hostile. That's the whole story.",
-      "trad_analysis": "The tradScore of 19.34 is built on six traditional tropes. Rescue Mission as Moral Imperative (5.04) anchors the narrative purpose. Practical Competence, Isolation and Self-Reliance, Supernatural Evil as External Threat, Allegory-Free Horror Mechanics, and Female Protagonist's Agency round out a score reflecting a film built on traditional horror frameworks. The strength of the Backrooms concept is precisely that it works as pure horror without needing social commentary. The liminal space is simply threatening. That's a traditional approach to horror.",
-      "verdict_explanation": "The margin of +14.44 TRAD lands solidly in the TRADITIONAL LEAN band (10-19). The creative team's track record, the straightforward horror premise, and the absence of progressive messaging in available materials all support the TRADITIONAL LEAN prediction. The margin could shift higher if the film proves even more straightforward in execution, or lower if the theatrical version contains ideological content not visible in pre-release materials. The prediction would not move into woke territory without major undisclosed creative changes.",
-      "bottom_line": "Backrooms is a film about being lost in a space that shouldn't exist. That's horror at its purest. A24 is distributing it, which will raise eyebrows with some readers, but A24's slate includes plenty of apolitical and traditional horror. The creative team shows no history of ideological positioning. The concept works as straightforward supernatural horror. There's no reason to expect anything other than what the trailers promise: psychological, atmospheric horror. Recommended for adults and older teenagers who appreciate atmosphere over action.",
-      "overall": "Here's what Backrooms is: a door opens in the basement of a furniture showroom. That door should not be there. People who go through it find themselves in a space that is geometrically impossible, fundamentally hostile, and completely without apparent exit. The space is not haunted by ghosts. It's not filled with monsters. It's just wrong. Deeply, fundamentally, existentially wrong. That wrongness is the horror.\n\nKane Pixels spent years building this concept on YouTube. His Backrooms videos are short - usually under 10 minutes - and work almost entirely through atmosphere and sound design. The camera moves through familiar spaces rendered alien. Fluorescent lighting hums in the distance. The audio is subtly off-kilter. Nothing explicitly horrible happens, and that's exactly why it's horrifying. The wrongness of the space is horror enough.\n\nBringing that concept to feature length is a genuine creative challenge. YouTube horror works in bursts. Feature film horror needs to sustain dread across 90-plus minutes without becoming repetitive or exhausting. Backrooms' theatrical adaptation will need to prove it can expand the concept without losing what made it work. That's a significant unknown.\n\nRenate Reinsve carries the lead. She's known for dramatic work in European arthouse cinema - films like Worst Person in the World. Her casting suggests A24 wanted a performer capable of carrying a character-driven horror film that depends on internal responses to external wrongness rather than conventional action or scares. That's a smart casting choice for this concept.\n\nMark Duplass in a supporting role brings his indie film credibility and experience with intimate, understated performance. The ensemble casting across the board suggests A24 is building this around character work rather than spectacle. That's consistent with Kane Pixels' YouTube approach - the horror comes from situation and atmosphere, not from elaborate set pieces or gore.\n\nFor VirtueVigil readers: Backrooms scores TRADITIONAL LEAN because the premise and framework are traditional horror without ideological content. A space is wrong. People must survive it. That's it. The film will be atmospheric, deliberately-paced, and designed to make you uncomfortable through disorientation rather than violence. It's appropriate for older teenagers and adults. It contains no sexual content, no graphic violence, and no political messaging. If you appreciate psychological horror built on atmosphere, Backrooms is now in theaters.",
-      "adultInsight": "Backrooms is the most formally interesting horror film A24 has distributed since Hereditary, and for reasons that have nothing to do with trauma or grief. Kane Pixels made his name on YouTube by proving that atmosphere alone could carry horror. No monsters. No jump scares. No elaborate mythology. Just the wrongness of a space that shouldn't exist, rendered in meticulous detail with sound design that makes your skin crawl.\n\nThe feature adaptation proves the concept scales. Pixels builds dread through accumulation rather than escalation. Each new corridor is slightly wrong in a slightly different way. The hum of fluorescent lights never quite resolves into a comfortable frequency. The geometry of the space refuses to make sense, and the human mind's desperate attempt to impose order on chaos becomes the viewer's own experience. You're not watching characters get lost. You're lost with them.\n\nAdults who appreciate horror as an art form rather than a thrill ride will find Backrooms rewarding. It is slow, deliberate, and uninterested in the rhythm of conventional scares. There is no third-act monster reveal. No explanation that makes the mystery safe. The horror is existential, not physical. The space itself is the antagonist, and a space cannot be reasoned with or defeated.\n\nThe R rating is for psychological intensity and sustained dread rather than violence or sexual content. There is virtually no gore. The horror is what you feel, not what you see. Adults who prefer their horror with clear threats and definitive endings may find Backrooms frustrating. Adults who appreciate that the scariest thing in the world is not knowing what's happening will find it masterful.",
-      "parentalGuidance": "Rated R for psychological horror intensity and sustained atmospheric dread. There is minimal gore, no sexual content, no drug use, and very little violence in the conventional sense. The R rating reflects the unrelenting nature of the horror rather than any specific objectionable element.\n\nRecommended minimum age: 15, ideally 16+. The horror in Backrooms is not what you see. It's what you feel. The film operates through disorientation, claustrophobia, and the deeply unsettling sensation that the space around the characters does not follow rules. For younger viewers accustomed to horror that provides clear threats and periodic relief, this may be genuinely disturbing in a way they're not prepared for.\n\nParents should understand: this is not slasher horror. It's not monster horror. It's not supernatural horror in any conventional sense. It's psychological horror about being trapped in a place that shouldn't exist, where the rules of reality have stopped working. The horror is existential. The wrongness accumulates. Relief never arrives. For some teens, particularly those with anxiety or sensitivity to disorientation, this will be far more intense than gorier films that operate in more familiar horror registers.\n\nConservative families will find no ideological content to navigate. The film contains no political messaging, no social commentary, no progressive agenda of any kind. It is pure atmosphere, pure craft, pure horror. The creative team was focused on one thing: making you feel deeply unsettled. They succeeded. Whether your teen is ready for that specific sensation is a judgment only you can make.\n\nBottom line: if your teen has handled films like The Witch or It Comes at Night, Backrooms operates in a similar register. If your teen's horror experience is limited to the Conjuring universe or slasher films, this is a significant step up in psychological intensity."
+      "overall": "Backrooms is A24's biggest box office success to date, and it earns that crown by delivering a genuinely unsettling horror experience that respects its source material. Kane Parsons, at 20 years old, adapts his viral YouTube series into a feature that maintains strict continuity with the original shorts while expanding the mythology. Chiwetel Ejiofor anchors the film as Clark, a researcher for the shadowy Async corporation studying the liminal dimension that has appeared in a furniture showroom basement. Renate Reinsve plays Mary, whose connection to the Backrooms becomes the film's emotional center. The creature design, particularly the Pirate Clark entity, is nightmarish without being derivative. Parsons' direction shows remarkable restraint: the horror comes from wrongness and dread rather than jump scares and gore. The film grossed over $388 million worldwide against a sub-$10 million budget, becoming a genuine cultural phenomenon. It contains no ideological agenda: this is pure atmospheric horror from a filmmaker who understands that liminal spaces are terrifying precisely because they mean nothing at all.",
+      "adultInsight": "The Backrooms phenomenon reveals something about what audiences actually want from horror in 2026: atmosphere over allegory, dread over lectures. Kane Parsons built his YouTube following on the unsettling emptiness of yellow-wallpapered corridors, and the film wisely protects that core appeal. What is striking on rewatch is how little the film explains. The Async corporation's motives remain opaque. The Backrooms' origin is never spelled out. Entities exist without taxonomy. This refusal to over-explain is a rebuke to the lore-saturated franchise model. Ejiofor brings genuine gravity to what could have been a paycheck role. Reinsve, fresh off The Worst Person in the World, proves her range by playing a woman unraveling without ever tipping into histrionics. The Boards of Canada needle drop over the end credits is a perfect tonal match. The Everything Must Go extended cut adds 15 minutes of footage that deepens the mythology but does not change the film's essential nature: this is horror as pure vibes, and the vibes are immaculate.",
+      "parentalGuidance": "Rated R (or 15 in UK). No graphic gore but pervasive psychological horror, body horror implications, and several deeply unsettling creature sequences. The Backrooms entities are disturbing in concept even when not shown fully. A scene involving a distorted doppelganger entity may be particularly frightening. No sexual content. Brief strong language. The atmosphere of existential dread and claustrophobia is constant. Not suitable for children or younger teens. The film's horror is cerebral and lingering rather than splatter-based, but it is genuinely frightening."
     },
     "fidelity_casting": {
       "sourceType": "Internet Folklore / YouTube Universe",
@@ -824,26 +752,21 @@
     ],
     "studio": "Amazon MGM / Working Title Films / Lord Miller",
     "distributor": "Amazon MGM Studios / Working Title Films",
-    "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 0.35,
-    "tradScore": 27.8,
+    "verdict": "TRADITIONAL",
+    "wokeScore": 0.7,
+    "tradScore": 12.82,
     "authIndex": 94,
-    "scoreMargin": "+27 TRAD",
+    "scoreMargin": "+12 TRAD",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "The Sheep Detectives cannot qualify as a woke trap by any definition. A woke trap requires actual woke content and ideological messaging. This film scores +27.45 TRAD with a STRONGLY TRADITIONAL verdict. The premise - a shepherd and his sheep solve mysteries - contains no hidden progressive messaging, no late-game ideological pivot, no subtext about environmentalism or social justice. The film is transparently a family-friendly mystery adventure. What you see in marketing is what you get in the theater."
+      "pct_runtime": 0,
+      "explanation": "The Sheep Detectives contains no progressive ideological content whatsoever. The film is a transparently wholesome family mystery about sheep solving their shepherd's murder. The themes of mortality, grief, community, and family reconciliation are universally human and entirely traditional. No hidden messaging, no late-game ideological pivot, no bait-and-switch. What the trailer promised is exactly what the film delivers."
     },
     "externalScores": {
-      "rottenTomatoesCritic": 0,
-      "rottenTomatoesAudience": 0,
-      "imdb": 0,
-      "metacritic": 0,
-      "oscarNominations": 0,
-      "oscarCategories": "",
-      "budget": "TBD",
-      "globalBoxOffice": "TBD (family film, wide release May 8, 2026)"
+      "rt_critics": 95,
+      "rt_audience": 96
     },
     "creative_team": {
       "director": {
@@ -905,86 +828,90 @@
     },
     "tropeAudit": [
       {
-        "id": "TRAD-SD-001",
-        "name": "Community Problem-Solving as Heroic Framework",
-        "category": "Traditional",
-        "severity": 5,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 6.3,
-        "description": "The Sheep Detectives is built on a premise where a community comes together to solve a problem. George and his sheep face a mystery, and they use their combined intelligence and resources to solve it. Community is not presented as a restriction or burden. It's presented as the solution. People (and sheep) working together is shown as fundamentally good. This is a deeply traditional value framework - community is virtuous, cooperation solves problems, people depending on each other is natural and positive."
-      },
-      {
-        "id": "TRAD-SD-002",
-        "name": "Genuine Intelligence and Learning as Virtues",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "description": "The sheep understand detective novels because George reads to them. They learn, they retain knowledge, and that knowledge becomes useful. Intelligence and learning are presented as genuine goods. Books are presented as valuable. Reading is presented as meaningful. Problem-solving requires actual thinking, not shortcuts or luck. This is a deeply traditional value framework - education, intelligence, and sustained effort produce results. There is no presentation of these things as burdensome or oppressive."
-      },
-      {
-        "id": "TRAD-SD-003",
-        "name": "Friendship and Loyalty Between Human and Animal",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.8,
-        "description": "George's relationship with his sheep is one of genuine affection, responsibility, and partnership. He cares for them. They value his company. They work together for common goals. This relationship is treated as deeply virtuous and meaningful. Human stewardship of animals and animal companionship are presented as naturally good. No irony, no critique of the pastoral setting, no hidden commentary about human relationship to nature."
-      },
-      {
-        "id": "TRAD-SD-004",
-        "name": "Wholesome Lifestyle and Pastoral Setting",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "The Sheep Detectives is set in a pastoral village environment. Shepherding is the protagonist's work. The setting is peaceful, rural, and connected to natural cycles. This lifestyle is not presented as limiting or oppressive. It is presented as virtuous and meaningful. The pastoral setting is used as backdrop for meaningful human (and sheep) relationships and community connection. No irony. No critique. No presentation of this lifestyle as something to be escaped or overcome."
-      },
-      {
-        "id": "TRAD-SD-005",
-        "name": "Clever Problem-Solving Over Conflict",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "Mysteries are solved through observation, reasoning, and clue-gathering rather than through violence or force. The sheep detective methodology depends on intelligence and method rather than confrontation. This is traditional storytelling architecture - problems are solved by smart people using smart solutions. It valorizes intelligence and observation."
-      },
-      {
-        "id": "TRAD-SD-006",
-        "name": "Wholesome Family Entertainment as Valid Art",
-        "category": "Traditional",
+        "id": "TRAD-1",
+        "name": "Parent-Child Reconciliation",
+        "category": "TRADITIONAL-FAMILY",
         "severity": 2,
         "authenticity": "High",
-        "centrality": "Low",
-        "weightedScore": 1.4,
-        "description": "The mere existence of a film that is genuinely family-appropriate, carries no hidden agenda, and exists to entertain children and families without trying to make a point about anything is itself a traditional signal. Contemporary entertainment culture often treats family films as platform for messaging. A film that is simply a family adventure is uncommon enough to score as traditional by its very existence."
+        "centrality": "High",
+        "weightedScore": 2.52,
+        "description": "Rebecca Hampstead discovers her father George loved her and wanted to know her. She claims his surname, inherits the meadow, and continues his tradition of reading to the flock. A genuine restoration of broken family bonds with no cynical subversion."
       },
       {
-        "id": "WOKE-SD-001",
-        "name": "Animal Protagonist in Humanized Role",
-        "category": "Woke",
+        "id": "TRAD-2",
+        "name": "Community Justice Through Cooperation",
+        "category": "TRADITIONAL-COMMUNITY",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "description": "The sheep flock collectively solves the murder mystery through shared observation, memory, and loyalty to their shepherd. Justice is achieved through cooperation, not subversion of institutions."
+      },
+      {
+        "id": "TRAD-3",
+        "name": "Acceptance of Death and Grief",
+        "category": "TRADITIONAL-MORTALITY",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "description": "Lily's arc confronts death as real rather than a comforting fiction. The film treats grief with extraordinary seriousness for a family movie. She learns that remembering the dead is an act of love, and the final shot of a cloud resembling Sebastian is earned pathos, not manipulation."
+      },
+      {
+        "id": "TRAD-4",
+        "name": "Heroic Self-Sacrifice",
+        "category": "TRADITIONAL-HEROISM",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "description": "Sebastian, the stoic loner ram, returns to fight off Caleb's German Shepherds and dies protecting the flock. His death has permanent consequences. No fake-out resurrection. The film treats sacrifice as costly and meaningful."
+      },
+      {
+        "id": "TRAD-5",
+        "name": "Good Triumphs Over Evil",
+        "category": "TRADITIONAL-MORALITY",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 2.52,
+        "description": "Peter Van Vuuren, disguised as reporter Elliot Matthews, murdered his father for inheritance and framed his twin sister Rebecca. He is caught, arrested, and the innocent Rebecca is freed. Moral clarity: the killer is punished, the innocent restored."
+      },
+      {
+        "id": "TRAD-6",
+        "name": "Oral Tradition and Storytelling as Cultural Inheritance",
+        "category": "TRADITIONAL-CULTURE",
         "severity": 1,
         "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 0.7,
+        "description": "George read murder mysteries to his flock every night. Rebecca inherits this ritual at the end, reading to the sheep. The transmission of knowledge and story from one generation to the next is presented as sacred."
+      },
+      {
+        "id": "TRAD-7",
+        "name": "Protecting the Vulnerable",
+        "category": "TRADITIONAL-COMMUNITY",
+        "severity": 1,
+        "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 0.35,
-        "description": "The sheep are presented as intelligent, capable of communication (albeit through their own means), and able to act as detective protagonists. This is a humanization of animals that, in extreme form, could be read as making a statement about animal agency or challenging human exceptionalism. However, this is organic to the family adventure and fantasy genre. Animated and family films consistently feature animal characters with human-level intelligence. This is not an ideological position - it's a genre convention. Scored at absolute minimum severity because it's entirely unrelated to the film's actual content or message."
+        "weightedScore": 0.5,
+        "description": "Rebecca buys Caleb's French-speaking sheep to save them from slaughter. The flock discriminates against the winter-born orphan lamb, but Lily ultimately adopts and names him George. Care for the marginalized is woven in as a natural moral instinct."
+      },
+      {
+        "id": "WOKE-1",
+        "name": "Nonbinary-Identifying Voice Actor in Ensemble",
+        "category": "WOKE-CASTING",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "Bella Ramsey, who publicly identifies as nonbinary, voices a sheep in the ensemble. This is background casting trivia with zero bearing on the film's content. The character is simply a sheep with no gender-identity narrative attached."
       }
     ],
     "summary": {
-      "headline": "A Shepherd, His Sheep, and a Mystery to Solve. That's All You Need.",
-      "overview": "The Sheep Detectives arrived May 8, 2026, as a family comedy adventure based on Shaun Tan's beloved book Three Bags Full. This is wholesome entertainment built around a shepherd and his intelligent sheep solving a community mystery. Our verdict: STRONGLY TRADITIONAL. The scoreMargin of +27.45 TRAD places it well above the +20 threshold with an authIndex of 94.",
-      "woke_analysis": "The wokeScore of 0.35 consists of a single minimal woke trope - the humanization of animals as protagonists. This is entirely organic to the family adventure genre and carries no ideological weight. Every family film from Bambi to Zootopia humanizes animals for storytelling purposes. There is no progressive messaging, no social commentary, no hidden agenda. The film is transparently what it appears to be - a family-friendly mystery about a shepherd and his sheep. No lecture track. No ideology. Just wholesome entertainment.",
-      "trad_analysis": "The tradScore of 27.8 is built on six traditional tropes, led by Community Problem-Solving as Heroic Framework (6.3) and Genuine Intelligence and Learning as Virtues (5.04). The film's foundational premise is that people working together solve problems and that learning and intelligence are virtuous. Friendship between human and animal is treated as meaningful. The pastoral setting is valorized without irony. Intelligence solves mysteries rather than violence. The combined weight of these values places The Sheep Detectives firmly in STRONGLY TRADITIONAL territory.",
-      "verdict_explanation": "The margin of +27.45 TRAD places The Sheep Detectives well above the +20 threshold for STRONGLY TRADITIONAL. The source material is unambiguously wholesome. The production team (Amazon MGM, Working Title Films) has no track record of injecting ideology into family films. The premise contains zero controversial elements. Post-release scoring may adjust slightly based on execution, but the verdict is unlikely to move down. It could move up if the film proves even more strongly traditional in its final form.",
-      "bottom_line": "The Sheep Detectives is the kind of family film that should exist more often than it does. A genuine mystery. A wholesome setting. Characters who learn and think their way to solutions. Community working together. Animals valued as companions and partners. No agenda. No hidden message. Just an entertaining story for families and children. Highly recommended. Now in theaters and on digital.",
-      "overall": "Here's the premise: George is a shepherd. He reads detective novels to his sheep every night. He reads them good stories. His sheep listen. His sheep understand. His sheep learn how detectives think and solve problems. Then a real mystery happens in their village. And George's sheep, possessing actual detective knowledge from their nightly reading sessions, help solve it.\n\nThat's the whole story. And it's perfect.\n\nYou have to understand what makes this concept work. It's not that animals are doing human things. It's that George shares his intellectual life with his animals. He reads to them. He treats them like they can understand. He values them as companions and thinking beings. And through that respect and genuine relationship, they become capable of solving real problems.\n\nThat's a story about stewardship, literacy, community, and friendship. All delivered through a family-friendly mystery adventure. No ideology necessary. The story does the work all by itself.\n\nShaun Tan's original book has been beloved by families for exactly these reasons. The Sheep Detectives film adaptation has the potential to reach enormous audiences. It's a pastoral, wholesome, intelligent piece of family entertainment. In contemporary entertainment culture, that alone makes it notable.\n\nThe production team matters. Amazon MGM and Working Title Films have the resources to make this right. Working Title Films (Universal's comedy and family film production company) brings expertise in family entertainment. Amazon MGM has the distribution reach. Neither company has a track record of injecting ideology into family films. The source material is too charming to need any agenda beyond \"make a good movie.\"\n\nFor parents: The Sheep Detectives is safe. It's wholesome. It celebrates intelligence, community, friendship, and learning. Your children will not encounter anything objectionable. Your values will not conflict with the film's values. You can watch confidently knowing that the film is trying to entertain your family, not make you part of a cultural argument.\n\nFor VirtueVigil readers: This film scores STRONGLY TRADITIONAL because it carries no woke content and celebrates genuinely virtuous things. Community is good. Learning is good. Friendship is good. Animals are valuable companions. Solving problems through intelligence rather than violence is presented as the correct approach. These are traditional values stated simply and directly. The Sheep Detectives is a film that knows what it believes and isn't afraid to show it.\n\nNow in theaters. Bring the family.",
-      "adultInsight": "The Sheep Detectives is the kind of film that makes adults remember why they loved movies as children. It is not clever in the way modern family films try to be clever, with ironic winks to parents and pop culture references that will age badly. It is clever in the way a good detective novel is clever: the mystery is constructed with genuine care, the clues are planted honestly, and the solution rewards paying attention.\n\nKyle Balda, who directed Minions and The Lorax, brings genuine affection for the source material. Shaun Tan's book is beloved for its quiet charm, its respect for animal intelligence, and its refusal to talk down to children. Balda's adaptation preserves all three. The sheep are not cartoon characters. They are characters who happen to be sheep. The distinction matters. When they apply detective logic to a real mystery, the film treats their reasoning seriously. The comedy comes from the situation, not from mocking the characters.\n\nFor adults watching with children: you will not be bored. The mystery is engaging enough to hold adult attention. The jokes land at multiple levels without ever becoming inappropriate. The pastoral setting is filmed with genuine beauty. The film assumes families are smart enough to enjoy smart entertainment together. That assumption, more than anything else, is what makes The Sheep Detectives feel like a film from a different era. It trusts its audience.\n\nThere is zero ideological content. No progressive messaging hidden in the sheep dialogue. No environmental lecture disguised as a pastoral setting. No gender role subversion dressed as character development. The film is a mystery about a shepherd, his sheep, and a crime that needs solving. It knows exactly what it is and it does exactly what it promises. For adults exhausted by family films that can't stop lecturing, that alone is worth the price of admission.",
-      "parentalGuidance": "Rated PG for mild peril and brief comedic action. This is one of the safest family films in years. There is no violence beyond mild slapstick. No frightening sequences. No language concerns. No sexual content of any kind. No ideological content that parents need to preview or contextualize.\n\nRecommended for all ages, with the minor caveat that very young children (under 5) may not follow the mystery plot. The film is built around detective logic: clues, deductions, and revelations. Children who can follow a simple whodunit will be thoroughly engaged. Children who cannot may still enjoy the sheep, the pastoral setting, and the gentle physical comedy, but they will miss the film's primary pleasure.\n\nParents should know: this film respects your children's intelligence. The mystery is not dumbed down. The sheep are not treated as cute props. The film works because it takes its premise seriously, and children respond to being taken seriously. There is a quiet dignity to the whole enterprise that will feel unusual if your family's movie diet consists primarily of louder, faster, more frantic animated fare.\n\nThe values are exactly what you'd hope for. Community matters. Intelligence solves problems. Friendship between species is real and meaningful. Learning is presented as genuinely valuable. The shepherd's relationship with his sheep is based on respect, not ownership. These are not values the film argues for. They are values the film simply assumes, and that assumption is the healthiest thing about it.\n\nBottom line for parents: this is the family film you've been waiting for. No hidden messages. No content warnings needed. No post-movie conversations about things you weren't prepared to explain. Just a shepherd, his sheep, and a genuinely good mystery. Bring everyone."
+      "overall": "The Sheep Detectives is the most tonally surprising family film of the year: a genuinely funny, genuinely sad murder mystery told from the perspective of a flock of sheep. Based on Leonie Swann's novel Three Bags Full and adapted by Craig Mazin (Chernobyl, The Last of Us), the film follows a flock whose shepherd, George (Hugh Jackman), is found dead. The sheep, led by crime-fiction aficionado Lily (Julia Louis-Dreyfus), decide to solve the case themselves. The mystery is well-constructed, with a genuinely satisfying Agatha Christie-style resolution: George was murdered by his disguised son Peter, who framed his twin sister Rebecca for the inheritance. But the film's real achievement is its treatment of death. The sheep believe they turn into clouds when they die; over the course of the film, Lily learns that death is real, that she has been willfully forgetting every sheep she has lost, and that memory is the only antidote to grief. The final image of a cloud that looks like the fallen ram Sebastian is earned, not cheap. Kyle Balda directs with warmth and visual wit. The voice cast is stellar: Louis-Dreyfus, Bryan Cranston, Chris O'Dowd, Regina Hall, Patrick Stewart, and Brett Goldstein all commit fully. The live-action cast, including Nicholas Braun as a bumbling constable and Molly Gordon as Rebecca, grounds the absurdity. At $131 million worldwide on a $75 million budget, audiences clearly agreed it works. Rated PG for thematic elements involving death and some peril. A STRONGLY TRADITIONAL film with no woke content of any significance.",
+      "adultInsight": "What elevates The Sheep Detectives above standard family fare is its refusal to flinch from the hard stuff. The sheep's worldview collapses when Lily realizes death is real. The scene where she pieces together that she has willed herself to forget every departed flock member lands with the force of a much more adult film. Craig Mazin has said in interviews that he wrote this script in 2016, and you can feel the emotional architecture of a writer who would go on to make Chernobyl. The film does not talk down to children about grief. It presents a flock of creatures who have built an elaborate denial mechanism around death and gently, patiently dismantles it. Parents will recognize their own children in the sheep's innocent cosmology; adults will recognize themselves in Lily's dawning horror that pretending death is not real does not make it so. The whodunnit is clever, with genuine clues and misdirects, but the mystery is scaffolding for a meditation on memory, loss, and the responsibility of the living to remember the dead. This is a film that earns its emotions through craft, not manipulation. One of the best family films in years.",
+      "parentalGuidance": "Rated PG. The film deals directly with death: a beloved character (the shepherd George) is murdered, and a major animal character (Sebastian the ram) dies heroically in a fight with dogs. The sheep's gradual realization that death is real rather than a comforting fiction is handled thoughtfully but may be intense for very young children. The climactic reveal involves a son who murdered his father for money. There is a chase sequence with threatening German Shepherds. No sexual content, no profanity, no gore. Suitable for ages 7 and up with parental conversation about the themes of loss. The film actually provides excellent material for parents to discuss death and grief with children in a safe context."
     },
     "fidelity_casting": {
       "sourceType": "Book Adaptation",
@@ -1905,23 +1832,20 @@
     "studio": "Moon7 Films / Dropshock Pictures",
     "distributor": "DeVuono Releasing",
     "verdict": "TRADITIONAL",
-    "wokeScore": 1.9,
-    "tradScore": 21.28,
+    "wokeScore": 0.0,
+    "tradScore": 12.36,
     "authIndex": 91,
-    "scoreMargin": "+19 TRAD",
+    "scoreMargin": "+12 TRAD",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "NOT A WOKE TRAP. Tarasiuk wrote, directed, produced, and stars as himself in a meta found footage structure. Miranda MacDougall leads as Tara Nichols investigating her brother's 23-year disappearance. Festival wins (FilmQuest Best Found Footage, Blood in the Snow Best Director) validate genre execution over messaging. Canadian indie with no activist track record in the cast or crew. The female lead is organic to the plot structure, not inserted for representation purposes. No progressive messaging visible in premise or marketing."
+      "pct_runtime": 0,
+      "explanation": "Hunting Matthew Nichols is a straightforward found footage supernatural horror film with no progressive ideological content. The female lead (Tara) is organic to the plot as the sister of the missing boy. The film's satanic occult elements are presented as genuinely malevolent supernatural forces, not metaphors for patriarchy, colonialism, or any progressive cause. The police cover-up is genre-appropriate horror convention, not institutional critique. Made for $275,000 by a Canadian indie team with no activist track record, the film's only agenda is scaring audiences."
     },
     "externalScores": {
-      "rottenTomatoesCritic": null,
-      "rottenTomatoesAudience": null,
-      "imdb": 7.9,
-      "metacritic": null,
-      "budget": "Low-budget indie",
-      "releaseDate": "2026-04-10 (US theatrical)"
+      "rt_critics": 89,
+      "rt_audience": 48
     },
     "creative_team": {
       "director": {
@@ -2002,96 +1926,60 @@
       "guidance": "Hunting Matthew Nichols is psychological horror for mature teens and adults. The dread is atmospheric rather than graphic. No explicit gore or sexual content. The found footage format creates immersion that may feel more intense than traditional horror cinematography. Teens 15+ with horror experience can handle the content. Younger viewers or those sensitive to psychological tension should approach cautiously. The film respects audience intelligence, trusting dread over cheap scares. Conservative families will find no values conflicts. The sibling bond is treated with genuine emotion. Traditional horror tropes (respect for nature, consequences for hubris, family loyalty) run throughout."
     },
     "summary": {
-      "overall": "Twenty-three years after her brother Matthew vanished without explanation on Vancouver Island, documentary filmmaker Tara Nichols (Miranda MacDougall) assembles a team to investigate the cold case using rediscovered 2001 VHS footage and modern found footage techniques. Director Markian Tarasiuk plays himself, blurring the line between filmmaker and investigator as the investigation descends into ambiguous supernatural territory. The recovered footage shows two teenagers lost in dense forest, pursued or stalked by something unseen. Hunting Matthew Nichols is a debut that understands found footage's fundamental power: what you cannot see is more terrifying than what you can. Runtime of 89 minutes moves with deliberate pacing, building dread through accumulated detail rather than jump-scares. The film premiered at Newport Beach Film Festival 2024 and won Best Found Footage Feature at FilmQuest 2024, establishing Tarasiuk as a director who respects the genre's conventions. Pre-release, it promises authentic indie horror for audiences exhausted by franchise repetition and jump-scare spectacle.",
-      "adultInsight": "Hunting Matthew Nichols succeeds because Tarasiuk understands that found footage horror works best when filmmaking becomes part of the theme. The mockumentary layer satirizes true crime obsession without didactic moralizing. The question the film asks is genuine: how far would you go to solve a family mystery, and what price does that obsession exact? The film suggests the answer is both human and troubling. Tara's determination to uncover the truth about her brother's disappearance drives her into territory where rational investigation breaks down. The found footage device becomes unreliable narrator. By the final act, viewers cannot trust what they are seeing or whether the camera is capturing objective reality or subjective terror. This is sophisticated genre work that earns audience engagement through craft rather than franchise recognition.",
-      "parentalGuidance": "Not Rated, expected R or 14A (varies by region). Recommended minimum age: 15, ideally 16+. Supernatural horror intensity, psychological dread, implied violence and death. No graphic gore, sexual content, or substance use. The found footage format creates immersive atmosphere that may feel more intense to sensitive viewers than traditional horror cinematography. Conservative families will find no ideological conflicts. The emotional core is sibling loyalty and family persistence. The film respects both its subject matter and its audience.",
-      "headline": "A Sister Searches for Her Lost Brother. The Woods Offer No Answers, Only Dread.",
-      "overview": "Hunting Matthew Nichols (2026), released April 10, is a Canadian found-footage horror mockumentary from first-time director Markian Tarasiuk. Tara Nichols (Miranda MacDougall) investigates her brother Matthew's disappearance 23 years earlier on Vancouver Island, using rediscovered VHS tapes and modern found-footage techniques. Tarasiuk plays himself as the filmmaker drawn into the mystery. The film won Best Found Footage Feature at FilmQuest 2024 and premiered at the Newport Beach Film Festival. Our verdict: TRADITIONAL with a +19 TRAD margin and an authIndex of 91.",
-      "woke_analysis": "The wokeScore of 1.9 reflects two mild woke signals scored at low severity and minimal centrality. The female protagonist as investigator and filmmaker is entirely organic to the material. Tara Nichols' profession as a documentary filmmaker is not a statement. It's who she is and what drives the plot. The found-footage format requires a camera operator with personal investment in the investigation, and Tara's sibling relationship to the missing Matthew provides exactly that.\n\nThere is no progressive messaging in the film. No gender ideology. No institutional critique of law enforcement. No social commentary about missing persons cases or systemic failure. The film is focused on one family, one mystery, and the psychological cost of not knowing. That focus is what makes it effective as horror. If the film were trying to make a political argument, it would undermine its own atmosphere. Tarasiuk wisely avoids that trap entirely.\n\nOne mild flag: Markian Tarasiuk's Ukrainian-Canadian background and the film's festival circuit positioning in the independent horror space could attract progressive association. But association is not content. The film earns its score on what it is, not on who distributes it or where it screens.",
-      "trad_analysis": "The tradScore of 21.28 is built on six traditional tropes that reflect the film's core commitments. Family Loyalty as Driving Motivation (6.3) is the strongest. Tara's entire journey exists because a sister cannot let her brother's disappearance go unresolved. That bond is presented as sacred without the film needing to say the word. It is simply true.\n\nPersistence in the Face of the Unknown (5.04) is the operational virtue. Tara and her team keep going when rational people would stop. The investigation produces more questions than answers, more dread than closure. The traditional value is that persistence itself is meaningful, even when the outcome cannot be guaranteed.\n\nTruth-Seeking as Moral Imperative (2.8) provides the philosophical spine. The film argues, through its structure, that knowing the truth matters. Even when the truth is horrifying. Even when it costs you everything. That is a deeply conservative conviction dressed in horror-genre clothing.\n\nAdditional tropes: Competence Under Pressure (2.8), Practical Problem-Solving (2.8), and Self-Reliance in Hostile Environments (1.54). The independent Canadian production context means no studio interference, no diversity checklist, no ideological guardrails. The film is exactly what Tarasiuk wanted to make.",
-      "verdict_explanation": "The margin of +19 TRAD places Hunting Matthew Nichols at the top of the TRADITIONAL band (10-19 range). The verdict is post-release, based on the completed film as it screened at festivals and in limited theatrical release.\n\nThe horror genre typically produces NEUTRAL or WOKE LEAN verdicts because contemporary horror frequently embeds social commentary in its scares. Hunting Matthew Nichols is an exception because it does something simple: it trusts the mystery. The film is content to be a found-footage horror movie about a sister looking for her brother. It does not need to be about anything else.\n\nConfidence is high. The film's structure, creative intent, and execution all point consistently toward a traditional value orientation. The margin could have been higher if the horror conventions themselves didn't carry mild woke associations through distribution channels. But the content is what matters, and the content is solidly traditional.",
-      "bottom_line": "Hunting Matthew Nichols is an independent Canadian horror film that understands what found footage is for. It's atmospheric, patient, and more interested in dread than in jump scares. The sibling loyalty at its core gives the horror emotional weight without turning it into a melodrama. Conservative viewers looking for horror that respects its characters and its audience will find exactly what they want here. Recommended for horror fans 15+. The film is Not Rated but equivalent to a 14A for supernatural intensity and psychological dread. No sex, no gore, no politics. Just a sister, a mystery, and the Vancouver Island woods that refuse to give up their dead."
+      "overall": "Hunting Matthew Nichols is a microbudget Canadian found footage horror film that punches well above its $275,000 weight. Written, directed by, and starring Markian Tarasiuk in his feature debut, the film follows Tara Nichols (Miranda MacDougall), who makes a documentary about her brother Matthew's 2001 disappearance on Vancouver Island. The investigation uncovers a suppressed police tape showing Matthew and his friend Jordan performing a Satanic ritual that ends with Matthew gouging out Jordan's eyes and strangling him. When Tara and her crew visit the woods where the disappearance occurred, they discover the cabin still stands despite claims it was razed, and the entity within is not Matthew at all. The final act descends into genuinely unnerving territory with nude human figures fixed to trees and an attack that leaves Tarasiuk's character disfigured. MacDougall carries the film with a raw, committed performance. The mockumentary framing effectively satirizes true crime documentary culture without preaching about it. Budget limitations show in the first half's pacing and some uneven performances from non-actors, but the craft is impressive for the resources. The film won Best Found Footage Feature at FilmQuest and Best Director at Blood in the Snow before turning a profit prior to theatrical release. A TRADITIONAL horror film with zero woke content. Rated 14A equivalent. 89 minutes.",
+      "adultInsight": "What distinguishes Hunting Matthew Nichols from most found footage horror is its commitment to character before scares. Tarasiuk made this film partly as a satire of Netflix true crime documentary obsession, and that satirical layer gives the mockumentary structure more bite than the genre typically manages. Miranda MacDougall's Tara is not just a Final Girl; she is a woman whose entire adult identity has been shaped by an unresolved childhood loss. The film takes its time establishing her before the horror elements fully surface. When the suppressed tape is finally viewed, the film earns its most disturbing moment: Matthew's ritualistic murder of Jordan is shown in grainy mini DV footage that feels alarmingly real. The supernatural elements that follow are indebted to Blair Witch and The Ring but executed with enough conviction to feel fresh. The ending, with nude figures descending from trees and the director character left screaming and disfigured in a hospital, commits to a bleakness that commercial horror rarely risks. It is not a perfect film, but it is an honest one, and at $275,000, a remarkable return on investment.",
+      "parentalGuidance": "Rated 14A (British Columbia) / equivalent to R-level intensity. Contains deeply disturbing sequences: a video depicting a ritualistic murder with eye-gouging and strangulation, occult/Satanic imagery including a grimoire, skull totem, and ritual footage, prolonged supernatural dread with unseen forces attacking characters, brief nudity (nude human figures fixed to trees in a horror context), and a disturbing hospital sequence with a disfigured character screaming. No sexual content. Not suitable for children or young teens. Recommended for mature horror audiences only. The occult content is presented as genuinely demonic, not camp or metaphorical, which may be troubling for viewers sensitive to religious horror themes."
     },
     "tropeAudit": [
       {
-        "id": "TRAD-HMN-001",
-        "name": "Sibling Loyalty and Family Duty as Motivation",
-        "category": "Traditional",
-        "severity": 5,
+        "id": "TRAD-1",
+        "name": "Sibling Devotion Across Decades",
+        "category": "TRADITIONAL-FAMILY",
+        "severity": 3,
         "authenticity": "High",
         "centrality": "High",
-        "weightedScore": 6.3,
-        "description": "Tara Nichols drives the entire narrative through her determination to solve her brother's 23-year disappearance. This is not about career advancement or personal fame. It is filial duty and sibling love. The found footage investigation is the vehicle through which she honors her brother's memory and seeks closure for her family. The film treats this motivation with complete sincerity."
+        "weightedScore": 3.78,
+        "description": "Tara Nichols spends 23 years unable to let go of her brother Matthew's disappearance. Her entire identity is shaped by this unresolved loss. The film treats her devotion as noble and her quest for truth as righteous, even as it destroys her."
       },
       {
-        "id": "TRAD-HMN-002",
-        "name": "Perseverance Through Fear and Uncertainty",
-        "category": "Traditional",
-        "severity": 4,
+        "id": "TRAD-2",
+        "name": "Supernatural Evil as Real and Malevolent",
+        "category": "TRADITIONAL-SPIRITUAL",
+        "severity": 3,
         "authenticity": "High",
         "centrality": "High",
-        "weightedScore": 5.04,
-        "description": "Tara and the team persist in their investigation despite accumulating evidence of supernatural threat and danger. They move deeper into the forest, review more archival footage, follow leads into increasingly hostile territory. The film frames this perseverance as courageous rather than foolish, even as it suggests there may be consequences. Traditional heroism values the willingness to confront fear for something greater than self-preservation."
+        "weightedScore": 3.78,
+        "description": "The occult forces in the Vancouver Island woods are genuinely demonic, not metaphorical. Matthew's Satanic ritual, the grimoire, the skull totem, the nude figures fixed to trees, and the entity that communicates through the pendulum are all treated as real supernatural threats with no ambiguity or psychological explanation. Evil is evil."
       },
       {
-        "id": "TRAD-HMN-003",
-        "name": "Found Footage Dread and Authentic Horror Craft",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "description": "The film's aesthetic choices serve horror fundamentals rather than ideological messaging. Low lighting, natural sound design, handheld camera work, recovered VHS footage texture, minimalist score. These are craft decisions that build dread through atmosphere. The found footage language itself is a traditional narrative device going back to Blair Witch Project and The Ring. Tarasiuk applies these conventions with technical competence and respect for genre grammar."
-      },
-      {
-        "id": "TRAD-HMN-004",
-        "name": "Satire of True Crime Obsession Without Preaching",
-        "category": "Traditional",
+        "id": "TRAD-3",
+        "name": "Consequences for Occult Dabbling",
+        "category": "TRADITIONAL-MORALITY",
         "severity": 3,
         "authenticity": "High",
         "centrality": "Moderate",
         "weightedScore": 2.1,
-        "description": "The mockumentary framing device critiques the true crime documentary industrial complex. Netflix binges. Spectacle over substance. Media consumption as voyeurism. The film satirizes these impulses through its own existence as a found footage film. The satire is implicit rather than explicit. The film does not stop to lecture about media ethics. It simply lets the documentary form carry the critique."
+        "description": "Matthew and Jordan's occult ritual ends with Matthew gouging out Jordan's eyes and strangling him on tape. The film is unambiguous: dabbling in dark forces leads to destruction. The recovered tape is not presented as misunderstood art but as genuine evidence of something demonic."
       },
       {
-        "id": "TRAD-HMN-005",
-        "name": "Nature as Unknowable and Overwhelming Force",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "Vancouver Island's forest becomes the film's primary antagonist. The wilderness is portrayed as fundamentally indifferent to human investigation and rational explanation. Disappearances happen because nature is vast and humans are small. The supernatural elements are ambiguous but tie to natural mystery rather than technology or society. This reflects traditional horror's respect for forces beyond human control."
-      },
-      {
-        "id": "TRAD-HMN-006",
-        "name": "Indigenous Knowledge and Local Legend Treated With Respect",
-        "category": "Traditional",
+        "id": "TRAD-4",
+        "name": "Truth-Seeking as Moral Imperative",
+        "category": "TRADITIONAL-VIRTUE",
         "severity": 2,
-        "authenticity": "High",
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "Tara refuses to accept the official story of her brother getting lost in the woods. She pursues suppressed evidence, confronts the lead investigator, and ultimately enters the dangerous site herself. The film frames her pursuit of truth as virtuous, even as it leads to horror."
+      },
+      {
+        "id": "TRAD-5",
+        "name": "Wilderness as Genuinely Dangerous",
+        "category": "TRADITIONAL-NATURE",
+        "severity": 1,
+        "authenticity": "Low",
         "centrality": "Low",
         "weightedScore": 0.7,
-        "description": "The film incorporates Vancouver Island indigenous mythology and local disappearance legends without mockery or appropriation. When the team consults local knowledge about the forest, they are positioned as seeking wisdom rather than collecting exotic material. The indigenous perspective is presented as legitimate alternative knowledge rather than superstition."
-      },
-      {
-        "id": "WOKE-HMN-001",
-        "name": "Female Lead Investigator",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 1.4,
-        "description": "Tara Nichols is the primary investigator and emotional center of the narrative. However, this casting choice is entirely organic to the story premise. Tara is investigating her own brother's disappearance. Her gender is not narratively significant. The role calls for someone determined and emotionally invested, which she embodies. This is not forced female empowerment. It is character-appropriate casting with no ideological payload."
-      },
-      {
-        "id": "WOKE-HMN-002",
-        "name": "Subtle Critique of Male-Dominated Institutions",
-        "category": "Woke",
-        "severity": 1,
-        "authenticity": "Moderate",
-        "centrality": "Low",
-        "weightedScore": 0.5,
-        "description": "The film implies that official law enforcement failed to solve Matthew's disappearance adequately, requiring amateur investigation. This could be read as a critique of institutional male authority, though the film does not make this explicit. The criticism is implicit in the gap between institutional failure and amateur persistence. It is traced-level woke content that does not drive the narrative."
+        "description": "The Vancouver Island forest harbors real evil, not just inconvenience. Nature is not a spa or a playground; it contains forces beyond human comprehension. This runs counter to the modern tendency to domesticate wilderness."
       }
     ],
     "comparison_films": [
@@ -12409,26 +12297,21 @@
     "studio": "Will Packer Productions / Universal Pictures",
     "distributor": "Universal Pictures",
     "productionCompany": "Will Packer Productions",
-    "verdict": "TRADITIONAL",
-    "wokeScore": 6.4,
-    "tradScore": 20.02,
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 2.5,
+    "tradScore": 9.04,
     "authIndex": 76,
-    "scoreMargin": "+14 TRAD",
+    "scoreMargin": "+7 TRAD",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
-      "explanation": "You, Me & Tuscany does not qualify as a woke trap. The diversity casting of two Black leads in a Tuscan rom-com is visible from the first trailer and is the explicit marketing hook of the film. There is no bait-and-switch. The studio and producers have publicly framed the film as a Black love story set in Italy and have made no attempt to conceal that framing. A woke trap requires deceptive packaging: a film that presents itself as traditional and then pivots to progressive ideology after the audience is seated. This film presents itself as exactly what it is. The woke score of 6.4 does not approach the WOKE LEAN threshold. The verdict is TRADITIONAL. The trap flag requires both a woke verdict and deceptive packaging. Neither condition is met."
+      "pct_runtime": 0,
+      "explanation": "Not a woke trap. The diversity casting (Halle Bailey, Rege-Jean Page as Black romantic leads in Tuscany) is the explicit, visible marketing hook from the first trailer onward. There is no bait-and-switch. Will Packer Productions has publicly framed this as a Black love story in Italy. The film's core values remain family, love, food, and finding purpose through vocation. The woke elements are casting-deep, not content-deep, and the story itself is a conventional romantic comedy with a deception-redemption arc."
     },
     "externalScores": {
-      "rottenTomatoesCritic": null,
-      "rottenTomatoesAudience": null,
-      "imdb": null,
-      "metacritic": null,
-      "oscarNominations": 0,
-      "oscarCategories": "",
-      "budget": "Not disclosed",
-      "globalBoxOffice": "Not yet released"
+      "rt_critics": 65,
+      "rt_audience": 92
     },
     "creative_team": {
       "director": {
@@ -12516,95 +12399,80 @@
     },
     "tropeAudit": [
       {
-        "id": "TRAD-YMT-001",
-        "name": "Classic Love Story Structure: Boy Meets Girl Under False Pretenses",
-        "category": "Traditional",
-        "severity": 5,
+        "id": "TRAD-1",
+        "name": "Finding Purpose Through Vocation",
+        "category": "TRADITIONAL-WORK",
+        "severity": 2,
         "authenticity": "High",
         "centrality": "High",
-        "weightedScore": 6.3,
-        "description": "You, Me & Tuscany is built on one of the oldest engines in romantic comedy: two people who fall for each other under false pretenses, must then navigate the revelation of the lie, and emerge on the other side having chosen each other honestly. This structure dates to the screwball comedies of the 1930s and runs through the entire modern rom-com canon from While You Were Sleeping to Leap Year to The Proposal. Anna lies about being engaged to Matteo. Michael, Matteo's cousin, does not know about the lie. The growing attraction between Anna and Michael is therefore complicated at every turn by Anna's awareness of what she is concealing. When the truth comes out, which it must, the film's resolution depends on whether the connection is strong enough to survive honesty. This is not a woke framework or a progressive one. It is the oldest frame the genre has. Severity 5 (the film's entire plot and resolution depend on it), High authenticity (completely organic to rom-com genre tradition), High centrality. Score: 5 x 0.7 x 1.8 = 6.30."
+        "weightedScore": 2.52,
+        "description": "Anna Montgomery is an aspiring chef who abandoned her dreams after her mother died. Through her time in Tuscany, helping at Vincenzo Costa's restaurant, she rediscovers her passion for cooking. The film treats creative vocation as a legitimate source of identity and fulfillment, not as a capitalist trap."
       },
       {
-        "id": "TRAD-YMT-002",
-        "name": "Italian Family Culture as Traditional Anchor",
-        "category": "Traditional",
-        "severity": 4,
+        "id": "TRAD-2",
+        "name": "Romantic Love as Redemptive Force",
+        "category": "TRADITIONAL-RELATIONSHIPS",
+        "severity": 2,
         "authenticity": "High",
         "centrality": "High",
-        "weightedScore": 5.04,
-        "description": "The Tuscan setting is not mere backdrop. The film's central complication arises because Matteo's mother Gabriella, played by Italian film icon Isabella Ferrari, arrives at the villa and accepts Anna as her son's fiancee. This sets the entire deception plot in motion. Gabriella represents Italian family values as a force: the mother whose approval matters, whose expectations carry weight, whose warmth and generosity make Anna's lie feel worse with every scene. The Italian family dynamic, the villa as inherited property, the cultural expectation that a son's engagement is a family event, and the Tuscan food and wine culture that permeates the film all function as a traditional anchor. They ground the romantic comedy in a world where family, heritage, and place carry genuine meaning. This is not a film set in a culturally neutered urban nowhere. It is set in one of the most culturally specific and historically rooted landscapes in the Western world, and the screenplay treats that setting as a character. Severity 4 (shapes multiple major scenes and the core complication), High authenticity (completely organic to the setting), High centrality. Score: 4 x 0.7 x 1.8 = 5.04."
+        "weightedScore": 2.52,
+        "description": "Anna and Michael's mutual attraction develops through genuine chemistry rather than transactional or cynical motivations. The romance is the engine of Anna's transformation, and the film treats falling in love as a good thing worth celebrating."
       },
       {
-        "id": "TRAD-YMT-003",
-        "name": "Consequences of Deception Resolved Through Honesty",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 3.78,
-        "description": "The lie at the center of You, Me & Tuscany is not treated as a cute quirk or a victimless convenience. It is a deception that grows more costly the longer it is maintained, that damages the relationships Anna is building, and that the film requires her to confront rather than escape. The traditional moral architecture is intact: deception has consequences, honesty is both difficult and necessary, and the connection Anna and Michael build can only survive on truthful terms. The comedy that arises from the lie is classic farce, not an endorsement of lying as a lifestyle. The resolution requires Anna to choose honesty at personal cost, which is the genre's correct moral beat. Severity 3 (shapes the second and third acts), High authenticity (organic to the plot structure and genre tradition), High centrality. Score: 3 x 0.7 x 1.8 = 3.78."
-      },
-      {
-        "id": "TRAD-YMT-004",
-        "name": "Personal Transformation Through Authentic Love",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.8,
-        "description": "Anna is introduced as a young woman who has abandoned her dreams of becoming a chef and is drifting through her twenties via a series of bad choices. The film does not treat this as a feminist statement about the freedom to drift or a celebration of aimlessness. It treats it as a problem. The Tuscan setting, the Italian family culture, and the connection with Michael collectively function as an intervention: they give Anna a world that has roots, meaning, and something worth pursuing. Her arc from drifter to woman who chooses her life is the traditional transformation narrative of the romantic comedy genre. Love, in this framework, does not rescue the protagonist from herself. It gives her enough clarity to rescue herself. The traditional element is that genuine love requires the protagonist to become a better person, not simply to be loved as-is. Severity 4 (Anna's transformation is the emotional core of the film), High authenticity (completely standard genre arc), Moderate centrality (sits alongside the romantic plot rather than above it). Score: 4 x 0.7 x 1.0 = 2.80."
-      },
-      {
-        "id": "TRAD-YMT-005",
-        "name": "Domestic Warmth and the Villa as Aspirational Home",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "description": "The Tuscan villa is not simply a location. It functions as an aspirational domestic space: the kind of home that has been lived in across generations, that carries history in its walls, that centers family and hospitality and the pleasure of shared meals. Anna is initially a squatter in this space, an interloper without roots who has stumbled into a world built on the values she lacks. Her growing attachment to the villa and its community mirrors her growing attachment to Michael and to the life he represents. The film's imagery of shared cooking, of dining in vineyard air, of windows opened onto Tuscan hills, is not just travel-porn aesthetics. It is a coherent argument that place matters, that domestic beauty is worth preserving, and that the life Anna is building in this space is worth telling the truth to keep. Severity 3 (recurring visual and emotional motif throughout), High authenticity (organic to the setting and genre), Moderate centrality (setting and atmosphere rather than explicit theme). Score: 3 x 0.7 x 1.0 = 2.10."
-      },
-      {
-        "id": "WOKE-YMT-001",
-        "name": "Diverse Leads in Historically White European Cultural Setting",
-        "category": "Woke",
-        "severity": 3,
+        "id": "TRAD-3",
+        "name": "Family Acceptance and Integration",
+        "category": "TRADITIONAL-FAMILY",
+        "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3,
-        "description": "You, Me & Tuscany is an original IP, not an adaptation of a story that historically featured white characters. The diverse casting of two Black leads is therefore not a race-swap of established characters. Under the VVWS v1.1 definition, original IP with a diverse cast is not automatically diversity casting. However, the Tuscan setting creates a specific cultural context. Tuscany in 2026 is not a naturally multicultural environment in the way that modern New York or London is. The choice to place two Black American leads in an Italian family social drama, where they interact with an Italian mother and Italian extended family who would have culturally and statistically specific expectations, is a creative decision that carries ideological weight even in original IP. The film does not appear to address this tension or the cultural specificity of the setting. The Authenticity multiplier is Moderate rather than High because the casting decision reflects current studio diversity priorities as much as purely organic story logic. Severity 3 (shapes the film's entire visual and social texture), Moderate authenticity (original IP but studio diversity calculus is present), Moderate centrality (the leads' race is visible in every scene but is not the film's stated subject). Score: 3 x 1.0 x 1.0 = 3.00."
+        "weightedScore": 2.0,
+        "description": "Gabriella Costa and Nonna Alessia warmly accept Anna into their family even before the engagement is exposed as a lie. Multi-generational Italian family life is presented as warm, desirable, and meaningful."
       },
       {
-        "id": "WOKE-YMT-002",
-        "name": "Explicit Black Joy Framing in Studio Marketing",
-        "category": "Woke",
+        "id": "TRAD-4",
+        "name": "Honesty Prevails Over Deception",
+        "category": "TRADITIONAL-MORALITY",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.0,
+        "description": "Anna's lie about being Matteo's fiancee unravels. The resolution requires her to come clean and face the consequences. Deception is presented as unsustainable and harmful, while honesty restores relationships."
+      },
+      {
+        "id": "TRAD-5",
+        "name": "Cultural Heritage as Meaningful Anchor",
+        "category": "TRADITIONAL-CULTURE",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.0,
+        "description": "Italian cooking, vineyard life, family meals, and Tuscan landscapes are not just scenery; they are presented as a source of genuine meaning and rootedness that Anna's modern American drift lacked."
+      },
+      {
+        "id": "WOKE-1",
+        "name": "Diversity-First Lead Casting in European Rom-Com",
+        "category": "WOKE-CASTING",
         "severity": 2,
-        "authenticity": "Low",
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.0,
+        "description": "Halle Bailey and Rege-Jean Page are cast as romantic leads in a Tuscan rom-com, a genre and setting historically reserved for white actors. Will Packer Productions is explicit about its mission to center Black stories. This casting is the film's marketing hook and is visible from the first trailer, not hidden."
+      },
+      {
+        "id": "WOKE-2",
+        "name": "Girlboss-Adjacent Self-Discovery Arc",
+        "category": "WOKE-NARRATIVE",
+        "severity": 1,
+        "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.4,
-        "description": "Producer Will Packer and stars Halle Bailey and Rege-Jean Page have given interviews explicitly framing the film as a Black joy story: a deliberate intervention in a genre that rarely centers Black romantic leads in European settings. Rege-Jean Page told Rotten Tomatoes that he signed on because 'we don't often get to see Black relationships on screen in this way, we don't get to see us have our cute little trip to Tuscany.' Bailey echoed this framing. This is marketing language rather than film content, and the VVWS methodology scores the film on what appears on screen, not on how producers frame it in press. The studio marketing that explicitly pitches the film as a Black love story sets a cultural expectation that the film then either honors or exceeds. Scored at the low end because this is promotional framing, not narrative ideology injected into the film itself. However, it reflects the decision framework that produced the casting, and that decision framework has ideological roots. Severity 2 (marketing framing, not on-screen content), Low authenticity (explicitly ideologically motivated promotional positioning), Low centrality (background to the actual film experience). Score: 2 x 1.4 x 0.5 = 1.40."
-      },
-      {
-        "id": "WOKE-YMT-003",
-        "name": "Female Protagonist Defined by Bad Choices Without Accountability Framing",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "Moderate",
-        "centrality": "Moderate",
-        "weightedScore": 2,
-        "description": "Anna is introduced as a woman who has abandoned her culinary dreams and is making a series of bad choices. Whether the film treats this as a character flaw to be corrected or as a quirky starting point from which she is free to grow without specific accountability depends on execution details not yet available in pre-release materials. The mild woke risk here is the modern rom-com tendency to frame the female protagonist's impulsive, self-destructive choices as charming rather than costly. If Anna squats in a Tuscan villa, lies to an Italian family, and manipulates a romantic situation, and the film asks only that she eventually find love rather than genuinely reckon with the harm of her actions, that represents a mild departure from the traditional accountability framework. Scored conservatively because the plot synopsis suggests consequences are present (the lie creates genuine complications) and the genre tradition Engle is working in does require some form of reckoning. Severity 2 (shapes the protagonist's setup but not her arc direction), Moderate authenticity (standard modern rom-com setup), Moderate centrality (shapes the first act and emotional baseline). Score: 2 x 1.0 x 1.0 = 2.00."
+        "weightedScore": 0.5,
+        "description": "Anna's arc of abandoning her dreams, drifting through bad choices, then impulsively flying to Italy for self-discovery leans on modern empowerment framing. The resolution, however, is grounded in finding purpose through work and love, not radical autonomy."
       }
     ],
     "summary": {
-      "headline": "You, Me & Tuscany Is the Rom-Com That Trusts the Formula",
-      "overview": "You, Me & Tuscany is a Universal Pictures wide-release romantic comedy opening April 10, 2026, directed by Kat Coiro (Marry Me, She-Hulk) and starring Halle Bailey and Rege-Jean Page in the rare pairing of two global stars at the height of their cultural moment. The film has no Rotten Tomatoes score at the time of this review (pre-release). It has a plot as old as the genre: girl crashes a Tuscan villa, pretends to be engaged to its owner, falls for the owner's cousin, and has to reckon with the lie she told to get there. It has sunshine, vineyard rows, handmade pasta, and two leads with chemistry confirmed by the cast themselves in pre-release press. The predicted verdict is TRADITIONAL. This is not a close call.",
-      "woke_analysis": "The wokeScore is 6.4. That is the product of three tropes: the diverse casting of two Black leads in a culturally specific European setting (3.0), the explicit Black joy marketing framing from producer Will Packer and the stars themselves (1.4), and the mild woke risk of a female protagonist whose impulsive bad choices may or may not receive proper accountability treatment (2.0). None of these tropes are severe. The diversity casting scores at Moderate authenticity because this is original IP, not a race-swap of established characters. The Black joy marketing framing scores at Low authenticity because it is promotional positioning, not on-screen content, and is scored at Low centrality for the same reason. The accountability trope is a watch-it score: the film may handle it better than the setup suggests, in which case the score would revise downward on a post-release rescore. Total woke: 6.4. That falls well within the TRADITIONAL margin. There is no woke trap here. The film is exactly what it says it is.",
-      "trad_analysis": "The tradScore is 20.02. Five traditional tropes, all scored at High authenticity, all organic to the story and genre. The classic love story structure is the film's entire engine: two people falling under false pretenses, truth revealed, connection tested and confirmed. This is the oldest frame the romantic comedy genre has and it scores at severity 5 because there is no version of this film without it. The Italian family culture is the complication mechanism: Gabriella's arrival at the villa is what creates the stakes, and the Tuscan domestic world of inherited property, family dinners, and generational roots gives the film a weight that most modern rom-coms strip out. Consequences of deception are built into the plot at a structural level. Personal transformation is present in Anna's arc from drifter to woman who chooses her life. The villa as domestic aspirational space is a recurring visual and emotional motif. Together these five tropes produce a tradScore that lands firmly in the TRADITIONAL range with a margin of +13.62.",
-      "verdict_explanation": "The verdict is PREDICTED: TRADITIONAL because the margin of +13.62 TRAD falls in the +10 to +19 band per the VVWS v1.1 threshold table. The prediction confidence is high. The film's story architecture is classically traditional. The complication arises from deception that the plot must resolve through honesty. The setting is one of the most culturally rooted in the Western world and the film treats it accordingly. The lead performances are reported to be warm and charming. The genre tradition Kat Coiro is working in is one of the most stable and reliable in commercial cinema. The woke score is modest and almost entirely attributable to casting and marketing framing rather than ideological content within the film itself.",
-      "bottom_line": "You, Me & Tuscany is exactly the film its trailer promises: a gorgeous, sun-drenched Tuscan rom-com with two charming leads, a classic deception plot, and enough Italian food and wine to make you reach for your passport. VirtueVigil verdict: PREDICTED TRADITIONAL. The traditional values score comes from the genre's bones, the setting's cultural weight, and a plot that requires honesty to resolve. See it for the chemistry. Stay for the pici pasta.",
-      "overall": "Let's start with what this film is.\n\nYou, Me & Tuscany is a romantic comedy produced by Will Packer, directed by Kat Coiro, written by Ryan Engle, and starring two of the most compelling young performers working in Hollywood: Halle Bailey and Rege-Jean Page. It opens April 10, 2026. It has a PG-13 rating. It runs 104 minutes. Its plot can be summarized in one sentence: a young woman crashes a Tuscan villa, lies about being the owner's fiancee, and falls for his cousin instead.\n\nThis is not a complex premise. It is not trying to be. It is trying to be something rarer and, in the current cultural moment, more genuinely useful: a properly made romantic comedy that trusts the formula.\n\nThe formula, for anyone who has watched the rom-com genre get reverse-engineered out of existence since approximately 2010, goes like this. Take two charismatic leads who have genuine chemistry. Put them in a beautiful location. Give them a complication that keeps them apart long enough to matter. Build in a lie that must eventually be confessed. Make sure the confession costs something real. Resolve the story with a moment of honest choice rather than lucky circumstance. Set all of this against a backdrop that is aspirational without being alienating. Make sure the audience has been laughing during the hard parts.\n\nKat Coiro knows this formula. She proved it with Marry Me in 2022, a film that opened simultaneously at number one in theaters and on Peacock and delivered exactly what it promised: Jennifer Lopez and Owen Wilson being charming at each other against a glossy backdrop. Coiro does not condescend to the genre and she does not try to deconstruct it. She executes it. For a romantic comedy director, that is not faint praise. It is the whole job.\n\nThe screenplay by Ryan Engle is a departure from his usual action-thriller territory, and that departure appears to have focused him. The central engine is the engaged-fiancee lie, one of the most reliable complications in the genre canon. Anna, played by Bailey, crashes the Tuscan villa of a handsome Italian named Matteo after meeting him at a party and cadging his invitation. When Matteo's mother Gabriella (Isabella Ferrari, in what early coverage suggests is a warmly comedic supporting performance) arrives unexpectedly, Anna panics and allows Gabriella to believe she is Matteo's fiancee. This is a terrible decision. The film knows it is a terrible decision. The comedy that follows arises from Anna trying to maintain a lie she cannot possibly maintain, and from the growing presence of Matteo's cousin Michael, who does not know about the lie and who, inconveniently for everyone, is Rege-Jean Page.\n\nPage has described his reasons for joining the production in terms that are straightforward and disarming. He wanted to make a film where two Black leads get to have a love story in the most romantic landscape in the world without that story being centered on struggle, trauma, or the performance of cultural pain. Bailey has said the same. The creative team has been explicit: this is a joy film. A trip to Tuscany. A love story that does not ask its leads to earn their happiness by suffering for it.\n\nThat framing is ideological in origin, and the VirtueVigil scoring reflects it. The woke score includes both the casting decision and the explicit Black joy marketing positioning. But it is worth being precise about what that score does and does not mean. The woke score of 6.4 is not a condemnation of the film. It is a measurement of the ideological inputs that shaped certain creative decisions. The film itself, on the screen, is a romantic comedy about two people who fall in love in Tuscany. The political context that produced the casting and the marketing language does not travel into the theater with the movie. The story is the story.\n\nAnd the story is traditionally structured. The lie must be confessed. The connection must be honest to be real. The beautiful setting is not culturally neutral but culturally specific, and the screenplay honors that specificity through the Italian family dynamics that give the complication its weight. Gabriella is not a generic mother figure. She is an Italian mother figure, with all the warmth, expectation, and moral authority that entails. Anna's lie is not an abstract deception. It is a deception told to a woman who welcomed her as a future daughter. That cost is baked into the plot's moral architecture.\n\nHalle Bailey is the film's center of gravity and its primary commercial proposition. Her performance in The Little Mermaid (2023) showed that she has a specific quality that is genuinely unusual in studio films: an emotional transparency that reads as warmth without reading as weakness. She does not project invulnerability. She projects openness. For a rom-com protagonist, that quality is gold, because the audience needs to be on her side even when she is making choices they would not make. An impulsive squatter who lies to an Italian family and then falls for the wrong man needs the audience rooting for her through the bad decisions as well as the good ones. Bailey can carry that.\n\nRege-Jean Page's turn as Michael follows his recent pivot toward quieter, more textured work after the Bridgerton spectacle. His performance in Black Bag (2025) drew praise for its restraint. Michael, the cousin who does not know the truth, presumably carries an arc that requires him to reconcile his genuine feelings for Anna with the betrayal of discovering the lie. Page has the technical range for this and the specific quality the role requires: a man whose stillness reads as composed rather than cold, whose eventual emotional movement therefore lands with weight.\n\nThe supporting cast is stronger than the genre usually provides. Isabella Ferrari as Gabriella brings Italian film credibility to a role that could easily be a caricature. Nia Vardalos, the writer-star of My Big Fat Greek Wedding and a specialist in exactly this brand of European-family romantic comedy, appears in a supporting role that early press suggests is well-used. Aziza Scott as Claire, Anna's always-honest best friend, provides the film's moral voice: the character who told Anna this was a bad idea and who will, when the lie unravels, be proven right.\n\nFor the VirtueVigil audience, the answer to the title question is straightforward. You, Me & Tuscany is not a woke film. It is a romantic comedy that follows the traditional genre architecture with competent professionalism and two leads who have earned their star power. The woke score is driven by casting and marketing decisions, not by ideological content in the story. The traditional score is driven by the genre's bones, the setting's cultural specificity, and a plot that requires honesty, consequences, and earned resolution. The verdict is TRADITIONAL. Go see it if the genre is one you enjoy. The Tuscan cinematography alone will justify the ticket.",
-      "adultInsight": "Conservative adults who approach You, Me & Tuscany with skepticism about the casting and the Black joy marketing framing are encouraged to do something that is counterintuitively useful: separate the film from its promotional context. Will Packer's interviews and Rege-Jean Page's press quotes are marketing materials. They are designed to generate coverage and frame the film's cultural significance for maximum PR effect. The film itself is a romantic comedy set in Tuscany with a deception plot, an Italian family dynamic, and a resolution that requires honesty. That is not a woke film by any reasonable definition. The VirtueVigil scoring methodology separates content from context: the film scores what it shows, not what its producers say about why they made it. The score is TRADITIONAL. Adults who enjoy romantic comedies and beautiful European locations will find this one delivers on its promises. Adults who are bothered by the political framing of the marketing can set that aside without missing anything in the theater."
+      "overall": "You, Me & Tuscany is a warm, formulaic romantic comedy that delivers exactly what its poster promises. Halle Bailey stars as Anna Montgomery, a directionless young cook who, after a chance encounter with handsome Italian Matteo, impulsively flies to Tuscany, lets herself into his empty villa, and is caught by his mother Gabriella (a delightful Isabella Ferrari). Anna's panicked claim that she is Matteo's fiancee spins into a full-family welcome, and things get complicated when she meets Matteo's cousin Michael (Rege-Jean Page), with whom she shares genuine chemistry. The plot is the standard rom-com architecture: a lie that must be exposed, a love triangle resolved by true feelings, and a heroine who finds herself through someone else. Kat Coiro directs with sunny competence. Bailey is charming and brings more depth than the script always earns. Page is effortlessly magnetic. The Italian setting is predictably gorgeous, and the food cinematography is genuinely appetite-inducing. Critics were warm but not enthusiastic (65% on Rotten Tomatoes), while audiences embraced it enthusiastically (92%). The film grossed $22 million against an $18 million budget, a modest performer for Universal. Will Packer's production delivers a Black-led rom-com in a genre that has historically excluded Black leads from European fantasy settings, and the casting is the film's most distinguishing feature. A TRADITIONAL romantic comedy with mild diversity casting points. Rated PG-13.",
+      "adultInsight": "The most interesting thing about You, Me & Tuscany is the cultural space it occupies. For decades, the European romantic fantasy was the exclusive domain of white leads. Will Packer Productions simply took the formula and cast Black actors in it, without changing the formula at all. Halle Bailey and Rege-Jean Page are not playing characters whose Blackness is the story; they are playing Anna and Michael, two people who fall in love in Tuscany. This is the integrationist model at its most frictionless: take a white genre, insert Black stars, change nothing else. Whether you find that refreshing or flattening depends on your priors. The film itself is a perfectly adequate rom-com that never surprises but never offends. Kat Coiro understands the assignment: pretty people, pretty places, pretty food, a misunderstanding, a resolution, and a kiss at sunset. The supporting cast of Italian actors, including Isabella Ferrari and Marco Calvani, gives the film a specificity that elevates it above generic backlot Tuscany. The 92% audience score versus the 65% critic score tells the real story: critics graded it as formula, audiences graded it as romance, and the audience was right.",
+      "parentalGuidance": "Rated PG-13 for some suggestive material, mild language, and thematic elements. The central romantic relationship includes flirtation and kissing but no explicit sexual content. Anna lets herself into a stranger's empty villa without permission (trespassing presented as quirky). She lies about being engaged, and the lie is eventually exposed with appropriate consequences. Characters drink wine in social settings consistent with Italian culture. Brief language. The film's central deception premise may warrant a conversation with younger viewers about honesty and consent. Suitable for teens and up."
     },
     "fidelity_casting": {
       "sourceType": "Original Screenplay",
