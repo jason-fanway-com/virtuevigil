@@ -2275,6 +2275,8 @@ function buildRedirects() {
 /reviews/the-godfather-part-ii-1974/                         /reviews/the-godfather-part-2-1974/      301
 /reviews/devil-wears-prada-2-2026/                           /reviews/the-devil-wears-prada-2-2026/   301
 /reviews/they-will-kill-you/                                 /reviews/they-will-kill-you-2026/        301
+/reviews/gladiator-2-2024/                                   /reviews/gladiator-ii-2024/              301
+/reviews/yellowstone-2018/                                   /reviews/yellowstone-season-1-2018/      301
 /reviews/you-me-tuscany-2026/                                /reviews/you-me-and-tuscany-2026/        301
 /reviews/ready-or-not-2-2026/                                /reviews/ready-or-not-2-here-i-come-2026/301
 /reviews/mission-impossible-the-final-reckoning-2025/        /reviews/mission-impossible-final-reckoning-2025/301
