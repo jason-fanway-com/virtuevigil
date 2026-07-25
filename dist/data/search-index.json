@@ -11,6 +11,17 @@
     "poster": "/images/posters/the-wire-season-1-2002.jpg"
   },
   {
+    "slug": "band-of-brothers-2001",
+    "title": "Band of Brothers",
+    "verdict": "STRONGLY TRADITIONAL",
+    "genre": "War, Drama, Historical",
+    "year": 2001,
+    "type": "series",
+    "wokeScore": 1.05,
+    "tradScore": 29.56,
+    "poster": "/images/posters/band-of-brothers-2001.jpg"
+  },
+  {
     "slug": "the-debt-collector-2026",
     "title": "The Debt Collector",
     "verdict": "TRADITIONAL",
