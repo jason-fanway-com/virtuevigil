@@ -1,5 +1,29 @@
 [
   {
+    "slug": "seven-1995",
+    "title": "Seven",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "VOD / Physical",
+    "genre": "Crime, Thriller, Drama",
+    "year": 1995,
+    "type": "film",
+    "wokeScore": 1.05,
+    "tradScore": 22.68,
+    "poster": "/images/posters/seven-1995.jpg"
+  },
+  {
+    "slug": "lost-s1-2004",
+    "title": "Lost: Season 1",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "ABC / Streaming",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "year": 2004,
+    "type": "series",
+    "wokeScore": 3.25,
+    "tradScore": 24.02,
+    "poster": "/images/posters/lost-s1-2004.jpg"
+  },
+  {
     "slug": "the-wire-season-1-2002",
     "title": "The Wire: Season 1",
     "verdict": "TRADITIONAL LEAN",
