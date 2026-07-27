@@ -1,5 +1,41 @@
 [
   {
+    "slug": "hadestown-the-musical-2026",
+    "title": "Hadestown: The Musical",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters (Limited Release)",
+    "genre": "Musical, Drama, Fantasy",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 6.38,
+    "tradScore": 21.42,
+    "poster": "/images/posters/hadestown-the-musical-2026.jpg"
+  },
+  {
+    "slug": "true-detective-s1-2014",
+    "title": "True Detective: Season 1",
+    "verdict": "TRADITIONAL",
+    "platform": "HBO / Streaming",
+    "genre": "Crime, Drama, Mystery",
+    "year": 2014,
+    "type": "series",
+    "wokeScore": 3.1,
+    "tradScore": 21.28,
+    "poster": "/images/posters/true-detective-s1-2014.jpg"
+  },
+  {
+    "slug": "there-will-be-blood-2007",
+    "title": "There Will Be Blood",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters (2007) / Streaming",
+    "genre": "Epic Period Drama",
+    "year": 2007,
+    "type": "movie",
+    "wokeScore": 2.61,
+    "tradScore": 17.58,
+    "poster": "/images/posters/there-will-be-blood-2007.jpg"
+  },
+  {
     "slug": "seven-1995",
     "title": "Seven",
     "verdict": "STRONGLY TRADITIONAL",
