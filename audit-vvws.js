@@ -41,9 +41,13 @@ reviews.forEach((r, idx) => {
 
   // Parse current scoreMargin to extract the number
   let currentMargin = null;
-  if (r.scoreMargin) {
-    const match = r.scoreMargin.match(/([+-]?\d+)/);
-    currentMargin = match ? parseInt(match[1]) : null;
+  if (r.scoreMargin !== undefined && r.scoreMargin !== null) {
+    if (typeof r.scoreMargin === 'number') {
+      currentMargin = r.scoreMargin;
+    } else {
+      const match = String(r.scoreMargin).match(/([+-]?\d+)/);
+      currentMargin = match ? parseInt(match[1]) : null;
+    }
   }
 
   // Check margin mismatch

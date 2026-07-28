@@ -152,5 +152,14 @@
     "current": "PREDICTED: TRADITIONAL",
     "expected": "TRADITIONAL",
     "margin": 16
+  },
+  {
+    "slug": "fantastic-four-2025",
+    "type": "scoreMargin",
+    "current": 21.14,
+    "expected": "+21 TRAD",
+    "trad": 22.54,
+    "woke": 1.4,
+    "margin": 21
   }
 ]
