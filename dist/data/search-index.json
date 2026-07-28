@@ -12,6 +12,18 @@
     "poster": "/images/posters/fantastic-four-2025.jpg"
   },
   {
+    "slug": "fargo-1996",
+    "title": "Fargo",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Streaming",
+    "genre": "Crime, Drama, Thriller",
+    "year": 1996,
+    "type": "film",
+    "wokeScore": 0.3,
+    "tradScore": 8.14,
+    "poster": "/images/posters/fargo-1996.jpg"
+  },
+  {
     "slug": "hadestown-the-musical-2026",
     "title": "Hadestown: The Musical",
     "verdict": "TRADITIONAL",
