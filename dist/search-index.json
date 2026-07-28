@@ -1,5 +1,17 @@
 [
   {
+    "slug": "fantastic-four-2025",
+    "title": "The Fantastic Four: First Steps",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Superhero, Sci-Fi, Action",
+    "year": 2025,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 22.54,
+    "poster": "/images/posters/fantastic-four-2025.jpg"
+  },
+  {
     "slug": "hadestown-the-musical-2026",
     "title": "Hadestown: The Musical",
     "verdict": "TRADITIONAL",
@@ -7483,18 +7495,6 @@
     "wokeScore": 1.1,
     "tradScore": 21.4,
     "poster": "/images/posters/mission-impossible-final-reckoning-2025.jpg"
-  },
-  {
-    "slug": "fantastic-four-first-steps-2025",
-    "title": "The Fantastic Four: First Steps",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical",
-    "genre": "Action/Superhero",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 9.98,
-    "tradScore": 18.7,
-    "poster": "/images/posters/fantastic-four-first-steps-2025.jpg"
   },
   {
     "slug": "dog-man-2025",
