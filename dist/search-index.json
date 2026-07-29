@@ -1,5 +1,41 @@
 [
   {
+    "slug": "motor-city-2026",
+    "title": "Motor City",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Action, Revenge Thriller, Crime",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 3,
+    "tradScore": 16.1,
+    "poster": "/images/posters/motor-city-2026.jpg"
+  },
+  {
+    "slug": "the-usual-suspects-1995",
+    "title": "The Usual Suspects",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Streaming",
+    "genre": "Neo-Noir, Crime Thriller, Mystery",
+    "year": 1995,
+    "type": "movie",
+    "wokeScore": 1,
+    "tradScore": 4.9,
+    "poster": "/images/posters/the-usual-suspects-1995.jpg"
+  },
+  {
+    "slug": "furious-s1-2026",
+    "title": "Furious: Season 1",
+    "verdict": "WOKE",
+    "platform": "Hulu",
+    "genre": "Crime Drama, Thriller",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 17.76,
+    "tradScore": 7.98,
+    "poster": "/images/posters/furious-s1-2026.jpg"
+  },
+  {
     "slug": "fantastic-four-2025",
     "title": "The Fantastic Four: First Steps",
     "verdict": "STRONGLY TRADITIONAL",
