@@ -2157,6 +2157,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/every-dc-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-spider-man-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-traditional-movies-of-all-time/`, changefreq: 'weekly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -35079,6 +35080,14 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-drama-movies',
     publishDate: '2026-07-11',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-drama-movies/content.html'), 'utf-8')
+  }));
+
+  writePage('lists/most-traditional-movies-of-all-time/index.html', buildListiclePage({
+    slug: 'most-traditional-movies-of-all-time',
+    title: 'The 25 Most Traditional Movies of All Time, Ranked by VirtueVigil',
+    description: 'From The Passion of the Christ to Solo Leveling, we ranked the 25 most traditional films in our database. Every score backed by VirtueVigil\'s dual-metric methodology.',
+    canonicalPath: 'lists/most-traditional-movies-of-all-time',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-traditional-movies-of-all-time/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
