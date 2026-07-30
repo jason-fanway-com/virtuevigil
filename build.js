@@ -187,6 +187,66 @@ function normalizeVerdict(v) {
   } else {
     console.log(`Review integrity gate PASS: all ${inputCount} reviews valid, 0 dropped.`);
   }
+
+  // === TROPE AUDIT INTEGRITY GATE (2026-07-30) ===
+  // wokeScore and tradScore MUST equal the sum of their respective tropeAudit
+  // weightedScores. Drift means a Builder agent wrote scores independently from
+  // trope weights, which creates contradictions the reader can't reconcile.
+  // This gate prevents that drift from ever shipping.
+  for (const r of reviews) {
+    if (r.type !== 'film') continue;
+    const ta = r.tropeAudit;
+    if (!Array.isArray(ta) || ta.length === 0) {
+      problems.push(`EMPTY TROPE AUDIT: ${r.slug} — review has no tropeAudit entries`);
+      continue;
+    }
+    let wokeSum = 0, tradSum = 0;
+    for (const t of ta) {
+      const cat = String(t.category || '').toUpperCase();
+      const ws = Number(t.weightedScore || 0);
+      if (cat.includes('WOKE')) wokeSum += ws;
+      else tradSum += ws;
+    }
+    wokeSum = Math.round(wokeSum * 10) / 10;
+    tradSum = Math.round(tradSum * 10) / 10;
+    // If both sums are 0 the categories are likely mislabeled — warn, don't hard-fail
+    if (wokeSum === 0 && tradSum === 0) {
+      problems.push(`TROPE CATEGORY SUSPECT: ${r.slug} — tropeAudit entries present but no WOKE/TRAD categories resolved (sums both 0)`);
+      continue;
+    }
+    const reportedWoke = Math.round(Number(r.wokeScore || 0) * 10) / 10;
+    const reportedTrad = Math.round(Number(r.tradScore || 0) * 10) / 10;
+    if (Math.abs(wokeSum - reportedWoke) > 0.6) {
+      problems.push(`WOKE SCORE DRIFT: ${r.slug} — wokeScore=${reportedWoke} but tropeAudit sums to ${wokeSum} (Δ${Math.round((wokeSum - reportedWoke) * 10) / 10})`);
+    }
+    if (Math.abs(tradSum - reportedTrad) > 0.6) {
+      problems.push(`TRAD SCORE DRIFT: ${r.slug} — tradScore=${reportedTrad} but tropeAudit sums to ${tradSum} (Δ${Math.round((tradSum - reportedTrad) * 10) / 10})`);
+    }
+  }
+  // Re-evaluate fatals: score drift and empty audits are FATAL
+  if (problems.length > 0) {
+    // report new problems
+    const newProblems = problems.slice(); // already accumulated in the same array
+  }
+  // Only SCORE DRIFT is fatal (empty audits are legacy, warn but don't block)
+  const tropeFatals = problems.filter(p =>
+    p.startsWith('WOKE SCORE DRIFT') ||
+    p.startsWith('TRAD SCORE DRIFT')
+  );
+  const tropeWarns = problems.filter(p =>
+    p.startsWith('EMPTY TROPE AUDIT') ||
+    p.startsWith('TROPE CATEGORY SUSPECT')
+  );
+  if (tropeWarns.length > 0) {
+    console.warn(`\n*** TROPE AUDIT WARNINGS (${tropeWarns.length}, non-fatal) ***`);
+    tropeWarns.forEach(p => console.warn(`  ${p}`));
+  }
+  if (tropeFatals.length > 0) {
+    console.error(`\n*** TROPE AUDIT INTEGRITY FAILURES (${tropeFatals.length}) ***`);
+    tropeFatals.forEach(p => console.error(`  ${p}`));
+    console.error(`\nBUILD ABORTED: wokeScore/tradScore must match tropeAudit sums. Run fix-vvws-scores.py to recalculate.`);
+    process.exit(1);
+  }
 }
 
 // === POSTER QUALITY GATE ===
