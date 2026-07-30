@@ -442,7 +442,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "Xie Miao's fight choreography is foregrounded as spectacle and character definition. The body as instrument of justice is a recurring visual motif."
       },
       {
@@ -656,7 +656,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "The film's emotional spine is the human capacity to endure incomprehensible horror. Mary's (Renate Reinsve) journey through the Backrooms is one of stubborn refusal to be broken, not identity affirmation."
       },
       {
@@ -666,7 +666,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Characters are frequently cut off from support systems and must rely on their own wits. No deus ex machina rescue. The liminal space itself enforces radical individualism."
       },
       {
@@ -1560,7 +1560,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "14 min",
     "poster": "/images/posters/mother-mary-2025.jpg",
-    "verdict": "PREDICTED: WOKE LEAN",
+    "verdict": "WOKE LEAN",
     "wokeScore": 28.4,
     "tradScore": 19.8,
     "authIndex": 71,
@@ -1832,7 +1832,7 @@
     "studio": "Moon7 Films / Dropshock Pictures",
     "distributor": "DeVuono Releasing",
     "verdict": "TRADITIONAL",
-    "wokeScore": 0.0,
+    "wokeScore": 0,
     "tradScore": 12.36,
     "authIndex": 91,
     "scoreMargin": "+12 TRAD",
@@ -1968,7 +1968,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Tara refuses to accept the official story of her brother getting lost in the woods. She pursues suppressed evidence, confronts the lead investigator, and ultimately enters the dangerous site herself. The film frames her pursuit of truth as virtuous, even as it leads to horror."
       },
       {
@@ -3101,7 +3101,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "14 min",
     "poster": "/images/posters/apex-2026.jpg",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "wokeScore": 6.8,
     "tradScore": 18.4,
     "authIndex": 73,
@@ -3185,7 +3185,7 @@
     "genre": "Animated / Adventure / Comedy / Drama / Family",
     "studio": "Angel Studios",
     "budget": "$35 million",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "woke_score": 13.08,
     "traditional_score": 23.94,
     "composite_score": 55,
@@ -8436,7 +8436,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "11 min",
     "poster": "/images/posters/beast-2026.jpg",
-    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 1.5,
     "tradScore": 27,
     "authIndex": 95,
@@ -10742,7 +10742,7 @@
     "author": "Debra Ducane",
     "readTime": "10 min",
     "poster": "/images/posters/mother-mary-2026.jpg",
-    "verdict": "PREDICTED: WOKE",
+    "verdict": "WOKE",
     "wokeScore": 18.8,
     "tradScore": 7.88,
     "authIndex": 78,
@@ -10979,7 +10979,7 @@
     "author": "Debra Ducane",
     "readTime": "9 min",
     "poster": "/images/posters/faces-of-death-2026.jpg",
-    "verdict": "PREDICTED: MIXED",
+    "verdict": "MIXED",
     "wokeScore": 10.3,
     "tradScore": 10.36,
     "authIndex": 82,
@@ -12425,7 +12425,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Gabriella Costa and Nonna Alessia warmly accept Anna into their family even before the engagement is exposed as a lie. Multi-generational Italian family life is presented as warm, desirable, and meaningful."
       },
       {
@@ -12435,7 +12435,7 @@
         "severity": 1,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Anna's lie about being Matteo's fiancee unravels. The resolution requires her to come clean and face the consequences. Deception is presented as unsustainable and harmful, while honesty restores relationships."
       },
       {
@@ -12445,7 +12445,7 @@
         "severity": 1,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Italian cooking, vineyard life, family meals, and Tuscan landscapes are not just scenery; they are presented as a source of genuine meaning and rootedness that Anna's modern American drift lacked."
       },
       {
@@ -12455,7 +12455,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Halle Bailey and Rege-Jean Page are cast as romantic leads in a Tuscan rom-com, a genre and setting historically reserved for white actors. Will Packer Productions is explicit about its mission to center Black stories. This casting is the film's marketing hook and is visible from the first trailer, not hidden."
       },
       {
@@ -12535,7 +12535,7 @@
     "author": "Debra Ducane",
     "readTime": "11 min",
     "poster": "/images/posters/lee-cronins-the-mummy-2026.jpg",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "wokeScore": 1.7,
     "tradScore": 16.24,
     "authIndex": 80,
@@ -12732,7 +12732,7 @@
     "author": "Debra Ducane",
     "readTime": "14 min",
     "poster": "/images/posters/michael-2026.jpg",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 11.88,
     "tradScore": 17.29,
     "authIndex": 82,
@@ -12972,7 +12972,7 @@
     ],
     "studio": "Columbia Pictures / Marvel Studios / Pascal Pictures",
     "distributor": "Sony Pictures Releasing",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 6.3,
     "tradScore": 13.09,
     "scoreMargin": "+7 TRAD",
@@ -37033,7 +37033,7 @@
     "author": "Debra Ducane",
     "readTime": "12 min",
     "poster": "/images/posters/avengers-doomsday-2026.jpg",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "wokeScore": 4.6,
     "tradScore": 18.4,
     "authIndex": 82,
@@ -37262,7 +37262,7 @@
     "author": "Debra Ducane",
     "readTime": "11 min",
     "poster": "/images/posters/sunrise-on-the-reaping-2026.jpg",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 6.1,
     "tradScore": 13.23,
     "authIndex": 80,
@@ -58931,7 +58931,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "8 min",
     "poster": "/images/posters/coyote-vs-acme-2026.jpg",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 9,
     "tradScore": 16,
     "authIndex": 64,
@@ -65600,7 +65600,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "11 min",
     "poster": "/images/posters/the-optimist-2026.jpg",
-    "verdict": "PREDICTED: STRONGLY TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 3.01,
     "tradScore": 24.82,
     "authIndex": 78,
@@ -66888,7 +66888,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "11 min",
     "poster": "/images/posters/ready-or-not-2-here-i-come-2026.jpg",
-    "verdict": "PREDICTED: WOKE LEAN",
+    "verdict": "WOKE LEAN",
     "wokeScore": 16.85,
     "tradScore": 11.2,
     "authIndex": 48,
@@ -70991,7 +70991,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "10 min",
     "poster": "/images/posters/scary-movie-6-2026.jpg",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 8.4,
     "tradScore": 14.7,
     "authIndex": 64,
@@ -100836,7 +100836,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "8 min",
     "poster": "/images/posters/ready-or-not-2.jpg",
-    "verdict": "PREDICTED: WOKE LEAN",
+    "verdict": "WOKE LEAN",
     "wokeScore": 6,
     "tradScore": 3,
     "authIndex": 48,
@@ -100892,7 +100892,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "8 min",
     "poster": "/images/posters/one-piece-s2.jpg",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 3,
     "tradScore": 7,
     "authIndex": 74,
@@ -100948,7 +100948,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "8 min",
     "poster": "/images/posters/outlander-s8.jpg",
-    "verdict": "PREDICTED: MIXED",
+    "verdict": "MIXED",
     "wokeScore": 4,
     "tradScore": 6,
     "authIndex": 68,
@@ -101004,7 +101004,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "8 min",
     "poster": "/images/posters/ted-s2.jpg",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 3,
     "tradScore": 6,
     "authIndex": 72,
@@ -101060,7 +101060,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "8 min",
     "poster": "/images/posters/youngblood-2026.jpg",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 48,
     "tradScore": 52,
     "authIndex": 62,
@@ -101116,7 +101116,7 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "9 min",
     "poster": "/images/posters/scarpetta.jpg",
-    "verdict": "PREDICTED: WOKE",
+    "verdict": "WOKE",
     "wokeScore": 58,
     "tradScore": 42,
     "authIndex": 55,
@@ -116709,7 +116709,7 @@
     ],
     "studio": "C2 / Toff Guy Films",
     "distributor": "Black Bear Pictures",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "wokeScore": 2.7,
     "tradScore": 14.28,
     "authIndex": 80,
@@ -116945,7 +116945,7 @@
     ],
     "studio": "TriStar Pictures / Wonder Project",
     "distributor": "Sony Pictures Releasing",
-    "verdict": "PREDICTED: TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 5.78,
     "tradScore": 13.02,
     "authIndex": 68,
@@ -127811,7 +127811,7 @@
     ],
     "studio": "Avatar Studios / Nickelodeon Movies / Paramount Animation",
     "distributor": "Paramount+",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "wokeScore": 4.2,
     "tradScore": 21.84,
     "authIndex": 77,
@@ -133571,7 +133571,7 @@
     ],
     "studio": "Marvel Studios",
     "distributor": "Walt Disney Studios Motion Pictures",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "wokeScore": 3.1,
     "tradScore": 19.04,
     "authIndex": 72,
@@ -155108,7 +155108,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Tewkesbury renounces his aristocratic family name and title, choosing to live as a commoner under his birth name. Enola keeps her surname after marriage rather than adopting her husband's. Both choices frame traditional family and inheritance structures as obstacles to authentic identity."
       },
       {
@@ -155247,7 +155247,7 @@
     "studio": "Polaris Productions / Hawk Films",
     "distributor": "Warner Bros. (US) / Columbia-Warner (UK)",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 2.0,
+    "wokeScore": 2,
     "tradScore": 9.31,
     "authIndex": 80,
     "scoreMargin": "+7 TRAD",
@@ -155322,7 +155322,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "The government, the scientific establishment, and the political class are portrayed as corrupt and willing to destroy a human being for political gain. While the critique is classical-liberal (defending the individual against the state), the surface-level presentation of corrupt institutions maps to this trope."
       },
       {
@@ -155484,7 +155484,7 @@
     "studio": "HBO Entertainment",
     "distributor": "HBO",
     "verdict": "TRADITIONAL",
-    "wokeScore": 1.0,
+    "wokeScore": 1,
     "tradScore": 20.3,
     "authIndex": 95,
     "scoreMargin": "+19 TRAD",
@@ -155613,7 +155613,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "HBO's signature premium-cable excess manifests in gratuitous nudity and brothel scenes that normalize casual sexual content. This is brand identity rather than ideology, but it registers on the scale. Daenerys's arranged-marriage arc includes sexual content that is narratively motivated; the brothel scenes largely are not."
       },
       {
@@ -155820,7 +155820,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Sigourney Weaver's Commander Ward is a female military authority figure who gives Mando his missions and arrives with the cavalry at the climax. The role is played professionally rather than as a girl-boss statement, but the character's authority position and gender register lightly on the scale. She is competent rather than domineering."
       },
       {
@@ -157267,7 +157267,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "The contrast between Joe and Hawk functions as a quiet critique of traditional masculinity. Joe is prickly, sarcastic, and emotionally defended. Hawk is receptive, curious, and emotionally generous. The film frames Hawk's rejection of masculine stoicism as healthy and Joe's adherence to it as pathological. This is subtext rather than thesis, but it is consistent: the man who refuses to be vulnerable is the man who destroys his marriage."
       },
       {
@@ -157559,7 +157559,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "The Macrodata Refinement team bonds into a surrogate family on the severed floor. Mark, Helly, Irving, and Dylan develop loyalty, trust, and affection that rival or exceed their outie connections. This is authentic to the premise (they have no memory of biological family during work hours) and to real workplace dynamics where colleagues become close. But the framing occasionally valorizes the severed-floor bonds over the characters' outside relationships in ways that echo the chosen-family-over-blood trope."
       },
       {
@@ -157757,7 +157757,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Marcus functions as a chosen brother whose bond with Rudd, forged through the mentorship program, competes with and ultimately enriches Rudd's biological family ties. The film frames Marcus's loyalty as purer than Josh's competitive disdain. This is moderate in both authenticity (the Big Brother premise naturally creates chosen-family dynamics) and centrality (the bio-family is ultimately restored, not replaced)."
       },
       {
@@ -157787,7 +157787,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "Rudd's fractured family mends through his return to genuine fatherhood and husbandhood. The final scenes show a functional family unit where Rudd is present, engaged, and no longer performing masculinity for external validation. The restoration is not magical; it is the result of Rudd doing the work of being a father and husband. The film treats this restoration as the happy ending, affirming the nuclear family as the site of human flourishing."
       }
     ],
@@ -158178,7 +158178,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "The cruises division cover-up, revealed through Greg's document-shredding, positions Waystar as an institution that protects sexual predators. The corporate structure exists to bury crimes, preserve the brand, and shield the powerful from consequences. The show presents this not as one bad division of an otherwise functional company but as the natural expression of corporate logic. The authenticity is moderate because corporate cover-ups of sexual misconduct are a documented reality. The centrality is moderate because the cruises plotline is a subplot in Season 1 that grows in importance in later seasons."
       },
       {
@@ -158198,7 +158198,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "The women in Succession are consistently smarter, more composed, and more strategically capable than the men. Marcia Roy (Hiam Abbass) navigates Logan's world with quiet mastery. Gerri Kellman (J. Smith-Cameron) is the company's general counsel and one of the few people Logan trusts for actual advice. Shiv outperforms her brothers in nearly every dimension. The men, by contrast, are emotional wrecks whose competence is performative. This contrast functions as an ideological statement about gender and power: the people who should be running things are the women, and the fact that they are not is evidence of systemic failure."
       },
       {
@@ -158228,7 +158228,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Greg Hirsch's arc from theme-park mascot to junior Waystar executive, and Tom Wambsgans's ascent from Midwestern striver to senior management, are the closest the show comes to meritocracy. Greg earns his place through a combination of luck (being Logan's great-nephew) and adaptability (learning to play the Roy family's games). Tom earns his through genuine business competence and strategic sycophancy. Neither is a pure meritocratic triumph, but both arcs acknowledge that non-Roy characters can succeed in the Roy ecosystem through effort and intelligence."
       },
       {
@@ -158538,7 +158538,7 @@
     "distributor": "United Artists",
     "preRelease": false,
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 0.0,
+    "wokeScore": 0,
     "tradScore": 30.59,
     "authIndex": 97,
     "scoreMargin": "+31 TRAD",
@@ -158548,7 +158548,7 @@
       "explanation": "12 Angry Men contains no woke content. The film was made in 1957 by director Sidney Lumet and writer Reginald Rose, both working in the tradition of mid-century American liberalism, which was concerned with procedural fairness, rational deliberation, and the dignity of the individual under law. These are classical liberal values, not woke ones. The film's framework is entirely traditional: due process, the presumption of innocence, and the duty of citizens to take their responsibilities seriously. The concept of a woke trap is inapplicable to a film made decades before the woke ideological framework existed."
     },
     "externalScores": {
-      "imdb": 9.0,
+      "imdb": 9,
       "rottenTomatoesCritic": 100,
       "rottenTomatoesAudience": 97,
       "metacritic": 97,
@@ -158765,7 +158765,7 @@
     "distributor": "Netflix",
     "preRelease": false,
     "verdict": "TRADITIONAL",
-    "wokeScore": 2.0,
+    "wokeScore": 2,
     "tradScore": 20.16,
     "authIndex": 84,
     "scoreMargin": "+18 TRAD",
@@ -158905,7 +158905,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Laura's restless ambition is given slightly more emphasis than the source novels provided, with a few moments that frame her drive to write and explore as a tension with domestic expectations. This is a mild concession to contemporary preferences for female characters to express ambition beyond the home. The series resolves this tension not through rejection of domestic life but through integration of both impulses, which keeps the score low. It is set dressing on a traditional foundation."
       },
       {
@@ -158915,7 +158915,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "A few scenes frame Laura's desire for a life beyond Walnut Grove as a mild tension with her mother's contentment in domestic life. The series does not frame domesticity as oppression, but it does allow Laura to question whether homemaking is all she wants. This is handled with restraint: Caroline is not depicted as trapped, and Laura's ambition is not depicted as rebellion. The show simply acknowledges that a spirited girl in the 1870s might feel conflicted about the life path laid out for her. The resolution affirms both paths as valid rather than choosing one over the other."
       }
     ],
@@ -159305,7 +159305,7 @@
     "distributor": "HBO",
     "preRelease": false,
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 2.0,
+    "wokeScore": 2,
     "tradScore": 27.72,
     "authIndex": 93,
     "scoreMargin": "+26 TRAD",
@@ -159386,7 +159386,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Ulana Khomyuk (Emily Watson) is a composite character invented by Craig Mazin to represent the many Soviet nuclear physicists who worked alongside Valery Legasov. Composite characters are a legitimate dramatic convention in historical filmmaking (compare A Beautiful Mind, Apollo 13, or The Imitation Game). The choice to make the composite character a woman in a historically male-dominated field carries a mild ideological valence, but the execution is defensible: Khomyuk is not a Girl Boss, does not dominate or lecture male characters, and her gender is treated as incidental to her expertise. Her inclusion improves the narrative by providing a single scientist-character to interact with Legasov and Shcherbina rather than a rotating cast. Severity is Mild because the character serves story first and ideology second. The authenticity of the choice is Moderate (1.0) because while composite characters are standard dramatic practice, the specific decision to gender the composite as female when the real scientists were predominantly male has a detectable contemporary sensibility."
       },
       {
@@ -159499,8 +159499,8 @@
     ],
     "studio": "Radial Entertainment",
     "distributor": "Radial Entertainment",
-    "verdict": "PREDICTED: TRADITIONAL",
-    "wokeScore": 2.0,
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2,
     "tradScore": 17.7,
     "authIndex": 90,
     "scoreMargin": "+16 TRAD",
@@ -159600,7 +159600,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "explanation": "The Isolate Thief features a young female protagonist who must outsmart a group of violent male outlaws who have seized control of her remote outpost. This premise carries mild potential for Girl Boss framing, depending on execution. The tagline 'Underestimating her is a grave mistake' suggests the men will be proven wrong about her capabilities. However, the available plot description describes her as 'struggling to conceal the gold,' which suggests survival and evasion rather than domination or hyper-masculine aggression. A protagonist hiding from dangerous people and using her wits to survive is not a Girl Boss. It is a universal survival premise. The score of 2.0 reflects this ambiguity: the potential is present in the premise but unsupported by any evidence that the film frames her competence as a rejection of traditional femininity or as a statement about gender superiority. John Suits's filmography contains no ideological history. The character is original IP, not a gender-swapped legacy role. At the character-trait level, this is mild to moderate in severity and moderate in centrality, not the film's thesis."
       },
       {
@@ -159650,7 +159650,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "explanation": "The Western genre's narrative arc almost always concludes with the guilty punished and order restored. The outlaws who have seized control of the outpost represent a disruption of legitimate order. The protagonist's concealment of the gold is an act of defiance against that disruption. As a pre-release prediction, the film's exact conclusion is unknown, but the genre conventions and the premise both point toward a resolution in which the outlaws are defeated and the protagonist survives. This is the Western's version of justice restored: the black hats lose, the innocent prevail, and the frontier returns to a state of order in which violence is not the governing principle. Severity is Moderate (3) because this resolution is genre-default rather than the film's unique contribution. Authenticity is Moderate (1.0) because the specific resolution is unconfirmed. Centrality is Moderate (1.0) because the resolution occupies the third act rather than the full structure."
       }
     ],
@@ -159904,7 +159904,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "explanation": "Buzz Lightyear's character arc is a meritocratic triumph in miniature. He arrives believing his value comes from his manufactured identity: Space Ranger, galactic defender, laser-equipped hero. His crisis comes when he discovers this identity is a product sold in stores. The resolution is that he earns his real worth through his actions: saving Woody, fighting Scud, trusting Woody with the rocket plan. 'You are his toy,' Woody tells him, 'and that's the greatest thing you can be.' Buzz's worth is not assigned by identity or packaging. It is earned through loyalty and courage. This is meritocracy as the film's emotional thesis. Severity 3 (Moderate, a clear thematic thread), Moderate authenticity (the arc fits the character but the moral is deliberately articulated), Moderate centrality (Buzz's arc is one of the film's two primary character journeys)."
       },
       {
@@ -159934,7 +159934,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "explanation": "Forgiveness is the emotional resolution of the Woody-Buzz rivalry. Woody's jealousy leads to Buzz being knocked out the window, a genuinely harmful act. Buzz's understandable fury leads to their fight at the gas station, which strands them both. Their reconciliation is not stated as a formal apology but is enacted through mutual sacrifice. Woody risks himself to save Buzz. Buzz trusts Woody with his life. The relationship is restored through actions rather than words, and the film's final shot (their shared nervous smile at the new puppy) confirms that the forgiveness is complete. Severity 2 (Mild, a natural emotional resolution rather than a didactic lesson), Moderate authenticity and centrality."
       },
       {
@@ -160181,7 +160181,7 @@
         "severity": 2,
         "authenticity": "High",
         "centrality": "Moderate",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "The season reveals that the Widow's Bay town government has secretly maintained a sacrificial covenant for over 300 years, murdering citizens whenever the church bell rings to appease a demonic entity. This could be framed as an anti-institutional critique. However, the show deploys this as a horror genre convention (the secret-government-supernatural-conspiracy trope dates to Lovecraft and earlier) rather than as a political argument about real-world government. The police (Sheriff Bechir) are shown as principled and good. The church (Reverend Bryce) is a victim, not a perpetrator. Tom's mayoral administration is ignorant of the conspiracy until the final episodes. The show maps its institutional critique onto a fictional supernatural mechanism, not onto real institutions. Severity 2 (Mild, the trope is present but genre-conventional), High authenticity (secret government conspiracy is a horror staple, not an ideological insertion), Moderate centrality (the conspiracy reveal is the season's major plot twist)."
       },
       {
@@ -160581,7 +160581,7 @@
     "studio": "Newmarket Films / Syncopy",
     "distributor": "Buena Vista Pictures / Warner Bros.",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 0.0,
+    "wokeScore": 0,
     "tradScore": 21.56,
     "authIndex": 100,
     "scoreMargin": "+22 TRAD",
@@ -161675,7 +161675,7 @@
       "explanation": "NOT A WOKE TRAP. Return of the King is arguably the most traditionally-themed blockbuster ever made, adapted from a source written by a devout Catholic. The Christian allegory runs deep: Frodo as a Christ-figure bearing the weight of sin, Gandalf's death and resurrection, Aragorn as the returning king, the clear moral binary of good versus evil, and the triumph of humility over power. Eowyn's battlefield courage is organically rooted in Tolkien's text and motivated by love and loyalty, not ideology. The film contains zero hidden progressive agendas. It is exactly what it appears to be: a grand moral epic about sacrifice, mercy, and the restoration of order."
     },
     "externalScores": {
-      "imdb": 9.0,
+      "imdb": 9,
       "rottenTomatoesCritic": 94,
       "rottenTomatoesAudience": 86,
       "metacritic": 94
@@ -162103,7 +162103,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Rhaenyra has girlboss framing in the early episodes (defiant princess who rides dragons, 'I will not be a tyrant' speech, rejecting traditional femininity). The season undercuts this steadily: by the end she is politically isolated, her bastard children are a liability, and her claim leads to her son's death. The show does not reward her with unearned victories. But the early framing is clearly meant to appeal to the 'strong female character' sensibility, and it takes half a season to fully subvert."
       },
       {
@@ -162176,7 +162176,7 @@
     "studio": "Sony Pictures / Hyperobject Industries",
     "distributor": "Netflix",
     "verdict": "TRADITIONAL",
-    "wokeScore": 2.0,
+    "wokeScore": 2,
     "tradScore": 15.68,
     "authIndex": 88,
     "scoreMargin": "+13.7 TRAD",
@@ -162221,9 +162221,9 @@
         "name": "The Bumbling Patriarch",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 2.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 2,
         "description": "Billy Olsen, the foster father, is portrayed as an incompetent, corrupt authority figure who steals welfare payments from the children in his care and is ultimately eaten by a shark. The trope is present but occupies a minor subplot rather than the film's thesis."
       },
       {
@@ -162242,7 +162242,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "description": "The foster siblings survive through their own ingenuity (rigging dynamite, using a snorkel truck). Nobody rescues them; they rescue themselves through grit and resourcefulness."
       },
@@ -162252,7 +162252,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "description": "Every character who survives does so through sustained effort rather than luck. The siblings fight through flooded rooms and shark-infested water. Dakota and Lisa endure childbirth in flood conditions."
       },
@@ -162272,7 +162272,7 @@
         "category": "Traditional",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "description": "The film maintains a clear moral line: Billy's exploitation of foster children is wrong, the sharks are a threat to be overcome, and the protagonists are defined by their willingness to protect others. The moral framework is simple but unambiguous."
       }
@@ -162386,7 +162386,7 @@
         "category": "Woke",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "description": "The Civil War sequences portray the military institution as indifferent to human life, with the Union captain sacrificing men for a strategically meaningless bridge. This anti-authority strain is organic to the Italian western tradition and predates modern ideological critiques of institutions."
       },
@@ -162406,7 +162406,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "description": "Blondie wins the gold because he is smarter, more patient, and more disciplined than his competitors. The film is a pure meritocracy: Angel Eyes has ruthlessness, Tuco has resourcefulness, but Blondie wins because he combines intelligence with a code of conduct."
       },
@@ -162426,7 +162426,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "description": "All three men endure brutal conditions (desert crossing, POW camp, forced marches) in pursuit of the gold. Survival is earned through suffering and endurance, not luck or identity. Tuco's desert crossing is a masterclass in perseverance under impossible conditions."
       },
@@ -162446,7 +162446,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "description": "Angel Eyes receives the death he has dealt to others. Tuco is humiliated but survives. Blondie rides away with his share of the gold. The ending delivers proportional justice: the merciless killer dies, the selfish survivor is punished and spared, and the man with a code prospers."
       }
@@ -162588,7 +162588,7 @@
         "category": "Woke",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "description": "Fisk's corruption of the mayor's office and manipulation of the legal system presents institutional decay. However, the show frames this as Fisk's personal evil corrupting institutions rather than institutions being inherently corrupt. The courts are imperfect but necessary; the police are mixture of honorable and compromised."
       },
@@ -162628,7 +162628,7 @@
         "category": "Traditional",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "description": "The series is built on a Judeo-Christian moral framework. Right and wrong are real categories. Sin has consequences. Forgiveness is possible but requires genuine repentance. The confession scenes operate on specifically Catholic theological assumptions that the show does not undermine."
       },
@@ -162658,7 +162658,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "description": "Matt's Catholic faith is not a fair-weather belief. After Foggy's murder, after losing everything, he still kneels. His faith is tested and strained but never abandoned, and the show presents this persistence as admirable rather than delusional."
       },
@@ -162732,7 +162732,7 @@
     "seasons": 1,
     "seasonsReference": "Limited Series, 2 episodes released (ongoing)",
     "verdict": "MIXED",
-    "wokeScore": 4.0,
+    "wokeScore": 4,
     "tradScore": 5.74,
     "authIndex": 57,
     "scoreMargin": "+2 TRAD",
@@ -162785,7 +162785,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "The 'found family' theme from Stapley's novel is carried into the series as a central emotional throughline. Lucky's biological family is uniformly dangerous or absent (father in prison, mother-in-law trying to kill her), while her only authentic connections are with fellow outcasts and allies she chooses. The architecture of the story assumes that peer-chosen communities are more valid than biological ties. This is not delivered as a lecture but is baked into the premise."
       },
       {
@@ -162795,7 +162795,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Women occupy every major power position in Lucky's world: the protagonist (con artist), the antagonist (mob boss Priscilla Masterson), and the law enforcement pursuer (FBI Agent Billie Rand). This concentration of female authority across all institutional spheres (criminal, law enforcement) is demographically skewed and reflects the 'women run the world' casting pattern common in female-driven thrillers. The characters are well-acted and individually compelling, but the aggregate effect is an ideological statement about female dominance in traditionally male spaces."
       },
       {
@@ -163044,7 +163044,7 @@
     "studio": "The Coppola Company / American Zoetrope",
     "distributor": "Paramount Pictures",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 0.0,
+    "wokeScore": 0,
     "tradScore": 23.8,
     "authIndex": 100,
     "scoreMargin": "+24 TRAD",
@@ -163055,7 +163055,7 @@
       "explanation": "The Godfather Part II cannot be a woke trap because it has no woke content whatsoever. The verdict is STRONGLY TRADITIONAL with a margin of +24. The film is a 1974 epic about family, power, corruption, and the immigrant experience. Its moral framework is Catholic, its view of the American Dream is patriotic, and its treatment of gender roles is traditional. There is no hidden ideological payload."
     },
     "externalScores": {
-      "imdb": 9.0,
+      "imdb": 9,
       "rottenTomatoesCritic": 96,
       "rottenTomatoesAudience": 97,
       "metacritic": 90
@@ -164083,7 +164083,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Bourne repeatedly puts himself between Marie and danger. He could leave her at any point and improve his odds of escape; he stays. After the safe house assault, his primary concern is not his mission but her safety. The sacrifice is personal and concrete rather than grand and symbolic, which makes it more authentic, not less."
       },
       {
@@ -164113,7 +164113,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Marie Kreutz is the innocent drawn into Bourne's world. She is not a spy, not a soldier, not a conspirator. She is a broke German traveler who needed cab fare. Bourne's protection of her becomes his moral compass: she is the proof that he is not the monster Treadstone made. The film validates the traditional instinct to shield the innocent from the consequences of a world they did not choose."
       },
       {
@@ -164728,7 +164728,7 @@
         "severity": 4,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 4.0,
+        "weightedScore": 4,
         "description": "The Terminator presents a moral universe with clear boundaries. The T-800 is evil made literal: it kills without remorse, without hesitation, without even the possibility of reconsideration. Kyle Reese is good made literal: he protects, sacrifices, loves. The film does not blur these lines or invite moral ambiguity. This is a universe where right and wrong are knowable, and the only question is whether you have the courage to act on what you know."
       },
       {
@@ -164818,7 +164818,7 @@
     "studio": "Universal Pictures",
     "distributor": "Universal Pictures",
     "verdict": "TRADITIONAL",
-    "wokeScore": 1.0,
+    "wokeScore": 1,
     "tradScore": 12.74,
     "authIndex": 93,
     "scoreMargin": "+12 TRADITIONAL",
@@ -165035,7 +165035,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "The bonds between characters carry real dramatic weight. Avon and Stringer's partnership is built on years of shared history. McNulty and Bunk's friendship is the emotional anchor of the investigation. Omar's code of loyalty to his crew is ironclad. When these bonds break -- as they do -- the betrayal is treated as tragedy, not plot convenience."
       },
       {
@@ -165045,7 +165045,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "Lieutenant Daniels mentors Carver and the younger officers with genuine investment in their growth. Bunk and McNulty's partnership is grounded in mutual respect and accountability. Even the Barksdale organization operates on a hierarchy of older teaching younger -- though what they teach is crime, the structure and gravity of mentorship is treated as a human constant."
       },
       {
@@ -165065,7 +165065,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "The Barksdale detail's work is a celebration of traditional police craft. Lester Freamon pieces together the money trail from a single property record. The detail spends weeks on surveillance, payphone records, and old-fashioned legwork. The show treats competent, patient investigation as an art form and a dying virtue in an era of stats-driven policing."
       }
     ],
@@ -165251,7 +165251,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Prayer and chaplaincy appear periodically as natural elements of military life rather than objects of critique. Soldiers attend services, a chaplain delivers last rites, and moral decisions are occasionally framed in religious terms. The series treats faith as a source of comfort and moral grounding without making it a central theme."
       },
       {
@@ -165348,7 +165348,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "The old-world Italian identity haunts the characters -- through food, language fragments, and stories of the old country. Tony's trip to Italy in Season 2 is foreshadowed by the Season 1 nostalgia for a homeland most of them have never seen. The show treats cultural erosion as a genuine loss."
       },
       {
@@ -165388,7 +165388,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "The characters are casually, reflexively racist, and the show does not sanitize it. But it also does not editorialize. The racism is presented as an unflattering ethnographic detail -- a marker of the characters' provincialism and insecurity -- rather than as a subject the show is eager to lecture about."
       }
     ],
@@ -165909,7 +165909,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "Kate is written as hyper-competent in survival skills, tracking, and combat in ways that sometimes strain credibility for a woman with no military background. This was standard 'strong female character' writing of the 2000s era, less ideological than formulaic. Her competence is demonstrated rather than announced, which keeps it from feeling like sermonizing."
       },
       {
@@ -166228,7 +166228,7 @@
       "explanation": "NOT A WOKE TRAP. Rust Cohle's nihilism is introduced in Episode 1 and sustained across all 8 episodes. The show never pretends his philosophy is correct. It presents it as the tragic worldview of a broken man, and the entire season functions as a rebuttal. By the finale, Rust admits he was wrong: 'Once there was only dark. If you ask me, the light's winning.' The critique of institutional religion (Tuttle's pedophile ring) is also surface-level from Episode 1, where we learn the victim was found at a religious site. Nothing is hidden. The show tells you exactly what it is from the start, and the ending affirms hope, not cynicism."
     },
     "externalScores": {
-      "imdb": 9.0,
+      "imdb": 9,
       "rottenTomatoesCritic": 91,
       "rottenTomatoesAudience": 92,
       "metacritic": 87
@@ -166316,7 +166316,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "Despite Rust's atheism (and Marty's nominal Christianity), the show's moral framework is Judeo-Christian: light versus dark, sin and redemption, hell (Carcosa) and heaven (the stars). The final image is the night sky, and the final word is hope. Rust's arc rejects nihilism in favor of something that looks a lot like faith."
       },
       {
@@ -166356,7 +166356,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "The show's depiction of rural Louisiana can be read as a liberal's nightmare of the South: poverty, incest, religious hypocrisy, and violence. But this is a fair representation of a specific corrupt network, not an indictment of Southern culture broadly. Authentic to the story's setting and genre."
       }
     ],
@@ -167308,7 +167308,7 @@
     "studio": "Stampede Ventures",
     "distributor": "IFC Films",
     "verdict": "TRADITIONAL",
-    "wokeScore": 3.0,
+    "wokeScore": 3,
     "tradScore": 16.1,
     "scoreMargin": 13.1,
     "authIndex": "72",
@@ -167470,7 +167470,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "Detective Savick (Pablo Schreiber) is a corrupt cop in league with Reynolds. He actively persecutes Miller and participates in the frame-up. This is a standard noir/crime trope rather than a contemporary critique of policing, but it still depicts law enforcement as fundamentally compromised."
       }
     ],
@@ -167512,7 +167512,7 @@
     "studio": "PolyGram Filmed Entertainment / Bad Hat Harry",
     "distributor": "Gramercy Pictures",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 1.0,
+    "wokeScore": 1,
     "tradScore": 4.9,
     "scoreMargin": 3.9,
     "authIndex": "55",
@@ -167666,7 +167666,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "description": "The NYPD detectives who run the lineup are corrupt, arresting the five criminals on thin pretexts. Several dozen officers are later implicated in broader corruption revealed through press leaks. This is standard noir convention rather than political commentary, but it depicts law enforcement as compromised."
       }
     ],
@@ -167831,7 +167831,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "The FBI, NYPD, and broader legal system are depicted as institutions that systematically fail to protect women from sexual exploitation and abuse. The series argues that this failure is not incidental but structural, making Catherine's vigilante justice a comprehensible, if not endorsed, response."
       },
       {
@@ -167851,7 +167851,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "Catherine's serial killings are framed as a response to systemic failure. The series asks viewers to understand her violence as a comprehensible reaction to a society that ignores the exploitation of girls and young women. While the show does not fully endorse her actions, it consistently invites sympathy for her rather than her victims."
       },
       {
