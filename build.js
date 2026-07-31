@@ -2360,6 +2360,8 @@ function buildRedirects() {
 /reviews/death-of-robin-hood-2026/                           /reviews/the-death-of-robin-hood-2026/   301
 /reviews/lord-of-the-rings-fellowship-2001/                  /reviews/the-lord-of-the-rings-the-fellowship-of-the-ring-2001/301
 /reviews/silence-of-the-lambs-1991/                          /reviews/the-silence-of-the-lambs-1991/  301
+/reviews/the-fantastic-four-first-steps-2026/                /reviews/fantastic-four-2025/            301
+/reviews/fantastic-four-first-steps-2025/                    /reviews/fantastic-four-2025/            301
 /reviews/daredevil-born-again-s1-2025/                       /reviews/daredevil-born-again-2025/      301
 /reviews/king-of-kings-2025/                                 /reviews/the-king-of-kings-2025/         301
 /reviews/spider-man-across-the-spider-verse/                 /reviews/spider-man-across-the-spider-verse-2023/ 301
@@ -4610,14 +4612,14 @@ function build() {
 
 <hr>
 
-<h2>#14 - <a href="/reviews/fantastic-four-first-steps-2025/">The Fantastic Four: First Steps (2025)</a></h2>
+<h2>#14 - <a href="/reviews/fantastic-four-2025/">The Fantastic Four: First Steps (2025)</a></h2>
 <div class="listicle-scores">
   <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
   <span class="score-detail">Woke Score: 9.98 &bull; Trad Score: 18.7 &bull; Margin: +9 TRAD</span>
 </div>
 <p class="listicle-meta"><strong>Genre:</strong> Action/Superhero &bull; <strong>Platform:</strong> Theatrical</p>
 <p>Marvel needed a win and mostly got one. The Fantastic Four: First Steps is the best MCU film in years, and its strongest element is the family at its center: Reed and Sue Richards as a traditional married couple, Sue's pregnancy and the defense of their unborn child as genuine stakes, and family as the foundation of everything the team does. A gender-swapped Silver Surfer and a globalist Future Foundation framing add woke points, but they sit beneath the dominant family-first narrative. A trad score of 18.7 represents a meaningful recovery for a franchise that had been drifting. The audience noticed.</p>
-<p><a href="/reviews/fantastic-four-first-steps-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
+<p><a href="/reviews/fantastic-four-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
 
 <hr>
 
@@ -20805,14 +20807,14 @@ function buildAudienceVsCriticScoresListicle() {
 
       <hr>
 
-      <h2>#12: <a href="/reviews/fantastic-four-first-steps-2025/">The Fantastic Four: First Steps (2025)</a></h2>
+      <h2>#12: <a href="/reviews/fantastic-four-2025/">The Fantastic Four: First Steps (2025)</a></h2>
       <div class="listicle-scores">
         <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
         <span class="mini-score trad">MARGIN: +9 TRAD</span>
       </div>
       <p class="listicle-meta"><strong>Genre:</strong> Superhero / Action &bull; <strong>Platform:</strong> Theatrical / Disney+</p>
       <p>Marvel needed a win and mostly got one. The Fantastic Four: First Steps is the best MCU film in years -- characters you care about, stakes that feel real, and a team that fights for each other rather than for an ideology. The +9 TRAD margin reflects family bonds, sacrifice without institutional backing, and a film that remembers what made the Marvel formula work before the studio lost its way.</p>
-      <p><a href="/reviews/fantastic-four-first-steps-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
+      <p><a href="/reviews/fantastic-four-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
 
       <hr>
 
@@ -29375,14 +29377,14 @@ function buildPre1990WokeRankingListicle() {
 
       <hr>
 
-      <h2>#85: <a href="/reviews/fantastic-four-first-steps-2025/">The Fantastic Four: First Steps (2025)</a></h2>
+      <h2>#85: <a href="/reviews/fantastic-four-2025/">The Fantastic Four: First Steps (2025)</a></h2>
       <div class="listicle-scores">
         <span class="verdict-badge traditional-lean">TRADITIONAL LEAN</span>
         <span class="mini-score trad">MARGIN: +9 TRAD</span>
       </div>
       <p class="listicle-meta"><strong>Genre:</strong> Action/Superhero &bull; <strong>Platform:</strong> Theatrical</p>
       <p>Marvel needed a win, and they mostly got one. The Fantastic Four: First Steps is the best MCU film in years, which is admittedly a low bar after the studio's rough stretch.</p>
-      <p><a href="/reviews/fantastic-four-first-steps-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
+      <p><a href="/reviews/fantastic-four-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
 
       <hr>
 
@@ -31198,14 +31200,14 @@ The setup is the series' bleakest entry point yet. Alice has lost her husband Wi
 
       <hr>
 
-      <h2>#94: <a href="/reviews/the-fantastic-four-first-steps-2026/">The Fantastic Four: First Steps (2026)</a></h2>
+      <h2>#94: <a href="/reviews/fantastic-four-2025/">The Fantastic Four: First Steps (2026)</a></h2>
       <div class="listicle-scores">
         <span class="verdict-badge traditional">TRADITIONAL</span>
         <span class="mini-score traditional">MARGIN: +16 TRAD</span>
       </div>
       <p class="listicle-meta"><strong>WokeScore:</strong> 3.1 &bull; <strong>TradScore:</strong> 19.04 &bull; <strong>Genre:</strong> Superhero / Family / Sci-Fi Adventure</p>
       <p>The Fantastic Four has been one of the most difficult Marvel properties to adapt to film for twenty years. Two Fox attempts that ranged from disappointing to catastrophic left a generation of comics readers skeptical that the First Family of Marvel could ever work on screen.</p>
-      <p><a href="/reviews/the-fantastic-four-first-steps-2026/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
+      <p><a href="/reviews/fantastic-four-2025/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Fantastic Four: First Steps</a></p>
 
       <hr>
 
