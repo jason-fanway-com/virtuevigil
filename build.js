@@ -2218,6 +2218,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/every-dc-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-spider-man-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-of-all-time/`, changefreq: 'weekly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-drama-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -2358,7 +2359,7 @@ function buildRedirects() {
 /reviews/good-luck-have-fun-dont-die/                        /reviews/good-luck-have-fun-2026/        301
 /reviews/death-of-robin-hood-2026/                           /reviews/the-death-of-robin-hood-2026/   301
 /reviews/lord-of-the-rings-fellowship-2001/                  /reviews/the-lord-of-the-rings-the-fellowship-of-the-ring-2001/301
-/reviews/the-silence-of-the-lambs-1991/                      /reviews/silence-of-the-lambs-1991/      301
+/reviews/silence-of-the-lambs-1991/                          /reviews/the-silence-of-the-lambs-1991/  301
 /reviews/daredevil-born-again-s1-2025/                       /reviews/daredevil-born-again-2025/      301
 /reviews/king-of-kings-2025/                                 /reviews/the-king-of-kings-2025/         301
 /reviews/spider-man-across-the-spider-verse/                 /reviews/spider-man-across-the-spider-verse-2023/ 301
@@ -3368,6 +3369,7 @@ function buildListsHubPage() {
         'most-woke-sci-fi-movies-parents',
         'most-woke-thriller-movies-parents-2025',
         'most-woke-comedy-movies-parents',
+        'most-woke-drama-movies-all-time',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3494,7 +3496,8 @@ function buildListsHubPage() {
       'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About',
       'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
       'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)',
-      'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)'
+      'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)',
+      'most-woke-drama-movies-all-time': 'The 20 Most Woke Drama Movies of All Time — VirtueVigil Rankings 2026'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -28113,14 +28116,14 @@ function buildThrillerMovies2025WokeRankingListicle() {
 
       <hr>
 
-      <h2>#17: <a href="/reviews/silence-of-the-lambs-1991/">The Silence of the Lambs (1991)</a></h2>
+      <h2>#17: <a href="/reviews/the-silence-of-the-lambs-1991/">The Silence of the Lambs (1991)</a></h2>
       <div class="listicle-scores">
         <span class="verdict-badge traditional">TRADITIONAL</span>
         <span class="mini-score trad">MARGIN: +15 TRAD</span>
       </div>
       <p class="listicle-meta"><strong>Genre:</strong> Thriller / Crime / Drama &bull; <strong>Platform:</strong> Theatrical</p>
       <p>Jonathan Demme's Oscar-winning serial killer procedural earns a +15 TRAD score through Clarice Starling's moral clarity, professional duty, and refusal to be diminished by every male authority figure and predator she encounters in the film. Starling is not a progressive heroine constructed to make a political point; she is a traditional hero who earns her victories through competence, courage, and moral commitment. The film treats law enforcement and the protection of innocent life as genuinely important work. Hannibal Lecter's intellectual menace is a foil designed to test Clarice's values and she passes every test without compromising what she is.</p>
-      <p><a href="/reviews/silence-of-the-lambs-1991/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Silence of the Lambs</a></p>
+      <p><a href="/reviews/the-silence-of-the-lambs-1991/" class="listicle-review-link"><i class="fas fa-arrow-right"></i> Read the full VirtueVigil review of The Silence of the Lambs</a></p>
 
       <hr>
 
@@ -34522,13 +34525,13 @@ The short answer is no.</p>
         <li class="listicle-item">
           <div class="listicle-rank">11</div>
           <div class="listicle-content">
-            <h2><a href="/reviews/silence-of-the-lambs-1991/">The Silence of the Lambs (1991)</a></h2>
+            <h2><a href="/reviews/the-silence-of-the-lambs-1991/">The Silence of the Lambs (1991)</a></h2>
             <div class="listicle-badges">
               <span class="verdict-badge traditional">TRADITIONAL</span>
               <span class="score-badge">+15 TRAD</span>
             </div>
             <p>Jonathan Demme's masterpiece is a film about a woman proving herself inside an institution that underestimates her, and it is also one of the most traditional crime films ever made. Clarice Starling earns her credibility not through identity but through competence and courage. The film never condescends to her and never uses her gender as a source of conflict beyond the incidental. Hannibal Lecter is genuinely evil and the film treats him as such while making him fascinating. Buffalo Bill is not a product of society's failures; he is a predator. The institutional framework of the FBI, FBI procedures, and due process is treated as legitimate and worth defending. A film made today would use every one of these elements differently.</p>
-            <a href="/reviews/silence-of-the-lambs-1991/" class="listicle-cta">Read the full VirtueVigil review of The Silence of the Lambs</a>
+            <a href="/reviews/the-silence-of-the-lambs-1991/" class="listicle-cta">Read the full VirtueVigil review of The Silence of the Lambs</a>
           </div>
         </li>
 
@@ -34950,6 +34953,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-drama-movies',
     publishDate: '2026-07-11',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-drama-movies/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-drama-movies-all-time/index.html');
+  writePage('lists/most-woke-drama-movies-all-time/index.html', buildListiclePage({
+    slug: 'most-woke-drama-movies-all-time',
+    title: 'The 20 Most Woke Drama Movies of All Time — VirtueVigil Rankings 2026',
+    description: 'Drama is Hollywood\'s most powerful genre. VirtueVigil scored 283 dramas. These 20 carry the heaviest ideological payload — from Anora and Emilia Perez to The Boys, Midsommar, and Succession. Every score backed by dual-metric methodology.',
+    canonicalPath: 'lists/most-woke-drama-movies-all-time',
+    publishDate: '2026-07-31',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-drama-movies-all-time/content.html'), 'utf-8')
   }));
 
   writePage('lists/most-traditional-movies-of-all-time/index.html', buildListiclePage({
