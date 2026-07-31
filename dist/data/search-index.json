@@ -1,5 +1,29 @@
 [
   {
+    "slug": "the-silence-of-the-lambs-1991",
+    "title": "The Silence of the Lambs",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Thriller / Horror / Crime",
+    "year": 1991,
+    "type": "film",
+    "wokeScore": 5.48,
+    "tradScore": 39.22,
+    "poster": "/images/posters/the-silence-of-the-lambs-1991.jpg"
+  },
+  {
+    "slug": "the-boys-s1-2019",
+    "title": "The Boys",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Amazon Prime Video",
+    "genre": "Superhero / Dark Comedy / Drama / Political Satire",
+    "year": 2019,
+    "type": "series",
+    "wokeScore": 39.72,
+    "tradScore": 15.44,
+    "poster": "/images/posters/the-boys-s1-2019.jpg"
+  },
+  {
     "slug": "motor-city-2026",
     "title": "Motor City",
     "verdict": "TRADITIONAL",
@@ -56,7 +80,7 @@
     "year": 1996,
     "type": "film",
     "wokeScore": 0.3,
-    "tradScore": 8.14,
+    "tradScore": 7.9,
     "poster": "/images/posters/fargo-1996.jpg"
   },
   {
@@ -115,8 +139,8 @@
     "genre": "Crime, Thriller, Drama",
     "year": 1995,
     "type": "film",
-    "wokeScore": 1.05,
-    "tradScore": 22.68,
+    "wokeScore": 1.2,
+    "tradScore": 22.4,
     "poster": "/images/posters/seven-1995.jpg"
   },
   {
@@ -172,8 +196,8 @@
     "genre": "Action, Crime, Thriller",
     "year": 2026,
     "type": "film",
-    "wokeScore": 1.05,
-    "tradScore": 14.84,
+    "wokeScore": 1,
+    "tradScore": 14.8,
     "poster": "/images/posters/the-debt-collector-2026.jpg"
   },
   {
@@ -184,8 +208,8 @@
     "genre": "Sci-Fi, Action",
     "year": 1984,
     "type": "film",
-    "wokeScore": 0.35,
-    "tradScore": 13.62,
+    "wokeScore": 0.3,
+    "tradScore": 18.1,
     "poster": "/images/posters/the-terminator-1984.jpg"
   },
   {
@@ -196,8 +220,8 @@
     "genre": "Crime, Drama",
     "year": 1995,
     "type": "film",
-    "wokeScore": 1,
-    "tradScore": 12.74,
+    "wokeScore": 0.3,
+    "tradScore": 19.3,
     "poster": "/images/posters/casino-1995.jpg"
   },
   {
@@ -227,12 +251,12 @@
   {
     "slug": "splash-city-2026",
     "title": "Splash City",
-    "verdict": "TRADITIONAL",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theaters",
     "genre": "Crime / Drama",
     "year": 2026,
     "type": "film",
-    "wokeScore": 1.75,
+    "wokeScore": 1.8,
     "tradScore": 11.3,
     "poster": "/images/posters/splash-city-2026.jpg"
   },
@@ -244,8 +268,8 @@
     "genre": "Italian Drama / Absurdist Comedy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 4.22,
-    "tradScore": 5.04,
+    "wokeScore": 4.8,
+    "tradScore": 5,
     "poster": "/images/posters/the-kidnapping-of-arabella-2025.jpg"
   },
   {
@@ -436,8 +460,8 @@
     "genre": "Comedy / Adventure / Satire",
     "year": 2026,
     "type": "film",
-    "wokeScore": 17.64,
-    "tradScore": 1.55,
+    "wokeScore": 17.6,
+    "tradScore": 1.5,
     "poster": "/images/posters/gail-daughtry-and-the-celebrity-sex-pass-2026.jpg"
   },
   {
@@ -653,7 +677,7 @@
     "year": 2026,
     "type": "film",
     "wokeScore": 1.4,
-    "tradScore": 17.55,
+    "tradScore": 17.4,
     "poster": "/images/posters/star-wars-the-mandalorian-and-grogu-2026.jpg"
   },
   {
@@ -964,8 +988,8 @@
     "genre": "Animated / Adult Comedy / Dark Drama",
     "year": 2026,
     "type": "film",
-    "wokeScore": 13.58,
-    "tradScore": 9.38,
+    "wokeScore": 13.6,
+    "tradScore": 8,
     "poster": "/images/posters/amazing-digital-circus-last-act-2026.jpg"
   },
   {
@@ -977,7 +1001,7 @@
     "year": 1984,
     "type": "film",
     "wokeScore": 1.7,
-    "tradScore": 22.4,
+    "tradScore": 24.6,
     "poster": "/images/posters/the-karate-kid-1984.jpg"
   },
   {
@@ -1085,7 +1109,7 @@
     "year": 1977,
     "type": "film",
     "wokeScore": 3.4,
-    "tradScore": 24.15,
+    "tradScore": 24.2,
     "poster": "/images/posters/star-wars-a-new-hope-1977.jpg"
   },
   {
@@ -1223,13 +1247,13 @@
   {
     "slug": "disclosure-day-2026",
     "title": "Disclosure Day",
-    "verdict": "MIXED",
+    "verdict": "STRONGLY WOKE",
     "platform": "Theatrical",
     "genre": "Science Fiction, Thriller",
     "year": 2026,
     "type": "film",
-    "wokeScore": 18.6,
-    "tradScore": 16.8,
+    "wokeScore": 43.1,
+    "tradScore": 18.3,
     "poster": "/images/posters/disclosure-day-2026.jpg"
   },
   {
@@ -1756,20 +1780,20 @@
     "genre": "Action / Adventure / Superhero",
     "year": 2013,
     "type": "film",
-    "wokeScore": 4.4,
-    "tradScore": 26.88,
+    "wokeScore": 3.4,
+    "tradScore": 24.6,
     "poster": "/images/posters/man-of-steel-2013.jpg"
   },
   {
     "slug": "batman-v-superman-2016",
     "title": "Batman v Superman: Dawn of Justice",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Action / Adventure / Superhero",
     "year": 2016,
     "type": "film",
-    "wokeScore": 10.14,
-    "tradScore": 14.28,
+    "wokeScore": 11.8,
+    "tradScore": 14.3,
     "poster": "/images/posters/batman-v-superman-2016.jpg"
   },
   {
@@ -2493,18 +2517,6 @@
     "poster": "/images/posters/terminator-2-judgment-day-1991.jpg"
   },
   {
-    "slug": "silence-of-the-lambs-1991",
-    "title": "The Silence of the Lambs",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Thriller / Crime / Drama",
-    "year": 1991,
-    "type": "film",
-    "wokeScore": 6.48,
-    "tradScore": 21.42,
-    "poster": "/images/posters/silence-of-the-lambs-1991.jpg"
-  },
-  {
     "slug": "se7en-1995",
     "title": "Se7en",
     "verdict": "TRADITIONAL LEAN",
@@ -2692,7 +2704,7 @@
     "genre": "Biography / Crime / Drama",
     "year": 1990,
     "type": "film",
-    "wokeScore": 2,
+    "wokeScore": 2.1,
     "tradScore": 13,
     "poster": "/images/posters/goodfellas-1990.jpg"
   },
@@ -2704,8 +2716,8 @@
     "genre": "Crime / Drama",
     "year": 1972,
     "type": "film",
-    "wokeScore": 2,
-    "tradScore": 23,
+    "wokeScore": 2.1,
+    "tradScore": 22.7,
     "poster": "/images/posters/the-godfather-1972.jpg"
   },
   {
@@ -2716,8 +2728,8 @@
     "genre": "Action / Crime / Drama",
     "year": 1995,
     "type": "film",
-    "wokeScore": 5,
-    "tradScore": 16,
+    "wokeScore": 5.2,
+    "tradScore": 16.4,
     "poster": "/images/posters/heat-1995.jpg"
   },
   {
@@ -2729,7 +2741,7 @@
     "year": 2014,
     "type": "film",
     "wokeScore": 2.4,
-    "tradScore": 16.45,
+    "tradScore": 16.4,
     "poster": "/images/posters/whiplash-2014.jpg"
   },
   {
@@ -2777,7 +2789,7 @@
     "year": 2019,
     "type": "film",
     "wokeScore": 2,
-    "tradScore": 21.28,
+    "tradScore": 20.6,
     "poster": "/images/posters/1917-2019.jpg"
   },
   {
@@ -2788,8 +2800,8 @@
     "genre": "Biographical Drama / Music",
     "year": 2018,
     "type": "film",
-    "wokeScore": 7.88,
-    "tradScore": 13.18,
+    "wokeScore": 6.5,
+    "tradScore": 13.2,
     "poster": "/images/posters/bohemian-rhapsody-2018.jpg"
   },
   {
@@ -2872,8 +2884,8 @@
     "genre": "Crime / Thriller / Drama / Neo-Western",
     "year": 2007,
     "type": "film",
-    "wokeScore": 6.58,
-    "tradScore": 11.34,
+    "wokeScore": 7.1,
+    "tradScore": 11.3,
     "poster": "/images/posters/no-country-for-old-men-2007.jpg"
   },
   {
@@ -2896,7 +2908,7 @@
     "genre": "Horror / Psychological Thriller",
     "year": 2017,
     "type": "film",
-    "wokeScore": 16,
+    "wokeScore": 16.1,
     "tradScore": 4,
     "poster": "/images/posters/get-out-2017.jpg"
   },
@@ -2908,8 +2920,8 @@
     "genre": "Action / Post-Apocalyptic",
     "year": 2015,
     "type": "film",
-    "wokeScore": 12,
-    "tradScore": 8,
+    "wokeScore": 11.6,
+    "tradScore": 8.4,
     "poster": "/images/posters/mad-max-fury-road-2015.jpg"
   },
   {
@@ -2920,8 +2932,8 @@
     "genre": "Action / Drama",
     "year": 1986,
     "type": "film",
-    "wokeScore": 1,
-    "tradScore": 17,
+    "wokeScore": 0.7,
+    "tradScore": 18.9,
     "poster": "/images/posters/top-gun-1986.jpg"
   },
   {
@@ -2956,20 +2968,20 @@
     "genre": "Comedy / Thriller / Action",
     "year": 2026,
     "type": "film",
-    "wokeScore": 8.64,
-    "tradScore": 9.18,
+    "wokeScore": 8.4,
+    "tradScore": 6.6,
     "poster": "/images/posters/over-your-dead-body-2026.jpg"
   },
   {
     "slug": "shutter-island-2010",
     "title": "Shutter Island",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Streaming / Cable",
     "genre": "Psychological Thriller / Mystery",
     "year": 2010,
     "type": "film",
-    "wokeScore": 3.4,
-    "tradScore": 16.8,
+    "wokeScore": 3,
+    "tradScore": 23,
     "poster": "/images/posters/shutter-island-2010.jpg"
   },
   {
@@ -2980,20 +2992,20 @@
     "genre": "Thriller/Drama/Sci-Fi",
     "year": 2024,
     "type": "film",
-    "wokeScore": 18.52,
-    "tradScore": 6.3,
+    "wokeScore": 17.6,
+    "tradScore": 0,
     "poster": "/images/posters/a-different-man-2024.jpg"
   },
   {
     "slug": "the-last-witness-2026",
     "title": "The Last Witness",
-    "verdict": "WOKE LEAN",
+    "verdict": "WOKE",
     "platform": "Theatrical",
     "genre": "Legal Thriller / Drama",
     "year": 2026,
     "type": "film",
-    "wokeScore": 18.9,
-    "tradScore": 12.4,
+    "wokeScore": 14.4,
+    "tradScore": 4.5,
     "poster": "/images/posters/the-last-witness-2026.jpg"
   },
   {
@@ -3004,8 +3016,8 @@
     "genre": "Action / Espionage / Thriller",
     "year": 2026,
     "type": "film",
-    "wokeScore": 7.8,
-    "tradScore": 19.2,
+    "wokeScore": 3.1,
+    "tradScore": 15.7,
     "poster": "/images/posters/interceptor-protocol-2026.jpg"
   },
   {
@@ -3016,8 +3028,8 @@
     "genre": "Action / Comedy / Superhero",
     "year": 2026,
     "type": "film",
-    "wokeScore": 9.4,
-    "tradScore": 10.6,
+    "wokeScore": 6.3,
+    "tradScore": 6.3,
     "poster": "/images/posters/deadpool-three-2026.jpg"
   },
   {
@@ -3028,8 +3040,8 @@
     "genre": "Action / Superhero / Adventure",
     "year": 2026,
     "type": "film",
-    "wokeScore": 6.8,
-    "tradScore": 21.4,
+    "wokeScore": 1.4,
+    "tradScore": 19,
     "poster": "/images/posters/spiderman-web-of-heroes-2026.jpg"
   },
   {
@@ -3161,25 +3173,25 @@
   {
     "slug": "the-stranger-ozon-2026",
     "title": "The Stranger",
-    "verdict": "WOKE LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Drama / Crime / Philosophical",
     "year": 2026,
     "type": "film",
-    "wokeScore": 6.8,
-    "tradScore": 3.1,
+    "wokeScore": 0,
+    "tradScore": 18.5,
     "poster": "/images/posters/the-stranger-ozon-2026.jpg"
   },
   {
     "slug": "mother-mary-2025",
     "title": "Mother Mary",
-    "verdict": "WOKE LEAN",
+    "verdict": "WOKE",
     "platform": "Theatrical",
     "genre": "Psychological Drama, Thriller, Music",
     "year": 2025,
     "type": "film",
-    "wokeScore": 28.4,
-    "tradScore": 19.8,
+    "wokeScore": 23.7,
+    "tradScore": 6.4,
     "poster": "/images/posters/mother-mary-2025.jpg"
   },
   {
@@ -3197,25 +3209,25 @@
   {
     "slug": "fuze-2026",
     "title": "Fuze",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Crime Thriller / Heist",
     "year": 2026,
     "type": "film",
-    "wokeScore": 2.45,
-    "tradScore": 11.27,
+    "wokeScore": 1.9,
+    "tradScore": 15.3,
     "poster": "/images/posters/fuze-2026.jpg"
   },
   {
     "slug": "california-schemin-2026",
     "title": "California Schemin'",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Musical Biography / Comedy",
     "year": 2026,
     "type": "film",
-    "wokeScore": 3.14,
-    "tradScore": 10.89,
+    "wokeScore": 3.1,
+    "tradScore": 14.2,
     "poster": "/images/posters/california-schemin-2026.jpg"
   },
   {
@@ -3226,8 +3238,8 @@
     "genre": "Biography / Drama",
     "year": 2026,
     "type": "film",
-    "wokeScore": 1.4,
-    "tradScore": 22.1,
+    "wokeScore": 0.3,
+    "tradScore": 24.8,
     "poster": "/images/posters/i-swear-2026.jpg"
   },
   {
@@ -3250,8 +3262,8 @@
     "genre": "Biblical Drama / Historical Epic",
     "year": 2016,
     "type": "film",
-    "wokeScore": 1.8,
-    "tradScore": 28.6,
+    "wokeScore": 0,
+    "tradScore": 50.4,
     "poster": "/images/posters/risen-2016.jpg"
   },
   {
@@ -3453,7 +3465,7 @@
     "year": 2025,
     "type": "film",
     "wokeScore": 13,
-    "tradScore": 24.28,
+    "tradScore": 23.4,
     "poster": "/images/posters/hamlet-2025.jpg"
   },
   {
@@ -3476,8 +3488,8 @@
     "genre": "Sports Comedy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 3.45,
-    "tradScore": 31.22,
+    "wokeScore": 3.4,
+    "tradScore": 31.2,
     "poster": "/images/posters/happy-gilmore-2-2025.jpg"
   },
   {
@@ -3501,7 +3513,7 @@
     "year": 2026,
     "type": "film",
     "wokeScore": 1.5,
-    "tradScore": 27,
+    "tradScore": 30,
     "poster": "/images/posters/beast-2026.jpg"
   },
   {
@@ -3524,8 +3536,8 @@
     "genre": "Animated / Adventure / Comedy",
     "year": 2026,
     "type": "film",
-    "wokeScore": 17.08,
-    "tradScore": 11.34,
+    "wokeScore": 17.6,
+    "tradScore": 12.3,
     "poster": "/images/posters/hoppers-2026.jpg"
   },
   {
@@ -3536,20 +3548,20 @@
     "genre": "Romance / Drama",
     "year": 2026,
     "type": "film",
-    "wokeScore": 5.6,
-    "tradScore": 16.38,
+    "wokeScore": 5.7,
+    "tradScore": 16.5,
     "poster": "/images/posters/reminders-of-him-2026.jpg"
   },
   {
     "slug": "goat-2026",
     "title": "GOAT",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Animated / Sports Comedy / Family",
     "year": 2026,
     "type": "film",
-    "wokeScore": 8.28,
-    "tradScore": 17.64,
+    "wokeScore": 6.6,
+    "tradScore": 17.9,
     "poster": "/images/posters/goat-2026.jpg"
   },
   {
@@ -3728,8 +3740,8 @@
     "genre": "Musical Biographical Drama",
     "year": 2026,
     "type": "film",
-    "wokeScore": 11.88,
-    "tradScore": 17.29,
+    "wokeScore": 9.9,
+    "tradScore": 17.3,
     "poster": "/images/posters/michael-2026.jpg"
   },
   {
@@ -3776,8 +3788,8 @@
     "genre": "Animated / Adventure / Comedy",
     "year": 2026,
     "type": "film",
-    "wokeScore": 6.72,
-    "tradScore": 16.58,
+    "wokeScore": 5.9,
+    "tradScore": 16.4,
     "poster": "/images/posters/super-mario-galaxy-movie-2026.jpg"
   },
   {
@@ -3892,8 +3904,8 @@
     "genre": "Drama / Survival",
     "year": 2000,
     "type": "film",
-    "wokeScore": 1.75,
-    "tradScore": 18.97,
+    "wokeScore": 1.7,
+    "tradScore": 19,
     "poster": "/images/posters/cast-away-2000.jpg"
   },
   {
@@ -3904,8 +3916,8 @@
     "genre": "Thriller / Drama",
     "year": 2013,
     "type": "film",
-    "wokeScore": 9.55,
-    "tradScore": 15.75,
+    "wokeScore": 9.5,
+    "tradScore": 15.8,
     "poster": "/images/posters/captain-phillips-2013.jpg"
   },
   {
@@ -3935,13 +3947,13 @@
   {
     "slug": "uncut-gems-2019",
     "title": "Uncut Gems",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Crime / Thriller",
     "year": 2019,
     "type": "film",
-    "wokeScore": 6.23,
-    "tradScore": 8.75,
+    "wokeScore": 6.2,
+    "tradScore": 8.7,
     "poster": "/images/posters/uncut-gems-2019.jpg"
   },
   {
@@ -3965,7 +3977,7 @@
     "year": 2012,
     "type": "film",
     "wokeScore": 3.5,
-    "tradScore": 13.65,
+    "tradScore": 13.6,
     "poster": "/images/posters/the-avengers-2012.jpg"
   },
   {
@@ -3976,8 +3988,8 @@
     "genre": "Animated / Drama / Musical",
     "year": 1994,
     "type": "film",
-    "wokeScore": 1.05,
-    "tradScore": 24.85,
+    "wokeScore": 1,
+    "tradScore": 24.8,
     "poster": "/images/posters/the-lion-king-1994.jpg"
   },
   {
@@ -4133,7 +4145,7 @@
     "year": 2006,
     "type": "film",
     "wokeScore": 2,
-    "tradScore": 19.95,
+    "tradScore": 20,
     "poster": "/images/posters/click-2006.jpg"
   },
   {
@@ -4180,7 +4192,7 @@
     "genre": "Animated Comedy Adventure",
     "year": 2009,
     "type": "film",
-    "wokeScore": 2.95,
+    "wokeScore": 2.9,
     "tradScore": 14,
     "poster": "/images/posters/fantastic-mr-fox-2009.jpg"
   },
@@ -4385,7 +4397,7 @@
     "year": 2014,
     "type": "film",
     "wokeScore": 0.7,
-    "tradScore": 14.65,
+    "tradScore": 15.3,
     "poster": "/images/posters/john-wick-2014.jpg"
   },
   {
@@ -4408,7 +4420,7 @@
     "genre": "Superhero/Action",
     "year": 2017,
     "type": "film",
-    "wokeScore": 5.15,
+    "wokeScore": 4.8,
     "tradScore": 13.3,
     "poster": "/images/posters/wonder-woman-2017.jpg"
   },
@@ -4480,8 +4492,8 @@
     "genre": "Action Thriller",
     "year": 2024,
     "type": "film",
-    "wokeScore": 8.18,
-    "tradScore": 18.5,
+    "wokeScore": 8.2,
+    "tradScore": 18.9,
     "poster": "/images/posters/rebel-ridge-2024.jpg"
   },
   {
@@ -4528,8 +4540,8 @@
     "genre": "Action / Spy Thriller",
     "year": 2021,
     "type": "film",
-    "wokeScore": 11.98,
-    "tradScore": 12.25,
+    "wokeScore": 12,
+    "tradScore": 12.2,
     "poster": "/images/posters/no-time-to-die-2021.jpg"
   },
   {
@@ -4540,8 +4552,8 @@
     "genre": "Superhero / Action",
     "year": 2023,
     "type": "film",
-    "wokeScore": 15.08,
-    "tradScore": 8.75,
+    "wokeScore": 15.1,
+    "tradScore": 8.8,
     "poster": "/images/posters/blue-beetle-2023.jpg"
   },
   {
@@ -4576,8 +4588,8 @@
     "genre": "Sci-Fi Action",
     "year": 2021,
     "type": "film",
-    "wokeScore": 15.05,
-    "tradScore": 8.75,
+    "wokeScore": 15.1,
+    "tradScore": 8.8,
     "poster": "/images/posters/the-matrix-resurrections-2021.jpg"
   },
   {
@@ -4685,7 +4697,7 @@
     "year": 2019,
     "type": "film",
     "wokeScore": 6.8,
-    "tradScore": 19.25,
+    "tradScore": 19.2,
     "poster": "/images/posters/once-upon-a-time-in-hollywood-2019.jpg"
   },
   {
@@ -4708,8 +4720,8 @@
     "genre": "Mystery / Comedy / Drama",
     "year": 2019,
     "type": "film",
-    "wokeScore": 13.44,
-    "tradScore": 8.05,
+    "wokeScore": 11.6,
+    "tradScore": 7,
     "poster": "/images/posters/knives-out-2019.jpg"
   },
   {
@@ -4733,7 +4745,7 @@
     "year": 2019,
     "type": "film",
     "wokeScore": 2,
-    "tradScore": 22.05,
+    "tradScore": 22,
     "poster": "/images/posters/ford-v-ferrari-2019.jpg"
   },
   {
@@ -4744,19 +4756,19 @@
     "genre": "Sci-Fi Comedy Family",
     "year": 2025,
     "type": "film",
-    "wokeScore": 5.6,
-    "tradScore": 13.1,
+    "wokeScore": 3.5,
+    "tradScore": 12.9,
     "poster": "/images/posters/lilo-and-stitch-2025.jpg"
   },
   {
     "slug": "kingdom-of-the-planet-of-the-apes-2024",
     "title": "Kingdom of the Planet of the Apes",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical / Disney+",
     "genre": "Sci-Fi Action Adventure",
     "year": 2024,
     "type": "film",
-    "wokeScore": 12.6,
+    "wokeScore": 8.6,
     "tradScore": 14.2,
     "poster": "/images/posters/kingdom-of-the-planet-of-the-apes-2024.jpg"
   },
@@ -4799,13 +4811,13 @@
   {
     "slug": "avatar-fire-and-ash-2025",
     "title": "Avatar: Fire and Ash",
-    "verdict": "WOKE LEAN",
+    "verdict": "WOKE",
     "platform": "Theatrical",
     "genre": "Epic Sci-Fi Action Adventure",
     "year": 2025,
     "type": "film",
-    "wokeScore": 21.6,
-    "tradScore": 13.4,
+    "wokeScore": 21,
+    "tradScore": 11.6,
     "poster": "/images/posters/avatar-fire-and-ash-2025.jpg"
   },
   {
@@ -4840,8 +4852,8 @@
     "genre": "Fantasy Adventure Comedy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 2.7,
-    "tradScore": 10.24,
+    "wokeScore": 2.4,
+    "tradScore": 10.2,
     "poster": "/images/posters/a-minecraft-movie-2025.jpg"
   },
   {
@@ -4972,8 +4984,8 @@
     "genre": "Horror",
     "year": 2026,
     "type": "film",
-    "wokeScore": 15,
-    "tradScore": 16,
+    "wokeScore": 15.4,
+    "tradScore": 16.2,
     "poster": "/images/posters/return-to-silent-hill-2026.jpg"
   },
   {
@@ -4985,7 +4997,7 @@
     "year": 2025,
     "type": "film",
     "wokeScore": 7,
-    "tradScore": 16,
+    "tradScore": 15.5,
     "poster": "/images/posters/together-2025.jpg"
   },
   {
@@ -4996,8 +5008,8 @@
     "genre": "Horror",
     "year": 2025,
     "type": "film",
-    "wokeScore": 23,
-    "tradScore": 5,
+    "wokeScore": 23.5,
+    "tradScore": 4.9,
     "poster": "/images/posters/clown-in-a-cornfield-2025.jpg"
   },
   {
@@ -5009,7 +5021,7 @@
     "year": 2024,
     "type": "film",
     "wokeScore": 21,
-    "tradScore": 6.65,
+    "tradScore": 6.6,
     "poster": "/images/posters/the-apprentice-2024.jpg"
   },
   {
@@ -5236,8 +5248,8 @@
     "genre": "Mystery/Comedy",
     "year": 2022,
     "type": "film",
-    "wokeScore": 42,
-    "tradScore": 18,
+    "wokeScore": 24.3,
+    "tradScore": 4,
     "poster": "/images/posters/glass-onion-2022.jpg"
   },
   {
@@ -5248,8 +5260,8 @@
     "genre": "Horror/Sci-Fi",
     "year": 2022,
     "type": "film",
-    "wokeScore": 20,
-    "tradScore": 30,
+    "wokeScore": 6.7,
+    "tradScore": 20.8,
     "poster": "/images/posters/nope-2022.jpg"
   },
   {
@@ -5273,7 +5285,7 @@
     "year": 2022,
     "type": "film",
     "wokeScore": 10.5,
-    "tradScore": 14.9,
+    "tradScore": 14.5,
     "poster": "/images/posters/babylon-2022.jpg"
   },
   {
@@ -5476,32 +5488,32 @@
     "genre": "Comedy",
     "year": 2009,
     "type": "film",
-    "wokeScore": 7.98,
-    "tradScore": 11.44,
+    "wokeScore": 3.9,
+    "tradScore": 9,
     "poster": "/images/posters/the-hangover-2009.jpg"
   },
   {
     "slug": "the-holdovers-2023",
     "title": "The Holdovers",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Streaming",
     "genre": "Comedy, Drama",
     "year": 2023,
     "type": "film",
-    "wokeScore": 6.5,
-    "tradScore": 14.35,
+    "wokeScore": 5.5,
+    "tradScore": 16.2,
     "poster": "/images/posters/the-holdovers-2023.jpg"
   },
   {
     "slug": "past-lives-2023",
     "title": "Past Lives",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Streaming",
     "genre": "Drama, Romance",
     "year": 2023,
     "type": "film",
-    "wokeScore": 5.6,
-    "tradScore": 7.35,
+    "wokeScore": 5.8,
+    "tradScore": 10.5,
     "poster": "/images/posters/past-lives-2023.jpg"
   },
   {
@@ -5512,8 +5524,8 @@
     "genre": "Comedy, Drama",
     "year": 2023,
     "type": "film",
-    "wokeScore": 13.3,
-    "tradScore": 5.25,
+    "wokeScore": 13.5,
+    "tradScore": 9.3,
     "poster": "/images/posters/american-fiction-2023.jpg"
   },
   {
@@ -5524,8 +5536,8 @@
     "genre": "Action",
     "year": 2024,
     "type": "film",
-    "wokeScore": 4,
-    "tradScore": 18,
+    "wokeScore": 3.5,
+    "tradScore": 17.6,
     "poster": "/images/posters/road-house-2024.jpg"
   },
   {
@@ -5537,7 +5549,7 @@
     "year": 2024,
     "type": "film",
     "wokeScore": 4,
-    "tradScore": 15,
+    "tradScore": 15.2,
     "poster": "/images/posters/beverly-hills-cop-axel-f-2024.jpg"
   },
   {
@@ -5549,7 +5561,7 @@
     "year": 2024,
     "type": "film",
     "wokeScore": 11,
-    "tradScore": 16,
+    "tradScore": 16.2,
     "poster": "/images/posters/bob-marley-one-love-2024.jpg"
   },
   {
@@ -5560,8 +5572,8 @@
     "genre": "Animation",
     "year": 2025,
     "type": "film",
-    "wokeScore": 10,
-    "tradScore": 6,
+    "wokeScore": 9.5,
+    "tradScore": 6.4,
     "poster": "/images/posters/smurfs-2025.jpg"
   },
   {
@@ -5573,7 +5585,7 @@
     "year": 2025,
     "type": "film",
     "wokeScore": 2,
-    "tradScore": 10,
+    "tradScore": 10.2,
     "poster": "/images/posters/black-phone-2-2025.jpg"
   },
   {
@@ -5584,8 +5596,8 @@
     "genre": "Comedy-Drama",
     "year": 2025,
     "type": "film",
-    "wokeScore": 1,
-    "tradScore": 17,
+    "wokeScore": 1.4,
+    "tradScore": 16.8,
     "poster": "/images/posters/nonnas-2025.jpg"
   },
   {
@@ -5596,8 +5608,8 @@
     "genre": "Romantic Comedy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 19,
-    "tradScore": 4,
+    "wokeScore": 18.8,
+    "tradScore": 3.8,
     "poster": "/images/posters/the-wedding-banquet-2025.jpg"
   },
   {
@@ -5765,7 +5777,7 @@
     "year": 2025,
     "type": "film",
     "wokeScore": 3.5,
-    "tradScore": 15.75,
+    "tradScore": 15.8,
     "poster": "https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
@@ -5824,8 +5836,8 @@
     "genre": "Action Thriller",
     "year": 2023,
     "type": "film",
-    "wokeScore": 3,
-    "tradScore": 20.88,
+    "wokeScore": 2.7,
+    "tradScore": 20.8,
     "poster": "/images/posters/the-equalizer-3-2023.jpg"
   },
   {
@@ -5956,7 +5968,7 @@
     "genre": "Crime Drama / Psychological Thriller",
     "year": 2019,
     "type": "film",
-    "wokeScore": 13.05,
+    "wokeScore": 13,
     "tradScore": 13.6,
     "poster": "/images/posters/joker-2019.jpg"
   },
@@ -5980,8 +5992,8 @@
     "genre": "Animated / Family / Action",
     "year": 2024,
     "type": "film",
-    "wokeScore": 10,
-    "tradScore": 7,
+    "wokeScore": 9.9,
+    "tradScore": 5.9,
     "poster": "/images/posters/kung-fu-panda-4-2024.jpg"
   },
   {
@@ -5992,8 +6004,8 @@
     "genre": "Biographical Drama / Faith / History",
     "year": 2024,
     "type": "film",
-    "wokeScore": 3,
-    "tradScore": 15,
+    "wokeScore": 2.7,
+    "tradScore": 14.8,
     "poster": "/images/posters/cabrini-2024.jpg"
   },
   {
@@ -6004,8 +6016,8 @@
     "genre": "Action / Comedy / Supernatural",
     "year": 2024,
     "type": "film",
-    "wokeScore": 6,
-    "tradScore": 10,
+    "wokeScore": 6.1,
+    "tradScore": 10.2,
     "poster": "/images/posters/ghostbusters-frozen-empire-2024.jpg"
   },
   {
@@ -6016,8 +6028,8 @@
     "genre": "Superhero / Action Comedy",
     "year": 2017,
     "type": "film",
-    "wokeScore": 11.9,
-    "tradScore": 18.76,
+    "wokeScore": 9.9,
+    "tradScore": 18.8,
     "poster": "/images/posters/thor-ragnarok-2017.jpg"
   },
   {
@@ -6185,7 +6197,7 @@
     "year": 2008,
     "type": "film",
     "wokeScore": 5,
-    "tradScore": 14.35,
+    "tradScore": 14.4,
     "poster": "/images/posters/iron-man-2008.jpg"
   },
   {
@@ -6208,32 +6220,32 @@
     "genre": "Superhero / Action / Sci-Fi",
     "year": 2019,
     "type": "film",
-    "wokeScore": 10.54,
-    "tradScore": 13.65,
+    "wokeScore": 10.5,
+    "tradScore": 13.6,
     "poster": "/images/posters/avengers-endgame-2019.jpg"
   },
   {
     "slug": "coyote-vs-acme-2026",
     "title": "Coyote vs. Acme",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Animation/Comedy",
     "year": 2026,
     "type": "film",
-    "wokeScore": 9,
-    "tradScore": 16,
+    "wokeScore": 2.4,
+    "tradScore": 16.4,
     "poster": "/images/posters/coyote-vs-acme-2026.jpg"
   },
   {
     "slug": "people-we-meet-on-vacation-2026",
     "title": "People We Meet on Vacation",
-    "verdict": "WOKE LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Netflix",
     "genre": "Romantic Comedy",
     "year": 2026,
     "type": "film",
-    "wokeScore": 14,
-    "tradScore": 11,
+    "wokeScore": 7.7,
+    "tradScore": 11.8,
     "poster": "/images/posters/people-we-meet-on-vacation-2026.jpg"
   },
   {
@@ -6329,7 +6341,7 @@
     "year": 2025,
     "type": "film",
     "wokeScore": 4.2,
-    "tradScore": 12.25,
+    "tradScore": 12.2,
     "poster": "/images/posters/the-gorge-2025.jpg"
   },
   {
@@ -6412,20 +6424,20 @@
     "genre": "Animated Musical Urban Fantasy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 24.18,
-    "tradScore": 16.42,
+    "wokeScore": 22.6,
+    "tradScore": 16.7,
     "poster": "/images/posters/kpop-demon-hunters-2025.jpg"
   },
   {
     "slug": "the-bride-2026",
     "title": "The Bride!",
-    "verdict": "WOKE",
+    "verdict": "STRONGLY WOKE",
     "platform": "Theatrical (IMAX)",
     "genre": "Gothic Romance / Horror",
     "year": 2026,
     "type": "film",
-    "wokeScore": 22.1,
-    "tradScore": 8.4,
+    "wokeScore": 34.8,
+    "tradScore": 10.4,
     "poster": "/images/posters/the-bride-2026.jpg"
   },
   {
@@ -6437,7 +6449,7 @@
     "year": 2022,
     "type": "film",
     "wokeScore": 8,
-    "tradScore": 22.05,
+    "tradScore": 22.1,
     "poster": "/images/posters/the-batman-2022.jpg"
   },
   {
@@ -6449,7 +6461,7 @@
     "year": 2021,
     "type": "film",
     "wokeScore": 3.5,
-    "tradScore": 22.05,
+    "tradScore": 22.1,
     "poster": "/images/posters/spider-man-no-way-home-2021.jpg"
   },
   {
@@ -6461,7 +6473,7 @@
     "year": 2023,
     "type": "film",
     "wokeScore": 2.5,
-    "tradScore": 14.35,
+    "tradScore": 14.4,
     "poster": "/images/posters/five-nights-at-freddys-2023.jpg"
   },
   {
@@ -6496,20 +6508,20 @@
     "genre": "Drama",
     "year": 2024,
     "type": "film",
-    "wokeScore": 16,
-    "tradScore": 12,
+    "wokeScore": 15.1,
+    "tradScore": 10.9,
     "poster": "/images/posters/the-room-next-door-2024.jpg"
   },
   {
     "slug": "better-man-2024",
     "title": "Better Man",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Musical/Biography/Drama",
     "year": 2024,
     "type": "film",
-    "wokeScore": 10,
-    "tradScore": 12,
+    "wokeScore": 4.9,
+    "tradScore": 12.9,
     "poster": "/images/posters/better-man-2024.jpg"
   },
   {
@@ -6520,20 +6532,20 @@
     "genre": "Animation/Musical/Biblical Epic",
     "year": 2025,
     "type": "film",
-    "wokeScore": 2,
-    "tradScore": 28,
+    "wokeScore": 0,
+    "tradScore": 36,
     "poster": "/images/posters/david-2025.jpg"
   },
   {
     "slug": "primate-2025",
     "title": "Primate",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Horror/Thriller",
     "year": 2025,
     "type": "film",
-    "wokeScore": 10,
-    "tradScore": 12,
+    "wokeScore": 3.3,
+    "tradScore": 15.5,
     "poster": "/images/posters/primate-2025.jpg"
   },
   {
@@ -6568,8 +6580,8 @@
     "genre": "Crime/Drama/History",
     "year": 2026,
     "type": "film",
-    "wokeScore": 5,
-    "tradScore": 28,
+    "wokeScore": 4.2,
+    "tradScore": 30.6,
     "poster": "/images/posters/peaky-blinders-the-immortal-man-2026.jpg"
   },
   {
@@ -6580,20 +6592,20 @@
     "genre": "Musical/Crime/Drama",
     "year": 2024,
     "type": "film",
-    "wokeScore": 28,
-    "tradScore": 6,
+    "wokeScore": 30.4,
+    "tradScore": 5,
     "poster": "/images/posters/emilia-perez-2024.jpg"
   },
   {
     "slug": "project-hail-mary-2026",
     "title": "Project Hail Mary",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical (IMAX)",
     "genre": "Sci-Fi/Adventure/Drama",
     "year": 2026,
     "type": "film",
-    "wokeScore": 10.45,
-    "tradScore": 17.82,
+    "wokeScore": 6.1,
+    "tradScore": 27.7,
     "poster": "/images/posters/project-hail-mary-2026.jpg"
   },
   {
@@ -6611,13 +6623,13 @@
   {
     "slug": "war-machine-2026",
     "title": "War Machine",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Netflix",
     "genre": "Sci-Fi/Action/Thriller",
     "year": 2026,
     "type": "film",
-    "wokeScore": 4,
-    "tradScore": 22,
+    "wokeScore": 1.7,
+    "tradScore": 28.2,
     "poster": "/images/posters/war-machine-2026.jpg"
   },
   {
@@ -6628,8 +6640,8 @@
     "genre": "Political Thriller / Historical Drama",
     "year": 2025,
     "type": "film",
-    "wokeScore": 17,
-    "tradScore": 18,
+    "wokeScore": 16.5,
+    "tradScore": 17.8,
     "poster": "/images/posters/the-secret-agent-2025.jpg"
   },
   {
@@ -6688,8 +6700,8 @@
     "genre": "Action/Superhero/Fantasy",
     "year": 2023,
     "type": "film",
-    "wokeScore": 31.2,
-    "tradScore": 18.9,
+    "wokeScore": 30.7,
+    "tradScore": 18.8,
     "poster": "/images/posters/aquaman-and-the-lost-kingdom-2023.jpg"
   },
   {
@@ -6700,8 +6712,8 @@
     "genre": "Horror/Crime",
     "year": 2024,
     "type": "film",
-    "wokeScore": 32,
-    "tradScore": 14,
+    "wokeScore": 31.5,
+    "tradScore": 13.6,
     "poster": "/images/posters/maxxxine-2024.jpg"
   },
   {
@@ -6713,7 +6725,7 @@
     "year": 2024,
     "type": "film",
     "wokeScore": 18,
-    "tradScore": 24,
+    "tradScore": 23.8,
     "poster": "/images/posters/rebel-moon-part-two-the-scargiver-2024.jpg"
   },
   {
@@ -6755,13 +6767,13 @@
   {
     "slug": "the-monkey-2025",
     "title": "The Monkey",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Horror/Comedy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 14,
-    "tradScore": 22,
+    "wokeScore": 10.8,
+    "tradScore": 20.8,
     "poster": "/images/posters/the-monkey-2025.jpg"
   },
   {
@@ -6784,8 +6796,8 @@
     "genre": "Adventure/Comedy/Family",
     "year": 2025,
     "type": "film",
-    "wokeScore": 8.4,
-    "tradScore": 22.5,
+    "wokeScore": 7.7,
+    "tradScore": 22.6,
     "poster": "/images/posters/paddington-in-peru-2025.jpg"
   },
   {
@@ -6808,8 +6820,8 @@
     "genre": "Horror Parody/Comedy",
     "year": 2026,
     "type": "film",
-    "wokeScore": 8.4,
-    "tradScore": 14.7,
+    "wokeScore": 7.4,
+    "tradScore": 13.7,
     "poster": "/images/posters/scary-movie-6-2026.jpg"
   },
   {
@@ -6923,37 +6935,37 @@
   {
     "slug": "furiosa-a-mad-max-saga-2024",
     "title": "Furiosa: A Mad Max Saga",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Action/Adventure/Sci-Fi",
     "year": 2024,
     "type": "film",
-    "wokeScore": 8,
-    "tradScore": 22,
+    "wokeScore": 6,
+    "tradScore": 29.7,
     "poster": "/images/posters/furiosa-a-mad-max-saga-2024.jpg"
   },
   {
     "slug": "godzilla-x-kong-the-new-empire-2024",
     "title": "Godzilla x Kong: The New Empire",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Action/Sci-Fi/Monster",
     "year": 2024,
     "type": "film",
-    "wokeScore": 6,
-    "tradScore": 14,
+    "wokeScore": 2.1,
+    "tradScore": 15.7,
     "poster": "/images/posters/godzilla-x-kong-the-new-empire-2024.jpg"
   },
   {
     "slug": "madame-web-2024",
     "title": "Madame Web",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Action/Thriller/Superhero",
     "year": 2024,
     "type": "film",
-    "wokeScore": 13.42,
-    "tradScore": 9.15,
+    "wokeScore": 9,
+    "tradScore": 9.2,
     "poster": "/images/posters/madame-web-2024.jpg"
   },
   {
@@ -6971,12 +6983,12 @@
   {
     "slug": "wolf-man-2025",
     "title": "Wolf Man",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Horror/Thriller",
     "year": 2025,
     "type": "film",
-    "wokeScore": 9.8,
+    "wokeScore": 7.8,
     "tradScore": 18.9,
     "poster": "/images/posters/wolf-man-2025.jpg"
   },
@@ -7031,13 +7043,13 @@
   {
     "slug": "captain-america-brave-new-world-2025",
     "title": "Captain America: Brave New World",
-    "verdict": "WOKE LEAN",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Action/Sci-Fi/Thriller",
     "year": 2025,
     "type": "film",
-    "wokeScore": 14.58,
-    "tradScore": 10.08,
+    "wokeScore": 19,
+    "tradScore": 22.8,
     "poster": "/images/posters/captain-america-brave-new-world-2025.jpg"
   },
   {
@@ -7097,7 +7109,7 @@
     "year": 2013,
     "type": "film",
     "wokeScore": 13,
-    "tradScore": 18,
+    "tradScore": 18.4,
     "poster": "/images/posters/frozen-2013.jpg"
   },
   {
@@ -7109,7 +7121,7 @@
     "year": 2019,
     "type": "film",
     "wokeScore": 19,
-    "tradScore": 14,
+    "tradScore": 14.4,
     "poster": "/images/posters/frozen-ii-2019.jpg"
   },
   {
@@ -7120,8 +7132,8 @@
     "genre": "Crime/Comedy-Drama",
     "year": 2021,
     "type": "film",
-    "wokeScore": 14,
-    "tradScore": 12,
+    "wokeScore": 14.2,
+    "tradScore": 12.3,
     "poster": "/images/posters/cruella-2021.jpg"
   },
   {
@@ -7168,8 +7180,8 @@
     "genre": "Action/Thriller/Spy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 4.9,
-    "tradScore": 14.62,
+    "wokeScore": 3.9,
+    "tradScore": 20,
     "poster": "/images/posters/the-amateur-2025.jpg"
   },
   {
@@ -7180,20 +7192,20 @@
     "genre": "Action/Thriller",
     "year": 2025,
     "type": "film",
-    "wokeScore": 14.46,
-    "tradScore": 7.6,
+    "wokeScore": 10.7,
+    "tradScore": 8.2,
     "poster": "/images/posters/g20-2025.jpg"
   },
   {
     "slug": "final-destination-bloodlines-2025",
     "title": "Final Destination: Bloodlines",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Horror/Thriller/Supernatural",
     "year": 2025,
     "type": "film",
-    "wokeScore": 2.52,
-    "tradScore": 4.48,
+    "wokeScore": 2.1,
+    "tradScore": 6.7,
     "poster": "/images/posters/final-destination-bloodlines-2025.jpg"
   },
   {
@@ -7216,8 +7228,8 @@
     "genre": "Spy Thriller/Drama/Mystery",
     "year": 2025,
     "type": "film",
-    "wokeScore": 5.94,
-    "tradScore": 18.75,
+    "wokeScore": 6,
+    "tradScore": 20.2,
     "poster": "/images/posters/black-bag-2025.jpg"
   },
   {
@@ -7228,8 +7240,8 @@
     "genre": "Animation/Action/Fantasy",
     "year": 2024,
     "type": "film",
-    "wokeScore": 1.26,
-    "tradScore": 28.35,
+    "wokeScore": 1.3,
+    "tradScore": 28.3,
     "poster": "/images/posters/solo-leveling-reawakening-2024.jpg"
   },
   {
@@ -7288,8 +7300,8 @@
     "genre": "Action/Drama",
     "year": 2022,
     "type": "film",
-    "wokeScore": 1.05,
-    "tradScore": 21.28,
+    "wokeScore": 1,
+    "tradScore": 21.3,
     "poster": "/images/posters/top-gun-maverick-2022.jpg"
   },
   {
@@ -7300,8 +7312,8 @@
     "genre": "Historical/Epic/Drama",
     "year": 2023,
     "type": "film",
-    "wokeScore": 10.18,
-    "tradScore": 11.28,
+    "wokeScore": 9.5,
+    "tradScore": 10.6,
     "poster": "/images/posters/napoleon-2023.jpg"
   },
   {
@@ -7336,8 +7348,8 @@
     "genre": "Animation/Sci-Fi/Action",
     "year": 2022,
     "type": "film",
-    "wokeScore": 10.22,
-    "tradScore": 6.65,
+    "wokeScore": 10.2,
+    "tradScore": 6.6,
     "poster": "/images/posters/lightyear-2022.jpg"
   },
   {
@@ -7372,7 +7384,7 @@
     "genre": "Animation/Musical/Fantasy",
     "year": 2023,
     "type": "film",
-    "wokeScore": 17.45,
+    "wokeScore": 17.4,
     "tradScore": 11.9,
     "poster": "/images/posters/wish-2023.jpg"
   },
@@ -7408,8 +7420,8 @@
     "genre": "Action/Adventure/Thriller",
     "year": 2021,
     "type": "film",
-    "wokeScore": 16.95,
-    "tradScore": 12.13,
+    "wokeScore": 16.9,
+    "tradScore": 12.1,
     "poster": "/images/posters/black-widow-2021.jpg"
   },
   {
@@ -7427,13 +7439,13 @@
   {
     "slug": "black-panther-wakanda-forever-2022",
     "title": "Black Panther: Wakanda Forever",
-    "verdict": "WOKE LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Superhero/Action/Drama",
     "year": 2022,
     "type": "film",
-    "wokeScore": 18.42,
-    "tradScore": 12.67,
+    "wokeScore": 18.4,
+    "tradScore": 29.5,
     "poster": "/images/posters/black-panther-wakanda-forever-2022.jpg"
   },
   {
@@ -7444,20 +7456,20 @@
     "genre": "Superhero/Action/Comedy",
     "year": 2023,
     "type": "film",
-    "wokeScore": 22.95,
-    "tradScore": 8.87,
+    "wokeScore": 22.9,
+    "tradScore": 8.9,
     "poster": "/images/posters/the-marvels-2023.jpg"
   },
   {
     "slug": "ant-man-and-the-wasp-quantumania-2023",
     "title": "Ant-Man and the Wasp: Quantumania",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "platform": "Theatrical",
     "genre": "Superhero/Action/Adventure",
     "year": 2023,
     "type": "film",
-    "wokeScore": 14.57,
-    "tradScore": 10.67,
+    "wokeScore": 14.6,
+    "tradScore": 15.9,
     "poster": "/images/posters/ant-man-and-the-wasp-quantumania-2023.jpg"
   },
   {
@@ -7480,8 +7492,8 @@
     "genre": "Action/Crime/Thriller",
     "year": 2025,
     "type": "film",
-    "wokeScore": 4.2,
-    "tradScore": 26.46,
+    "wokeScore": 3.5,
+    "tradScore": 26,
     "poster": "/images/posters/the-accountant-2-2025.jpg"
   },
   {
@@ -7492,8 +7504,8 @@
     "genre": "Action/Comedy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 12.6,
-    "tradScore": 10.92,
+    "wokeScore": 10.2,
+    "tradScore": 9.5,
     "poster": "/images/posters/back-in-action-2025.jpg"
   },
   {
@@ -7540,7 +7552,7 @@
     "genre": "Family/Adventure",
     "year": 2025,
     "type": "film",
-    "wokeScore": 4.7,
+    "wokeScore": 5.6,
     "tradScore": 33.2,
     "poster": "/images/posters/how-to-train-your-dragon-2025.jpg"
   },
@@ -7552,8 +7564,8 @@
     "genre": "Action/Thriller",
     "year": 2025,
     "type": "film",
-    "wokeScore": 1.1,
-    "tradScore": 21.4,
+    "wokeScore": 1,
+    "tradScore": 24.1,
     "poster": "/images/posters/mission-impossible-final-reckoning-2025.jpg"
   },
   {
@@ -7564,8 +7576,8 @@
     "genre": "Animation/Comedy",
     "year": 2025,
     "type": "film",
-    "wokeScore": 3.35,
-    "tradScore": 22.54,
+    "wokeScore": 3,
+    "tradScore": 22.8,
     "poster": "/images/posters/dog-man-2025.jpg"
   },
   {
@@ -7576,8 +7588,8 @@
     "genre": "Action/Crime",
     "year": 2025,
     "type": "film",
-    "wokeScore": 4.3,
-    "tradScore": 7,
+    "wokeScore": 4.4,
+    "tradScore": 9.9,
     "poster": "/images/posters/den-of-thieves-2-pantera-2025.jpg"
   },
   {
@@ -7588,8 +7600,8 @@
     "genre": "Horror/Thriller",
     "year": 2025,
     "type": "film",
-    "wokeScore": 18.1,
-    "tradScore": 8.5,
+    "wokeScore": 22.4,
+    "tradScore": 8.4,
     "poster": "/images/posters/presence-2025.jpg"
   },
   {
@@ -7647,8 +7659,8 @@
     "genre": "Action/Adventure/Comedy",
     "year": 2024,
     "type": "film",
-    "wokeScore": 4.2,
-    "tradScore": 18.34,
+    "wokeScore": 2.1,
+    "tradScore": 18.3,
     "poster": "/images/posters/sonic-the-hedgehog-3-2024.jpg"
   },
   {
@@ -7659,8 +7671,8 @@
     "genre": "Horror/Sci-Fi",
     "year": 2024,
     "type": "film",
-    "wokeScore": 12.6,
-    "tradScore": 11.62,
+    "wokeScore": 10.8,
+    "tradScore": 11.7,
     "poster": "/images/posters/a-quiet-place-day-one-2024.jpg"
   },
   {
@@ -7671,8 +7683,8 @@
     "genre": "Action/Superhero",
     "year": 2024,
     "type": "film",
-    "wokeScore": 3.5,
-    "tradScore": 17.07,
+    "wokeScore": 2.8,
+    "tradScore": 18.3,
     "poster": "/images/posters/venom-the-last-dance-2024.jpg"
   },
   {
@@ -7683,8 +7695,8 @@
     "genre": "Animation",
     "year": 2024,
     "type": "film",
-    "wokeScore": 14.2,
-    "tradScore": 22.8,
+    "wokeScore": 15.2,
+    "tradScore": 23.4,
     "poster": "/images/posters/mufasa-2024.jpg"
   },
   {
@@ -7695,20 +7707,20 @@
     "genre": "Musical",
     "year": 2023,
     "type": "film",
-    "wokeScore": 24.6,
-    "tradScore": 12.3,
+    "wokeScore": 24.2,
+    "tradScore": 12.9,
     "poster": "/images/posters/the-little-mermaid-2023.jpg"
   },
   {
     "slug": "indiana-jones-dial-of-destiny-2023",
     "title": "Indiana Jones and the Dial of Destiny",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "MIXED",
     "platform": "Streaming",
     "genre": "Action",
     "year": 2023,
     "type": "film",
-    "wokeScore": 15.4,
-    "tradScore": 22.7,
+    "wokeScore": 20.9,
+    "tradScore": 23.4,
     "poster": "/images/posters/indiana-jones-dial-of-destiny-2023.jpg"
   },
   {
@@ -7719,8 +7731,8 @@
     "genre": "Action/Sci-Fi",
     "year": 2025,
     "type": "film",
-    "wokeScore": 14,
-    "tradScore": 10,
+    "wokeScore": 13.9,
+    "tradScore": 9.1,
     "poster": "/images/posters/jurassic-world-rebirth-2025.jpg"
   },
   {
@@ -7966,13 +7978,13 @@
   {
     "slug": "mercy-2026",
     "title": "Mercy (2026)",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Sci-Fi & Fantasy",
     "year": 2026,
     "type": "film",
-    "wokeScore": 5,
-    "tradScore": 8,
+    "wokeScore": 15.8,
+    "tradScore": 44,
     "poster": "/images/posters/mercy-2026.jpg"
   },
   {
@@ -7983,7 +7995,7 @@
     "genre": "Animation",
     "year": 2025,
     "type": "film",
-    "wokeScore": 91,
+    "wokeScore": 91.4,
     "tradScore": 53,
     "poster": "/images/posters/zootopia-2-2025.jpg"
   },
@@ -8002,13 +8014,13 @@
   {
     "slug": "send-help-2026",
     "title": "Send Help (2026)",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Horror",
     "year": 2026,
     "type": "film",
-    "wokeScore": 15,
-    "tradScore": 22,
+    "wokeScore": 24,
+    "tradScore": 39.2,
     "poster": "/images/posters/send-help-2026.jpg"
   },
   {
@@ -8271,20 +8283,20 @@
     "genre": "Action",
     "year": 2024,
     "type": "film",
-    "wokeScore": 22,
-    "tradScore": 18,
+    "wokeScore": 20.6,
+    "tradScore": 15.2,
     "poster": "/images/posters/civil-war-2024.jpg"
   },
   {
     "slug": "monkey-man-2024",
     "title": "Monkey Man",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical / Peacock",
     "genre": "Action",
     "year": 2024,
     "type": "film",
-    "wokeScore": 28,
-    "tradScore": 14,
+    "wokeScore": 18.6,
+    "tradScore": 10.1,
     "poster": "/images/posters/monkey-man-2024.jpg"
   },
   {
@@ -8295,8 +8307,8 @@
     "genre": "Thriller",
     "year": 2024,
     "type": "film",
-    "wokeScore": 26,
-    "tradScore": 9,
+    "wokeScore": 16.4,
+    "tradScore": 7.1,
     "poster": "/images/posters/love-lies-bleeding-2024.jpg"
   },
   {
@@ -8307,8 +8319,8 @@
     "genre": "Horror",
     "year": 2024,
     "type": "film",
-    "wokeScore": 29,
-    "tradScore": 8,
+    "wokeScore": 25.4,
+    "tradScore": 3.5,
     "poster": "/images/posters/immaculate-2024.jpg"
   },
   {
@@ -8523,8 +8535,8 @@
     "genre": "Comedy",
     "year": 2023,
     "type": "film",
-    "wokeScore": 48,
-    "tradScore": 16,
+    "wokeScore": 48.4,
+    "tradScore": 16.3,
     "poster": "/images/posters/barbie-2023.jpg"
   },
   {
@@ -8535,8 +8547,8 @@
     "genre": "Action",
     "year": 2025,
     "type": "film",
-    "wokeScore": 19,
-    "tradScore": 21,
+    "wokeScore": 18.9,
+    "tradScore": 20.8,
     "poster": "/images/posters/superman-2025.jpg"
   },
   {
@@ -8547,8 +8559,8 @@
     "genre": "Horror",
     "year": 2024,
     "type": "film",
-    "wokeScore": 41,
-    "tradScore": 14,
+    "wokeScore": 41.2,
+    "tradScore": 13.7,
     "poster": "/images/posters/heretic-2024.jpg"
   },
   {
@@ -8559,8 +8571,8 @@
     "genre": "Sci-Fi & Fantasy",
     "year": 2023,
     "type": "film",
-    "wokeScore": 47,
-    "tradScore": 9,
+    "wokeScore": 46.5,
+    "tradScore": 9.4,
     "poster": "/images/posters/poor-things-2023.jpg"
   },
   {
@@ -8595,8 +8607,8 @@
     "genre": "Drama",
     "year": 2023,
     "type": "film",
-    "wokeScore": 30,
-    "tradScore": 26,
+    "wokeScore": 29.5,
+    "tradScore": 25.6,
     "poster": "/images/posters/oppenheimer-2023.jpg"
   },
   {
@@ -8607,8 +8619,8 @@
     "genre": "Thriller",
     "year": 2023,
     "type": "film",
-    "wokeScore": 35,
-    "tradScore": 3,
+    "wokeScore": 35.4,
+    "tradScore": 3.4,
     "poster": "/images/posters/saltburn-2023.jpg"
   },
   {
@@ -8619,8 +8631,8 @@
     "genre": "Horror",
     "year": 2024,
     "type": "film",
-    "wokeScore": 37,
-    "tradScore": 13,
+    "wokeScore": 37.3,
+    "tradScore": 13.2,
     "poster": "/images/posters/the-substance-2024.jpg"
   },
   {
@@ -8631,8 +8643,8 @@
     "genre": "Drama",
     "year": 2024,
     "type": "film",
-    "wokeScore": 36,
-    "tradScore": 10,
+    "wokeScore": 35.8,
+    "tradScore": 9.9,
     "poster": "/images/posters/anora-2024.jpg"
   },
   {
@@ -8643,8 +8655,8 @@
     "genre": "Drama",
     "year": 2023,
     "type": "film",
-    "wokeScore": 19,
-    "tradScore": 15,
+    "wokeScore": 19.2,
+    "tradScore": 14.8,
     "poster": "/images/posters/killers-of-the-flower-moon-2023.jpg"
   },
   {
@@ -8655,8 +8667,8 @@
     "genre": "Drama",
     "year": 2022,
     "type": "film",
-    "wokeScore": 7,
-    "tradScore": 28,
+    "wokeScore": 7.1,
+    "tradScore": 28.3,
     "poster": "/images/posters/tar-2022.jpg"
   },
   {
