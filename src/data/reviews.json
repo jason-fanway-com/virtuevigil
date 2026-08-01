@@ -164467,6 +164467,7 @@
       "scoreMargin": "+3.1 TRAD",
       "verdict": "TRADITIONAL LEAN"
     },
+    "wokeTrap": false,
     "tropeAudit": [
       {
         "id": "w1",
@@ -164805,6 +164806,7 @@
     "tradScore": 29.56,
     "scoreMargin": "+29 TRAD",
     "verdict": "STRONGLY TRADITIONAL",
+    "wokeTrap": false,
     "datePublished": "2026-07-25",
     "date": "2026-07-25",
     "poster": "/images/posters/band-of-brothers-2001.jpg"
@@ -164971,6 +164973,7 @@
     "tradScore": 19.34,
     "scoreMargin": "+12 TRAD",
     "verdict": "TRADITIONAL",
+    "wokeTrap": false,
     "datePublished": "2026-07-25",
     "date": "2026-07-25",
     "poster": "/images/posters/the-sopranos-season-1-1999.jpg"
