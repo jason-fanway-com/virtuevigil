@@ -251,7 +251,7 @@
   {
     "slug": "splash-city-2026",
     "title": "Splash City",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "platform": "Theaters",
     "genre": "Crime / Drama",
     "year": 2026,
@@ -1787,7 +1787,7 @@
   {
     "slug": "batman-v-superman-2016",
     "title": "Batman v Superman: Dawn of Justice",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Theatrical",
     "genre": "Action / Adventure / Superhero",
     "year": 2016,
@@ -4799,7 +4799,7 @@
   {
     "slug": "avatar-fire-and-ash-2025",
     "title": "Avatar: Fire and Ash",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical",
     "genre": "Epic Sci-Fi Action Adventure",
     "year": 2025,
@@ -7175,7 +7175,7 @@
   {
     "slug": "g20-2025",
     "title": "G20",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "platform": "Prime Video",
     "genre": "Action/Thriller",
     "year": 2025,
@@ -7559,7 +7559,7 @@
   {
     "slug": "dog-man-2025",
     "title": "Dog Man",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Animation/Comedy",
     "year": 2025,
@@ -7702,7 +7702,7 @@
   {
     "slug": "indiana-jones-dial-of-destiny-2023",
     "title": "Indiana Jones and the Dial of Destiny",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "platform": "Streaming",
     "genre": "Action",
     "year": 2023,
@@ -8290,7 +8290,7 @@
   {
     "slug": "love-lies-bleeding-2024",
     "title": "Love Lies Bleeding",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "platform": "Theatrical / MGM+",
     "genre": "Thriller",
     "year": 2024,
