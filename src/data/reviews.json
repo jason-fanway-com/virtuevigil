@@ -1336,7 +1336,7 @@
     "wokeScore": 0.0,
     "tradScore": 18.5,
     "authIndex": 38,
-    "scoreMargin": "+18.5 TRAD",
+    "scoreMargin": "+19 TRAD",
     "preRelease": false,
     "wokeTrap": 0,
     "woke_trap_assessment": {
@@ -1564,9 +1564,9 @@
     "wokeScore": 23.7,
     "tradScore": 6.4,
     "authIndex": 71,
-    "scoreMargin": "-17.3 WOKE",
+    "scoreMargin": "-17 WOKE",
     "preRelease": true,
-    "wokeTrap": 47.4,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. The film's ideology is visible from the marketing and trailer material. Anne Hathaway as an icon past her prime, Michaela Coel as a formerly silenced collaborator, music from Charli XCX and FKA Twigs: these casting and creative choices signal a film centrally concerned with female agency, the politics of celebrity, and reclaiming power in relationships structured by patriarchy. Conservative viewers will identify the film's perspective before purchasing a ticket."
@@ -2070,9 +2070,9 @@
     "wokeScore": 1.9,
     "tradScore": 15.3,
     "authIndex": 72,
-    "scoreMargin": "+13.4 TRAD",
+    "scoreMargin": "+13 TRAD",
     "preRelease": false,
-    "wokeTrap": 3.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Fuze does not qualify as a woke trap. The film contains minimal woke content (2.45 wokeScore) and carries a positive margin of +9 TRAD with TRADITIONAL LEAN verdict. While there is a female police superintendent in a position of authority, the character operates functionally within the chain-of-command thriller framework rather than as a progressive statement. The film's focus remains on the heist mechanics and the cat-and-mouse dynamic between the military expert (Taylor-Johnson) and the bank robber (James). No hidden ideological content emerges in the second half. The narrative priorities remain traditional throughout: competence, strategy, loyalty among team members, and respect for institutional authority structures."
@@ -2291,9 +2291,9 @@
     "wokeScore": 3.1,
     "tradScore": 14.2,
     "authIndex": 68,
-    "scoreMargin": "+11.1 TRAD",
+    "scoreMargin": "+11 TRAD",
     "preRelease": false,
-    "wokeTrap": 6.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "California Schemin' does not function as a woke trap. While the film contains some progressive elements in the supporting creative team and thematic exploration of class/cultural authenticity issues (3.14 wokeScore), it maintains a +8 TRAD margin with TRADITIONAL LEAN verdict. The core narrative remains: two young men take responsibility for a deception they perpetrated, face consequences for their actions, and experience genuine friendship strain under the weight of sustained dishonesty. These are traditional narrative values. The film does not hide progressive content until the second half. The structure is straightforward throughout: con artist story told chronologically with escalating stakes."
@@ -2512,9 +2512,9 @@
     "wokeScore": 0.3,
     "tradScore": 24.8,
     "authIndex": 89,
-    "scoreMargin": "+24.5 TRAD",
+    "scoreMargin": "+25 TRAD",
     "preRelease": false,
-    "wokeTrap": 0.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "I Swear does not qualify as a woke trap. The film contains minimal woke content (1.4 wokeScore) and carries a strong positive margin of +21 TRAD with STRONGLY TRADITIONAL verdict. The film's focus is entirely on John Davidson's personal struggle with Tourette's syndrome, his family relationships, and his journey toward self-acceptance and advocacy. There is no hidden progressive content that emerges in the second half. The narrative values remain consistent throughout: family love, personal courage, faith in human dignity, and the rejection of shame."
@@ -2929,7 +2929,7 @@
     "wokeScore": 0.0,
     "tradScore": 50.4,
     "authIndex": 91,
-    "scoreMargin": "+50.4 TRAD",
+    "scoreMargin": "+50 TRAD",
     "preRelease": false,
     "wokeTrap": 0,
     "woke_trap_assessment": {
@@ -7183,9 +7183,9 @@
     "wokeScore": 13.0,
     "tradScore": 23.4,
     "authIndex": 65,
-    "scoreMargin": "+10.4 TRAD",
+    "scoreMargin": "+10 TRAD",
     "preRelease": true,
-    "wokeTrap": 26.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The film's woke elements -- the South Asian setting, the tent city subplot -- are visible in every trailer, every review, every piece of marketing that has come out since Telluride. Aneil Karia has not hidden what this film is. Critics who have seen it know exactly what they are getting. There is no bait-and-switch here. The film is openly a reimagined Hamlet set among London's South Asian elite, and it scores TRADITIONAL because the plot of Hamlet is traditional. You know this going in."
@@ -7845,9 +7845,9 @@
     "wokeScore": 3.4,
     "tradScore": 31.2,
     "authIndex": 82,
-    "scoreMargin": "+27.8 TRAD",
+    "scoreMargin": "+28 TRAD",
     "preRelease": false,
-    "wokeTrap": 6.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Happy Gilmore 2 does not qualify as a woke trap. The film's R rating, crude humor, partial nudity, and adult content are consistent with the original Happy Gilmore (1996) and are explicitly flagged in marketing materials. There is no deceptive ideological packaging. The diversity in the cast - notably Bad Bunny as Oscar the caddie - serves the story without political freight. The film never pivots to progressive ideology mid-runtime. What you see in the trailers is what you get. A woke trap requires a traditional exterior concealing ideological content that only emerges after the audience is invested. Happy Gilmore 2 is exactly what it presents itself as: a crude, crowd-pleasing sports comedy about a father trying to provide for his daughter. The woke score of 3.45 does not approach the WOKE LEAN threshold. The verdict is STRONGLY TRADITIONAL (margin +28 TRAD). Trap flag not applicable."
@@ -8440,9 +8440,9 @@
     "wokeScore": 1.5,
     "tradScore": 30.0,
     "authIndex": 95,
-    "scoreMargin": "+28.5 TRAD",
+    "scoreMargin": "+29 TRAD",
     "preRelease": true,
-    "wokeTrap": 3.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Beast markets itself as a gritty MMA comeback story built on family obligation and masculine redemption. The creative team, led by first-time feature director Tyler Atkins and co-written by Russell Crowe himself, has no track record of ideological bait-and-switch. The cast is built around Australian action talent: Daniel MacPherson, Bren Foster, Luke Hemsworth, Mojean Aria. Russell Crowe's involvement as both writer and actor signals a film made by people who want to tell a visceral combat story, not deliver a lecture. Conservative audiences who enjoy Rocky, Warrior, or Redbelt will recognize the DNA immediately."
@@ -8935,9 +8935,9 @@
     "wokeScore": 17.6,
     "tradScore": 12.3,
     "authIndex": 62,
-    "scoreMargin": "-5.3 WOKE",
+    "scoreMargin": "-5 WOKE",
     "preRelease": false,
-    "wokeTrap": 35.2,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. Hoppers wears its environmental activism and anti-development messaging on its sleeve from the opening frames. Trailers showed Mabel as a self-described feral animal-rights activist battling a corrupt male mayor over her beloved glade. Critics discussed the eco-messaging in their first reviews. There is no deceptive packaging. The film is openly ideological and audiences knew what they were buying before they sat down."
@@ -9176,9 +9176,9 @@
     "wokeScore": 5.7,
     "tradScore": 16.5,
     "authIndex": 72,
-    "scoreMargin": "+10.8 TRAD",
+    "scoreMargin": "+11 TRAD",
     "preRelease": false,
-    "wokeTrap": 11.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Reminders of Him is a straightforward Colleen Hoover romance adaptation. The progressive elements -- an ex-convict heroine, a neighbor with Down syndrome, drug use backstory -- are present from the premise onward and were discussed in the book's widespread readership before production. There is no ideological bait-and-switch. The film is exactly what it advertises: a tearjerker romance about forgiveness, motherhood, and second chances."
@@ -9403,9 +9403,9 @@
     "wokeScore": 6.6,
     "tradScore": 17.9,
     "authIndex": 73,
-    "scoreMargin": "+11.3 TRAD",
+    "scoreMargin": "+11 TRAD",
     "preRelease": false,
-    "wokeTrap": 13.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. GOAT is an upfront underdog sports comedy that wears its diverse, co-ed cast and its corporate-greed villain in plain sight from the trailers. There is no deceptive packaging. The film is exactly what it presents itself as: an animated Zootopia-meets-Space-Jam riff with Stephen Curry's fingerprints on the basketball mythology."
@@ -12736,9 +12736,9 @@
     "wokeScore": 9.9,
     "tradScore": 17.3,
     "authIndex": 82,
-    "scoreMargin": "+7.4 TRAD",
+    "scoreMargin": "+7 TRAD",
     "preRelease": true,
-    "wokeTrap": 19.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. This is a pre-release review. Michael is a biographical film about one of the most famous and controversial entertainers in American history. Its subject matter, including the child abuse allegations against Michael Jackson, Joe Jackson's documented abuse of his children, and the racial barriers of the entertainment industry, is not ideologically hidden. These are publicly known elements of MJ's story that any biopic must address. The film is produced with the cooperation of the Jackson estate, which suggests the framing will be sympathetic to Michael rather than prosecutorial. Conservative viewers know what they are walking into. There is no ideological ambush waiting."
@@ -13797,9 +13797,9 @@
     "wokeScore": 5.9,
     "tradScore": 16.4,
     "authIndex": 80,
-    "scoreMargin": "+10.5 TRAD",
+    "scoreMargin": "+10 TRAD",
     "preRelease": false,
-    "wokeTrap": 11.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The film never hides its values. The Bowser fatherhood arc and family loyalty themes are front and center from the opening minutes. The female-power elements around Peach and Rosalina are present but do not dominate the narrative or arrive as a bait-and-switch. Conservative families have nothing to be blindsided by here."
@@ -15989,9 +15989,9 @@
     "wokeScore": 1.7,
     "tradScore": 19.0,
     "authIndex": 88,
-    "scoreMargin": "+17.3 TRAD",
+    "scoreMargin": "+17 TRAD",
     "preRelease": false,
-    "wokeTrap": 3.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No woke trap. Cast Away is a survival drama with no hidden ideological agenda. The film's lone-man-on-island premise is exactly what it advertises, and its traditional themes of endurance, self-reliance, and love are visible from the first act."
@@ -16185,9 +16185,9 @@
     "wokeScore": 9.5,
     "tradScore": 15.8,
     "authIndex": 82,
-    "scoreMargin": "+6.3 TRAD",
+    "scoreMargin": "+6 TRAD",
     "preRelease": false,
-    "wokeTrap": 19.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No woke trap. Captain Phillips presents both its American protagonist and its Somali pirates with human complexity, but this complexity is visible throughout the film, not hidden. The film's progressive sympathies toward the pirates' economic desperation are present but do not overturn the traditional core: an American captain protecting his crew against lethal threat."
@@ -16802,9 +16802,9 @@
     "wokeScore": 6.2,
     "tradScore": 8.7,
     "authIndex": 72,
-    "scoreMargin": "+2.5 TRAD",
+    "scoreMargin": "+2 TRAD",
     "preRelease": false,
-    "wokeTrap": 12.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No woke trap. Uncut Gems advertises itself as an anxiety-inducing thriller about a chaotic gambling addict. The film's moral framework, to the extent it has one, is visible throughout: this is a portrait of self-destruction without redemption, not a politically coded film with a hidden agenda."
@@ -17236,9 +17236,9 @@
     "wokeScore": 3.5,
     "tradScore": 13.6,
     "authIndex": 85,
-    "scoreMargin": "+10.1 TRAD",
+    "scoreMargin": "+10 TRAD",
     "preRelease": false,
-    "wokeTrap": 7.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No woke trap. The Avengers is exactly what its marketing promised: a massive superhero ensemble film. Its themes of teamwork, sacrifice, and fighting for freedom are visible throughout. This is the MCU before its ideological capture."
@@ -17466,9 +17466,9 @@
     "wokeScore": 1.0,
     "tradScore": 24.8,
     "authIndex": 95,
-    "scoreMargin": "+23.8 TRAD",
+    "scoreMargin": "+24 TRAD",
     "preRelease": false,
-    "wokeTrap": 2.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No woke trap. The Lion King is a 1994 Disney animated film whose traditional values are visible in every frame. Leadership, responsibility, father-son legacy, filial duty, and the restoration of rightful order are the explicit themes from the opening sunrise. Nothing is hidden."
@@ -20259,9 +20259,9 @@
     "wokeScore": 2.0,
     "tradScore": 20.0,
     "authIndex": 90,
-    "scoreMargin": "+18.0 TRAD",
+    "scoreMargin": "+18 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Click presents a workaholic father who gets a universal remote that controls time and uses it to skip the inconvenient parts of family life, until he realizes what he has skipped away. The warning is visible from act one."
@@ -21139,9 +21139,9 @@
     "wokeScore": 2.9,
     "tradScore": 14.0,
     "authIndex": 89,
-    "scoreMargin": "+11.1 TRAD",
+    "scoreMargin": "+11 TRAD",
     "preRelease": false,
-    "wokeTrap": 5.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Fantastic Mr. Fox presents a fox who has given up his wild nature to be a responsible family man, then risks everything when he reverts to his old ways. The values are visible throughout."
@@ -24721,9 +24721,9 @@
     "wokeScore": 0.7,
     "tradScore": 15.3,
     "authIndex": 95,
-    "scoreMargin": "+14.6 TRAD",
+    "scoreMargin": "+15 TRAD",
     "preRelease": false,
-    "wokeTrap": 1.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. John Wick is exactly what it advertises: a retired assassin returns to the criminal underworld to avenge the murder of his dog. The dog was a final gift from his recently deceased wife. The film's entire premise is grief, loyalty, and the justice of consequences. There is no hidden ideology. The first frame to the last delivers a pure masculine revenge narrative with no late-game subversion. Conservative audiences know exactly what they are getting and they get it."
@@ -25180,9 +25180,9 @@
     "wokeScore": 4.8,
     "tradScore": 13.3,
     "authIndex": 78,
-    "scoreMargin": "+8.5 TRAD",
+    "scoreMargin": "+9 TRAD",
     "preRelease": false,
-    "wokeTrap": 9.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Wonder Woman's feminist framing is visible from every piece of marketing. Diana is the hero. The male characters support her. Nobody hid this. Conservative viewers who pick up the Blu-ray knowing it's a female-led superhero film are not being ambushed. The progressive elements don't ambush you mid-film. More importantly, they're balanced by the film's genuine traditionalism: sacrifice, duty, the belief that people deserve saving, and one of the most effective heroic deaths in modern blockbuster cinema."
@@ -26436,10 +26436,10 @@
     "verdict": "TRADITIONAL",
     "wokeScore": 8.2,
     "tradScore": 18.9,
-    "scoreMargin": "+10.7 TRAD",
+    "scoreMargin": "+11 TRAD",
     "authIndex": 78,
     "preRelease": false,
-    "wokeTrap": 16.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Rebel Ridge's racial dynamics are present but never weaponized into ideology. Terry Richmond is Black, and the corrupt police are white, but the film does not frame this as a racial justice allegory. It is framed as an individual rights story. The civil forfeiture system Terry fights is one the ACLU and the Institute for Justice, CATO Institute and the Heritage Foundation all agree is unconstitutional overreach. This is a libertarian film, not a progressive one. The 'cops bad' framing is specific: these particular cops abuse a specific legal mechanism. The film does not argue that all policing is racist or that law enforcement is systemically evil. That distinction matters. Conservative and libertarian viewers who oppose civil asset forfeiture will find the film vindicates their position."
@@ -27405,9 +27405,9 @@
     "wokeScore": 12.0,
     "tradScore": 12.2,
     "authIndex": 82,
-    "scoreMargin": "+0.2 TRAD",
+    "scoreMargin": "0 NEUTRAL",
     "preRelease": false,
-    "wokeTrap": 24.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The film's progressive elements were visible and widely discussed before release. Nomi's presence as the new 007 was publicized in trailers and press coverage. The film's softer, more emotionally vulnerable Bond was central to Daniel Craig's arc across five films. The marketing was honest about the film's tone: more emotional, more domestic, more interested in love and family than classic spy action. Audiences knew what they were getting. Conservative viewers who objected to the direction had ample warning from press coverage, trailers, and the preceding film Spectre. The only element that surprised some viewers was the ending, but the marketing's elegiac tone telegraphed that something significant was coming."
@@ -27636,9 +27636,9 @@
     "wokeScore": 15.1,
     "tradScore": 8.8,
     "authIndex": 80,
-    "scoreMargin": "-6.3 WOKE",
+    "scoreMargin": "-6 WOKE",
     "preRelease": false,
-    "wokeTrap": 30.2,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. Blue Beetle's political messaging is visible from the first act. The Kord Industries villain represents American military-industrial exploitation of Latin communities within the first 20 minutes. Jaime's undocumented relatives and the Reyes family's economic displacement are established early. The anti-military and anti-corporate messaging runs through the entire runtime without escalating after the midpoint. Conservative audiences who find the first act's politics objectionable will not encounter anything hidden. The marketing also presented the film as a proudly Latinx superhero story centered on family and community, which accurately reflected the content."
@@ -28293,9 +28293,9 @@
     "wokeScore": 15.1,
     "tradScore": 8.8,
     "authIndex": 78,
-    "scoreMargin": "-6.3 WOKE",
+    "scoreMargin": "-6 WOKE",
     "preRelease": false,
-    "wokeTrap": 30.2,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "The Matrix Resurrections is not a woke trap. It is one of the most openly self-aware and self-critical films in recent blockbuster history. Lana Wachowski explicitly frames the film as a meta-commentary on Warner Bros. forcing a sequel to a franchise she considers complete, on nostalgia as corporate exploitation, and on the nature of reality in an era of social media and identity politics. The film's progressive ideology is not hidden; it is the entire argument. Conservative audiences know exactly what they are getting within the first twenty minutes, when the film literally deconstructs its own marketing materials. The woke content is the point, not a surprise."
@@ -30529,9 +30529,9 @@
     "wokeScore": 6.8,
     "tradScore": 19.2,
     "authIndex": 90,
-    "scoreMargin": "+12.4 TRAD",
+    "scoreMargin": "+12 TRAD",
     "preRelease": false,
-    "wokeTrap": 13.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Once Upon a Time in Hollywood is a Tarantino film about the twilight of Old Hollywood masculinity and the counterculture's dark side. Its sympathy for Rick Dalton and Cliff Booth, two working-class white men navigating cultural obsolescence, is visible from the first frame. The film's revisionist ending is a fantasy of traditional values defeating Manson-era chaos. There is nothing hidden here. What you see in the first twenty minutes is what you get for 161 minutes."
@@ -31000,9 +31000,9 @@
     "wokeScore": 11.6,
     "tradScore": 7.0,
     "authIndex": 89,
-    "scoreMargin": "-4.6 WOKE",
+    "scoreMargin": "-5 WOKE",
     "preRelease": false,
-    "wokeTrap": 23.2,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP despite the woke lean. Knives Out's immigration politics and class critique are embedded in the premise from the start. The protagonist is an undocumented immigrant's daughter. The villain is an entitled wealthy family who talks progressive but acts exploitative. Rian Johnson has publicly stated that the film is a deliberate commentary on Trump-era immigration politics. None of this is hidden. Conservative audiences who engage with the film knowing its politics will find a craftsman's whodunit with an agenda, not a neutral mystery that ambushes them."
@@ -31468,9 +31468,9 @@
     "wokeScore": 2.0,
     "tradScore": 22.0,
     "authIndex": 93,
-    "scoreMargin": "+20.0 TRAD",
+    "scoreMargin": "+20 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Ford v Ferrari contains virtually no progressive content. It is a film about two men who build race cars and drive them very fast. The marketing was accurate. There are no hidden agendas, no third-act lectures, no identity politics embedded in the story. What you see is what you get: an old-fashioned craftsmanship film about masculine excellence in a technical field. Conservative audiences were not, and cannot be, ambushed by this film."
@@ -31679,9 +31679,9 @@
     "wokeScore": 3.5,
     "tradScore": 12.9,
     "authIndex": 88,
-    "scoreMargin": "+9.4 TRAD",
+    "scoreMargin": "+9 TRAD",
     "preRelease": false,
-    "wokeTrap": 7.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "The film is a faithful live-action remake of a beloved 2002 animated film. Its pro-family, pro-sisterhood, Hawaiian cultural content is front and center from the opening scene. No hidden progressive agenda. The minor 'found family' framing is visible and consistent with the original film's explicit themes."
@@ -31892,9 +31892,9 @@
     "wokeScore": 8.6,
     "tradScore": 14.2,
     "authIndex": 82,
-    "scoreMargin": "+5.6 TRAD",
+    "scoreMargin": "+6 TRAD",
     "preRelease": false,
-    "wokeTrap": 17.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "The film's themes are visible from the opening act. Proximus Caesar's tyranny and the colonial allegory are front-loaded. The human lead Mae's agenda is unclear for much of the runtime but the film does not hide that humans and apes are in conflict. No hidden agenda deployed after the halfway mark."
@@ -32702,13 +32702,13 @@
     "author": "Debra Ducane",
     "readTime": "11 min",
     "poster": "/images/posters/avatar-fire-and-ash-2025.jpg",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "wokeScore": 21.0,
     "tradScore": 11.6,
     "authIndex": 80,
-    "scoreMargin": "-9.4 WOKE",
+    "scoreMargin": "-9 WOKE",
     "preRelease": false,
-    "wokeTrap": 42.0,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Cameron's anti-colonialist, anti-military messaging has been visible since the first Avatar film in 2009. The franchise's ideological commitments are well known. No hidden agenda. Conservative audiences know what they are getting from the first frame."
@@ -33397,9 +33397,9 @@
     "wokeScore": 2.4,
     "tradScore": 10.2,
     "authIndex": 78,
-    "scoreMargin": "+7.8 TRAD",
+    "scoreMargin": "+8 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. A Minecraft Movie's minor gender-role issues are present from the opening scenes and are modest in scope. Nothing is hidden. The film is exactly what the marketing promises: a loud, colorful family adventure featuring Jack Black and Jason Momoa goofing around in a cubic world. Conservative families can assess the content accurately within the first 15 minutes. No bait-and-switch."
@@ -35865,7 +35865,7 @@
     "wokeScore": 15.4,
     "tradScore": 16.2,
     "authIndex": 52,
-    "scoreMargin": "+0.8 TRAD",
+    "scoreMargin": "+1 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No trap. The film scores within the MIXED range and its moral complexity is present from the first act, not concealed until the second half. Return to Silent Hill wears its darkness openly. The mercy killing at the heart of the story is the film's premise, not a late reveal used to bait conservative audiences. You know going in that you are watching a psychological horror film with genuine moral weight on both sides of the ledger. This is not bait-and-switch. It is a complicated film that earned a complicated score."
@@ -36036,7 +36036,7 @@
       "metaDescription": "Is Return to Silent Hill (2026) woke? VirtueVigil verdict: MIXED (+1). Christophe Gans's Silent Hill 2 adaptation is morally complex. Our full VVWS scoring breakdown of this psychological horror film.",
       "keywords": "is return to silent hill woke, return to silent hill 2026 review conservative, return to silent hill woke review, silent hill 2 movie review vvws, christophe gans silent hill woke"
     },
-    "wokeTrap": 30.8,
+    "wokeTrap": false,
     "parental_guidance": {
       "rating": "R",
       "violence": "Strong throughout. Pyramid Head kills multiple characters graphically. Monster violence. Abstract horror creatures. Gore in places.",
@@ -36064,7 +36064,7 @@
     "wokeScore": 7.0,
     "tradScore": 15.5,
     "authIndex": 70,
-    "scoreMargin": "+8.5 TRAD",
+    "scoreMargin": "+9 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No trap. The film is not marketing itself as family entertainment or hiding woke content beneath a conservative surface. Together is an R-rated body horror film distributed by Neon, the same company that released Parasite and Longlegs. Conservative audiences who pick up this film know they are not walking into something family-friendly. The gay villain element and sexual content are present throughout, not revealed after the 50% mark as a bait-and-switch. This is a complicated horror film with net traditional values, not a trap."
@@ -36205,7 +36205,7 @@
       "metaDescription": "Is Together (2025) woke? VirtueVigil verdict: TRADITIONAL LEAN (+9). Dave Franco and Alison Brie's body horror film makes a traditional argument about love despite its R-rated content. Full VVWS review.",
       "keywords": "is together 2025 woke, together dave franco alison brie review conservative, together 2025 body horror woke, together 2025 vvws review, together neon movie conservative review"
     },
-    "wokeTrap": 14.0,
+    "wokeTrap": false,
     "parental_guidance": {
       "rating": "R",
       "violence": "Body horror throughout. Fusing sequences are graphic. Practical effects. One shotgun death.",
@@ -36233,7 +36233,7 @@
     "wokeScore": 23.5,
     "tradScore": 4.9,
     "authIndex": 25,
-    "scoreMargin": "-18.6 WOKE",
+    "scoreMargin": "-19 WOKE",
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Woke trap confirmed. The film markets itself as a straightforward slasher about a killer clown terrorizing teens in a rural town. The poster, the title, and the trailers all position this as classic slasher genre entertainment. The unmasking sequence, which reveals that Frendo is not a supernatural threat but a coordinated murder campaign led by the town's mayor, sheriff, school teacher, and local business owners, does not arrive until well past the film's midpoint. Before that reveal, a conservative audience member could reasonably enjoy this as competent genre filmmaking. After it, the political allegory becomes impossible to miss: the established, traditional adults of a declining Midwestern town are the real monsters, and they are killing teenagers who represent change, outsiders, and the future. The film scored a Letterboxd consensus quote calling it a film that understands 'the only thing scarier than killer clowns is republicans with money.' That reading is not a stretch. It is the film's deliberate intent, concealed behind genre mechanics until after you are 60% invested."
@@ -36405,7 +36405,7 @@
       "metaDescription": "Is Clown in a Cornfield (2025) woke? VirtueVigil verdict: WOKE (-18) + Woke Trap confirmed. The killer clown horror disguises a MAGA allegory until past the midpoint. Full VVWS breakdown.",
       "keywords": "is clown in a cornfield woke, clown in a cornfield woke trap, clown in a cornfield 2025 conservative review, clown in a cornfield political allegory, clown in a cornfield MAGA horror vvws"
     },
-    "wokeTrap": 47.0,
+    "wokeTrap": true,
     "parental_guidance": {
       "rating": "Not rated (equivalent R)",
       "violence": "Slasher violence throughout. Multiple graphic deaths including decapitation, chainsaw impalement, pitchfork kill, crushing. Above-average gore for the genre.",
@@ -36433,7 +36433,7 @@
     "wokeScore": 21.0,
     "tradScore": 6.6,
     "authIndex": 25,
-    "scoreMargin": "-14.4 WOKE",
+    "scoreMargin": "-14 WOKE",
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Not a woke trap. The Apprentice is openly adversarial toward its subject from the first frame. Donald Trump's legal team tried to block this film's release and Trump himself called it a 'defamatory, politically disgusting hatchet job.' The film does not hide what it is. The derogatory framing of Trump's ambition, the sympathetic treatment of Roy Cohn's closeted homosexuality as a tragedy inflicted by conservative society, and the inclusion of a graphic marital rape scene are front-loaded rather than concealed. Conservative audiences who see this film know exactly what they are walking into. The packaging is not deceptive. The political agenda is stated, not smuggled."
@@ -36615,7 +36615,7 @@
       "metaDescription": "Is The Apprentice (2024) woke? VirtueVigil verdict: WOKE (-14). The Trump origin story is crafted, adversarial, and dishonest in one key scene. Full VVWS breakdown.",
       "keywords": "is the apprentice 2024 woke, the apprentice trump biopic review, the apprentice sebastian stan conservative review, the apprentice ali abbasi political agenda, vvws the apprentice 2024"
     },
-    "wokeTrap": 42.0,
+    "wokeTrap": true,
     "parental_guidance": {
       "rating": "R",
       "violence": "Limited. A graphic marital rape scene is the most disturbing content.",
@@ -41025,9 +41025,9 @@
     "wokeScore": 24.3,
     "tradScore": 4.0,
     "authIndex": 55,
-    "scoreMargin": "-20.3 WOKE",
+    "scoreMargin": "-20 WOKE",
     "preRelease": false,
-    "wokeTrap": 48.6,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Glass Onion is technically a woke trap - it presents itself as an equal-opportunity satire that mocks all flavors of elite hypocrisy, and the surface-level takedown of a charismatic tech billionaire can read as merely anti-establishment. But dig one layer and the film's sympathies are precise: Rian Johnson is a progressive, his villain is coded as a right-coded tech bro (complete with COVID-denier energy), his hero is a Black woman reclaiming stolen intellectual credit, and the film's climax requires the audience to celebrate the destruction of irreplaceable private property as righteous. Conservative audiences who enjoy the puzzle mechanics may not notice they've been served a progressive fable."
@@ -41202,9 +41202,9 @@
     "wokeScore": 6.7,
     "tradScore": 20.8,
     "authIndex": 70,
-    "scoreMargin": "+14.1 TRAD",
+    "scoreMargin": "+14 TRAD",
     "preRelease": false,
-    "wokeTrap": 13.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Nope is not a woke trap - it's an honest genre film with a Black filmmaker's thematic preoccupations baked visibly into its DNA. The film's central argument about spectacle and exploitation is made through horror mechanics rather than political lecture, and the Black family at its center is defined by work ethic, craft, and legacy rather than victimhood. Conservative audiences may not love every element but they won't feel ambushed."
@@ -41536,9 +41536,9 @@
     "wokeScore": 10.5,
     "tradScore": 14.5,
     "authIndex": 68,
-    "scoreMargin": "+4.0 TRAD",
+    "scoreMargin": "+4 TRAD",
     "preRelease": false,
-    "wokeTrap": 21.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Babylon is not a woke trap. The film's hedonism, excess, drug use, sexual content, and moral chaos are visible from the opening sequence of the premiere party with its orgy, cocaine, and bodily fluids. Nothing is hidden. The progressive character elements (Lady Fay Zhu as an openly gay woman, Sidney Palmer's blackface subplot) are present throughout. The film does not masquerade as a traditional values piece. Its TRADITIONAL LEAN score comes from its honest portrayal of excess and destruction: every character who surrenders to the decadence of 1920s Hollywood loses everything. Damien Chazelle is making a film about the cost of living outside moral structure, and the wages-of-sin pattern runs through the entire narrative arc even if Chazelle would not use that language."
@@ -45384,9 +45384,9 @@
     "wokeScore": 3.9,
     "tradScore": 9.0,
     "authIndex": 78,
-    "scoreMargin": "+5.1 TRAD",
+    "scoreMargin": "+5 TRAD",
     "preRelease": false,
-    "wokeTrap": 7.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. The Hangover's premise is its marketing, and the marketing is honest. The film is degenerate by design and announces that fact without embarrassment. Mr. Chow is a broadly drawn stereotype, but he is drawn broadly in the film's own absurdist register and not deployed as progressive commentary. The stripper-with-a-heart-of-gold is played for warmth, not feminist messaging. The film's sins are conventional (frat comedy excess) not ideological. Conservative viewers who avoid R-rated comedies for content reasons will find plenty to avoid here. Conservative viewers who enjoy well-constructed comedy and don't mind raunch will find a film with zero political agenda."
@@ -45634,9 +45634,9 @@
     "wokeScore": 5.5,
     "tradScore": 16.2,
     "authIndex": 72,
-    "scoreMargin": "+10.7 TRAD",
+    "scoreMargin": "+11 TRAD",
     "preRelease": false,
-    "wokeTrap": 11.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Margin is positive. Not a woke trap. The film's mild liberal undercurrents are present from the start and never concealed."
@@ -45822,9 +45822,9 @@
     "wokeScore": 5.8,
     "tradScore": 10.5,
     "authIndex": 58,
-    "scoreMargin": "+4.7 TRAD",
+    "scoreMargin": "+5 TRAD",
     "preRelease": false,
-    "wokeTrap": 11.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Margin is positive. Not a woke trap. The film's emotional complexity around marriage, immigration, and unresolved longing is present throughout and never hidden."
@@ -45984,9 +45984,9 @@
     "wokeScore": 13.5,
     "tradScore": 9.3,
     "authIndex": 38,
-    "scoreMargin": "-4.2 WOKE",
+    "scoreMargin": "-4 WOKE",
     "preRelease": false,
-    "wokeTrap": 27.0,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Margin is negative but the film's race-conscious messaging is present from the first scene. Nothing is hidden past the 50% mark. The satire's target is clear from the opening frame."
@@ -46152,7 +46152,7 @@
     "wokeScore": 3.5,
     "tradScore": 17.6,
     "authIndex": 79,
-    "scoreMargin": "+14.1 TRAD",
+    "scoreMargin": "+14 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. Road House doesn't pretend to be something it isn't. The progressive casting adjustments (a Black female bar owner replacing the original white male) are visible from the opening act and don't hide behind a traditional surface. The film's ideological DNA is overwhelmingly masculine and action-forward. What woke elements exist are present, mild, and do nothing to undermine the core value set the film is built on."
@@ -46341,7 +46341,7 @@
       "metaDescription": "Is Road House (2024) woke? VirtueVigil's verdict: TRADITIONAL (+14). Jake Gyllenhaal and Conor McGregor deliver masculine action that's woke-light and entertainment-heavy. Full VVWS scoring inside.",
       "keywords": "is road house 2024 woke, road house jake gyllenhaal conservative review, road house amazon prime woke, conor mcgregor road house review, road house 2024 woke or not"
     },
-    "wokeTrap": 7.0
+    "wokeTrap": false
   },
   {
     "id": "beverly-hills-cop-axel-f-2024",
@@ -46360,7 +46360,7 @@
     "wokeScore": 4.0,
     "tradScore": 15.2,
     "authIndex": 76,
-    "scoreMargin": "+11.2 TRAD",
+    "scoreMargin": "+11 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. The film's progressive elements are surface-level and present from early in the runtime: a Black female judge, modern Beverly Hills sensibilities in minor characters. None of this is hidden behind a traditional facade. The film's core value set (father-daughter love, old-school cop competence, loyalty, justice) is visible and dominant throughout. The margin is solidly positive. No trap conditions are met."
@@ -46533,7 +46533,7 @@
       "metaDescription": "Is Beverly Hills Cop: Axel F woke? VirtueVigil's verdict: TRADITIONAL (+11). Eddie Murphy brings Axel Foley back in a nostalgia-driven sequel with solid traditional values. Full VVWS scoring.",
       "keywords": "is beverly hills cop axel f woke, beverly hills cop 4 conservative review, axel f netflix woke or not, eddie murphy 2024 movie review conservative, beverly hills cop axel f woke analysis"
     },
-    "wokeTrap": 8.0
+    "wokeTrap": false
   },
   {
     "id": "bob-marley-one-love-2024",
@@ -46552,7 +46552,7 @@
     "wokeScore": 11.0,
     "tradScore": 16.2,
     "authIndex": 71,
-    "scoreMargin": "+5.2 TRAD",
+    "scoreMargin": "+5 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. The film's progressive elements (anti-authority messaging, countercultural worldview) are present from the opening frames. Bob Marley's politics and Rastafarianism are the subject of the film, not hidden agendas layered in after the halfway point. The margin is positive. Woke trap conditions require a negative margin AND concealment past the 50% mark. Neither applies here."
@@ -46740,7 +46740,7 @@
       "metaDescription": "Is Bob Marley: One Love woke? VirtueVigil's verdict: TRADITIONAL LEAN (+5). More faith-centered than you'd expect. Full VVWS scoring and analysis of Marley's Rastafarian framework.",
       "keywords": "is bob marley one love woke, bob marley one love conservative review, bob marley one love 2024 woke or not, bob marley film review VirtueVigil, kingsley ben-adir bob marley woke"
     },
-    "wokeTrap": 22.0
+    "wokeTrap": false
   },
   {
     "id": "smurfs-2025",
@@ -46758,9 +46758,9 @@
     "wokeScore": 9.5,
     "tradScore": 6.4,
     "authIndex": 58,
-    "scoreMargin": "-3.1 WOKE",
+    "scoreMargin": "-3 WOKE",
     "preRelease": false,
-    "wokeTrap": 19.0,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Not a woke trap. The film's ideological fingerprints are visible in the marketing before you buy a ticket. Smurfette as the lead hero, an all-star cast heavy on progressive celebrities, a female-led rescue narrative, and Rihanna's producing credit all signal the film's orientation openly. Parents who pay attention will know what they are walking into. The community themes and the treatment of Papa Smurf as a beloved patriarch in need of rescue add some traditional ballast, but the film does not hide its girl-power framing."
@@ -46947,9 +46947,9 @@
     "wokeScore": 2.0,
     "tradScore": 10.2,
     "authIndex": 79,
-    "scoreMargin": "+8.2 TRAD",
+    "scoreMargin": "+8 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. The Black Phone 2 is a straightforward genre sequel that leans further into its sibling-bond and faith-adjacent themes rather than pivoting to progressive messaging. Critics who flagged that 'some Christians are depicted as selfish' in the film are technically correct, but the film's treatment of Gwen's self-described Christian identity is overwhelmingly positive. She is the moral and spiritual center of the film. The isolated-camp setting, 1980s period authenticity, and focus on supernatural threat are exactly what the marketing promised."
@@ -47084,9 +47084,9 @@
     "wokeScore": 1.4,
     "tradScore": 16.8,
     "authIndex": 88,
-    "scoreMargin": "+15.4 TRAD",
+    "scoreMargin": "+15 TRAD",
     "preRelease": false,
-    "wokeTrap": 2.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. Nonnas is one of the most overtly traditional films Netflix has released. A story about grief, Italian immigrant family heritage, cooking as love, and elderly women being given dignity and purpose. The film was designed as Mother's Day viewing and it delivers exactly what it promises. Conservative audiences should put this near the top of their streaming queue."
@@ -47251,9 +47251,9 @@
     "wokeScore": 18.8,
     "tradScore": 3.8,
     "authIndex": 45,
-    "scoreMargin": "-15.0 WOKE",
+    "scoreMargin": "-15 WOKE",
     "preRelease": false,
-    "wokeTrap": 37.6,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Not a woke trap, though borderline. The original 1993 Ang Lee film was about a gay man arranging a sham marriage to satisfy his traditional Chinese parents. The 2025 remake replaces the single gay man with an entire queer polyamorous household, adds a lesbian couple pursuing IVF, and centers PFLAG activism as a plot element. The marketing does not hide this, but it also does not lead with it. Viewers who know the original may not realize how extensively the remake has amplified its progressive content. Still, this is a limited theatrical release with Sundance origins that signals its ideological orientation clearly enough."
@@ -50311,9 +50311,9 @@
     "wokeScore": 3.5,
     "tradScore": 15.8,
     "authIndex": 82,
-    "scoreMargin": "+12.3 TRAD",
+    "scoreMargin": "+12 TRAD",
     "preRelease": false,
-    "wokeTrap": 7.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No trap. The Life of Chuck is one of the most unambiguously life-affirming films Hollywood has produced in years. Mike Flanagan adapts Stephen King with no political agenda in sight. The film is about an ordinary man's life mattering enormously, about the love between grandparents and a grandchild, about joy as the fundamental defiance of death. Progressive elements are minimal and peripheral. This is a safe recommendation for traditional families who can handle the film's meditation on mortality."
@@ -51489,9 +51489,9 @@
     "wokeScore": 2.7,
     "tradScore": 20.8,
     "authIndex": 88,
-    "scoreMargin": "+18.1 TRAD",
+    "scoreMargin": "+18 TRAD",
     "preRelease": false,
-    "wokeTrap": 5.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No woke trap. The Equalizer franchise has always been a straightforward morality tale about a skilled man who uses violence to protect the vulnerable from predators. The third film delivers exactly that, set in Southern Italy, with the Camorra as the villains. Conservative audiences will find exactly what the poster promises."
@@ -54047,9 +54047,9 @@
     "wokeScore": 13.0,
     "tradScore": 13.6,
     "authIndex": 78,
-    "scoreMargin": "+0.6 TRAD",
+    "scoreMargin": "+1 TRAD",
     "preRelease": false,
-    "wokeTrap": 26.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. The film's ideological complexity is evident in its marketing, R rating, and director Todd Phillips' public statements. Conservative viewers knew what they were getting."
@@ -54583,9 +54583,9 @@
     "wokeScore": 9.9,
     "tradScore": 5.9,
     "authIndex": 41,
-    "scoreMargin": "-4.0 WOKE",
+    "scoreMargin": "-4 WOKE",
     "preRelease": false,
-    "wokeTrap": 19.8,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NO WOKE TRAP. Kung Fu Panda 4's progressive elements were clearly visible in trailers: Zhen the fox as a female thief turned hero, the Chameleon as a female villain whose origin involves being told she was 'too small' for kung fu, and Awkwafina's prominent billing signaling a contemporary casting philosophy. The franchise's traditional values (mentorship, identity, family) remain intact alongside these additions. Parents who take children to this film will not encounter ideology that was hidden from them. The film's PG rating accurately reflects its content."
@@ -54742,9 +54742,9 @@
     "wokeScore": 2.7,
     "tradScore": 14.8,
     "authIndex": 83,
-    "scoreMargin": "+12.1 TRAD",
+    "scoreMargin": "+12 TRAD",
     "preRelease": false,
-    "wokeTrap": 5.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NO WOKE TRAP. Cabrini is one of the most transparently faith-based, traditionalist films released by a major distributor in recent years. Angel Studios built its brand specifically by targeting audiences underserved by Hollywood's progressive content pipeline. Cabrini's content was accurately represented from its first announcement: the life of St. Frances Xavier Cabrini, the first American citizen to be canonized as a saint, brought to screen as a straightforward hagiographic biopic. The only nuance worth noting is that some Catholic reviewers found the film's treatment of Cabrini's faith insufficiently devotional, with her religious motivation subordinated to her activist achievements. This is a theological critique, not an ideological trap."
@@ -54897,9 +54897,9 @@
     "wokeScore": 6.1,
     "tradScore": 10.2,
     "authIndex": 62,
-    "scoreMargin": "+4.1 TRAD",
+    "scoreMargin": "+4 TRAD",
     "preRelease": false,
-    "wokeTrap": 12.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NO WOKE TRAP. Ghostbusters: Frozen Empire's most contested element - Phoebe's implied romantic interest in a female ghost - was discussed extensively in entertainment media before the film's opening weekend. Conservative and traditional audiences tracking 'is it woke' conversations had pre-release information. Critically, the film doesn't commit to making this explicit: it hints, implies, and then retreats, leaving enough ambiguity that reasonable viewers can interpret it as a deep friendship rather than a romance. The studio's reluctance to fully commit to a teen queer storyline was itself noted by progressive critics who wanted more. The film is not ideologically aggressive in any direction. What you see in the trailers is what you get."
@@ -55054,9 +55054,9 @@
     "wokeScore": 9.9,
     "tradScore": 18.8,
     "authIndex": 88,
-    "scoreMargin": "+8.9 TRAD",
+    "scoreMargin": "+9 TRAD",
     "preRelease": false,
-    "wokeTrap": 19.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. Thor: Ragnarok markets itself as a colorful, comedic action spectacle and delivers exactly that. The few progressive elements are peripheral and do not hijack the narrative."
@@ -58297,7 +58297,7 @@
     "verdict": "TRADITIONAL LEAN",
     "wokeScore": 5.0,
     "tradScore": 14.4,
-    "scoreMargin": "+9.4 TRAD",
+    "scoreMargin": "+9 TRAD",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -58470,7 +58470,7 @@
       "metaDescription": "VirtueVigil's ideological review of Iron Man (2008). Robert Downey Jr.'s MCU origin scores TRADITIONAL LEAN with full VVWS scoring, trope audit, and parental guidance.",
       "keywords": "is iron man woke, iron man woke, iron man review, iron man conservative review, iron man traditional, iron man mcu, iron man 2008, iron man robert downey jr, virtuevigil iron man, mcu woke"
     },
-    "wokeTrap": 10.0,
+    "wokeTrap": false,
     "datePublished": "2026-03-10"
   },
   {
@@ -58728,7 +58728,7 @@
     "verdict": "TRADITIONAL LEAN",
     "wokeScore": 10.5,
     "tradScore": 13.6,
-    "scoreMargin": "+3.1 TRAD",
+    "scoreMargin": "+3 TRAD",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -58916,7 +58916,7 @@
       "metaDescription": "VirtueVigil's ideological review of Avengers: Endgame (2019). The highest-grossing film of all time scores MIXED with full VVWS scoring, trope audit, and parental guidance.",
       "keywords": "is avengers endgame woke, avengers endgame woke, endgame review, endgame conservative review, endgame traditional, avengers endgame ideology, captain marvel woke, endgame female scene woke, virtuevigil endgame, mcu woke endgame"
     },
-    "wokeTrap": 21.0,
+    "wokeTrap": false,
     "datePublished": "2026-03-10"
   },
   {
@@ -58935,9 +58935,9 @@
     "wokeScore": 2.4,
     "tradScore": 16.4,
     "authIndex": 64,
-    "scoreMargin": "+14.0 TRAD",
+    "scoreMargin": "+14 TRAD",
     "preRelease": true,
-    "wokeTrap": 4.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The film's premise, Wile E. Coyote suing Acme Corporation for faulty products, is inherently satirical but targets corporate incompetence rather than any progressive ideology. The humor is rooted in classic Looney Tunes chaos, not identity politics. The cast is diverse but organically so, and preview footage indicates the comedy is character-driven rather than message-driven. What you see in the trailer is what you get."
@@ -59119,11 +59119,11 @@
     "wokeScore": 7.7,
     "tradScore": 11.8,
     "authIndex": 44,
-    "scoreMargin": "+4.1 TRAD",
+    "scoreMargin": "+4 TRAD",
     "preRelease": false,
-    "wokeTrap": 15.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
-      "is_trap": true,
+      "is_trap": false,
       "explanation": "MILD WOKE TRAP. The marketing sells a breezy friends-to-lovers rom-com with beautiful European backdrops. The film delivers that, but also includes: a same-sex wedding as the climactic setting, casual drug use played for laughs, a sex-positive mother who gives her daughter boxes of condoms before a trip with a man, skinny-dipping with visible nudity, and references to oral sex. The trailers emphasize the picturesque travel montages and charming banter. Traditional audiences will get the rom-com they expected but with more progressive content woven throughout than the marketing suggests."
     },
     "creative_team": {
@@ -60922,9 +60922,9 @@
     "wokeScore": 4.2,
     "tradScore": 12.2,
     "authIndex": 72,
-    "scoreMargin": "+8.0 TRAD",
+    "scoreMargin": "+8 TRAD",
     "preRelease": false,
-    "wokeTrap": 8.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The film's poster features two soldiers staring across a chasm. The marketing centers the romantic tension between them. The villain, a private defense corporation, is a standard genre device without ideological freight. Drasa's competence as a female operative is never contrasted against male incompetence. Levi is her equal throughout. The corporate evil subplot shows up early. Nothing is concealed past the halfway mark that would ambush a viewer who thought they were getting a straight action romance."
@@ -62311,9 +62311,9 @@
     "wokeScore": 22.6,
     "tradScore": 16.7,
     "authIndex": 85,
-    "scoreMargin": "-5.9 WOKE",
+    "scoreMargin": "-6 WOKE",
     "preRelease": false,
-    "wokeTrap": 45.2,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. The film's progressive elements are front and center from the opening sequence. Three women form the core trio. The villain is a patriarchal demon king. The boy band are literally demons. Rumi's identity struggle is introduced early and is clearly the emotional spine of the film. The marketing never disguised any of this. Conservative audiences can make an informed decision within minutes. The only element that might catch viewers off guard is the depth of the queer identity allegory, which co-director Maggie Kang explicitly confirmed was intentional ('Rumi's story is like she's coming out of the closet'). But even this is thematically consistent with the film's visible emphasis on self-acceptance and shame, not a hidden agenda."
@@ -62690,9 +62690,9 @@
     "wokeScore": 34.8,
     "tradScore": 10.4,
     "authIndex": 10,
-    "scoreMargin": "-24.4 WOKE",
+    "scoreMargin": "-24 WOKE",
     "preRelease": false,
-    "wokeTrap": 69.6,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Not a woke trap. The ideological orientation of The Bride! was broadcast from every conceivable angle before release. Gyllenhaal is an outspoken progressive. The synopsis advertised 'radical social change.' The trailer framed the Bride as an 'ungovernable woman.' First reactions used words like 'brazen,' 'ferocious,' and 'wild.' Post-release reviews from every political orientation confirmed the feminist messaging is front and center, with the Bride literally screaming 'Me too! Me too!' in the climax. Conservative audiences could make fully informed decisions before buying a ticket. No ambush here."
@@ -63156,9 +63156,9 @@
     "wokeScore": 8.0,
     "tradScore": 22.1,
     "authIndex": 43,
-    "scoreMargin": "+14.1 TRAD",
+    "scoreMargin": "+14 TRAD",
     "preRelease": false,
-    "wokeTrap": 16.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The Batman is exactly what it advertises: a grim, rain-soaked neo-noir detective thriller that happens to star a man in a bat costume. Matt Reeves did not bait conservative audiences with a crowd-pleasing trailer and then deliver a lecture. He baked his sensibilities into the DNA of a film that is openly dark and literary. The Riddler's radicalization subplot touches on real themes about institutionalized corruption and class resentment without turning into a progressive screed. Catwoman's anti-corruption fury is rooted in personal loss, not political ideology. The film is not trying to convert anyone. It is trying to make a great crime film. The politics are ambient, not didactic. Conservative audiences who enjoy noir, crime fiction, or dark vigilante stories will find a lot to appreciate here. This is not Snow White. It is not Lightyear. There is no agenda pushed at the expense of the story."
@@ -63453,9 +63453,9 @@
     "wokeScore": 3.5,
     "tradScore": 22.1,
     "authIndex": 50,
-    "scoreMargin": "+18.6 TRAD",
+    "scoreMargin": "+19 TRAD",
     "preRelease": false,
-    "wokeTrap": 7.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Spider-Man: No Way Home is exactly what it advertises and more. It is a crowd-pleasing superhero spectacular that delivers genuine emotional weight alongside its fan-service fireworks. Conservative audiences have nothing to fear here. The film is built on the most traditional values in the Marvel canon: responsibility, sacrifice, and choosing to do the right thing even when it costs you everything. The only element that might raise an eyebrow is a brief reference to immigration status for one of the villains, which functions as a minor character detail rather than a political lecture. This is one of the most family-friendly and value-affirming films in the entire MCU. Go without reservation."
@@ -63732,9 +63732,9 @@
     "wokeScore": 2.5,
     "tradScore": 14.4,
     "authIndex": 34,
-    "scoreMargin": "+11.9 TRAD",
+    "scoreMargin": "+12 TRAD",
     "preRelease": false,
-    "wokeTrap": 5.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Five Nights at Freddy's is a family-targeted horror adaptation of one of gaming's most beloved franchises. It was made with the direct creative involvement of Scott Cawthon, the game's Christian conservative creator, who has been vocal about his political beliefs and who faced cancel culture pressure in 2021 for donating to Republican candidates. Cawthon's fingerprints are all over the film: the emphasis on protecting children, the absent-father backstory that drives the protagonist, and the complete absence of progressive messaging. This is a rare mainstream horror film with a conservative creator's values baked into its DNA. Conservative audiences can watch with confidence."
@@ -64611,9 +64611,9 @@
     "wokeScore": 15.1,
     "tradScore": 10.9,
     "authIndex": 65,
-    "scoreMargin": "-4.2 WOKE",
+    "scoreMargin": "-4 WOKE",
     "preRelease": false,
-    "wokeTrap": 30.2,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "No Woke Trap. Almodovar's filmography makes his progressive leanings well known. The Room Next Door does not conceal its themes - death with dignity is the film's central subject and is clearly communicated in all promotional materials."
@@ -64829,9 +64829,9 @@
     "wokeScore": 4.9,
     "tradScore": 12.9,
     "authIndex": 70,
-    "scoreMargin": "+8.0 TRAD",
+    "scoreMargin": "+8 TRAD",
     "preRelease": false,
-    "wokeTrap": 9.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No Woke Trap. The CGI monkey is the entire marketing pitch. The film's themes of addiction, fame, and self-destruction are standard biopic territory. There is no hidden ideological payload."
@@ -65092,7 +65092,7 @@
     "wokeScore": 0.0,
     "tradScore": 36.0,
     "authIndex": 55,
-    "scoreMargin": "+36.0 TRAD",
+    "scoreMargin": "+36 TRAD",
     "preRelease": false,
     "wokeTrap": 0,
     "woke_trap_assessment": {
@@ -65357,9 +65357,9 @@
     "wokeScore": 3.3,
     "tradScore": 15.5,
     "authIndex": 30,
-    "scoreMargin": "+12.2 TRAD",
+    "scoreMargin": "+12 TRAD",
     "preRelease": false,
-    "wokeTrap": 6.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Primate is not marketed to conservative audiences in any way. It is a straightforward creature horror film about a rabid chimpanzee killing people in a remote Hawaiian house. There is no conservative marketing angle to subvert. The film has some progressive representation elements (a deaf father played by Troy Kotsur, a female-led ensemble) but these serve the story rather than an ideological agenda. The deaf character is integral to the plot (he misses text alerts and verbal warnings because of his disability). The female lead is a traditional final girl in the horror tradition. Conservative horror fans should know this is a hard R-rated gore fest with significant animal violence. The ideological content is minimal. This is a B-movie with good production values, not a cultural statement."
@@ -66050,9 +66050,9 @@
     "wokeScore": 4.2,
     "tradScore": 30.6,
     "authIndex": 82,
-    "scoreMargin": "+26.4 TRAD",
+    "scoreMargin": "+26 TRAD",
     "preRelease": false,
-    "wokeTrap": 8.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": null,
@@ -66309,9 +66309,9 @@
     "wokeScore": 30.4,
     "tradScore": 5.0,
     "authIndex": 40,
-    "scoreMargin": "-25.4 WOKE",
+    "scoreMargin": "-25 WOKE",
     "preRelease": false,
-    "wokeTrap": 60.8,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "No Woke Trap. The film's transgender narrative and progressive social themes are front and center in all marketing materials, press, and festival coverage. The 13 Oscar nominations and surrounding cultural debate make the film's ideological positioning unmistakable."
@@ -66537,9 +66537,9 @@
     "wokeScore": 6.1,
     "tradScore": 27.7,
     "authIndex": 63,
-    "scoreMargin": "+21.6 TRAD",
+    "scoreMargin": "+22 TRAD",
     "preRelease": false,
-    "wokeTrap": 12.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Confirmed post-release. Project Hail Mary markets itself as a hard sci-fi survival film where one man uses science to save humanity, and delivers exactly that. There is no bait-and-switch after the first act. The trailers showed you a lone astronaut, an alien buddy, and the survival of two civilizations. That is the film. Conservative audiences who were burned by trojan horse blockbusters in recent years can exhale. The film's source material is one of the most apolitical, science-positive novels of the last decade. Conservative audiences who enjoyed The Martian will find a very similar experience here, and more."
@@ -67125,9 +67125,9 @@
     "wokeScore": 1.7,
     "tradScore": 28.2,
     "authIndex": 72,
-    "scoreMargin": "+26.5 TRAD",
+    "scoreMargin": "+27 TRAD",
     "preRelease": false,
-    "wokeTrap": 3.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. War Machine is exactly what the trailer promises: Alan Ritchson fighting a giant alien robot in the woods with a squad of Army Rangers. There is no hidden progressive agenda, no diversity lecture, and no subversive messaging. The film is aggressively pro-military, pro-masculinity, and pro-American in a way that feels designed to appeal to the same audience that made Reacher a streaming phenomenon. If anything, the film leans into conservative audience expectations so hard that it borders on recruitment material."
@@ -67347,9 +67347,9 @@
     "wokeScore": 16.5,
     "tradScore": 17.8,
     "authIndex": 70,
-    "scoreMargin": "+1.3 TRAD",
+    "scoreMargin": "+1 TRAD",
     "preRelease": false,
-    "wokeTrap": 33.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No Woke Trap. The Secret Agent is ideologically transparent. Kleber Mendonca Filho protested the impeachment of left-wing president Dilma Rousseff on the Cannes red carpet in 2016. Wagner Moura directed Marighella, a biopic of a Marxist guerrilla fighter, and has described himself in left-wing terms. Both have been outspoken critics of Jair Bolsonaro. The film's anti-dictatorship framing and modern political parallels are visible in every interview, review, and trailer. A conservative audience member who picks this film up blindly at the theater is possible, but anyone who reads a single review will know the score. This is not a family-brand ambush."
@@ -68732,9 +68732,9 @@
     "wokeScore": 30.7,
     "tradScore": 18.8,
     "authIndex": 42,
-    "scoreMargin": "-11.9 WOKE",
+    "scoreMargin": "-12 WOKE",
     "preRelease": false,
-    "wokeTrap": 61.4,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. Aquaman and the Lost Kingdom is not hiding its ideology. The climate change messaging was announced publicly by director James Wan and star Jason Momoa well before release. Momoa gave a real-life UN climate speech in 2019 and made no secret that the film would carry that same torch. Trailers hinted at the environmental stakes. The film's woke elements - climate change as the central threat, the UN speech climax, the progressive framing of global cooperation - are visible in advance. There is no bait-and-switch here. The film's real problem is not deception but execution: it wears its ideology openly and clumsily, which is one reason it bombed. Conservative audiences knew what they were getting, and many chose to skip it."
@@ -69035,9 +69035,9 @@
     "wokeScore": 31.5,
     "tradScore": 13.6,
     "authIndex": 55,
-    "scoreMargin": "-17.9 WOKE",
+    "scoreMargin": "-18 WOKE",
     "preRelease": false,
-    "wokeTrap": 63.0,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. The X trilogy has been openly feminist horror since 2022. MaXXXine's trailers, its 1985 Hollywood setting, its protagonist's career in adult film, and its Satanic Panic backdrop all signal exactly what the film delivers. Ti West has discussed the religious commentary openly in press interviews. Horror audiences who watched X and Pearl know what to expect. Conservative viewers will recognize the ideological framing within the first ten minutes - there is no delayed reveal or franchise-bait deception."
@@ -69300,9 +69300,9 @@
     "wokeScore": 18.0,
     "tradScore": 23.8,
     "authIndex": 35,
-    "scoreMargin": "+5.8 TRAD",
+    "scoreMargin": "+6 TRAD",
     "preRelease": false,
-    "wokeTrap": 36.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Rebel Moon Part Two is the second half of an original IP with no prior audience expectations to subvert. Zack Snyder has cast diverse ensembles throughout his career, from a Black Perry White in Man of Steel to a multiethnic Justice League. This is not a sudden departure or hidden agenda - it is who Snyder has always been as a filmmaker. The nonbinary character Milius (played by nonbinary actor Elise Duffy) is present but unobtrusive and not used as a vehicle for messaging. Conservative Snyder fans expecting a culture-war-free alternative to Disney's Star Wars will find that this film is neither the based alternative they wanted nor the woke nightmare they feared. It is simply a mediocre space opera with superficial diversity and deeply traditional narrative bones."
@@ -70131,9 +70131,9 @@
     "wokeScore": 10.8,
     "tradScore": 20.8,
     "authIndex": 65,
-    "scoreMargin": "+10.0 TRAD",
+    "scoreMargin": "+10 TRAD",
     "preRelease": false,
-    "wokeTrap": 21.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No Woke Trap. The Monkey is exactly what it advertises: a blood-soaked, pitch-black comedy from the director of Longlegs. Its marketing showcased the over-the-top death sequences and macabre humor front and center. There is no hidden ideological payload. The few woke-adjacent elements (girl bullies, a caricatured young priest) are minor tonal choices, not ideological smuggling. This is a movie about a cursed monkey toy that makes people die in spectacular fashion. Nobody is being ambushed."
@@ -70609,9 +70609,9 @@
     "wokeScore": 7.7,
     "tradScore": 22.6,
     "authIndex": 62,
-    "scoreMargin": "+14.9 TRAD",
+    "scoreMargin": "+15 TRAD",
     "preRelease": false,
-    "wokeTrap": 15.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Not a woke trap. The Paddington franchise has been consistent since 2014 in what it offers: warm, gentle, family-friendly adventure centered on kindness, good manners, and the importance of chosen family. Paddington in Peru continues this pattern faithfully. While immigration subtext exists in the franchise DNA (a bear from Peru finds a home with a British family), the films never lecture about it. They simply tell a good story and let the themes emerge naturally. No family walking into this film will encounter anything they didn't expect."
@@ -70995,9 +70995,9 @@
     "wokeScore": 7.4,
     "tradScore": 13.7,
     "authIndex": 64,
-    "scoreMargin": "+6.3 TRAD",
+    "scoreMargin": "+6 TRAD",
     "preRelease": true,
-    "wokeTrap": 14.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Scary Movie 6 is the opposite of a woke trap. Paramount's official marketing literally says the Wayans are 'back to cancel Cancel Culture.' The trailer leads with a pronoun joke, a 'safe spaces' gag, and a crack about Republicans being racist. There is zero deception about what this film is selling. What you see in the trailer is what you're getting. The culture war angle is the marketing strategy, not a hidden payload. Conservative audiences will know exactly what they're walking into."
@@ -73507,9 +73507,9 @@
     "wokeScore": 6.0,
     "tradScore": 29.7,
     "authIndex": 78,
-    "scoreMargin": "+23.7 TRAD",
+    "scoreMargin": "+24 TRAD",
     "preRelease": false,
-    "wokeTrap": 12.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Despite a loud online discourse claiming Furiosa is feminist propaganda or part of some woke Hollywood agenda, the film itself tells a straightforward revenge and survival story rooted in classical storytelling. The female lead was established in Fury Road nine years earlier. George Miller did not insert her as a diversity checkbox. He created a character, the audience loved her, and he told her origin story. The film's actual themes, which include family, home, resilience, and the cost of vengeance, are about as traditional as it gets. Conservative viewers who enjoyed Fury Road will find more of the same here: relentless action, a hostile world, and characters who earn everything through suffering and will. The culture war noise around this film has almost nothing to do with what's actually on screen."
@@ -73715,9 +73715,9 @@
     "wokeScore": 2.1,
     "tradScore": 15.7,
     "authIndex": 78,
-    "scoreMargin": "+13.6 TRAD",
+    "scoreMargin": "+14 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. This is a monster movie that knows what it is. The plot exists to get Godzilla and Kong from one fight to the next. There are no hidden political lectures, no identity politics wedged into the script, and no revisionist messaging. The closest thing to progressive content is the diverse casting (which is organic and never called attention to) and one throwaway line about Western civilization disrupting indigenous cultures. Neither element feels forced or agenda-driven. What you see in the trailer is exactly what you get."
@@ -73896,11 +73896,11 @@
     "wokeScore": 9.0,
     "tradScore": 9.2,
     "authIndex": 38,
-    "scoreMargin": "+0.2 TRAD",
+    "scoreMargin": "0 NEUTRAL",
     "preRelease": false,
-    "wokeTrap": 18.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
-      "is_trap": true,
+      "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The all-female hero ensemble, the maternal protection arc, and the girl-boss framing are all visible from marketing materials and the first ten minutes. There is nothing hidden. Conservative viewers will recognize the ideological territory immediately. The real surprise is not the ideology but the staggering incompetence of the filmmaking. This is a film that fails on craft before it fails on politics."
     },
     "creative_team": {
@@ -74419,9 +74419,9 @@
     "wokeScore": 7.8,
     "tradScore": 18.9,
     "authIndex": 58,
-    "scoreMargin": "+11.1 TRAD",
+    "scoreMargin": "+11 TRAD",
     "preRelease": false,
-    "wokeTrap": 15.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Wolf Man is exactly what it looks like: a stripped-down creature feature about a man becoming something inhuman while his wife and daughter fight to survive. The trailers showed the premise clearly. Critics who describe this as a toxic masculinity metaphor are projecting a framework the film itself never commits to. Whannell's stated inspirations are neurodegenerative disease, parenting fears, and marriage under pressure. There is no hidden progressive agenda smuggled in after the opening act. This is an honest genre film."
@@ -75816,11 +75816,11 @@
     "wokeScore": 19.0,
     "tradScore": 22.8,
     "authIndex": 68,
-    "scoreMargin": "+3.8 TRAD",
+    "scoreMargin": "+4 TRAD",
     "preRelease": false,
-    "wokeTrap": 38.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
-      "is_trap": true,
+      "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The woke content in Captain America: Brave New World is not hidden. Anyone who watched the trailers, read the casting announcements, or saw The Falcon and the Winter Soldier knows exactly what ideological framework this film operates within. The racial subtext, the legacy replacement, the girl boss action sequences - none of it is smuggled in after the halfway mark. Conservative viewers can make an informed decision before buying a ticket. The marketing is honest about what this film is."
     },
     "creative_team": {
@@ -77209,9 +77209,9 @@
     "wokeScore": 13.0,
     "tradScore": 18.4,
     "authIndex": 74,
-    "scoreMargin": "+5.4 TRAD",
+    "scoreMargin": "+5 TRAD",
     "preRelease": false,
-    "wokeTrap": 26.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Frozen's progressive elements are present from the opening act. The subversion of love at first sight, the sidelining of romance in favor of sisterly bonds, and Elsa's empowerment anthem are all front-loaded. There is no concealment."
@@ -77390,9 +77390,9 @@
     "wokeScore": 19.0,
     "tradScore": 14.4,
     "authIndex": 68,
-    "scoreMargin": "-4.6 WOKE",
+    "scoreMargin": "-5 WOKE",
     "preRelease": false,
-    "wokeTrap": 38.0,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. The anti-colonial themes are structurally embedded in the mystery that drives the entire plot. The reveal about Runeard's genocidal dam comes at roughly the 2/3 mark, but the film has been building toward it from the opening scene where Agnarr tells the story of the Northuldra conflict. Conservative critics noted the political themes immediately upon release."
@@ -77595,9 +77595,9 @@
     "wokeScore": 14.2,
     "tradScore": 12.3,
     "authIndex": 70,
-    "scoreMargin": "-1.9 WOKE",
+    "scoreMargin": "-2 WOKE",
     "preRelease": false,
-    "wokeTrap": 28.4,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. Cruella's feminist, anti-establishment identity is the entire premise. The trailers showcased the punk aesthetic, the female rivalry, and the revenge framework. There is zero concealment of the film's ideological orientation."
@@ -78319,9 +78319,9 @@
     "wokeScore": 3.9,
     "tradScore": 20.0,
     "authIndex": 62,
-    "scoreMargin": "+16.1 TRAD",
+    "scoreMargin": "+16 TRAD",
     "preRelease": false,
-    "wokeTrap": 7.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The Amateur is a straightforward revenge thriller. There is no hidden progressive agenda lurking past the midpoint. The film's mildly woke elements -- a corrupt male CIA establishment and a slightly diminished lead -- are present from the opening act and carry no ideological freight. The story is about a man avenging his murdered wife. That's it. Conservative viewers can watch this without any ambush."
@@ -78569,13 +78569,13 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "11 min",
     "poster": "/images/posters/g20-2025.jpg",
-    "verdict": "WOKE LEAN",
+    "verdict": "MIXED",
     "wokeScore": 10.7,
     "tradScore": 8.2,
     "authIndex": 38,
-    "scoreMargin": "-2.5 WOKE",
+    "scoreMargin": "-2 WOKE",
     "preRelease": false,
-    "wokeTrap": 21.4,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP in the technical sense. The progressive elements of G20 are front-loaded and visible from the first act. Viola Davis as a Black female president who is also a combat veteran, cryptocurrency empowerment messaging, and the film's overt 'woman protecting the world while the men stumble' framework are present in the trailer and the opening 20 minutes. The film doesn't hide its ideological commitments behind action spectacle. What you see is what you get."
@@ -78822,9 +78822,9 @@
     "wokeScore": 2.1,
     "tradScore": 6.7,
     "authIndex": 55,
-    "scoreMargin": "+4.6 TRAD",
+    "scoreMargin": "+5 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Final Destination: Bloodlines is a supernatural horror film about Death killing people in elaborate chain-reaction accidents. Its politics are essentially nonexistent. The 'woke' elements present in the film -- a racially diverse family cast, a somewhat dysfunctional family led by a matriarch, an estranged mother subplot -- are genre standard and not hidden behind the film's marketing. What you see in the trailer is what you get: death contraptions and family drama."
@@ -79294,9 +79294,9 @@
     "wokeScore": 6.0,
     "tradScore": 20.2,
     "authIndex": 74,
-    "scoreMargin": "+14.2 TRAD",
+    "scoreMargin": "+14 TRAD",
     "preRelease": false,
-    "wokeTrap": 12.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Black Bag is refreshingly straightforward. The mild woke content - a diverse ensemble cast, a few jabs at male competence during the dinner party, and one throwaway anti-natalist line from Blanchett - is all visible from the trailer and casting announcements. Nothing is hidden. Nothing ambushes you at the halfway mark. Conservative viewers can make an informed decision before buying a ticket. What you see is what you get: a stylish spy thriller anchored by a married couple who genuinely love and trust each other."
@@ -79560,9 +79560,9 @@
     "wokeScore": 1.3,
     "tradScore": 28.3,
     "authIndex": 62,
-    "scoreMargin": "+27.0 TRAD",
+    "scoreMargin": "+27 TRAD",
     "preRelease": false,
-    "wokeTrap": 2.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Solo Leveling: ReAwakening contains essentially zero woke content. The only arguable progressive element is the anime's softening of the original manhwa's Korean nationalist themes to avoid offending Japanese audiences - a commercial decision, not an ideological one. Parents and conservative viewers can walk in expecting a straightforward power fantasy about a young man grinding his way from nothing to something, and that is exactly what they will get. No identity politics, no lecture, no subversion."
@@ -80802,9 +80802,9 @@
     "wokeScore": 1.0,
     "tradScore": 21.3,
     "authIndex": 91,
-    "scoreMargin": "+20.3 TRAD",
+    "scoreMargin": "+20 TRAD",
     "preRelease": false,
-    "wokeTrap": 2.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Top Gun: Maverick is one of the most ideologically consistent films Hollywood has produced in a decade. There is no third-act pivot to progressive messaging. The female pilot (Monica Barbaro as Phoenix) is present but not weaponized against the male characters, and her competence is earned on-screen rather than asserted through dialogue. The film does not lecture the audience about diversity. It shows a group of elite aviators doing a nearly impossible job. That is it. Parents and conservative viewers can watch this film with zero hesitation."
@@ -81080,9 +81080,9 @@
     "wokeScore": 9.5,
     "tradScore": 10.6,
     "authIndex": 48,
-    "scoreMargin": "+1.1 TRAD",
+    "scoreMargin": "+1 TRAD",
     "preRelease": false,
-    "wokeTrap": 19.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Napoleon's revisionism is front-loaded. Scott has been publicly dismissive of Napoleon's greatness in interviews, and the film reflects that contempt. Conservative viewers may dislike what the film does with its subject, but they will not be ambushed by it. The ideological fingerprints are visible before you sit down."
@@ -81866,9 +81866,9 @@
     "wokeScore": 10.2,
     "tradScore": 6.6,
     "authIndex": 58,
-    "scoreMargin": "-3.6 WOKE",
+    "scoreMargin": "-4 WOKE",
     "preRelease": false,
-    "wokeTrap": 20.4,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. The same-sex kiss between Alisha Hawthorne and her wife Kiko was the single most discussed element of Lightyear before, during, and after its release. It was covered by every major outlet. Multiple countries banned the film over it. This was the most pre-disclosed piece of progressive content in animation history. No parent walked into Lightyear unaware. The content itself occupies roughly 5-10 seconds of screen time within a 105-minute film, but its presence was impossible to miss if you had read a single article about the movie."
@@ -82738,9 +82738,9 @@
     "wokeScore": 17.4,
     "tradScore": 11.9,
     "authIndex": 58,
-    "scoreMargin": "-5.5 WOKE",
+    "scoreMargin": "-5 WOKE",
     "preRelease": false,
-    "wokeTrap": 34.8,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. While the margin is negative (WOKE LEAN), the woke content is visible from the first frame. The diverse kingdom of Rosas is established in the opening minutes, Asha's mixed-race identity is part of the character design shown in every trailer, and the group of seven diverse friends was prominently featured in marketing. There is no hidden progressive content that appears after the 50% runtime mark. What you see in the trailer is exactly what you get."
@@ -83554,9 +83554,9 @@
     "wokeScore": 16.9,
     "tradScore": 12.1,
     "authIndex": 62,
-    "scoreMargin": "-4.8 WOKE",
+    "scoreMargin": "-5 WOKE",
     "preRelease": false,
-    "wokeTrap": 33.8,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. Black Widow's feminist themes and female empowerment messaging are the entire premise. A solo film about Marvel's most prominent female hero was always going to center women's experiences. The marketing, casting, and director choice all telegraph what this film is. No bait-and-switch."
@@ -84078,11 +84078,11 @@
     "wokeScore": 18.4,
     "tradScore": 29.5,
     "authIndex": 64,
-    "scoreMargin": "+11.1 TRAD",
+    "scoreMargin": "+11 TRAD",
     "preRelease": false,
-    "wokeTrap": 36.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
-      "is_trap": true,
+      "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Wakanda Forever wears its ideology openly. The all-female power structure, the 'colonizer' rhetoric, the anti-Western framing, and the girl-boss succession arc are central and visible from the first trailer. Conservative viewers will know exactly what they're walking into. The genuine grief narrative and strong performances (especially Angela Bassett) provide real emotional substance, which is why this lands as Woke Lean rather than outright Woke."
     },
     "creative_team": {
@@ -84350,9 +84350,9 @@
     "wokeScore": 22.9,
     "tradScore": 8.9,
     "authIndex": 48,
-    "scoreMargin": "-14.0 WOKE",
+    "scoreMargin": "-14 WOKE",
     "preRelease": false,
-    "wokeTrap": 45.8,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. The Marvels was so transparently a girl-power vehicle that audiences stayed away in droves, making it the lowest-grossing MCU film ($206M on $374M budget). The all-female trio and Brie Larson's public persona were well-telegraphed. Conservative audiences knew what they were getting and most chose not to get it. The $200M+ loss was widely cited as the prime example of 'go woke, go broke.'"
@@ -84603,11 +84603,11 @@
     "wokeScore": 14.6,
     "tradScore": 15.9,
     "authIndex": 52,
-    "scoreMargin": "+1.3 TRAD",
+    "scoreMargin": "+1 TRAD",
     "preRelease": false,
-    "wokeTrap": 29.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
-      "is_trap": true,
+      "is_trap": false,
       "explanation": "NOT A WOKE TRAP, but it is a bait-and-switch. The previous two Ant-Man films were charming, lightweight family comedies with minimal ideological baggage. Quantumania transforms the franchise into a bloated CGI spectacle that sidelines its male lead in favor of his activist daughter."
     },
     "creative_team": {
@@ -85127,9 +85127,9 @@
     "wokeScore": 3.5,
     "tradScore": 26.0,
     "authIndex": 76,
-    "scoreMargin": "+22.5 TRAD",
+    "scoreMargin": "+23 TRAD",
     "preRelease": false,
-    "wokeTrap": 7.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": null,
@@ -85339,9 +85339,9 @@
     "wokeScore": 10.2,
     "tradScore": 9.5,
     "authIndex": 55,
-    "scoreMargin": "-0.7 WOKE",
+    "scoreMargin": "-1 WOKE",
     "preRelease": false,
-    "wokeTrap": 20.4,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "pct_runtime": null,
@@ -86112,9 +86112,9 @@
     "wokeScore": 5.6,
     "tradScore": 33.2,
     "authIndex": 86,
-    "scoreMargin": "+27.6 TRAD",
+    "scoreMargin": "+28 TRAD",
     "preRelease": false,
-    "wokeTrap": 11.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": 100,
@@ -86424,9 +86424,9 @@
     "wokeScore": 1.0,
     "tradScore": 24.1,
     "authIndex": 93,
-    "scoreMargin": "+23.1 TRAD",
+    "scoreMargin": "+23 TRAD",
     "preRelease": false,
-    "wokeTrap": 2.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": null,
@@ -86722,13 +86722,13 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "7 min",
     "poster": "/images/posters/dog-man-2025.jpg",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 3.0,
     "tradScore": 22.8,
     "authIndex": 87,
-    "scoreMargin": "+19.8 TRAD",
+    "scoreMargin": "+20 TRAD",
     "preRelease": false,
-    "wokeTrap": 6.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": null,
@@ -86954,9 +86954,9 @@
     "wokeScore": 4.4,
     "tradScore": 9.9,
     "authIndex": 62,
-    "scoreMargin": "+5.5 TRAD",
+    "scoreMargin": "+6 TRAD",
     "preRelease": false,
-    "wokeTrap": 8.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": null,
@@ -87160,9 +87160,9 @@
     "wokeScore": 22.4,
     "tradScore": 8.4,
     "authIndex": 32,
-    "scoreMargin": "-14.0 WOKE",
+    "scoreMargin": "-14 WOKE",
     "preRelease": false,
-    "wokeTrap": 44.8,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "pct_runtime": 40,
@@ -88182,9 +88182,9 @@
     "wokeScore": 2.1,
     "tradScore": 18.3,
     "authIndex": 72,
-    "scoreMargin": "+16.2 TRAD",
+    "scoreMargin": "+16 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": null,
@@ -88442,11 +88442,11 @@
     "wokeScore": 10.8,
     "tradScore": 11.7,
     "authIndex": 41,
-    "scoreMargin": "+0.9 TRAD",
+    "scoreMargin": "+1 TRAD",
     "preRelease": false,
-    "wokeTrap": 21.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
-      "is_trap": true,
+      "is_trap": false,
       "pct_runtime": null,
       "explanation": "A Quiet Place: Day One is not a woke trap. Its ideological elements are present from frame one and don't appear to be concealed. The film wears its sensibility openly. It's a character study of a dying woman finding unexpected purpose on the last day of the world, with racial identity and community politics baked into the setting rather than grafted on at the end. Parents will know what they're walking into before the lights go down."
     },
@@ -88654,9 +88654,9 @@
     "wokeScore": 2.8,
     "tradScore": 18.3,
     "authIndex": 68,
-    "scoreMargin": "+15.5 TRAD",
+    "scoreMargin": "+16 TRAD",
     "preRelease": false,
-    "wokeTrap": 5.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": null,
@@ -88880,7 +88880,7 @@
     "wokeScore": 15.2,
     "tradScore": 23.4,
     "authIndex": 50,
-    "scoreMargin": "+8.2 TRAD",
+    "scoreMargin": "+8 TRAD",
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
@@ -89099,7 +89099,7 @@
       "metaDescription": "VirtueVigil's full review of Mufasa: The Lion King (2024): Is it woke? Our VVWS scoring rates it MIXED (+8 TRAD). Barry Jenkins directs, but the traditional Lion King moral universe survives. Full trope audit and parental guidance inside.",
       "keywords": "mufasa lion king woke, is mufasa woke, mufasa 2024 review, mufasa disney conservative review, barry jenkins woke, lion king prequel ideology, mufasa traditional, virtuevigil"
     },
-    "wokeTrap": 30.4,
+    "wokeTrap": false,
     "datePublished": "2026-02-24"
   },
   {
@@ -89118,7 +89118,7 @@
     "wokeScore": 24.2,
     "tradScore": 12.9,
     "authIndex": 50,
-    "scoreMargin": "-11.3 WOKE",
+    "scoreMargin": "-11 WOKE",
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
@@ -89296,7 +89296,7 @@
       "metaDescription": "VirtueVigil's full review of The Little Mermaid (2023): Is it woke? Our VVWS scoring rates it WOKE (-12 WOKE). Race-conscious casting, female autonomy framing, and director's combative anti-audience posture. Full trope audit inside.",
       "keywords": "the little mermaid 2023 woke, is little mermaid woke, halle bailey ariel woke, disney little mermaid conservative review, little mermaid casting controversy, virtuevigil little mermaid"
     },
-    "wokeTrap": 48.4,
+    "wokeTrap": true,
     "datePublished": "2026-02-24"
   },
   {
@@ -89311,11 +89311,11 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "9 min",
     "poster": "/images/posters/indiana-jones-dial-of-destiny-2023.jpg",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 20.9,
     "tradScore": 23.4,
     "authIndex": 50,
-    "scoreMargin": "+2.5 TRAD",
+    "scoreMargin": "+3 TRAD",
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
@@ -89508,7 +89508,7 @@
       "metaDescription": "VirtueVigil's full review of Indiana Jones and the Dial of Destiny (2023): Is it woke? Our VVWS scoring rates it MIXED (+7 TRAD). Female successor dynamics and hero diminishment balanced by a genuinely traditional ending. Full trope audit inside.",
       "keywords": "indiana jones dial of destiny woke, is dial of destiny woke, indiana jones 5 woke, helena shaw replacement, dial of destiny conservative review, indiana jones 2023 ideology, virtuevigil"
     },
-    "wokeTrap": 41.8,
+    "wokeTrap": false,
     "datePublished": "2026-02-24"
   },
   {
@@ -89527,9 +89527,9 @@
     "wokeScore": 13.9,
     "tradScore": 9.1,
     "authIndex": 42,
-    "scoreMargin": "-4.8 WOKE",
+    "scoreMargin": "-5 WOKE",
     "preRelease": false,
-    "wokeTrap": 27.8,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "NOT A WOKE TRAP. The film's mildly woke elements, including the infallible female lead, evil corporate greed, and the absence of meaningfully flawed female characters, are standard-issue franchise filmmaking. Nothing is concealed. The Jurassic franchise has always run on corporate villainy and 'nature fights back' environmentalism. Rebirth doesn't hide what it is. It just isn't very interesting about it."
@@ -93838,7 +93838,7 @@
     "wokeScore": 15.8,
     "tradScore": 44.0,
     "authIndex": 72,
-    "scoreMargin": "+28.2 TRAD",
+    "scoreMargin": "+28 TRAD",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -94035,7 +94035,7 @@
       "metaDescription": "Is Mercy (2026) woke? VirtueVigil analysis: Woke Score 5, Traditional 8. Chris Pratt faces AI execution in a film with strong traditional values but a surveillance normalization problem.",
       "keywords": "mercy 2026 woke, is mercy woke, chris pratt mercy review, timur bekmambetov mercy, AI judge movie, virtuevigil mercy review"
     },
-    "wokeTrap": 31.6,
+    "wokeTrap": false,
     "datePublished": "2026-02-19"
   },
   {
@@ -94054,7 +94054,7 @@
     "wokeScore": 91.4,
     "tradScore": 53.0,
     "authIndex": 70,
-    "scoreMargin": "-38.4 WOKE",
+    "scoreMargin": "-38 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -94512,7 +94512,7 @@
       "metaDescription": "Is Zootopia 2 woke? VirtueVigil full analysis: Woke 91 / Traditional 53 (VVWS). Systemic exclusion allegory, colonialist villains, and therapy culture vs. heroic cops, sacrifice, and institutional trust. Full trope audit + family guide.",
       "keywords": "is Zootopia 2 woke, Zootopia 2 2025 review, Zootopia 2 conservative review, Zootopia 2 parents guide, Zootopia 2 woke score, Jared Bush Disney ideology, Zootopia sequel colonialism, virtuevigil Zootopia 2"
     },
-    "wokeTrap": 182.8,
+    "wokeTrap": true,
     "datePublished": "2026-02-19"
   },
   {
@@ -94686,7 +94686,7 @@
     "wokeScore": 24.0,
     "tradScore": 39.2,
     "authIndex": 72,
-    "scoreMargin": "+15.2 TRAD",
+    "scoreMargin": "+15 TRAD",
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
@@ -94926,7 +94926,7 @@
       "metaDescription": "Is Send Help (2026) woke? VirtueVigil full review: Woke 15, Traditional 22. Sam Raimi's survival horror subverts the girl boss narrative. Full trope audit, VVWS scoring, and parental guidance.",
       "keywords": "is send help woke, send help 2026 review, send help sam raimi woke, send help movie review conservative, send help rachel mcadams dylan o'brien"
     },
-    "wokeTrap": 48.0,
+    "wokeTrap": false,
     "datePublished": "2026-02-19"
   },
   {
@@ -99225,7 +99225,7 @@
     "wokeScore": 20.6,
     "tradScore": 15.2,
     "authIndex": 60,
-    "scoreMargin": "-5.4 WOKE",
+    "scoreMargin": "-5 WOKE",
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
@@ -99394,7 +99394,7 @@
       "metaDescription": "VirtueVigil's full analysis of Civil War (2024): is it woke? Alex Garland's war film scored MIXED (-4 WOKE). The biggest woke trap of 2024 - what conservatives need to know before they praise it. Full trope audit, director profile, and parental guide.",
       "keywords": "civil war 2024, is civil war woke, civil war 2024 review, alex garland, kirsten dunst, civil war conservative review, civil war political analysis, is civil war anti-trump, a24, civil war woke trap, virtuevigil"
     },
-    "wokeTrap": 41.2,
+    "wokeTrap": true,
     "datePublished": "2026-02-19"
   },
   {
@@ -99413,7 +99413,7 @@
     "wokeScore": 18.6,
     "tradScore": 10.1,
     "authIndex": 65,
-    "scoreMargin": "-8.5 WOKE",
+    "scoreMargin": "-9 WOKE",
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
@@ -99553,7 +99553,7 @@
       "metaDescription": "Is Monkey Man (2024) woke? VirtueVigil scores it WOKE (-14). Dev Patel's revenge thriller is also a political film about caste, religious nationalism, and India's hijra community. Full analysis, director profile, parental guide.",
       "keywords": "monkey man 2024, is monkey man woke, monkey man review, dev patel, monkey man political, monkey man hijra, monkey man caste, jordan peele, monkey man conservative review, virtuevigil"
     },
-    "wokeTrap": 37.2,
+    "wokeTrap": true,
     "datePublished": "2026-02-19"
   },
   {
@@ -99568,11 +99568,11 @@
     "author": "VirtueVigil Editorial Team",
     "readTime": "10 min",
     "poster": "/images/posters/love-lies-bleeding-2024.jpg",
-    "verdict": "WOKE",
+    "verdict": "WOKE LEAN",
     "wokeScore": 16.4,
     "tradScore": 7.1,
     "authIndex": 70,
-    "scoreMargin": "-9.3 WOKE",
+    "scoreMargin": "-9 WOKE",
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
@@ -99708,7 +99708,7 @@
       "metaDescription": "Is Love Lies Bleeding (2024) woke? VirtueVigil scores it WOKE (-17). Rose Glass's lesbian neo-noir with Kristen Stewart - full analysis, parental guide, and what conservative viewers should know before watching.",
       "keywords": "love lies bleeding 2024, is love lies bleeding woke, love lies bleeding review, kristen stewart, rose glass, love lies bleeding parents guide, love lies bleeding lesbian, a24, conservative review, virtuevigil"
     },
-    "wokeTrap": 32.8,
+    "wokeTrap": true,
     "datePublished": "2026-02-19"
   },
   {
@@ -99727,7 +99727,7 @@
     "wokeScore": 25.4,
     "tradScore": 3.5,
     "authIndex": 72,
-    "scoreMargin": "-21.9 WOKE",
+    "scoreMargin": "-22 WOKE",
     "preRelease": false,
     "spoiler_alert": true,
     "woke_trap_assessment": {
@@ -99863,7 +99863,7 @@
       "metaDescription": "Is Immaculate (2024) woke? VirtueVigil scores it WOKE (-21). Sydney Sweeney's Catholic horror film is a confirmed abortion allegory with a significant woke trap for religious viewers. Full analysis, director profile, parental guide.",
       "keywords": "immaculate 2024, is immaculate woke, immaculate review, sydney sweeney, immaculate catholic, immaculate abortion allegory, michael mohan, immaculate woke trap, immaculate parents guide, conservative review, virtuevigil"
     },
-    "wokeTrap": 50.8,
+    "wokeTrap": true,
     "datePublished": "2026-02-19"
   },
   {
@@ -101990,7 +101990,7 @@
     "wokeScore": 48.4,
     "tradScore": 16.3,
     "authIndex": 50,
-    "scoreMargin": "-32.1 WOKE",
+    "scoreMargin": "-32 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -102230,7 +102230,7 @@
       "metaDescription": "VirtueVigil's full review of Barbie (2023): Is it woke? Our VVWS scoring system rates it WOKE TRAP (-32 WOKE). The pink packaging hid a feminist manifesto. Full trope audit, director track record, and parental guidance inside.",
       "keywords": "barbie, is barbie woke, barbie 2023 review, virtuevigil, greta gerwig woke, barbie feminist, barbie patriarchy, barbie 2023 conservative review, barbie woke trap, barbie movie ideology"
     },
-    "wokeTrap": 96.8,
+    "wokeTrap": true,
     "datePublished": "2026-02-18"
   },
   {
@@ -102249,7 +102249,7 @@
     "wokeScore": 18.9,
     "tradScore": 20.8,
     "authIndex": 53,
-    "scoreMargin": "+1.9 TRAD",
+    "scoreMargin": "+2 TRAD",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -102464,7 +102464,7 @@
       "metaDescription": "James Gunn's DCU reboot stars David Corenswet as a Clark Kent who chooses Kansas over Krypton - but the director's press campaign and Gaza-coded politics complicate an otherwise traditional superhero story. VirtueVigil scores the full ideological breakdown.",
       "keywords": "superman 2025, is superman woke, superman james gunn review, virtuevigil, superman woke score, superman 2025 conservative review, david corenswet superman, superman immigration allegory, superman boravia jarhanpur"
     },
-    "wokeTrap": 37.8,
+    "wokeTrap": false,
     "datePublished": "2026-02-18"
   },
   {
@@ -102483,7 +102483,7 @@
     "wokeScore": 41.2,
     "tradScore": 13.7,
     "authIndex": 15,
-    "scoreMargin": "-27.5 WOKE",
+    "scoreMargin": "-28 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -102627,7 +102627,7 @@
       "metaDescription": "Heretic (2024) is A24's theological horror film where Hugh Grant traps two Mormon missionaries and delivers anti-Christian monologues. VirtueVigil's full review: plot breakdown, woke scoring, parental guidance, and whether Christians should watch it.",
       "keywords": "heretic 2024, is heretic woke, heretic hugh grant review, anti-christian movie, virtuevigil, heretic a24 review, heretic mormon missionaries, heretic religious horror, scott beck bryan woods, heretic christian review"
     },
-    "wokeTrap": 82.4,
+    "wokeTrap": true,
     "datePublished": "2026-02-18"
   },
   {
@@ -102646,7 +102646,7 @@
     "wokeScore": 46.5,
     "tradScore": 9.4,
     "authIndex": 78,
-    "scoreMargin": "-37.1 WOKE",
+    "scoreMargin": "-37 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -102838,7 +102838,7 @@
       "metaDescription": "VirtueVigil's full review of Poor Things (2023): Is it woke? Our VVWS scoring rates it WOKE (-38 WOKE). A baby-brained woman's sexual liberation as feminist thesis. Four Oscars. Full trope audit, director track record, and comprehensive parental guidance.",
       "keywords": "poor things, is poor things woke, poor things emma stone review, poor things 2023 review, virtuevigil, yorgos lanthimos woke, poor things feminist, poor things oscar, poor things parents guide, poor things conservative review, poor things explicit content"
     },
-    "wokeTrap": 93.0,
+    "wokeTrap": true,
     "datePublished": "2026-02-18"
   },
   {
@@ -103193,7 +103193,7 @@
     "wokeScore": 29.5,
     "tradScore": 25.6,
     "authIndex": 46,
-    "scoreMargin": "-3.9 WOKE",
+    "scoreMargin": "-4 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -103378,7 +103378,7 @@
       "metaDescription": "VirtueVigil's full review of Oppenheimer (2023): Is it woke? Our VVWS scoring rates it MIXED (-5 WOKE). Communist sympathy, conservative villain framing, but genuine American patriotism too. Full trope audit, director track record, and parental guidance inside.",
       "keywords": "oppenheimer, is oppenheimer woke, oppenheimer 2023 review, christopher nolan, virtuevigil, oppenheimer communist, oppenheimer conservative review, oppenheimer woke trap, oppenheimer bomb moral ambiguity, lewis strauss villain"
     },
-    "wokeTrap": 59.0,
+    "wokeTrap": true,
     "datePublished": "2026-02-18"
   },
   {
@@ -103397,7 +103397,7 @@
     "wokeScore": 35.4,
     "tradScore": 3.4,
     "authIndex": 50,
-    "scoreMargin": "-32.0 WOKE",
+    "scoreMargin": "-32 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -103563,7 +103563,7 @@
       "metaDescription": "VirtueVigil's full review of Saltburn (2023): Is it woke? Our VVWS scoring rates it WOKE TRAP (-31 WOKE). Emerald Fennell's class warfare shock film hid extreme content inside prestige packaging. Full trope audit, graphic content catalogue, and parental guidance inside.",
       "keywords": "saltburn, is saltburn woke, saltburn 2023 review, emerald fennell, virtuevigil, saltburn class warfare, saltburn graphic content, saltburn woke trap, saltburn conservative review, emerald fennell ideology"
     },
-    "wokeTrap": 70.8,
+    "wokeTrap": true,
     "datePublished": "2026-02-18"
   },
   {
@@ -103582,7 +103582,7 @@
     "wokeScore": 37.3,
     "tradScore": 13.2,
     "authIndex": 70,
-    "scoreMargin": "-24.1 WOKE",
+    "scoreMargin": "-24 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -103743,7 +103743,7 @@
       "metaDescription": "VirtueVigil's full review of The Substance (2024): Is it woke? Our VVWS scoring rates it WOKE (-24 WOKE). Demi Moore's body horror nightmare is a feminist feminist feminist film - but is there a woke trap? Full trope audit, director track record, and the most important parental guide you'll read this year.",
       "keywords": "the substance, is the substance woke, the substance 2024 review, demi moore, virtuevigil, the substance parents guide, the substance body horror, coralie fargeat, the substance feminist, the substance oscar, the substance conservative review, the substance explicit content, margaret qualley"
     },
-    "wokeTrap": 74.6,
+    "wokeTrap": true,
     "datePublished": "2026-02-18"
   },
   {
@@ -103762,7 +103762,7 @@
     "wokeScore": 35.8,
     "tradScore": 9.9,
     "authIndex": 50,
-    "scoreMargin": "-25.9 WOKE",
+    "scoreMargin": "-26 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -103928,7 +103928,7 @@
       "metaDescription": "VirtueVigil reviews Anora (2024), Sean Baker's Best Picture Oscar winner about a sex worker who marries a Russian oligarch's son. Is it woke? Our VVWS analysis reveals a score of WOKE -26, with a sympathetic sex work framing at the center - and a genuine traditional heartbreak underneath.",
       "keywords": "anora, is anora woke, anora 2024 review, sean baker, anora best picture, anora oscar, anora sex worker, virtuevigil, mikey madison, woke movies 2024"
     },
-    "wokeTrap": 71.6,
+    "wokeTrap": true,
     "datePublished": "2026-02-18"
   },
   {
@@ -103947,7 +103947,7 @@
     "wokeScore": 19.2,
     "tradScore": 14.8,
     "authIndex": 75,
-    "scoreMargin": "-4.4 WOKE",
+    "scoreMargin": "-4 WOKE",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -104139,7 +104139,7 @@
       "metaDescription": "VirtueVigil reviews Killers of the Flower Moon (2023). Scorsese's historical epic about the Osage murders earns a MIXED verdict: historically grounded racial themes, genuine traditional elements, and one of the decade's most complex marriage portrayals. Full VVWS scoring inside.",
       "keywords": "killers of the flower moon, is killers of the flower moon woke, scorsese 2023 review, killers of the flower moon woke, osage murders film, lily gladstone mollie burkhart, leonardo dicaprio ernest burkhart, virtuevigil, killers of the flower moon conservative review"
     },
-    "wokeTrap": 38.4,
+    "wokeTrap": true,
     "datePublished": "2026-02-18"
   },
   {
@@ -104158,7 +104158,7 @@
     "wokeScore": 7.1,
     "tradScore": 28.3,
     "authIndex": 50,
-    "scoreMargin": "+21.2 TRAD",
+    "scoreMargin": "+21 TRAD",
     "preRelease": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -104357,7 +104357,7 @@
       "metaDescription": "VirtueVigil's full review of T\u00e1r (2022): Is it woke? Our VVWS scoring rates it MIXED (+21 TRAD). The most classically traditional moral drama in recent Hollywood - wearing progressive clothes. Full trope audit, cancel culture deep dive, and parental guidance.",
       "keywords": "tar, is tar woke, tar 2022 review, cate blanchett, cancel culture film, todd field, tar conservative review, tar anti-woke, tar juilliard scene, virtuevigil"
     },
-    "wokeTrap": 14.2,
+    "wokeTrap": false,
     "datePublished": "2026-02-18"
   },
   {
@@ -108168,9 +108168,9 @@
     "wokeScore": 43.1,
     "tradScore": 18.3,
     "authIndex": 68,
-    "scoreMargin": "-24.8 WOKE",
+    "scoreMargin": "-25 WOKE",
     "preRelease": false,
-    "wokeTrap": 86.2,
+    "wokeTrap": false,
     "seoTitle": "Is Disclosure Day (2026) Woke? Spielberg UFO Thriller Reviewed | VirtueVigil",
     "seoDescription": "VirtueVigil's full VVWS v1.1 review of Disclosure Day (2026), Spielberg's return to sci-fi starring Emily Blunt and Josh O'Connor. Extraterrestrial contact, corporate conspiracy, whistleblower narrative. Verdict: WOKE LEAN (-1.8 margin). Creative team analysis, trope audit, parental guidance.",
     "seoKeywords": [
@@ -109759,9 +109759,9 @@
     "wokeScore": 1.4,
     "tradScore": 19.0,
     "authIndex": 68,
-    "scoreMargin": "+17.6 TRAD",
+    "scoreMargin": "+18 TRAD",
     "preRelease": false,
-    "wokeTrap": 2.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Spider-Man: Web of Heroes scores +14.6 TRAD in the TRADITIONAL LEAN band. The film's core premise remains unchanged from decades of Spider-Man canon: a young man with power takes on responsibility to protect his community. The web-based hero framework is fundamentally about duty and accountability. While the film includes contemporary casting and dialogue sensibilities, the narrative architecture is classically heroic. No ideological bait and switch detected."
@@ -109989,9 +109989,9 @@
     "wokeScore": 14.4,
     "tradScore": 4.5,
     "authIndex": 55,
-    "scoreMargin": "-9.9 WOKE",
+    "scoreMargin": "-10 WOKE",
     "preRelease": true,
-    "wokeTrap": 28.8,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "The Last Witness scores -6 WOKE (WOKE LEAN band). No trap applies. The woke signals are visible and centered from the beginning. Aaron Sorkin and Greta Gerwig's collaboration produces a legal thriller focused on institutional corruption and systemic injustice. The ideology is consistent with the premise. No hidden agenda emerges. The viewer knows what they are buying."
@@ -110190,9 +110190,9 @@
     "wokeScore": 3.1,
     "tradScore": 15.7,
     "authIndex": 71,
-    "scoreMargin": "+12.6 TRAD",
+    "scoreMargin": "+13 TRAD",
     "preRelease": true,
-    "wokeTrap": 6.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Interceptor Protocol scores +11 TRAD (TRADITIONAL band). No woke trap applies. The action framework is straightforward: a military unit intercepts a threat to national security. The ideology is apolitical; the action is merit-based. Female lead is treated as one competent soldier among many. No progressive subtext is embedded. The film is transparent in its genre mechanics."
@@ -110405,9 +110405,9 @@
     "wokeScore": 6.3,
     "tradScore": 6.3,
     "authIndex": 52,
-    "scoreMargin": "+0.0 TRAD",
+    "scoreMargin": "0 NEUTRAL",
     "preRelease": true,
-    "wokeTrap": 12.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Deadpool 3 scores +1 TRAD (MIXED band). The film's ideology is self-aware and intentionally contradictory. Deadpool's character exists in opposition to both woke and traditional narratives. What emerges is a film that satirizes progressive tropes while satirizing conservative tropes with equal enthusiasm. No trap because the satire is transparent. Viewers know exactly what they are buying."
@@ -110576,9 +110576,9 @@
     "wokeScore": 17.6,
     "tradScore": 0.0,
     "authIndex": 51,
-    "scoreMargin": "-17.6 WOKE",
+    "scoreMargin": "-18 WOKE",
     "preRelease": false,
-    "wokeTrap": 35.2,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "THIS IS A WOKE TRAP. The film presents itself as a romantic comedy about an isolated man gaining confidence and connection. That marketing is half-true. The actual film pivots in the final act into an explicit revenge narrative where the protagonist terrorizes his neighbor for romantic rejection. The film frames his violence as justified, his victim as deserving of humiliation, and his social awkwardness as moral righteousness. The trap is that viewers expecting a feel-good story about self-acceptance instead receive a film that celebrates male entitlement and violent revenge against a woman who rejected him. Woke content is hidden until the halfway point, then the protagonist becomes the villain who the film asks us to root for."
@@ -110730,9 +110730,9 @@
     "wokeScore": 3.0,
     "tradScore": 23.0,
     "authIndex": 82,
-    "scoreMargin": "+20.0 TRAD",
+    "scoreMargin": "+20 TRAD",
     "preRelease": false,
-    "wokeTrap": 6.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Shutter Island is a psychological thriller about trauma, mental illness, and the nature of reality. The film treats mental illness seriously and with compassion while maintaining the moral framework that some things are objectively true and others are delusion. This is a traditional understanding of mental illness, not a progressive one."
@@ -111108,9 +111108,9 @@
     "wokeScore": 8.4,
     "tradScore": 6.6,
     "authIndex": 71,
-    "scoreMargin": "-1.8 WOKE",
+    "scoreMargin": "-2 WOKE",
     "preRelease": false,
-    "wokeTrap": 16.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Over Your Dead Body does not qualify as a woke trap. The film's margin is +0.54 TRAD, placing it directly in the MIXED category. A woke trap requires an actual negative (woke) margin combined with woke content hidden until >50% runtime. This film presents its gender dynamics and marital critique openly from the beginning. The marital dysfunction is the premise, not a reveal. Both Dan and Lisa are presented as competent plotters equally capable of violence and deception. The film's darkly comic treatment of mutual murder plots works against any ideological reading. The satire is on the marriage itself and the failure of modern partnership, not on gender hierarchies or traditional institutions per se. No trap."
@@ -111308,7 +111308,7 @@
     "wokeScore": 16.1,
     "tradScore": 4.0,
     "authIndex": 20,
-    "scoreMargin": "-12.1 WOKE",
+    "scoreMargin": "-12 WOKE",
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "Woke trap confirmed. The film opens as a conventional interracial-couple-meets-the-family thriller, and the early unsettling details (creepy groundskeeper, oddly stilted Black guests at the party) read as generic horror atmosphere. The true mechanism of the conspiracy, that the Armitage family is literally harvesting Black bodies by transplanting white brains into them, selling access at silent auction to wealthy white buyers, only fully crystallizes around the 68-minute mark in a 104-minute film. That is roughly 65% of the runtime. The film earns its jumps and its dread before revealing itself as a comprehensive ideological indictment: every single white character is either complicit or actively participating. Rose, who seemed like the protagonist's greatest ally, turns out to be the primary recruiter. There is no innocent white person in this movie. That particular message is the film's thesis, and it does not announce itself until the film is more than halfway over."
@@ -111496,7 +111496,7 @@
       "metaDescription": "Is Get Out (2017) woke? VirtueVigil verdict: WOKE (-12). Jordan Peele's acclaimed horror film is brilliantly made and explicitly built on the argument that all white people are racial predators. We break it all down.",
       "keywords": "is get out 2017 woke, get out jordan peele review conservative, get out woke or not, get out 2017 ideology analysis, get out blumhouse race horror conservative review"
     },
-    "wokeTrap": 32.2
+    "wokeTrap": true
   },
   {
     "id": "mad-max-fury-road-2015",
@@ -111562,7 +111562,7 @@
     "wokeScore": 11.6,
     "tradScore": 8.4,
     "authIndex": 42,
-    "scoreMargin": "-3.2 WOKE",
+    "scoreMargin": "-3 WOKE",
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "No trap. The feminist framework is the film's explicit premise from the first act. Furiosa is introduced as the primary driver of the narrative within the first 20 minutes. The 'We are not things' slogan appears early in the film painted on the walls of the Vault. The reproductive slavery angle is established without ambiguity before the halfway point. Fury Road is honest about what it is. You know what you are getting before the intermission."
@@ -111781,7 +111781,7 @@
       "metaDescription": "Is Mad Max: Fury Road woke? VirtueVigil verdict: WOKE LEAN (-3). The best action filmmaking of the decade built on an explicit feminist framework. We break down every trope honestly.",
       "keywords": "is mad max fury road woke, mad max fury road feminist review, fury road woke or not, george miller feminist film conservative, fury road eve ensler ideology review"
     },
-    "wokeTrap": 23.2
+    "wokeTrap": true
   },
   {
     "id": "top-gun-1986",
@@ -111846,7 +111846,7 @@
     "wokeScore": 0.7,
     "tradScore": 18.9,
     "authIndex": 94,
-    "scoreMargin": "+18.2 TRAD",
+    "scoreMargin": "+18 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No trap. Top Gun is exactly what it appears to be from the first frame to the last. It is a film that celebrates American naval aviation, male excellence, masculine competition, the bonds formed through shared danger, and the willingness to fly toward the fight when it counts. There is no hidden progressive agenda, no late-film reversal, no structural irony. The Navy loved this film enough to set up recruiting tables in theater lobbies when it was released. Naval aviator applications went up 500% in the months following. This is not a film that pretends to be one thing and then reveals itself as another."
@@ -112050,7 +112050,7 @@
       "metaDescription": "Is Top Gun (1986) woke? VirtueVigil verdict: TRADITIONAL (+17). Tony Scott's naval aviation classic is as unapologetically patriotic as its reputation. Full breakdown inside.",
       "keywords": "is top gun 1986 woke, top gun tom cruise conservative review, top gun 1986 military patriotic, top gun woke or not, tony scott top gun ideology, top gun 1986 traditional values"
     },
-    "wokeTrap": 1.4
+    "wokeTrap": false
   },
   {
     "id": "300-2006",
@@ -112388,9 +112388,9 @@
     "wokeScore": 7.1,
     "tradScore": 11.3,
     "authIndex": 63,
-    "scoreMargin": "+4.2 TRAD",
+    "scoreMargin": "+4 TRAD",
     "preRelease": false,
-    "wokeTrap": 14.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No Country for Old Men is not a woke trap. The film's darkness and moral ambiguity are front-loaded and constitute its primary artistic statement from the opening scenes. Sheriff Bell's opening monologue establishes the film's conservative lament immediately: a decent man finding the world more violent and incomprehensible than the moral framework he was raised in can account for. That is not a progressive message hidden until the third act. It is the film's thesis stated plainly in the first minutes. The nihilism is troubling but genuine. The film does not score as TRADITIONAL LEAN because of deception. It scores there because it is a morally complex work by directors whose worldview does not align neatly with either camp."
@@ -114441,9 +114441,9 @@
     "wokeScore": 2.0,
     "tradScore": 20.6,
     "authIndex": 91,
-    "scoreMargin": "+18.6 TRAD",
+    "scoreMargin": "+19 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "1917 does not qualify as a woke trap under VVWS v1.1. The single woke-adjacent element, an anti-war futility reading, is present from the opening scene and is not the film's dominant message. The film's emotional and moral architecture is built around duty, sacrifice, brotherhood, and individual courage. No woke content is concealed past the 50% runtime mark. There is no trap here."
@@ -114675,9 +114675,9 @@
     "wokeScore": 6.5,
     "tradScore": 13.2,
     "authIndex": 63,
-    "scoreMargin": "+6.7 TRAD",
+    "scoreMargin": "+7 TRAD",
     "preRelease": false,
-    "wokeTrap": 13.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Bohemian Rhapsody does not qualify as a woke trap under VVWS v1.1. The film's woke-adjacent elements, primarily Freddie Mercury's sexuality and the bohemian lifestyle sequences, are present throughout the film rather than concealed until after the halfway point. The film is about Freddie Mercury. Anyone buying a ticket knows Freddie Mercury's biography. The sexual identity content is neither hidden nor weaponized. The film's most controversial elements are front-facing. No trap."
@@ -114910,9 +114910,9 @@
     "wokeScore": 2.4,
     "tradScore": 16.4,
     "authIndex": 85,
-    "scoreMargin": "+14.0 TRAD",
+    "scoreMargin": "+14 TRAD",
     "preRelease": false,
-    "wokeTrap": 4.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Whiplash contains no ideological bait-and-switch. The film's only woke-adjacent element, a brief girlfriend subplot that the protagonist sacrifices for his ambition, is present from early in the film and serves the traditional narrative of single-minded dedication. The film does not hide a progressive agenda. Its surface and its soul are both about the price of excellence. No trap."
@@ -115604,7 +115604,7 @@
     "wokeScore": 2.1,
     "tradScore": 13.0,
     "authIndex": 76,
-    "scoreMargin": "+10.9 TRAD",
+    "scoreMargin": "+11 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No trap. GoodFellas front-loads the glamour of mob life deliberately, but the moral reckoning arrives well before the halfway mark and dominates the final hour. Henry Hill's narration turns corrosive long before the credits roll. The film is structured as a rise-and-fall morality play, and the fall is total. Anyone claiming the film glorifies organized crime without consequences watched a different movie."
@@ -115805,7 +115805,7 @@
       "metaDescription": "Is GoodFellas woke? VirtueVigil verdict: TRADITIONAL (+11). Scorsese's mob epic is a morality tale dressed as a celebration. Crime doesn't pay, loyalty codes matter, and the fall is total.",
       "keywords": "is goodfellas woke, goodfellas 1990 conservative review, goodfellas scorsese traditional values, goodfellas vvws score, goodfellas moral message, is goodfellas appropriate conservative"
     },
-    "wokeTrap": 4.2,
+    "wokeTrap": false,
     "parental_guidance": {
       "rating": "R",
       "age_recommendation": "17+",
@@ -115875,7 +115875,7 @@
     "wokeScore": 2.1,
     "tradScore": 22.7,
     "authIndex": 91,
-    "scoreMargin": "+20.6 TRAD",
+    "scoreMargin": "+21 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No trap. The Godfather is what it appears to be from the first frame: a film about family, loyalty, patriarchal authority, and the consequences of moral compromise. Coppola makes no attempt to hide the film's value system. The wedding sequence in the first ten minutes tells you exactly what this movie believes. Family comes first, respect is earned and demanded, and the man at the center of it all holds everything together through wisdom and controlled power. Nothing in the film contradicts this reading."
@@ -116105,7 +116105,7 @@
       "metaDescription": "Is The Godfather woke? VirtueVigil verdict: STRONGLY TRADITIONAL (+21). Coppola's masterpiece is a film about family, patriarchal wisdom, and what is lost when those values corrupt. Essential cinema.",
       "keywords": "is the godfather woke, the godfather 1972 conservative review, godfather traditional values, godfather vvws score, is godfather appropriate conservative, godfather family values review"
     },
-    "wokeTrap": 4.2,
+    "wokeTrap": false,
     "parental_guidance": {
       "rating": "R",
       "age_recommendation": "16+ with parental discussion",
@@ -116174,7 +116174,7 @@
     "wokeScore": 5.2,
     "tradScore": 16.4,
     "authIndex": 73,
-    "scoreMargin": "+11.2 TRAD",
+    "scoreMargin": "+11 TRAD",
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "No trap. Heat presents McCauley as an admirable figure before destroying him, but the destruction arrives on schedule and completely. The moral equivalence between cop and criminal is a genuine tension in the film, not a bait-and-switch. Mann is transparent about it from the famous diner scene forward. What the film ultimately argues is that professional excellence without personal connection costs everything. McCauley dies because he can't leave his life behind even when he has the chance. Hanna wins, but at a price. The film doesn't hide either of these outcomes."
@@ -116391,7 +116391,7 @@
       "metaDescription": "Is Heat (1995) woke? VirtueVigil verdict: TRADITIONAL (+11). Mann's Pacino/De Niro masterpiece is about masculine excellence, professional brotherhood, and what total dedication to your calling costs. Essential cinema.",
       "keywords": "is heat 1995 woke, heat michael mann conservative review, heat pacino de niro traditional values, heat vvws score, heat 1995 review woke, heat crime film review"
     },
-    "wokeTrap": 10.4,
+    "wokeTrap": false,
     "parental_guidance": {
       "rating": "R",
       "age_recommendation": "17+",
@@ -133580,9 +133580,9 @@
     "wokeScore": 3.4,
     "tradScore": 24.6,
     "authIndex": 86,
-    "scoreMargin": "+21.2 TRAD",
+    "scoreMargin": "+21 TRAD",
     "preRelease": false,
-    "wokeTrap": 6.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Man of Steel does not qualify as a woke trap under VVWS v1.1. A woke trap requires a negative margin with woke content concealed past the 50% runtime mark. This film carries a +22.48 TRAD margin and a STRONGLY TRADITIONAL verdict. The three woke-adjacent signals present are minor and structural: Faora-Ul's combat role is required by the source material, Lois Lane's career competence is a 75-year-old character trait, and the government-distrust undertone is a standard genre element in any story about a being governments cannot control. None of these signals are injected ideology. The film's overwhelming ideological mass is its father-son devotion, its Christian messianic architecture, and its vision of masculine duty as the highest calling. Man of Steel is not hiding anything. What you see in the first act is what the film is."
@@ -133844,13 +133844,13 @@
     ],
     "studio": "Warner Bros. Pictures / DC Entertainment",
     "distributor": "Warner Bros. Pictures",
-    "verdict": "MIXED",
+    "verdict": "TRADITIONAL LEAN",
     "wokeScore": 11.8,
     "tradScore": 14.3,
     "authIndex": 59,
-    "scoreMargin": "+2.5 TRAD",
+    "scoreMargin": "+3 TRAD",
     "preRelease": false,
-    "wokeTrap": 23.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Batman v Superman does not qualify as a woke trap under VVWS v1.1. A woke trap requires a negative margin with woke content concealed past the 50% runtime mark. This film's margin is +4.14 TRAD, and its deconstructionist elements are visible from the opening scene: we see Bruce Wayne at street level during the Man of Steel Metropolis battle, watching his employees die, and we understand immediately that this film intends to interrogate the cost of superheroism. Nothing is hidden. The film is openly conflicted. Its problems are structural and tonal, not a bait-and-switch. The messianic sacrifice ending earns the film a traditional verdict, however narrowly."
@@ -146787,9 +146787,9 @@
     "wokeScore": 3.4,
     "tradScore": 24.2,
     "authIndex": 84,
-    "scoreMargin": "+20.8 TRAD",
+    "scoreMargin": "+21 TRAD",
     "preRelease": false,
-    "wokeTrap": 6.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Star Wars: A New Hope does not come close to qualifying as a woke trap. A woke trap requires a negative margin with progressive content concealed past the 50% runtime mark. This film scores +21 TRAD, one of the highest traditional margins in the VirtueVigil catalog. The two woke signals present, a self-sufficient female character and an anti-authoritarian rebellion frame, are minor and fully visible from the opening act. Leia is assertive in 1977 in the context of being captured and rescued, not positioned as a feminist icon superior to the men around her. The Rebellion's framing as anti-establishment resistance maps directly onto the American Revolution, not progressive politics. No trap here. This is as transparently traditional a film as popular cinema has ever produced."
@@ -148990,9 +148990,9 @@
     "wokeScore": 1.7,
     "tradScore": 24.6,
     "authIndex": 90,
-    "scoreMargin": "+22.9 TRAD",
+    "scoreMargin": "+23 TRAD",
     "preRelease": false,
-    "wokeTrap": 3.4,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "The Karate Kid (1984) has no woke trap. The margin is +20.7 TRAD. The woke-adjacent signals are minimal: a brief class-contrast between Daniel's lower-middle-class background and the Cobra Kai crowd's country-club wealth, and Miyagi's backstory touching on Japanese-American internment. Neither is ideologically injected. The class contrast is organic to the underdog narrative, not a political lecture. The internment backstory humanizes Miyagi without turning his grief into a broadside against America. The film never invites the audience to resent American institutions. It invites them to admire a man who suffered and chose dignity anyway. No trap here."
@@ -150219,9 +150219,9 @@
     "wokeScore": 13.6,
     "tradScore": 8.0,
     "authIndex": 41,
-    "scoreMargin": "-5.6 WOKE",
+    "scoreMargin": "-6 WOKE",
     "preRelease": false,
-    "wokeTrap": 27.2,
+    "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "The Amazing Digital Circus: The Last Act does not qualify as a woke trap. While the margin is negative at -4.2 WOKE, the woke content is not hidden or revealed after the 50 percent runtime mark. Zooble's nonbinary identity is established in Episode 1 of the series and is part of the public-facing character design. The mental health themes are the show's most prominently advertised feature. Audiences who attend the theatrical finale are fans who know exactly what the show is and what it contains. No bait and switch."
@@ -155216,9 +155216,9 @@
     "wokeScore": 1.4,
     "tradScore": 17.4,
     "authIndex": 93,
-    "scoreMargin": "+16.0 TRAD",
+    "scoreMargin": "+16 TRAD",
     "preRelease": false,
-    "wokeTrap": 2.8,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "The Mandalorian and Grogu is not a woke trap. The film's traditional moral architecture (father-son bond, self-sacrifice, objective good vs. evil) is fully visible from the opening sequence and maintained throughout its 132-minute runtime. The modest woke signal from Commander Ward's casting and the female Hutt Twins as antagonists registers lightly and does not conceal any progressive agenda. Nothing is buried or revealed late."
@@ -155454,7 +155454,7 @@
     "wokeScore": 0.35,
     "tradScore": 36.12,
     "authIndex": 99,
-    "scoreMargin": "+36 STRONG TRAD",
+    "scoreMargin": "+36 TRAD",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
@@ -156004,7 +156004,7 @@
     "wokeScore": 0,
     "tradScore": 21.98,
     "authIndex": 99,
-    "scoreMargin": "+22 STRONG TRAD",
+    "scoreMargin": "+22 TRAD",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
@@ -156256,7 +156256,7 @@
     "wokeScore": 4.2,
     "tradScore": 3.5,
     "authIndex": 78,
-    "scoreMargin": "-1 MIXED",
+    "scoreMargin": "-1 WOKE",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
@@ -159922,9 +159922,9 @@
     "wokeScore": 17.6,
     "tradScore": 1.5,
     "authIndex": 8,
-    "scoreMargin": "-16.1 WOKE",
+    "scoreMargin": "-16 WOKE",
     "preRelease": false,
-    "wokeTrap": 35.2,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Gail Daughtry and the Celebrity Sex Pass does not qualify as a woke trap. The film's ideological content is visible from the opening scene, in which the celebrity sex pass premise is introduced explicitly and drives every subsequent plot development. There is no bait-and-switch. The film openly presents its normalization of extramarital sex as a comedic engine from frame one through the final hot air balloon departure. Nothing is hidden past any runtime threshold."
@@ -163185,9 +163185,9 @@
     "wokeScore": 4.8,
     "tradScore": 5.0,
     "authIndex": 54,
-    "scoreMargin": "+0.2 TRAD",
+    "scoreMargin": "0 NEUTRAL",
     "preRelease": false,
-    "wokeTrap": 9.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "The Kidnapping of Arabella is not a woke trap. It is an Italian art film that wears its sensibility openly from frame one. The female-centric narrative and upper-class critique are the film's mode, not a hidden payload."
@@ -163541,7 +163541,7 @@
     "wokeScore": 5.4,
     "tradScore": 9.68,
     "authIndex": 64,
-    "scoreMargin": "+4 TRADITIONAL LEAN",
+    "scoreMargin": "+4 TRAD",
     "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
@@ -163877,13 +163877,13 @@
     ],
     "studio": "Independent",
     "distributor": "Independent",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "TRADITIONAL",
     "wokeScore": 1.8,
     "tradScore": 11.3,
     "authIndex": 87,
-    "scoreMargin": "+9.5 TRAD",
+    "scoreMargin": "+10 TRAD",
     "preRelease": false,
-    "wokeTrap": 3.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Splash City is not a woke trap. It is a straightforward independent crime drama set in the Bay Area that wears its genre identity openly. There is no hidden ideological payload past any runtime threshold. The film's concerns, family loyalty, personal resolve, the pull of the streets against the push toward honest work, are exactly what the premise advertises."
@@ -164028,9 +164028,9 @@
     "wokeScore": 1.0,
     "tradScore": 14.8,
     "authIndex": 93,
-    "scoreMargin": "+13.8 TRAD",
+    "scoreMargin": "+14 TRAD",
     "preRelease": true,
-    "wokeTrap": 2.0,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "The Debt Collector is not a woke trap. It is a straightforward Thai action thriller about personal redemption through protecting the vulnerable. The redemption arc, terminal illness framing, and vigilante-justice-for-victims structure are exactly what the premise advertises from the opening minutes. There is no hidden ideological payload past any runtime threshold. The film's moral core, that a man can change and that defending the powerless is worth dying for, is on the surface from the first scene."
@@ -164173,9 +164173,9 @@
     "wokeScore": 0.3,
     "tradScore": 18.1,
     "authIndex": 97,
-    "scoreMargin": "+17.8 TRAD",
+    "scoreMargin": "+18 TRAD",
     "preRelease": false,
-    "wokeTrap": 0.6,
+    "wokeTrap": false,
     "budget": "$6.4 million",
     "box_office_gross": "$78.3 million",
     "woke_trap_assessment": {
@@ -164341,9 +164341,9 @@
     "wokeScore": 0.3,
     "tradScore": 19.3,
     "authIndex": 93,
-    "scoreMargin": "+19.0 TRAD",
+    "scoreMargin": "+19 TRAD",
     "preRelease": false,
-    "wokeTrap": 0.6,
+    "wokeTrap": false,
     "budget": "$40-50 million",
     "box_office_gross": "$116.1 million",
     "woke_trap_assessment": {
@@ -165027,9 +165027,9 @@
     "wokeScore": 1.2,
     "tradScore": 22.4,
     "authIndex": 96,
-    "scoreMargin": "+21.2 TRAD",
+    "scoreMargin": "+21 TRAD",
     "preRelease": false,
-    "wokeTrap": 2.4,
+    "wokeTrap": false,
     "budget": "$33-34 million",
     "box_office_gross": "$327.3 million",
     "woke_trap_assessment": {
@@ -166374,10 +166374,10 @@
     "verdict": "TRADITIONAL LEAN",
     "wokeScore": 0.3,
     "tradScore": 7.9,
-    "scoreMargin": "+7.6 TRAD",
+    "scoreMargin": "+8 TRAD",
     "authIndex": "72",
     "preRelease": false,
-    "wokeTrap": 0.6,
+    "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
       "pct_runtime": 0,
