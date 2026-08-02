@@ -34887,6 +34887,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-sci-fi-movies-of-all-time/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/most-woke-action-movies-of-all-time/index.html');
+  writePage('lists/most-woke-action-movies-of-all-time/index.html', buildListiclePage({
+    slug: 'most-woke-action-movies-of-all-time',
+    title: 'The 20 Most Woke Action Movies of All Time, Ranked by VirtueVigil',
+    description: '20 most ideologically aggressive action films ranked by woke score margin. VirtueVigil scores The Creator, Birds of Prey, The Marvels, Avatar, Star Wars: The Last Jedi, The Boys Season 4, and more. From explosions to ideology -- know what Hollywood put in the frame.',
+    canonicalPath: 'lists/most-woke-action-movies-of-all-time',
+    publishDate: '2026-08-02',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-action-movies-of-all-time/content.html'), 'utf-8')
+  }));
+
   console.log('  lists/most-woke-animated-movies-parents/index.html');
   writePage('lists/most-woke-animated-movies-parents/index.html', buildListiclePage({
     slug: 'most-woke-animated-movies-parents',

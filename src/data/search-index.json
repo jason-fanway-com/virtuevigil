@@ -1,5 +1,41 @@
 [
   {
+    "slug": "taxi-driver-1976",
+    "title": "Taxi Driver",
+    "verdict": "MIXED",
+    "platform": "Various / Peacock / Criterion Channel",
+    "genre": "Crime / Drama / Psychological Thriller",
+    "year": 1976,
+    "type": "film",
+    "wokeScore": 12.6,
+    "tradScore": 11.9,
+    "poster": "/images/posters/taxi-driver-1976.jpg"
+  },
+  {
+    "slug": "the-deer-hunter-1978",
+    "title": "The Deer Hunter",
+    "verdict": "TRADITIONAL",
+    "platform": "Various / Peacock / Max",
+    "genre": "Drama / War",
+    "year": 1978,
+    "type": "film",
+    "wokeScore": 7.14,
+    "tradScore": 21,
+    "poster": "/images/posters/the-deer-hunter-1978.jpg"
+  },
+  {
+    "slug": "chinatown-1974",
+    "title": "Chinatown",
+    "verdict": "WOKE",
+    "platform": "Paramount+ / Various",
+    "genre": "Crime / Drama / Mystery / Noir",
+    "year": 1974,
+    "type": "film",
+    "wokeScore": 19.18,
+    "tradScore": 5.88,
+    "poster": "/images/posters/chinatown-1974.jpg"
+  },
+  {
     "slug": "the-silence-of-the-lambs-1991",
     "title": "The Silence of the Lambs",
     "verdict": "STRONGLY TRADITIONAL",
