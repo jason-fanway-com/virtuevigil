@@ -34985,6 +34985,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-traditional-movies-of-all-time/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/best-traditional-family-animated-movies/index.html');
+  writePage('lists/best-traditional-family-animated-movies/index.html', buildListiclePage({
+    slug: 'best-traditional-family-animated-movies',
+    title: '20 Best Traditional Family & Animated Movies Parents Can Trust, Ranked by VirtueVigil',
+    description: 'From SpongeBob to Toy Story, Ne Zha 2 to The Lion King -- the 20 safest family and animated movies ever scored by VirtueVigil. Every score backed by dual-metric methodology. Know what your kids are watching before you press play.',
+    canonicalPath: 'lists/best-traditional-family-animated-movies',
+    publishDate: '2026-08-03',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-family-animated-movies/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
