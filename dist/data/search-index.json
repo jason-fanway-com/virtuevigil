@@ -1,5 +1,41 @@
 [
   {
+    "slug": "seventy-two-hours-2026",
+    "title": "72 Hours",
+    "verdict": "MIXED",
+    "platform": "Netflix",
+    "genre": "Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 8.4,
+    "tradScore": 8.1,
+    "poster": "/images/posters/seventy-two-hours-2026.jpg"
+  },
+  {
+    "slug": "the-wizard-of-oz-1939",
+    "title": "The Wizard of Oz",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Various / Max",
+    "genre": "Musical / Fantasy / Adventure",
+    "year": 1939,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 24.72,
+    "poster": "/images/posters/the-wizard-of-oz-1939.jpg"
+  },
+  {
+    "slug": "batman-caped-crusader-s2-2026",
+    "title": "Batman: Caped Crusader",
+    "verdict": "TRADITIONAL",
+    "platform": "Prime Video",
+    "genre": "Animated / Action / Crime / Noir",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 4.5,
+    "tradScore": 22.74,
+    "poster": "/images/posters/batman-caped-crusader-s2-2026.jpg"
+  },
+  {
     "slug": "taxi-driver-1976",
     "title": "Taxi Driver",
     "verdict": "MIXED",
