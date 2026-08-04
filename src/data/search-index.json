@@ -12,6 +12,18 @@
     "poster": "/images/posters/deadpool-and-wolverine-2024.jpg"
   },
   {
+    "slug": "star-wars-1977",
+    "title": "Star Wars",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters / Disney+",
+    "genre": "Science Fiction / Adventure / Fantasy",
+    "year": 1977,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 35.28,
+    "poster": "/images/posters/star-wars-1977.jpg"
+  },
+  {
     "slug": "seventy-two-hours-2026",
     "title": "72 Hours",
     "verdict": "MIXED",
