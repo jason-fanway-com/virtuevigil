@@ -1,5 +1,17 @@
 [
   {
+    "slug": "deadpool-and-wolverine-2024",
+    "title": "Deadpool & Wolverine",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters / Disney+",
+    "genre": "Action / Comedy / Superhero",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 4.7,
+    "tradScore": 24.36,
+    "poster": "/images/posters/deadpool-and-wolverine-2024.jpg"
+  },
+  {
     "slug": "seventy-two-hours-2026",
     "title": "72 Hours",
     "verdict": "MIXED",
@@ -8214,18 +8226,6 @@
     "wokeScore": 19.36,
     "tradScore": 11.55,
     "poster": "/images/posters/dune-part-two-2024.jpg"
-  },
-  {
-    "slug": "deadpool-wolverine-2024",
-    "title": "Deadpool & Wolverine",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical / Disney+",
-    "genre": "Action",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 11,
-    "tradScore": 8,
-    "poster": "/images/posters/deadpool-wolverine-2024.jpg"
   },
   {
     "slug": "longlegs-2024",
