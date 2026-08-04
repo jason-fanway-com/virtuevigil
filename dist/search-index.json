@@ -24,6 +24,42 @@
     "poster": "/images/posters/the-acolyte-2024.jpg"
   },
   {
+    "slug": "spider-man-2002",
+    "title": "Spider-Man",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical / Max / Digital",
+    "genre": "Action / Superhero / Adventure",
+    "year": 2002,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 23.94,
+    "poster": "/images/posters/spider-man-2002.jpg"
+  },
+  {
+    "slug": "thor-2011",
+    "title": "Thor",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Disney+ / Digital",
+    "genre": "Action / Adventure / Fantasy",
+    "year": 2011,
+    "type": "film",
+    "wokeScore": 1.7,
+    "tradScore": 18.2,
+    "poster": "/images/posters/thor-2011.jpg"
+  },
+  {
+    "slug": "the-rock-1996",
+    "title": "The Rock",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Max / Digital",
+    "genre": "Action / Thriller",
+    "year": 1996,
+    "type": "film",
+    "wokeScore": 2.1,
+    "tradScore": 20.02,
+    "poster": "/images/posters/the-rock-1996.jpg"
+  },
+  {
     "slug": "seventy-two-hours-2026",
     "title": "72 Hours",
     "verdict": "MIXED",
