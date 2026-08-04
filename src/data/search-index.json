@@ -1,27 +1,15 @@
 [
   {
-    "slug": "deadpool-and-wolverine-2024",
+    "slug": "deadpool-wolverine-2024",
     "title": "Deadpool & Wolverine",
-    "verdict": "TRADITIONAL",
+    "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theaters / Disney+",
     "genre": "Action / Comedy / Superhero",
     "year": 2024,
     "type": "film",
     "wokeScore": 4.7,
     "tradScore": 24.36,
-    "poster": "/images/posters/deadpool-and-wolverine-2024.jpg"
-  },
-  {
-    "slug": "star-wars-1977",
-    "title": "Star Wars",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theaters / Disney+",
-    "genre": "Science Fiction / Adventure / Fantasy",
-    "year": 1977,
-    "type": "film",
-    "wokeScore": 0.35,
-    "tradScore": 35.28,
-    "poster": "/images/posters/star-wars-1977.jpg"
+    "poster": "/images/posters/deadpool-wolverine-2024.jpg"
   },
   {
     "slug": "the-acolyte-2024",
