@@ -24,6 +24,18 @@
     "poster": "/images/posters/star-wars-1977.jpg"
   },
   {
+    "slug": "the-acolyte-2024",
+    "title": "The Acolyte",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Disney+",
+    "genre": "Science Fiction / Mystery / Drama",
+    "year": 2024,
+    "type": "series",
+    "wokeScore": 62.16,
+    "tradScore": 1.4,
+    "poster": "/images/posters/the-acolyte-2024.jpg"
+  },
+  {
     "slug": "seventy-two-hours-2026",
     "title": "72 Hours",
     "verdict": "MIXED",
