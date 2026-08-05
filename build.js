@@ -9492,11 +9492,12 @@ function build() {
 
   writePage('lists/most-woke-movies-2026/index.html', buildListiclePage({
     slug: 'most-woke-movies-2026',
-    title: 'Most Woke Movies of 2026: The 20 Most Ideologically Weighted Films, Ranked',
-    description: 'All 20 most woke films of 2026 ranked by VirtueVigil score. From Strongly Woke to Woke Lean, see which releases push progressive ideology hardest this year.',
+    title: 'The 25 Most Woke Movies of 2026 (So Far), Ranked by VirtueVigil',
+    description: "From Disclosure Day to Hoppers, we ranked the 25 most ideologically aggressive films and shows of 2026. Every score backed by VirtueVigil's dual-metric methodology. Parents, know what you're watching.",
     canonicalPath: 'lists/most-woke-movies-2026',
-    publishDate: '2026-06-30',
-    htmlContent: `<article class="listicle-article">
+    publishDate: '2026-08-05',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-2026/content.html'), 'utf-8'),
+    legacyInlineContent: `<article class="listicle-article">
   <style>
     .listicle-item { display:flex; gap:18px; align-items:flex-start; background:#13131e; border:1px solid rgba(196,64,64,0.18); border-radius:10px; padding:20px; margin-bottom:20px; }
     .listicle-rank { min-width:44px; height:44px; border-radius:50%; background:rgba(196,64,64,0.15); display:flex; align-items:center; justify-content:center; font-family:'Cinzel',Georgia,serif; font-weight:700; color:#c44040; font-size:0.95rem; flex-shrink:0; margin-top:2px; }
