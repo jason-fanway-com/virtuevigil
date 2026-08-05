@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-godfather-part-ii-1974",
+    "title": "The Godfather Part II",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Paramount+",
+    "genre": "Crime Drama",
+    "year": 1974,
+    "type": "film",
+    "wokeScore": 2.8,
+    "tradScore": 35.14,
+    "poster": "/images/posters/the-godfather-part-ii-1974.jpg"
+  },
+  {
     "slug": "deadpool-wolverine-2024",
     "title": "Deadpool & Wolverine",
     "verdict": "STRONGLY TRADITIONAL",
@@ -475,18 +487,6 @@
     "wokeScore": 2.8,
     "tradScore": 14.49,
     "poster": "/images/posters/apocalypse-now-1979.jpg"
-  },
-  {
-    "slug": "the-godfather-part-2-1974",
-    "title": "The Godfather Part II",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theaters",
-    "genre": "Epic Crime Drama",
-    "year": 1974,
-    "type": "film",
-    "wokeScore": 0,
-    "tradScore": 23.8,
-    "poster": "/images/posters/the-godfather-part-2-1974.jpg"
   },
   {
     "slug": "thrash-2026",
