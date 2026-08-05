@@ -12,6 +12,18 @@
     "poster": "/images/posters/the-godfather-part-ii-1974.jpg"
   },
   {
+    "slug": "i-want-your-sex-2026",
+    "title": "I Want Your Sex",
+    "verdict": "WOKE",
+    "platform": "In Theaters",
+    "genre": "Erotic Thriller / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 16.7,
+    "tradScore": 2,
+    "poster": "/images/posters/i-want-your-sex-2026.jpg"
+  },
+  {
     "slug": "deadpool-wolverine-2024",
     "title": "Deadpool & Wolverine",
     "verdict": "STRONGLY TRADITIONAL",
