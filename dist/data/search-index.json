@@ -1,19 +1,7 @@
 [
   {
-    "slug": "dune-2021",
-    "title": "Is Dune (2021) Woke? | VirtueVigil Review",
-    "verdict": "TRADITIONAL",
-    "platform": "Theaters / HBO Max / Max",
-    "genre": "Sci-Fi, Adventure, Drama",
-    "year": 2021,
-    "type": "film",
-    "wokeScore": 4.8,
-    "tradScore": 19.32,
-    "poster": "/images/posters/dune-2021.jpg"
-  },
-  {
     "slug": "the-lord-of-the-rings-the-two-towers-2002",
-    "title": "Is The Lord of the Rings: The Two Towers (2002) Woke? | VirtueVigil Review",
+    "title": "The Lord of the Rings: The Two Towers",
     "verdict": "STRONGLY TRADITIONAL",
     "platform": "Theaters / Max / Amazon Prime",
     "genre": "Fantasy, Adventure, Action",
@@ -7678,7 +7666,7 @@
   },
   {
     "slug": "pluribus-2025",
-    "title": "Is Pluribus Woke? | VirtueVigil Review",
+    "title": "Pluribus",
     "verdict": "TRADITIONAL",
     "platform": "Apple TV+",
     "genre": "Sci-Fi/Drama/Black Comedy",
