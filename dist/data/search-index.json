@@ -12,6 +12,18 @@
     "poster": "/images/posters/dune-2021.jpg"
   },
   {
+    "slug": "the-lord-of-the-rings-the-two-towers-2002",
+    "title": "Is The Lord of the Rings: The Two Towers (2002) Woke? | VirtueVigil Review",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters / Max / Amazon Prime",
+    "genre": "Fantasy, Adventure, Action",
+    "year": 2002,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 24.99,
+    "poster": "/images/posters/the-lord-of-the-rings-the-two-towers-2002.jpg"
+  },
+  {
     "slug": "the-godfather-part-ii-1974",
     "title": "The Godfather Part II",
     "verdict": "STRONGLY TRADITIONAL",
