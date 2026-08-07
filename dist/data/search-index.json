@@ -1,5 +1,41 @@
 [
   {
+    "slug": "ice-cream-man-2026",
+    "title": "Ice Cream Man",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Horror, Thriller, Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.5,
+    "tradScore": 13.93,
+    "poster": "/images/posters/ice-cream-man-2026.jpg"
+  },
+  {
+    "slug": "rear-window-1954",
+    "title": "Rear Window",
+    "verdict": "TRADITIONAL",
+    "platform": "Amazon Prime / Apple TV / Blu-ray",
+    "genre": "Thriller, Mystery, Drama",
+    "year": 1954,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 18.06,
+    "poster": "/images/posters/rear-window-1954.jpg"
+  },
+  {
+    "slug": "ted-lasso-s1-2020",
+    "title": "Ted Lasso (Season 1)",
+    "verdict": "TRADITIONAL",
+    "platform": "Apple TV+",
+    "genre": "Comedy, Drama, Sports",
+    "year": 2020,
+    "type": "series",
+    "wokeScore": 3.85,
+    "tradScore": 16.66,
+    "poster": "/images/posters/ted-lasso-s1-2020.jpg"
+  },
+  {
     "slug": "the-lord-of-the-rings-the-two-towers-2002",
     "title": "The Lord of the Rings: The Two Towers",
     "verdict": "STRONGLY TRADITIONAL",
