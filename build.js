@@ -2207,6 +2207,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/fantasy-movies-woke-ranking-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026-midyear/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-of-2026-so-far/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-of-the-2020s/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/vigilante-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -3495,6 +3496,7 @@ function buildListsHubPage() {
       'fantasy-movies-woke-ranking-all-time': 'Every Fantasy Movie Ranked by Woke Score (All Time)',
       'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)',
       'most-woke-movies-of-2026-so-far': 'The 20 Most Woke Movies of 2026 (So Far)',
+      'most-woke-movies-of-the-2020s': 'The 25 Most Woke Movies of the 2020s, Ranked by VirtueVigil',
       'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About',
       'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
       'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)',
@@ -33688,6 +33690,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-family-animated-movies',
     publishDate: '2026-08-03',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-family-animated-movies/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-movies-of-the-2020s/index.html');
+  writePage('lists/most-woke-movies-of-the-2020s/index.html', buildListiclePage({
+    slug: 'most-woke-movies-of-the-2020s',
+    title: 'The 25 Most Woke Movies of the 2020s, Ranked by VirtueVigil',
+    description: "From Zootopia 2 to Joker: Folie a Deux, we ranked the 25 most ideologically aggressive films of the 2020s. Every score backed by VirtueVigil's dual-metric methodology. Parents, know what you're watching.",
+    canonicalPath: 'lists/most-woke-movies-of-the-2020s',
+    publishDate: '2026-08-08',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-of-the-2020s/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
