@@ -1,5 +1,17 @@
 [
   {
+    "slug": "indiana-jones-and-the-last-crusade-1989",
+    "title": "Indiana Jones and the Last Crusade",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action, Adventure",
+    "year": 1989,
+    "type": "film",
+    "wokeScore": 1.05,
+    "tradScore": 26.1,
+    "poster": "/images/posters/indiana-jones-and-the-last-crusade-1989.jpg"
+  },
+  {
     "slug": "ice-cream-man-2026",
     "title": "Ice Cream Man",
     "verdict": "TRADITIONAL",
