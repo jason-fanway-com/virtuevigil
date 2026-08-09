@@ -2220,6 +2220,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/every-spider-man-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-of-all-time/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-drama-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-horror-movies-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -3373,6 +3374,7 @@ function buildListsHubPage() {
         'most-woke-thriller-movies-parents-2025',
         'most-woke-comedy-movies-parents',
         'most-woke-drama-movies-all-time',
+        'most-woke-horror-movies-parents-should-know',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3501,7 +3503,8 @@ function buildListsHubPage() {
       'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
       'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)',
       'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)',
-      'most-woke-drama-movies-all-time': 'The 20 Most Woke Drama Movies of All Time — VirtueVigil Rankings 2026'
+      'most-woke-drama-movies-all-time': 'The 20 Most Woke Drama Movies of All Time — VirtueVigil Rankings 2026',
+      'most-woke-horror-movies-parents-should-know': 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -33672,6 +33675,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-drama-movies-all-time',
     publishDate: '2026-07-31',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-drama-movies-all-time/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-horror-movies-parents-should-know/index.html');
+  writePage('lists/most-woke-horror-movies-parents-should-know/index.html', buildListiclePage({
+    slug: 'most-woke-horror-movies-parents-should-know',
+    title: 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
+    description: 'From Heretic to Doctor Strange, we ranked the 20 most ideologically aggressive horror films in our database. Every score backed by VirtueVigil\'s dual-metric methodology. Parents, know what your kids are watching before the lights go out.',
+    canonicalPath: 'lists/most-woke-horror-movies-parents-should-know',
+    publishDate: '2026-08-09',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-horror-movies-parents-should-know/content.html'), 'utf-8')
   }));
 
   writePage('lists/most-traditional-movies-of-all-time/index.html', buildListiclePage({
