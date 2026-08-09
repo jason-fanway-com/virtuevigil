@@ -1,5 +1,41 @@
 [
   {
+    "slug": "first-blood-1982",
+    "title": "First Blood",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Action, Thriller, Drama",
+    "year": 1982,
+    "type": "film",
+    "wokeScore": 8.54,
+    "tradScore": 16.44,
+    "poster": "/images/posters/first-blood-1982.jpg"
+  },
+  {
+    "slug": "john-wick-chapter-2-2017",
+    "title": "John Wick: Chapter 2",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action, Thriller",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": 2.1,
+    "tradScore": 22.54,
+    "poster": "/images/posters/john-wick-chapter-2-2017.jpg"
+  },
+  {
+    "slug": "mission-impossible-fallout-2018",
+    "title": "Mission: Impossible - Fallout",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action, Thriller, Spy",
+    "year": 2018,
+    "type": "film",
+    "wokeScore": 4.2,
+    "tradScore": 17.5,
+    "poster": "/images/posters/mission-impossible-fallout-2018.jpg"
+  },
+  {
     "slug": "indiana-jones-and-the-last-crusade-1989",
     "title": "Indiana Jones and the Last Crusade",
     "verdict": "STRONGLY TRADITIONAL",
