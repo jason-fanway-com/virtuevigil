@@ -1,5 +1,41 @@
 [
   {
+    "slug": "one-night-only-2026",
+    "title": "One Night Only",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Romantic Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 4.9,
+    "tradScore": 3.95,
+    "poster": "/images/posters/one-night-only-2026.jpg"
+  },
+  {
+    "slug": "its-a-wonderful-life-1946",
+    "title": "It's a Wonderful Life",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Streaming / Home Media",
+    "genre": "Drama, Fantasy, Christmas",
+    "year": 1946,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 55.86,
+    "poster": "/images/posters/its-a-wonderful-life-1946.jpg"
+  },
+  {
+    "slug": "reacher-s4-2026",
+    "title": "Reacher - Season 4",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Amazon Prime Video",
+    "genre": "Action / Crime / Thriller",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 1.75,
+    "tradScore": 27.02,
+    "poster": "/images/posters/reacher-s4-2026.jpg"
+  },
+  {
     "slug": "first-blood-1982",
     "title": "First Blood",
     "verdict": "TRADITIONAL LEAN",
