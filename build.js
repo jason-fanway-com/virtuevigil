@@ -2221,6 +2221,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/most-traditional-movies-of-all-time/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-drama-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-horror-movies-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/biopics-ranked-by-woke-score/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -3375,6 +3376,7 @@ function buildListsHubPage() {
         'most-woke-comedy-movies-parents',
         'most-woke-drama-movies-all-time',
         'most-woke-horror-movies-parents-should-know',
+        'biopics-ranked-by-woke-score',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3504,7 +3506,8 @@ function buildListsHubPage() {
       'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)',
       'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)',
       'most-woke-drama-movies-all-time': 'The 20 Most Woke Drama Movies of All Time — VirtueVigil Rankings 2026',
-      'most-woke-horror-movies-parents-should-know': 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil'
+      'most-woke-horror-movies-parents-should-know': 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
+      'biopics-ranked-by-woke-score': 'Every Biopic Ranked by Woke Score: Which True Stories Hollywood Changed'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -33685,6 +33688,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-horror-movies-parents-should-know',
     publishDate: '2026-08-09',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-horror-movies-parents-should-know/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/biopics-ranked-by-woke-score/index.html');
+  writePage('lists/biopics-ranked-by-woke-score/index.html', buildListiclePage({
+    slug: 'biopics-ranked-by-woke-score',
+    title: 'Every Biopic Ranked by Woke Score: Which True Stories Hollywood Changed',
+    description: 'We ranked 63 biopics and historical films by their ideological content. From Reagan to The Apprentice, see which true stories Hollywood told straight and which got the woke treatment. Parents, know what\'s real.',
+    canonicalPath: 'lists/biopics-ranked-by-woke-score',
+    publishDate: '2026-08-10',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/biopics-ranked-by-woke-score/content.html'), 'utf-8')
   }));
 
   writePage('lists/most-traditional-movies-of-all-time/index.html', buildListiclePage({
