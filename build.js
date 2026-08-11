@@ -2222,6 +2222,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/most-woke-drama-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-horror-movies-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/biopics-ranked-by-woke-score/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/every-crime-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -3377,6 +3378,7 @@ function buildListsHubPage() {
         'most-woke-drama-movies-all-time',
         'most-woke-horror-movies-parents-should-know',
         'biopics-ranked-by-woke-score',
+        'every-crime-movie-ranked-woke-score',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3507,7 +3509,8 @@ function buildListsHubPage() {
       'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)',
       'most-woke-drama-movies-all-time': 'The 20 Most Woke Drama Movies of All Time — VirtueVigil Rankings 2026',
       'most-woke-horror-movies-parents-should-know': 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
-      'biopics-ranked-by-woke-score': 'Every Biopic Ranked by Woke Score: Which True Stories Hollywood Changed'
+      'biopics-ranked-by-woke-score': 'Every Biopic Ranked by Woke Score: Which True Stories Hollywood Changed',
+      'every-crime-movie-ranked-woke-score': 'Every Crime Movie & Series Ranked by Woke Score: 76 Films Tested'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
