@@ -33718,6 +33718,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-family-animated-movies/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/every-crime-movie-ranked-woke-score/index.html');
+  writePage('lists/every-crime-movie-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'every-crime-movie-ranked-woke-score',
+    title: 'Every Crime Movie & Series Ranked by Woke Score: 76 Films Tested',
+    description: 'From Emilia Perez to The Silence of the Lambs, we scored every crime film and series in our database. See which crime stories Hollywood politicized and which ones told the truth. Rankings from most woke to most traditional. Parents, know what you\'re watching.',
+    canonicalPath: 'lists/every-crime-movie-ranked-woke-score',
+    publishDate: '2026-08-11',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-crime-movie-ranked-woke-score/content.html'), 'utf-8')
+  }));
+
   console.log('  lists/most-woke-movies-of-the-2020s/index.html');
   writePage('lists/most-woke-movies-of-the-2020s/index.html', buildListiclePage({
     slug: 'most-woke-movies-of-the-2020s',
