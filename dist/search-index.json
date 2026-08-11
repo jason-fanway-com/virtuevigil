@@ -1,5 +1,41 @@
 [
   {
+    "slug": "a-few-good-men-1992",
+    "title": "A Few Good Men",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama, Thriller, Courtroom",
+    "year": 1992,
+    "type": "film",
+    "wokeScore": 7.74,
+    "tradScore": 21.14,
+    "poster": "/images/posters/a-few-good-men-1992.jpg"
+  },
+  {
+    "slug": "warrior-2011",
+    "title": "Warrior",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama, Sports, Action",
+    "year": 2011,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 30.94,
+    "poster": "/images/posters/warrior-2011.jpg"
+  },
+  {
+    "slug": "equalizer-2014",
+    "title": "The Equalizer",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Action, Thriller, Crime",
+    "year": 2014,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 25.9,
+    "poster": "/images/posters/equalizer-2014.jpg"
+  },
+  {
     "slug": "one-night-only-2026",
     "title": "One Night Only",
     "verdict": "MIXED",
