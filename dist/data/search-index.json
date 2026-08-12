@@ -1,5 +1,41 @@
 [
   {
+    "slug": "super-troopers-3-2026",
+    "title": "Super Troopers 3",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Comedy",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 0.7,
+    "tradScore": 10.92,
+    "poster": "/images/posters/super-troopers-3-2026.jpg"
+  },
+  {
+    "slug": "lioness-s3-2026",
+    "title": "Lioness - Season 3",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Paramount+",
+    "genre": "Spy Thriller / Drama / Action",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 6.1,
+    "tradScore": 19.04,
+    "poster": "/images/posters/lioness-s3-2026.jpg"
+  },
+  {
+    "slug": "casino-royale-2006",
+    "title": "Casino Royale",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Amazon Prime Video / Physical Media",
+    "genre": "Action / Spy Thriller",
+    "year": 2006,
+    "type": "movie",
+    "wokeScore": 0,
+    "tradScore": 24.5,
+    "poster": "/images/posters/casino-royale-2006.jpg"
+  },
+  {
     "slug": "a-few-good-men-1992",
     "title": "A Few Good Men",
     "verdict": "TRADITIONAL",
