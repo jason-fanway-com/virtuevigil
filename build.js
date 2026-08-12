@@ -2138,6 +2138,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-action-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-action-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/hbo-max-shows-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/hbo-max-originals-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-christian-movies-all-time/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
@@ -3258,6 +3259,7 @@ function buildListsHubPage() {
         'disney-plus-movies-woke-ranking',
         'disney-woke-movies-ranked',
         'hbo-max-shows-woke-ranking',
+        'hbo-max-originals-woke-ranking',
         'netflix-woke-movies-2024-data',
         'netflix-woke-movies-ranked',
         'paramount-plus-woke-ranking',
@@ -3418,6 +3420,7 @@ function buildListsHubPage() {
       'a24-movies-woke-ranking': 'A24 Movies Woke Ranking',
       'appletv-plus-movies-woke-ranking': 'Apple TV+ Movies Woke Ranking',
       'hbo-max-shows-woke-ranking': 'HBO Max Shows Woke Ranking',
+      'hbo-max-originals-woke-ranking': 'Every HBO & Max Original Ranked by Woke Score (2026)',
       'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
@@ -11128,6 +11131,15 @@ function buildAppleTvWokeRankingListicle() {
       <p>Raw woke scores measure ideological density, not net margin. A film can score high on woke content while also generating genuine traditional content, which produces a complicated picture. Scarpetta and Zootopia 2 both demonstrate this. What the raw score tells you is how much ideological messaging is present, regardless of what else is happening in the film. The highest woke scores in the database cluster in a recognizable pattern: prestige films with awards ambitions, animated films targeting children through streaming, genre films using horror or science fiction as ideology delivery systems. That pattern is worth knowing.</p>
       <p>For the opposite end of the scale, see our <a href="/lists/highest-traditional-scores-all-time/">10 Movies With the Highest Traditional Scores Ever</a> and our <a href="/lists/best-conservative-movies/">Best Conservative Movies of All Time</a>. For year-by-year woke tracking, see <a href="/lists/most-woke-movies-2024/">Most Woke Movies of 2024</a>, <a href="/lists/most-woke-movies-2025/">Most Woke Movies of 2025</a>, and <a href="/lists/most-woke-movies-2026/">Most Woke Movies of 2026</a>. Every film in the database has a full review at <a href="/reviews/">virtuevigil.com/reviews/</a>.</p>
     </article>`
+  }));
+
+  writePage('lists/hbo-max-originals-woke-ranking/index.html', buildListiclePage({
+    slug: 'hbo-max-originals-woke-ranking',
+    title: 'Every HBO & Max Original Ranked by Woke Score (2026)',
+    description: 'From The Bride! to Chernobyl, we ranked all 38 HBO and Max originals. See which push ideology hardest and which tell a real story. Ranked from most woke to most traditional.',
+    canonicalPath: 'lists/hbo-max-originals-woke-ranking',
+    publishDate: '2026-08-12',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/hbo-max-originals-woke-ranking/content.html'), 'utf-8')
   }));
 
   writePage('lists/hbo-max-shows-woke-ranking/index.html', buildListiclePage({
