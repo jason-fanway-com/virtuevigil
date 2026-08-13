@@ -1,5 +1,41 @@
 [
   {
+    "slug": "man-on-fire-2004",
+    "title": "Man on Fire",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Hulu / Amazon Prime Video",
+    "genre": "Action / Thriller",
+    "year": 2004,
+    "type": "movie",
+    "wokeScore": 1.4,
+    "tradScore": 27.58,
+    "poster": "/images/posters/man-on-fire-2004.jpg"
+  },
+  {
+    "slug": "arrival-2016",
+    "title": "Arrival",
+    "verdict": "WOKE LEAN",
+    "platform": "Paramount+ / Apple TV+",
+    "genre": "Science Fiction / Drama",
+    "year": 2016,
+    "type": "movie",
+    "wokeScore": 12.3,
+    "tradScore": 9.24,
+    "poster": "/images/posters/arrival-2016.jpg"
+  },
+  {
+    "slug": "the-last-samurai-2003",
+    "title": "The Last Samurai",
+    "verdict": "TRADITIONAL",
+    "platform": "Max / Tubi",
+    "genre": "Action / Drama / Historical Epic",
+    "year": 2003,
+    "type": "movie",
+    "wokeScore": 9.24,
+    "tradScore": 26.04,
+    "poster": "/images/posters/the-last-samurai-2003.jpg"
+  },
+  {
     "slug": "super-troopers-3-2026",
     "title": "Super Troopers 3",
     "verdict": "STRONGLY TRADITIONAL",
