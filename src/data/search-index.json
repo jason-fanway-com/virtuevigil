@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-end-of-oak-street-2026",
+    "title": "The End of Oak Street",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Sci-Fi / Survival / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2.35,
+    "tradScore": 20,
+    "poster": "/images/posters/the-end-of-oak-street-2026.jpg"
+  },
+  {
+    "slug": "apollo-13-1995",
+    "title": "Apollo 13",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Netflix / Prime Video",
+    "genre": "Drama / History / Thriller",
+    "year": 1995,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 27.6,
+    "poster": "/images/posters/apollo-13-1995.jpg"
+  },
+  {
+    "slug": "we-were-soldiers-2002",
+    "title": "We Were Soldiers",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Prime Video / Paramount+",
+    "genre": "War / Action / History",
+    "year": 2002,
+    "type": "film",
+    "wokeScore": 3.92,
+    "tradScore": 27.19,
+    "poster": "/images/posters/we-were-soldiers-2002.jpg"
+  },
+  {
     "slug": "man-on-fire-2004",
     "title": "Man on Fire",
     "verdict": "STRONGLY TRADITIONAL",
