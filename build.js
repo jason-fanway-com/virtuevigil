@@ -2139,6 +2139,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-action-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/hbo-max-shows-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/hbo-max-originals-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/netflix-originals-woke-ranking-2026/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-christian-movies-all-time/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
@@ -3260,6 +3261,7 @@ function buildListsHubPage() {
         'disney-woke-movies-ranked',
         'hbo-max-shows-woke-ranking',
         'hbo-max-originals-woke-ranking',
+        'netflix-originals-woke-ranking-2026',
         'netflix-woke-movies-2024-data',
         'netflix-woke-movies-ranked',
         'paramount-plus-woke-ranking',
@@ -3421,6 +3423,7 @@ function buildListsHubPage() {
       'appletv-plus-movies-woke-ranking': 'Apple TV+ Movies Woke Ranking',
       'hbo-max-shows-woke-ranking': 'HBO Max Shows Woke Ranking',
       'hbo-max-originals-woke-ranking': 'Every HBO & Max Original Ranked by Woke Score (2026)',
+      'netflix-originals-woke-ranking-2026': 'Every Netflix Original Ranked by Woke Score (2026)',
       'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
@@ -11140,6 +11143,18 @@ function buildAppleTvWokeRankingListicle() {
     canonicalPath: 'lists/hbo-max-originals-woke-ranking',
     publishDate: '2026-08-12',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/hbo-max-originals-woke-ranking/content.html'), 'utf-8')
+  }));
+
+  // ============================================
+  // LISTICLE: Every Netflix Original Ranked by Woke Score (2026)
+  // ============================================
+  writePage('lists/netflix-originals-woke-ranking-2026/index.html', buildListiclePage({
+    slug: 'netflix-originals-woke-ranking-2026',
+    title: 'Every Netflix Original Ranked by Woke Score (2026)',
+    description: 'We ranked all 57 Netflix originals in our database from most woke to most traditional. See which Netflix movies and shows push ideology hardest and which ones just tell a real story. Parents, know what you\'re watching.',
+    canonicalPath: 'lists/netflix-originals-woke-ranking-2026',
+    publishDate: '2026-08-15',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/netflix-originals-woke-ranking-2026/content.html'), 'utf-8')
   }));
 
   writePage('lists/hbo-max-shows-woke-ranking/index.html', buildListiclePage({
