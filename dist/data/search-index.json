@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-brink-of-war-2026",
+    "title": "The Brink of War",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Historical Drama / Thriller / War",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 6.6,
+    "tradScore": 24.6,
+    "poster": "/images/posters/the-brink-of-war-2026.jpg"
+  },
+  {
+    "slug": "paw-patrol-the-dino-movie-2026",
+    "title": "PAW Patrol: The Dino Movie",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Animation / Adventure / Family / Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.6,
+    "tradScore": 16.7,
+    "poster": "/images/posters/paw-patrol-the-dino-movie-2026.jpg"
+  },
+  {
+    "slug": "euphoria-s1-2019",
+    "title": "Euphoria — Season 1",
+    "verdict": "STRONGLY WOKE",
+    "platform": "HBO / Max",
+    "genre": "Teen Drama",
+    "year": 2019,
+    "type": "series",
+    "wokeScore": 43.5,
+    "tradScore": 5.3,
+    "poster": "/images/posters/euphoria-s1-2019.jpg"
+  },
+  {
     "slug": "the-end-of-oak-street-2026",
     "title": "The End of Oak Street",
     "verdict": "TRADITIONAL",
