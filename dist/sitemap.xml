@@ -721,6 +721,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/reviews/the-office-s1-2005/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/reviews/unforgiven-1992/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/reviews/the-brink-of-war-2026/</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -5413,7 +5425,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://virtuevigil.com/category/comedy/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://virtuevigil.com/category/drama/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://virtuevigil.com/category/western/</loc>
     <lastmod>2026-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5461,12 +5485,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://virtuevigil.com/category/comedy/</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://virtuevigil.com/category/crime/</loc>
     <lastmod>2026-08-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -5486,12 +5504,6 @@
   </url>
   <url>
     <loc>https://virtuevigil.com/category/mystery/</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://virtuevigil.com/category/western/</loc>
     <lastmod>2026-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -176533,7 +176533,9 @@
    "bestFor": "Theater fans, musical lovers, anyone who wants to see the current cultural moment distilled into eighty minutes of pop music.",
    "skipIf": "You are looking for a historically faithful treatment of the Tudor queens, or you do not want your evening out to double as a gender studies lecture.",
    "wokeElements": "The entire framing is girl-boss empowerment. The queens reclaim their voices and rewrite history without men. Marriage to Henry is framed as a prison from which each woman escapes. Anne Boleyn and Katherine Howard are reframed through a lens of sexual liberation rather than the tragedy of their actual lives. The finale imagines a world where the women never married at all.",
-   "traditionalElements": "Two brief, real glimmers. Catherine of Aragon's solo No Way is a defense of her marriage vows and refusal to accept annulment. Jane Seymour's Heart of Stone expresses maternal devotion and standing by a difficult husband. Both are undercut by the show's closing argument, which treats such loyalty as the thing the women were right to abandon."
+   "traditionalElements": "Two brief, real glimmers. Catherine of Aragon's solo No Way is a defense of her marriage vows and refusal to accept annulment. Jane Seymour's Heart of Stone expresses maternal devotion and standing by a difficult husband. Both are undercut by the show's closing argument, which treats such loyalty as the thing the women were right to abandon.",
+   "parentalGuidance": "Rated TV-MA for mature themes. Six The Musical Live! is a concert-style recording of a Broadway show about the wives of Henry VIII. The content is primarily historical reenactment with pop-music staging and costumes that evoke contemporary concert tours. Sexual references are frequent and explicit given the subject matter (Henry VIII's marriages, mistresses, divorce, and beheadings). The show reframes women who were historically victims of a tyrannical king as empowered pop divas, which involves discussing marital abuse, miscarriage, and execution. No nudity or violence is depicted on stage. The concert format keeps the presentation theatrical rather than graphic, but parents should know the lyrical content is adult in nature.",
+   "adultInsight": "Six The Musical Live! is a fascinating artifact of post-MeToo Broadway, where historical victimhood is reframed as empowerment through a pop-concert lens. The show's central device, having each wife compete for who suffered most, is a self-conscious satire of trauma competition that simultaneously participates in it. The wives are written as contemporary pop archetypes (the diva, the bad girl, the innocent), and the historical Anne Boleyn, a woman who was beheaded by her husband, is played for laughs. Whether this is catharsis or trivialization is a question the show does not ask, and that unaired question is more interesting than anything on stage. The finale, where the wives imagine alternate lives where they never met Henry, is the show's clearest ideological statement: female fulfillment is defined by independence from men, and history is something to be escaped rather than understood."
   },
   "parentalGuidance": {
    "rating": "PG",
@@ -176634,63 +176636,66 @@
   ]
  },
  {
-  "id": "the-wolf-of-wall-street-2013",
-  "slug": "the-wolf-of-wall-street-2013",
-  "title": "The Wolf of Wall Street",
-  "year": 2013,
-  "type": "film",
-  "platform": "Netflix / Prime Video",
-  "genre": "Biographical / Dark Comedy / Crime",
-  "readTime": "10 min",
-  "poster": "/images/posters/the-wolf-of-wall-street-2013.jpg",
-  "releaseDate": "2013-12-25",
-  "rating": "R (Pervasive Language, Graphic Sexual Content, Hard Drug Use)",
-  "runtime": "179 min",
-  "director": "Martin Scorsese",
+  "id": "the-office-s1-2005",
+  "slug": "the-office-s1-2005",
+  "title": "The Office (Season 1)",
+  "year": 2005,
+  "type": "series",
+  "platform": "NBC / Peacock",
+  "genre": "Workplace Comedy / Mockumentary",
+  "readTime": "8 min",
+  "poster": "/images/posters/the-office-s1-2005.jpg",
+  "releaseDate": "2005-03-24",
+  "rating": "TV-14 (Mild Language, Sexual References, Adult Themes)",
+  "runtime": "6 episodes, 22 min each",
+  "director": "Ken Kwapis / Greg Daniels (various)",
   "writers": [
-   "Terence Winter"
+   "Greg Daniels",
+   "Ricky Gervais",
+   "Stephen Merchant",
+   "Michael Schur",
+   "Mindy Kaling",
+   "B. J. Novak",
+   "Paul Lieberstein"
   ],
+  "showrunner": "Greg Daniels",
   "cast": [
    {
-    "name": "Leonardo DiCaprio",
-    "role": "Jordan Belfort"
+    "name": "Steve Carell",
+    "role": "Michael Scott"
    },
    {
-    "name": "Jonah Hill",
-    "role": "Donnie Azoff"
+    "name": "Rainn Wilson",
+    "role": "Dwight Schrute"
    },
    {
-    "name": "Margot Robbie",
-    "role": "Naomi Lapaglia"
+    "name": "John Krasinski",
+    "role": "Jim Halpert"
    },
    {
-    "name": "Matthew McConaughey",
-    "role": "Mark Hanna"
+    "name": "Jenna Fischer",
+    "role": "Pam Beesly"
    },
    {
-    "name": "Kyle Chandler",
-    "role": "Agent Patrick Denham"
+    "name": "B. J. Novak",
+    "role": "Ryan Howard"
    },
    {
-    "name": "Rob Reiner",
-    "role": "Max Belfort"
+    "name": "Melora Hardin",
+    "role": "Jan Levinson"
    },
    {
-    "name": "Jon Favreau",
-    "role": "Manny Riskin"
-   },
-   {
-    "name": "Jean Dujardin",
-    "role": "Jean-Jacques Saurel"
+    "name": "David Denman",
+    "role": "Roy Anderson"
    }
   ],
-  "studio": "Red Granite Pictures / Sikelia Productions / Appian Way Productions",
-  "distributor": "Paramount Pictures",
-  "verdict": "MIXED",
-  "wokeScore": 6.4,
-  "tradScore": 7.0,
-  "scoreMargin": "+1 TRAD",
-  "authIndex": 70,
+  "studio": "Reveille Productions / Deedle-Dee Productions / NBC Universal",
+  "distributor": "NBC",
+  "verdict": "TRADITIONAL LEAN",
+  "wokeScore": 2.0,
+  "tradScore": 5.25,
+  "scoreMargin": "+3 TRAD",
+  "authIndex": 85,
   "preRelease": false,
   "wokeTrap": false,
   "date": "2026-08-16",
@@ -176699,107 +176704,307 @@
   "woke_trap_assessment": {
    "is_trap": false,
    "pct_runtime": 0,
-   "explanation": "The Wolf of Wall Street is not a woke trap. Whatever ideological register it carries is overt from the start, and in fact the film leans traditional through its FBI agent protagonist. A trap requires hidden progressive content that surfaces only late; nothing here is hidden."
+   "explanation": "The Office is not a woke trap in any sense. The show is a comedy that leans traditional, and whatever mild woke register it carries, chiefly through its bumbling boss, is present from the very first scene. Nothing is hidden and nothing surfaces late as a surprise."
   },
   "seo": {
-   "titleTag": "Is The Wolf of Wall Street (2013) Woke? Scorsese Film Reviewed | VirtueVigil",
-   "metaDescription": "VirtueVigil VVWS review of The Wolf of Wall Street (2013). Leonardo DiCaprio stars in Martin Scorsese's portrait of Wall Street fraud and excess. Verdict: MIXED (+1). Full trope audit and parental guidance included.",
+   "titleTag": "Is The Office (2005) Woke? Season 1 Reviewed | VirtueVigil",
+   "metaDescription": "VirtueVigil VVWS review of The Office Season 1 (2005). Steve Carell and John Krasinski star in NBC's beloved mockumentary. Verdict: TRADITIONAL LEAN (+3). Full trope audit and parental guidance included.",
    "keywords": [
-    "is the wolf of wall street woke",
-    "wolf of wall street 2013 review conservative",
-    "wolf of wall street woke review",
-    "wolf of wall street capitalism critique",
-    "martin scorsese wolf of wall street review",
-    "wolf of wall street parents guide",
-    "wolf of wall street virtuevigil",
-    "wolf of wall street moral message",
-    "is wolf of wall street anti capitalist",
-    "wolf of wall street leonardo dicaprio review"
+    "is the office woke",
+    "the office season 1 review conservative",
+    "the office woke review",
+    "is the office problematic",
+    "the office diversity day explained",
+    "the office parents guide",
+    "the office virtuevigil",
+    "the office traditional values",
+    "steve carell the office review",
+    "the office season 1 2005 review"
    ]
   },
   "summary": {
-   "overview": "The Wolf of Wall Street (2013), directed by Martin Scorsese, is a three-hour biographical dark comedy about the rise and fall of Jordan Belfort (Leonardo DiCaprio), whose Long Island brokerage Stratton Oakmont defrauded thousands of investors through pump-and-dump schemes in the 1990s. The film tracks Belfort's journey from naive rookie to coked-out fraud kingpin, his marriage to Naomi (Margot Robbie), and the patient FBI investigation led by Agent Patrick Denham (Kyle Chandler) that eventually brings him down.",
-   "overall": "The Wolf of Wall Street is the rare film that is simultaneously a savage indictment of Wall Street greed and a three-hour advertisement for it, and that tension is exactly why it remains so widely discussed. Scorsese films Belfort's excess with the enthusiasm of a man in love with his subject, which led many critics to argue the movie glorifies the very behavior it pretends to condemn. The truth is messier, and more honest, than either camp allows. The film's moral center is unambiguously the FBI agent Denham, played by Kyle Chandler with a quiet, almost monastic rectitude. Denham rides the subway while Belfort rides a helicopter. Denham reads the paper while Belfort snorts cocaine. Every time the film threatens to tip into pure celebration, it cuts back to Denham's patient, unglamorous work, and the message lands: the rule of law is real, and it wins. That is the traditional spine of the film, and it is why the film does not deserve a clean woke verdict. But the film's treatment of sex, drugs, and money is genuinely corrosive. The hedonism is shown less as a cautionary descent than as a lifestyle to be envied, and Belfort's post-prison reinvention as a grinning, unrepentant motivational speaker in the final frame undercuts whatever moral the conviction was supposed to supply. On balance the film is what its detractors on both sides say it is: a brutal portrait of capitalist excess that also gets high on its own supply. It is a mixed bag, and pretending otherwise does violence to a complicated, masterfully made movie. Rated R for pervasive language, graphic sexual content, and hard drug use, it is adults only, no exceptions.",
-   "bestFor": "Adults who appreciate virtuoso filmmaking and can sit with moral ambiguity without being told what to think.",
-   "skipIf": "You want a clean moral lesson, or graphic sexual content, drug use, and extreme profanity are dealbreakers. This film has hundreds of F-bombs and multiple explicit sequences.",
-   "wokeElements": "A central critique of Wall Street as a corrupt, predatory engine of greed, which lands as an anti-capitalist register. A pervasive hedonism that treats sex, drugs, and excess as aspirational rather than cautionary.",
-   "traditionalElements": "Agent Denham is the film's moral anchor, an honest lawman who works a thankless job and passes up luxury to do right. The conclusion delivers justice: Belfort is convicted, the victims are vindicated. The contrast between Denham's humble diligence and Belfort's corrupt wealth is the film's real argument."
+   "overview": "The Office Season 1 (2005) is the six-episode debut of the American adaptation of Ricky Gervais and Stephen Merchant's British mockumentary, developed for NBC by Greg Daniels. Set in the Scranton, Pennsylvania branch of the Dunder Mifflin Paper Company, the show follows regional manager Michael Scott (Steve Carell), a lonely man desperate to be liked who runs his office like a middle school talent show. Around him orbit salesman Jim Halpert (John Krasinski), his prank-prone desk-mate Dwight Schrute (Rainn Wilson), receptionist Pam Beesly (Jenna Fischer), and a bench of supporting characters who would become some of the most beloved in television history.",
+   "overall": "The Office is not woke, and it is worth saying that plainly because a decade of think-pieces have tried to argue otherwise. Season 1, in particular, contains the episode Diversity Day, which is frequently cited as proof that the show traffics in offensive humor. That reading gets the joke backwards. The episode is a sustained mockery of corporate diversity training itself, and every cringe-worthy thing Michael says is framed as Michael's failure, not the show's endorsement. The Office has never been a lecture. It is a mirror. What the show actually treasures is quietly traditional: the dignity of ordinary people doing an ordinary job, the patience of a man who loves a woman he cannot have because she is engaged, and the small-town texture of a place like Scranton, where a paper company still matters. Jim and Pam's relationship is the beating heart of the series, and in Season 1 it is defined by restraint. Pam is engaged to Roy, and Jim, for all his pranks, never once crosses that line. The show treats the engagement as a real, binding thing, not a speed bump. That is a genuinely traditional instinct, and it is everywhere in the show if you stop looking for slogans. Michael Scott himself is the closest thing to a woke trope, a bumbling authority figure who cannot lead, but the show refuses to reduce him to a strawman. He is lonely, and the show feels for him. Season 1 is rougher and more cringe-heavy than what followed, and its comedy has aged imperfectly, but its values are sound. Rated TV-14 for mild language and adult references, it is fine for older teens and a masterclass in comedy built on character rather than ideology.",
+   "bestFor": "Comedy fans, anyone who wants a show that laughs at office life without preaching, families with older teens looking for something everyone can watch.",
+   "skipIf": "You want a plot-driven show with high stakes, or the cringe-comedy format makes you uncomfortable. The awkwardness is the point.",
+   "wokeElements": "Michael Scott is a bumbling authority figure who cannot competently lead, the closest the show comes to a woke register. Some jokes from 2005, including in Diversity Day, have aged poorly, though the show's framing mocks Michael rather than endorsing him.",
+   "traditionalElements": "The dignity of ordinary work and ordinary workers. Jim's patient, respectful love for an engaged Pam, who treats her commitment to Roy as binding. The small-town integrity of Scranton and the Dunder Mifflin branch as a genuine community.",
+   "parentalGuidance": "Mild language and sexual references throughout, largely delivered as awkward comedy. Some dated jokes around race and identity in the Diversity Day episode, framed as the boss's ignorance. No nudity, no violence, no drug use.",
+   "adultInsight": "The Office Season 1 is a useful case study in how comedy ages. The Diversity Day episode is endlessly cited as proof the show is offensive, but the joke is on corporate diversity training and on Michael Scott himself, never on the minorities depicted. The show's durable core is unexpectedly conservative: it respects the permanence of a marriage engagement, finds dignity in ordinary work, and treats the Scranton branch as a real community rather than a collection of quirky punchlines. What is old-fashioned about Season 1 is precisely what holds up. Parents should know the cringe comedy is the point, and kids who do not yet grasp satire will misread Michael's worst lines as the show's own voice."
+  },
+  "parentalGuidance": {
+   "rating": "TV-14",
+   "contentWarnings": "Mild language and sexual references throughout, largely delivered as awkward comedy. Some dated jokes around race and identity in the Diversity Day episode, framed as the boss's ignorance. No nudity, no violence, no drug use.",
+   "ageRecommendation": "13+. Older teens will get the satire. Younger viewers may miss the joke and absorb the wrong lesson from Michael's behavior.",
+   "discussionTopics": [
+    "What does Diversity Day actually satirize",
+    "Why does Jim respect Pam's engagement instead of acting on his feelings",
+    "What makes Michael Scott sympathetic despite his incompetence",
+    "Why does the ordinary setting of Scranton matter to the show's heart"
+   ]
+  },
+  "externalScores": {
+   "imdb": "8.9/10",
+   "rottenTomatoes": "81%",
+   "metacritic": "61/100"
+  },
+  "creative_team": {
+   "director": {
+    "name": "Greg Daniels",
+    "role": "Developer / Showrunner",
+    "note": "Developed the American adaptation of the British series and ran it through its peak years. His touch defines the show's warmth toward its characters."
+   },
+   "writer": {
+    "name": "Greg Daniels / Ricky Gervais / Stephen Merchant / Michael Schur / Mindy Kaling / B. J. Novak",
+    "role": "Writers"
+   },
+   "lead_producer": {
+    "name": "Greg Daniels",
+    "role": "Executive Producer"
+   },
+   "composer": {
+    "name": "Jay Ferguson",
+    "role": "Theme Composer"
+   }
+  },
+  "tropeAudit": [
+   {
+    "id": "WOKE-002",
+    "name": "The Bumbling Patriarch",
+    "category": "Woke",
+    "severity": 2,
+    "authenticity": 1.0,
+    "centrality": 1.0,
+    "weightedScore": 2.0,
+    "description": "Michael Scott is an inept authority figure who cannot competently lead his office. He is the closest thing to a woke register in the show, though the program undercuts the trope by making him sympathetic rather than a strawman to be mocked and discarded."
+   },
+   {
+    "id": "TRAD-044",
+    "name": "The Honest Worker",
+    "category": "Traditional",
+    "severity": 3,
+    "authenticity": 0.7,
+    "centrality": 1.0,
+    "weightedScore": 2.1,
+    "description": "The show treats the mundane work of a paper company with genuine warmth. The employees are ordinary people doing an ordinary job, and the program finds dignity in that rather than mocking it. This is an organic quality of the source material."
+   },
+   {
+    "id": "TRAD-037",
+    "name": "Small-Town Integrity",
+    "category": "Traditional",
+    "severity": 3,
+    "authenticity": 0.7,
+    "centrality": 0.5,
+    "weightedScore": 1.05,
+    "description": "Scranton, Pennsylvania is the show's anchor, and the branch office functions as a real community where people know each other and look out for one another. The small-town setting carries a quiet traditional resonance."
+   },
+   {
+    "id": "TRAD-034",
+    "name": "Sanctity of Commitment",
+    "category": "Traditional",
+    "severity": 3,
+    "authenticity": 0.7,
+    "centrality": 1.0,
+    "weightedScore": 2.1,
+    "description": "Pam's engagement to Roy is treated as a real, binding commitment, and Jim respects that boundary throughout Season 1 rather than acting on his feelings. The show honors the seriousness of a pledge rather than treating it as an obstacle to be dismissed."
+   }
+  ]
+ },
+ {
+  "id": "unforgiven-1992",
+  "slug": "unforgiven-1992",
+  "title": "Unforgiven",
+  "year": 1992,
+  "type": "film",
+  "platform": "Max / Rent or Buy",
+  "genre": "Western / Revisionist Western / Drama",
+  "readTime": "9 min",
+  "poster": "/images/posters/unforgiven-1992.jpg",
+  "releaseDate": "1992-08-07",
+  "rating": "R (Strong Language, Violence, Sexual Content)",
+  "runtime": "131 min",
+  "director": "Clint Eastwood",
+  "writers": [
+   "David Webb Peoples"
+  ],
+  "cast": [
+   {
+    "name": "Clint Eastwood",
+    "role": "William Munny"
+   },
+   {
+    "name": "Gene Hackman",
+    "role": "Little Bill Daggett"
+   },
+   {
+    "name": "Morgan Freeman",
+    "role": "Ned Logan"
+   },
+   {
+    "name": "Richard Harris",
+    "role": "English Bob"
+   },
+   {
+    "name": "Jaimz Woolvett",
+    "role": "The Schofield Kid"
+   },
+   {
+    "name": "Saul Rubinek",
+    "role": "W. W. Beauchamp"
+   },
+   {
+    "name": "Frances Fisher",
+    "role": "Strawberry Alice"
+   }
+  ],
+  "studio": "Malpaso Productions",
+  "distributor": "Warner Bros.",
+  "verdict": "TRADITIONAL",
+  "wokeScore": 3.1,
+  "tradScore": 17.1,
+  "scoreMargin": "+14 TRAD",
+  "authIndex": 78,
+  "preRelease": false,
+  "wokeTrap": false,
+  "date": "2026-08-16",
+  "datePublished": "2026-08-16",
+  "author": "VirtueVigil Editorial Team",
+  "woke_trap_assessment": {
+   "is_trap": false,
+   "pct_runtime": 0,
+   "explanation": "Unforgiven is not a woke trap. Its moral seriousness, its treatment of violence as having real and terrible cost, and its defense of the innocent are present from the opening frame and never hidden. Nothing ideological surfaces late as a surprise."
+  },
+  "seo": {
+   "titleTag": "Is Unforgiven (1992) Woke? Clint Eastwood Western Reviewed | VirtueVigil",
+   "metaDescription": "VirtueVigil VVWS review of Unforgiven (1992). Clint Eastwood's Oscar-winning Western deconstructs the gunslinger myth while affirming justice and the cost of violence. Verdict: TRADITIONAL (+14). Full trope audit and parental guidance included.",
+   "keywords": [
+    "is unforgiven woke",
+    "unforgiven 1992 review conservative",
+    "unforgiven clint eastwood woke review",
+    "unforgiven western review virtuevigil",
+    "unforgiven parents guide",
+    "unforgiven moral message",
+    "unforgiven 1992 traditional values",
+    "clint eastwood unforgiven review",
+    "unforgiven best picture review",
+    "unforgiven violence cost of redemption"
+   ]
+  },
+  "summary": {
+   "overview": "Unforgiven (1992), directed by and starring Clint Eastwood, is the definitive revisionist Western and winner of four Academy Awards including Best Picture and Best Director. William Munny (Eastwood), a once-notorious outlaw reformed by his late wife into a struggling Kansas pig farmer, is lured back for one last job: to kill the two cowboys who slashed a prostitute's face in the town of Big Whiskey, Wyoming. Accompanied by his old partner Ned Logan (Morgan Freeman) and a boastful young gunslinger called the Schofield Kid (Jaimz Woolvett), Munny rides against the brutal sheriff Little Bill Daggett (Gene Hackman), who has banned guns from his town and enforces that law with a whip and a jail cell.",
+   "overall": "Unforgiven is often called the anti-Western, and that label is half right. It dismantles the romantic myth of the gunslinger, but it does not dismantle morality. The film is built on a deeply traditional spine: violence has a terrible cost, the innocent deserve defense, and a man's word, and his late wife's memory, are worth more than gold. William Munny is not a hero out of dime novels. He is a killer who was saved from himself by a good woman, and when he returns to violence it is not for glory but for money to feed his children, and the film never lets the audience forget what that violence costs him. The deconstruction is real, but it is conservative, not progressive: the myth being torn down is the glorification of killing, which is the opposite of a woke project. The film's most shocking revelation is that the Schofield Kid, who talked a big game, has never actually killed a man, and when he finally does, he is sickened by it. Little Bill Daggett is a corrupt authority figure, but he is not a satire of law enforcement as such; he is a specific man who uses the law to protect his own cruelty. The film's ending, where Munny walks into a saloon and delivers a cold reckoning, is one of the great moral climaxes in American cinema precisely because it feels earned and heavy, not triumphant. Rated R for strong language, violence, and sexual content, it is a film for adults who want moral weight, not spectacle.",
+   "bestFor": "Adults who want a Western that takes violence and consequence seriously, fans of Clint Eastwood, and anyone who appreciates a story about the cost of redemption.",
+   "skipIf": "You want a light, heroic Western, or you are sensitive to violence and mature themes. The film's violence is brief but brutal, and its subject matter is adult.",
+   "wokeElements": "Little Bill Daggett is a corrupt and sadistic authority figure who abuses his power as sheriff, a mild institutional-evil register. The film deconstructs the gunslinger hero, though this lands as moral realism rather than ideological critique.",
+   "traditionalElements": "William Munny's redemption through his late wife's influence, and his devotion to her memory. The defense of the wronged prostitutes as a matter of justice. The heavy, unglamorous cost of violence. The ending's cold but earned restoration of justice.",
+   "parentalGuidance": "Rated R for strong language, violence, and sexual content. Violence is brief but graphic and treated with brutal realism, including a whipping, a point-blank shooting, and a climactic gunfight. Sexual content is implied and referenced (the inciting incident is the slashing of a prostitute's face) but not graphically depicted. A character is beaten by a sheriff's deputies.",
+   "adultInsight": "Unforgiven is routinely misread as a progressive deconstruction of the Western, but its moral architecture is firmly traditional. What the film tears down is not virtue but the glamorization of violence. William Munny was saved by a good woman and redeemed into honest labor, and his return to killing is framed as a grim, costly necessity to defend the defenseless, never as glory. The Schofield Kid, who spent the film bragging about killing, is shattered by his first real murder, and the film treats that shattering as the sane response. Little Bill Daggett is a corrupt sheriff, but he is one corrupt man, not an indictment of law or order; the film still ends with a reckoning that affirms justice. This is the rare Western that takes both violence and morality seriously, and it is precisely its seriousness that makes it feel old-fashioned in the best sense."
   },
   "parentalGuidance": {
    "rating": "R",
-   "contentWarnings": "Pervasive strong language with hundreds of F-bombs. Graphic sexual content including full nudity and explicit scenes. Hard drug use depicted extensively and at times glamorously, including cocaine and quaaludes. A scene of a drug-addled Belfort unable to function is played for dark laughs. A physical altercation between Belfort and his wife.",
-   "ageRecommendation": "18+ only. Not appropriate for viewers under 17 under any circumstance.",
+   "contentWarnings": "Strong language throughout. Violence is brief but graphic and treated with brutal realism, including a whipping, a point-blank shooting, and a climactic gunfight. Sexual content is implied and referenced (the inciting incident is the slashing of a prostitute's face) but not graphically depicted. A character is beaten by a sheriff's deputies.",
+   "ageRecommendation": "17+. The moral weight of the film is lost on younger viewers, and the violence, while not gratuitous, is intense.",
    "discussionTopics": [
-    "Does the film condemn or celebrate Belfort's excess",
-    "What makes Agent Denham the moral center of the story",
-    "Why did so many people come away wanting to be Jordan Belfort",
-    "What does the ending say about whether crime pays"
+    "What reformed William Munny, and what does that say about the cost of violence",
+    "Is Munny a hero or a villain, or neither",
+    "How does the Schofield Kid's reaction to his first kill reframe the gunslinger myth",
+    "What does Little Bill's cruelty reveal about power without accountability"
    ]
   },
   "externalScores": {
    "imdb": "8.2/10",
-   "rottenTomatoes": "79%",
-   "metacritic": "75/100"
+   "rottenTomatoes": "96%",
+   "metacritic": "85/100"
   },
   "creative_team": {
    "director": {
-    "name": "Martin Scorsese",
+    "name": "Clint Eastwood",
     "role": "Director",
-    "note": "One of the defining American filmmakers, and this is his highest-grossing film. His collaboration with DiCaprio is among the most productive in modern cinema."
+    "note": "Eastwood dedicated the film to his mentors Don Siegel and Sergio Leone, the two directors who taught him the language of cinema. This is his meditation on the genre that made his name."
    },
    "writer": {
-    "name": "Terence Winter",
+    "name": "David Webb Peoples",
     "role": "Screenwriter"
    },
    "lead_producer": {
-    "name": "Martin Scorsese / Leonardo DiCaprio",
-    "role": "Producers"
+    "name": "Clint Eastwood",
+    "role": "Producer"
    },
    "composer": {
-    "name": "Howard Shore",
+    "name": "Lennie Niehaus",
     "role": "Composer"
    }
   },
   "tropeAudit": [
    {
-    "id": "WOKE-014",
-    "name": "The Evil Capitalist",
+    "id": "WOKE-004",
+    "name": "Institutional Evil",
     "category": "Woke",
     "severity": 3,
-    "authenticity": 1.0,
-    "centrality": 1.8,
-    "weightedScore": 5.4,
-    "description": "The film's entire engine is the corruption of Wall Street. Belfort and his firm are portrayed as predatory grifters who enrich themselves by defrauding ordinary investors. This is a sustained anti-capitalist register, though it is grounded in a true story, so its authenticity is moderate rather than invented."
+    "authenticity": 0.7,
+    "centrality": 1.0,
+    "weightedScore": 2.1,
+    "description": "Little Bill Daggett is the sheriff of Big Whiskey and the film's antagonist, a man who uses the law to protect his own cruelty, beating and intimidating anyone who challenges him. His corruption is a mild institutional-evil register, though he is a specific man rather than a blanket indictment of law enforcement."
    },
    {
-    "id": "WOKE-022",
-    "name": "Unrestrained Hedonism",
+    "id": "WOKE-011",
+    "name": "Deconstruction of the Violent Hero",
     "category": "Woke",
     "severity": 2,
     "authenticity": 1.0,
     "centrality": 0.5,
     "weightedScore": 1.0,
-    "description": "Sex, drugs, and excess are depicted as the texture of Belfort's world. Scorsese's camera lingers on the indulgence with relish, and the lifestyle is framed as enviable as often as it is condemned."
+    "description": "The film systematically undercuts the romantic myth of the gunslinger, revealing that famous killers are mostly drunks, cowards, and liars. This deconstruction lands as moral realism about the ugliness of violence rather than an ideological attack on masculinity."
    },
    {
-    "id": "TRAD-035",
-    "name": "The Just Lawman",
+    "id": "TRAD-027",
+    "name": "The Redemptive Arcs (Personal)",
     "category": "Traditional",
     "severity": 4,
-    "authenticity": 1.0,
+    "authenticity": 0.7,
+    "centrality": 1.8,
+    "weightedScore": 5.04,
+    "description": "William Munny was a violent outlaw reformed by his late wife Claudia, whose influence turned him to a hard but honest life. His entire arc is a struggle between the man she made him and the killer he once was, and the film treats her memory as sacred."
+   },
+   {
+    "id": "TRAD-045",
+    "name": "Defense of the Innocent",
+    "category": "Traditional",
+    "severity": 4,
+    "authenticity": 0.7,
+    "centrality": 1.8,
+    "weightedScore": 5.04,
+    "description": "The job that pulls Munny back is to deliver justice for the prostitutes who were wronged, women with no power to defend themselves. The film frames their defense as a genuine moral imperative, even as it complicates the means."
+   },
+   {
+    "id": "TRAD-034",
+    "name": "Sanctity of Marriage",
+    "category": "Traditional",
+    "severity": 3,
+    "authenticity": 0.7,
     "centrality": 1.0,
-    "weightedScore": 4.0,
-    "description": "FBI Agent Patrick Denham is the film's moral center. He is patient, honest, and incorruptible, working a modest job and riding the subway while Belfort lives in excess. He is the embodiment of the rule of law as a quiet, unglamorous good."
+    "weightedScore": 2.1,
+    "description": "Munny's devotion to his dead wife is the emotional core of the film. She is the reason he left violence behind, and her memory is the anchor he clings to as he is drawn back into the old life."
    },
    {
     "id": "TRAD-047",
     "name": "Justice Restored",
     "category": "Traditional",
-    "severity": 3,
-    "authenticity": 1.0,
+    "severity": 4,
+    "authenticity": 0.7,
     "centrality": 1.0,
-    "weightedScore": 3.0,
-    "description": "The film's conclusion delivers consequences: Belfort is convicted and imprisoned, and the fraud he perpetrated is punished. The narrative affirms that crime carries a cost, even if the final frame complicates that message."
+    "weightedScore": 2.8,
+    "description": "The film's climax delivers a cold, heavy reckoning: the guilty are punished and the innocent are avenged, but the film refuses to make the vengeance feel triumphant, treating it as a grim necessity rather than a celebration."
+   },
+   {
+    "id": "TRAD-039",
+    "name": "Objective Good vs. Evil",
+    "category": "Traditional",
+    "severity": 3,
+    "authenticity": 0.7,
+    "centrality": 1.0,
+    "weightedScore": 2.1,
+    "description": "Despite its moral complexity, Unforgiven maintains a clear moral binary: the men who cut up an innocent woman and the sheriff who shields them are evil, and Munny's vengeance, however ugly, is on the side of right."
    }
   ]
  }

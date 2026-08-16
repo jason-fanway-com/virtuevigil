@@ -12,6 +12,30 @@
     "poster": "/images/posters/six-the-musical-live-2026.jpg"
   },
   {
+    "slug": "the-office-s1-2005",
+    "title": "The Office (Season 1)",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "NBC / Peacock",
+    "genre": "Workplace Comedy / Mockumentary",
+    "year": 2005,
+    "type": "series",
+    "wokeScore": 2,
+    "tradScore": 5.25,
+    "poster": "/images/posters/the-office-s1-2005.jpg"
+  },
+  {
+    "slug": "unforgiven-1992",
+    "title": "Unforgiven",
+    "verdict": "TRADITIONAL",
+    "platform": "Max / Rent or Buy",
+    "genre": "Western / Revisionist Western / Drama",
+    "year": 1992,
+    "type": "film",
+    "wokeScore": 3.1,
+    "tradScore": 17.1,
+    "poster": "/images/posters/unforgiven-1992.jpg"
+  },
+  {
     "slug": "the-brink-of-war-2026",
     "title": "The Brink of War",
     "verdict": "TRADITIONAL",
