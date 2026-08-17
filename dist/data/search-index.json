@@ -1,5 +1,41 @@
 [
   {
+    "slug": "groundhog-day-1993",
+    "title": "Groundhog Day",
+    "verdict": "TRADITIONAL",
+    "platform": "Rent or Buy",
+    "genre": "Comedy / Fantasy / Romantic Comedy",
+    "year": 1993,
+    "type": "film",
+    "wokeScore": 1.7,
+    "tradScore": 20.6,
+    "poster": "/images/posters/groundhog-day-1993.jpg"
+  },
+  {
+    "slug": "monsters-inc-2001",
+    "title": "Monsters, Inc.",
+    "verdict": "TRADITIONAL",
+    "platform": "Disney+ / Rent or Buy",
+    "genre": "Animation / Family / Comedy",
+    "year": 2001,
+    "type": "film",
+    "wokeScore": 3.1,
+    "tradScore": 17.6,
+    "poster": "/images/posters/monsters-inc-2001.jpg"
+  },
+  {
+    "slug": "the-rivals-of-amziah-king-2026",
+    "title": "The Rivals of Amziah King",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Limited, widening Aug 21)",
+    "genre": "Neo-Western / Crime Thriller / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2.4,
+    "tradScore": 9.2,
+    "poster": "/images/posters/the-rivals-of-amziah-king-2026.jpg"
+  },
+  {
     "slug": "six-the-musical-live-2026",
     "title": "Six The Musical Live!",
     "verdict": "STRONGLY WOKE",
