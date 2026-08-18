@@ -1,5 +1,41 @@
 [
   {
+    "slug": "your-letter-2024",
+    "title": "Your Letter",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical (Crunchyroll, North America)",
+    "genre": "Animated Drama / Coming-of-Age",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 0.4,
+    "tradScore": 9.2,
+    "poster": "/images/posters/your-letter-2024.jpg"
+  },
+  {
+    "slug": "the-matrix-reloaded-2003",
+    "title": "The Matrix Reloaded",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Max / Digital Rental",
+    "genre": "Sci-Fi Action",
+    "year": 2003,
+    "type": "film",
+    "wokeScore": 5.4,
+    "tradScore": 13.4,
+    "poster": "/images/posters/the-matrix-reloaded-2003.jpg"
+  },
+  {
+    "slug": "the-handmaids-tale-2017",
+    "title": "The Handmaid's Tale",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Hulu",
+    "genre": "Dystopian Drama",
+    "year": 2017,
+    "type": "series",
+    "wokeScore": 30.2,
+    "tradScore": 4,
+    "poster": "/images/posters/the-handmaids-tale-2017.jpg"
+  },
+  {
     "slug": "groundhog-day-1993",
     "title": "Groundhog Day",
     "verdict": "TRADITIONAL",
