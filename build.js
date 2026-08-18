@@ -300,11 +300,11 @@ for (const review of reviews) {
     continue;
   }
 
-  // ── 4. File is the placeholder (hash match): WARN, don't abort ──
+  // ── 4. File is the placeholder (hash match): FATAL. Never ship a blank poster. ──
   if (PLACEHOLDER_HASH) {
     const fileHash = crypto.createHash('md5').update(fs.readFileSync(fpath)).digest('hex');
     if (fileHash === PLACEHOLDER_HASH) {
-      posterWarnings.push(`⚠️  Still placeholder: ${fname} (${review.slug}). Run: python3 scripts/poster-pipeline.py --replace-placeholders`);
+      posterFatalErrors.push(`BUILD ABORT: ${fname} (${review.slug}) is still the placeholder. Run: python3 scripts/poster-pipeline.py --slug ${review.slug}`);
       continue;
     }
   }
