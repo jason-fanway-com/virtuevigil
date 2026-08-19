@@ -2,6 +2,11 @@
   command = "node build.js"
   publish = "dist"
 
+[functions]
+  node_bundler = "none"
+  directory = "netlify/functions"
+  included_files = ["netlify/functions/subscribe.js"]
+
 # Clean URLs: /reviews/nightbitch/ serves reviews/nightbitch/index.html
 [[redirects]]
   from = "/reviews/:slug"
@@ -42,6 +47,12 @@
 
 
 # TikTok OAuth callback redirect
+[[redirects]]
+  from = "/api/subscribe"
+  to = "/.netlify/functions/subscribe"
+  status = 200
+  force = true
+
 [[redirects]]
   from = "/tiktok/callback"
   to = "/.netlify/functions/tiktok-oauth"

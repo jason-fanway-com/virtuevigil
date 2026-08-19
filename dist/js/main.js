@@ -56,20 +56,53 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // --- Newsletter form (placeholder) ---
-  document.querySelectorAll('.sidebar-newsletter form, .footer-newsletter form').forEach(form => {
-    form.addEventListener('submit', (e) => {
+  // --- Newsletter form ---
+  document.querySelectorAll('.email-sub-form').forEach(form => {
+    form.addEventListener('submit', async (e) => {
       e.preventDefault();
       const input = form.querySelector('input[type="email"]');
       const btn = form.querySelector('button');
-      if (input && input.value) {
-        btn.textContent = 'Subscribed!';
-        btn.style.background = '#4caf50';
-        input.value = '';
-        setTimeout(() => {
+      const msg = form.querySelector('.sub-message');
+      if (!input || !input.value) return;
+
+      const email = input.value.trim();
+      btn.disabled = true;
+      btn.textContent = 'Subscribing...';
+      if (msg) { msg.style.display = 'none'; }
+
+      try {
+        const res = await fetch('/api/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email }),
+        });
+        const data = await res.json();
+        if (data.success) {
+          btn.textContent = 'Subscribed!';
+          btn.style.background = '#4caf50';
+          input.value = '';
+          if (msg) {
+            msg.textContent = data.message || 'You\'re in! Check your inbox.';
+            msg.className = 'sub-message success';
+            msg.style.display = '';
+          }
+        } else {
           btn.textContent = 'Subscribe';
-          btn.style.background = '';
-        }, 3000);
+          btn.disabled = false;
+          if (msg) {
+            msg.textContent = data.error || 'Something went wrong.';
+            msg.className = 'sub-message error';
+            msg.style.display = '';
+          }
+        }
+      } catch {
+        btn.textContent = 'Subscribe';
+        btn.disabled = false;
+        if (msg) {
+          msg.textContent = 'Network error. Please try again.';
+          msg.className = 'sub-message error';
+          msg.style.display = '';
+        }
       }
     });
   });

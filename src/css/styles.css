@@ -380,6 +380,12 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
   transition: background 0.2s;
 }
 .sidebar-newsletter button:hover { background: var(--gold-light); }
+.sidebar-newsletter .email-sub-form {}
+.sidebar-newsletter .email-sub-form input[type="email"] {}
+.sidebar-newsletter .email-sub-form button {}
+.sidebar-newsletter .sub-message { font-size: 0.78rem; margin-top: 8px; }
+.sidebar-newsletter .sub-message.success { color: #4caf50; }
+.sidebar-newsletter .sub-message.error { color: #e57373; }
 
 /* --- Main Content --- */
 .main-content { flex: 1; min-width: 0; }
@@ -725,7 +731,13 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
   font-weight: 600;
 }
 
-/* --- Footer --- */
+.footer-sub-form { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; max-width: 320px; }
+.footer-sub-form input[type="email"]::placeholder { color: var(--text-muted); }
+.footer-sub-form .sub-message { flex: 0 0 100%; font-size: 0.75rem; }
+.footer-sub-form .sub-message.success { color: #4caf50; }
+.footer-sub-form .sub-message.error { color: #e57373; }
+
+/* Footer */
 .site-footer {
   background: var(--bg-secondary);
   border-top: 1px solid var(--border);
