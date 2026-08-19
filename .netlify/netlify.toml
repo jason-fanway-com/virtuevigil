@@ -1,5 +1,5 @@
 functionsDirectory = "/Users/joestrazza/virtuevigil/netlify/functions"
-functionsDirectoryOrigin = "default"
+functionsDirectoryOrigin = "config"
 headersOrigin = "config"
 redirectsOrigin = "config"
 plugins = []
@@ -28,6 +28,8 @@ functions = "/Users/joestrazza/virtuevigil/netlify/functions"
 [functions]
 
 [functions."*"]
+included_files = ["netlify/functions/subscribe.js"]
+node_bundler = "none"
 
 [[headers]]
 for = "/css/*"
@@ -62,6 +64,1500 @@ for = "/gracie/*"
 X-Robots-Tag = "noindex, nofollow"
 
 [[redirects]]
+from = "/category/superhero-/-action-/-sci-fi/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/crime-drama-/-fish-out-of-water-comedy/"
+to = "/category/crime/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/sci-fi/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/sports-drama/action/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/biography/musical/drama/"
+to = "/category/musical/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/horror-parody/comedy/"
+to = "/category/comedy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/musical/comedy/"
+to = "/category/musical/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/superhero/action/adventure/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/sci-fi/action/adventure/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/adventure/fantasy/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/superhero-/-crime-thriller/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/family-drama/"
+to = "/category/drama/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/superhero-/-action/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/thriller/sci-fi/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/horror/post-apocalyptic/"
+to = "/category/horror/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/sci-fi/action/comedy/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/horror/thriller/"
+to = "/category/horror/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/horror/thriller/supernatural/"
+to = "/category/horror/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/adventure/horror/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/historical/epic/drama/"
+to = "/category/drama/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/political-thriller/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/crime-/-drama/"
+to = "/category/crime/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/crime/thriller/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/western-/-action/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/animation/action/adventure/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/gothic-romance-/-horror/"
+to = "/category/horror/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/drama-/-dark-comedy/"
+to = "/category/drama/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/romantic-comedy/"
+to = "/category/comedy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/crime-/-thriller/"
+to = "/category/thriller/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/political-thriller-/-historical-drama/"
+to = "/category/thriller/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/adventure/sci-fi/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/romance/comedy/drama/"
+to = "/category/romance/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/documentary/comedy/"
+to = "/category/comedy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/animation/fantasy/action/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/romance/drama/"
+to = "/category/romance/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/animation/adventure/comedy/"
+to = "/category/animation/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/horror/drama/"
+to = "/category/horror/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/crime/drama/thriller/"
+to = "/category/thriller/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/superhero/crime/neo-noir/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/sci-fi/adventure/drama/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/erotic-thriller/drama/"
+to = "/category/drama/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/documentary-/-concert-film/"
+to = "/category/documentary/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/drama/biopic/"
+to = "/category/drama/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/thriller-/-drama/"
+to = "/category/thriller/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/superhero/action/science-fiction/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/dark-fantasy-/-comedy-horror/"
+to = "/category/horror/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/sci-fi/action/thriller/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/black-comedy/sci-fi-thriller/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/animation/action/fantasy/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/animation/comedy/drama/"
+to = "/category/animation/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/sci-fi/drama/black-comedy/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action-/-martial-arts-/-revenge/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/superhero/action/comedy/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/disaster/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/thriller/spy/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/animation/sci-fi/adventure/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/musical/biography/drama/"
+to = "/category/musical/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action,-superhero/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/musical/drama/adventure/"
+to = "/category/musical/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/sci-fi/monster/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/horror-/-mystery-/-supernatural/"
+to = "/category/horror/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/sci-fi-romantic-action-horror/"
+to = "/category/sci-fi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/drama/romance/"
+to = "/category/romance/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/animated-musical-urban-fantasy/"
+to = "/category/musical/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/drama/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/action/sci-fi/superhero/"
+to = "/category/superhero/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/comedy/fantasy/"
+to = "/category/fantasy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/fantasy-/-epic-drama/"
+to = "/category/fantasy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/biography,-drama,-music/"
+to = "/category/drama/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/thriller/horror/"
+to = "/category/horror/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/biographical-sports-drama/"
+to = "/category/drama/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/fantasy/action/drama/"
+to = "/category/action/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/normal-2025/"
+to = "/reviews/normal-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/the-godfather-part-ii-1974/"
+to = "/reviews/the-godfather-part-2-1974/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/devil-wears-prada-2-2026/"
+to = "/reviews/the-devil-wears-prada-2-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/they-will-kill-you/"
+to = "/reviews/they-will-kill-you-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/gladiator-2-2024/"
+to = "/reviews/gladiator-ii-2024/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/yellowstone-2018/"
+to = "/reviews/yellowstone-season-1-2018/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/you-me-tuscany-2026/"
+to = "/reviews/you-me-and-tuscany-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/ready-or-not-2-2026/"
+to = "/reviews/ready-or-not-2-here-i-come-2026/301"
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/mission-impossible-the-final-reckoning-2025/"
+to = "/reviews/mission-impossible-final-reckoning-2025/301"
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/mission-impossible-final-2025/"
+to = "/reviews/mission-impossible-final-reckoning-2025/301"
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/the-avengers-2012/"
+to = "/reviews/avengers-2012/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/sonic-3-2024/"
+to = "/reviews/sonic-the-hedgehog-3-2024/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/mufasa-lion-king-2024/"
+to = "/reviews/mufasa-2024/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/white-lotus-s3-2025/"
+to = "/reviews/the-white-lotus-season-3-2025/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/a-minecraft-movie/"
+to = "/reviews/a-minecraft-movie-2025/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/shawshank-redemption-1994/"
+to = "/reviews/the-shawshank-redemption-1994/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/thunderbolts/"
+to = "/reviews/thunderbolts-2025/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/blue-moon/"
+to = "/reviews/blue-moon-2025/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/the-night-agent-s3/"
+to = "/reviews/night-agent-s3-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/godzilla-x-kong-new-empire-2024/"
+to = "/reviews/godzilla-x-kong-the-new-empire-2024/301"
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/captain-america-brave-new-world/"
+to = "/reviews/captain-america-brave-new-world-2025/301"
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/solo-mio/"
+to = "/reviews/solo-mio-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/scream-7/"
+to = "/reviews/scream-7-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/good-luck-have-fun-dont-die/"
+to = "/reviews/good-luck-have-fun-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/death-of-robin-hood-2026/"
+to = "/reviews/the-death-of-robin-hood-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/lord-of-the-rings-fellowship-2001/"
+to = "/reviews/the-lord-of-the-rings-the-fellowship-of-the-ring-2001/301"
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/silence-of-the-lambs-1991/"
+to = "/reviews/the-silence-of-the-lambs-1991/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/the-fantastic-four-first-steps-2026/"
+to = "/reviews/fantastic-four-2025/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/fantastic-four-first-steps-2025/"
+to = "/reviews/fantastic-four-2025/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/daredevil-born-again-s1-2025/"
+to = "/reviews/daredevil-born-again-2025/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/king-of-kings-2025/"
+to = "/reviews/the-king-of-kings-2025/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/spider-man-across-the-spider-verse/"
+to = "/reviews/spider-man-across-the-spider-verse-2023/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/spider-man-no-way-home/"
+to = "/reviews/spider-man-no-way-home-2021/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/avengers-infinity-war/"
+to = "/reviews/avengers-infinity-war-2018/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/ant-man-and-the-wasp-quantumania/"
+to = "/reviews/ant-man-and-the-wasp-quantumania-2023/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/guardians-of-the-galaxy-vol-3/"
+to = "/reviews/guardians-of-the-galaxy-vol-3-2023/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/captain-marvel/"
+to = "/reviews/captain-marvel-2019/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/avengers-endgame/"
+to = "/reviews/avengers-endgame-2019/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/black-widow/"
+to = "/reviews/black-widow-2021/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/eternals/"
+to = "/reviews/eternals-2021/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/thor-love-and-thunder/"
+to = "/reviews/thor-love-and-thunder-2022/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/doctor-strange-multiverse-of-madness/"
+to = "/reviews/doctor-strange-multiverse-of-madness-2022/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/black-panther/"
+to = "/reviews/black-panther-2018/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/shang-chi/"
+to = "/reviews/shang-chi-2021/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/thor-ragnarok/"
+to = "/reviews/thor-ragnarok-2017/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/iron-man/"
+to = "/reviews/iron-man-2008/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/black-panther-wakanda-forever/"
+to = "/reviews/black-panther-wakanda-forever-2022/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/guardians-of-the-galaxy/"
+to = "/reviews/guardians-of-the-galaxy-2014/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/doctor-strange/"
+to = "/reviews/doctor-strange-2016/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/the-marvels/"
+to = "/reviews/the-marvels-2023/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/captain-america-civil-war/"
+to = "/reviews/captain-america-civil-war-2016/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/reviews/reminders-of-him/"
+to = "/reviews/reminders-of-him-2026/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/lists/animated-family-movies-2026-woke-ranking/"
+to = "/lists/animated-family-movies-2025-woke-ranking/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
 from = "/reviews/:slug"
 to = "/reviews/:slug/index.html"
 status = 200.0
@@ -78,6 +1574,18 @@ from = "/category/:slug"
 to = "/category/:slug/index.html"
 status = 200.0
 force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/api/subscribe"
+to = "/.netlify/functions/subscribe"
+status = 200.0
+force = true
 
 [redirects.query]
 
