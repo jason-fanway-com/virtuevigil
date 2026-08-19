@@ -1,7 +1,7 @@
 const https = require('https');
 
 // Will be set via Netlify environment variable
-const SUPABASE_URL = 'https://fdxvflryvctvstxdbdtm.supabase.co';
+const SUPABASE_URL = process.env.VV_SUPABASE_URL || 'https://exqqyryeaktochnfxgyh.supabase.co';
 const SUPABASE_KEY = process.env.VV_SUPABASE_SERVICE_ROLE_KEY || '';
 
 const CORS_HEADERS = {
