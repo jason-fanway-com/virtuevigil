@@ -1634,6 +1634,12 @@ function buildReviewPage(r) {
           </div>
           ` : ''}
           ${whereToWatchBlock(r)}
+          ${r.debateQuestion ? `
+          <div class="debate-question-block" style="background:rgba(201,168,76,0.08);border-left:3px solid #c9a84c;padding:1.2rem 1.5rem;border-radius:0 8px 8px 0;margin:2rem 0 0 0;">
+            <p style="margin:0 0 0.4rem 0;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;color:#c9a84c;font-weight:600;"><i class="fas fa-comment-dots"></i> Debate Question</p>
+            <p style="margin:0;line-height:1.7;font-size:1.05rem;color:var(--text-primary);">${esc(r.debateQuestion)}</p>
+          </div>
+          ` : ''}
         </div>
       </article>
 
