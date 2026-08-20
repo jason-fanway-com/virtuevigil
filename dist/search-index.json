@@ -1,5 +1,39 @@
 [
   {
+    "slug": "nimrods-2026",
+    "title": "Nimrods",
+    "verdict": "TRADITIONAL LEAN",
+    "genre": "Comedy, Drama, Music",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.2,
+    "tradScore": 7.58,
+    "poster": "/images/posters/nimrods-2026.jpg"
+  },
+  {
+    "slug": "true-detective-night-country-2024",
+    "title": "True Detective: Night Country",
+    "verdict": "WOKE",
+    "platform": "HBO",
+    "genre": "Crime Drama, Mystery, Thriller",
+    "year": 2024,
+    "type": "series",
+    "wokeScore": 22.4,
+    "tradScore": 5.94,
+    "poster": "/images/posters/true-detective-night-country-2024.jpg"
+  },
+  {
+    "slug": "citizen-kane-1941",
+    "title": "Citizen Kane",
+    "verdict": "TRADITIONAL",
+    "genre": "Drama, Mystery",
+    "year": 1941,
+    "type": "film",
+    "wokeScore": 2.38,
+    "tradScore": 14.88,
+    "poster": "/images/posters/citizen-kane-1941.jpg"
+  },
+  {
     "slug": "lanterns-2026",
     "title": "Lanterns",
     "verdict": "TRADITIONAL LEAN",
@@ -14,7 +48,7 @@
   {
     "slug": "insidious-out-of-the-further-2026",
     "title": "Insidious: Out of the Further",
-    "verdict": "TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL",
     "platform": "Theatrical",
     "genre": "Horror / Mystery / Thriller",
     "year": 2026,
@@ -2723,7 +2757,7 @@
   {
     "slug": "avatar-aang-the-last-airbender-2026",
     "title": "Avatar Aang: The Last Airbender",
-    "verdict": "TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL",
     "platform": "Streaming (Paramount+)",
     "genre": "Animated / Adventure / Fantasy / Family",
     "year": 2026,

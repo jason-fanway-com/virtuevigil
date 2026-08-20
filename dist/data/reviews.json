@@ -149,7 +149,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Sheriff Kane is not corrupt, incompetent, or bigoted. She is protective of her community and skeptical of the federal-level Lanterns who arrive with jurisdiction she does not understand but must respect. The show treats her authority as legitimate and her protectiveness as admirable. This is a minor but real traditional signal in a genre that too often treats local law enforcement as an obstacle to be overcome or a bigotry to be exposed."
       },
       {
@@ -169,7 +169,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "The Hal/John racial dynamic is visible and intentional in the premiere. John being the first Guardian-recruited Lantern is framed as significant, not incidental. The show does not lecture about race, but it does ask the audience to notice it. This is a moderate woke signal, softened by the show's refusal to make John a victim or Hal a villain."
       },
       {
@@ -252,7 +252,7 @@
     ],
     "studio": "Blumhouse Productions / Atomic Monster / Screen Gems",
     "distributor": "Sony Pictures Releasing",
-    "verdict": "TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL",
     "wokeScore": 0.5,
     "tradScore": 9.2,
     "authIndex": 73,
@@ -436,7 +436,7 @@
     "studio": "Warner Bros. / Amblin Entertainment",
     "distributor": "Warner Bros.",
     "verdict": "TRADITIONAL",
-    "wokeScore": 1.0,
+    "wokeScore": 1,
     "tradScore": 15.5,
     "authIndex": 80,
     "scoreMargin": "+15 TRAD",
@@ -699,7 +699,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The story centers on a bullied, vulnerable girl and the small acts of care that sustain her, affirming that the innocent deserve protection and kindness rather than being left to fend for themselves."
       },
@@ -709,7 +709,7 @@
         "category": "Traditional",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "explanation": "Eugene's anonymous letters are a quiet, unselfish gift that expects nothing in return, a humble model of service to a stranger in need."
       },
@@ -880,7 +880,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Neo risks everything, and ultimately chooses to save Trinity even at the cost of the prophecy and the city he is meant to save. Sacrifice for love is the film's moral climax."
       },
@@ -890,7 +890,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The film draws a clear moral line between free humanity and the enslaving machines. The machines' control is presented as tyranny, and human freedom as the good worth dying for."
       },
@@ -900,7 +900,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The defense of Zion, the last free human city, against a quarter million sentinels is the film's central conflict, a fight to protect the innocent from extinction."
       },
@@ -910,7 +910,7 @@
         "category": "Traditional",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "explanation": "Trinity's unshakable belief in Neo, and the crew's faith in the prophecy, sustain them through a crisis that looks hopeless. Faith in something beyond calculation is shown as a strength."
       },
@@ -1000,7 +1000,7 @@
     "distributor": "Hulu",
     "verdict": "STRONGLY WOKE",
     "wokeScore": 30.2,
-    "tradScore": 4.0,
+    "tradScore": 4,
     "scoreMargin": "-26 WOKE",
     "authIndex": 76,
     "preRelease": false,
@@ -1080,9 +1080,9 @@
         "name": "Institutional Evil",
         "category": "Woke",
         "severity": 5,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
-        "weightedScore": 9.0,
+        "weightedScore": 9,
         "explanation": "Gilead's theocratic state is the villain of the entire series, presented as inherently corrupt and cruel. The show's premise is that religious institutional authority is evil by its nature."
       },
       {
@@ -1090,9 +1090,9 @@
         "name": "The Bigoted Traditionalist",
         "category": "Woke",
         "severity": 5,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
-        "weightedScore": 9.0,
+        "weightedScore": 9,
         "explanation": "The Commanders, Aunt Lydia, and the devout are the show's antagonists, their religious conviction framed as the source of their sadism. Traditional believers are cast as inherently hateful."
       },
       {
@@ -1100,7 +1100,7 @@
         "name": "The Girl Boss",
         "category": "Woke",
         "severity": 4,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
         "weightedScore": 7.2,
         "explanation": "June's arc from victim to resistance leader is the show's spine, a woman who dominates and defies the men who rule her. Her awakening is presented as the reclaiming of feminine power through rebellion."
@@ -1110,9 +1110,9 @@
         "name": "Oppressive Domesticity",
         "category": "Woke",
         "severity": 3,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 3.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 3,
         "explanation": "The Wives, especially Serena Joy, are portrayed as imprisoned by domestic roles, their lives as mothers and homemakers a gilded cage from which there is no escape but complicity or rebellion."
       },
       {
@@ -1120,9 +1120,9 @@
         "name": "Sexual Liberation as Empowerment",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 2.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 2,
         "explanation": "June's gradual reclamation of her body, her voice, and her sexuality is framed as her path to freedom, contrasting the regime's control with her own assertion of agency."
       },
       {
@@ -1130,9 +1130,9 @@
         "name": "Defense of the Innocent",
         "category": "Traditional",
         "severity": 3,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 3.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 3,
         "explanation": "June's fierce drive to protect her daughter Hannah and the other women of Gilead is a genuine, powerful thread, even if it is framed within the show's larger critique of the order that would claim to value such protection."
       },
       {
@@ -1140,9 +1140,9 @@
         "name": "The Self-Sacrificing Hero",
         "category": "Traditional",
         "severity": 2,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 0.5,
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "June endures enormous suffering for the sake of her children, an echo of real maternal sacrifice that runs beneath the show's ideological surface."
       }
     ]
@@ -1291,7 +1291,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The film's driving question is whether Kateri can seek and secure justice after a devastating wrong. The story affirms that the guilty must answer and the innocent be vindicated."
       },
@@ -1301,7 +1301,7 @@
         "category": "Traditional",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "explanation": "Both Amziah and Kateri solve problems through their own character, skill, and work ethic rather than relying on institutions or the state. Self-reliance is presented as a virtue."
       },
@@ -1320,9 +1320,9 @@
         "name": "Chosen Family over Bio-Kin",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 2.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 2,
         "explanation": "The film's central bond is between Kateri and her former foster parent Amziah rather than her biological family. This is treated as lived reality and emotional truth rather than an ideological argument against biological kinship."
       },
       {
@@ -1494,7 +1494,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Sulley risks his career, his safety, and his world's energy supply to protect Boo. His final act is returning her to her bedroom and letting her door be destroyed, giving up any hope of seeing her again."
       },
@@ -1504,7 +1504,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The film maintains a clear moral binary: protecting children is good, exploiting them for screams is evil. Waternoose and Randall are unambiguously wrong, Sulley and Mike are unambiguously right."
       },
@@ -1533,9 +1533,9 @@
         "name": "The Evil Capitalist",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 2.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 2,
         "explanation": "Waternoose, the CEO, prioritizes the company's survival over children's safety, making him an evil capitalist figure. However, the film treats this as specific corruption, not an indictment of business as such."
       },
       {
@@ -1719,7 +1719,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Phil moves from resenting the town and its people to genuinely liking them, forgiving their small-town quirks and even the annoying insurance salesman Ned Ryerson, whose desperate friendliness he initially finds unbearable."
       },
@@ -1729,7 +1729,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Punxsutawney is depicted as a warm, tight-knit community of decent people whose fellowship Phil must learn to value. The town is the moral schoolhouse, not the punchline."
       },
@@ -1738,9 +1738,9 @@
         "name": "Sexual Liberation as Empowerment",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 0.5,
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "In his hedonistic middle phase, Phil uses his foreknowledge to seduce women without consequence. The film depicts this but pointedly frames it as empty and despairing, never as liberation."
       },
       {
@@ -1887,7 +1887,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Little Bill Daggett is the sheriff of Big Whiskey and the film's antagonist, a man who uses the law to protect his own cruelty, beating and intimidating anyone who challenges him. His corruption is a mild institutional-evil register, though he is a specific man rather than a blanket indictment of law enforcement."
       },
@@ -1896,9 +1896,9 @@
         "name": "Deconstruction of the Violent Hero",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 0.5,
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "The film systematically undercuts the romantic myth of the gunslinger, revealing that famous killers are mostly drunks, cowards, and liars. This deconstruction lands as moral realism about the ugliness of violence rather than an ideological attack on masculinity."
       },
       {
@@ -1927,7 +1927,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Munny's devotion to his dead wife is the emotional core of the film. She is the reason he left violence behind, and her memory is the anchor he clings to as he is drawn back into the old life."
       },
@@ -1937,7 +1937,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "The film's climax delivers a cold, heavy reckoning: the guilty are punished and the innocent are avenged, but the film refuses to make the vengeance feel triumphant, treating it as a grim necessity rather than a celebration."
       },
@@ -1947,7 +1947,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Despite its moral complexity, Unforgiven maintains a clear moral binary: the men who cut up an innocent woman and the sheriff who shields them are evil, and Munny's vengeance, however ugly, is on the side of right."
       }
@@ -2010,7 +2010,7 @@
     "studio": "Reveille Productions / Deedle-Dee Productions / NBC Universal",
     "distributor": "NBC",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 2.0,
+    "wokeScore": 2,
     "tradScore": 5.25,
     "scoreMargin": "+3 TRAD",
     "authIndex": 85,
@@ -2091,9 +2091,9 @@
         "name": "The Bumbling Patriarch",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 2.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 2,
         "explanation": "Michael Scott is an inept authority figure who cannot competently lead his office. He is the closest thing to a woke register in the show, though the program undercuts the trope by making him sympathetic rather than a strawman to be mocked and discarded."
       },
       {
@@ -2102,7 +2102,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The show treats the mundane work of a paper company with genuine warmth. The employees are ordinary people doing an ordinary job, and the program finds dignity in that rather than mocking it. This is an organic quality of the source material."
       },
@@ -2122,7 +2122,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Pam's engagement to Roy is treated as a real, binding commitment, and Jim respects that boundary throughout Season 1 rather than acting on his feelings. The show honors the seriousness of a pledge rather than treating it as an obstacle to be dismissed."
       }
@@ -2277,7 +2277,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 1.4,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 4.2,
         "explanation": "Anne Boleyn's number flaunts her flirtations, and Katherine Howard is initially framed as relishing her attractiveness, before the show pivots to her abuse. Sexuality is presented as a tool of empowerment rather than a moral category, which flattens the real tragedy of these women's lives."
       },
@@ -2287,7 +2287,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 1.4,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 4.2,
         "explanation": "Anna of Cleves's number celebrates life in a palace with no husband telling her what to do, framing marriage itself as the prison from which women must escape. Marriage to Henry is presented as oppression rather than a bond to be honored or endured."
       },
@@ -2297,7 +2297,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Catherine of Aragon's solo No Way is a genuine defense of her marriage vows and her refusal to accept annulment, grounded in the real queen's Catholic faith. It is the show's one honest traditional beat, though it is ultimately treated as something to move past."
       },
@@ -2307,7 +2307,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Jane Seymour's Heart of Stone expresses maternal devotion and loyalty to a difficult husband, presenting selfless love as a strength. Like Catherine of Aragon's number, it is undercut by the show's conclusion that such loyalty was the problem."
       }
@@ -2492,7 +2492,7 @@
         "name": "Marriage as Partnership Model",
         "category": "Traditional",
         "severity": 3,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 0.8,
         "weightedScore": 2.4,
         "explanation": "The Reagan marriage is portrayed with genuine warmth and mutual respect. Nancy is shown advising Ronald, but also supporting him, protecting him, and grounding him. The Gorbachev marriage gets parallel treatment. Both couples are depicted as partnerships in which the spouse provides emotional stability and candid counsel. This is a fundamentally positive portrayal of marriage as an institution."
@@ -3027,7 +3027,7 @@
         "name": "Fezco's Traditional Loyalty Ethic",
         "category": "Traditional",
         "severity": 3,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 0.7,
         "weightedScore": 2.1,
         "explanation": "Fezco, the drug dealer played by the late Angus Cloud, operates by a traditional code: protect your people, keep your word, don't hurt anyone who doesn't have it coming. His loyalty to Rue - refusing to sell her drugs, watching over her - is the closest thing the show has to a functional adult relationship with a teenager. He is a criminal, but his morality is more coherent than most of the non-criminal characters. The show does not frame him as heroic, but it clearly respects his code."
@@ -3255,7 +3255,7 @@
         "category": "Woke",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "explanation": "Nguyen Huu An is portrayed as a competent, strategic commander, not a cartoon villain. The film shows him caring for his wounded and making sound tactical decisions. This is historically defensible but registers as a woke-adjacent choice in the context of war films, which traditionally dehumanize the enemy."
       },
@@ -3295,7 +3295,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Julia Moore does not merely wait for news. When the Army starts using taxi drivers to deliver death telegrams, she takes over the notifications herself. She organizes the wives, absorbs their grief, and becomes the leader the home front needs. The film treats military spouses as essential to the mission."
       },
@@ -3304,9 +3304,9 @@
         "name": "Brotherhood in Arms",
         "category": "Traditional",
         "severity": 5,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
-        "weightedScore": 9.0,
+        "weightedScore": 9,
         "explanation": "The relationships between the soldiers are the film's emotional engine. Men die for each other. The cut-off platoon holds its position through the night because Sgt. Savage refuses to let them break. Joe Galloway, a civilian journalist, picks up a rifle. The film argues that the bond between soldiers is sacred."
       },
       {
@@ -3324,9 +3324,9 @@
         "name": "A Civilian Who Becomes a Soldier",
         "category": "Traditional",
         "severity": 3,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 3.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 3,
         "explanation": "Joe Galloway, the UPI reporter, arrives to document the battle and ends up fighting in it. When the perimeter is breached, he picks up a rifle. The film does not frame this as a corruption of his journalistic neutrality. It frames it as a man doing what the moment demands."
       }
     ]
@@ -3382,7 +3382,7 @@
     "distributor": "Warner Bros. Pictures",
     "verdict": "TRADITIONAL",
     "wokeScore": 2.35,
-    "tradScore": 20.0,
+    "tradScore": 20,
     "scoreMargin": "+18 TRAD",
     "authIndex": 72,
     "preRelease": false,
@@ -3462,9 +3462,9 @@
         "name": "Female Protagonist as Author of the Story",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 0.5,
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Denise is the survivor who writes the book and tells the story; Greg is the man who dies to enable it. The film does not frame this as a political statement, but the structural choice of the wife as the narrative voice and the husband as the sacrifice is a recognizable contemporary pattern."
       },
       {
@@ -3472,9 +3472,9 @@
         "name": "Male Provider Shame as Character Flaw",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 0.5,
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Greg's hidden job loss and his shame about delivering pizzas is presented as a failure of honesty that damages the marriage. The film resolves this through reconciliation rather than condemnation of Greg, but the framing of male-provider identity as something that needs to be surrendered is present."
       },
       {
@@ -3492,9 +3492,9 @@
         "name": "The Father's Sacrificial Death",
         "category": "Traditional",
         "severity": 5,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
-        "weightedScore": 9.0,
+        "weightedScore": 9,
         "explanation": "Greg dies protecting his family from an Allosaurus. The death is not subverted, mocked, or treated as disposable. It is the film's emotional and moral peak. The father gives his life so his wife and children can reach the wormhole. This is traditional heroism in its most direct form."
       },
       {
@@ -3503,7 +3503,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Denise and Greg's marriage was dying before the wormhole. The crisis forces honesty: Greg admits his shame, Denise admits her distance. They reconcile not because the film needs a happy ending but because extreme pressure clarifies what matters. The film argues that marriage can be saved when both people choose it."
       },
@@ -3512,7 +3512,7 @@
         "name": "Family as Irreducible Survival Unit",
         "category": "Traditional",
         "severity": 4,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
         "weightedScore": 7.2,
         "explanation": "Every survival decision in the film is organized around the family. Parents search for children. Children protect each other. The dog is treated as family. No character survives alone. The film's thesis is that you survive because of your family, not despite them."
@@ -3522,9 +3522,9 @@
         "name": "Competent, Non-Adversarial Authorities",
         "category": "Traditional",
         "severity": 2,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 0.5,
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "The epilogue shows the military and scientific community containing the prehistoric zone and studying it professionally. They are not villains, conspirators, or buffoons. The film treats institutional response as competent and protective, which is increasingly unusual for a genre film."
       }
     ]
@@ -3677,7 +3677,7 @@
         "name": "Competence and Teamwork Over Identity",
         "category": "Traditional",
         "severity": 4,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
         "weightedScore": 7.2,
         "explanation": "No one in Apollo 13 cares who anyone else is. They care whether the math is right. The film is a sustained argument that objective reality exists, that it is indifferent to your feelings, and that the only way to survive it is to be good at what you do. This is the traditional worldview at its most operational."
@@ -3688,7 +3688,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Jim and Marilyn Lovell's marriage is not a subplot; it is the ground beneath the film. She manages the home, the children, the terror, and the press without needing to perform strength. He trusts her completely. The film treats marriage as a structure that holds when everything else breaks."
       },
@@ -3697,9 +3697,9 @@
         "name": "Failure Is Not an Option Ethos",
         "category": "Traditional",
         "severity": 5,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
-        "weightedScore": 9.0,
+        "weightedScore": 9,
         "explanation": "Gene Kranz's refusal to accept failure is not bravado. It is the organizing principle of Mission Control's response. The film treats this as a moral position: when lives are in your hands, failure is definitionally unacceptable. You find a way or you don't go home. The entire third act is a demonstration of this principle in practice."
       },
       {
@@ -3707,9 +3707,9 @@
         "name": "Respect for Institutions and Authority",
         "category": "Traditional",
         "severity": 3,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 3.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 3,
         "explanation": "NASA, the government, the military, the press -- all are treated as legitimate institutions staffed by people trying to do their jobs. There is no conspiracy, no cover-up, no institutional villainy. The film assumes that institutions exist to serve and that, in this case, they did."
       }
     ]
@@ -3854,7 +3854,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Algren's arc is explicitly a rejection of Western materialism and moral chaos for Japanese warrior tradition. He finds purpose, discipline, and meaning in the samurai village that his own culture denied him. The film frames this as a discovery of something his culture lacked, not as a cross-cultural appreciation. Western civilization is the problem; Bushido is the answer."
       },
@@ -3864,7 +3864,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The samurai village is presented as an idealized community: spiritually coherent, aesthetically beautiful, honorable in its every interaction. The contrast with Western society Algren left behind is not subtle. The film argues that the non-Western traditional culture it depicts is superior to what replaced it. This is organic to the story but is a sustained political thesis."
       },
@@ -3914,7 +3914,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The political villain, Omura, is corrupt, venal, and willing to sell Japan's soul for personal profit and Western approval. Katsumoto is noble, principled, and honest. Colonel Bagley has committed actual war crimes. The moral lines are clear. The film does not ask you to understand the villains; it asks you to understand the cost of defeating them."
       }
@@ -4053,7 +4053,7 @@
         "category": "Woke",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "explanation": "The film depicts widespread corruption in Mexican law enforcement, judiciary, and government. Crooked cops, complicit officials, and cartel connections reach into official institutions. The critique is real but functions as setting, not ideology. The film doesn't argue for systemic solutions; it argues that Creasy is going to handle it personally."
       },
@@ -4103,7 +4103,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "The kidnappers are not humanized, sympathized with, or given trauma backstories to explain their choices. They kidnap children for money. They are evil because they chose to be. Creasy is the instrument of their consequences. The moral clarity is complete and unapologetic."
       },
@@ -4113,7 +4113,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Creasy's combat skills, acquired through decades of service, are presented as genuinely valuable. The film does not apologize for his effectiveness or frame his violence as a symptom of trauma. He is good at what he does. That competence, in service of protecting the innocent, is treated as admirable."
       }
@@ -4243,7 +4243,7 @@
         "name": "Female Savior",
         "category": "Woke",
         "severity": 4,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
         "weightedScore": 7.2,
         "explanation": "Louise Banks is the only human being with the empathy, intelligence, and instinct to prevent first contact from becoming a war. The men around her, the military brass, the hawkish generals, the government agents, are consistently wrong. Louise is consistently right. Her gender is tied explicitly to her method: she communicates and connects where the men want to threaten and control. The film presents this as more than character design; it's the argument."
@@ -4253,9 +4253,9 @@
         "name": "Military as Obstacle and Antagonist",
         "category": "Woke",
         "severity": 3,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 3.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 3,
         "explanation": "Colonel Weber and the military apparatus surrounding Louise are repeatedly presented as emotionally limited obstacles to genuine understanding. They want metrics, weapons assessments, and exit strategies. Louise needs time and trust. The film frames military caution as a failure of imagination and empathy, while Louise's civilian approach is vindicated at every turn."
       },
       {
@@ -4264,7 +4264,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The film's climactic geopolitical resolution requires a Chinese general to stand down because Louise shares a personal detail about his dying wife. National competitive instincts are the villain; cross-cultural human connection is the solution. The message is that humanity's survival depends on transcending nationalism. This is organic to the story's logic but remains a political thesis."
       },
@@ -4284,7 +4284,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Louise does not rage against the knowledge of what will happen. She does not try to change it or find a loophole. She accepts the full weight of what she knows and moves through it. This is a classically traditional response to mortality and grief: not avoidance but acceptance, not despair but endurance."
       },
@@ -4294,7 +4294,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Louise is called and she shows up. No hesitation. No negotiation. She is a linguist; there is a language to decipher; she goes. The film treats professional dedication as a form of honor, not just employment. Her commitment to understanding the aliens is absolute and comes before personal comfort or safety."
       }
@@ -4597,7 +4597,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Joe's marriage, Cruz's psyche, the team's physical safety, all of it is on the table every season. Sheridan makes clear that counterterrorism work extracts a human price that the operatives pay willingly. This is not trauma-as-fashion; this is the traditional understanding that duty costs something real."
       },
@@ -4607,7 +4607,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Joe does not want the power she holds. She carries it because someone has to and she is the best available. Sheridan frames her authority as a weight, not a crown, consistent with the traditional model of leadership as burden borne for others."
       },
@@ -4617,7 +4617,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The season's antagonists are not sympathetic; they are threats that must be neutralized. When the Lioness team succeeds, the audience is meant to feel relief, not ambivalence. No Both Sides handwringing. The traditional view that some people are evil, some actions are indefensible, and stopping them is morally correct."
       },
@@ -4636,7 +4636,7 @@
         "name": "The Girl Boss",
         "category": "Woke",
         "severity": 3,
-        "authenticity": 1.0,
+        "authenticity": 1,
         "centrality": 1.8,
         "weightedScore": 5.4,
         "explanation": "The Lioness program is staffed almost entirely by women who outperform men in combat, infiltration, and strategic thinking. While Sheridan's execution is more grounded than most, the core premise carries the Girl Boss DNA. Joe dominates every room she enters. Cruz handles herself in physical combat against male opponents. The show runs on the assumption that women are the real warriors and men are support staff."
@@ -4800,7 +4800,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "The Bond franchise's fundamental function is the protection of British citizens from existential threats. Casino Royale is no exception. MI6 exists to stop terrorists from killing civilians. Bond exists to give MI6 its edge. The chain of protection is the dramatic engine."
       },
@@ -5015,7 +5015,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Both brothers are men who have shaped themselves through rigorous physical preparation. Tommy's training is monastic, almost self-punishing. Brendan's is methodical and professional. The film presents physical discipline as a form of moral discipline: men who take the time to prepare themselves to endure are men who can endure what life actually brings."
       },
@@ -5025,7 +5025,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Brendan and Tess's marriage is tested by the fighting, the financial stress, and the school suspension. It holds. Tess objects, worries, and then shows up to watch when she understands what Brendan has decided to do. Their marriage is a real partnership between two people who have chosen each other under difficult circumstances and keep choosing each other."
       },
@@ -5035,7 +5035,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Tommy entered the tournament because his friends died in combat and their families need money. He does not keep his winnings. He fights in silence, wins in silence, and carries the weight of surviving in silence. The film treats grief for fallen comrades as a genuine and serious obligation, not a symptom."
       },
@@ -5238,7 +5238,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "McCall times himself making oatmeal. He reads his way through a list of books he and his wife planned to finish together. He does push-ups in the dark. His violence is the extension of his self-discipline: precise, purposeful, nothing wasted. The film presents this kind of rigorous self-governance as the foundation of the man's moral character."
       },
@@ -5248,7 +5248,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "McCall's relationship with Ralphie is the film's most explicitly traditional element. He sees what Ralphie could be and refuses to accept his excuses for not becoming it. When Ralphie passes his security exam, the film treats it as a genuine victory, the passing of a moral standard from a man who holds it to a younger man learning to hold it himself."
       },
@@ -5258,7 +5258,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "McCall had a life. He was at peace. He comes back to fighting not for money or revenge or personal satisfaction. He comes back because he cannot stand by while the innocent are preyed upon in his presence. The film frames this as moral obligation: the good man who can act and does not is not neutral. He has made a choice. McCall refuses to make that choice."
       },
@@ -5453,7 +5453,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Dawson's final lines are the film's moral summit. He and Downey were dishonorably discharged. They were not convicted of murder. They will walk free. Dawson is still devastated, because he knows he failed his own code. 'We were supposed to fight for people who couldn't fight for themselves.' The paper verdict is not the real verdict. Honor is a standard that exists independent of courts and commanding officers."
       },
@@ -5463,7 +5463,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The film respects the Marines even while indicting their command culture. Dawson and Downey are not villains. They are men who believed in their orders and followed them without flinching. The film asks what that loyalty means when the orders are wrong, but it never condescends to the Marines who gave everything to a code that failed them."
       },
@@ -5473,7 +5473,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The Code Red killed Santiago. Jessup ordered it. This is wrong. The film never wavers on that basic moral claim, never suggests that Jessup's reasoning about national security justifies what happened. Wrong is wrong. The verdict of the tribunal, and the more important verdict of Dawson's own conscience, confirm the same moral truth."
       },
@@ -5483,7 +5483,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Kaffee has every institutional incentive to take the deal and bury the truth. The deal would spare Dawson and Downey prison. It would spare the Marine Corps embarrassment. It would spare Kaffee a risky trial. He refuses because the truth of what happened to Santiago demands to be told. The film treats truth-telling as a moral obligation, not a tactical choice."
       },
@@ -5502,9 +5502,9 @@
         "name": "Female Officer as Moral Conscience",
         "category": "Woke",
         "severity": 2,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 2.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 2,
         "explanation": "JoAnne Galloway is the person who sees the truth and won't let it go. She requests the case, she pushes Kaffee to fight rather than deal, and she is ultimately right about everything. Kaffee grows into the lawyer Galloway always knew he could be. The structure places female moral clarity above male institutional comfort, a woke template that Sorkin uses without apparent irony."
       },
       {
@@ -5611,7 +5611,7 @@
     "externalScores": {
       "rottenTomatoesCritic": 92,
       "rottenTomatoesAudience": 0,
-      "imdb": 8.0,
+      "imdb": 8,
       "metacritic": 0,
       "oscarNominations": 0,
       "oscarCategories": "",
@@ -5950,7 +5950,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 0.6,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.8,
         "explanation": "The bachelor tax premise positions traditional relationship structures (marriage, commitment) as a government-enforced burden rather than a social good. In the film's world, the default state of being single is penalized by the state, and the one night of relief reframes casual encounters as authentic self-expression against an oppressive system. This structurally inverts the traditional view that marriage and family formation are positive goods that society should encourage."
       },
@@ -5970,7 +5970,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.6,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.8,
         "explanation": "The romantic comedy formula requires its leads to grow from their initial positions into people capable of genuine connection. The film's leads begin by embracing the one-night amnesty as casual fun and, over the course of the story, discover that they want more than a tax-free encounter. This arc from casual to committed is the traditional spine of the film, even if it arrives late."
       },
@@ -6249,7 +6249,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Mary Bailey is the ideal of traditional womanhood: nurturing, competent, and the emotional anchor of the home. She manages the household, raises the children, and when the crisis comes, she is the one who quietly mobilizes the entire town. Donna Reed plays her without a trace of resentment or irony. Mary's femininity is presented as George's equal complement, not his lesser half. The film believes that what she does, creating and sustaining a home, matters at least as much as what he does."
       },
@@ -6259,7 +6259,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "The Building and Loan represents honest work serving working people. George and his father before him run the institution at poverty wages because the alternative, Potter's slums, is morally unacceptable. The film treats this economic service as a form of moral action. Ernie the cab driver, Bert the cop, Martini the bar owner: these are the people the Building and Loan exists to serve, and they are the people who save George in the end."
       },
@@ -6448,7 +6448,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "Tom Cruise's stunt work is not a marketing gimmick in this film; it is a moral statement. He broke his ankle on the building jump and kept shooting. McQuarrie framed the helicopter sequence to show that the danger is real. This commitment to doing hard things without faking them is a traditional value: competence, courage, and the refusal to take the easy path."
       },
@@ -6458,7 +6458,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Ethan, Luther, and Benji are brothers in the traditional sense: men whose bond has been forged under fire and who cannot imagine abandoning each other. Luther's capture is what drives the plot. Ethan's refusal to let him die is what costs the mission. That relationship is presented as sacred, not sentimental."
       },
@@ -6468,7 +6468,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Erica Sloane and the CIA are portrayed as bureaucratic obstacles who prioritize political cover over operational effectiveness. This critique of intelligence agencies has been a staple of progressive thriller culture since the Church Committee hearings. Here it is grounded in plot rather than ideology, but the structural framing has a long progressive pedigree."
       },
@@ -6478,7 +6478,7 @@
         "category": "Woke",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "explanation": "Three significant female characters hold positions of genuine power: Ilsa Faust as an elite operative, Erica Sloane as CIA director, and Alanna Mitsopolis as an international arms dealer. None are diversity inserts; all are developed characters. But the franchise decision to consistently populate these roles with women reflects a deliberate progressive casting strategy."
       },
@@ -6669,7 +6669,7 @@
         "category": "Traditional",
         "severity": 4,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.8,
         "explanation": "The Continental Hotel and the High Table represent a world built on binding rules rather than fluid negotiation. Winston enforces these rules without favoritism. The system responds to violations instantly and without appeal. This presents ordered society, even criminal ordered society, as preferable to chaos. Rules have value independent of who benefits."
       },
@@ -6679,7 +6679,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Wick's interactions with other assassins, especially Cassian, are built on professional respect and an acknowledgment that they are both doing a job within rules both understand. The film presents this warrior brotherhood as a legitimate form of honor, even when applied to men who kill for money."
       },
@@ -6709,7 +6709,7 @@
         "category": "Woke",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "explanation": "Wick operates with no moral framework a traditional audience could straightforwardly endorse. He kills without reservation, at volume, and the film presents no judgment on this. This is genre convention carried to an extreme, but genre conventions carry ideological content. A world where violence is normalized as craft rather than condemned as wrong is not a fully traditional world."
       },
@@ -6893,7 +6893,7 @@
         "category": "Traditional",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "Colonel Trautman's relationship with Rambo is the film's most explicitly traditional element. Trautman built him, trained him, and owes him something for it. He arrives not to contain a problem but to honor a responsibility. The trainer-soldier bond is presented as a form of fatherhood: you shaped a man, you carry him with you."
       },
@@ -6902,9 +6902,9 @@
         "name": "Corrupt Local Authority Properly Checked",
         "category": "Traditional",
         "severity": 3,
-        "authenticity": 1.0,
-        "centrality": 1.0,
-        "weightedScore": 3.0,
+        "authenticity": 1,
+        "centrality": 1,
+        "weightedScore": 3,
         "explanation": "Teasle's harassment of Rambo is portrayed as clearly wrong. A law enforcement officer abusing his authority against a man who has done nothing is not a conservative endorsement of law enforcement per se but a reminder that authority requires justification. The film punishes the abuse without undermining the institution."
       },
       {
@@ -6923,7 +6923,7 @@
         "category": "Woke",
         "severity": 3,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 2.1,
         "explanation": "In 1982, treating combat trauma as a real psychological condition rather than weakness was culturally associated with progressive veterans' advocacy. The film portrays Rambo's PTSD with sympathy and specificity. The flashback triggers during processing are depicted as involuntary and disabling. This is accurate to the condition, but the sympathetic framing added progressive ideological weight in its historical context."
       },
@@ -6933,7 +6933,7 @@
         "category": "Woke",
         "severity": 2,
         "authenticity": 0.7,
-        "centrality": 1.0,
+        "centrality": 1,
         "weightedScore": 1.4,
         "explanation": "The film's authority figures, Teasle, the National Guard, the Army brass, all fail. The only trustworthy figure is Trautman, who exists outside the normal chain of command. This skepticism of institutional authority runs in directions that conservatives and progressives can both use. Here the failure is specific and earned rather than ideological."
       }
@@ -7157,7 +7157,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "explanation": "Indy repeatedly risks his life for his father: infiltrating a Nazi castle, surviving a tank battle, and ultimately choosing to let the Grail fall rather than lose his father's hand. Henry Sr. reciprocates when he stays behind to face Nazis so Indy can escape. The sacrifice is mutual and rooted in family bonds."
       },
       {
@@ -7177,7 +7177,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Indy's quest is motivated in part by the need to keep the Grail - and its power - out of Nazi hands. He and his father understand that eternal life in the hands of evil men would be catastrophic. The protective instinct is present but secondary to the personal father-son story."
       }
     ],
@@ -7303,7 +7303,7 @@
         "severity": 1,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Rebecca Welton takes over AFC Richmond as owner. This could register as Girl Boss territory, but the show handles it with nuance. Rebecca initially seeks to destroy the team out of personal revenge, not 'prove women can do it.' Her arc is about redemption, not domination. She does not display hyper-masculine traits or demean men."
       },
       {
@@ -7313,7 +7313,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "explanation": "Jamie Tartt's arrogance and Roy Kent's simmering rage are explicitly critiqued as forms of toxic masculine expression. However, the show does not condemn masculinity itself. Roy's protectiveness is celebrated. Jamie's competitive drive is channeled rather than crushed. The critique is of broken expressions, not of the underlying male nature."
       },
       {
@@ -7691,7 +7691,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Local law enforcement is ineffective against the supernatural threat, but this is standard horror-genre convention rather than a political statement about policing. The sheriff is portrayed as genuinely trying his best, not as corrupt or malevolent."
       },
       {
@@ -8298,7 +8298,7 @@
     "distributor": "Magnolia Pictures",
     "verdict": "WOKE",
     "wokeScore": 16.7,
-    "tradScore": 2.0,
+    "tradScore": 2,
     "authIndex": 11,
     "scoreMargin": "-15 WOKE",
     "preRelease": false,
@@ -8420,7 +8420,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "explanation": "Elliot's traditional male sexual instincts are consistently framed as deficiencies. Yvette rejects him for his 'stunted attitude toward eroticism and sex.' His refusal of the strap-on is the film's central test, and he fails it. The film's moral framework does not include the possibility that a man might decline to be penetrated and be right to do so. The pegging scene explicitly frames male sexual refusal as a character flaw rather than a legitimate boundary. Authenticity is Moderate: while the BDSM context provides some organic justification for exploring sexual limits, the framing of male reluctance as pathology is an ideological choice, not a genre requirement. Maps to WOKE-011."
       },
       {
@@ -8440,7 +8440,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "The contemporary art world is satirized as a corrupt commercial enterprise where faking a death to sell paintings is framed as shrewd business. Erika's fake-death hoax is motivated by the financial rescue of her studio, and Vikktor's role as her business manager centers the profit motive as the engine driving the plot's most extreme action. The satire is genuinely funny but its ideological valence is clear: commerce corrupts art. Weight is limited because the satire is a supporting element, not the film's primary concern. Maps to WOKE-014."
       },
       {
@@ -8480,7 +8480,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "The film does acknowledge, through Elliot's anger at Erika's confession, that her manipulation was wrong. His fury when she reveals the hoax is genuine and the film lets it land. Erika is not presented as purely heroic. The closing nightmare sequence, in which marriage to Erika literally becomes a horror image, suggests the film knows on some level that what she did was destructive. This is a thin reed on which to hang traditional values, but it is present. Maps to TRADITIONAL-047."
       }
     ],
@@ -8725,7 +8725,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Heimdall, a Norse mythological figure with an established white racial identity in the source tradition and prior comics versions, is played by Idris Elba. The film provides no in-universe justification and makes nothing of it narratively. Elba's performance is strong and Heimdall is not a major character, limiting the centrality. Per VVWS v1.1, this registers as a diversity casting trope. The authenticity is scored as Moderate because the film does not make a statement of it."
       },
       {
@@ -9652,7 +9652,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "explanation": "The TVA is portrayed as a cold, bureaucratic institution willing to destroy entire timelines to maintain order. Mr. Paradox is a smug bureaucrat who sees individual lives as expendable. While this is a classic sci-fi trope rather than a specific critique of real institutions, the 'faceless bureaucracy as villain' framing is a staple of institutional-evil narratives."
       },
       {
@@ -9662,7 +9662,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Cassandra Nova is a female villain with immense telepathic and telekinetic power who rules the Void through fear. While Emma Corrin plays her with genuine menace and the character works as a credible antagonist, the 'all-powerful woman dominating men' archetype shares DNA with the girlboss trope. Her gender is irrelevant to her villainy, which is the right approach, but the power dynamic is notable."
       },
       {
@@ -10065,7 +10065,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "explanation": "The rejection of marriage and commitment is initially framed as the path to reclaiming youth and vitality. Joe's decision to prioritize the party weekend over his relationship is presented as liberation before the film eventually walks it back."
       },
       {
@@ -10075,7 +10075,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Joe's workplace passes him over for promotion explicitly because he is 'too old' at 40. This functions as a systemic-ageism plot point that kicks off the narrative, though it recedes in importance as the party chaos takes over."
       },
       {
@@ -10105,7 +10105,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "explanation": "The character arc moves Joe toward accepting adult responsibility. By the film's end, he recognizes that the party lifestyle is empty and that his relationship has real value. The arc toward principled adulthood is the film's central traditional element."
       }
     ],
@@ -10300,7 +10300,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "explanation": "Commissioner Gordon represents honest policing in a corrupt system. He refuses to look the other way, stands up to political pressure, and maintains his integrity even when it costs him. His collaboration with Batman is built on mutual respect for justice, not convenience."
       },
       {
@@ -10340,7 +10340,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Barbara Gordon takes an assertive lead role, forcing Batman and Commissioner Gordon to collaborate on her terms. While Barbara Gordon is an established character with agency in the comics, the show's framing occasionally leans into Girl Boss energy that feels anachronistic for a 1940s setting."
       },
       {
@@ -10417,7 +10417,7 @@
     "distributor": "Universal Pictures",
     "verdict": "TRADITIONAL",
     "wokeScore": 7.14,
-    "tradScore": 21.0,
+    "tradScore": 21,
     "authIndex": 74,
     "scoreMargin": "+14 TRAD",
     "preRelease": false,
@@ -11287,7 +11287,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Dr. Frederick Chilton, the administrator of the Baltimore State Hospital for the Criminally Insane, embodies institutional corruption. He makes sexual advances toward Clarice, spies on her conversations with Lecter, manipulates the situation for personal glory, and ultimately facilitates Lecter's escape through his own vanity and incompetence. However, the film frames this as individual corruption rather than systemic indictment. Chilton is a bad man running an institution badly; the FBI, represented by Crawford, is portrayed as competent and morally legitimate. The film distinguishes between institutions that work and individuals who corrupt them. The corrupt-asylum-administrator is also a well-established genre convention in psychological thrillers, not an ideological insertion."
       },
       {
@@ -11407,7 +11407,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Jack Crawford functions as the wise elder guiding Clarice through her initiation into the world of criminal investigation. He selects her for the Lecter assignment, briefs her on the dangers, and trusts her judgment as the case progresses. He is the experienced hand passing knowledge to the next generation. In a dark inversion, Hannibal Lecter also functions as a perverse wise elder: he provides Clarice with insights about Buffalo Bill, about criminal psychology, and about herself that no one else can offer. His wisdom is genuine and his methods are monstrous, which creates the film's central tension. Both mentor figures serve Clarice's development, though one seeks to build her up and the other seeks to possess her mind."
       }
     ]
@@ -11621,7 +11621,7 @@
         "severity": 3,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "explanation": "Ezekiel is a Christian superhero who preaches family values and faith while secretly engaging in homosexual encounters. The Christian festival episode ('Good for the Soul') depicts organized religion as a marketing platform for Vought's supes and a cover for personal hypocrisy. The show does not present any sincere religious faith. Every religious character is either a hypocrite, a mark, or a corporate shill. Religion exists in this universe solely as a branding opportunity and a mechanism for hiding shame."
       },
       {
@@ -11671,7 +11671,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "The show contains graphic sexual content including an orgy scene at a secret supe sex club and multiple sexual situations. The sexual content operates partly as shock value inherent to the Ennis source material and partly as ideological commentary on how power corrupts intimacy. The show's treatment of sex is uniformly negative: sex is transactional, coercive, or degrading. There are no healthy sexual relationships depicted. This is more Ennis-style cynicism than specific woke messaging, and it is delivered through shock-value spectacle rather than narrative argument."
       },
       {
@@ -11681,7 +11681,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Low",
-        "weightedScore": 1.0,
+        "weightedScore": 1,
         "explanation": "Several female characters are depicted as physically dominant in ways that invert traditional gender expectations. Kimiko is a feral killing machine introduced ripping through armed guards. Queen Maeve is physically equal to Homelander. Starlight's power set is formidable. However, Season 1 complicates this by showing that physical power does not translate to agency. Maeve is emotionally broken and compromised. Kimiko is traumatized and mute. Starlight is sexually assaulted and professionally sidelined. The female empowerment messaging is present but undercut by the show's broader cynicism about power."
       },
       {
@@ -11741,7 +11741,7 @@
         "severity": 2,
         "authenticity": "Moderate",
         "centrality": "Moderate",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "explanation": "The Boys are working-class (Butcher is a former SAS operative turned vigilante, Hughie works retail, MM is a veteran, Frenchie is a criminal survivor). They have no institutional backing, no powers, and no resources beyond what they can scrounge. They fight the most powerful corporation in the world with crowbars and determination. This underdog populism has traditional appeal even when deployed in service of an anti-corporate progressive narrative."
       }
     ],
@@ -14937,11 +14937,10 @@
     "studio": "Netflix",
     "distributor": "Netflix",
     "verdict": "TRADITIONAL",
-    "wokeScore": 1.0,
+    "wokeScore": 1,
     "tradScore": 14.8,
     "authIndex": 93,
     "scoreMargin": "+14 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -15964,7 +15963,7 @@
     "distributor": "The Apartment",
     "verdict": "MIXED",
     "wokeScore": 4.8,
-    "tradScore": 5.0,
+    "tradScore": 5,
     "authIndex": 54,
     "scoreMargin": "0 NEUTRAL",
     "preRelease": false,
@@ -20147,7 +20146,6 @@
     "tradScore": 17.7,
     "authIndex": 90,
     "scoreMargin": "+16 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -29133,7 +29131,7 @@
     "distributor": "Fathom Entertainment",
     "verdict": "WOKE LEAN",
     "wokeScore": 13.6,
-    "tradScore": 8.0,
+    "tradScore": 8,
     "authIndex": 41,
     "scoreMargin": "-6 WOKE",
     "preRelease": false,
@@ -32348,7 +32346,6 @@
     "tradScore": 20.58,
     "authIndex": 90,
     "scoreMargin": "+19 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -46302,7 +46299,6 @@
     "tradScore": 17.78,
     "authIndex": 70,
     "scoreMargin": "+17 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -51067,7 +51063,6 @@
     ],
     "studio": "Independent",
     "distributor": "Limited Release",
-    "preRelease": true,
     "verdict": "TRADITIONAL",
     "wokeScore": 16.4,
     "tradScore": 29.4,
@@ -52783,7 +52778,7 @@
     ],
     "studio": "Avatar Studios / Nickelodeon Movies / Paramount Animation",
     "distributor": "Paramount+",
-    "verdict": "TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL",
     "wokeScore": 4.2,
     "tradScore": 21.84,
     "authIndex": 77,
@@ -56329,7 +56324,6 @@
     "tradScore": 10.92,
     "authIndex": 55,
     "scoreMargin": "+3 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -56564,7 +56558,6 @@
     "tradScore": 7.18,
     "authIndex": 34,
     "scoreMargin": "-10 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -59452,7 +59445,6 @@
     "tradScore": 8.26,
     "authIndex": 38,
     "scoreMargin": "-5 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -59700,7 +59692,6 @@
     "tradScore": 20.02,
     "authIndex": 74,
     "scoreMargin": "+16 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -59937,7 +59928,6 @@
     "tradScore": 13.86,
     "authIndex": 67,
     "scoreMargin": "+11 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -63673,7 +63663,6 @@
     "tradScore": 13.02,
     "authIndex": 68,
     "scoreMargin": "+7 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -63913,7 +63902,6 @@
     "tradScore": 14.28,
     "authIndex": 80,
     "scoreMargin": "+12 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -64683,7 +64671,7 @@
     ],
     "verdict": "TRADITIONAL",
     "wokeScore": 2.1,
-    "tradScore": 13.0,
+    "tradScore": 13,
     "authIndex": 76,
     "scoreMargin": "+11 TRAD",
     "woke_trap_assessment": {
@@ -66121,7 +66109,7 @@
     "studio": "Amblin Partners / Neal Street Productions",
     "distributor": "Universal Pictures / DreamWorks",
     "verdict": "TRADITIONAL",
-    "wokeScore": 2.0,
+    "wokeScore": 2,
     "tradScore": 20.6,
     "authIndex": 91,
     "scoreMargin": "+19 TRAD",
@@ -66339,7 +66327,6 @@
     "tradScore": 7.18,
     "authIndex": 71,
     "scoreMargin": "+5 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -66575,7 +66562,6 @@
     "tradScore": 12.74,
     "authIndex": 82,
     "scoreMargin": "+11 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -68971,7 +68957,7 @@
     ],
     "verdict": "WOKE",
     "wokeScore": 16.1,
-    "tradScore": 4.0,
+    "tradScore": 4,
     "authIndex": 20,
     "scoreMargin": "-12 WOKE",
     "woke_trap_assessment": {
@@ -69228,7 +69214,8 @@
     },
     "summary": {
       "adultInsight": "Paddington 3 is a film about goodness, and adult viewers who have spent enough time in the world to know how rare that quality is will find it unexpectedly moving. The Paddington films work because they take goodness seriously. Paddington is not naive. He encounters cruelty, indifference, and exploitation, and he responds to all of it with the same disarming decency. That is not childishness. It is a moral strategy, and the films are wise enough to know it. For adults, Paddington 3 is a reminder that kindness is not weakness. The Brown family is not perfect. They argue, they make mistakes, they get distracted by the demands of modern life. But they keep choosing each other, and the film treats that choosing as the point of family rather than its precondition. Paddington's status as an immigrant is not a political argument. It is a moral one: he arrives as a stranger and becomes indispensable through his character rather than his credentials. The community that forms around him is diverse because communities are diverse, and the film treats that descriptively rather than ideologically. For adult viewers returning to a franchise they may have dismissed as children's entertainment, Paddington 3 offers the rare experience of a film that believes in the things it depicts. Marital love is real. Filial duty is real. Community is real. The bear who came from Peru is a better citizen than most citizens, and the film trusts you to understand why without explaining it. In 2026, that trust in the audience is its own kind of artistic integrity.",
-      "parentalGuidance": "Paddington 3 is rated PG and is one of the safest family films available. It is suitable for all ages. The film contains mild slapstick comedy: characters trip, fall, get splattered with food, and find themselves in gentle physical predicaments. No one is seriously hurt. The emotional stakes involve Paddington being separated from the Brown family or misunderstood by authorities, which may be briefly upsetting for very young children, but resolution is always warm and reassuring. No violence. No profanity. No sexual content. No frightening sequences beyond the mildest peril. The film centers positive themes: kindness, honesty, family loyalty, community, and the idea that character matters more than origin. Paddington's manners and good nature are presented as genuinely admirable qualities. The Brown family's commitment to each other is the emotional foundation. The film treats immigration descriptively: Paddington is a stranger who becomes beloved through his conduct. Recommended for ages 4 and up. This is an excellent family film that parents can enjoy alongside their children without any content concerns."
+      "parentalGuidance": "Paddington 3 is rated PG and is one of the safest family films available. It is suitable for all ages. The film contains mild slapstick comedy: characters trip, fall, get splattered with food, and find themselves in gentle physical predicaments. No one is seriously hurt. The emotional stakes involve Paddington being separated from the Brown family or misunderstood by authorities, which may be briefly upsetting for very young children, but resolution is always warm and reassuring. No violence. No profanity. No sexual content. No frightening sequences beyond the mildest peril. The film centers positive themes: kindness, honesty, family loyalty, community, and the idea that character matters more than origin. Paddington's manners and good nature are presented as genuinely admirable qualities. The Brown family's commitment to each other is the emotional foundation. The film treats immigration descriptively: Paddington is a stranger who becomes beloved through his conduct. Recommended for ages 4 and up. This is an excellent family film that parents can enjoy alongside their children without any content concerns.",
+      "overall": "Paddington 3 continues the beloved franchise with the same warmth, decency, and gentle humor that made the first two films modern family classics. The Brown family faces new challenges that test their commitment to each other, and Paddington's unshakeable goodness remains the moral center of a story that treats kindness as a genuine strength rather than a soft sentiment. This is children's entertainment that respects its audience enough to take goodness seriously, and the result is a rare family film that adults will find as moving as their kids find delightful."
     },
     "parentalGuidance": "PG for mild action and rude humor. The Paddington franchise continues. Mild adventure peril. Recommended for all ages. Celebrates politeness, family, and the power of being good. Essential family viewing."
   },
@@ -69497,7 +69484,8 @@
     },
     "summary": {
       "adultInsight": "Good Luck, Have Fun, Don't Die is an action comedy that knows exactly what it is doing politically and does not apologize for it. Tom Holland and Zendaya star as a couple navigating a chaotic adventure, and the film uses their star power to smuggle in a progressive gender framework that the adventure plot only partially obscures. For adult viewers, the film is instructive as a case study in how modern blockbusters encode ideology. Jake (Holland) is not incompetent; he is just less competent than Maya (Zendaya), and the film treats this reversal as inherently funny and inherently just. The traditional male hero is demoted to sidekick without being allowed to notice he was demoted. The film does not argue for this arrangement. It assumes it. That is the difference between propaganda and art: art makes a case; propaganda makes an assumption. The film also rewards attention to its woke-trap dynamics. The progressive content is visible from the opening scene. There is no hidden agenda that ambushes you in the third act. The film is transparent about its politics, which is more than can be said for many of its contemporaries. For adults who can separate their enjoyment of charismatic performers and well-executed action sequences from their disagreement with the film's assumptions, Good Luck, Have Fun, Don't Die is entertaining and lightweight. For adults who find the reflexive demotion of male competence exhausting, the film will grate regardless of how charming Holland and Zendaya are. The film's title is its philosophy: don't take anything too seriously, especially traditional gender roles. Whether that feels like liberation or erosion depends on what you walked in believing.",
-      "parentalGuidance": "Good Luck, Have Fun, Don't Die is rated PG-13 for action violence, language, and suggestive humor. It is suitable for teens with standard PG-13 content expectations. The film contains action sequences with gunfire, explosions, car chases, and hand-to-hand combat. Violence is comedic and stylized rather than graphic: no gore, minimal blood, and deaths are implied rather than shown. Language is moderate: some profanity but not pervasive. Sexual content is limited to suggestive humor and flirtation between the lead couple; no nudity, no sex scenes. The film's gender dynamics are progressive: Maya is consistently more competent than Jake, and the humor frequently derives from his inability to keep up with her. Parents who prefer traditional gender roles in entertainment may want to discuss this framing with teens. The film treats the reversal as natural and desirable without making an explicit argument, which makes the messaging more persuasive. The film also contains positive elements: the couple's loyalty to each other under pressure, teamwork as a value, and the importance of finishing what you start. Tom Holland and Zendaya's real-life chemistry translates to genuine warmth on screen. Recommended for ages 13 and up. Parents should be aware the film is ideologically transparent in its gender politics despite its lightweight tone."
+      "parentalGuidance": "Good Luck, Have Fun, Don't Die is rated PG-13 for action violence, language, and suggestive humor. It is suitable for teens with standard PG-13 content expectations. The film contains action sequences with gunfire, explosions, car chases, and hand-to-hand combat. Violence is comedic and stylized rather than graphic: no gore, minimal blood, and deaths are implied rather than shown. Language is moderate: some profanity but not pervasive. Sexual content is limited to suggestive humor and flirtation between the lead couple; no nudity, no sex scenes. The film's gender dynamics are progressive: Maya is consistently more competent than Jake, and the humor frequently derives from his inability to keep up with her. Parents who prefer traditional gender roles in entertainment may want to discuss this framing with teens. The film treats the reversal as natural and desirable without making an explicit argument, which makes the messaging more persuasive. The film also contains positive elements: the couple's loyalty to each other under pressure, teamwork as a value, and the importance of finishing what you start. Tom Holland and Zendaya's real-life chemistry translates to genuine warmth on screen. Recommended for ages 13 and up. Parents should be aware the film is ideologically transparent in its gender politics despite its lightweight tone.",
+      "overall": "Good Luck, Have Fun, Don't Die pairs Tom Holland and Zendaya in an action comedy that is transparent about its progressive gender politics from the opening scene. The film consistently positions Maya as the more competent half of the duo while Jake stumbles through the adventure as a well-meaning but perpetually outmatched sidekick, a dynamic the film treats as both natural and inherently amusing. The charismatic leads and brisk pacing make for an entertaining ride, though viewers sensitive to the reflexive demotion of male competence will find the film's assumptions grating regardless of how charming the stars are."
     },
     "parentalGuidance": "Expected PG-13 for language and some suggestive content. Comedy with romantic elements. Language moderate. Recommended for ages 13+. Pre-release assessment."
   },
@@ -69514,8 +69502,8 @@
     "readTime": "11 min",
     "poster": "/images/posters/shutter-island-2010.jpg",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 3.0,
-    "tradScore": 23.0,
+    "wokeScore": 3,
+    "tradScore": 23,
     "authIndex": 82,
     "scoreMargin": "+20 TRAD",
     "preRelease": false,
@@ -69710,7 +69698,7 @@
     "poster": "/images/posters/a-different-man-2024.jpg",
     "verdict": "WOKE",
     "wokeScore": 17.6,
-    "tradScore": 0.0,
+    "tradScore": 0,
     "authIndex": 51,
     "scoreMargin": "-18 WOKE",
     "preRelease": false,
@@ -69900,7 +69888,6 @@
     "tradScore": 4.5,
     "authIndex": 55,
     "scoreMargin": "-10 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -70031,7 +70018,8 @@
       "verdict_explanation": "The -6 WOKE margin places The Last Witness in the WOKE LEAN band (-3 to -9). Confidence is high. The creative team's track record supports the prediction. Aaron Sorkin specializes in institutional critique. Greta Gerwig consistently emphasizes power imbalances and systemic barriers. The collaboration produces a film with explicit progressive messaging. No hidden agenda. The ideology is central, not peripheral.",
       "bottom_line": "The Last Witness is a legal thriller about a woman the system is designed to fail. That is the film's entire premise. For viewers aligned with progressive institutional critique, the film delivers. For traditionalists seeking stories about functioning institutions and reliable systems, The Last Witness offers the opposite. It is worth watching for the legal and procedural elements, but understand what the film is arguing: institutions cannot be trusted; individuals must pursue justice outside systemic channels. April 10.",
       "adultInsight": "The Last Witness is a legal thriller that knows the judicial system can fail, and its honesty about that failure is its most valuable quality for adult viewers. The film does not pretend the courts are infallible temples of justice. Saoirse Ronan plays Rachel, a woman whose testimony against organized crime makes her a target, and the system she trusted to protect her becomes the instrument of her endangerment. For adults who have watched real institutions betray their purpose, the film is cathartic rather than merely polemical. Greta Gerwig's direction foregrounds the human cost of institutional failure: the camera stays on Rachel's face when lesser directors would cut to the courtroom drama. Aaron Sorkin's script, for all its familiar rhythms, lands its argument: the law is only as good as the people who administer it, and those people are fallible. The film also rewards attention to its quieter moments. Rachel is not just a victim. She is a woman who chose to testify because she believed it mattered. Her courage is real even when the system it serves is not. That tension, between individual honor and institutional corruption, is the film's enduring insight. For adults who want stories that take institutional failure seriously without lapsing into nihilism, The Last Witness threads the needle. The truth matters even when no one wants to hear it. That is a deeply conservative proposition delivered in a progressive package.",
-      "parentalGuidance": "The Last Witness is a legal thriller with themes of institutional corruption, organized crime, and witness intimidation. It is not a film for young children. The film contains sustained tension and psychological threat rather than graphic violence. Rachel's fear of retaliation from organized crime is the film's primary source of intensity: she is followed, threatened, and isolated from support systems. The judicial system's failure to protect her is depicted as systemic rather than incidental, which may be distressing for viewers who expect institutions to function reliably. Language is moderate. No sexual content. No graphic violence shown on screen, though the threat of violence is pervasive. The film's depiction of organized crime is sanitized compared to genre standards, but the implication of lethal consequences is clear. The film also contains positive elements: Rachel's courage in testifying despite the risks, her commitment to the truth, and the presentation of truth-telling as a moral imperative regardless of outcome. The film treats the legal system as worth repairing rather than worth abandoning. Recommended for teens 14 and up. Parents may want to discuss the film's depiction of institutional failure and the difference between criticizing a system and rejecting it entirely."
+      "parentalGuidance": "The Last Witness is a legal thriller with themes of institutional corruption, organized crime, and witness intimidation. It is not a film for young children. The film contains sustained tension and psychological threat rather than graphic violence. Rachel's fear of retaliation from organized crime is the film's primary source of intensity: she is followed, threatened, and isolated from support systems. The judicial system's failure to protect her is depicted as systemic rather than incidental, which may be distressing for viewers who expect institutions to function reliably. Language is moderate. No sexual content. No graphic violence shown on screen, though the threat of violence is pervasive. The film's depiction of organized crime is sanitized compared to genre standards, but the implication of lethal consequences is clear. The film also contains positive elements: Rachel's courage in testifying despite the risks, her commitment to the truth, and the presentation of truth-telling as a moral imperative regardless of outcome. The film treats the legal system as worth repairing rather than worth abandoning. Recommended for teens 14 and up. Parents may want to discuss the film's depiction of institutional failure and the difference between criticizing a system and rejecting it entirely.",
+      "overall": "The Last Witness is a legal thriller built on a single, uncompromising premise: the institutions designed to protect the vulnerable are themselves compromised, and Saoirse Ronan's Rachel must navigate a judicial system that has become as dangerous as the criminals she agreed to testify against. Greta Gerwig's direction keeps the focus on the human cost of institutional failure while Aaron Sorkin's script sharpens its argument that the law is only as reliable as the people entrusted to administer it. The film lands squarely in WOKE LEAN territory not because it manufactures grievances but because its entire dramatic architecture rests on systemic critique, making it a well-crafted entry in a genre that rewards progressive assumptions about power and institutions."
     },
     "seo": {
       "titleTag": "Is The Last Witness (2026) Woke? Legal Thriller Reviewed | VirtueVigil",
@@ -70101,7 +70089,6 @@
     "tradScore": 15.7,
     "authIndex": 71,
     "scoreMargin": "+13 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -70240,7 +70227,8 @@
       "verdict_explanation": "The +11 TRAD margin places Interceptor Protocol solidly in the TRADITIONAL band (10-19). Confidence is high. The action framework is straightforward. Military professionalism and competence are the film's core values. No ideological message complicates the narrative. The creative team has not signaled any intent to inject social commentary into the action premise.",
       "bottom_line": "Interceptor Protocol is a military action thriller built on one premise: a professional military unit protects civilians by defeating a terrorist threat. That is the entire moral architecture. The film does exactly what it promises. For viewers who enjoy straightforward action without ideological complication, Interceptor Protocol delivers. April 24.",
       "adultInsight": "Interceptor Protocol is the kind of film that critics dismiss as formulaic and audiences secretly love because it delivers exactly what it promises. Charlize Theron commands an elite special operations unit tasked with stopping a catastrophic threat, and the film treats military professionalism as the highest virtue. For adult viewers, this is the film's most valuable quality: it believes in competence. Commander Sarah Cross is not given a tragic backstory or a redemptive arc. She is good at her job because she trained, because she prepared, and because she leads people who trust her. The film does not apologize for this. It does not undercut her authority with a scene where she doubts herself to appear relatable. She stands on the bridge and gives orders, and the film treats that as admirable. That is increasingly rare in a culture that frames authority as inherently suspect. The film also rewards attention to its quiet argument about the military itself. The unit is diverse because the military is diverse. The international cooperation is practical because threats cross borders. None of this is ideological. It is descriptive. The film is not making a case for why the military should include women and minorities. It simply shows a military that does, and moves on. For adults who want an action film that respects the armed forces without turning them into props for political messaging, Interceptor Protocol is a clean, professional product. It will not change your life. It will entertain you for two hours and remind you that competence is a value worth filming.",
-      "parentalGuidance": "Interceptor Protocol is a military action thriller with combat sequences and violence consistent with the genre. It is suitable for teens with an interest in military action films. The film contains gunfights, explosions, hand-to-hand combat, and the implied deaths of enemy combatants. Violence is stylized rather than graphic: there is minimal blood, no gore, and no torture sequences. The threat that motivates the mission is catastrophic in scale, which creates sustained tension. Language is moderate, typical of PG-13 military action films. No sexual content. No nudity. The film treats military service with respect: competence, loyalty, sacrifice, and duty are presented as genuine virtues. Commander Cross earns respect through demonstrated ability rather than ideological assertion. The unit's cohesion and mutual trust are the film's emotional anchor. The enemy is a clear threat without gratuitous demonization. The film does not editorialize about military policy or foreign intervention. Recommended for ages 12 and up. Parents should expect standard action-thriller intensity. The film's moral framework is straightforward and traditional."
+      "parentalGuidance": "Interceptor Protocol is a military action thriller with combat sequences and violence consistent with the genre. It is suitable for teens with an interest in military action films. The film contains gunfights, explosions, hand-to-hand combat, and the implied deaths of enemy combatants. Violence is stylized rather than graphic: there is minimal blood, no gore, and no torture sequences. The threat that motivates the mission is catastrophic in scale, which creates sustained tension. Language is moderate, typical of PG-13 military action films. No sexual content. No nudity. The film treats military service with respect: competence, loyalty, sacrifice, and duty are presented as genuine virtues. Commander Cross earns respect through demonstrated ability rather than ideological assertion. The unit's cohesion and mutual trust are the film's emotional anchor. The enemy is a clear threat without gratuitous demonization. The film does not editorialize about military policy or foreign intervention. Recommended for ages 12 and up. Parents should expect standard action-thriller intensity. The film's moral framework is straightforward and traditional.",
+      "overall": "Interceptor Protocol is a military action thriller that knows exactly what it is and does not pretend to be anything else: Charlize Theron commands an elite unit, the threat is clear, the mission is urgent, and competence is the highest virtue on display. The film treats military professionalism, team loyalty, and personal sacrifice as genuinely admirable qualities without undercutting them with irony or apologizing for taking duty seriously. The result is a clean, efficient action film that carries a +11 TRAD margin because its moral framework is built on the straightforward belief that defending your country and trusting your team are values worth filming."
     },
     "fidelity_casting": {
       "assessment": "ORIGINAL SCREENPLAY",
@@ -70316,7 +70304,6 @@
     "tradScore": 6.3,
     "authIndex": 52,
     "scoreMargin": "0 NEUTRAL",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -70447,7 +70434,8 @@
       "verdict_explanation": "The +1 TRAD margin places Deadpool 3 in the MIXED band (-2 to +2). The film satirizes everything equally, making traditional and progressive frameworks equally absurd. In this equilibrium, the traditional values slightly edge out the progressive ones because Deadpool's core motivation remains love and protection. But the margins are razor-thin. The verdict is essentially toss-up territory.",
       "bottom_line": "Deadpool 3 is a film that refuses to pick a team. Traditional superhero earnestness is mocked. Progressive institutional critique is mocked equally. The only value the film commits to is Deadpool's irreverence. For viewers who appreciate satire across ideological boundaries, this works. For viewers seeking narratives that affirm their values rather than mock them, Deadpool 3 is frustrating. Adults can watch. Teenagers should not. May 1.",
       "adultInsight": "Deadpool 3 is a film about irreverence, and adult viewers will find that its irreverence has a specific architecture worth examining. The film mocks everything: traditional superhero earnestness, progressive institutional critique, the MCU itself, the idea that any of this matters. But mockery is not neutrality. The film's refusal to commit is itself a commitment: to irony as the highest value, to transgression as proof of sophistication, to the idea that caring about things is embarrassing. For adults, this is the film's diagnostic value. Does a character who treats everything as a joke still have anything worth protecting? The film's answer is yes, but it buries that answer under so many layers of self-aware commentary that you might miss it. Deadpool loves Vanessa. He protects his found family. He sacrifices himself when it matters. These are traditional values presented through a filter of compulsive irony, because the film is terrified of being caught taking anything seriously. The Wolverine dynamic is the film's most honest element: an old man who has seen too much, paired with a motormouth who refuses to feel anything, and both of them learning that indifference is not the same as strength. For adults who are exhausted by culture-war messaging in either direction, Deadpool 3 offers a respite. It is too busy making jokes about itself to lecture you. That is not the same as being apolitical. It is the politics of exhaustion dressed as comedy. Whether you find that liberating or empty depends on whether you think the refusal to choose sides is wisdom or cowardice.",
-      "parentalGuidance": "Deadpool 3 is rated R and contains the same level of adult content that defines the franchise. It is absolutely not suitable for children or young teenagers. The film contains pervasive strong language including every category of profanity. Violence is frequent, graphic, and played for comedy: characters are dismembered, impaled, blown up, and otherwise brutalized in ways that are framed as jokes. Blood and gore are abundant and stylized. Sexual humor is constant and explicit:Deadpool's entire persona is built on inappropriate sexual commentary, and no subject is off limits. The film contains references to sexual acts, genitalia, and bodily functions throughout. There is brief nudity. The meta-commentary about the MCU and superhero franchises includes references that will be meaningless to viewers unfamiliar with the previous films. The film's moral framework exists but is intentionally obscured: Deadpool's love for Vanessa and his loyalty to his found family are real values buried under layers of irony. The film treats sincerity as embarrassing and mockery as sophistication, which is worth discussing with older teens who may be watching. The Wolverine dynamic involves themes of aging, regret, and finding purpose after trauma. Recommended only for mature adults (18+). Parents should not be deceived by the superhero genre or the humor into thinking this is appropriate for younger viewers."
+      "parentalGuidance": "Deadpool 3 is rated R and contains the same level of adult content that defines the franchise. It is absolutely not suitable for children or young teenagers. The film contains pervasive strong language including every category of profanity. Violence is frequent, graphic, and played for comedy: characters are dismembered, impaled, blown up, and otherwise brutalized in ways that are framed as jokes. Blood and gore are abundant and stylized. Sexual humor is constant and explicit:Deadpool's entire persona is built on inappropriate sexual commentary, and no subject is off limits. The film contains references to sexual acts, genitalia, and bodily functions throughout. There is brief nudity. The meta-commentary about the MCU and superhero franchises includes references that will be meaningless to viewers unfamiliar with the previous films. The film's moral framework exists but is intentionally obscured: Deadpool's love for Vanessa and his loyalty to his found family are real values buried under layers of irony. The film treats sincerity as embarrassing and mockery as sophistication, which is worth discussing with older teens who may be watching. The Wolverine dynamic involves themes of aging, regret, and finding purpose after trauma. Recommended only for mature adults (18+). Parents should not be deceived by the superhero genre or the humor into thinking this is appropriate for younger viewers.",
+      "overall": "Deadpool 3 reunites the Merc with a Mouth with Wolverine in an R-rated satire that treats earnestness of any kind as the enemy and mockery as the only reliable worldview. The film lobs jokes at traditional superhero solemnity and progressive institutional critique with equal enthusiasm, landing in MIXED territory because its commitment to irony obscures the genuinely traditional values buried underneath: love, loyalty, and self-sacrifice. The result is entertaining, exhausting, and ideologically slippery, a film that refuses to pick a side not out of wisdom but out of a fear that caring about anything might look uncool."
     },
     "fidelity_casting": {
       "assessment": "FAITHFUL TO CHARACTER",
@@ -70521,7 +70509,7 @@
     "distributor": "Sony Pictures Entertainment",
     "verdict": "TRADITIONAL",
     "wokeScore": 1.4,
-    "tradScore": 19.0,
+    "tradScore": 19,
     "authIndex": 68,
     "scoreMargin": "+18 TRAD",
     "preRelease": false,
@@ -70810,7 +70798,6 @@
     "tradScore": 34.02,
     "authIndex": 78,
     "scoreMargin": "+25 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "externalScores": {
       "rottenTomatoesCritic": 0,
@@ -71225,7 +71212,6 @@
     "tradScore": 7.8,
     "authIndex": 62,
     "scoreMargin": "-4 WOKE",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "The Mandalorian and Grogu does not qualify as a woke trap under VVWS v1.1. The film carries a WOKE LEAN verdict with a -3.6 WOKE margin, indicating the woke content is genuinely present and constitutes the film's ideological foundation. A woke trap requires woke content to be hidden until past the 50% runtime mark. The Mandalorian and Grogu's ideological content is visible from the opening. The film's progressive elements (female warrior authority, diverse ensemble, institutional critique, collectivist framing) are core to the narrative, not buried. This is not a traditional film with woke messaging hidden in the third act. This is a woke-leaning film designed with progressive sensibilities at its foundation."
@@ -71604,7 +71590,6 @@
     "tradScore": 11.8,
     "authIndex": 66,
     "scoreMargin": "+5 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Pressure does not qualify as a woke trap. Carries TRADITIONAL LEAN verdict with +4.6 TRAD margin. While there are progressive elements in institutional critique and implicit questions about military hierarchy and decision-making authority, these are genre-standard for historical dramas about institutional crises. The film's core narrative is fundamentally traditional: competent individuals navigating institutional pressure, duty and loyalty prevailing, historical accuracy prioritized. The woke elements are not hidden until the third act. They're visible throughout and operate within a fundamentally traditional scaffold."
@@ -71799,7 +71784,6 @@
     "tradScore": 30.8,
     "authIndex": 88,
     "scoreMargin": "+20 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "wokeTrapAssessment": {
       "isTrap": false,
@@ -72633,7 +72617,6 @@
     "tradScore": 14.2,
     "authIndex": 68,
     "scoreMargin": "+11 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Deep Water does not qualify as a woke trap. Carries TRADITIONAL verdict with +10.7 TRAD margin, indicating clear traditional ideological scaffold. While there are scattered progressive elements in ensemble diversity and implicit environmental messaging, these are minimal and transparent. The film's core narrative is fundamentally traditional: competent men facing nature's indifference, survival through skill and will, no institutional critique. The woke elements are not hidden. They don't comprise the film's ideological foundation."
@@ -73164,7 +73147,7 @@
     "studio": "Multiple (French/International Co-production)",
     "distributor": "Music Box Films",
     "verdict": "TRADITIONAL",
-    "wokeScore": 0.0,
+    "wokeScore": 0,
     "tradScore": 18.5,
     "authIndex": 38,
     "scoreMargin": "+19 TRAD",
@@ -73629,7 +73612,6 @@
     "tradScore": 6.4,
     "authIndex": 71,
     "scoreMargin": "-17 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -74360,7 +74342,6 @@
     "wokeScore": 30.24,
     "tradScore": 8.96,
     "scoreMargin": "-21 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -74991,7 +74972,7 @@
     "studio": "Affirm Films",
     "distributor": "Sony Pictures",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 0.0,
+    "wokeScore": 0,
     "tradScore": 50.4,
     "authIndex": 91,
     "scoreMargin": "+50 TRAD",
@@ -75171,7 +75152,6 @@
     "tradScore": 18.4,
     "authIndex": 73,
     "scoreMargin": "+12 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -75245,7 +75225,6 @@
     "year": 2026,
     "date": "2026-04-05",
     "datePublished": "2026-04-05",
-    "preRelease": true,
     "rating": "PG-13",
     "runtime": 96,
     "genre": "Animated / Adventure / Comedy / Drama / Family",
@@ -75432,7 +75411,6 @@
     "scoreMargin": "+18 TRAD",
     "composite_score": 76,
     "confidence": "MODERATE",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -77702,7 +77680,6 @@
     "tradScore": 21.84,
     "authIndex": 76,
     "scoreMargin": "+18 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -78543,7 +78520,6 @@
     "tradScore": 24.08,
     "authIndex": 88,
     "scoreMargin": "+22 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -78876,7 +78852,6 @@
     "tradScore": 25.38,
     "authIndex": 67,
     "scoreMargin": "+13 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -79543,11 +79518,10 @@
     "productionCompany": "BBC Film",
     "boxOffice": "TBD (pre-release)",
     "verdict": "TRADITIONAL",
-    "wokeScore": 13.0,
+    "wokeScore": 13,
     "tradScore": 23.4,
     "authIndex": 65,
     "scoreMargin": "+10 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -80286,10 +80260,9 @@
     "poster": "/images/posters/beast-2026.jpg",
     "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 1.5,
-    "tradScore": 30.0,
+    "tradScore": 30,
     "authIndex": 95,
     "scoreMargin": "+29 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -82511,7 +82484,6 @@
     "tradScore": 7.88,
     "authIndex": 78,
     "scoreMargin": "-11 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -83685,7 +83657,6 @@
     "tradScore": 10.36,
     "authIndex": 82,
     "scoreMargin": "0 NEUTRAL",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -85002,7 +84973,6 @@
     "wokeScore": 7.79,
     "tradScore": 21.84,
     "scoreMargin": "+14 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The Odyssey is not marketed to or embraced by conservative audiences in any specific way that would set up a betrayal. It is marketed as Christopher Nolan's epic cinematic event of summer 2026, aimed at mass audiences who revered Oppenheimer, Interstellar, and Inception. Conservative audiences are part of that base but not the specific target. The source material, Homer's Odyssey, is one of Western civilization's foundational texts: a story about a man fighting to return to his family and homeland, featuring the faithful wife Penelope and the devoted son Telemachus as its moral anchors. Whatever progressive casting choices Nolan makes (and Elliot Page in the cast is notable), the source text's fundamental traditionalism will be difficult to overcome. The woke elements are real but unlikely to dominate a film being made by a filmmaker who has never shown interest in ideological messaging at the expense of narrative coherence."
@@ -85563,7 +85533,6 @@
     "wokeScore": 6.3,
     "tradScore": 13.09,
     "scoreMargin": "+7 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Spider-Man: Brand New Day is an openly marketed MCU sequel with no conservative audience bait involved. The Peter Parker character has always been Marvel's most ideologically sympathetic property: a self-sacrificing everyman defined by personal responsibility, a lesson learned the hard way, and consistent self-denial in service of others. The 'Brand New Day' title is taken from a 2008 comic arc where Peter's life is reset after making a selfless sacrifice. That premise is about personal responsibility and the cost of doing what is right, which is a fundamentally conservative moral framework. The film's progressive elements, primarily MCU's ongoing commitment to diverse casts and inclusive storytelling, are fully baked into the franchise's identity and should surprise no conservative who has been following the MCU. Conservative fans who want to watch a Peter Parker who struggles, sacrifices, and keeps going should find much to appreciate here."
@@ -85794,7 +85763,6 @@
     "tradScore": 17.3,
     "authIndex": 82,
     "scoreMargin": "+7 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -86037,7 +86005,6 @@
     "wokeScore": 7.08,
     "tradScore": 16.94,
     "scoreMargin": "+10 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Masters of the Universe is a nostalgia franchise reboot that carries zero conservative culture-war baggage going in. It is being marketed as a fun action-adventure film for fans of the original 1980s cartoon and new audiences alike. The He-Man character is inherently traditional: a prince who must accept his duty, claim his birthright, and use his extraordinary power to protect his world. This premise has more in common with traditional heroic mythology than with modern progressive superhero templates. The progressive elements likely to be present (modern casting, potentially updated female character dynamics) are standard reboot adjustments that do not represent a fundamental betrayal of the source material's spirit. Nicholas Galitzine is a muscular, conventionally masculine actor playing the most overtly masculine character in cartoon history. Conservative nostalgia fans should feel safe watching this."
@@ -86300,7 +86267,6 @@
     "tradScore": 16.24,
     "authIndex": 80,
     "scoreMargin": "+15 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -88634,7 +88600,7 @@
     "readTime": "10 min",
     "poster": "/images/posters/the-lion-king-1994.jpg",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 1.0,
+    "wokeScore": 1,
     "tradScore": 24.8,
     "authIndex": 95,
     "scoreMargin": "+24 TRAD",
@@ -90908,7 +90874,7 @@
     "poster": "/images/posters/fantastic-mr-fox-2009.jpg",
     "verdict": "TRADITIONAL",
     "wokeScore": 2.9,
-    "tradScore": 14.0,
+    "tradScore": 14,
     "authIndex": 89,
     "scoreMargin": "+11 TRAD",
     "preRelease": false,
@@ -91558,8 +91524,8 @@
     "readTime": "10 min",
     "poster": "/images/posters/click-2006.jpg",
     "verdict": "TRADITIONAL",
-    "wokeScore": 2.0,
-    "tradScore": 20.0,
+    "wokeScore": 2,
+    "tradScore": 20,
     "authIndex": 90,
     "scoreMargin": "+18 TRAD",
     "preRelease": false,
@@ -91958,7 +91924,7 @@
     "poster": "/images/posters/cast-away-2000.jpg",
     "verdict": "TRADITIONAL",
     "wokeScore": 1.7,
-    "tradScore": 19.0,
+    "tradScore": 19,
     "authIndex": 88,
     "scoreMargin": "+17 TRAD",
     "preRelease": false,
@@ -101634,7 +101600,7 @@
     "readTime": "11 min",
     "poster": "/images/posters/no-time-to-die-2021.jpg",
     "verdict": "MIXED",
-    "wokeScore": 12.0,
+    "wokeScore": 12,
     "tradScore": 12.2,
     "authIndex": 82,
     "scoreMargin": "0 NEUTRAL",
@@ -102114,7 +102080,7 @@
     "distributor": "Lionsgate / Roadside Attractions",
     "verdict": "WOKE LEAN",
     "wokeScore": 11.6,
-    "tradScore": 7.0,
+    "tradScore": 7,
     "authIndex": 89,
     "scoreMargin": "-5 WOKE",
     "preRelease": false,
@@ -102774,8 +102740,8 @@
     "studio": "Chernin Entertainment / Signal Hill Entertainment",
     "distributor": "20th Century Fox",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 2.0,
-    "tradScore": 22.0,
+    "wokeScore": 2,
+    "tradScore": 22,
     "authIndex": 93,
     "scoreMargin": "+20 TRAD",
     "preRelease": false,
@@ -105575,7 +105541,7 @@
     "readTime": "11 min",
     "poster": "/images/posters/avatar-fire-and-ash-2025.jpg",
     "verdict": "WOKE LEAN",
-    "wokeScore": 21.0,
+    "wokeScore": 21,
     "tradScore": 11.6,
     "authIndex": 80,
     "scoreMargin": "-9 WOKE",
@@ -108078,7 +108044,7 @@
     "readTime": "14 min",
     "poster": "/images/posters/together-2025.jpg",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 7.0,
+    "wokeScore": 7,
     "tradScore": 15.5,
     "authIndex": 70,
     "scoreMargin": "+9 TRAD",
@@ -108248,7 +108214,7 @@
     "readTime": "16 min",
     "poster": "/images/posters/the-apprentice-2024.jpg",
     "verdict": "WOKE",
-    "wokeScore": 21.0,
+    "wokeScore": 21,
     "tradScore": 6.6,
     "authIndex": 25,
     "scoreMargin": "-14 WOKE",
@@ -110271,7 +110237,6 @@
     "tradScore": 13.23,
     "authIndex": 80,
     "scoreMargin": "+7 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -112531,7 +112496,6 @@
     "tradScore": 18.4,
     "authIndex": 82,
     "scoreMargin": "+14 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -114099,7 +114063,7 @@
     "distributor": "Netflix",
     "verdict": "STRONGLY WOKE",
     "wokeScore": 24.3,
-    "tradScore": 4.0,
+    "tradScore": 4,
     "authIndex": 55,
     "scoreMargin": "-20 WOKE",
     "preRelease": false,
@@ -117666,7 +117630,7 @@
     "poster": "/images/posters/the-hangover-2009.jpg",
     "verdict": "TRADITIONAL LEAN",
     "wokeScore": 3.9,
-    "tradScore": 9.0,
+    "tradScore": 9,
     "authIndex": 78,
     "scoreMargin": "+5 TRAD",
     "preRelease": false,
@@ -119118,7 +119082,7 @@
     "readTime": "15 min",
     "poster": "/images/posters/bob-marley-one-love-2024.jpg",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 11.0,
+    "wokeScore": 11,
     "tradScore": 16.2,
     "authIndex": 71,
     "scoreMargin": "+5 TRAD",
@@ -119325,7 +119289,7 @@
     "readTime": "15 min",
     "poster": "/images/posters/black-phone-2-2025.jpg",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 2.0,
+    "wokeScore": 2,
     "tradScore": 10.2,
     "authIndex": 79,
     "scoreMargin": "+8 TRAD",
@@ -119464,7 +119428,7 @@
     "readTime": "13 min",
     "poster": "/images/posters/beverly-hills-cop-axel-f-2024.jpg",
     "verdict": "TRADITIONAL",
-    "wokeScore": 4.0,
+    "wokeScore": 4,
     "tradScore": 15.2,
     "authIndex": 76,
     "scoreMargin": "+11 TRAD",
@@ -127537,7 +127501,7 @@
     "readTime": "12 min",
     "poster": "/images/posters/joker-2019.jpg",
     "verdict": "MIXED",
-    "wokeScore": 13.0,
+    "wokeScore": 13,
     "tradScore": 13.6,
     "authIndex": 78,
     "scoreMargin": "+1 TRAD",
@@ -130967,7 +130931,7 @@
     "studio": "Marvel Studios",
     "distributor": "Paramount Pictures",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 5.0,
+    "wokeScore": 5,
     "tradScore": 14.4,
     "scoreMargin": "+9 TRAD",
     "preRelease": false,
@@ -131283,7 +131247,6 @@
     "tradScore": 16.4,
     "authIndex": 64,
     "scoreMargin": "+14 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -135310,7 +135273,7 @@
     "studio": "DC Films / 6th & Idaho / Dylan Clark Productions",
     "distributor": "Warner Bros. Pictures",
     "verdict": "TRADITIONAL",
-    "wokeScore": 8.0,
+    "wokeScore": 8,
     "tradScore": 22.1,
     "authIndex": 43,
     "scoreMargin": "+14 TRAD",
@@ -137360,7 +137323,6 @@
     "tradScore": 24.82,
     "authIndex": 78,
     "scoreMargin": "+22 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -137564,7 +137526,6 @@
     "tradScore": 11.2,
     "authIndex": 48,
     "scoreMargin": "-6 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -138827,7 +138788,7 @@
     "poster": "/images/posters/emilia-perez-2024.jpg",
     "verdict": "STRONGLY WOKE",
     "wokeScore": 30.4,
-    "tradScore": 5.0,
+    "tradScore": 5,
     "authIndex": 40,
     "scoreMargin": "-25 WOKE",
     "preRelease": false,
@@ -139067,8 +139028,8 @@
     "studio": "2521 Entertainment / Slingshot Productions / Sunrise Animation Studios",
     "distributor": "Angel Studios",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 0.0,
-    "tradScore": 36.0,
+    "wokeScore": 0,
+    "tradScore": 36,
     "authIndex": 55,
     "scoreMargin": "+36 TRAD",
     "preRelease": false,
@@ -141057,7 +141018,6 @@
     "tradScore": 13.7,
     "authIndex": 64,
     "scoreMargin": "+6 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -141332,7 +141292,7 @@
     "readTime": "12 min",
     "poster": "/images/posters/rebel-moon-part-two-the-scargiver-2024.jpg",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 18.0,
+    "wokeScore": 18,
     "tradScore": 23.8,
     "authIndex": 35,
     "scoreMargin": "+6 TRAD",
@@ -145621,7 +145581,7 @@
     "readTime": "11 min",
     "poster": "/images/posters/madame-web-2024.jpg",
     "verdict": "MIXED",
-    "wokeScore": 9.0,
+    "wokeScore": 9,
     "tradScore": 9.2,
     "authIndex": 38,
     "scoreMargin": "0 NEUTRAL",
@@ -146656,7 +146616,7 @@
     "readTime": "11 min",
     "poster": "/images/posters/furiosa-a-mad-max-saga-2024.jpg",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 6.0,
+    "wokeScore": 6,
     "tradScore": 29.7,
     "authIndex": 78,
     "scoreMargin": "+24 TRAD",
@@ -148480,7 +148440,7 @@
     "poster": "/images/posters/the-amateur-2025.jpg",
     "verdict": "TRADITIONAL",
     "wokeScore": 3.9,
-    "tradScore": 20.0,
+    "tradScore": 20,
     "authIndex": 62,
     "scoreMargin": "+16 TRAD",
     "preRelease": false,
@@ -150587,7 +150547,7 @@
     "readTime": "10 min",
     "poster": "/images/posters/frozen-ii-2019.jpg",
     "verdict": "WOKE LEAN",
-    "wokeScore": 19.0,
+    "wokeScore": 19,
     "tradScore": 14.4,
     "authIndex": 68,
     "scoreMargin": "-5 WOKE",
@@ -150793,7 +150753,7 @@
     "readTime": "10 min",
     "poster": "/images/posters/frozen-2013.jpg",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 13.0,
+    "wokeScore": 13,
     "tradScore": 18.4,
     "authIndex": 74,
     "scoreMargin": "+5 TRAD",
@@ -151678,7 +151638,7 @@
     "readTime": "12 min",
     "poster": "/images/posters/captain-america-brave-new-world-2025.jpg",
     "verdict": "TRADITIONAL LEAN",
-    "wokeScore": 19.0,
+    "wokeScore": 19,
     "tradScore": 22.8,
     "authIndex": 68,
     "scoreMargin": "+4 TRAD",
@@ -151989,7 +151949,7 @@
     "readTime": "11 min",
     "poster": "/images/posters/black-bag-2025.jpg",
     "verdict": "TRADITIONAL",
-    "wokeScore": 6.0,
+    "wokeScore": 6,
     "tradScore": 20.2,
     "authIndex": 74,
     "scoreMargin": "+14 TRAD",
@@ -153080,7 +153040,7 @@
     "readTime": "8 min",
     "poster": "/images/posters/top-gun-maverick-2022.jpg",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 1.0,
+    "wokeScore": 1,
     "tradScore": 21.3,
     "authIndex": 91,
     "scoreMargin": "+20 TRAD",
@@ -157094,7 +157054,7 @@
     "poster": "/images/posters/the-accountant-2-2025.jpg",
     "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 3.5,
-    "tradScore": 26.0,
+    "tradScore": 26,
     "authIndex": 76,
     "scoreMargin": "+23 TRAD",
     "preRelease": false,
@@ -158681,7 +158641,7 @@
     "readTime": "8 min",
     "poster": "/images/posters/mission-impossible-final-reckoning-2025.jpg",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 1.0,
+    "wokeScore": 1,
     "tradScore": 24.1,
     "authIndex": 93,
     "scoreMargin": "+23 TRAD",
@@ -159297,7 +159257,7 @@
     "readTime": "7 min",
     "poster": "/images/posters/dog-man-2025.jpg",
     "verdict": "STRONGLY TRADITIONAL",
-    "wokeScore": 3.0,
+    "wokeScore": 3,
     "tradScore": 22.8,
     "authIndex": 87,
     "scoreMargin": "+20 TRAD",
@@ -163352,7 +163312,7 @@
     "poster": "/images/posters/zootopia-2-2025.jpg",
     "verdict": "STRONGLY WOKE",
     "wokeScore": 91.4,
-    "tradScore": 53.0,
+    "tradScore": 53,
     "authIndex": 70,
     "scoreMargin": "-38 WOKE",
     "preRelease": false,
@@ -165875,7 +165835,7 @@
     "readTime": "12 min",
     "poster": "/images/posters/send-help-2026.jpg",
     "verdict": "TRADITIONAL",
-    "wokeScore": 24.0,
+    "wokeScore": 24,
     "tradScore": 39.2,
     "authIndex": 72,
     "scoreMargin": "+15 TRAD",
@@ -167663,7 +167623,7 @@
     "poster": "/images/posters/mercy-2026.jpg",
     "verdict": "STRONGLY TRADITIONAL",
     "wokeScore": 15.8,
-    "tradScore": 44.0,
+    "tradScore": 44,
     "authIndex": 72,
     "scoreMargin": "+28 TRAD",
     "preRelease": false,
@@ -173766,7 +173726,6 @@
     "tradScore": 52,
     "authIndex": 62,
     "scoreMargin": "+4 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "See full review for woke trap assessment."
@@ -174286,7 +174245,6 @@
     "tradScore": 6,
     "authIndex": 72,
     "scoreMargin": "+3 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP Seth MacFarlane built his career on the premise that there are things adults should be allowed to laugh at without being scolded, and Ted on Peacock is the most unapologetic expression of that philosophy since Family Guy's early seasons. Season 1 was set in 1993 New England a"
@@ -175285,7 +175243,6 @@
     "tradScore": 42,
     "authIndex": 55,
     "scoreMargin": "-16 WOKE",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "See full review for woke trap assessment."
@@ -175519,7 +175476,6 @@
     "tradScore": 3,
     "authIndex": 48,
     "scoreMargin": "-3 WOKE",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "PREDICTED. Cannot assess runtime for unreleased film. Removing trap flag."
@@ -176098,7 +176054,6 @@
     "tradScore": 6,
     "authIndex": 68,
     "scoreMargin": "+2 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP - with Season 7 caveat noted Outlander has earned more goodwill from traditional-values audiences than almost any other prestige drama of its era. The central romance between Jamie and Claire Fraser is built on devotion, sacrifice, faith, and the kind of love that transcends ci"
@@ -176351,7 +176306,6 @@
     "tradScore": 7,
     "authIndex": 74,
     "scoreMargin": "+4 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP Season 1 of Netflix's One Piece was a genuine surprise - a live-action anime adaptation that respected its source material and trusted the audience to come along for the ride. Eiichiro Oda's active involvement as executive producer is the key variable: he has publicly stated hi"
@@ -180366,5 +180320,390 @@
       "metaDescription": "VirtueVigil's full VVWS review of Love Hurts (2025). We score every trope and break down the message. Trope scores, verdict: TRADITIONAL LEAN (+0.00). Parental guidance included.",
       "keywords": "is Love Hurts woke, Love Hurts 2025 review, Love Hurts VirtueVigil, Love Hurts parents guide"
     }
+  },
+  {
+    "id": "nimrods-2026",
+    "slug": "nimrods-2026",
+    "title": "Nimrods",
+    "year": 2026,
+    "type": "film",
+    "genre": "Comedy, Drama, Music",
+    "date": "2026-08-20",
+    "datePublished": "2026-08-20",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "6 min",
+    "poster": "/images/posters/nimrods-2026.jpg",
+    "director": "Lee Kirk",
+    "writers": "Lee Kirk, Billie Joe Armstrong, Mike Dirnt",
+    "cast": [
+      "Mason Thames",
+      "Kylr Coffman",
+      "Ryan Foust",
+      "Jenna Fischer",
+      "Mckenna Grace",
+      "Angela Kinsey",
+      "Keen Ruffalo",
+      "Billie Joe Armstrong",
+      "Mike Dirnt",
+      "Tr\u00e9 Cool"
+    ],
+    "studio": "Inaugural Entertainment",
+    "releaseDate": "2026-08-14",
+    "runtime": "1h 42m",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 1.2,
+    "tradScore": 7.58,
+    "authIndex": 85,
+    "scoreMargin": "+6 TRADITIONAL",
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The film wears its heart on its sleeve from the opening scene. There is no late-act pivot. The story is a straightforward road-trip comedy with an earnest musical core."
+    },
+    "summary": {
+      "overall": "Lee Kirk's Nimrods is the kind of movie that has no business working as well as it does. A Green Day-inspired musical road comedy about three Kansas City teenagers who steal a car and drive to Los Angeles to open for their favorite band, it could have been a cringe-fest of epic proportions. Instead, it lands somewhere between a warm hug and a crowd-pleasing concert encore. Mason Thames anchors the film as Tommy, a kid so desperate to believe his life is about to change that he falls for an obvious prank call from his deadbeat older brother Wayne (Keen Ruffalo). Alongside bandmates Fred (Kylr Coffman) and Chad (Ryan Foust), Tommy barrels cross-country while the band's music weaves through the narrative in surprisingly effective fashion. Billie Joe Armstrong, Mike Dirnt, and Tr\u00e9 Cool appear as themselves with the kind of good-natured self-awareness that sells the entire premise. It helps that the original songs written by Armstrong and Dirnt have genuine melodic bite, making the band's dream feel earned rather than manufactured. Jenna Fischer and Angela Kinsey reunite in supporting roles and their comedic chemistry remains as reliable as ever. The film does not pretend to be more than what it is: a sincere story about friendship, persistence, and the life-giving power of believing in something bigger than yourself. In an era of irony poisoning and ideological browbeating, Nimrods plays it refreshingly straight.",
+      "oneLiner": "A surprisingly earnest road-trip musical that values friendship and persistence over irony.",
+      "adultInsight": "Nimrods understands something that too many youth-targeted films miss: teenagers are capable of sincerity. The film never mocks Tommy for believing. His desperation is treated with respect, not as a punchline. The brotherly dynamic between Tommy and Wayne is genuinely affecting in its final turn, and the Green Day cameos are handled with charm rather than self-parody. The film's worldview is fundamentally optimistic about the relationship between effort and reward, and it treats musical ambition as a legitimate calling rather than a childish delusion.",
+      "parentalGuidance": "Rated R for language and some teen partying. Language is frequent but not gratuitous. Teens drink at a party. No nudity or sexual content. The thematic core is positive: pursuing a dream, friendship, and perseverance. Recommended for ages 15+. Parents should know the R rating comes primarily from language, not from any ideologically charged content."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRADITIONAL-041",
+        "name": "Industry and Perseverance",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "The entire film is structured around Tommy and his bandmates driving across the country to chase a dream. The narrative rewards persistence and effort at every turn. Severity 3: a central thematic thread but not the sole focus. Authenticity High (0.7): organically embedded in the road-trip/music genre. Centrality High (1.8): the journey IS the movie. Weighted: 3 x 0.7 x 1.8 = 3.78."
+      },
+      {
+        "id": "TRADITIONAL-032",
+        "name": "The Meritocratic Triumph",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Medium",
+        "weightedScore": 2.1,
+        "explanation": "The band is not wealthy or connected. They succeed (or grow) based on their talent and sheer determination, not identity or connections. No one hands them anything. Severity 3: visible throughout. Authenticity High (0.7): the 'band chasing a break' narrative is a rock genre staple. Centrality Medium (1.0): underscores the road trip but is not the sole driver. Weighted: 3 x 0.7 x 1.0 = 2.1."
+      },
+      {
+        "id": "TRADITIONAL-033",
+        "name": "The Wise Elder",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.0,
+        "explanation": "Jenna Fischer's character provides maternal guidance and emotional grounding for Tommy, connecting him to perspective beyond the immediate chaos of the trip. Severity 2: present but not dominant. Authenticity Moderate (1.0): standard supportive-parent figure. Centrality Low (0.5): supporting role. Weighted: 2 x 1.0 x 0.5 = 1.0."
+      },
+      {
+        "id": "TRADITIONAL-045",
+        "name": "Defense of the Innocent",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "explanation": "Tommy's bandmates and the adults around him rally to protect his innocence and belief, refusing to crush his dream even when the prank is exposed. Severity 2: subtle but present. Authenticity High (0.7): organic to the protective-community dynamic. Centrality Low (0.5): subplot-level. Weighted: 2 x 0.7 x 0.5 = 0.7."
+      },
+      {
+        "id": "WOKE-001",
+        "name": "Anti-Authority Punk Aesthetic (Organic)",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "explanation": "Green Day's presence naturally brings a mild anti-establishment punk aesthetic. This is organic to the band's brand identity, not an ideological insertion. The film does not weaponize it. Severity 2: trace presence only. Authenticity High (0.7): entirely consistent with Green Day's decades-long brand. Centrality Low (0.5): background color, not narrative driver. Weighted: 2 x 0.7 x 0.5 = 0.7."
+      },
+      {
+        "id": "WOKE-014",
+        "name": "The Evil Capitalist (Mild)",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.5,
+        "explanation": "A brief subplot involving a predatory promoter attempts to exploit the band. Severity 1: negligible presence. Authenticity Moderate (1.0): music industry exploitation is a real phenomenon. Centrality Low (0.5): barely registers. Weighted: 1 x 1.0 x 0.5 = 0.5."
+      }
+    ],
+    "seo": {
+      "seoTitle": "Nimrods (2026) Woke Score \u2014 VirtueVigil Review",
+      "seoDescription": "Is Nimrods woke? Our review of the 2026 Green Day road-trip musical starring Mason Thames scores ideological content. Earnest coming-of-age story leans traditional.",
+      "faq": [
+        {
+          "q": "Is Nimrods (2026) woke?",
+          "a": "No. Nimrods is an earnest, traditional-leaning coming-of-age musical. It celebrates friendship, perseverance, and the pursuit of a dream without ideological messaging."
+        },
+        {
+          "q": "Is Nimrods appropriate for kids?",
+          "a": "Rated R for language. Thematically positive with no sexual content or graphic violence. Recommended for ages 15+ with parental awareness of strong language."
+        }
+      ]
+    },
+    "parentalGuidance": "Rated R for language and teen partying. Thematic core is positive: pursuing a dream, friendship, perseverance. No sexual content, nudity, or graphic violence. Recommended for ages 15+. Parents should know the R rating comes primarily from language, not ideological or sexual content.",
+    "debateQuestion": "Can a genuinely sincere coming-of-age film succeed in 2026 without irony, deconstruction, or ideological signaling \u2014 and does Nimrods prove that audiences are hungry for exactly that?"
+  },
+  {
+    "id": "true-detective-night-country-2024",
+    "slug": "true-detective-night-country-2024",
+    "title": "True Detective: Night Country",
+    "year": 2024,
+    "type": "series",
+    "platform": "HBO",
+    "network": "HBO",
+    "seasons": 1,
+    "episodes": 6,
+    "genre": "Crime Drama, Mystery, Thriller",
+    "date": "2026-08-20",
+    "datePublished": "2026-08-20",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "7 min",
+    "poster": "/images/posters/true-detective-night-country-2024.jpg",
+    "showrunner": "Issa L\u00f3pez",
+    "cast": [
+      "Jodie Foster",
+      "Kali Reis",
+      "Fiona Shaw",
+      "Finn Bennett",
+      "Isabella Star LaBlanc",
+      "John Hawkes",
+      "Christopher Eccleston"
+    ],
+    "releaseDate": "2024-01-14",
+    "verdict": "WOKE",
+    "wokeScore": 22.4,
+    "tradScore": 5.94,
+    "authIndex": 27,
+    "scoreMargin": "-16 WOKE",
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The ideological elements are present from the first episode and build consistently. This is not a bait-and-switch -- viewers know what they are getting early."
+    },
+    "summary": {
+      "overall": "True Detective: Night Country arrives with the kind of prestige-TV pedigree that makes criticism feel almost impolite. Nineteen Emmy nominations. Jodie Foster's first major television role. The highest viewership in the anthology's history. And yet, for all its accolades and atmospheric craft, Night Country is the most ideologically freighted season of True Detective yet -- a show that swaps the philosophical brooding of its predecessors for a checklist of 2024 identity politics. The setup is compelling: in the fictional town of Ennis, Alaska, eight men vanish from a remote Arctic research station during the polar night. Detectives Liz Danvers (Jodie Foster) and Evangeline Navarro (Kali Reis) are assigned to the case, carrying their own haunted histories. The first two episodes are genuinely gripping. Issa L\u00f3pez creates a sense of place so vivid you can feel the cold. But as the mystery unfolds, the show reveals its hand: the white male scientists at the research station are not just victims -- they are morally compromised. The Native women of Ennis, by contrast, are the bearers of genuine wisdom, community, and justice. The mine that employs the town is a pollution-spewing avatar of corporate-colonial evil. The police force is corrupt, incompetent, or both. By the finale, the central mystery is resolved through an act of collective vigilante justice by Indigenous women -- presented not as morally complicated but as righteous and necessary. The show is well-made but its ideological commitments are so thoroughgoing that they overwhelm the mystery they are supposed to serve.",
+      "oneLiner": "Atmospheric, well-acted, and ideologically saturated -- Night Country prioritizes a message over the mystery it was built to tell.",
+      "adultInsight": "Night Country is a fascinating case study in how prestige television uses genre as a delivery mechanism for worldview. The show is not dishonest about its commitments -- it wears them openly. But it is worth noting what gets sacrificed: the philosophical ambiguity that defined season one, the moral complexity of individual versus systemic evil, and any genuine detective work. The mystery is solved not through the intellect of its detectives but through a supernatural vision granted to Navarro, validating Indigenous spirituality as epistemologically superior to Western rationalism. This is not subtext. It is the text.",
+      "parentalGuidance": "TV-MA. Contains strong violence including suicide, graphic corpse imagery, sexual content, and pervasive profanity. The themes are dark and the tone is unremittingly grim. Not recommended for viewers under 17. Parents should be aware that the show presents a worldview that explicitly frames Western institutions -- police, corporations, science -- as corrupt or predatory, and Indigenous spiritual knowledge as the sole locus of truth and justice."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-003",
+        "name": "The Girl Boss",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 10.08,
+        "explanation": "Both lead detectives are women in a traditionally male genre. Danvers is aggressive, sexually promiscuous, and emotionally closed-off. Navarro is a stoic loner with a violent streak. Neither displays traditional feminine virtues. Male characters are uniformly weak, corrupt, or predatory. Severity 4: pervasive character design. Authenticity Low (1.4): the gender-swapped dynamic is clearly ideologically motivated rather than organic to the story. Centrality High (1.8): the two leads ARE the show. Weighted: 4 x 1.4 x 1.8 = 10.08."
+      },
+      {
+        "id": "WOKE-004",
+        "name": "Institutional Evil (Police/Corporate/Science)",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Low",
+        "centrality": "Medium",
+        "weightedScore": 5.6,
+        "explanation": "The police force is corrupt and incompetent. The mining corporation is poisoning the town. The research station scientists are morally compromised. No institution is functional or good. Severity 4: strong throughout. Authenticity Low (1.4): blanket institutional condemnation is ideologically driven. Centrality Medium (1.0). Weighted: 4 x 1.4 x 1.0 = 5.6."
+      },
+      {
+        "id": "WOKE-009",
+        "name": "The Victimhood Meritocracy",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Low",
+        "centrality": "Medium",
+        "weightedScore": 2.52,
+        "explanation": "Indigenous women are presented as the sole bearers of moral authority, truth, and justice. Their victimhood by colonial/corporate forces grants them automatic moral superiority over every other group. Severity 3: consistent thematic frame. Authenticity Low (1.4): the moral-authority-via-victimhood framing is an ideological construct. Centrality Medium (0.6). Weighted: 3 x 1.4 x 0.6 = 2.52."
+      },
+      {
+        "id": "WOKE-020",
+        "name": "Anti-Western Revisionism",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Low",
+        "centrality": "Medium",
+        "weightedScore": 4.2,
+        "explanation": "The mining company -- a stand-in for Western industrial capitalism -- is literally poisoning the land and the Indigenous population. Western science (the research station) is revealed as morally bankrupt. Western law enforcement is corrupt. The show's resolution validates extra-legal Indigenous justice. Severity 3: consistent thematic throughline. Authenticity Low (1.4): the entirety of Western civilization is framed as predatory. Centrality Medium (1.0). Weighted: 3 x 1.4 x 1.0 = 4.2."
+      },
+      {
+        "id": "TRADITIONAL-037",
+        "name": "Small-Town Integrity (Indigenous Community)",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Medium",
+        "weightedScore": 2.7,
+        "explanation": "The Indigenous women of Ennis are presented as a tight-knit community providing mutual support that the formal institutions cannot. While this is framed through identity politics, the 'local community over distant institutions' dynamic is a traditional value. Severity 3: a major element. Authenticity Moderate (1.0). Centrality Medium (0.9). Weighted: 3 x 1.0 x 0.9 = 2.7."
+      },
+      {
+        "id": "TRADITIONAL-045",
+        "name": "Defense of the Innocent (Indigenous Women Protecting Their Community)",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "Medium",
+        "weightedScore": 1.89,
+        "explanation": "The show's resolution involves women taking direct action to protect their community from ongoing harm. While the method is extra-legal, the underlying instinct to defend the vulnerable is traditional. Severity 3: the resolution of the entire show. Authenticity Moderate (1.0). Centrality Medium (0.63). Weighted: 3 x 1.0 x 0.63 = 1.89."
+      },
+      {
+        "id": "TRADITIONAL-042",
+        "name": "The Forgiving Heart (Anchoring Subplot)",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.35,
+        "explanation": "A subplot involving reconciliation between Danvers and her stepdaughter offers a minor traditional counterbalance to the otherwise relentless cynicism. Severity 2: present but underdeveloped. Authenticity Moderate (1.0). Centrality Low (0.675). Weighted: 2 x 1.0 x 0.675 = 1.35."
+      }
+    ],
+    "seo": {
+      "seoTitle": "True Detective: Night Country (2024) Woke Score -- Is It Woke? | VirtueVigil Review",
+      "seoDescription": "Is True Detective: Night Country woke? Our review of the 2024 HBO series scores the Jodie Foster crime drama. Prestige TV with an ideological core. Scores WOKE.",
+      "faq": [
+        {
+          "q": "Is True Detective: Night Country woke?",
+          "a": "Yes. Night Country scores WOKE, with 19 Emmy nominations and heavy ideological messaging around gender, race, Indigenous identity, and institutional corruption. The detective genre is a vehicle for worldview delivery."
+        },
+        {
+          "q": "Is Night Country the most woke season of True Detective?",
+          "a": "Yes. It is the first season without creator Nic Pizzolatto's involvement and the most ideologically saturated. Previous seasons explored philosophical themes; Night Country foregrounds identity politics."
+        },
+        {
+          "q": "Is True Detective: Night Country appropriate for teens?",
+          "a": "Rated TV-MA for strong violence, suicide, graphic imagery, sexual content, and pervasive language. Not recommended for viewers under 17. Contains ideological framing that parents may wish to discuss."
+        }
+      ]
+    },
+    "parentalGuidance": "TV-MA. Contains strong violence including suicide, graphic corpse imagery, sexual content, and pervasive profanity. Themes are dark and tone is unremittingly grim. Not recommended for viewers under 17. Parents should be aware of the show's ideological framing of Western institutions as corrupt/predatory and Indigenous spirituality as the sole locus of truth.",
+    "debateQuestion": "When a prestige drama is as well-crafted as Night Country, does the quality of the craft excuse the ideological monoculture -- or does the artistry make the messaging more effective and therefore more worth scrutinizing?"
+  },
+  {
+    "id": "citizen-kane-1941",
+    "slug": "citizen-kane-1941",
+    "title": "Citizen Kane",
+    "year": 1941,
+    "type": "film",
+    "genre": "Drama, Mystery",
+    "date": "2026-08-20",
+    "datePublished": "2026-08-20",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "7 min",
+    "poster": "/images/posters/citizen-kane-1941.jpg",
+    "director": "Orson Welles",
+    "writers": "Herman J. Mankiewicz, Orson Welles",
+    "cast": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Dorothy Comingore",
+      "Agnes Moorehead",
+      "Ruth Warrick",
+      "Everett Sloane"
+    ],
+    "studio": "RKO Radio Pictures",
+    "distributor": "RKO Radio Pictures",
+    "releaseDate": "1941-09-05",
+    "runtime": "1h 59m",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 2.38,
+    "tradScore": 14.88,
+    "authIndex": 86,
+    "scoreMargin": "+13 TRADITIONAL",
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "The film critiques wealth and power consistently from its opening frames. No late-act pivot. The moral framework is traditional throughout."
+    },
+    "summary": {
+      "overall": "Orson Welles's Citizen Kane has carried the 'greatest film ever made' mantle for so long that it has become something close to homework. That is a shame, because Kane is not an obligation. It is a fireworks display. Made when Welles was 25 years old, it is the most audacious debut in American cinema \u2014 a film that essentially invented the visual grammar that every movie after it would use. The story follows the life and death of Charles Foster Kane, a newspaper magnate loosely modeled on William Randolph Hearst. Told through the memories of those who knew him, the film is a mystery in structure: a reporter investigates the meaning of Kane's dying word, 'Rosebud,' and in the process assembles a portrait of a man who accumulated the world and lost himself. What makes Kane endure is not the camera tricks \u2014 though the deep-focus photography and elaborate crane shots remain breathtaking. It is the film's moral clarity. Kane is a cautionary tale about what happens when ambition devours character. Wealth does not corrupt Kane because it is wealth. It corrupts him because he uses it to fill an emotional void \u2014 the childhood he was torn from \u2014 and discovers, too late, that no amount of money or power can replace what he lost. This is not an anti-capitalist message. It is a profoundly conservative one: that happiness is found not in acquisition but in simple human connection, and that a life spent chasing the former at the expense of the latter is a life wasted.",
+      "oneLiner": "The greatest film ever made earns the title by telling the most traditional story of all: a man who gained the world and lost his soul.",
+      "adultInsight": "Citizen Kane is often misread as a left-wing attack on wealth and power. It is not. The film does not argue that Kane is a villain because he is rich. It argues that he is miserable because he substitutes acquisition for love. His newspaper crusades are not acts of principle but acts of ego. His political campaign fails not because of the rival who exposes his affair but because he has never cultivated the character to withstand a test. His fortress Xanadu is not a symbol of capitalist excess; it is a tomb for a man who died long before his body did. The film's political sympathies are incidental. Its moral sympathies are eternal.",
+      "parentalGuidance": "Rated PG. No violence, sex, or profanity by modern standards. Thematic material involves marital infidelity, political corruption, and the emotional devastation of wealth without purpose. Appropriate for ages 12+. Excellent family viewing with discussion potential about ambition, character, and what makes a life well-lived."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRADITIONAL-029",
+        "name": "The Principled Patriarch (Inverted \u2014 Absence of)",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "Kane's entire life is shaped by the absence of a father. He is sent away at age eight and never recovers. The film argues, through negation, that paternal presence is essential. His quest for love and control is a lifelong attempt to fill this void. Severity 4: the psychological core of the film. Authenticity High (0.7): childhood separation is a universal human experience. Centrality High (1.8): Rosebud IS this absence. Weighted: 4 x 0.7 x 1.8 = 5.04."
+      },
+      {
+        "id": "TRADITIONAL-028",
+        "name": "The Value of Humility",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "Kane's tragedy is that he never learns humility. Every relationship fails because he cannot see past his own will. His second wife Susan's breakdown is a direct result of his refusal to accept that she is not an opera singer. The film's entire arc is a demonstration that greatness without humility is self-destruction. Severity 5: the film IS this lesson. Authenticity High (0.7): organic to the character study genre. Centrality High (1.8): defines the narrative arc. Weighted: 5 x 0.7 x 1.8 = 6.3."
+      },
+      {
+        "id": "TRADITIONAL-044",
+        "name": "The Natural Family (Implicit \u2014 Loss as Tragedy)",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Medium",
+        "weightedScore": 2.8,
+        "explanation": "Kane is ripped from his mother at age eight. His two marriages fail. He dies alone. The film never explicitly argues for the traditional family, but its entire emotional architecture treats the absence of family as the central tragedy of Kane's life. Severity 4: Rosebud is literally a childhood object. Authenticity High (0.7). Centrality Medium (1.0): implicit in the Rosebud reveal. Weighted: 4 x 0.7 x 1.0 = 2.8."
+      },
+      {
+        "id": "TRADITIONAL-041",
+        "name": "Industry and Perseverance (Inverted \u2014 Industry Without Purpose)",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.74,
+        "explanation": "Kane works relentlessly, but his industry is in service of ego rather than anything worthy. The film distinguishes between work that builds and work that consumes. Severity 2: subtle but present. Authenticity Moderate (1.0): the inversion is artful. Centrality Low (0.37). Weighted: 2 x 1.0 x 0.37 = 0.74."
+      },
+      {
+        "id": "WOKE-014",
+        "name": "The Evil Capitalist (Deconstructed)",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Medium",
+        "weightedScore": 1.68,
+        "explanation": "The film critiques wealth and power, which could be read as an 'Evil Capitalist' narrative. But the critique is personal and moral, not systemic. Kane is not a villain because he is a capitalist. He is a tragic figure because he uses capital to try to purchase love. Severity 2: easily misread as anti-capitalist. Authenticity High (0.7). Centrality Medium (1.2): fuels the character study but not the thesis. Weighted: 2 x 0.7 x 1.2 = 1.68."
+      },
+      {
+        "id": "WOKE-001",
+        "name": "Media Critique (Organic \u2014 'Declaration of Principles' Hypocrisy)",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "explanation": "Kane's newspaper crusading is framed as self-serving rather than principled. A mild critique of media-as-power that aligns with modern anti-institutional sentiment but is organic to the character study. Severity 1: negligible presence. Authenticity High (0.7): journalistic hypocrisy is real. Centrality Low (0.5). Weighted: 2 x 0.7 x 0.5 = 0.7."
+      }
+    ],
+    "seo": {
+      "seoTitle": "Citizen Kane (1941) Woke Score -- Is It Woke? | VirtueVigil Review",
+      "seoDescription": "Is Citizen Kane woke? Our review of the 1941 Orson Welles classic scores ideological content. The greatest film ever made tells a profoundly traditional cautionary tale.",
+      "faq": [
+        {
+          "q": "Is Citizen Kane woke?",
+          "a": "No. Citizen Kane scores TRADITIONAL. Its critique of wealth is personal and moral, not systemic or ideological. The film argues that happiness comes from human connection, not acquisition -- a conservative insight dressed in cinematic revolution."
+        },
+        {
+          "q": "What is the Citizen Kane woke score?",
+          "a": "wokeScore 2.38, tradScore 14.88, margin +13 TRADITIONAL. The film's traditional values -- humility, the importance of family, the emptiness of ambition without character -- far outweigh any misreading as anti-capitalist critique."
+        },
+        {
+          "q": "Is Citizen Kane appropriate for families?",
+          "a": "Rated PG. No violence, sex, or profanity. Thematic material about ambition and character makes it excellent for family viewing and discussion. Recommended for ages 12+."
+        }
+      ]
+    },
+    "parentalGuidance": "Rated PG. No violence, sex, or profanity. Thematic material involves marital infidelity, political corruption, and the emotional devastation of ambition without character. Excellent family viewing. Recommended for ages 12+.",
+    "debateQuestion": "Is Citizen Kane's critique of wealth a left-wing attack on capitalism, or a conservative warning that money cannot buy the things that actually matter -- and why have so many critics misread it as the former?"
   }
 ]
