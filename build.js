@@ -133,19 +133,32 @@ let ssrCommentsHTML = { sidebar: '', homepage: '', page: '' };
 async function fetchCommentsSSR() {
   const supabaseUrl = 'https://fdxvflryvctvstxdbdtm.supabase.co';
   const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZkeHZmbHJ5dmN0dnN0eGRiZHRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExMjQ3MjEsImV4cCI6MjA4NjcwMDcyMX0.wn80dndvXLUU6qMzJW1DBuz0d6cPMu4iEO3UA6QnF4E';
+  const headers = { 'apikey': supabaseKey, 'Authorization': `Bearer ${supabaseKey}` };
   try {
-    const resp = await fetch(`${supabaseUrl}/rest/v1/comments?select=*,profiles(display_name,avatar_url)&is_hidden=eq.false&order=created_at.desc&limit=50`, {
-      headers: { 'apikey': supabaseKey, 'Authorization': `Bearer ${supabaseKey}` }
-    });
-    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-    const comments = await resp.json();
+    // Step 1: Fetch comments
+    const commentsResp = await fetch(`${supabaseUrl}/rest/v1/comments?select=*&is_hidden=eq.false&order=created_at.desc&limit=50`, { headers });
+    if (!commentsResp.ok) throw new Error(`comments HTTP ${commentsResp.status}`);
+    const comments = await commentsResp.json();
     console.log(`  Fetched ${comments.length} comments from Supabase for SSR.`);
 
-    if (comments.length) {
+    if (!comments.length) return;
+
+    // Step 2: Fetch profiles for all unique user_ids
+    const userIds = [...new Set(comments.map(c => c.user_id))];
+    const profilesResp = await fetch(`${supabaseUrl}/rest/v1/profiles?select=*&id=in.(${userIds.map(id => `"${id}"`).join(',')})`, { headers });
+    let profilesMap = {};
+    if (profilesResp.ok) {
+      const profiles = await profilesResp.json();
+      for (const p of profiles) profilesMap[p.id] = p;
+    }
+
+    // Attach profiles to comments
+    for (const c of comments) c._profile = profilesMap[c.user_id] || null;
+
+    ssrCommentsHTML.total = comments.length;
       ssrCommentsHTML.sidebar = renderCommentsSidebarSSR(comments.slice(0, 5));
       ssrCommentsHTML.homepage = renderCommentsHomepageSSR(comments.slice(0, 5));
       ssrCommentsHTML.page = renderCommentsPageSSR(comments);
-    }
   } catch (e) {
     console.warn(`  Comments SSR fetch failed (${e.message}) -- relying on client-side JS.`);
   }
@@ -162,8 +175,8 @@ function renderCommentsSidebarSSR(comments) {
   let h = '';
   const DEFAULT_AVATAR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%231a1a26'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23c9a84c'/%3E%3Cellipse cx='50' cy='78' rx='30' ry='22' fill='%23c9a84c'/%3E%3C/svg%3E";
   for (const c of comments) {
-    const avatar = (c.profiles && c.profiles.avatar_url) ? c.profiles.avatar_url : '';
-    const name = (c.profiles && c.profiles.display_name) ? c.profiles.display_name : '';
+    const avatar = (c._profile && c._profile.avatar_url) ? c._profile.avatar_url : '';
+    const name = (c._profile && c._profile.display_name) ? c._profile.display_name : '';
     h += `<div class="lc-item">` +
       `<div class="lc-header">` +
         (avatar ? `<img class="lc-avatar" src="${escSSR(avatar)}" alt="" loading="lazy">` : '') +
@@ -183,8 +196,8 @@ function renderCommentsSidebarSSR(comments) {
 function renderCommentsHomepageSSR(comments) {
   let h = '<div class="latest-comments-list">';
   for (const c of comments) {
-    const avatar = (c.profiles && c.profiles.avatar_url) ? c.profiles.avatar_url : '';
-    const name = (c.profiles && c.profiles.display_name) ? c.profiles.display_name : '';
+    const avatar = (c._profile && c._profile.avatar_url) ? c._profile.avatar_url : '';
+    const name = (c._profile && c._profile.display_name) ? c._profile.display_name : '';
     h += `<div class="latest-comment-item">` +
       `<a class="latest-comment-link" href="/reviews/${escSSR(c.review_slug)}/">` +
         `<div class="latest-comment-body">` +
@@ -208,8 +221,8 @@ function renderCommentsPageSSR(comments) {
   let h = '<div class="comments-page-list">';
   const DEFAULT_AVATAR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%231a1a26'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23c9a84c'/%3E%3Cellipse cx='50' cy='78' rx='30' ry='22' fill='%23c9a84c'/%3E%3C/svg%3E";
   for (const c of comments) {
-    const avatar = (c.profiles && c.profiles.avatar_url) ? c.profiles.avatar_url : DEFAULT_AVATAR;
-    const name = (c.profiles && c.profiles.display_name) ? c.profiles.display_name : '';
+    const avatar = (c._profile && c._profile.avatar_url) ? c._profile.avatar_url : DEFAULT_AVATAR;
+    const name = (c._profile && c._profile.display_name) ? c._profile.display_name : '';
     h += `<div class="cp-item">` +
       `<div class="cp-header">` +
         `<img class="comment-avatar" src="${escSSR(avatar)}" alt="" loading="lazy">` +
@@ -1919,15 +1932,13 @@ function buildCommentsPage() {
   <section class="page-hero page-hero--compact">
     <div class="container">
       <h1>Community Discussion</h1>
-      <p class="page-hero-subtitle">What the VirtueVigil community is saying. <span id="vv-comment-total-count" class="text-gold"></span></p>
+      <p class="page-hero-subtitle">What the VirtueVigil community is saying. <span id="vv-comment-total-count" class="text-gold">${ssrCommentsHTML.total ? '(' + ssrCommentsHTML.total + ' comment' + (ssrCommentsHTML.total !== 1 ? 's' : '') + ')' : ''}</span></p>
     </div>
   </section>
 
   <main class="container" style="max-width:800px;margin:0 auto;padding:0 24px 60px;">
-    <div id="vv-comments-full-list">
-      <div class="comments-loading" style="text-align:center;padding:40px;color:var(--text-muted);">Loading community discussion...</div>
-    </div>
-    <div id="vv-comments-pagination"></div>
+    <div id="vv-comments-full-list">${ssrCommentsHTML.page || '<div class="comments-loading" style="text-align:center;padding:40px;color:var(--text-muted);">Loading community discussion...</div>'}</div>
+    ${ssrCommentsHTML.page ? '' : '<div id="vv-comments-pagination"></div>'}
   </main>
 
   ${fullFooter()}
