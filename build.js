@@ -2412,6 +2412,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/every-dc-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-spider-man-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/every-star-wars-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-of-all-time/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-drama-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-horror-movies-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
@@ -3541,6 +3542,7 @@ function buildListsHubPage() {
         'dc-movies-woke-ranking',
         'every-dc-movie-ranked-woke-score',
         'every-spider-man-movie-ranked-woke-score',
+        'every-star-wars-movie-ranked-woke-score',
         'highest-traditional-scores-all-time',
         'highest-woke-scores-all-time',
         'hollywood-anti-american-movies',
@@ -3620,6 +3622,7 @@ function buildListsHubPage() {
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
       'every-spider-man-movie-ranked-woke-score': 'Every Spider-Man Movie Ranked by Woke Score (2026)',
+      'every-star-wars-movie-ranked-woke-score': 'Every Star Wars Movie Ranked by Woke Score (2026 Edition)',
       'most-woke-movies-2024-complete': 'Most Woke Movies of 2024 (Complete)',
       'conservative-sci-fi-movies-2024-2025': 'Conservative Sci-Fi Movies 2024\u20132025',
       'wokest-streaming-movies-2025-2026': 'Wokest Streaming Movies 2025\u20132026',
@@ -8196,6 +8199,17 @@ function build() {
     canonicalPath: 'lists/every-spider-man-movie-ranked-woke-score',
     publishDate: '2026-07-19',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-spider-man-movie-ranked-woke-score/content.html'), 'utf-8')
+  }));
+
+  // LISTICLE: Every Star Wars Movie Ranked by Woke Score (2026 Edition)
+  console.log('  lists/every-star-wars-movie-ranked-woke-score/index.html');
+  writePage('lists/every-star-wars-movie-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'every-star-wars-movie-ranked-woke-score',
+    title: 'Every Star Wars Movie Ranked by Woke Score (2026 Edition)',
+    description: 'All 5 Star Wars theatrical films ranked from most traditional (A New Hope) to most woke (The Last Jedi). Full woke/trad scores, margins, and verdicts.',
+    canonicalPath: 'lists/every-star-wars-movie-ranked-woke-score',
+    publishDate: '2026-08-19',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-star-wars-movie-ranked-woke-score/content.html'), 'utf-8')
   }));
 
   writePage('lists/dc-movies-woke-ranking/index.html', buildListiclePage({
