@@ -125,9 +125,117 @@ async function fetchReviews() {
   return localReviews;
 }
 
+// === SSR Comment Fetch ===
+// Module-level cache for pre-rendered comment HTML. Threaded into sidebar,
+// homepage, and /comments/ page. Falls back to client-side fetch when empty.
+let ssrCommentsHTML = { sidebar: '', homepage: '', page: '' };
+
+async function fetchCommentsSSR() {
+  const supabaseUrl = 'https://fdxvflryvctvstxdbdtm.supabase.co';
+  const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZkeHZmbHJ5dmN0dnN0eGRiZHRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExMjQ3MjEsImV4cCI6MjA4NjcwMDcyMX0.wn80dndvXLUU6qMzJW1DBuz0d6cPMu4iEO3UA6QnF4E';
+  try {
+    const resp = await fetch(`${supabaseUrl}/rest/v1/comments?select=*,profiles(display_name,avatar_url)&is_hidden=eq.false&order=created_at.desc&limit=50`, {
+      headers: { 'apikey': supabaseKey, 'Authorization': `Bearer ${supabaseKey}` }
+    });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const comments = await resp.json();
+    console.log(`  Fetched ${comments.length} comments from Supabase for SSR.`);
+
+    if (comments.length) {
+      ssrCommentsHTML.sidebar = renderCommentsSidebarSSR(comments.slice(0, 5));
+      ssrCommentsHTML.homepage = renderCommentsHomepageSSR(comments.slice(0, 5));
+      ssrCommentsHTML.page = renderCommentsPageSSR(comments);
+    }
+  } catch (e) {
+    console.warn(`  Comments SSR fetch failed (${e.message}) -- relying on client-side JS.`);
+  }
+}
+
+const ESC_MAP = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+function escSSR(s) { return String(s || '').replace(/[&<>"']/g, c => ESC_MAP[c]); }
+function relTimeSSR(dateStr) {
+  const d = new Date(dateStr);
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function renderCommentsSidebarSSR(comments) {
+  let h = '';
+  const DEFAULT_AVATAR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%231a1a26'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23c9a84c'/%3E%3Cellipse cx='50' cy='78' rx='30' ry='22' fill='%23c9a84c'/%3E%3C/svg%3E";
+  for (const c of comments) {
+    const avatar = (c.profiles && c.profiles.avatar_url) ? c.profiles.avatar_url : '';
+    const name = (c.profiles && c.profiles.display_name) ? c.profiles.display_name : '';
+    h += `<div class="lc-item">` +
+      `<div class="lc-header">` +
+        (avatar ? `<img class="lc-avatar" src="${escSSR(avatar)}" alt="" loading="lazy">` : '') +
+        `<div class="lc-meta">` +
+          (name ? `<span class="lc-author">${escSSR(name)}</span>` : '') +
+          `<a class="lc-review-link" href="/reviews/${escSSR(c.review_slug)}/">${escSSR(truncateSSR(c.review_slug, 30))}</a>` +
+          ` <span class="lc-time">${relTimeSSR(c.created_at)}</span>` +
+        `</div>` +
+      `</div>` +
+      `<p class="lc-text">${escSSR(truncateSSR(c.content, 100))}</p>` +
+    `</div>`;
+  }
+  h += `<a class="lc-all-link" href="/comments/">View all comments <i class="fas fa-arrow-right"></i></a>`;
+  return h;
+}
+
+function renderCommentsHomepageSSR(comments) {
+  let h = '<div class="latest-comments-list">';
+  for (const c of comments) {
+    const avatar = (c.profiles && c.profiles.avatar_url) ? c.profiles.avatar_url : '';
+    const name = (c.profiles && c.profiles.display_name) ? c.profiles.display_name : '';
+    h += `<div class="latest-comment-item">` +
+      `<a class="latest-comment-link" href="/reviews/${escSSR(c.review_slug)}/">` +
+        `<div class="latest-comment-body">` +
+          (avatar ? `<img class="latest-comment-avatar" src="${escSSR(avatar)}" alt="" loading="lazy">` : '') +
+          `<div>` +
+            `<div class="latest-comment-author">${name ? escSSR(name) : 'Anonymous'}</div>` +
+            `<p class="latest-comment-text">${escSSR(truncateSSR(c.content, 180))}</p>` +
+            `<div class="latest-comment-meta">on <strong>${escSSR(truncateSSR(c.review_slug, 40))}</strong> &middot; ${relTimeSSR(c.created_at)}</div>` +
+          `</div>` +
+        `</div>` +
+      `</a>` +
+    `</div>`;
+  }
+  h += '</div>' +
+    '<div class="latest-comments-footer"><a href="/comments/">View all community discussion <i class="fas fa-arrow-right"></i></a></div>';
+  return h;
+}
+
+function renderCommentsPageSSR(comments) {
+  if (!comments || !comments.length) return '';
+  let h = '<div class="comments-page-list">';
+  const DEFAULT_AVATAR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%231a1a26'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23c9a84c'/%3E%3Cellipse cx='50' cy='78' rx='30' ry='22' fill='%23c9a84c'/%3E%3C/svg%3E";
+  for (const c of comments) {
+    const avatar = (c.profiles && c.profiles.avatar_url) ? c.profiles.avatar_url : DEFAULT_AVATAR;
+    const name = (c.profiles && c.profiles.display_name) ? c.profiles.display_name : '';
+    h += `<div class="cp-item">` +
+      `<div class="cp-header">` +
+        `<img class="comment-avatar" src="${escSSR(avatar)}" alt="" loading="lazy">` +
+        `<div>` +
+          `<span class="cp-author">${escSSR(name || 'Anonymous')}</span>` +
+          ` <span class="cp-time">${relTimeSSR(c.created_at)}</span>` +
+        `</div>` +
+      `</div>` +
+      `<a class="cp-review-link" href="/reviews/${escSSR(c.review_slug)}/">on ${escSSR(truncateSSR(c.review_slug, 50))}</a>` +
+      `<div class="cp-body">${escSSR(c.content)}</div>` +
+    `</div>`;
+  }
+  h += '</div>';
+  return h;
+}
+
+function truncateSSR(str, max) {
+  if (!str) return '';
+  str = String(str).replace(/\s+/g, ' ').trim();
+  return str.length <= max ? str : str.slice(0, max - 3) + '...';
+}
+
 // === Main build function ===
 async function buildSite() {
   const reviews = await fetchReviews();
+  await fetchCommentsSSR();
   reviews.sort((a, b) => new Date(b.date) - new Date(a.date));
 
 // === REVIEW INTEGRITY GATE -- FAIL LOUD, NEVER SILENT-DROP ===
@@ -697,9 +805,7 @@ function sidebarHTML() {
       <!-- Latest Comments Widget -->
       <div class="sidebar-section latest-comments-widget">
         <h3><i class="fas fa-comments"></i> Latest Comments</h3>
-        <div id="vv-latest-comments">
-          <p style="color:var(--text-muted);font-size:0.82rem;">Loading comments...</p>
-        </div>
+        <div id="vv-latest-comments">${ssrCommentsHTML.sidebar || '<p style="color:var(--text-muted);font-size:0.82rem;">Loading comments...</p>'}</div>
       </div>
 
       <div class="sidebar-section">
@@ -1314,9 +1420,7 @@ function buildHomepage() {
           <h2>Community Discussion</h2>
           <a href="/comments/" class="view-all">View All <i class="fas fa-arrow-right"></i></a>
         </div>
-        <div id="vv-latest-comments-home">
-          <div class="comments-loading">Loading recent discussion...</div>
-        </div>
+        <div id="vv-latest-comments-home">${ssrCommentsHTML.homepage || '<div class="comments-loading">Loading recent discussion...</div>'}</div>
       </section>
 
       <!-- Spokesperson -->
@@ -1333,7 +1437,7 @@ function buildHomepage() {
   </div>
 
   ${fullFooter()}
-${pageScripts(['/js/latest-comments.js'])}
+${pageScripts()}
 </body>
 </html>`;
 }
@@ -1827,7 +1931,7 @@ function buildCommentsPage() {
   </main>
 
   ${fullFooter()}
-${pageScripts(['/js/latest-comments.js'])}
+${pageScripts()}
 </body>
 </html>`;
 }

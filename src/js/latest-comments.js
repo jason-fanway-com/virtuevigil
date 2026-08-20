@@ -10,8 +10,8 @@
 (function() {
   'use strict';
 
-  var SUPABASE_URL = 'https://fdxvflryvctvstxdbdtm.supabase.co';
-  var SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZkeHZmbHJ5dmN0dnN0eGRiZHRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExMjQ3MjEsImV4cCI6MjA4NjcwMDcyMX0.wn80dndvXLUU6qMzJW1DBuz0d6cPMu4iEO3UA6QnF4E';
+  var SUPABASE_URL = window.SUPABASE_URL || 'https://fdxvflryvctvstxdbdtm.supabase.co';
+  var SUPABASE_ANON_KEY = window.SUPABASE_ANON_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZkeHZmbHJ5dmN0dnN0eGRiZHRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExMjQ3MjEsImV4cCI6MjA4NjcwMDcyMX0.wn80dndvXLUU6qMzJW1DBuz0d6cPMu4iEO3UA6QnF4E';
 
   var DEFAULT_AVATAR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%231a1a26'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23c9a84c'/%3E%3Cellipse cx='50' cy='78' rx='30' ry='22' fill='%23c9a84c'/%3E%3C/svg%3E";
 
@@ -83,11 +83,9 @@
       for (var i = 0; i < comments.length; i++) {
         var c = comments[i];
         html += '<div class="lc-item">' +
-          '<div class="lc-header">' +
-            '<div class="lc-meta">' +
-              '<span class="lc-review-link">' + reviewLink(c.review_slug) + '</span>' +
-              ' <span class="lc-time">' + relativeTime(c.created_at) + '</span>' +
-            '</div>' +
+          '<div class="lc-meta">' +
+            '<span class="lc-review-link">' + reviewLink(c.review_slug) + '</span>' +
+            ' <span class="lc-time">' + relativeTime(c.created_at) + '</span>' +
           '</div>' +
           '<p class="lc-text">' + esc(truncate(c.content, 100)) + '</p>' +
         '</div>';
