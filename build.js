@@ -2364,6 +2364,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-western-movies-conservatives/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-action-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-sports-movies/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/best-traditional-horror-movies-ranked/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-anti-communist-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-perseverance/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-4th-of-july-movies/`, changefreq: 'monthly', priority: '0.9' },
@@ -3575,6 +3576,7 @@ function buildListsHubPage() {
         'most-woke-comedy-movies-parents',
         'most-woke-drama-movies-all-time',
         'most-woke-horror-movies-parents-should-know',
+        'best-traditional-horror-movies-ranked',
         'biopics-ranked-by-woke-score',
         'every-crime-movie-ranked-woke-score',
         'animated-family-movies-2025-woke-ranking',
@@ -3665,6 +3667,7 @@ function buildListsHubPage() {
       'best-western-movies-conservatives': 'Best Western Movies for Conservatives',
       'best-traditional-action-movies': 'Best Traditional Action Movies: 25 Films Built on Honor, Courage, and Sacrifice',
       'best-traditional-sports-movies': 'Best Traditional Sports Movies: 20 Films Built on Discipline, Sacrifice, and Mentorship',
+      'best-traditional-horror-movies-ranked': 'Best Traditional Horror Movies Ranked by Woke Score — VirtueVigil 2026',
       'best-anti-communist-movies': 'Top 10 Anti-Communist Movies of All Time: Cinema\'s Best Defense of Freedom',
       'best-movies-about-perseverance': 'Best Movies About Perseverance: Top 10 Never-Give-Up Films Ranked by VirtueVigil Score',
       'best-4th-of-july-movies': 'Best 4th of July Movies: Top 10 Patriotic Films for Independence Day',
@@ -33905,6 +33908,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-drama-movies',
     publishDate: '2026-07-11',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-drama-movies/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/best-traditional-horror-movies-ranked/index.html');
+  writePage('lists/best-traditional-horror-movies-ranked/index.html', buildListiclePage({
+    slug: 'best-traditional-horror-movies-ranked',
+    title: 'Best Traditional Horror Movies Ranked by Woke Score — VirtueVigil Rankings 2026',
+    description: 'Horror is Hollywood\'s last dependable delivery system for traditional values. From The Exorcist to A Quiet Place, we ranked the 20 most traditionally-scored horror films in our database using VirtueVigil dual-metric scoring.',
+    canonicalPath: 'lists/best-traditional-horror-movies-ranked',
+    publishDate: '2026-08-20',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-horror-movies-ranked/content.html'), 'utf-8')
   }));
 
   console.log('  lists/most-woke-drama-movies-all-time/index.html');
