@@ -409,7 +409,8 @@ function pageScripts(extras) {
   const overlay = searchOverlayHTML();
   const base = `  <script src="/js/main.js?v=${BUILD_VERSION}"></script>
   <script src="/js/supabase-config.js?v=${BUILD_VERSION}"></script>
-  <script src="/js/auth.js?v=${BUILD_VERSION}"></script>`;
+  <script src="/js/auth.js?v=${BUILD_VERSION}"></script>
+  <script src="/js/latest-comments.js?v=${BUILD_VERSION}"></script>`;
   if (!extras) return overlay + '\n' + base;
   return overlay + '\n' + base + '\n' + extras.map(s => `  <script src="${s}"></script>`).join('\n');
 }
@@ -501,6 +502,12 @@ function getCategories() {
 // TEMPLATE PARTS
 // ============================================
 
+function reviewTitlesMap() {
+  const map = {};
+  reviews.forEach(r => { map[r.slug] = r.title; });
+  return map;
+}
+
 function htmlHead({ title, description, keywords, canonical, ogType, ogImage, structuredData, breadcrumbs, faqSchema, extraHead }) {
   // Build structured data array (supports multiple JSON-LD blocks)
   const ldBlocks = [];
@@ -537,6 +544,7 @@ function htmlHead({ title, description, keywords, canonical, ogType, ogImage, st
   <meta name="twitter:image" content="${ogImage || `${SITE_URL}/images/og-default.png`}">
 
   ${ldBlocks.map(ld => `<script type="application/ld+json">\n  ${JSON.stringify(ld, null, 2).split('\n').join('\n  ')}\n  </script>`).join('\n  ')}
+  <script>window.VV_REVIEW_TITLES = ${JSON.stringify(reviewTitlesMap())};</script>
   ${extraHead || ''}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -551,6 +559,7 @@ function htmlHead({ title, description, keywords, canonical, ogType, ogImage, st
   <script>
     window.SUPABASE_URL = 'https://fdxvflryvctvstxdbdtm.supabase.co';
     window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZkeHZmbHJ5dmN0dnN0eGRiZHRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExMjQ3MjEsImV4cCI6MjA4NjcwMDcyMX0.wn80dndvXLUU6qMzJW1DBuz0d6cPMu4iEO3UA6QnF4E';
+    window.VV_SLUG_TITLES = ${JSON.stringify(reviewTitlesMap())};
   </script>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z2GXH8MG70"></script>
@@ -593,6 +602,7 @@ function topBanner() {
 function siteHeader(activePage) {
   const navItems = [
     { href: '/', label: 'Reviews', page: 'index' },
+    { href: '/comments/', label: 'Discuss', page: 'comments' },
     { href: '/woke-trap.html', label: 'What Is a Woke Trap?', page: 'woke-trap' },
     { href: '/methodology.html', label: 'Methodology', page: 'methodology' },
     { href: '/about.html', label: 'About', page: 'about' },
@@ -684,6 +694,14 @@ function sidebarHTML() {
 
   return `
     <aside class="sidebar" role="complementary" aria-label="Sidebar">
+      <!-- Latest Comments Widget -->
+      <div class="sidebar-section latest-comments-widget">
+        <h3><i class="fas fa-comments"></i> Latest Comments</h3>
+        <div id="vv-latest-comments">
+          <p style="color:var(--text-muted);font-size:0.82rem;">Loading comments...</p>
+        </div>
+      </div>
+
       <div class="sidebar-section">
         <h3>Recent Reviews</h3>
         ${recent.map(r => {
@@ -770,6 +788,7 @@ function fullFooter() {
         <div class="footer-col">
           <h4>Navigate</h4>
           <a href="/">All Reviews</a>
+          <a href="/comments/">Community Discussion</a>
           <a href="/woke-trap.html">What Is a Woke Trap?</a>
           <a href="/methodology.html">Our Methodology</a>
           <a href="/about.html">About VirtueVigil</a>
@@ -1289,6 +1308,17 @@ function buildHomepage() {
       </article>`;
       }).join('')}
 
+      <!-- Latest Community Discussion -->
+      <section class="homepage-latest-comments">
+        <div class="section-header">
+          <h2>Community Discussion</h2>
+          <a href="/comments/" class="view-all">View All <i class="fas fa-arrow-right"></i></a>
+        </div>
+        <div id="vv-latest-comments-home">
+          <div class="comments-loading">Loading recent discussion...</div>
+        </div>
+      </section>
+
       <!-- Spokesperson -->
       <section class="spokesperson" id="about-debra">
         <img src="/images/debra-ducane.png" alt="Debra Ducane \u2014 VirtueVigil Cultural Sentinel" width="180" height="180" loading="lazy">
@@ -1303,7 +1333,7 @@ function buildHomepage() {
   </div>
 
   ${fullFooter()}
-${pageScripts()}
+${pageScripts(['/js/latest-comments.js'])}
 </body>
 </html>`;
 }
@@ -1772,6 +1802,36 @@ ${pageScripts()}
 }
 
 
+function buildCommentsPage() {
+  return `${htmlHead({
+    title: 'Community Discussion | VirtueVigil',
+    description: 'See what the VirtueVigil community is saying. Browse recent comments, join discussions on film and TV reviews, and share your perspective.',
+    canonical: `${SITE_URL}/comments/`,
+    ogType: 'website',
+  })}
+<body>
+  ${siteHeader('comments')}
+
+  <section class="page-hero page-hero--compact">
+    <div class="container">
+      <h1>Community Discussion</h1>
+      <p class="page-hero-subtitle">What the VirtueVigil community is saying. <span id="vv-comment-total-count" class="text-gold"></span></p>
+    </div>
+  </section>
+
+  <main class="container" style="max-width:800px;margin:0 auto;padding:0 24px 60px;">
+    <div id="vv-comments-full-list">
+      <div class="comments-loading" style="text-align:center;padding:40px;color:var(--text-muted);">Loading community discussion...</div>
+    </div>
+    <div id="vv-comments-pagination"></div>
+  </main>
+
+  ${fullFooter()}
+${pageScripts(['/js/latest-comments.js'])}
+</body>
+</html>`;
+}
+
 function build404Page() {
   return `${htmlHead({
     title: 'Page Not Found | VirtueVigil',
@@ -2126,6 +2186,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/about.html`, changefreq: 'monthly', priority: '0.6' },
     { loc: `${SITE_URL}/methodology.html`, changefreq: 'monthly', priority: '0.6' },
     { loc: `${SITE_URL}/woke-trap.html`, changefreq: 'monthly', priority: '0.7' },
+    { loc: `${SITE_URL}/comments/`, changefreq: 'daily', priority: '0.8' },
     { loc: `${SITE_URL}/oscars-2026/`, changefreq: 'daily', priority: '0.9' },
     { loc: `${SITE_URL}/lists/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
@@ -3662,6 +3723,7 @@ function build() {
   writePage('methodology.html', buildMethodologyPage());
   writePage('woke-trap.html', buildWokeTrapPage());
   writePage('404.html', build404Page());
+  writePage('comments/index.html', buildCommentsPage());
   writePage('oscars-2026/index.html', buildOscars2026Page());
   writePage('terms/index.html', buildTermsPage());
   writePage('privacy/index.html', buildPrivacyPage());

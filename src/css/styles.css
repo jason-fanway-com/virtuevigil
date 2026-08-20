@@ -1389,6 +1389,37 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 .edited-tag { font-style: italic; color: var(--text-muted); }
 .comment-body { font-size: 0.92rem; color: var(--text-secondary); line-height: 1.7; white-space: pre-wrap; word-wrap: break-word; }
 
+/* ---- Latest Comments Sidebar Widget ---- */
+.latest-comments-widget { margin-bottom: 32px; }
+.latest-comments-widget h3 { font-size: 0.88rem; font-weight: 600; color: var(--gold); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 14px; }
+.lc-item { padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.06); }
+.lc-item:last-of-type { border-bottom: none; }
+.lc-header { display: flex; align-items: flex-start; gap: 8px; }
+.lc-avatar { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; border: 1px solid var(--border); flex-shrink: 0; margin-top: 2px; }
+.lc-meta { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 4px; display: flex; align-items: center; gap: 4px; flex-wrap: wrap; flex: 1; }
+.lc-author { color: var(--gold); font-weight: 600; }
+.lc-review-link { color: var(--text-secondary); font-weight: 500; text-decoration: none; }
+.lc-review-link:hover { color: var(--gold); }
+.lc-time { opacity: 0.7; white-space: nowrap; }
+.lc-text { font-size: 0.82rem; color: var(--text-secondary); line-height: 1.5; margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.lc-all-link { display: block; margin-top: 10px; font-size: 0.78rem; color: var(--gold); text-decoration: none; font-weight: 600; }
+.lc-all-link:hover { text-decoration: underline; }
+.lc-empty { color: var(--text-muted); font-size: 0.82rem; padding: 8px 0; }
+
+/* ---- /comments/ Standalone Page ---- */
+.comments-page { max-width: 860px; margin: 0 auto; padding: 40px 20px; }
+.comments-page h1 { font-family: 'Cinzel', serif; font-size: 2rem; color: var(--gold); margin-bottom: 8px; }
+.comments-page .comments-subtitle { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 32px; }
+.comments-page .cp-item { padding: 20px 24px; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: var(--radius); margin-bottom: 16px; transition: border-color 0.2s; }
+.comments-page .cp-item:hover { border-color: rgba(201,168,76,0.2); }
+.comments-page .cp-header { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; }
+.comments-page .cp-review-link { font-weight: 700; color: var(--gold); text-decoration: none; font-size: 0.95rem; }
+.comments-page .cp-review-link:hover { text-decoration: underline; }
+.comments-page .cp-author { font-weight: 600; color: var(--text-primary); font-size: 0.88rem; }
+.comments-page .cp-time { font-size: 0.75rem; color: var(--text-muted); }
+.comments-page .cp-body { font-size: 0.92rem; color: var(--text-secondary); line-height: 1.7; white-space: pre-wrap; word-wrap: break-word; }
+.comments-page .cp-empty { text-align: center; padding: 60px 20px; color: var(--text-muted); font-style: italic; }
+
 .comment-footer { display: flex; align-items: center; gap: 16px; margin-top: 12px; }
 .vote-buttons { display: flex; align-items: center; gap: 4px; }
 .vote-btn {
@@ -1425,6 +1456,161 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 }
 
 /* ============================================
+   Latest Comments Widget (Homepage)
+   ============================================ */
+
+.homepage-latest-comments {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 48px 24px 0 24px;
+}
+.latest-comments-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+.latest-comment-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.latest-comment-item:hover {
+  border-color: var(--border-gold);
+  box-shadow: var(--shadow-gold);
+}
+.latest-comment-link {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
+  color: inherit;
+  text-decoration: none;
+}
+.latest-comment-link:hover { color: inherit; }
+.latest-comment-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.latest-comment-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.latest-comment-author {
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: var(--gold);
+}
+.latest-comment-text {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.latest-comment-meta {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+.latest-comment-meta strong {
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+.latest-comments-empty {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 32px 16px;
+  font-style: italic;
+  font-size: 0.9rem;
+}
+.latest-comments-footer {
+  text-align: center;
+  margin-top: 20px;
+}
+.latest-comments-footer a {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--gold);
+  transition: color 0.2s;
+}
+.latest-comments-footer a:hover { color: var(--gold-light); }
+
+@media (max-width: 640px) {
+  .latest-comments-list { grid-template-columns: 1fr; }
+  .homepage-latest-comments { padding: 36px 16px 0 16px; }
+}
+
+/* ============================================
+   Comments Page (/comments/)
+   ============================================ */
+
+.comments-page {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+.comments-page-header {
+  margin-bottom: 32px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border-gold);
+}
+.comments-page-header h1 {
+  font-size: 1.5rem;
+  color: var(--gold);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.comments-page-header h1 .icon { font-size: 1.3rem; }
+.comments-page-header .subtitle {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  margin-top: 6px;
+}
+.full-comment-card {
+  margin-bottom: 14px;
+}
+/* Pagination */
+.comments-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+  border-top: 1px solid var(--border);
+  margin-top: 20px;
+}
+.page-info {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.btn-page {
+  padding: 8px 18px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 0.84rem;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+}
+.btn-page:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+/* ============================================
    RESPONSIVE — Auth & Comments
    ============================================ */
 
@@ -1441,6 +1627,8 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
   .comment-card { padding: 14px 16px; }
   .profile-avatar-area { flex-direction: column; text-align: center; }
   .account-page { padding: 24px 16px; }
+  .comments-page { padding: 28px 16px; }
+  .comments-page-header h1 { font-size: 1.2rem; }
 }
 
 /* --- Print --- */
