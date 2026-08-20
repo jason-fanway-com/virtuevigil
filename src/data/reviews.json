@@ -252,7 +252,7 @@
     ],
     "studio": "Blumhouse Productions / Atomic Monster / Screen Gems",
     "distributor": "Sony Pictures Releasing",
-    "verdict": "TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL",
     "wokeScore": 0.5,
     "tradScore": 9.2,
     "authIndex": 73,
@@ -14941,7 +14941,6 @@
     "tradScore": 14.8,
     "authIndex": 93,
     "scoreMargin": "+14 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -20147,7 +20146,6 @@
     "tradScore": 17.7,
     "authIndex": 90,
     "scoreMargin": "+16 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -32348,7 +32346,6 @@
     "tradScore": 20.58,
     "authIndex": 90,
     "scoreMargin": "+19 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -46302,7 +46299,6 @@
     "tradScore": 17.78,
     "authIndex": 70,
     "scoreMargin": "+17 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -51067,7 +51063,6 @@
     ],
     "studio": "Independent",
     "distributor": "Limited Release",
-    "preRelease": true,
     "verdict": "TRADITIONAL",
     "wokeScore": 16.4,
     "tradScore": 29.4,
@@ -52783,7 +52778,7 @@
     ],
     "studio": "Avatar Studios / Nickelodeon Movies / Paramount Animation",
     "distributor": "Paramount+",
-    "verdict": "TRADITIONAL",
+    "verdict": "PREDICTED: TRADITIONAL",
     "wokeScore": 4.2,
     "tradScore": 21.84,
     "authIndex": 77,
@@ -56329,7 +56324,6 @@
     "tradScore": 10.92,
     "authIndex": 55,
     "scoreMargin": "+3 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -56564,7 +56558,6 @@
     "tradScore": 7.18,
     "authIndex": 34,
     "scoreMargin": "-10 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -59452,7 +59445,6 @@
     "tradScore": 8.26,
     "authIndex": 38,
     "scoreMargin": "-5 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -59700,7 +59692,6 @@
     "tradScore": 20.02,
     "authIndex": 74,
     "scoreMargin": "+16 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -59937,7 +59928,6 @@
     "tradScore": 13.86,
     "authIndex": 67,
     "scoreMargin": "+11 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -63673,7 +63663,6 @@
     "tradScore": 13.02,
     "authIndex": 68,
     "scoreMargin": "+7 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -63913,7 +63902,6 @@
     "tradScore": 14.28,
     "authIndex": 80,
     "scoreMargin": "+12 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -66339,7 +66327,6 @@
     "tradScore": 7.18,
     "authIndex": 71,
     "scoreMargin": "+5 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -66575,7 +66562,6 @@
     "tradScore": 12.74,
     "authIndex": 82,
     "scoreMargin": "+11 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -69900,7 +69886,6 @@
     "tradScore": 4.5,
     "authIndex": 55,
     "scoreMargin": "-10 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -70101,7 +70086,6 @@
     "tradScore": 15.7,
     "authIndex": 71,
     "scoreMargin": "+13 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -70316,7 +70300,6 @@
     "tradScore": 6.3,
     "authIndex": 52,
     "scoreMargin": "0 NEUTRAL",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -70810,7 +70793,6 @@
     "tradScore": 34.02,
     "authIndex": 78,
     "scoreMargin": "+25 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "externalScores": {
       "rottenTomatoesCritic": 0,
@@ -71225,7 +71207,6 @@
     "tradScore": 7.8,
     "authIndex": 62,
     "scoreMargin": "-4 WOKE",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "The Mandalorian and Grogu does not qualify as a woke trap under VVWS v1.1. The film carries a WOKE LEAN verdict with a -3.6 WOKE margin, indicating the woke content is genuinely present and constitutes the film's ideological foundation. A woke trap requires woke content to be hidden until past the 50% runtime mark. The Mandalorian and Grogu's ideological content is visible from the opening. The film's progressive elements (female warrior authority, diverse ensemble, institutional critique, collectivist framing) are core to the narrative, not buried. This is not a traditional film with woke messaging hidden in the third act. This is a woke-leaning film designed with progressive sensibilities at its foundation."
@@ -71604,7 +71585,6 @@
     "tradScore": 11.8,
     "authIndex": 66,
     "scoreMargin": "+5 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Pressure does not qualify as a woke trap. Carries TRADITIONAL LEAN verdict with +4.6 TRAD margin. While there are progressive elements in institutional critique and implicit questions about military hierarchy and decision-making authority, these are genre-standard for historical dramas about institutional crises. The film's core narrative is fundamentally traditional: competent individuals navigating institutional pressure, duty and loyalty prevailing, historical accuracy prioritized. The woke elements are not hidden until the third act. They're visible throughout and operate within a fundamentally traditional scaffold."
@@ -71799,7 +71779,6 @@
     "tradScore": 30.8,
     "authIndex": 88,
     "scoreMargin": "+20 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "wokeTrapAssessment": {
       "isTrap": false,
@@ -72633,7 +72612,6 @@
     "tradScore": 14.2,
     "authIndex": 68,
     "scoreMargin": "+11 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "Deep Water does not qualify as a woke trap. Carries TRADITIONAL verdict with +10.7 TRAD margin, indicating clear traditional ideological scaffold. While there are scattered progressive elements in ensemble diversity and implicit environmental messaging, these are minimal and transparent. The film's core narrative is fundamentally traditional: competent men facing nature's indifference, survival through skill and will, no institutional critique. The woke elements are not hidden. They don't comprise the film's ideological foundation."
@@ -73629,7 +73607,6 @@
     "tradScore": 6.4,
     "authIndex": 71,
     "scoreMargin": "-17 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -74360,7 +74337,6 @@
     "wokeScore": 30.24,
     "tradScore": 8.96,
     "scoreMargin": "-21 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -75171,7 +75147,6 @@
     "tradScore": 18.4,
     "authIndex": 73,
     "scoreMargin": "+12 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -75245,7 +75220,6 @@
     "year": 2026,
     "date": "2026-04-05",
     "datePublished": "2026-04-05",
-    "preRelease": true,
     "rating": "PG-13",
     "runtime": 96,
     "genre": "Animated / Adventure / Comedy / Drama / Family",
@@ -75432,7 +75406,6 @@
     "scoreMargin": "+18 TRAD",
     "composite_score": 76,
     "confidence": "MODERATE",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -77702,7 +77675,6 @@
     "tradScore": 21.84,
     "authIndex": 76,
     "scoreMargin": "+18 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -78543,7 +78515,6 @@
     "tradScore": 24.08,
     "authIndex": 88,
     "scoreMargin": "+22 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -78876,7 +78847,6 @@
     "tradScore": 25.38,
     "authIndex": 67,
     "scoreMargin": "+13 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -79547,7 +79517,6 @@
     "tradScore": 23.4,
     "authIndex": 65,
     "scoreMargin": "+10 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -80289,7 +80258,6 @@
     "tradScore": 30.0,
     "authIndex": 95,
     "scoreMargin": "+29 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -82511,7 +82479,6 @@
     "tradScore": 7.88,
     "authIndex": 78,
     "scoreMargin": "-11 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -83685,7 +83652,6 @@
     "tradScore": 10.36,
     "authIndex": 82,
     "scoreMargin": "0 NEUTRAL",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -85002,7 +84968,6 @@
     "wokeScore": 7.79,
     "tradScore": 21.84,
     "scoreMargin": "+14 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. The Odyssey is not marketed to or embraced by conservative audiences in any specific way that would set up a betrayal. It is marketed as Christopher Nolan's epic cinematic event of summer 2026, aimed at mass audiences who revered Oppenheimer, Interstellar, and Inception. Conservative audiences are part of that base but not the specific target. The source material, Homer's Odyssey, is one of Western civilization's foundational texts: a story about a man fighting to return to his family and homeland, featuring the faithful wife Penelope and the devoted son Telemachus as its moral anchors. Whatever progressive casting choices Nolan makes (and Elliot Page in the cast is notable), the source text's fundamental traditionalism will be difficult to overcome. The woke elements are real but unlikely to dominate a film being made by a filmmaker who has never shown interest in ideological messaging at the expense of narrative coherence."
@@ -85563,7 +85528,6 @@
     "wokeScore": 6.3,
     "tradScore": 13.09,
     "scoreMargin": "+7 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Spider-Man: Brand New Day is an openly marketed MCU sequel with no conservative audience bait involved. The Peter Parker character has always been Marvel's most ideologically sympathetic property: a self-sacrificing everyman defined by personal responsibility, a lesson learned the hard way, and consistent self-denial in service of others. The 'Brand New Day' title is taken from a 2008 comic arc where Peter's life is reset after making a selfless sacrifice. That premise is about personal responsibility and the cost of doing what is right, which is a fundamentally conservative moral framework. The film's progressive elements, primarily MCU's ongoing commitment to diverse casts and inclusive storytelling, are fully baked into the franchise's identity and should surprise no conservative who has been following the MCU. Conservative fans who want to watch a Peter Parker who struggles, sacrifices, and keeps going should find much to appreciate here."
@@ -85794,7 +85758,6 @@
     "tradScore": 17.3,
     "authIndex": 82,
     "scoreMargin": "+7 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -86037,7 +86000,6 @@
     "wokeScore": 7.08,
     "tradScore": 16.94,
     "scoreMargin": "+10 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP. Masters of the Universe is a nostalgia franchise reboot that carries zero conservative culture-war baggage going in. It is being marketed as a fun action-adventure film for fans of the original 1980s cartoon and new audiences alike. The He-Man character is inherently traditional: a prince who must accept his duty, claim his birthright, and use his extraordinary power to protect his world. This premise has more in common with traditional heroic mythology than with modern progressive superhero templates. The progressive elements likely to be present (modern casting, potentially updated female character dynamics) are standard reboot adjustments that do not represent a fundamental betrayal of the source material's spirit. Nicholas Galitzine is a muscular, conventionally masculine actor playing the most overtly masculine character in cartoon history. Conservative nostalgia fans should feel safe watching this."
@@ -86300,7 +86262,6 @@
     "tradScore": 16.24,
     "authIndex": 80,
     "scoreMargin": "+15 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -110271,7 +110232,6 @@
     "tradScore": 13.23,
     "authIndex": 80,
     "scoreMargin": "+7 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -112531,7 +112491,6 @@
     "tradScore": 18.4,
     "authIndex": 82,
     "scoreMargin": "+14 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -131283,7 +131242,6 @@
     "tradScore": 16.4,
     "authIndex": 64,
     "scoreMargin": "+14 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -137360,7 +137318,6 @@
     "tradScore": 24.82,
     "authIndex": 78,
     "scoreMargin": "+22 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -137564,7 +137521,6 @@
     "tradScore": 11.2,
     "authIndex": 48,
     "scoreMargin": "-6 WOKE",
-    "preRelease": true,
     "wokeTrap": true,
     "woke_trap_assessment": {
       "is_trap": true,
@@ -141057,7 +141013,6 @@
     "tradScore": 13.7,
     "authIndex": 64,
     "scoreMargin": "+6 TRAD",
-    "preRelease": true,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -173766,7 +173721,6 @@
     "tradScore": 52,
     "authIndex": 62,
     "scoreMargin": "+4 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "See full review for woke trap assessment."
@@ -174286,7 +174240,6 @@
     "tradScore": 6,
     "authIndex": 72,
     "scoreMargin": "+3 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP Seth MacFarlane built his career on the premise that there are things adults should be allowed to laugh at without being scolded, and Ted on Peacock is the most unapologetic expression of that philosophy since Family Guy's early seasons. Season 1 was set in 1993 New England a"
@@ -175285,7 +175238,6 @@
     "tradScore": 42,
     "authIndex": 55,
     "scoreMargin": "-16 WOKE",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "See full review for woke trap assessment."
@@ -175519,7 +175471,6 @@
     "tradScore": 3,
     "authIndex": 48,
     "scoreMargin": "-3 WOKE",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": true,
       "explanation": "PREDICTED. Cannot assess runtime for unreleased film. Removing trap flag."
@@ -176098,7 +176049,6 @@
     "tradScore": 6,
     "authIndex": 68,
     "scoreMargin": "+2 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP - with Season 7 caveat noted Outlander has earned more goodwill from traditional-values audiences than almost any other prestige drama of its era. The central romance between Jamie and Claire Fraser is built on devotion, sacrifice, faith, and the kind of love that transcends ci"
@@ -176351,7 +176301,6 @@
     "tradScore": 7,
     "authIndex": 74,
     "scoreMargin": "+4 TRAD",
-    "preRelease": true,
     "woke_trap_assessment": {
       "is_trap": false,
       "explanation": "NOT A WOKE TRAP Season 1 of Netflix's One Piece was a genuine surprise - a live-action anime adaptation that respected its source material and trusted the audience to come along for the ride. Eiichiro Oda's active involvement as executive producer is the key variable: he has publicly stated hi"
