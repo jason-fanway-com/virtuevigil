@@ -54,7 +54,7 @@ REPO_DIR = SCRIPT_DIR.parent
 REVIEWS_JSON = REPO_DIR / 'src' / 'data' / 'reviews.json'
 POSTER_DIR = REPO_DIR / 'src' / 'images' / 'posters'
 REVIEW_QUEUE_PATH = SCRIPT_DIR / 'poster-review-queue.json'
-PLACEHOLDER_SIZE_THRESHOLD = 15000  # 15KB threshold for placeholder detection (placeholder is ~10.9KB)
+PLACEHOLDER_SIZE_THRESHOLD = 5000  # 5KB — legit posters (inc. teasers at 13.9KB) were false-flagged at 15KB. Placeholder is ~10.9KB so 5KB is safe.
 
 # Rate limiting
 OMDB_DELAY = 1.0  # seconds between OMDb requests
