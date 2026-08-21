@@ -2332,6 +2332,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/hbo-max-shows-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/hbo-max-originals-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/netflix-originals-woke-ranking-2026/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/apple-tv-originals-ranked-woke-score/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-christian-movies-all-time/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
@@ -3456,6 +3457,7 @@ function buildListsHubPage() {
         'hbo-max-shows-woke-ranking',
         'hbo-max-originals-woke-ranking',
         'netflix-originals-woke-ranking-2026',
+        'apple-tv-originals-ranked-woke-score',
         'netflix-woke-movies-2024-data',
         'netflix-woke-movies-ranked',
         'paramount-plus-woke-ranking',
@@ -3620,6 +3622,7 @@ function buildListsHubPage() {
       'hbo-max-shows-woke-ranking': 'HBO Max Shows Woke Ranking',
       'hbo-max-originals-woke-ranking': 'Every HBO & Max Original Ranked by Woke Score (2026)',
       'netflix-originals-woke-ranking-2026': 'Every Netflix Original Ranked by Woke Score (2026)',
+      'apple-tv-originals-ranked-woke-score': 'Apple TV+ Originals Ranked by Woke Score (2026)',
       'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
@@ -11353,6 +11356,18 @@ function buildAppleTvWokeRankingListicle() {
     canonicalPath: 'lists/hbo-max-originals-woke-ranking',
     publishDate: '2026-08-12',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/hbo-max-originals-woke-ranking/content.html'), 'utf-8')
+  }));
+
+  // ============================================
+  // LISTICLE: Apple TV+ Originals Ranked by Woke Score (2026)
+  // ============================================
+  writePage('lists/apple-tv-originals-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'apple-tv-originals-ranked-woke-score',
+    title: 'Apple TV+ Originals Ranked by Woke Score (2026)',
+    description: 'Every Apple TV+ original film and series in the VirtueVigil database, ranked from most woke to most traditional. Killers of the Flower Moon leads the woke tier at -4 margin, F1 anchors the traditional end at +31. 16 titles scored with dual-metric methodology.',
+    canonicalPath: 'lists/apple-tv-originals-ranked-woke-score',
+    publishDate: '2026-08-21',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/apple-tv-originals-ranked-woke-score/content.html'), 'utf-8')
   }));
 
   // ============================================
