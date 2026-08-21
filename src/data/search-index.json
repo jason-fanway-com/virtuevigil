@@ -1,5 +1,38 @@
 [
   {
+    "slug": "mutiny-2026",
+    "title": "Mutiny",
+    "verdict": "TRADITIONAL LEAN",
+    "genre": "Action, Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 10.36,
+    "poster": "/images/posters/mutiny-2026.jpg"
+  },
+  {
+    "slug": "seven-samurai-1954",
+    "title": "Seven Samurai",
+    "verdict": "STRONGLY TRADITIONAL",
+    "genre": "Action, Drama, Epic",
+    "year": 1954,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 31.22,
+    "poster": "/images/posters/seven-samurai-1954.jpg"
+  },
+  {
+    "slug": "the-last-of-us-s1-2023",
+    "title": "The Last of Us - Season 1",
+    "verdict": "STRONGLY TRADITIONAL",
+    "genre": "Drama, Horror, Sci-Fi",
+    "year": 2023,
+    "type": "tv",
+    "wokeScore": 4.8,
+    "tradScore": 23.52,
+    "poster": "/images/posters/the-last-of-us-s1-2023.jpg"
+  },
+  {
     "slug": "nimrods-2026",
     "title": "Nimrods",
     "verdict": "TRADITIONAL LEAN",
