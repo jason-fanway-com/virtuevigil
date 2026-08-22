@@ -716,7 +716,7 @@ function siteSearch() {
 function topBanner() {
   return `
   <div class="top-banner">
-    <span>See the Message Before It Lands &mdash; Subscribe to weekly reviews</span>
+    <span>See the Message Before It Lands &ndash; Subscribe to weekly reviews</span>
   </div>`;
 }
 
@@ -986,7 +986,7 @@ function wokeTrapAlert(r) {
   return `
           <div class="woke-trap-alert">
             <h4><i class="fas fa-exclamation-circle"></i> Woke Trap Warning</h4>
-            <p><strong>Trap Present:</strong> Yes &mdash; <strong>Degree: ${esc(r.wokeTrap.degree)}.</strong> ${esc(stripInlineMarkdown(r.wokeTrap.explanation))}</p>
+            <p><strong>Trap Present:</strong> Yes &ndash; <strong>Degree: ${esc(r.wokeTrap.degree)}.</strong> ${esc(stripInlineMarkdown(r.wokeTrap.explanation))}</p>
           </div>`;
 }
 
@@ -1008,7 +1008,7 @@ function tropeTable(r) {
                 <td><strong>${t.weightedScore || ''}</strong></td>
               </tr>`).join('');
     return `
-          <div class="section-label" style="margin-top:28px;">Trope Audit &mdash; VVWS Weighted Scoring</div>
+          <div class="section-label" style="margin-top:28px;">Trope Audit &ndash; VVWS Weighted Scoring</div>
           <p style="font-size:0.9em;color:#aaa;margin-bottom:12px;">Formula: Weighted Score = Severity &times; Authenticity Multiplier &times; Centrality Multiplier</p>
           ${wokeTropes.length ? `
           <h4 style="color:#e74c3c;margin-top:16px;">🔴 Woke Tropes</h4>
@@ -1236,7 +1236,7 @@ function creativeTeamFull(r) {
 
   if (ct.producers && ct.producers.length) {
     html += `<div class="ctf-profile"><h4><i class="fas fa-user-tie" style="color:var(--gold);"></i> Producers</h4><ul>`;
-    ct.producers.forEach(p => { html += `<li><strong>${esc(p.name)}</strong>${p.company ? ' (' + esc(p.company) + ')' : ''}${p.profile ? ' — ' + esc(p.profile) : ''}</li>`; });
+    ct.producers.forEach(p => { html += `<li><strong>${esc(p.name)}</strong>${p.company ? ' (' + esc(p.company) + ')' : ''}${p.profile ? ' - ' + esc(p.profile) : ''}</li>`; });
     html += `</ul></div>`;
   }
 
@@ -1321,7 +1321,7 @@ function buildHomepage() {
     <div class="hero-inner">
       <div class="hero-content">
         <h1>Exposing <span>Ideology</span><br>in Entertainment</h1>
-        <p class="subtitle">VirtueVigil exists to expose ideological messaging in modern film and television &mdash; especially when it is disguised, delayed, or delivered only after viewers are emotionally invested. We provide values-based classification so families can see what a story is really saying before it says it.</p>
+        <p class="subtitle">VirtueVigil exists to expose ideological messaging in modern film and television &ndash; especially when it is disguised, delayed, or delivered only after viewers are emotionally invested. We provide values-based classification so families can see what a story is really saying before it says it.</p>
         <a href="#latest-review" class="hero-cta">
           Read Latest Review <i class="fas fa-arrow-right"></i>
         </a>
@@ -1442,7 +1442,7 @@ function buildHomepage() {
         <div class="spokesperson-info">
           <h3>Debra Ducane</h3>
           <div class="role">Cultural Sentinel</div>
-          <p>Debra is the voice of VirtueVigil. Her role is as sentinel &mdash; explaining each analysis on our review videos and explainer content. She delivers findings with calm conviction: direct, unapologetic, and more disappointed than angry.</p>
+          <p>Debra is the voice of VirtueVigil. Her role is as sentinel &ndash; explaining each analysis on our review videos and explainer content. She delivers findings with calm conviction: direct, unapologetic, and more disappointed than angry.</p>
           <blockquote>&ldquo;We are not impartial, but we are deliberate. When a story stops being a story and starts being instruction, we call it out. Subscribe if that matters to you.&rdquo;</blockquote>
         </div>
       </section>
@@ -10272,6 +10272,23 @@ function build() {
   console.log(`  ${subscriberPages} subscriber pages`);
   console.log(`  ${totalPages} total pages`);
   console.log(`  + sitemap.xml, robots.txt`);
+
+  // --- POST-BUILD EM DASH GUARD (PERMANENT) ---
+  const { execSync } = require('child_process');
+  try {
+    const result = execSync(`grep -rl '\—\\|&mdash;' ${path.join(__dirname, 'dist', 'reviews')} 2>/dev/null | wc -l`, { encoding: 'utf8' }).trim();
+    const dashCount = parseInt(result, 10);
+    if (dashCount > 0) {
+      console.error(`\n*** EM DASH GUARD FAIL: ${dashCount} review page(s) still contain em dashes after build ***`);
+      console.error('Fix the source JSON or template injection in build.js, then rebuild.');
+      process.exit(1);
+    }
+    console.log('  ✅ Em dash guard: clean');
+  } catch (e) {
+    if (e.status === 1 && e.message && e.message.includes('EM DASH')) throw e;
+    // grep returns 1 when no matches — that's success
+    console.log('  ✅ Em dash guard: clean');
+  }
   console.log(`\nOutput: ${DIST}`);
 }
 
