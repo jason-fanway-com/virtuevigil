@@ -1,5 +1,39 @@
 [
   {
+    "slug": "2001-a-space-odyssey-1968",
+    "title": "2001: A Space Odyssey",
+    "verdict": "STRONGLY TRADITIONAL",
+    "genre": "Science Fiction, Epic, Adventure",
+    "year": 1968,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 23.83,
+    "poster": "/images/posters/2001-a-space-odyssey-1968.jpg"
+  },
+  {
+    "slug": "shogun-s1-2024",
+    "title": "Shōgun - Season 1",
+    "verdict": "TRADITIONAL",
+    "platform": "FX on Hulu",
+    "genre": "Historical Drama, Epic",
+    "year": 2024,
+    "type": "series",
+    "wokeScore": 4.39,
+    "tradScore": 20.05,
+    "poster": "/images/posters/shogun-s1-2024.jpg"
+  },
+  {
+    "slug": "gladiator-2-2024",
+    "title": "Gladiator II",
+    "verdict": "TRADITIONAL",
+    "genre": "Action, Epic, Historical Drama",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 2.67,
+    "tradScore": 22.36,
+    "poster": "/images/posters/gladiator-2-2024.jpg"
+  },
+  {
     "slug": "mutiny-2026",
     "title": "Mutiny",
     "verdict": "TRADITIONAL LEAN",
