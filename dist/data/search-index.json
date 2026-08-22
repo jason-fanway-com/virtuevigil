@@ -11,27 +11,26 @@
     "poster": "/images/posters/2001-a-space-odyssey-1968.jpg"
   },
   {
-    "slug": "shogun-s1-2024",
-    "title": "Shōgun - Season 1",
+    "slug": "cuckoo-2024",
+    "title": "Cuckoo",
     "verdict": "TRADITIONAL",
-    "platform": "FX on Hulu",
-    "genre": "Historical Drama, Epic",
-    "year": 2024,
-    "type": "series",
-    "wokeScore": 4.39,
-    "tradScore": 20.05,
-    "poster": "/images/posters/shogun-s1-2024.jpg"
-  },
-  {
-    "slug": "gladiator-2-2024",
-    "title": "Gladiator II",
-    "verdict": "TRADITIONAL",
-    "genre": "Action, Epic, Historical Drama",
+    "genre": "Horror, Thriller, Mystery",
     "year": 2024,
     "type": "film",
-    "wokeScore": 2.67,
-    "tradScore": 22.36,
-    "poster": "/images/posters/gladiator-2-2024.jpg"
+    "wokeScore": 1.36,
+    "tradScore": 16.69,
+    "poster": "/images/posters/cuckoo-2024.jpg"
+  },
+  {
+    "slug": "better-call-saul-s1-2015",
+    "title": "Better Call Saul - Season 1",
+    "verdict": "STRONGLY TRADITIONAL",
+    "genre": "Drama, Crime, Legal",
+    "year": 2015,
+    "type": "tv",
+    "wokeScore": 4.4,
+    "tradScore": 24.88,
+    "poster": "/images/posters/better-call-saul-s1-2015.jpg"
   },
   {
     "slug": "mutiny-2026",
