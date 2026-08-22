@@ -257,7 +257,7 @@
     "tradScore": 9.2,
     "authIndex": 73,
     "scoreMargin": "+9 TRAD",
-    "preRelease": true,
+    "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
@@ -52783,7 +52783,7 @@
     "tradScore": 21.84,
     "authIndex": 77,
     "scoreMargin": "+18 TRAD",
-    "preRelease": true,
+    "preRelease": false,
     "wokeTrap": false,
     "woke_trap_assessment": {
       "is_trap": false,
