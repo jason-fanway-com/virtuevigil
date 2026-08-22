@@ -81,17 +81,23 @@ def md5_audit(slugs=None):
 
     return results
 
-# ── vision check (Gemini) ─────────────────────────────────
+# ── vision check (Gemini SDK) ───────────────────────────
 def check_with_vision(image_path, title):
-    """Use Gemini to verify the poster looks correct."""
+    """Use Gemini (google-genai SDK) to verify the poster looks correct."""
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
         return {"status": "SKIP", "reason": "no GEMINI_API_KEY"}
 
-    import base64, urllib.request, urllib.error
+    try:
+        from google import genai
+        import PIL.Image
+    except ImportError as e:
+        return {"status": "ERROR", "detail": f"Missing dependency: {e}. Run: pip3 install google-genai Pillow --break-system-packages"}
 
-    with open(image_path, "rb") as f:
-        img_b64 = base64.b64encode(f.read()).decode()
+    try:
+        img = PIL.Image.open(image_path)
+    except Exception as e:
+        return {"status": "ERROR", "detail": f"Cannot open image {image_path}: {e}"}
 
     prompt = (
         f"Look at this screenshot of a review page for '{title}' on a movie review website. "
@@ -103,25 +109,13 @@ def check_with_vision(image_path, title):
         "Include a one-line reason."
     )
 
-    body = {
-        "contents": [{
-            "parts": [
-                {"text": prompt},
-                {"inlineData": {"mimeType": "image/png", "data": img_b64}}
-            ]
-        }]
-    }
-
-    req = urllib.request.Request(
-        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={key}",
-        data=json.dumps(body).encode(),
-        headers={"Content-Type": "application/json"}
-    )
-
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            result = json.loads(resp.read())
-        text = result["candidates"][0]["content"]["parts"][0]["text"]
+        client = genai.Client(api_key=key)
+        resp = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=[prompt, img]
+        )
+        text = resp.text
         passed = text.strip().upper().startswith("PASS")
         return {"status": "PASS" if passed else "FAIL", "detail": text.strip()}
     except Exception as e:
