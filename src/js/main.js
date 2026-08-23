@@ -2,6 +2,13 @@
    VirtueVigil — Main JavaScript
    ============================================ */
 
+// --- GA4 Engagement Tracking Helper ---
+function trackEngagement(eventName, params) {
+  if (typeof gtag !== 'undefined') {
+    gtag('event', eventName, params);
+  }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
 
   // --- Mobile Navigation Toggle ---
@@ -66,6 +73,11 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!input || !input.value) return;
 
       const email = input.value.trim();
+      const source = form.dataset.source || 'unknown';
+
+      // Fire GA4 subscribe_attempt
+      trackEngagement('subscribe_attempt', { source });
+
       btn.disabled = true;
       btn.textContent = 'Subscribing...';
       if (msg) { msg.style.display = 'none'; }
@@ -74,10 +86,11 @@ document.addEventListener('DOMContentLoaded', () => {
         const res = await fetch('/api/subscribe', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ email }),
+          body: JSON.stringify({ email, source }),
         });
         const data = await res.json();
         if (data.success) {
+          trackEngagement('subscribe_success', { source });
           btn.textContent = 'Subscribed!';
           btn.style.background = '#4caf50';
           input.value = '';
@@ -87,6 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
             msg.style.display = '';
           }
         } else {
+          trackEngagement('subscribe_error', { source, error_message: data.error || 'unknown' });
           btn.textContent = 'Subscribe';
           btn.disabled = false;
           if (msg) {
@@ -95,7 +109,8 @@ document.addEventListener('DOMContentLoaded', () => {
             msg.style.display = '';
           }
         }
-      } catch {
+      } catch (err) {
+        trackEngagement('subscribe_error', { source, error_message: 'network' });
         btn.textContent = 'Subscribe';
         btn.disabled = false;
         if (msg) {
@@ -104,6 +119,21 @@ document.addEventListener('DOMContentLoaded', () => {
           msg.style.display = '';
         }
       }
+    });
+  });
+
+  // --- GA4 Related Review Click Tracking ---
+  document.querySelectorAll('.related-review-card').forEach(card => {
+    card.addEventListener('click', function(e) {
+      const position = this.dataset.position || '0';
+      const href = this.getAttribute('href') || '';
+      const reviewSlug = document.querySelector('.comments-section')?.dataset.slug || '';
+      const relatedSlug = href.replace('/reviews/', '').replace('/', '');
+      trackEngagement('related_click', {
+        review_slug: reviewSlug,
+        related_slug: relatedSlug,
+        position: Number(position)
+      });
     });
   });
 

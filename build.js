@@ -860,7 +860,7 @@ function sidebarHTML() {
         <div class="sidebar-newsletter">
           <h4>The Vigil Report</h4>
           <p>Get reviews in your inbox. No spam, just Woke Trap alerts.</p>
-          <form id="sidebar-sub-form" class="email-sub-form">
+          <form id="sidebar-sub-form" class="email-sub-form" data-source="sidebar">
             <input type="email" name="email" placeholder="Your email address" required>
             <button type="submit">Subscribe</button>
             <p class="sub-message" style="display:none;"></p>
@@ -892,7 +892,7 @@ function fullFooter() {
             <span>VirtueVigil</span>
           </div>
           <p>Values-based classification of modern film and television. Clarity before consumption.</p>
-          <form class="email-sub-form footer-sub-form" style="margin-top:14px;">
+          <form class="email-sub-form footer-sub-form" data-source="footer" style="margin-top:14px;">
             <input type="email" name="email" placeholder="Your email address" required style="flex:1;padding:9px 12px;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);color:var(--text-primary);font-size:0.82rem;max-width:240px;">
             <button type="submit" style="padding:9px 16px;background:var(--gold);color:var(--bg-primary);border:none;border-radius:var(--radius);font-weight:700;font-size:0.82rem;cursor:pointer;white-space:nowrap;">Subscribe</button>
             <p class="sub-message" style="display:none;margin-top:6px;font-size:0.75rem;"></p>
@@ -1384,6 +1384,16 @@ function buildHomepage() {
 
         ${scorePanel(featured)}
 
+        <!-- Inline Email CTA -->
+        <div class="inline-email-cta">
+          <p><strong>Want to know what's safe to watch?</strong> Get our weekly guide to new reviews and woke-free picks. No spam, ever.</p>
+          <form class="email-sub-form" data-source="inline">
+            <input type="email" placeholder="Your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+          <p class="sub-message"></p>
+        </div>
+
         <div class="featured-body" itemprop="reviewBody">
           <div class="section-label">Overall Perspective</div>
           ${overallParagraphs(featured)}
@@ -1636,10 +1646,10 @@ function relatedReviewsBlock(r) {
           <i class="fas fa-film" style="margin-right: 0.5rem;"></i>Related Reviews
         </h3>
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 0.75rem;">
-          ${related.map(rel => {
+          ${related.map((rel, idx) => {
             const relVc = verdictClass(rel.verdict);
             const badge = (rel.verdict || 'MIXED').toUpperCase();
-            return `<a href="/reviews/${rel.slug}/" style="text-decoration:none; display:flex; flex-direction:column; gap:0.25rem; padding:0.5rem; border-radius:8px; background:rgba(255,255,255,0.03); transition:background 0.2s;" onmouseover="this.style.background='rgba(255,255,255,0.08)'" onmouseout="this.style.background='rgba(255,255,255,0.03)'">
+            return `<a href="/reviews/${rel.slug}/" class="related-review-card" data-position="${idx + 1}" style="text-decoration:none; display:flex; flex-direction:column; gap:0.25rem; padding:0.5rem; border-radius:8px; background:rgba(255,255,255,0.03); transition:background 0.2s;" onmouseover="this.style.background='rgba(255,255,255,0.08)'" onmouseout="this.style.background='rgba(255,255,255,0.03)'">
               ${posterHTML(rel, 'thumb')}
               <span style="font-size:0.8rem; font-weight:600; color:#eee; line-height:1.2;">${esc(rel.title)}</span>
               <span class="verdict verdict-badge ${relVc}" style="font-size:0.6rem; padding:1px 4px; align-self:flex-start;">${badge}</span>
@@ -1755,6 +1765,16 @@ function buildReviewPage(r) {
         </div>
 
         ${scorePanel(r)}
+
+        <!-- Inline Email CTA -->
+        <div class="inline-email-cta">
+          <p><strong>Want to know what's safe to watch?</strong> Get our weekly guide to new reviews and woke-free picks. No spam, ever.</p>
+          <form class="email-sub-form" data-source="inline">
+            <input type="email" placeholder="Your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+          <p class="sub-message"></p>
+        </div>
 
         <div class="featured-body" id="review-body" itemprop="reviewBody">
           ${spoilerAlertBanner(r)}

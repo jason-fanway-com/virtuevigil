@@ -38,6 +38,7 @@ exports.handler = async (event) => {
   }
 
   const email = (body.email || '').trim().toLowerCase();
+  const source = (body.source || 'website').trim();
 
   // Validate email
   if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
@@ -65,8 +66,25 @@ exports.handler = async (event) => {
         'Content-Type': 'application/json',
         'Prefer': 'return=minimal',
       },
-      body: JSON.stringify({ email, source: 'website' }),
+      body: JSON.stringify({ email, source }),
     });
+
+    // Log to subscriber_events for notification pipeline
+    try {
+      await supabaseQuery('/rest/v1/subscriber_events', {
+        method: 'POST',
+        headers: {
+          'apikey': SUPABASE_KEY,
+          'Authorization': `Bearer ${SUPABASE_KEY}`,
+          'Content-Type': 'application/json',
+          'Prefer': 'return=minimal',
+        },
+        body: JSON.stringify({ email, source, notified: false }),
+      });
+    } catch (eventErr) {
+      // Non-fatal: subscriber was created, just log the event failure
+      console.error('subscriber_events insert failed:', eventErr.message);
+    }
 
     return {
       statusCode: 200,
