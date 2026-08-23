@@ -181543,5 +181543,124 @@
       "keywords": "is it ends woke, it ends 2026 review, it ends movie virtuevigil, it ends neon horror, alexander ullom it ends, it ends parents guide, road horror movie 2026"
     },
     "parentalGuidance": "Rated R for language, some violence, and pervasive psychological terror. No sexual content or nudity. The violence is occasional and non-graphic. The real intensity is existential: the film's prolonged exploration of hopelessness and despair is genuinely unsettling. A brief prayer scene is treated with sincerity. Recommended for mature teens 15+ who can handle conceptual horror."
+  },
+  {
+    "id": "american-martyr-the-stanley-rother-story-2026",
+    "slug": "american-martyr-the-stanley-rother-story-2026",
+    "title": "American Martyr: The Stanley Rother Story (2026)",
+    "year": 2026,
+    "type": "film",
+    "genre": "Documentary, Faith",
+    "date": "2026-08-23",
+    "datePublished": "2026-08-23",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "6 min",
+    "poster": "/images/posters/american-martyr-the-stanley-rother-story-2026.jpg",
+    "director": "Derek Watson",
+    "writers": "Derek Watson",
+    "cast": [
+      "Martin Sheen (narrator)",
+      "Michael Scaperlanda",
+      "Rebekah Scaperlanda"
+    ],
+    "studio": "Fathom Entertainment",
+    "distributor": "Fathom Entertainment",
+    "releaseDate": "2026-08-26",
+    "runtime": "123 min",
+    "rating": "Not Rated",
+    "verdict": "STRONGLY TRADITIONAL",
+    "wokeScore": 1.5,
+    "tradScore": 24.64,
+    "authIndex": 94,
+    "scoreMargin": "+23 TRADITIONAL",
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "This is a straightforward hagiographic documentary about a Catholic missionary priest martyred in Guatemala. There is no woke content to hide; the film is openly and unapologetically about faith, sacrifice, and sainthood from its opening moments. A viewer expecting ideological subversion will find none."
+    },
+    "summary": {
+      "overall": "Stanley Francis Rother was an Oklahoma farm boy who barely passed Latin in seminary and was told he might never be ordained. He became a priest anyway. Assigned to a remote Guatemalan village during a civil war that would claim 200,000 lives, he learned the Tz'utujil language, translated the New Testament so his parishioners could read Scripture in their own tongue, and refused to leave when the death squads came for him. On July 28, 1981, three men broke into his rectory and shot him in the head. He was 46. In 2017, he became the first U.S.-born priest to be beatified by the Catholic Church. Derek Watson's documentary, narrated with quiet gravity by Martin Sheen, tells this story without gimmickry or embellishment. The film moves chronologically through Rother's life: the Oklahoma childhood, the seminary struggles, the call to Guatemala, the escalating danger of the civil war, the decision to stay when every other missionary evacuated. Archival photos and footage dominate; the talking-head interviews, mostly with theologians and Rother's family members, serve the archive rather than competing with it. Sheen's narration carries the weight you would expect from an actor who has spent decades publicly wrestling with his own Catholic faith. He does not perform; he testifies. The film's power is in the details. Rother kept a journal in which he wrote, 'The shepherd cannot run at the first sign of danger.' When his name appeared on a death list, his bishop ordered him home to Oklahoma. He went, said goodbye to his family, packed his bags, and flew back to Guatemala three months later, telling his sister, 'A shepherd does not run.' The documentary does not rush toward the martyrdom. It earns it, hour by hour, mission by mission, so that when the assassination comes, you feel the weight of every decision that led a man from a wheat farm in Okarche to a dirt-floor rectory in Santiago Atitlan to a bullet in the brain. This is not a film about politics. It is a film about what it costs to mean what you say about God.",
+      "oneLiner": "Martin Sheen narrates the story of Stanley Rother, the Oklahoma farm boy who became a priest, translated the New Testament into Tz'utujil, and was murdered in Guatemala for refusing to abandon his flock: a documentary about what it costs to mean what you say about God.",
+      "adultInsight": "American Martyr will not satisfy viewers who want their documentaries to interrogate their subjects. Derek Watson has made a hagiography, not an investigation, and he is transparent about it. The film does not ask whether Rother's death was politically avoidable or whether the U.S. Church should have intervened more forcefully with the Guatemalan government. It asks only what it means for a man to believe something so completely that he will die for it, and it presents Rother as the answer. The political context matters: the Guatemalan Civil War was a Cold War proxy conflict in which the U.S. backed a right-wing government that slaughtered indigenous villagers, often with the complicity of local Catholic hierarchy. Rother's own bishop was criticized for being too close to the regime. A more analytical documentary would engage with these tensions. Watson acknowledges them but does not dwell, because the film's argument is that Rother transcended them by refusing to take sides in a political war and instead serving the people caught in the middle. Whether you buy that framing depends on your theology. As a work of devotion, the film succeeds entirely. As journalism, it leaves gaps. But Watson is making a devotional object, not an expos\u00e9, and judging it by the wrong standard misses the point. For conservative Catholic families, this film will be a gift: a serious, respectful portrait of a modern American saint that refuses to apologize for its subject's faith. For non-religious viewers, it will be an honest introduction to a man who believed something hard enough to die for it, and that alone makes it worth 123 minutes.",
+      "parentalGuidance": "Unrated, but suitable for all ages. The documentary deals with mature themes including political violence, assassination, and martyrdom. The murder is described but not graphically depicted. There is no sexual content, profanity, or gore. Families with children 10+ can watch together, though parents should be prepared to discuss the moral questions the film raises: when is it right to risk your life for others, and what does it mean to die for your beliefs. The film's Catholic perspective is explicit and unapologetic, which may require context for non-Catholic viewers."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRADITIONAL-026",
+        "name": "The Self-Sacrificing Hero",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "Stanley Rother gives his life to defend his parishioners in Guatemala. He is ordered home to safety, returns anyway, and is murdered for it. This is not a fictional trope applied to a real life; it is the historical fact of Rother's martyrdom. Severity 5: the entire film exists to document this sacrifice. Authenticity High (0.7): historically documented. Centrality High (1.8): the film's sole organizing principle."
+      },
+      {
+        "id": "TRADITIONAL-030",
+        "name": "Biblical Morality",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "Rother's life is presented as an embodiment of John 15:13: 'Greater love hath no man than this, that a man lay down his life for his friends.' His translation of the New Testament into Tz'utujil, his journal entries quoting Scripture, and his pastoral care all frame his actions as direct expressions of biblical teaching. Severity 5: the film's moral framework. Authenticity High (0.7): Rother was a priest who lived and died by Scripture. Centrality High (1.8): the narrative structure is built around his faith."
+      },
+      {
+        "id": "TRADITIONAL-049",
+        "name": "The Humble Servant",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "Rother was a farm boy who struggled through seminary, did not distinguish himself academically, and was not sent to Guatemala because he was the best priest available but because he was willing to go. He lived among the Tz'utujil people, learned their language, and did manual farm labor alongside his parishioners. The film emphasizes his ordinariness as the foundation of his sanctity. Severity 4: structurally central to the portrait. Authenticity High (0.7): documented biography. Centrality High (1.8): the film's framing device."
+      },
+      {
+        "id": "TRADITIONAL-043",
+        "name": "Faith in Adversity",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "Rother's response to escalating danger is not to arm himself, organize a militia, or appeal to political authorities. It is to pray, celebrate Mass, and stay with his people. His journal records his fear and his decision to overcome it through faith. The film presents this without irony or qualification. Severity 5: the central thesis. Authenticity High (0.7): Rother's own words from his journals. Centrality High (1.8): the film is structured around this decision."
+      },
+      {
+        "id": "TRADITIONAL-037",
+        "name": "Small-Town Integrity",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "explanation": "The film opens with extensive footage of Okarche, Oklahoma, where Rother grew up on a wheat farm. The community is presented as the seedbed of his character: hard work, family loyalty, and simple faith prepared him for Guatemala. Severity 2: present in the early sections. Authenticity High (0.7): genuine archive. Centrality Low (0.5): establishes character but is not the film's argument."
+      },
+      {
+        "id": "WOKE-004",
+        "name": "Institutional Evil (Guatemalan Government)",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.0,
+        "explanation": "The Guatemalan government during the civil war is portrayed as responsible for death squads and indigenous persecution. This is historically accurate and the film does not inflate it into a broad institutional critique. Severity 2: factual background. Authenticity Moderate (1.0): historical reality. Centrality Low (0.5): context, not thesis."
+      },
+      {
+        "id": "WOKE-001",
+        "name": "Church Hierarchy Complicity",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.5,
+        "explanation": "The documentary briefly notes that some Church authorities were too close to the Guatemalan regime. This is not explored in depth and the film's purpose is not to critique the institutional Church. Severity 1: trace mention. Authenticity Moderate (1.0): factual note. Centrality Low (0.5): periphery."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is American Martyr: The Stanley Rother Story (2026) Woke? Full Review | VirtueVigil",
+      "metaDescription": "VirtueVigil reviews American Martyr: The Stanley Rother Story (2026), narrated by Martin Sheen. The first U.S.-born priest beatified as a martyr. Verdict: STRONGLY TRADITIONAL (+23 margin). A documentary about what it costs to mean what you say about God.",
+      "keywords": "is american martyr woke, stanley rother documentary review, american martyr virtuevigil, stanley rother film, martin sheen documentary, blessed stanley rother, catholic documentary 2026"
+    },
+    "parentalGuidance": "Unrated, suitable for all ages. Contains descriptions of political violence and assassination, but no graphic depictions. No profanity, sexual content, or gore. The film's Catholic perspective is explicit. Families can watch with children 10+; parents should be ready to discuss martyrdom and moral courage."
   }
 ]
