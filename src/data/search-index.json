@@ -1,5 +1,16 @@
 [
   {
+    "slug": "it-ends-2026",
+    "title": "It Ends (2026)",
+    "verdict": "TRADITIONAL",
+    "genre": "Horror, Thriller, Fantasy, Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 15.54,
+    "poster": "/images/posters/it-ends-2026.jpg"
+  },
+  {
     "slug": "2001-a-space-odyssey-1968",
     "title": "2001: A Space Odyssey",
     "verdict": "STRONGLY TRADITIONAL",
