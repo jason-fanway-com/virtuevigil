@@ -22,6 +22,17 @@
     "poster": "/images/posters/american-martyr-the-stanley-rother-story-2026.jpg"
   },
   {
+    "slug": "cool-hand-luke-1967",
+    "title": "Cool Hand Luke (1967)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "genre": "Drama, Prison",
+    "year": 1967,
+    "type": "film",
+    "wokeScore": 1,
+    "tradScore": 21.84,
+    "poster": "/images/posters/cool-hand-luke-1967.jpg"
+  },
+  {
     "slug": "2001-a-space-odyssey-1968",
     "title": "2001: A Space Odyssey",
     "verdict": "STRONGLY TRADITIONAL",
