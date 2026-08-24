@@ -2388,6 +2388,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-traditional-sports-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-horror-movies-ranked/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-thriller-movies-ranked-all-time/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/best-traditional-comedy-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-anti-communist-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-perseverance/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-4th-of-july-movies/`, changefreq: 'monthly', priority: '0.9' },
@@ -3604,6 +3605,7 @@ function buildListsHubPage() {
         'most-woke-movies-2026-parents-should-know',
         'best-traditional-horror-movies-ranked',
         'best-traditional-thriller-movies-ranked-all-time',
+        'best-traditional-comedy-movies-all-time',
         'biopics-ranked-by-woke-score',
         'every-crime-movie-ranked-woke-score',
         'animated-family-movies-2025-woke-ranking',
@@ -3697,6 +3699,7 @@ function buildListsHubPage() {
       'best-traditional-sports-movies': 'Best Traditional Sports Movies: 20 Films Built on Discipline, Sacrifice, and Mentorship',
       'best-traditional-horror-movies-ranked': 'Best Traditional Horror Movies Ranked by Woke Score — VirtueVigil 2026',
       'best-traditional-thriller-movies-ranked-all-time': 'Best Traditional Thriller Movies of All Time Ranked by Woke Score — VirtueVigil 2026',
+      'best-traditional-comedy-movies-all-time': 'Best Traditional Comedy Movies of All Time Ranked by Woke Score — VirtueVigil 2026',
       'best-anti-communist-movies': 'Top 10 Anti-Communist Movies of All Time: Cinema\'s Best Defense of Freedom',
       'best-movies-about-perseverance': 'Best Movies About Perseverance: Top 10 Never-Give-Up Films Ranked by VirtueVigil Score',
       'best-4th-of-july-movies': 'Best 4th of July Movies: Top 10 Patriotic Films for Independence Day',
@@ -34064,6 +34067,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-thriller-movies-ranked-all-time',
     publishDate: '2026-08-23',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-thriller-movies-ranked-all-time/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/best-traditional-comedy-movies-all-time/index.html');
+  writePage('lists/best-traditional-comedy-movies-all-time/index.html', buildListiclePage({
+    slug: 'best-traditional-comedy-movies-all-time',
+    title: '20 Best Traditional Comedy Movies of All Time, Ranked by VirtueVigil',
+    description: "From Toy Story to Groundhog Day, these are the 20 funniest films that never trade a punchline for a lecture. No agenda, just jokes, craft, and heart. Every ranking backed by VirtueVigil's dual-metric scoring system.",
+    canonicalPath: 'lists/best-traditional-comedy-movies-all-time',
+    publishDate: '2026-08-24',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-comedy-movies-all-time/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
