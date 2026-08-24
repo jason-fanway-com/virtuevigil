@@ -181780,5 +181780,290 @@
       "keywords": "is cool hand luke woke, cool hand luke 1967 review, paul newman cool hand luke virtuevigil, cool hand luke parents guide, classic prison movies, what we've got here is failure to communicate"
     },
     "parentalGuidance": "Rated PG (1967 rating, roughly PG-13 by modern standards). Contains some violence (prison fistfight, beatings by guards, non-graphic shooting death). Mild profanity. A non-explicit photograph shown briefly. Luke is arrested for drunken vandalism. The film's religious themes, including Luke's prayer of doubt, may prompt family discussions about faith. Recommended for 13+."
+  },
+  {
+    "id": "spa-weekend-2026",
+    "slug": "spa-weekend-2026",
+    "title": "Spa Weekend (2026)",
+    "year": 2026,
+    "type": "film",
+    "genre": "Comedy",
+    "date": "2026-08-24",
+    "datePublished": "2026-08-24",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "5 min",
+    "poster": "/images/posters/spa-weekend-2026.jpg",
+    "director": "Jon Lucas, Scott Moore",
+    "writers": "Jon Lucas, Scott Moore",
+    "cast": [
+      "Leslie Mann",
+      "Isla Fisher",
+      "Michelle Buteau",
+      "Anna Faris",
+      "Adam Demos"
+    ],
+    "studio": "Black Bear Pictures, Team Todd",
+    "distributor": "Black Bear Pictures",
+    "releaseDate": "2026-08-21",
+    "runtime": "97 min",
+    "rating": "R",
+    "verdict": "MIXED",
+    "wokeScore": 1.9,
+    "tradScore": 3.5,
+    "authIndex": 65,
+    "scoreMargin": "+2 TRAD",
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Spa Weekend's mild woke content (casual hookup culture, a girlboss-lite workplace beat) is visible from the opening minutes and never hidden. Mel's chaotic personality drives the conflict from the first scene at the resort. There is no ideological ambush here: what you see is what you get, a lightweight female-friendship comedy with some casually progressive assumptions baked into the genre."
+    },
+    "summary": {
+      "overall": "Spa Weekend is the kind of comedy that feels like it was made for a long plane ride: it passes the time without asking much of you, and you will have forgotten most of it by baggage claim. Four childhood friends reunite at a luxury resort for Jane's birthday. Three of them agreed not to invite Mel (Isla Fisher), the wild card who turns every outing into a disaster. Sophie (Anna Faris) caves and invites her anyway. Within 24 hours, Mel has gotten Sophie fired, summoned Coco's ex-husband to the resort, stolen and crashed a golf cart, and thrown a party with strippers that gets all four women arrested. The film's third act pivots to reconciliation: the friends learn Mel is broke and lonely, return to the resort to defend her, and ride off to Monte Carlo as a healed foursome. It is amiable, occasionally funny, and entirely disposable. Leslie Mann, Michelle Buteau, Anna Faris, and Isla Fisher are all pros who elevate thin material, but the script (from Jon Lucas and Scott Moore, the writing team behind The Hangover and Bad Moms) feels like a first draft. The jokes land at about a .300 average, which is fine for a comedy that will be watched primarily on couches. At 97 minutes, it does not overstay its welcome, and no one involved is embarrassing themselves. But there is not a single scene here you have not seen in a dozen other comedies about friends behaving badly on vacation.",
+      "oneLiner": "Four childhood friends, one wild card, one spa weekend, zero surprises: Leslie Mann and Isla Fisher headline a competent but forgettable comedy that neither offends nor inspires.",
+      "adultInsight": "Spa Weekend reveals more about the state of studio comedy in 2026 than it intends to. The genre has been in a slow-motion crisis for a decade: theatrical comedies have collapsed, streaming comedies are algorithmically sanded to remove anything that might offend, and the result is films like this one, which is never bad enough to hate and never good enough to remember. The structural problem is that Spa Weekend wants to be both a raunchy-girlfriend comedy in the Bridesmaids tradition and a safe, heartwarming movie about the power of female friendship. These two modes pull against each other. The raunchy impulses (the golf cart, the strippers, the arrest) are neutered by the need to keep everyone likable; the heartwarming impulses are undercut by the thin character writing. Mel is supposed to be a lovable disaster, but the film never quite decides whether her behavior is liberating or pathological. She gets everyone arrested, costs Sophie her job, and wrecks a hotel, and the resolution is that her friends decide to overlook all of it because she is sad. That is not friendship; it is enabling. But the film is too upbeat to notice or care. For parents, the concern is mild: casual hookup culture is presented as normal and consequence-free, and there is a general assumption that the women's dissatisfaction with their adult lives is something a vacation can fix. Neither of these is a capital offense against civilization, but they add up to a worldview where adult responsibility is a drag and the answer is a weekend of sanctioned chaos paid for on someone else's dime.",
+      "parentalGuidance": "Rated R for crude humor, language, and some sexual content including brief nudity. Jane hooks up with a yoga instructor (not explicit). A party scene includes male strippers (mostly comedic). Profanity throughout. Alcohol use. A character steals and crashes a golf cart. The film's resolution treats Mel's destructive behavior as forgivable because she is lonely, which may be worth discussing with teens: genuine friendship means holding people accountable, not excusing everything. Not suitable for children under 15."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-022",
+        "name": "Sexual Liberation as Empowerment",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 1.4,
+        "explanation": "Jane's hookup with yoga instructor Kai is presented as a carefree, consequence-free vacation fling. The film treats casual sexual encounters as a normal, healthy part of a weekend away from adult responsibilities. The encounter is brief and not explicit, but its framing is pure modern Hollywood. Severity 2: present as a subplot beat. Authenticity Low (1.4): the casual-hookup-on-vacation beats reads as a genre checkbox, not organic to character. Centrality Low (0.5): a few minutes of screentime."
+      },
+      {
+        "id": "WOKE-003",
+        "name": "The Girl Boss",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.5,
+        "explanation": "Sophie fixes a computer issue at the resort on the spot and gets hired as a traveling tech consultant by the end of the film. It is the mildest possible version of the girlboss trope, basically a wish-fulfillment beat about being recognized for your competence. Severity 1: trace. Authenticity Moderate (1.0): fits the character's established tech-savvy nature. Centrality Low (0.5): a few lines of dialogue."
+      },
+      {
+        "id": "TRADITIONAL-042",
+        "name": "The Forgiving Heart",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The film's emotional climax is the friends returning to defend Mel after learning she is broke and lonely. Coco, who had the most reason to be angry (Mel summoned her ex-husband), leads the charge. The choice to forgive rather than cut ties is presented as the right and mature response, even if the film does not fully earn it dramatically. Severity 3: the turning point of the third act. Authenticity High (0.7): forgiveness between old friends is a genuinely resonant beat. Centrality Moderate (1.0): drives the resolution."
+      },
+      {
+        "id": "TRADITIONAL-037",
+        "name": "Small-Town Integrity",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "explanation": "The friend group functions as a de facto community, and the film's central value is loyalty to that community. When the chips are down, the women choose each other over self-interest. The film's moral universe is small-c conservative in this one dimension: the bonds of shared history matter more than individual grievance. Severity 2: present throughout. Authenticity High (0.7): the friendship chemistry between the four leads is the film's best asset. Centrality Moderate (1.0): the organizing theme."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Spa Weekend (2026) Woke? Leslie Mann Comedy Review | VirtueVigil",
+      "metaDescription": "VirtueVigil reviews Spa Weekend (2026), the Leslie Mann-Isla Fisher comedy about four friends on a disastrous resort vacation. Verdict: MIXED (+2 margin). Parental guidance included.",
+      "keywords": "is spa weekend woke, spa weekend 2026 review, leslie mann spa weekend virtuevigil, spa weekend parents guide, isla fisher comedy, spa weekend woke or traditional"
+    },
+    "parentalGuidance": "Rated R for crude humor, language, and some sexual content including brief nudity. Jane hooks up with a yoga instructor (not explicit). A party scene includes male strippers (mostly comedic). Profanity throughout. Alcohol use. A character steals and crashes a golf cart. The film's resolution treats destructive behavior as forgivable because the character is lonely, which may be worth discussing with teens. Not suitable for children under 15."
+  },
+  {
+    "id": "amadeus-1984",
+    "slug": "amadeus-1984",
+    "title": "Amadeus (1984)",
+    "year": 1984,
+    "type": "film",
+    "genre": "Drama, Biographical, Period",
+    "date": "2026-08-24",
+    "datePublished": "2026-08-24",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "8 min",
+    "poster": "/images/posters/amadeus-1984.jpg",
+    "director": "Milos Forman",
+    "writers": "Peter Shaffer",
+    "cast": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge",
+      "Simon Callow",
+      "Roy Dotrice",
+      "Christine Ebersole",
+      "Jeffrey Jones",
+      "Charles Kay"
+    ],
+    "studio": "The Saul Zaentz Company",
+    "distributor": "Orion Pictures",
+    "releaseDate": "1984-09-19",
+    "runtime": "161 min",
+    "rating": "PG",
+    "verdict": "TRADITIONAL",
+    "wokeScore": 0.5,
+    "tradScore": 15.54,
+    "authIndex": 96,
+    "scoreMargin": "+15 TRAD",
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "Amadeus carries almost no woke content by modern standards. Its only arguable beat is Salieri's 'war with God,' which frames a religious man as resentful rather than reverent, but this is a theologically serious exploration of envy and doubt, not a secularist polemic. There is no hidden agenda, no progressive messaging buried in the back half, no reversal of the story's moral thrust. The film's themes are visible and coherent from the first frame."
+    },
+    "summary": {
+      "overall": "Amadeus opens with an old man screaming a confession he has carried for decades: 'Mozart! I killed you!' The man is Antonio Salieri (F. Murray Abraham), a once-famous court composer now confined to a Vienna asylum in his last years, and the film unfolds as his confession to a young priest. This is the organizing genius of Peter Shaffer's script and Milos Forman's direction: the story of Mozart's brilliance is told entirely through the eyes of the one man who could not forgive God for giving it. Salieri has spent his life as a devout, disciplined, mediocre musician, and he has made a bargain with God: give me fame, and I will honor you. Then Mozart (Tom Hulce) arrives in Vienna, a giggling, foul-mouthed, childish prodigy who appears to have been handed, gratis, the divine gift Salieri has spent a lifetime earning through prayer and self-denial. The injustice breaks him. Salieri spends the rest of the film waging a secret war against both Mozart and the God who has, in his view, betrayed him: he sabotages Mozart's career, blocks his appointments, undermines him at court, and finally, in the film's most wrenching sequence, pushes the dying composer to finish a Requiem that Salieri intends to pass off as his own. The film's thesis is devastating: mediocrity, given enough talent, is capable of destroying greatness out of pure envy. F. Murray Abraham won the Oscar for a performance of controlled fury that never once tips into caricature. Tom Hulce's Mozart is the film's great risk, a buffoonish genius who could easily have been insufferable, but Hulce finds the humanity beneath the giggle. The music, conducted by Neville Marriner, is the third lead character. Eight Oscars, including Best Picture, were not enough to overstate what Forman accomplished. Amadeus is not a biography; Shaffer called it a 'fantasia on a real-life theme.' It is a theological horror story about what happens when a man decides God owes him more than he got.",
+      "oneLiner": "F. Murray Abraham's Antonio Salieri wages a lifelong secret war against God and the childlike genius he has been sent, in Milos Forman's eight-Oscar masterpiece about envy, mediocrity, and the terrifying indifference of talent.",
+      "adultInsight": "Amadeus has survived four decades as one of the rare films that is both a crowd-pleaser and a work of genuine moral seriousness. Its subject is the oldest sin in the book: envy. Salieri is not an atheist. He is a believer who has done everything right and watched God hand the prize to a vulgar child. His rebellion is not against God's existence but against God's apparent unfairness, and that is a far more interesting and dangerous heresy. The film does not mock faith; it takes faith seriously enough to be enraged by it. Salieri's sin is not doubt but presumption: he believes he has earned a reward, and when the reward goes elsewhere, he concludes the system is rigged. This is the same spiritual error that shows up in every age, dressed in whatever language is current. The modern version is the grievance politics that says my failure is proof that the game was fixed against me, and my success is owed to me the moment I am not given it. Salieri is that man, and the film's honesty is that it does not let him off the hook. He is the narrator, which means the film spends 160 minutes inside his head, and still the audience comes away seeing clearly that the monster is him, not God. That is hard to do, and it is why Amadeus remains a masterpiece. For believers, the film is a warning about the corruption of comparing oneself to others. For non-believers, it is a portrait of resentment that needs no theological frame to land. For parents, it is an unusually good entry point for talking to teenagers about envy, entitlement, and the difference between wanting to be great and resenting greatness in others.",
+      "parentalGuidance": "Rated PG (1984 rating; would likely be PG-13 today). Contains some coarse language from Mozart, a few scenes of sexual suggestiveness and a brief nude scene in the theatrical context of Mozart's opera The Marriage of Figaro, some illness and death imagery near the end, and a suicide attempt by Salieri (off-screen, non-graphic). The central themes of envy, resentment toward God, and a man's spiritual corruption may prompt meaningful discussion. Recommended for 14+."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRADITIONAL-030",
+        "name": "Biblical Morality",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "The entire film is structured as a confession to a priest, and its moral framework is explicitly Judeo-Christian. Salieri's story is a cautionary tale about envy, pride, and presumption, three of the seven deadly sins. The film takes sin seriously as a real spiritual condition with real consequences: Salieri's punishment is not external but internal, a lifetime of knowing he destroyed greatness out of spite. Severity 5: the organizing theological thesis. Authenticity High (0.7): rooted in a genuinely Catholic moral universe. Centrality High (1.8): the confession frames every scene."
+      },
+      {
+        "id": "TRADITIONAL-032",
+        "name": "The Meritocratic Triumph",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The film is, at one level, an argument that genuine talent and craft are real and distinguish the great from the merely competent. Mozart's music is not a social construction; it is objectively, audibly sublime, and the film's dramatic engine is that everyone, including Salieri, can hear the difference. Salieri's tragedy is that he has enough talent to recognize genius and not enough to produce it. Severity 3: central to the conflict. Authenticity High (0.7): the music itself is the proof. Centrality Moderate (1.0): the contrast drives the plot."
+      },
+      {
+        "id": "TRADITIONAL-033",
+        "name": "The Wise Elder",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "explanation": "The priest who hears Salieri's confession serves as the moral witness, the figure of faith to whom the whole story is told. He is the audience's surrogate, initially bored by the old man's rambling and gradually horrified by what he hears. The film respects his office and his silence. Severity 2: present as the frame. Authenticity High (0.7): a genuinely sympathetic priest figure, rare in modern cinema. Centrality Moderate (1.0): the confession structure depends on him."
+      },
+      {
+        "id": "TRADITIONAL-041",
+        "name": "Industry and Perseverance",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "explanation": "Mozart's output, even in the film's dramatized telling, is staggering, and his late work is produced under illness and poverty. The Requiem, composed as he is dying, is the film's emblem of dedication to craft under duress. The film honors work even as it mourns that work alone was not enough to satisfy Salieri. Severity 2: present. Authenticity High (0.7): the historical record supports it. Centrality Low (0.5): a supporting theme rather than the thesis."
+      },
+      {
+        "id": "TRADITIONAL-039",
+        "name": "Objective Good vs. Evil",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "Beneath the surface, the film has a clear moral binary: Mozart's divine gift is good, and Salieri's envious sabotage is evil, and the film does not pretend otherwise even though the evil man is the narrator. Salieri's final speech, in which he blesses all mediocrities and declares himself their patron saint, is the film's devastating verdict on him. Severity 4: strong. Authenticity High (0.7): the moral clarity is earned, not imposed. Centrality High (1.8): the ending delivers the judgment."
+      },
+      {
+        "id": "WOKE-012",
+        "name": "The Smug Secularist",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.5,
+        "explanation": "Salieri's fury is aimed at God, and a shallow reading could call him a religious man who turns against faith. But the film is not secularist: it is deeply theologically literate, and Salieri's doubt is framed as his sin, not his awakening. The priest remains the moral center. Severity 1: trace, and arguably not woke at all. Authenticity Moderate (1.0): real theological wrestling. Centrality Low (0.5): the frame, not the message."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is Amadeus (1984) Woke? Full Review | VirtueVigil",
+      "metaDescription": "VirtueVigil reviews Amadeus (1984), Milos Forman's Oscar-winning film about envy, genius, and a war against God. Verdict: TRADITIONAL (+15 margin). A theological horror story starring F. Murray Abraham.",
+      "keywords": "is amadeus woke, amadeus 1984 review, amadeus parents guide, milos forman amadeus virtuevigil, salieri mozart movie, best picture 1984 amadeus"
+    },
+    "parentalGuidance": "Rated PG (1984 rating; would likely be PG-13 today). Contains some coarse language from Mozart, a few scenes of sexual suggestiveness and brief nudity in the operatic context, some illness and death imagery, and a non-graphic off-screen suicide attempt. The central themes of envy, resentment toward God, and spiritual corruption may prompt meaningful family discussion. Recommended for 14+."
+  },
+  {
+    "id": "its-always-sunny-in-philadelphia-s18-2026",
+    "slug": "its-always-sunny-in-philadelphia-s18-2026",
+    "title": "It's Always Sunny in Philadelphia - Season 18",
+    "year": 2026,
+    "type": "tv",
+    "genre": "Comedy, Sitcom",
+    "date": "2026-08-24",
+    "datePublished": "2026-08-24",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "6 min",
+    "poster": "/images/posters/its-always-sunny-in-philadelphia-s18-2026.jpg",
+    "director": "Rob McElhenney (creator)",
+    "writers": "Rob McElhenney, Glenn Howerton, Charlie Day",
+    "cast": [
+      "Charlie Day",
+      "Glenn Howerton",
+      "Rob McElhenney",
+      "Kaitlin Olson",
+      "Danny DeVito",
+      "Mary Elizabeth Ellis"
+    ],
+    "studio": "FX Productions",
+    "releaseDate": "2026-08-17",
+    "runtime": "10 episodes",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 1.0,
+    "tradScore": 3.5,
+    "authIndex": 78,
+    "scoreMargin": "+3 TRAD",
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "explanation": "It's Always Sunny is exactly what it appears to be: an openly irreverent, proudly offensive black comedy about five awful people who never learn. There is no bait-and-switch, no hidden progressive sermon buried in the back half. The show's mockery is equal-opportunity, aimed at the church, the government, and political correctness alike. If anything, the show is notable in the modern landscape for being one of the last comedies allowed to be offensive at all."
+    },
+    "summary": {
+      "overall": "It's Always Sunny in Philadelphia enters its eighteenth season as the longest-running live-action sitcom in American television history, a record it has earned by refusing, season after season, to let its characters grow, learn, or become even slightly better people. The premise is unchanged: five self-absorbed degenerates, Charlie (Charlie Day), Dennis (Glenn Howerton), Mac (Rob McElhenney), Dee (Kaitlin Olson), and Frank (Danny DeVito), run a failing Philadelphia bar called Paddy's Pub and spend every episode hatching a new get-rich-quick scheme that inevitably collapses under the weight of their own greed, stupidity, and mutual betrayal. Season 18 opens with two episodes, Frank Marries a Corpse and Dennis and Dee Don't Get Rich, and the season's ten-episode run (the first double-digit season since 2019) carries the Gang through a health screening, a virtual-reality venture, a Renaissance faire, and a crusade against alcohol. The show's genius, if that is the word, is that it has never once asked us to admire these people. Where most sitcoms soften their characters into lovable rogues, Sunny keeps them authentically monstrous, and the joke is always on them. That the show remains funny in its eighteenth year is a minor miracle of commitment to a bit. That it remains on the air at all, in an era when comedy has been sanded down to avoid offense, is the more interesting story.",
+      "oneLiner": "Eighteen seasons in, the Gang is still five irredeemable narcissists running a failing bar and failing upward, and It's Always Sunny remains one of the last sitcoms allowed to be genuinely offensive in every direction.",
+      "adultInsight": "It's Always Sunny occupies a strange and revealing place in the culture. It is a show with essentially no ideology, which in 2026 reads as an ideology all its own. The Gang are not conservative heroes; they are selfish, drunken, amoral schemers whose every plan fails. But neither are they progressive mouthpieces. The show mocks the church, but it mocks wokeness with equal enthusiasm. It has never lectured its audience, never apologized for a joke, never paused an episode to deliver a message. In a television landscape where comedy writers now routinely sand the edges off their material to avoid offending anyone, Sunny's continued existence is a small act of defiance. The show's deepest, most consistent value is anti-victimhood: no character ever blames the system, the culture, or their identity for their failures. They fail because they are lazy, greedy, and incompetent, and the show is ruthless about that. There is something almost bracingly honest in this, even if the honesty comes wrapped in vulgarity and nihilism. For parents, the more interesting conversation is not about what the show says but about what it refuses to say. It is a useful counterweight to the lecture-driven comedy that dominates streaming, a reminder that satire is supposed to cut in every direction, including the one the audience happens to hold dear.",
+      "parentalGuidance": "TV-MA for pervasive crude humor, strong language, alcohol and drug use, and deliberately offensive subject matter. The Gang's behavior is presented as deplorable and is never endorsed, but it is also never punished, which may confuse younger viewers. The show treats scheming, drinking, and cruelty as comedy. Not for children under any circumstances; mature older teens only, and ideally with a conversation about the difference between laughing at these people and admiring them."
+    },
+    "tropeAudit": [
+      {
+        "id": "TRADITIONAL-028",
+        "name": "The Rugged Individualist",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The Gang's entire existence is built on refusal to work for anyone else. They own and operate Paddy's Pub, however incompetently, and every season is a series of independent schemes, no bosses, no institutions, no handouts. The show's DNA is small-business self-reliance taken to its absurd extreme. Severity 3: a defining trait of the premise. Authenticity High (0.7): organic to the show from episode one, not an imposed theme. Centrality Moderate (1.0): drives most plots."
+      },
+      {
+        "id": "TRADITIONAL-032",
+        "name": "The Meritocratic Triumph",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "explanation": "The show's comic engine is anti-victimhood in the extreme. The Gang never succeed, but they also never blame the system, their identities, or outside forces. Their failures are always the direct result of their own laziness, greed, and stupidity. No character ever claims a grievance exemption. Severity 2: consistent but understated. Authenticity High (0.7): baked into the show's worldview. Centrality Moderate (1.0): the engine of the humor."
+      },
+      {
+        "id": "WOKE-004",
+        "name": "Institutional Evil",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 1.0,
+        "explanation": "The show mocks institutions relentlessly, the church, the government, the law, the medical system, but its cynicism is comic nihilism rather than progressive critique. There is no CRT-adjacent argument that institutions are systemically corrupt; there is only the running gag that every authority figure is a fool. Severity 2: mild and recurring. Authenticity Moderate (1.0): genuine satire, not ideological injection. Centrality Low (0.5): backdrop for the schemes, not the message."
+      }
+    ],
+    "seo": {
+      "titleTag": "Is It's Always Sunny in Philadelphia Season 18 Woke? Review | VirtueVigil",
+      "metaDescription": "VirtueVigil reviews It's Always Sunny in Philadelphia Season 18 (2026). Verdict: TRADITIONAL LEAN (+3 margin). The longest-running live-action sitcom stays proudly offensive in every direction.",
+      "keywords": "is its always sunny woke, always sunny season 18 review, its always sunny parents guide, always sunny virtuevigil, always sunny woke or traditional, fx always sunny 2026"
+    },
+    "parentalGuidance": "TV-MA for pervasive crude humor, strong language, alcohol and drug use, and deliberately offensive subject matter. The Gang's behavior is presented as deplorable and never endorsed, but also never punished, which may confuse younger viewers. The show treats scheming, drinking, and cruelty as comedy. Not for children under any circumstances; mature older teens only, ideally with a conversation about the difference between laughing at these people and admiring them."
   }
 ]

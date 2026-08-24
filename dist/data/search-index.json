@@ -1,5 +1,38 @@
 [
   {
+    "slug": "spa-weekend-2026",
+    "title": "Spa Weekend (2026)",
+    "verdict": "MIXED",
+    "genre": "Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.9,
+    "tradScore": 3.5,
+    "poster": "/images/posters/spa-weekend-2026.jpg"
+  },
+  {
+    "slug": "amadeus-1984",
+    "title": "Amadeus (1984)",
+    "verdict": "TRADITIONAL",
+    "genre": "Drama, Biographical, Period",
+    "year": 1984,
+    "type": "film",
+    "wokeScore": 0.5,
+    "tradScore": 15.54,
+    "poster": "/images/posters/amadeus-1984.jpg"
+  },
+  {
+    "slug": "its-always-sunny-in-philadelphia-s18-2026",
+    "title": "It's Always Sunny in Philadelphia - Season 18",
+    "verdict": "TRADITIONAL LEAN",
+    "genre": "Comedy, Sitcom",
+    "year": 2026,
+    "type": "tv",
+    "wokeScore": 1,
+    "tradScore": 3.5,
+    "poster": "/images/posters/its-always-sunny-in-philadelphia-s18-2026.jpg"
+  },
+  {
     "slug": "it-ends-2026",
     "title": "It Ends (2026)",
     "verdict": "TRADITIONAL",
