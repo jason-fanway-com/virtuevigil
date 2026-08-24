@@ -135,7 +135,7 @@
     attachDeleteListeners();
   }
 
-  // ---- Post Comment ----
+  // --- Post Comment (with GA4 tracking) ---
 
   async function postComment(content) {
     const session = window.vvAuth ? window.vvAuth.getSession() : null;
@@ -161,6 +161,15 @@
       console.error('[Comments] Post error:', error);
       alert('Failed to post comment. Please try again.');
       return false;
+    }
+
+    // GA4 comment_post event
+    let bucket = '<100';
+    const len = trimmed.length;
+    if (len >= 500) bucket = '500+';
+    else if (len >= 100) bucket = '100-500';
+    if (typeof trackEngagement === 'function') {
+      trackEngagement('comment_post', { review_slug: reviewSlug, comment_length_bucket: bucket });
     }
 
     await loadComments();
@@ -199,6 +208,11 @@
         user_id: session.user.id,
         vote_type: voteType
       }]);
+    }
+
+    // GA4 comment_vote event
+    if (typeof trackEngagement === 'function') {
+      trackEngagement('comment_vote', { review_slug: reviewSlug, vote_type: voteType });
     }
 
     await loadComments();

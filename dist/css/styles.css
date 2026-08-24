@@ -387,6 +387,70 @@ h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; line-hei
 .sidebar-newsletter .sub-message.success { color: #4caf50; }
 .sidebar-newsletter .sub-message.error { color: #e57373; }
 
+/* --- Inline Email CTA (mid-review-body) --- */
+.inline-email-cta {
+  background: linear-gradient(135deg, rgba(201,168,76,0.06) 0%, rgba(201,168,76,0.02) 100%);
+  border-left: 3px solid var(--gold);
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+.inline-email-cta p {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+.inline-email-cta p strong {
+  color: var(--text-primary);
+  font-size: 1rem;
+}
+.inline-email-cta .email-sub-form {
+  display: flex;
+  gap: 8px;
+  max-width: 420px;
+}
+.inline-email-cta .email-sub-form input[type="email"] {
+  flex: 1;
+  padding: 10px 14px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-primary);
+  font-size: 0.88rem;
+  font-family: var(--font-body);
+}
+.inline-email-cta .email-sub-form input[type="email"]:focus {
+  outline: none;
+  border-color: var(--gold);
+}
+.inline-email-cta .email-sub-form button {
+  padding: 10px 20px;
+  background: var(--gold);
+  color: var(--bg-primary);
+  border: none;
+  border-radius: var(--radius);
+  font-weight: 700;
+  font-size: 0.88rem;
+  cursor: pointer;
+  white-space: nowrap;
+  font-family: var(--font-body);
+  transition: background 0.2s;
+}
+.inline-email-cta .email-sub-form button:hover {
+  background: var(--gold-light);
+}
+.inline-email-cta .sub-message {
+  font-size: 0.82rem;
+  margin-top: 8px;
+}
+.inline-email-cta .sub-message.success { color: #4caf50; }
+.inline-email-cta .sub-message.error { color: #e57373; }
+@media (max-width: 600px) {
+  .inline-email-cta .email-sub-form { flex-direction: column; }
+  .inline-email-cta .email-sub-form button { width: 100%; }
+}
+
 /* --- Main Content --- */
 .main-content { flex: 1; min-width: 0; }
 
