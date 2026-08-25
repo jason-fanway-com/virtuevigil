@@ -1,5 +1,41 @@
 [
   {
+    "slug": "deadpool-and-wolverine-2024",
+    "title": "Deadpool & Wolverine (2024)",
+    "verdict": "TRADITIONAL",
+    "platform": null,
+    "genre": "Action, Comedy, Superhero",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 1.05,
+    "tradScore": 14.86,
+    "poster": "/images/posters/deadpool-and-wolverine-2024.jpg"
+  },
+  {
+    "slug": "vertigo-1958",
+    "title": "Vertigo (1958)",
+    "verdict": "TRADITIONAL",
+    "platform": null,
+    "genre": "Thriller, Mystery, Romance",
+    "year": 1958,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 10.36,
+    "poster": "/images/posters/vertigo-1958.jpg"
+  },
+  {
+    "slug": "the-breakfast-club-1985",
+    "title": "The Breakfast Club (1985)",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": null,
+    "genre": "Drama, Comedy, Coming-of-Age",
+    "year": 1985,
+    "type": "film",
+    "wokeScore": 6.3,
+    "tradScore": 9.8,
+    "poster": "/images/posters/the-breakfast-club-1985.jpg"
+  },
+  {
     "slug": "spa-weekend-2026",
     "title": "Spa Weekend (2026)",
     "verdict": "MIXED",
