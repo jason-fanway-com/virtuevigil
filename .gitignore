@@ -1,2 +1,7 @@
 # Local Netlify folder
 .netlify
+
+# Build backup noise (regenerated every build)
+*.json.bak
+*.json.edited
+*.bak

@@ -1,5 +1,41 @@
 [
   {
+    "slug": "reading-lolita-in-tehran-2026",
+    "title": "Reading Lolita in Tehran (2026)",
+    "verdict": "MIXED",
+    "platform": "Theatrical",
+    "genre": "Drama, Historical, Biography",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 15.96,
+    "tradScore": 17.96,
+    "poster": "/images/posters/reading-lolita-in-tehran-2026.jpg"
+  },
+  {
+    "slug": "return-of-the-jedi-1983",
+    "title": "Return of the Jedi (1983)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Disney+",
+    "genre": "Sci-Fi, Adventure, Fantasy",
+    "year": 1983,
+    "type": "film",
+    "wokeScore": 2.8,
+    "tradScore": 25.83,
+    "poster": "/images/posters/return-of-the-jedi-1983.jpg"
+  },
+  {
+    "slug": "baby-reindeer-2024",
+    "title": "Baby Reindeer (2024)",
+    "verdict": "WOKE LEAN",
+    "platform": "Netflix",
+    "genre": "Drama, Thriller, Black Comedy, Biography",
+    "year": 2024,
+    "type": "series",
+    "wokeScore": 18.63,
+    "tradScore": 10.92,
+    "poster": "/images/posters/baby-reindeer-2024.jpg"
+  },
+  {
     "slug": "vertigo-1958",
     "title": "Vertigo (1958)",
     "verdict": "TRADITIONAL",
