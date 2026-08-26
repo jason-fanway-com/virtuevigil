@@ -266,16 +266,25 @@ const normalizeTitle = (title) => {
   t = t.replace(/\s+and\s+/g, 'and');
   return t;
 };
-const seenNorm = new Map(); // normalized title → oldest slug
-// Sort by date ascending (oldest first) to keep the oldest entry for each normalized title
+// Extract the film's release year for disambiguation — slug suffix first,
+// then fall back to the review date. This keeps different productions of the
+// same title (Lion King 1994 vs 2019, Moana 2016 vs 2026) from colliding
+// while still catching true slug-variant dupes (project-hail-mary vs project-hail-mary-2026).
+const slugYear = (slug) => {
+  const m = slug.match(/-(\d{4})$/);
+  return m ? m[1] : null;
+};
+const seenNorm = new Map(); // normalized key → oldest slug
+// Sort by date ascending (oldest first) to keep the oldest entry for each normalized key
 const byDateAsc = [...reviews].sort((a, b) => new Date(a.date) - new Date(b.date));
 const deduped = [];
 for (const r of byDateAsc) {
-  const norm = normalizeTitle(r.title);
-  if (seenNorm.has(norm)) {
-    console.warn(`DUPE: skipped ${r.slug} (duplicate of ${seenNorm.get(norm)} at normalized title "${norm}")`);
+  const y = slugYear(r.slug) || String(new Date(r.date).getFullYear());
+  const key = `${normalizeTitle(r.title)}__${y}`;
+  if (seenNorm.has(key)) {
+    console.warn(`DUPE: skipped ${r.slug} (duplicate of ${seenNorm.get(key)} at normalized key "${key}")`);
   } else {
-    seenNorm.set(norm, r.slug);
+    seenNorm.set(key, r.slug);
     deduped.push(r);
   }
 }

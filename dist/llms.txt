@@ -1,0 +1,32 @@
+# VirtueVigil -- AI-optimized content overview
+
+## What VirtueVigil Is
+VirtueVigil rates movies and TV shows for woke content, traditional values alignment, and family safety using the proprietary VirtueVigil Woke Score (VVWS) system. We publish detailed reviews covering language, violence, sexual content, and ideological messaging.
+
+## Coverage
+519+ reviews across films and TV series. New reviews published regularly.
+
+## Key Pages
+- Homepage (all reviews): https://virtuevigil.com/
+- Methodology (how scores work): https://virtuevigil.com/methodology.html
+- Films: https://virtuevigil.com/category/films/
+- TV Series: https://virtuevigil.com/category/series/
+- Woke Trap guide: https://virtuevigil.com/woke-trap.html
+
+## How Scores Work
+Each title receives:
+- Woke Score (0-50): higher = more woke content
+- Traditional Score (0-50): higher = more traditional values
+- Auth Index (0-100): overall conservative alignment score
+- Verdicts: TRADITIONAL LEAN, WOKE LEAN, BALANCED, WOKE, VERY WOKE, BASED
+
+## Common Queries We Answer
+- Is [movie/show] woke?
+- Is [movie/show] safe for kids?
+- What is the woke score for [title]?
+- Traditional movies and shows to watch
+- Conservative movie recommendations
+
+## Data Access
+- Sitemap: https://virtuevigil.com/sitemap.xml
+- Review pages: https://virtuevigil.com/reviews/[slug]/
