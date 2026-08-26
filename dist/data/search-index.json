@@ -2647,18 +2647,6 @@
     "poster": "/images/posters/mk2poster2026.jpg"
   },
   {
-    "slug": "mission-impossible-the-final-reckoning-2026",
-    "title": "Mission: Impossible - The Final Reckoning",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Action / Spy / Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 2.4,
-    "tradScore": 22.54,
-    "poster": "/images/posters/mission-impossible-the-final-reckoning-2025.jpg"
-  },
-  {
     "slug": "the-first-omen-2024",
     "title": "The First Omen",
     "verdict": "WOKE LEAN",
@@ -3928,15 +3916,6 @@
     "poster": "/images/posters/normal-2026.jpg"
   },
   {
-    "slug": "mortal-kombat-ii-2026",
-    "title": "Mortal Kombat II",
-    "verdict": "TRADITIONAL",
-    "year": 2026,
-    "wokeScore": 5.2,
-    "tradScore": 15.8,
-    "poster": "https://image.tmdb.org/t/p/w500/mk2poster2026.jpg"
-  },
-  {
     "slug": "deep-water-2026",
     "title": "Deep Water",
     "verdict": "TRADITIONAL",
@@ -3971,18 +3950,6 @@
     "wokeScore": 0,
     "tradScore": 18.5,
     "poster": "/images/posters/the-stranger-ozon-2026.jpg"
-  },
-  {
-    "slug": "pizza-movie-2026",
-    "title": "Pizza Movie",
-    "verdict": "MIXED",
-    "platform": "Streaming (Hulu/Disney+) / Limited Theatrical",
-    "genre": "Comedy / Stoner",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 4.2,
-    "tradScore": 4.8,
-    "poster": "/images/posters/pizza-movie-2026.jpg"
   },
   {
     "slug": "mother-mary-2025",
@@ -4021,18 +3988,6 @@
     "poster": "/images/posters/hunting-matthew-nichols-2026.jpg"
   },
   {
-    "slug": "hamlet-2026",
-    "title": "Hamlet",
-    "verdict": "STRONGLY WOKE",
-    "platform": "Theatrical",
-    "genre": "Drama / Tragedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 30.24,
-    "tradScore": 8.96,
-    "poster": "/images/posters/hamlet-2026.jpg"
-  },
-  {
     "slug": "fuze-2026",
     "title": "Fuze",
     "verdict": "TRADITIONAL",
@@ -4055,18 +4010,6 @@
     "wokeScore": 3.1,
     "tradScore": 14.2,
     "poster": "/images/posters/california-schemin-2026.jpg"
-  },
-  {
-    "slug": "risen-2016",
-    "title": "Risen",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Biblical Drama / Historical Epic",
-    "year": 2016,
-    "type": "film",
-    "wokeScore": 0,
-    "tradScore": 50.4,
-    "poster": "/images/posters/risen-2016.jpg"
   },
   {
     "slug": "apex-2026",
@@ -4401,18 +4344,6 @@
     "wokeScore": 5.7,
     "tradScore": 16.5,
     "poster": "/images/posters/reminders-of-him-2026.jpg"
-  },
-  {
-    "slug": "mother-mary-2026",
-    "title": "Mother Mary",
-    "verdict": "WOKE",
-    "platform": "Theatrical (A24)",
-    "genre": "Psychological Drama Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 18.8,
-    "tradScore": 7.88,
-    "poster": "/images/posters/mother-mary-2026.jpg"
   },
   {
     "slug": "hoppers-2026",
@@ -8740,18 +8671,6 @@
     "wokeScore": 9,
     "tradScore": 5,
     "poster": "/images/posters/predator-badlands.jpg"
-  },
-  {
-    "slug": "paddington-in-peru-2024",
-    "title": "Paddington in Peru",
-    "verdict": "TRADITIONAL LEAN",
-    "platform": "Theatrical (StudioCanal / Sony Pictures)",
-    "genre": "Animation",
-    "year": 2024,
-    "type": "film",
-    "wokeScore": 2,
-    "tradScore": 9,
-    "poster": "/images/posters/paddington-in-peru-2024.jpg"
   },
   {
     "slug": "novocaine-2025",
