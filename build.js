@@ -2483,6 +2483,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/every-dc-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-spider-man-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-star-wars-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/every-john-wick-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-of-all-time/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-drama-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-horror-movies-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
@@ -3615,6 +3616,7 @@ function buildListsHubPage() {
         'every-dc-movie-ranked-woke-score',
         'every-spider-man-movie-ranked-woke-score',
         'every-star-wars-movie-ranked-woke-score',
+        'every-john-wick-movie-ranked-woke-score',
         'highest-traditional-scores-all-time',
         'highest-woke-scores-all-time',
         'hollywood-anti-american-movies',
@@ -3700,6 +3702,7 @@ function buildListsHubPage() {
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
       'every-spider-man-movie-ranked-woke-score': 'Every Spider-Man Movie Ranked by Woke Score (2026)',
       'every-star-wars-movie-ranked-woke-score': 'Every Star Wars Movie Ranked by Woke Score (2026 Edition)',
+      'every-john-wick-movie-ranked-woke-score': 'Every John Wick Movie Ranked by Woke Score (2026 Edition)',
       'most-woke-movies-2024-complete': 'Most Woke Movies of 2024 (Complete)',
       'conservative-sci-fi-movies-2024-2025': 'Conservative Sci-Fi Movies 2024\u20132025',
       'wokest-streaming-movies-2025-2026': 'Wokest Streaming Movies 2025\u20132026',
@@ -8208,6 +8211,15 @@ function build() {
     canonicalPath: 'lists/every-star-wars-movie-ranked-woke-score',
     publishDate: '2026-08-19',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-star-wars-movie-ranked-woke-score/content.html'), 'utf-8')
+  }));
+
+  writePage('lists/every-john-wick-movie-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'every-john-wick-movie-ranked-woke-score',
+    title: 'Every John Wick Movie Ranked by Woke Score (2026 Edition)',
+    description: 'All 5 John Wick films ranked from most traditional (Chapter 4) to the franchise\'s single traditional-lean entry (Ballerina). Full woke/trad scores, margins, and verdicts.',
+    canonicalPath: 'lists/every-john-wick-movie-ranked-woke-score',
+    publishDate: '2026-08-26',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-john-wick-movie-ranked-woke-score/content.html'), 'utf-8')
   }));
 
   writePage('lists/dc-movies-woke-ranking/index.html', buildListiclePage({
