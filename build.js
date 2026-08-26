@@ -251,6 +251,42 @@ async function buildSite() {
   await fetchCommentsSSR();
   reviews.sort((a, b) => new Date(b.date) - new Date(a.date));
 
+// === NORMALIZED-TITLE DUPE CHECK (2026-08-25) ===
+// Before slug checks and before rendering, deduplicate entries whose titles
+// normalize to the same string — keeps the OLDEST entry and drops newer ones.
+const normalizeTitle = (title) => {
+  let t = String(title || '').toLowerCase();
+  // Strip trailing year: "Movie Name (2024)" → "Movie Name"
+  t = t.replace(/\s*\(\d{4}\)\s*$/, '');
+  // Collapse " & " → " and "
+  t = t.replace(/\s+&\s+/g, ' and ');
+  // Strip all non-alphanumeric chars, collapse whitespace
+  t = t.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  // Collapse " and " to "and" for final normalization
+  t = t.replace(/\s+and\s+/g, 'and');
+  return t;
+};
+const seenNorm = new Map(); // normalized title → oldest slug
+// Sort by date ascending (oldest first) to keep the oldest entry for each normalized title
+const byDateAsc = [...reviews].sort((a, b) => new Date(a.date) - new Date(b.date));
+const deduped = [];
+for (const r of byDateAsc) {
+  const norm = normalizeTitle(r.title);
+  if (seenNorm.has(norm)) {
+    console.warn(`DUPE: skipped ${r.slug} (duplicate of ${seenNorm.get(norm)} at normalized title "${norm}")`);
+  } else {
+    seenNorm.set(norm, r.slug);
+    deduped.push(r);
+  }
+}
+if (deduped.length < reviews.length) {
+  console.warn(`Normalized-title dedup: removed ${reviews.length - deduped.length} duplicate(s), ${deduped.length} remaining.`);
+  // Re-sort descending for the rest of the build
+  deduped.sort((a, b) => new Date(b.date) - new Date(a.date));
+  reviews.length = 0;
+  reviews.push(...deduped);
+}
+
 // === REVIEW INTEGRITY GATE -- FAIL LOUD, NEVER SILENT-DROP ===
 // Every review that build.js will render must pass these checks. Anything malformed
 // is reported AND counted (not silently excluded). Invalid verdicts hard-fail the

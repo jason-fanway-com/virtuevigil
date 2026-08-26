@@ -1339,18 +1339,6 @@
     "poster": "/images/posters/chernobyl-2019.jpg"
   },
   {
-    "slug": "moana-2026",
-    "title": "Moana (2026)",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Adventure / Family / Fantasy / Musical",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 0.5,
-    "tradScore": 19.39,
-    "poster": "/images/posters/moana-2026.jpg"
-  },
-  {
     "slug": "little-house-on-the-prairie-2026",
     "title": "Little House on the Prairie (2026)",
     "verdict": "TRADITIONAL",
@@ -2609,18 +2597,6 @@
     "wokeScore": 1.2,
     "tradScore": 17.78,
     "poster": "/images/posters/mk2poster2026.jpg"
-  },
-  {
-    "slug": "mission-impossible-the-final-reckoning-2026",
-    "title": "Mission: Impossible - The Final Reckoning",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Action / Spy / Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 2.4,
-    "tradScore": 22.54,
-    "poster": "/images/posters/mission-impossible-the-final-reckoning-2025.jpg"
   },
   {
     "slug": "the-first-omen-2024",
@@ -3913,18 +3889,6 @@
     "poster": "/images/posters/deep-water-2026.jpg"
   },
   {
-    "slug": "wuthering-heights-2026",
-    "title": "Wuthering Heights",
-    "verdict": "WOKE LEAN",
-    "platform": "Theatrical",
-    "genre": "Gothic Romance / Drama",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 35,
-    "tradScore": 26,
-    "poster": "/images/posters/wuthering-heights-2026.jpg"
-  },
-  {
     "slug": "the-christophers-2026",
     "title": "The Christophers",
     "verdict": "TRADITIONAL LEAN",
@@ -3961,18 +3925,6 @@
     "poster": "/images/posters/pizza-movie-2026.jpg"
   },
   {
-    "slug": "mother-mary-2025",
-    "title": "Mother Mary",
-    "verdict": "WOKE",
-    "platform": "Theatrical",
-    "genre": "Psychological Drama, Thriller, Music",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 23.7,
-    "tradScore": 6.4,
-    "poster": "/images/posters/mother-mary-2025.jpg"
-  },
-  {
     "slug": "i-swear-2026",
     "title": "I Swear",
     "verdict": "STRONGLY TRADITIONAL",
@@ -3995,18 +3947,6 @@
     "wokeScore": 0,
     "tradScore": 12.36,
     "poster": "/images/posters/hunting-matthew-nichols-2026.jpg"
-  },
-  {
-    "slug": "hamlet-2026",
-    "title": "Hamlet",
-    "verdict": "STRONGLY WOKE",
-    "platform": "Theatrical",
-    "genre": "Drama / Tragedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 30.24,
-    "tradScore": 8.96,
-    "poster": "/images/posters/hamlet-2026.jpg"
   },
   {
     "slug": "fuze-2026",
@@ -4379,18 +4319,6 @@
     "poster": "/images/posters/reminders-of-him-2026.jpg"
   },
   {
-    "slug": "project-hail-mary",
-    "title": "Project Hail Mary (2026)",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Sci-Fi",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 6.05,
-    "tradScore": 26.88,
-    "poster": "/images/posters/project-hail-mary.jpg"
-  },
-  {
     "slug": "mother-mary-2026",
     "title": "Mother Mary",
     "verdict": "WOKE",
@@ -4521,18 +4449,6 @@
     "wokeScore": 7.79,
     "tradScore": 21.84,
     "poster": "/images/posters/the-odyssey-2026.jpg"
-  },
-  {
-    "slug": "super-mario-galaxy-movie-2026",
-    "title": "The Super Mario Galaxy Movie (2026)",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Animated / Adventure / Comedy",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 5.9,
-    "tradScore": 16.4,
-    "poster": "/images/posters/super-mario-galaxy-movie-2026.jpg"
   },
   {
     "slug": "spider-man-brand-new-day-2026",
@@ -4697,18 +4613,6 @@
     "wokeScore": 7,
     "tradScore": 9.1,
     "poster": "/images/posters/the-royal-tenenbaums-2001.jpg"
-  },
-  {
-    "slug": "the-lion-king-1994",
-    "title": "The Lion King",
-    "verdict": "STRONGLY TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Animated / Drama / Musical",
-    "year": 1994,
-    "type": "film",
-    "wokeScore": 1,
-    "tradScore": 24.8,
-    "poster": "/images/posters/the-lion-king-1994.jpg"
   },
   {
     "slug": "the-incredibles-2004",
@@ -7507,18 +7411,6 @@
     "poster": "/images/posters/rebel-moon-part-two-the-scargiver-2024.jpg"
   },
   {
-    "slug": "paddington-in-peru-2025",
-    "title": "Paddington in Peru",
-    "verdict": "TRADITIONAL",
-    "platform": "Theatrical",
-    "genre": "Adventure/Comedy/Family",
-    "year": 2025,
-    "type": "film",
-    "wokeScore": 7.7,
-    "tradScore": 22.6,
-    "poster": "/images/posters/paddington-in-peru-2025.jpg"
-  },
-  {
     "slug": "night-agent-s3-2026",
     "title": "The Night Agent: Season 3",
     "verdict": "TRADITIONAL",
@@ -9016,18 +8908,6 @@
     "wokeScore": 8,
     "tradScore": 19,
     "poster": "/images/posters/crime-101-2026.jpg"
-  },
-  {
-    "slug": "crime-101",
-    "title": "Crime 101",
-    "verdict": "MIXED",
-    "platform": "Theatrical (Working Title / Universal)",
-    "genre": "Thriller",
-    "year": 2026,
-    "type": "film",
-    "wokeScore": 6,
-    "tradScore": 8,
-    "poster": "/images/posters/crime-101.jpg"
   },
   {
     "slug": "companion-2025",
