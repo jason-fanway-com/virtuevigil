@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-dog-stars-2026",
+    "title": "The Dog Stars (2026)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Post-Apocalyptic, Science Fiction, Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.85,
+    "tradScore": 17.98,
+    "poster": "/images/posters/the-dog-stars-2026.jpg"
+  },
+  {
+    "slug": "twilight-2008",
+    "title": "Twilight (2008)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Streaming",
+    "genre": "Romantic Fantasy, Drama",
+    "year": 2008,
+    "type": "film",
+    "wokeScore": 0.85,
+    "tradScore": 19.8,
+    "poster": "/images/posters/twilight-2008.jpg"
+  },
+  {
+    "slug": "the-walking-dead-2010",
+    "title": "The Walking Dead (2010)",
+    "verdict": "TRADITIONAL",
+    "platform": "AMC",
+    "genre": "Post-Apocalyptic, Horror, Drama",
+    "year": 2010,
+    "type": "series",
+    "wokeScore": 5.45,
+    "tradScore": 23.34,
+    "poster": "/images/posters/the-walking-dead-2010.jpg"
+  },
+  {
     "slug": "reading-lolita-in-tehran-2026",
     "title": "Reading Lolita in Tehran (2026)",
     "verdict": "MIXED",
