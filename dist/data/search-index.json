@@ -1,5 +1,41 @@
 [
   {
+    "slug": "teenage-sex-and-death-at-camp-miasma-2026",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Theatrical",
+    "genre": "Satire / Surrealist / Slasher / Psychological",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 31.64,
+    "tradScore": 0.85,
+    "poster": "/images/posters/teenage-sex-and-death-at-camp-miasma-2026.jpg"
+  },
+  {
+    "slug": "apocalypto-2006",
+    "title": "Apocalypto",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Various",
+    "genre": "Epic / Historical / Action-Adventure",
+    "year": 2006,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 23.94,
+    "poster": "/images/posters/apocalypto-2006.jpg"
+  },
+  {
+    "slug": "gen-v-2023",
+    "title": "Gen V",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Amazon Prime Video",
+    "genre": "Superhero / Black Comedy / Drama / Satire",
+    "year": 2023,
+    "type": "series",
+    "wokeScore": 37.28,
+    "tradScore": 3.85,
+    "poster": "/images/posters/gen-v-2023.jpg"
+  },
+  {
     "slug": "the-dog-stars-2026",
     "title": "The Dog Stars (2026)",
     "verdict": "TRADITIONAL",
