@@ -1,5 +1,29 @@
 [
   {
+    "slug": "to-kill-a-mockingbird-1962",
+    "title": "To Kill a Mockingbird",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Various (rental/streaming)",
+    "genre": "Drama / Southern Gothic / Coming-of-Age",
+    "year": 1962,
+    "type": "film",
+    "wokeScore": 25,
+    "tradScore": 47.5,
+    "poster": "/images/posters/to-kill-a-mockingbird-1962.jpg"
+  },
+  {
+    "slug": "fireproof-2008",
+    "title": "Fireproof",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Rental / Streaming",
+    "genre": "Christian Drama / Romance",
+    "year": 2008,
+    "type": "film",
+    "wokeScore": 0.4,
+    "tradScore": 88,
+    "poster": "/images/posters/fireproof-2008.jpg"
+  },
+  {
     "slug": "teenage-sex-and-death-at-camp-miasma-2026",
     "title": "Teenage Sex and Death at Camp Miasma",
     "verdict": "STRONGLY WOKE",
