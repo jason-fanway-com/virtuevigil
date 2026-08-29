@@ -2398,6 +2398,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/hbo-max-originals-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/netflix-originals-woke-ranking-2026/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/apple-tv-originals-ranked-woke-score/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/amazon-prime-video-originals-ranked-woke-score/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-christian-movies-all-time/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
@@ -3526,6 +3527,7 @@ function buildListsHubPage() {
         'hbo-max-shows-woke-ranking',
         'hbo-max-originals-woke-ranking',
         'netflix-originals-woke-ranking-2026',
+        'amazon-prime-video-originals-ranked-woke-score',
         'apple-tv-originals-ranked-woke-score',
         'netflix-woke-movies-2024-data',
         'netflix-woke-movies-ranked',
@@ -3697,6 +3699,7 @@ function buildListsHubPage() {
       'hbo-max-originals-woke-ranking': 'Every HBO & Max Original Ranked by Woke Score (2026)',
       'netflix-originals-woke-ranking-2026': 'Every Netflix Original Ranked by Woke Score (2026)',
       'apple-tv-originals-ranked-woke-score': 'Apple TV+ Originals Ranked by Woke Score (2026)',
+      'amazon-prime-video-originals-ranked-woke-score': 'Every Amazon Prime Video Original Ranked by Woke Score (2026)',
       'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
@@ -11184,6 +11187,18 @@ function buildAppleTvWokeRankingListicle() {
     canonicalPath: 'lists/apple-tv-originals-ranked-woke-score',
     publishDate: '2026-08-21',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/apple-tv-originals-ranked-woke-score/content.html'), 'utf-8')
+  }));
+
+  // ============================================
+  // LISTICLE: Every Amazon Prime Video Original Ranked by Woke Score (2026)
+  // ============================================
+  writePage('lists/amazon-prime-video-originals-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'amazon-prime-video-originals-ranked-woke-score',
+    title: 'Every Amazon Prime Video Original Ranked by Woke Score (2026)',
+    description: 'From Gen V to Project Hail Mary, all 25 Amazon Prime Video originals ranked by woke score. An 84-point spread between the most woke and most traditional titles on a single platform. Parents, know what you\'re streaming.',
+    canonicalPath: 'lists/amazon-prime-video-originals-ranked-woke-score',
+    publishDate: '2026-08-29',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/amazon-prime-video-originals-ranked-woke-score/content.html'), 'utf-8')
   }));
 
   // ============================================
