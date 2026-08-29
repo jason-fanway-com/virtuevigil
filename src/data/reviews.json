@@ -181540,6 +181540,10 @@
     "rating": "Not Rated (Recommended: 12+)",
     "runtime": "129 minutes",
     "director": "Robert Mulligan",
+    "wokeScore": 25,
+    "tradScore": 47.5,
+    "verdict": "STRONGLY TRADITIONAL",
+    "scoreMargin": "+23 TRAD",
     "writers": [
       "Horton Foote",
       "Harper Lee"
@@ -181718,11 +181722,7 @@
         "weightedScore": 5.0,
         "explanation": "A white lawyer saving a Black defendant is the narrative engine. The criticism is valid but the film's treatment is more complex: Tom Robinson is dignified; Atticus loses the trial; the system does not reform."
       }
-    ],
-    "wokeScore": 25.0,
-    "tradScore": 47.5,
-    "verdict": "STRONGLY TRADITIONAL",
-    "scoreMargin": "+22 TRAD"
+    ]
   },
   {
     "id": "fireproof-2008",
