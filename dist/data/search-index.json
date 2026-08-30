@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-magic-faraway-tree-2026",
+    "title": "The Magic Faraway Tree",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theatrical",
+    "genre": "Family, Fantasy, Adventure",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.7,
+    "tradScore": 7.7,
+    "poster": "/images/posters/the-magic-faraway-tree-2026.jpg"
+  },
+  {
+    "slug": "i-can-only-imagine-2018",
+    "title": "I Can Only Imagine",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama, Faith, Music",
+    "year": 2018,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 21.98,
+    "poster": "/images/posters/i-can-only-imagine-2018.jpg"
+  },
+  {
+    "slug": "the-bear-2022",
+    "title": "The Bear",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "FX on Hulu",
+    "genre": "Comedy-Drama, Psychological Drama",
+    "year": 2022,
+    "type": "series",
+    "wokeScore": 1.2,
+    "tradScore": 8.05,
+    "poster": "/images/posters/the-bear-2022.jpg"
+  },
+  {
     "slug": "to-kill-a-mockingbird-1962",
     "title": "To Kill a Mockingbird",
     "verdict": "STRONGLY TRADITIONAL",
