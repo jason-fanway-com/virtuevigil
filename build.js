@@ -33854,6 +33854,15 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-comedy-movies-all-time/content.html'), 'utf-8')
   }));
 
+  writePage('lists/best-picture-winners-ranked-by-woke-score/index.html', buildListiclePage({
+    slug: 'best-picture-winners-ranked-by-woke-score',
+    title: 'Every Best Picture Winner Ranked by Woke Score (Anora to The Godfather)',
+    description: 'We scored all 23 Best Picture Academy Award winners in our database using the VirtueVigil dual-metric system. The results track the Academy\'s leftward shift in real time.',
+    canonicalPath: 'lists/best-picture-winners-ranked-by-woke-score',
+    publishDate: '2026-08-31',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-picture-winners-ranked-by-woke-score/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
