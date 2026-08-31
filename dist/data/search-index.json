@@ -1,5 +1,41 @@
 [
   {
+    "slug": "buddy-2026",
+    "title": "Buddy",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theaters",
+    "genre": "Supernatural Horror, Black Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.05,
+    "tradScore": 10.57,
+    "poster": "/images/posters/buddy-2026.jpg"
+  },
+  {
+    "slug": "halloween-1978",
+    "title": "Halloween (1978)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Multiple Streaming / Home Video",
+    "genre": "Horror, Slasher",
+    "year": 1978,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 22.4,
+    "poster": "/images/posters/halloween-1978.jpg"
+  },
+  {
+    "slug": "westworld-2016",
+    "title": "Westworld",
+    "verdict": "STRONGLY WOKE",
+    "platform": "HBO",
+    "genre": "Science Fiction, Western, Drama, Dystopian",
+    "year": 2016,
+    "type": "series",
+    "wokeScore": 25.28,
+    "tradScore": 4.9,
+    "poster": "/images/posters/westworld-2016.jpg"
+  },
+  {
     "slug": "the-magic-faraway-tree-2026",
     "title": "The Magic Faraway Tree",
     "verdict": "TRADITIONAL LEAN",
