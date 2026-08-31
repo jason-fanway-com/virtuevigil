@@ -4045,7 +4045,7 @@
     "year": 2026,
     "wokeScore": 8.4,
     "tradScore": 9.1,
-    "poster": "https://image.tmdb.org/t/p/w500/rbc2026.jpg"
+    "poster": "/images/posters/remarkably-bright-creatures-2026.jpg"
   },
   {
     "slug": "pressure-2026",
@@ -6571,7 +6571,7 @@
     "type": "film",
     "wokeScore": 3.5,
     "tradScore": 15.8,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "/images/posters/the-life-of-chuck-2025.jpg"
   },
   {
     "slug": "the-king-of-kings-2025",
