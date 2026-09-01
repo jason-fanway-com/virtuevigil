@@ -2477,6 +2477,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-comedy-movies-parents/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/woke-trap-movies-hiding-progressive-agendas/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2018-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2026-woke-ranking-complete/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-masculinity/`, changefreq: 'monthly', priority: '0.8' },
@@ -3649,6 +3650,7 @@ function buildListsHubPage() {
         'most-woke-sci-fi-movies-parents',
         'most-woke-thriller-movies-parents-2025',
         'most-woke-comedy-movies-parents',
+        'woke-trap-movies-hiding-progressive-agendas',
         'most-woke-drama-movies-all-time',
         'most-woke-horror-movies-parents-should-know',
         'most-woke-movies-2026-parents-should-know',
@@ -3795,6 +3797,7 @@ function buildListsHubPage() {
       'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
       'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)',
       'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)',
+      'woke-trap-movies-hiding-progressive-agendas': 'Woke Trap Alert: 25 Movies Hiding Progressive Agendas',
       'most-woke-drama-movies-all-time': 'The 20 Most Woke Drama Movies of All Time — VirtueVigil Rankings 2026',
       'most-woke-horror-movies-parents-should-know': 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
       'biopics-ranked-by-woke-score': 'Every Biopic Ranked by Woke Score: Which True Stories Hollywood Changed',
@@ -33744,6 +33747,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-comedy-movies-parents',
     publishDate: '2026-07-14',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-comedy-movies-parents/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/woke-trap-movies-hiding-progressive-agendas/index.html');
+  writePage('lists/woke-trap-movies-hiding-progressive-agendas/index.html', buildListiclePage({
+    slug: 'woke-trap-movies-hiding-progressive-agendas',
+    title: 'Woke Trap Alert: 25 Movies Hiding Progressive Agendas Parents Need to Know About -- VirtueVigil Rankings 2026',
+    description: 'From Conclave to Blink Twice, these 25 films disguise progressive ideology behind prestige craft, star power, or genre conventions. Every score backed by VirtueVigil\'s dual-metric methodology. Ranked most woke to least woke.',
+    canonicalPath: 'lists/woke-trap-movies-hiding-progressive-agendas',
+    publishDate: '2026-09-01',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/woke-trap-movies-hiding-progressive-agendas/content.html'), 'utf-8')
   }));
 
   console.log('  lists/best-traditional-drama-movies/index.html');
