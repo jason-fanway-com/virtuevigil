@@ -1,5 +1,41 @@
 [
   {
+    "slug": "tony-2026",
+    "title": "Tony",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Biographical Comedy Drama, Coming-of-Age",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2.5,
+    "tradScore": 24.75,
+    "poster": "/images/posters/tony-2026.jpg"
+  },
+  {
+    "slug": "ferris-buellers-day-off-1986",
+    "title": "Ferris Bueller's Day Off",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Streaming (Paramount+)",
+    "genre": "Teen Comedy, Coming-of-Age",
+    "year": 1986,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 27.25,
+    "poster": "/images/posters/ferris-buellers-day-off-1986.jpg"
+  },
+  {
+    "slug": "the-last-of-us-2023",
+    "title": "The Last of Us",
+    "verdict": "TRADITIONAL",
+    "platform": "HBO / Max",
+    "genre": "Post-Apocalyptic Drama, Thriller",
+    "year": 2023,
+    "type": "series",
+    "wokeScore": 16.75,
+    "tradScore": 31.25,
+    "poster": "/images/posters/the-last-of-us-2023.jpg"
+  },
+  {
     "slug": "buddy-2026",
     "title": "Buddy",
     "verdict": "TRADITIONAL",
