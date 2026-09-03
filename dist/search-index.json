@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-sun-never-sets-2026",
+    "title": "The Sun Never Sets",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Drama, Romance",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 2.8,
+    "tradScore": 16.4,
+    "poster": "/images/posters/the-sun-never-sets-2026.jpg"
+  },
+  {
+    "slug": "dirty-harry-1971",
+    "title": "Dirty Harry",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Streaming (Max, Amazon Prime)",
+    "genre": "Crime Thriller, Action",
+    "year": 1971,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 31.98,
+    "poster": "/images/posters/dirty-harry-1971.jpg"
+  },
+  {
+    "slug": "breaking-bad-2008",
+    "title": "Breaking Bad",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Netflix, AMC+",
+    "genre": "Crime Drama, Thriller, Neo-Western",
+    "year": 2008,
+    "type": "series",
+    "wokeScore": 4.93,
+    "tradScore": 30.78,
+    "poster": "/images/posters/breaking-bad-2008.jpg"
+  },
+  {
     "slug": "tony-2026",
     "title": "Tony",
     "verdict": "STRONGLY TRADITIONAL",
