@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-empire-strikes-back-1980",
+    "title": "The Empire Strikes Back",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (20th Century Fox), Disney+",
+    "genre": "Science Fiction, Adventure, Fantasy",
+    "year": 1980,
+    "type": "film",
+    "wokeScore": 1.62,
+    "tradScore": 30.24,
+    "poster": "/images/posters/the-empire-strikes-back-1980.jpg"
+  },
+  {
+    "slug": "the-white-lotus-2021",
+    "title": "The White Lotus",
+    "verdict": "MIXED",
+    "platform": "HBO, Max",
+    "genre": "Black Comedy, Drama, Anthology",
+    "year": 2021,
+    "type": "series",
+    "wokeScore": 14.58,
+    "tradScore": 14.22,
+    "poster": "/images/posters/the-white-lotus-2021.jpg"
+  },
+  {
+    "slug": "memento-2000",
+    "title": "Memento",
+    "verdict": "TRADITIONAL",
+    "platform": "VOD, Physical Media",
+    "genre": "Mystery, Thriller, Neo-Noir",
+    "year": 2000,
+    "type": "film",
+    "wokeScore": 5.88,
+    "tradScore": 18.48,
+    "poster": "/images/posters/memento-2000.jpg"
+  },
+  {
     "slug": "the-sun-never-sets-2026",
     "title": "The Sun Never Sets",
     "verdict": "TRADITIONAL",
