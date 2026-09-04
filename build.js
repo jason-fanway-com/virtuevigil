@@ -33876,6 +33876,15 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-picture-winners-ranked-by-woke-score/content.html'), 'utf-8')
   }));
 
+  writePage('lists/most-woke-romance-movies-parents-should-know/index.html', buildListiclePage({
+    slug: 'most-woke-romance-movies-parents-should-know',
+    title: '20 Most Woke Romance Movies Parents Should Know About -- VirtueVigil Rankings',
+    description: 'From The Bride! to Office Romance, we ranked 20 romance films by their ideological content. Which love stories come with an agenda? Every ranking backed by VirtueVigil\'s dual-metric VVWS system.',
+    canonicalPath: 'lists/most-woke-romance-movies-parents-should-know',
+    publishDate: '2026-09-04',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-romance-movies-parents-should-know/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
