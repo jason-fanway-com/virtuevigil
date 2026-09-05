@@ -2435,6 +2435,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-traditional-horror-movies-ranked/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-thriller-movies-ranked-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-comedy-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/best-traditional-adventure-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-anti-communist-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-perseverance/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-4th-of-july-movies/`, changefreq: 'monthly', priority: '0.9' },
@@ -3657,6 +3658,7 @@ function buildListsHubPage() {
         'best-traditional-horror-movies-ranked',
         'best-traditional-thriller-movies-ranked-all-time',
         'best-traditional-comedy-movies-all-time',
+        'best-traditional-adventure-movies',
         'biopics-ranked-by-woke-score',
         'every-crime-movie-ranked-woke-score',
         'animated-family-movies-2025-woke-ranking',
@@ -3753,6 +3755,7 @@ function buildListsHubPage() {
       'best-traditional-horror-movies-ranked': 'Best Traditional Horror Movies Ranked by Woke Score — VirtueVigil 2026',
       'best-traditional-thriller-movies-ranked-all-time': 'Best Traditional Thriller Movies of All Time Ranked by Woke Score — VirtueVigil 2026',
       'best-traditional-comedy-movies-all-time': 'Best Traditional Comedy Movies of All Time Ranked by Woke Score — VirtueVigil 2026',
+      'best-traditional-adventure-movies': 'Best Traditional Adventure Movies: 20 Great Stories Without the Agenda — VirtueVigil',
       'best-anti-communist-movies': 'Top 10 Anti-Communist Movies of All Time: Cinema\'s Best Defense of Freedom',
       'best-movies-about-perseverance': 'Best Movies About Perseverance: Top 10 Never-Give-Up Films Ranked by VirtueVigil Score',
       'best-4th-of-july-movies': 'Best 4th of July Movies: Top 10 Patriotic Films for Independence Day',
@@ -33865,6 +33868,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/best-traditional-comedy-movies-all-time',
     publishDate: '2026-08-24',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-comedy-movies-all-time/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/best-traditional-adventure-movies/index.html');
+  writePage('lists/best-traditional-adventure-movies/index.html', buildListiclePage({
+    slug: 'best-traditional-adventure-movies',
+    title: 'Best Traditional Adventure Movies: 20 Great Stories Without the Agenda',
+    description: 'From The Lord of the Rings to Indiana Jones, these are the 20 best adventure movies that deliver thrills, courage, and honor without the ideological baggage. Every ranking backed by the VirtueVigil dual-metric scoring system.',
+    canonicalPath: 'lists/best-traditional-adventure-movies',
+    publishDate: '2026-09-05',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-adventure-movies/content.html'), 'utf-8')
   }));
 
   writePage('lists/best-picture-winners-ranked-by-woke-score/index.html', buildListiclePage({
