@@ -1,5 +1,41 @@
 [
   {
+    "slug": "mayday-2026",
+    "title": "Mayday",
+    "verdict": "TRADITIONAL",
+    "platform": "Apple TV+",
+    "genre": "Action Comedy, Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 5.04,
+    "tradScore": 17.76,
+    "poster": "/images/posters/mayday-2026.jpg"
+  },
+  {
+    "slug": "american-psycho-2000",
+    "title": "American Psycho",
+    "verdict": "TRADITIONAL",
+    "platform": "VOD, Physical Media",
+    "genre": "Psychological Thriller, Satire, Horror",
+    "year": 2000,
+    "type": "film",
+    "wokeScore": 7.5,
+    "tradScore": 15.6,
+    "poster": "/images/posters/american-psycho-2000.jpg"
+  },
+  {
+    "slug": "wandavision-2021",
+    "title": "WandaVision",
+    "verdict": "WOKE",
+    "platform": "Disney+",
+    "genre": "Superhero, Drama, Mystery, Sitcom",
+    "year": 2021,
+    "type": "series",
+    "wokeScore": 16.2,
+    "tradScore": 8.4,
+    "poster": "/images/posters/wandavision-2021.jpg"
+  },
+  {
     "slug": "the-empire-strikes-back-1980",
     "title": "The Empire Strikes Back",
     "verdict": "STRONGLY TRADITIONAL",
