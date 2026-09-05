@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "slug": "american-psycho-2000",
+    "type": "verdict",
+    "current": "TRADITIONAL",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 8
+  }
+]
