@@ -1,5 +1,41 @@
 [
   {
+    "slug": "onslaught-2026",
+    "title": "Onslaught",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Action Horror, Thriller, Sci-Fi",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 4.59,
+    "tradScore": 18.48,
+    "poster": "/images/posters/onslaught-2026.jpg"
+  },
+  {
+    "slug": "airplane-1980",
+    "title": "Airplane!",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Paramount+ / Digital Rental",
+    "genre": "Comedy, Parody",
+    "year": 1980,
+    "type": "film",
+    "wokeScore": 2.16,
+    "tradScore": 24.36,
+    "poster": "/images/posters/airplane-1980.jpg"
+  },
+  {
+    "slug": "the-sopranos-1999",
+    "title": "The Sopranos",
+    "verdict": "TRADITIONAL",
+    "platform": "HBO / Max",
+    "genre": "Crime Drama, Psychological Drama, Black Comedy",
+    "year": 1999,
+    "type": "tv",
+    "wokeScore": 8.47,
+    "tradScore": 20.16,
+    "poster": "/images/posters/the-sopranos-1999.jpg"
+  },
+  {
     "slug": "mayday-2026",
     "title": "Mayday",
     "verdict": "TRADITIONAL",
