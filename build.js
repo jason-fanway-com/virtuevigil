@@ -8506,6 +8506,15 @@ function build() {
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/tarantino-movies-woke-ranking/content.html'), 'utf-8')
   }));
 
+  writePage('lists/tom-hanks-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'tom-hanks-movies-woke-ranking',
+    title: 'Every Tom Hanks Movie Ranked by Woke Score',
+    description: "We scored every Tom Hanks movie using VirtueVigil's woke scoring system. From Forrest Gump to Captain Phillips, here's where America's actor stands.",
+    canonicalPath: 'lists/tom-hanks-movies-woke-ranking',
+    publishDate: '2026-03-29',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/tom-hanks-movies-woke-ranking/content.html'), 'utf-8')
+  }));
+
   writePage('lists/woke-animated-kids-movies/index.html', buildListiclePage({
     slug: 'woke-animated-kids-movies',
     title: '10 Woke Animated Movies Parents Should Know About',
