@@ -1,1 +1,708 @@
-[]
+[
+  {
+    "slug": "the-terminator-1984",
+    "type": "scoreMargin",
+    "current": 17.7,
+    "expected": "+18 TRAD",
+    "trad": 18.1,
+    "woke": 0.4,
+    "margin": 18
+  },
+  {
+    "slug": "casino-1995",
+    "type": "scoreMargin",
+    "current": 18.9,
+    "expected": "+19 TRAD",
+    "trad": 19.3,
+    "woke": 0.4,
+    "margin": 19
+  },
+  {
+    "slug": "juror-2-2024",
+    "type": "scoreMargin",
+    "current": 9.6,
+    "expected": "+10 TRAD",
+    "trad": 15.5,
+    "woke": 5.9,
+    "margin": 10
+  },
+  {
+    "slug": "disclosure-day-2026",
+    "type": "scoreMargin",
+    "current": -22.7,
+    "expected": "-23 WOKE",
+    "trad": 20.4,
+    "woke": 43.1,
+    "margin": -23
+  },
+  {
+    "slug": "interceptor-protocol-2026",
+    "type": "scoreMargin",
+    "current": 12.5,
+    "expected": "+13 TRAD",
+    "trad": 15.7,
+    "woke": 3.2,
+    "margin": 13
+  },
+  {
+    "slug": "omaha-2026",
+    "type": "scoreMargin",
+    "current": 20.5,
+    "expected": "+21 TRAD",
+    "trad": 30.8,
+    "woke": 10.3,
+    "margin": 21
+  },
+  {
+    "slug": "fuze-2026",
+    "type": "scoreMargin",
+    "current": 13.5,
+    "expected": "+14 TRAD",
+    "trad": 15.3,
+    "woke": 1.8,
+    "margin": 14
+  },
+  {
+    "slug": "the-iron-claw-2023",
+    "type": "scoreMargin",
+    "current": 3.3,
+    "expected": "+3 TRAD",
+    "trad": 10.9,
+    "woke": 7.6,
+    "margin": 3
+  },
+  {
+    "slug": "the-iron-claw-2023",
+    "type": "verdict",
+    "current": "MIXED",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 3
+  },
+  {
+    "slug": "the-matrix-resurrections-2021",
+    "type": "scoreMargin",
+    "current": -6.2,
+    "expected": "-6 WOKE",
+    "trad": 8.8,
+    "woke": 15,
+    "margin": -6
+  },
+  {
+    "slug": "the-hangover-2009",
+    "type": "scoreMargin",
+    "current": 5.2,
+    "expected": "+5 TRAD",
+    "trad": 9,
+    "woke": 3.8,
+    "margin": 5
+  },
+  {
+    "slug": "dune-part-three-2026",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 12
+  },
+  {
+    "slug": "spider-man-no-way-home-2021",
+    "type": "scoreMargin",
+    "current": 18.5,
+    "expected": "+19 TRAD",
+    "trad": 22,
+    "woke": 3.5,
+    "margin": 19
+  },
+  {
+    "slug": "solo-leveling-reawakening-2024",
+    "type": "scoreMargin",
+    "current": 27.1,
+    "expected": "+27 TRAD",
+    "trad": 28.4,
+    "woke": 1.3,
+    "margin": 27
+  },
+  {
+    "slug": "g20-2025",
+    "type": "scoreMargin",
+    "current": -2.4,
+    "expected": "-2 WOKE",
+    "trad": 8.2,
+    "woke": 10.6,
+    "margin": -2
+  },
+  {
+    "slug": "black-widow-2021",
+    "type": "scoreMargin",
+    "current": -4.9,
+    "expected": "-5 WOKE",
+    "trad": 12.1,
+    "woke": 17,
+    "margin": -5
+  },
+  {
+    "slug": "death-of-a-unicorn-2025",
+    "type": "scoreMargin",
+    "current": -4.7,
+    "expected": "-5 WOKE",
+    "trad": 12.3,
+    "woke": 17,
+    "margin": -5
+  },
+  {
+    "slug": "jurassic-world-rebirth-2025",
+    "type": "scoreMargin",
+    "current": -4.9,
+    "expected": "-5 WOKE",
+    "trad": 9,
+    "woke": 13.9,
+    "margin": -5
+  },
+  {
+    "slug": "wicked-for-good-2025",
+    "type": "scoreMargin",
+    "current": -5.1,
+    "expected": "-5 WOKE",
+    "trad": 10.5,
+    "woke": 15.6,
+    "margin": -5
+  },
+  {
+    "slug": "the-conjuring-last-rites-2025",
+    "type": "scoreMargin",
+    "current": 13.8,
+    "expected": "+14 TRAD",
+    "trad": 18.9,
+    "woke": 5.1,
+    "margin": 14
+  },
+  {
+    "slug": "the-conjuring-last-rites-2025",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 14
+  },
+  {
+    "slug": "one-battle-after-another-2025",
+    "type": "scoreMargin",
+    "current": -5.1,
+    "expected": "-5 WOKE",
+    "trad": 17.1,
+    "woke": 22.2,
+    "margin": -5
+  },
+  {
+    "slug": "warfare-2025",
+    "type": "scoreMargin",
+    "current": 11.7,
+    "expected": "+12 TRAD",
+    "trad": 16.8,
+    "woke": 5.1,
+    "margin": 12
+  },
+  {
+    "slug": "warfare-2025",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 12
+  },
+  {
+    "slug": "thelma-2024",
+    "type": "scoreMargin",
+    "current": 9.6,
+    "expected": "+10 TRAD",
+    "trad": 12.6,
+    "woke": 3,
+    "margin": 10
+  },
+  {
+    "slug": "the-ministry-of-ungentlemanly-warfare-2024",
+    "type": "scoreMargin",
+    "current": 13.8,
+    "expected": "+14 TRAD",
+    "trad": 18.9,
+    "woke": 5.1,
+    "margin": 14
+  },
+  {
+    "slug": "the-ministry-of-ungentlemanly-warfare-2024",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 14
+  },
+  {
+    "slug": "the-housemaid-2025",
+    "type": "scoreMargin",
+    "current": -19.5,
+    "expected": "-19 WOKE",
+    "trad": 10.5,
+    "woke": 30,
+    "margin": -19
+  },
+  {
+    "slug": "the-housemaid-2025",
+    "type": "verdict",
+    "current": "WOKE LEAN",
+    "expected": "WOKE",
+    "margin": -19
+  },
+  {
+    "slug": "the-fall-guy-2024",
+    "type": "scoreMargin",
+    "current": 4.5,
+    "expected": "+5 TRAD",
+    "trad": 12.6,
+    "woke": 8.1,
+    "margin": 5
+  },
+  {
+    "slug": "the-brutalist-2024",
+    "type": "scoreMargin",
+    "current": -8.1,
+    "expected": "-8 WOKE",
+    "trad": 12.6,
+    "woke": 20.7,
+    "margin": -8
+  },
+  {
+    "slug": "predator-badlands",
+    "type": "verdict",
+    "current": "WOKE LEAN",
+    "expected": "STRONGLY WOKE",
+    "margin": -24
+  },
+  {
+    "slug": "novocaine-2025",
+    "type": "scoreMargin",
+    "current": 8.7,
+    "expected": "+9 TRAD",
+    "trad": 16.8,
+    "woke": 8.1,
+    "margin": 9
+  },
+  {
+    "slug": "nosferatu-2024",
+    "type": "scoreMargin",
+    "current": 10.5,
+    "expected": "+10 TRAD",
+    "trad": 18.9,
+    "woke": 8.4,
+    "margin": 10
+  },
+  {
+    "slug": "nosferatu-2024",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 10
+  },
+  {
+    "slug": "mickey-17-2025",
+    "type": "scoreMargin",
+    "current": -14.4,
+    "expected": "-14 WOKE",
+    "trad": 10.5,
+    "woke": 24.9,
+    "margin": -14
+  },
+  {
+    "slug": "mickey-17-2025",
+    "type": "verdict",
+    "current": "WOKE LEAN",
+    "expected": "WOKE",
+    "margin": -14
+  },
+  {
+    "slug": "melania-2026",
+    "type": "scoreMargin",
+    "current": 16.8,
+    "expected": "+17 TRAD",
+    "trad": 16.8,
+    "woke": 0,
+    "margin": 17
+  },
+  {
+    "slug": "melania-2026",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 17
+  },
+  {
+    "slug": "marty-supreme-2025",
+    "type": "scoreMargin",
+    "current": 3.6,
+    "expected": "+4 TRAD",
+    "trad": 14.7,
+    "woke": 11.1,
+    "margin": 4
+  },
+  {
+    "slug": "longlegs-2024",
+    "type": "scoreMargin",
+    "current": 6.3,
+    "expected": "+6 TRAD",
+    "trad": 12.6,
+    "woke": 6.3,
+    "margin": 6
+  },
+  {
+    "slug": "lisa-frankenstein-2024",
+    "type": "scoreMargin",
+    "current": -16.8,
+    "expected": "-17 WOKE",
+    "trad": 4.2,
+    "woke": 21,
+    "margin": -17
+  },
+  {
+    "slug": "lisa-frankenstein-2024",
+    "type": "verdict",
+    "current": "WOKE LEAN",
+    "expected": "WOKE",
+    "margin": -17
+  },
+  {
+    "slug": "kinds-of-kindness-2024",
+    "type": "scoreMargin",
+    "current": -10.2,
+    "expected": "-10 WOKE",
+    "trad": 4.2,
+    "woke": 14.4,
+    "margin": -10
+  },
+  {
+    "slug": "kinds-of-kindness-2024",
+    "type": "verdict",
+    "current": "WOKE LEAN",
+    "expected": "WOKE",
+    "margin": -10
+  },
+  {
+    "slug": "iron-lung-2026",
+    "type": "scoreMargin",
+    "current": 9.6,
+    "expected": "+10 TRAD",
+    "trad": 14.7,
+    "woke": 5.1,
+    "margin": 10
+  },
+  {
+    "slug": "iron-lung-2026",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 10
+  },
+  {
+    "slug": "if-2024",
+    "type": "scoreMargin",
+    "current": 4.5,
+    "expected": "+5 TRAD",
+    "trad": 10.5,
+    "woke": 6,
+    "margin": 5
+  },
+  {
+    "slug": "hurry-up-tomorrow",
+    "type": "scoreMargin",
+    "current": -5.1,
+    "expected": "-5 WOKE",
+    "trad": 9.3,
+    "woke": 14.4,
+    "margin": -5
+  },
+  {
+    "slug": "hurry-up-tomorrow",
+    "type": "verdict",
+    "current": "MIXED",
+    "expected": "WOKE LEAN",
+    "margin": -5
+  },
+  {
+    "slug": "hit-man-2024",
+    "type": "scoreMargin",
+    "current": -0.9,
+    "expected": "-1 WOKE",
+    "trad": 6.3,
+    "woke": 7.2,
+    "margin": -1
+  },
+  {
+    "slug": "dracula",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 18
+  },
+  {
+    "slug": "despicable-me-4-2024",
+    "type": "scoreMargin",
+    "current": 6.6,
+    "expected": "+7 TRAD",
+    "trad": 12.6,
+    "woke": 6,
+    "margin": 7
+  },
+  {
+    "slug": "crime-101-2026",
+    "type": "scoreMargin",
+    "current": 6.3,
+    "expected": "+6 TRAD",
+    "trad": 14.7,
+    "woke": 8.4,
+    "margin": 6
+  },
+  {
+    "slug": "crime-101-2026",
+    "type": "verdict",
+    "current": "TRADITIONAL",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 6
+  },
+  {
+    "slug": "companion-2025",
+    "type": "verdict",
+    "current": "MIXED",
+    "expected": "WOKE LEAN",
+    "margin": -9
+  },
+  {
+    "slug": "bad-boys-ride-or-die-2024",
+    "type": "scoreMargin",
+    "current": 3.3,
+    "expected": "+3 TRAD",
+    "trad": 10.5,
+    "woke": 7.2,
+    "margin": 3
+  },
+  {
+    "slug": "bad-boys-ride-or-die-2024",
+    "type": "verdict",
+    "current": "MIXED",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 3
+  },
+  {
+    "slug": "alien-romulus-2024",
+    "type": "scoreMargin",
+    "current": 6.3,
+    "expected": "+6 TRAD",
+    "trad": 16.8,
+    "woke": 10.5,
+    "margin": 6
+  },
+  {
+    "slug": "abigail-2024",
+    "type": "scoreMargin",
+    "current": 1.2,
+    "expected": "+1 TRAD",
+    "trad": 8.4,
+    "woke": 7.2,
+    "margin": 1
+  },
+  {
+    "slug": "abigail-2024",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "MIXED",
+    "margin": 1
+  },
+  {
+    "slug": "a-real-pain-2024",
+    "type": "scoreMargin",
+    "current": 3.3,
+    "expected": "+3 TRAD",
+    "trad": 14.7,
+    "woke": 11.4,
+    "margin": 3
+  },
+  {
+    "slug": "a-real-pain-2024",
+    "type": "verdict",
+    "current": "MIXED",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 3
+  },
+  {
+    "slug": "the-moment-2026",
+    "type": "scoreMargin",
+    "current": -4.5,
+    "expected": "-4 WOKE",
+    "trad": 6,
+    "woke": 10.5,
+    "margin": -4
+  },
+  {
+    "slug": "the-moment-2026",
+    "type": "verdict",
+    "current": "STRONGLY WOKE",
+    "expected": "WOKE LEAN",
+    "margin": -4
+  },
+  {
+    "slug": "shelter-2026",
+    "type": "scoreMargin",
+    "current": 4.2,
+    "expected": "+4 TRAD",
+    "trad": 10.5,
+    "woke": 6.3,
+    "margin": 4
+  },
+  {
+    "slug": "shelter-2026",
+    "type": "verdict",
+    "current": "STRONGLY TRADITIONAL",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 4
+  },
+  {
+    "slug": "psycho-killer",
+    "type": "scoreMargin",
+    "current": 6.3,
+    "expected": "+6 TRAD",
+    "trad": 8.4,
+    "woke": 2.1,
+    "margin": 6
+  },
+  {
+    "slug": "psycho-killer",
+    "type": "verdict",
+    "current": "STRONGLY TRADITIONAL",
+    "expected": "TRADITIONAL LEAN",
+    "margin": 6
+  },
+  {
+    "slug": "conclave-2024",
+    "type": "scoreMargin",
+    "current": -38.7,
+    "expected": "-39 WOKE",
+    "trad": 3.9,
+    "woke": 42.6,
+    "margin": -39
+  },
+  {
+    "slug": "snow-white-2025",
+    "type": "scoreMargin",
+    "current": -25.8,
+    "expected": "-26 WOKE",
+    "trad": 8.4,
+    "woke": 34.2,
+    "margin": -26
+  },
+  {
+    "slug": "snow-white-2025",
+    "type": "verdict",
+    "current": "WOKE LEAN",
+    "expected": "STRONGLY WOKE",
+    "margin": -26
+  },
+  {
+    "slug": "i-can-only-imagine-2",
+    "type": "scoreMargin",
+    "current": 16.8,
+    "expected": "+17 TRAD",
+    "trad": 16.8,
+    "woke": 0,
+    "margin": 17
+  },
+  {
+    "slug": "i-can-only-imagine-2",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 17
+  },
+  {
+    "slug": "eternity",
+    "type": "scoreMargin",
+    "current": 2.4,
+    "expected": "+2 TRAD",
+    "trad": 10.5,
+    "woke": 8.1,
+    "margin": 2
+  },
+  {
+    "slug": "blitz-2024",
+    "type": "scoreMargin",
+    "current": -18.3,
+    "expected": "-18 WOKE",
+    "trad": 14.7,
+    "woke": 33,
+    "margin": -18
+  },
+  {
+    "slug": "blitz-2024",
+    "type": "verdict",
+    "current": "WOKE LEAN",
+    "expected": "WOKE",
+    "margin": -18
+  },
+  {
+    "slug": "now-you-see-me-now-you-don-t",
+    "type": "scoreMargin",
+    "current": -40.8,
+    "expected": "-41 WOKE",
+    "trad": 15.6,
+    "woke": 56.4,
+    "margin": -41
+  },
+  {
+    "slug": "now-you-see-me-now-you-don-t",
+    "type": "verdict",
+    "current": "WOKE",
+    "expected": "STRONGLY WOKE",
+    "margin": -41
+  },
+  {
+    "slug": "independence-day",
+    "type": "scoreMargin",
+    "current": 10.5,
+    "expected": "+11 TRAD",
+    "trad": 12.6,
+    "woke": 2.1,
+    "margin": 11
+  },
+  {
+    "slug": "independence-day",
+    "type": "verdict",
+    "current": "TRADITIONAL LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 11
+  },
+  {
+    "slug": "nightbitch",
+    "type": "scoreMargin",
+    "current": -18.9,
+    "expected": "-19 WOKE",
+    "trad": 0,
+    "woke": 18.9,
+    "margin": -19
+  },
+  {
+    "slug": "butterfly-dreams-2026",
+    "type": "verdict",
+    "current": "WOKE LEAN",
+    "expected": "TRADITIONAL",
+    "margin": 15
+  },
+  {
+    "slug": "butterfly-dreams-2026",
+    "type": "woke_trap_false_positive",
+    "current": true,
+    "expected": false,
+    "margin": 15,
+    "note": "woke_trap should be false (margin is non-negative)"
+  },
+  {
+    "slug": "the-magic-faraway-tree-2026",
+    "type": "scoreMargin",
+    "current": 6.5,
+    "expected": "+7 TRAD",
+    "trad": 7.2,
+    "woke": 0.7,
+    "margin": 7
+  }
+]
