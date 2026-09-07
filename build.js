@@ -301,8 +301,10 @@ if (deduped.length < reviews.length) {
 // is reported AND counted (not silently excluded). Invalid verdicts hard-fail the
 // build so a bad record (e.g. verdict="RECOMMENDED") can never quietly ship.
 const VALID_VERDICTS = new Set([
-  'STRONGLY TRADITIONAL', 'TRADITIONAL', 'TRADITIONAL LEAN', 'MIXED',
-  'WOKE LEAN', 'WOKE', 'STRONGLY WOKE'
+  'TRADITIONAL', 'TRADITIONAL LEAN', 'BALANCED TRADITIONAL',
+  'BALANCED', 'BALANCED WOKE', 'WOKE LEAN', 'WOKE',
+  // legacy labels tolerated for static listicle content
+  'MIXED', 'STRONGLY TRADITIONAL', 'STRONGLY WOKE'
 ]);
 function normalizeVerdict(v) {
   // Pre-release reviews legitimately prefix the verdict with "PREDICTED: ".
@@ -518,8 +520,12 @@ function shortDate(d) {
 function verdictClass(v) {
   if (!v) return 'mixed';
   const lv = v.toUpperCase();
-  // "Mixed/Traditional Lean" should be mixed, not traditional
   if (lv.startsWith('MIXED')) return 'mixed';
+  if (lv.includes('BALANCED')) {
+    if (lv.includes('WOKE')) return 'woke';
+    if (lv.includes('TRADITIONAL')) return 'traditional';
+    return 'mixed'; // plain BALANCED
+  }
   if (lv.includes('WOKE')) return 'woke';
   if (lv.includes('TRADITIONAL')) return 'traditional';
   return 'mixed';
@@ -871,12 +877,9 @@ function sidebarHTML() {
         ${recent.map(r => {
           const vc = verdictClass(r.verdict);
           const hasTrap = isWokeTrap(r);
-          const margin = typeof r.scoreMargin === 'number' ? r.scoreMargin : parseFloat(String(r.scoreMargin)) || Math.abs((r.tradScore || 0) - (r.wokeScore || 0));
           let badge = r.verdict;
           if (hasTrap) badge = 'WOKE TRAP';
-          else if (vc === 'woke') badge = `WOKE ${Math.round(margin)}`;
-          else if (vc === 'traditional') badge = `TRAD +${Math.round(Math.abs(margin))}`;
-          else if (vc === 'mixed') badge = `MIXED ${Math.round(margin) >= 0 ? '+' : ''}${Math.round(margin)}`;
+          // Use canonical scoreMargin label directly
           return `
         <a href="/reviews/${r.slug}/" class="recent-review">
           <div class="thumb">${posterHTML(r, 'thumb')}</div>
@@ -1567,20 +1570,22 @@ function buildReviewFaqSchema(r) {
     a3 = truncate(r.summary.parentalGuidance.replace(/[^\x20-\x7E]/g, '').replace(/\s+/g, ' '), 300);
   } else {
     const vUpper = verdict.toUpperCase();
-    if (vUpper.includes('STRONGLY TRADITIONAL') || vUpper.includes('STRONGLY TRAD')) {
+    if (vUpper === 'TRADITIONAL') {
       a3 = `${title} is rated ${verdict} -- generally safe for families and children with traditional values.`;
-    } else if (vUpper === 'TRADITIONAL' || vUpper === 'TRAD') {
-      a3 = `${title} scores TRADITIONAL on VirtueVigil. Generally appropriate for family viewing. Check the full review for content details.`;
-    } else if (vUpper.includes('LEAN')) {
+    } else if (vUpper === 'TRADITIONAL LEAN') {
       a3 = `${title} leans traditional but contains some content parents should review before watching with younger children.`;
-    } else if (vUpper === 'MIXED') {
-      a3 = `${title} scored MIXED on VirtueVigil. Parental discretion advised -- review the full analysis for specific content flags.`;
+    } else if (vUpper === 'BALANCED TRADITIONAL') {
+      a3 = `${title} leans traditional with minor progressive elements. Most families will find it suitable with minor caveats.`;
+    } else if (vUpper === 'BALANCED') {
+      a3 = `${title} scored BALANCED on VirtueVigil. Parental discretion advised -- review the full analysis for specific content flags.`;
+    } else if (vUpper === 'BALANCED WOKE') {
+      a3 = `${title} leans woke with some progressive content. Parents should review before showing to younger children.`;
+    } else if (vUpper === 'WOKE LEAN') {
+      a3 = `${title} leans woke. Contains progressive content -- parental review recommended.`;
+    } else if (vUpper === 'WOKE') {
+      a3 = `${title} scored WOKE on VirtueVigil. Not recommended for conservative families. Contains heavy progressive messaging.`;
     } else if (vUpper.includes('WOKE TRAP')) {
       a3 = `${title} is flagged as a WOKE TRAP -- content is more progressive than marketing suggests. Caution for families.`;
-    } else if (vUpper.includes('STRONGLY WOKE')) {
-      a3 = `${title} scored STRONGLY WOKE. Not recommended for conservative families. Contains heavy progressive messaging.`;
-    } else if (vUpper.includes('WOKE')) {
-      a3 = `${title} scored WOKE on VirtueVigil. Contains progressive content -- not recommended for conservative family viewing.`;
     } else {
       a3 = `See the full VirtueVigil review of ${title} for a complete parental guidance assessment.`;
     }
@@ -1607,19 +1612,23 @@ function buildReviewFaqSchema(r) {
 
   // Q5: Would conservatives enjoy it?
   let a5;
-  const vUpper = verdict.toUpperCase();
-  if (vUpper.includes('STRONGLY TRADITIONAL') || vUpper.includes('STRONGLY TRAD')) {
-    a5 = truncate(`Yes -- conservatives will thoroughly enjoy ${title}. It scores ${verdict} and strongly affirms traditional values.`, 300);
-  } else if (vUpper === 'TRADITIONAL' || vUpper === 'TRAD') {
-    a5 = truncate(`Yes -- ${title} scores TRADITIONAL on VirtueVigil. Conservatives should find it worth watching.`, 300);
-  } else if (vUpper.includes('LEAN')) {
+  const vUpper5 = verdict.toUpperCase();
+  if (vUpper5 === 'TRADITIONAL') {
+    a5 = truncate(`Yes -- conservatives will thoroughly enjoy ${title}. Strongly affirms traditional values.`, 300);
+  } else if (vUpper5 === 'TRADITIONAL LEAN') {
     a5 = truncate(`Probably -- ${title} leans traditional with minor progressive elements. Most conservatives will enjoy it with minor caveats.`, 300);
-  } else if (vUpper === 'MIXED') {
+  } else if (vUpper5 === 'BALANCED TRADITIONAL') {
+    a5 = truncate(`Likely -- ${title} has more traditional than progressive content. Conservative viewers should find it worth watching.`, 300);
+  } else if (vUpper5 === 'BALANCED') {
     a5 = truncate(`Mixed bag -- ${title} has both traditional and progressive elements. Conservative viewers may enjoy parts but should read the full review first.`, 300);
-  } else if (vUpper.includes('STRONGLY WOKE')) {
-    a5 = truncate(`No -- ${title} scored STRONGLY WOKE on VirtueVigil. Heavy progressive messaging throughout.`, 300);
-  } else if (vUpper.includes('WOKE')) {
+  } else if (vUpper5 === 'BALANCED WOKE') {
+    a5 = truncate(`Some concerns -- ${title} leans woke though not aggressively so. Conservative viewers should check the review before committing.`, 300);
+  } else if (vUpper5 === 'WOKE LEAN') {
+    a5 = truncate(`Caution -- ${title} leans woke. Contains progressive content many conservatives will find objectionable.`, 300);
+  } else if (vUpper5 === 'WOKE') {
     a5 = truncate(`Unlikely -- ${title} scored WOKE on VirtueVigil. Contains significant progressive content most conservatives will find objectionable.`, 300);
+  } else if (vUpper5.includes('WOKE TRAP')) {
+    a5 = truncate(`Avoid -- ${title} is flagged as a WOKE TRAP. Marketing hides progressive content.`, 300);
   } else {
     a5 = truncate(`See the full VirtueVigil review of ${title} for a conservative viewer recommendation.`, 300);
   }

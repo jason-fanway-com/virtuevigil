@@ -1,20 +1,21 @@
 const fs = require('fs');
 const reviews = require('./src/data/reviews.json');
 
+// LOCKED verdict table (VVWS deterministic)
 function getVerdictForMargin(margin) {
-  if (margin >= 20) return 'STRONGLY TRADITIONAL';
-  if (margin >= 10) return 'TRADITIONAL';
-  if (margin >= 3) return 'TRADITIONAL LEAN';
-  if (margin >= -2 && margin <= 2) return 'MIXED';
-  if (margin >= -9) return 'WOKE LEAN';
-  if (margin >= -19) return 'WOKE';
-  return 'STRONGLY WOKE';
+  if (margin >= 20) return 'TRADITIONAL';
+  if (margin >= 15) return 'TRADITIONAL LEAN';
+  if (margin >= 5) return 'BALANCED TRADITIONAL';
+  if (margin >= -4) return 'BALANCED';
+  if (margin >= -14) return 'BALANCED WOKE';
+  if (margin >= -19) return 'WOKE LEAN';
+  return 'WOKE';
 }
 
 function getMarginLabel(margin) {
   if (margin > 0) return `+${margin} TRAD`;
   if (margin < 0) return `${margin} WOKE`;
-  return '0 NEUTRAL';
+  return '0 BALANCED';
 }
 
 let issues = [];
@@ -63,8 +64,9 @@ reviews.forEach((r, idx) => {
     });
   }
 
-  // Check verdict mismatch
-  if (r.verdict !== expectedVerdict) {
+  // Check verdict mismatch (strip PREDICTED: prefix for pre-release reviews)
+  const verdictClean = String(r.verdict || '').replace(/^PREDICTED:\s*/i, '').trim();
+  if (verdictClean !== expectedVerdict) {
     mismatches.push({
       slug: r.slug,
       type: 'verdict',
