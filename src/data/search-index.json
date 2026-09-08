@@ -12,6 +12,18 @@
     "poster": "/images/posters/fall-2-deadpoint-2026.jpg"
   },
   {
+    "slug": "star-wars-1977",
+    "title": "Star Wars",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Disney+ / Digital Rental",
+    "genre": "Science Fiction, Adventure, Space Opera",
+    "year": 1977,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 24,
+    "poster": "/images/posters/star-wars-1977.jpg"
+  },
+  {
     "slug": "the-uprising-2026",
     "title": "The Uprising",
     "verdict": "BALANCED TRADITIONAL",
