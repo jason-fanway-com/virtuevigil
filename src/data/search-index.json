@@ -1,5 +1,17 @@
 [
   {
+    "slug": "fall-2-deadpoint-2026",
+    "title": "Fall 2: Deadpoint",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Survival Thriller, Action",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 10,
+    "poster": "/images/posters/fall-2-deadpoint-2026.jpg"
+  },
+  {
     "slug": "the-uprising-2026",
     "title": "The Uprising",
     "verdict": "BALANCED TRADITIONAL",
