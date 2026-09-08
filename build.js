@@ -2495,6 +2495,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-father-son-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/every-dc-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-spider-man-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/every-mcu-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-star-wars-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-john-wick-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-of-all-time/`, changefreq: 'weekly', priority: '0.9' },
@@ -3631,6 +3632,7 @@ function buildListsHubPage() {
         'every-spider-man-movie-ranked-woke-score',
         'every-star-wars-movie-ranked-woke-score',
         'every-john-wick-movie-ranked-woke-score',
+        'every-mcu-movie-ranked-woke-score',
         'highest-traditional-scores-all-time',
         'highest-woke-scores-all-time',
         'hollywood-anti-american-movies',
@@ -3721,6 +3723,7 @@ function buildListsHubPage() {
       'every-spider-man-movie-ranked-woke-score': 'Every Spider-Man Movie Ranked by Woke Score (2026)',
       'every-star-wars-movie-ranked-woke-score': 'Every Star Wars Movie Ranked by Woke Score (2026 Edition)',
       'every-john-wick-movie-ranked-woke-score': 'Every John Wick Movie Ranked by Woke Score (2026 Edition)',
+      'every-mcu-movie-ranked-woke-score': 'Every MCU Movie Ranked by Woke Score (2026 Edition)',
       'most-woke-movies-2024-complete': 'Most Woke Movies of 2024 (Complete)',
       'conservative-sci-fi-movies-2024-2025': 'Conservative Sci-Fi Movies 2024\u20132025',
       'wokest-streaming-movies-2025-2026': 'Wokest Streaming Movies 2025\u20132026',
@@ -8027,6 +8030,17 @@ function build() {
     canonicalPath: 'lists/every-john-wick-movie-ranked-woke-score',
     publishDate: '2026-08-26',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-john-wick-movie-ranked-woke-score/content.html'), 'utf-8')
+  }));
+
+  // LISTICLE: Every MCU Movie Ranked by Woke Score (2026 Edition)
+  console.log('  lists/every-mcu-movie-ranked-woke-score/index.html');
+  writePage('lists/every-mcu-movie-ranked-woke-score/index.html', buildListiclePage({
+    slug: 'every-mcu-movie-ranked-woke-score',
+    title: 'Every MCU Movie Ranked by Woke Score -- The Complete 42-Film Breakdown (2026)',
+    description: 'All 42 MCU titles ranked by VirtueVigil from most woke (Daredevil: Born Again S2) to most traditional (Spider-Man 2002). Full woke/trad scores, margins, and verdicts for every film in the Marvel Cinematic Universe.',
+    canonicalPath: 'lists/every-mcu-movie-ranked-woke-score',
+    publishDate: '2026-09-08',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-mcu-movie-ranked-woke-score/content.html'), 'utf-8')
   }));
 
   writePage('lists/dc-movies-woke-ranking/index.html', buildListiclePage({
