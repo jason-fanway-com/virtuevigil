@@ -2419,6 +2419,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-thriller-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/conservative-sci-fi-movies-2024-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/paramount-plus-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/hulu-originals-woke-ranking-2026/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
@@ -3545,6 +3546,7 @@ function buildListsHubPage() {
         'netflix-woke-movies-2024-data',
         'netflix-woke-movies-ranked',
         'paramount-plus-woke-ranking',
+        'hulu-originals-woke-ranking-2026',
         'pixar-movies-woke-ranking',
         'wokest-streaming-movies-2025-2026'
       ]
@@ -3717,6 +3719,7 @@ function buildListsHubPage() {
       'netflix-originals-woke-ranking-2026': 'Every Netflix Original Ranked by Woke Score (2026)',
       'apple-tv-originals-ranked-woke-score': 'Apple TV+ Originals Ranked by Woke Score (2026)',
       'amazon-prime-video-originals-ranked-woke-score': 'Every Amazon Prime Video Original Ranked by Woke Score (2026)',
+      'hulu-originals-woke-ranking-2026': 'Every Hulu Original Ranked by Woke Score (2026)',
       'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
@@ -33778,6 +33781,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-romance-movies-parents-should-know',
     publishDate: '2026-09-04',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-romance-movies-parents-should-know/content.html'), 'utf-8')
+  }));
+
+  // --- Hulu Originals Listicle ---
+  writePage('lists/hulu-originals-woke-ranking-2026/index.html', buildListiclePage({
+    slug: 'hulu-originals-woke-ranking-2026',
+    title: 'Every Hulu Original Ranked by Woke Score (2026)',
+    description: 'We ranked all 17 Hulu originals in our database from most woke to most traditional. See which Hulu shows and movies push ideology hardest and which ones just tell a real story. Parents, know what your family is streaming.',
+    canonicalPath: 'lists/hulu-originals-woke-ranking-2026',
+    publishDate: '2026-09-09',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/hulu-originals-woke-ranking-2026/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
