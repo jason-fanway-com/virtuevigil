@@ -9,7 +9,7 @@
     "type": "film",
     "wokeScore": 5.6,
     "tradScore": 17.64,
-    "poster": "by-any-means-2026.jpg"
+    "poster": "/images/posters/by-any-means-2026.jpg"
   },
   {
     "slug": "dr-strangelove-1964",
@@ -21,7 +21,7 @@
     "type": "film",
     "wokeScore": 12.88,
     "tradScore": 2.5,
-    "poster": "dr-strangelove-1964.jpg"
+    "poster": "/images/posters/dr-strangelove-1964.jpg"
   },
   {
     "slug": "the-americans-2013",
@@ -33,7 +33,7 @@
     "type": "series",
     "wokeScore": 11.4,
     "tradScore": 16.6,
-    "poster": "the-americans-2013.jpg"
+    "poster": "/images/posters/the-americans-2013.jpg"
   },
   {
     "slug": "fall-2-deadpoint-2026",
