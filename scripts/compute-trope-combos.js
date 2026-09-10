@@ -32,24 +32,26 @@ function findCombos(target, minN, maxN) {
   for (let n = minN; n <= maxN; n++) {
     // Build all combos of n items
     const indices = new Array(n).fill(0);
+    let foundThisN = 0;
     
     function dfs(pos, start, sumX100) {
+      if (foundThisN >= 400) return;
       if (pos === n) {
         if (Math.abs(sumX100 - targetX100) <= 60) {
-          const combo = indices.map(i => allOpts[i]);
-          results.push(combo);
+          results.push(indices.map(i => allOpts[i]));
+          foundThisN++;
         }
         return;
       }
-      if (results.length > 0) return; // first match is fine
       for (let i = start; i < allOpts.length; i++) {
+        if (foundThisN >= 400) return;
         const newSum = sumX100 + Math.round(allOpts[i].score * 100);
         // Prune: can we still reach target?
         const remaining = n - pos - 1;
         const maxAdd = remaining * Math.round(allOpts[0].score * 100);
         const minAdd = remaining * Math.round(allOpts[allOpts.length-1].score * 100);
         if (newSum + maxAdd < targetX100 - 60) continue;
-        if (newSum + minAdd > targetX100 + 60) continue;
+        if (newSum + minAdd > targetX100 + 60) break;
         indices[pos] = i;
         dfs(pos + 1, i, newSum);
       }
@@ -87,9 +89,9 @@ function main() {
 
     // Find combos with 3-6 tropes per category (enough for meaningful detail)
     // For scores > 25, allow up to 7; for > 40, allow up to 9
-    const wokeMin = wokeTarget > 40 ? 7 : wokeTarget > 25 ? 5 : wokeTarget > 10 ? 3 : wokeTarget > 0 ? 2 : 0;
+    const wokeMin = wokeTarget > 40 ? 7 : wokeTarget > 25 ? 5 : wokeTarget > 10 ? 3 : wokeTarget > 0 ? 1 : 0;
     const wokeMax = wokeTarget > 40 ? 9 : wokeTarget > 25 ? 7 : wokeTarget > 10 ? 5 : wokeTarget > 0 ? 4 : 0;
-    const tradMin = tradTarget > 40 ? 7 : tradTarget > 25 ? 5 : tradTarget > 10 ? 3 : tradTarget > 0 ? 2 : 0;
+    const tradMin = tradTarget > 40 ? 7 : tradTarget > 25 ? 5 : tradTarget > 10 ? 3 : tradTarget > 0 ? 1 : 0;
     const tradMax = tradTarget > 40 ? 9 : tradTarget > 25 ? 7 : tradTarget > 10 ? 5 : tradTarget > 0 ? 4 : 0;
 
     let wokeCombos = wokeTarget > 0 ? findCombos(wokeTarget, wokeMin, wokeMax) : [[]];
