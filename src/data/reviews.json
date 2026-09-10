@@ -61394,7 +61394,49 @@
         "virtuevigil die hard",
         "die hard conservative review"
       ]
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-die-hard-1988-01",
+        "name": "Lone hero against overwhelming odds",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "John McClane is a single cop, outnumbered and outgunned, taking on an entire terrorist operation. The film frames individual courage, not institutional competence, as the solution. The FBI and LAPD are portrayed as incompetent buffoons whose intervention makes things worse. McClane wins because of personal grit, not systems or teams."
+      },
+      {
+        "id": "TRAD-die-hard-1988-02",
+        "name": "Reconciliation of fractured marriage",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "The emotional core of the film is McClane trying to save his marriage to Holly. The climax is not just defeating Hans Gruber but restoring the nuclear family. Holly reclaims her married name in the final scene, and the film treats this as the true victory. No irony, no subversion."
+      },
+      {
+        "id": "TRAD-die-hard-1988-03",
+        "name": "Clear moral line between good and evil",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "Hans Gruber and his team are thieves and murderers, and the film never asks you to sympathize with them. Gruber is charming but unmistakably a villain. McClane is flawed but unmistakably the hero. In an era of moral ambiguity in action films, this clarity stands out."
+      },
+      {
+        "id": "TRAD-die-hard-1988-04",
+        "name": "Holiday used non-ironically as backdrop",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.5,
+        "explanation": "The Christmas setting is not a joke or a cynical contrast. Hollys name and the holiday music are played earnestly. The film treats Christmas as a time for family and reconciliation, not as a target for deconstruction."
+      }
+    ]
   },
   {
     "id": "back-to-the-future-1985",
@@ -61688,7 +61730,49 @@
         "virtuevigil back to the future",
         "back to the future conservative review"
       ]
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-back-to-the-future-1-01",
+        "name": "Nuclear family restored through personal action",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "Martys entire mission in the past is to ensure his parents fall in love so his family exists. The film treats the intact nuclear family as a prize worth fighting for. When Marty returns to 1985, his family is stronger, happier, and more successful. The films entire moral framework is built on family continuity."
+      },
+      {
+        "id": "TRAD-back-to-the-future-1-02",
+        "name": "Individual agency defeats determinism",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "Marty refuses to accept that his future is fixed. By intervening in the past, he changes not only his parents trajectories but his own life. The film is a sustained argument that personal choices matter more than circumstances. No system or collective action puts George McFly on his feet — Marty does."
+      },
+      {
+        "id": "TRAD-back-to-the-future-1-03",
+        "name": "Entrepreneurial ambition as virtue",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "Doc Brown is celebrated for being a mad scientist who builds impossible things. The films attitude toward invention and risk-taking is purely positive. The DeLorean time machine is not a cautionary tale about technology but a celebration of what one brilliant mind can achieve."
+      },
+      {
+        "id": "TRAD-back-to-the-future-1-04",
+        "name": "Anti-bullying ethos grounded in self-respect",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "explanation": "George McFlys transformation from doormat to confident man is the films emotional centerpiece. Biff is humiliated, not negotiated with. The message is not about systemic solutions to bullying but about the bullied finding the courage to stand up for themselves."
+      }
+    ]
   },
   {
     "id": "the-gray-man-2022",
@@ -69834,7 +69918,49 @@
       "parentalGuidance": "Paddington 3 is rated PG and is one of the safest family films available. It is suitable for all ages. The film contains mild slapstick comedy: characters trip, fall, get splattered with food, and find themselves in gentle physical predicaments. No one is seriously hurt. The emotional stakes involve Paddington being separated from the Brown family or misunderstood by authorities, which may be briefly upsetting for very young children, but resolution is always warm and reassuring. No violence. No profanity. No sexual content. No frightening sequences beyond the mildest peril. The film centers positive themes: kindness, honesty, family loyalty, community, and the idea that character matters more than origin. Paddington's manners and good nature are presented as genuinely admirable qualities. The Brown family's commitment to each other is the emotional foundation. The film treats immigration descriptively: Paddington is a stranger who becomes beloved through his conduct. Recommended for ages 4 and up. This is an excellent family film that parents can enjoy alongside their children without any content concerns.",
       "overall": "Paddington 3 continues the beloved franchise with the same warmth, decency, and gentle humor that made the first two films modern family classics. The Brown family faces new challenges that test their commitment to each other, and Paddington's unshakeable goodness remains the moral center of a story that treats kindness as a genuine strength rather than a soft sentiment. This is children's entertainment that respects its audience enough to take goodness seriously, and the result is a rare family film that adults will find as moving as their kids find delightful."
     },
-    "parentalGuidance": "PG for mild action and rude humor. The Paddington franchise continues. Mild adventure peril. Recommended for all ages. Celebrates politeness, family, and the power of being good. Essential family viewing."
+    "parentalGuidance": "PG for mild action and rude humor. The Paddington franchise continues. Mild adventure peril. Recommended for all ages. Celebrates politeness, family, and the power of being good. Essential family viewing.",
+    "tropeAudit": [
+      {
+        "id": "TRAD-paddington-3-2026-01",
+        "name": "Immigrant who assimilates and enriches host culture",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "Paddington is an immigrant bear who embraces British customs, manners, and values while bringing his own warmth and kindness. The film models assimilation as a two-way gift: Paddington makes the Brown family better, and Britain makes Paddington better. No grievance politics, no identity as victimhood."
+      },
+      {
+        "id": "TRAD-paddington-3-2026-02",
+        "name": "Community order through voluntary goodwill",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "Windsor Gardens functions because neighbors voluntarily cooperate. No bureaucracy or state intervention keeps the community running — Mrs. Bird and the residents maintain order through shared decency and mutual care. The film presents community as something earned through kindness, not mandated by policy."
+      },
+      {
+        "id": "TRAD-paddington-3-2026-03",
+        "name": "Family bonds celebrated without irony",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The Brown family is presented as genuinely good and their love for Paddington as genuine. There is no dysfunctional-family-as-comedy subtext, no suggestion that the Browns are naive for taking in a bear. The film treats family loyalty and love as uncomplicated goods."
+      },
+      {
+        "id": "TRAD-paddington-3-2026-04",
+        "name": "Politeness and manners as moral language",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "explanation": "Paddingtons defining trait is his meticulous politeness and his belief that manners can solve any problem. The film endorses this rather than mocking it. In an era of confrontational and abrasive public culture, a film that treats courtesy as a superpower is quietly countercultural."
+      }
+    ]
   },
   {
     "id": "over-your-dead-body-2026",
@@ -70107,7 +70233,59 @@
       "parentalGuidance": "Good Luck, Have Fun, Don't Die is rated PG-13 for action violence, language, and suggestive humor. It is suitable for teens with standard PG-13 content expectations. The film contains action sequences with gunfire, explosions, car chases, and hand-to-hand combat. Violence is comedic and stylized rather than graphic: no gore, minimal blood, and deaths are implied rather than shown. Language is moderate: some profanity but not pervasive. Sexual content is limited to suggestive humor and flirtation between the lead couple; no nudity, no sex scenes. The film's gender dynamics are progressive: Maya is consistently more competent than Jake, and the humor frequently derives from his inability to keep up with her. Parents who prefer traditional gender roles in entertainment may want to discuss this framing with teens. The film treats the reversal as natural and desirable without making an explicit argument, which makes the messaging more persuasive. The film also contains positive elements: the couple's loyalty to each other under pressure, teamwork as a value, and the importance of finishing what you start. Tom Holland and Zendaya's real-life chemistry translates to genuine warmth on screen. Recommended for ages 13 and up. Parents should be aware the film is ideologically transparent in its gender politics despite its lightweight tone.",
       "overall": "Good Luck, Have Fun, Don't Die pairs Tom Holland and Zendaya in an action comedy that is transparent about its progressive gender politics from the opening scene. The film consistently positions Maya as the more competent half of the duo while Jake stumbles through the adventure as a well-meaning but perpetually outmatched sidekick, a dynamic the film treats as both natural and inherently amusing. The charismatic leads and brisk pacing make for an entertaining ride, though viewers sensitive to the reflexive demotion of male competence will find the film's assumptions grating regardless of how charming the stars are."
     },
-    "parentalGuidance": "Expected PG-13 for language and some suggestive content. Comedy with romantic elements. Language moderate. Recommended for ages 13+. Pre-release assessment."
+    "parentalGuidance": "Expected PG-13 for language and some suggestive content. Comedy with romantic elements. Language moderate. Recommended for ages 13+. Pre-release assessment.",
+    "tropeAudit": [
+      {
+        "id": "WOKE-good-luck-have-fun-2-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-good-luck-have-fun-2-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-good-luck-have-fun-2-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 1.8,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-good-luck-have-fun-2-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-good-luck-have-fun-2-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "shutter-island-2010",
@@ -71803,7 +71981,89 @@
         "toy meets tech pixar",
         "toy story 5 jessie buzz lightyear"
       ]
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-toy-story-5-2026-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-toy-story-5-2026-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-toy-story-5-2026-03",
+        "name": "PLACEHOLDER-TRAD-3",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-toy-story-5-2026-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-toy-story-5-2026-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-toy-story-5-2026-06",
+        "name": "PLACEHOLDER-TRAD-6",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-toy-story-5-2026-07",
+        "name": "PLACEHOLDER-TRAD-7",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-toy-story-5-2026-08",
+        "name": "PLACEHOLDER-TRAD-8",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "the-mandalorian-and-grogu-2026",
@@ -71992,7 +72252,59 @@
         "Favreau Mandalorian film",
         "Grogu movie review"
       ]
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-the-mandalorian-and--01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-the-mandalorian-and--02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-the-mandalorian-and--03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-the-mandalorian-and--04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-the-mandalorian-and--05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "title": "Remarkably Bright Creatures",
@@ -72371,7 +72683,59 @@
         "historical drama 2026",
         "submarine thriller Pressure"
       ]
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-pressure-2026-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-pressure-2026-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-pressure-2026-03",
+        "name": "PLACEHOLDER-TRAD-3",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-pressure-2026-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-pressure-2026-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "omaha-2026",
@@ -73187,7 +73551,49 @@
         "survival thriller 2026",
         "Aaron Eckhart shark movie"
       ]
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "TRAD-deep-water-2026-01",
+        "name": "Human resilience against nature",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "The survival narrative pits individuals against the unyielding ocean, and the film takes human courage and endurance seriously. There is no deconstruction of the hero archetype and no suggestion that fighting for survival is somehow problematic. The film respects the primal, apolitical virtue of not giving up."
+      },
+      {
+        "id": "TRAD-deep-water-2026-02",
+        "name": "Nuclear family survival instinct",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "The characters are driven by the need to protect their family, and the film treats this as the most natural and powerful motivation. The nuclear family under threat is the emotional engine, and there is no attempt to question or complicate this structure."
+      },
+      {
+        "id": "TRAD-deep-water-2026-03",
+        "name": "Competence over ideology",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "In the crisis, what matters is who can solve problems, not what they believe. The film elevates practical skill and clear thinking under pressure over any political or social stance. This is a meritocracy of the moment: the people who save lives are the people who know what they are doing."
+      },
+      {
+        "id": "WOKE-deep-water-2026-04",
+        "name": "Meaningful female lead",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.5,
+        "explanation": "The film includes a capable female character whose role extends beyond love interest or victim. She participates actively in the survival effort, and her competence is treated as unremarkable rather than exceptional."
+      }
+    ]
   },
   {
     "id": "the-christophers-2026",
@@ -74936,7 +75342,59 @@
       "metaDescription": "VirtueVigil's full VVWS review of Apex (2026) (2026). We score every trope and break down the message. Trope scores, verdict: TRADITIONAL (+0.00). Parental guidance included.",
       "keywords": "is Apex (2026) woke, Apex (2026) 2026 review, Apex (2026) VirtueVigil, Apex (2026) parents guide"
     },
-    "parentalGuidance": "R for strong violence and language. Bloodsport-style action with sustained combat and brutal kills. No sexual content. Recommended for ages 17+. The film values competence and survival without ideological baggage."
+    "parentalGuidance": "R for strong violence and language. Bloodsport-style action with sustained combat and brutal kills. No sexual content. Recommended for ages 17+. The film values competence and survival without ideological baggage.",
+    "tropeAudit": [
+      {
+        "id": "WOKE-apex-2026-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-apex-2026-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-apex-2026-03",
+        "name": "PLACEHOLDER-TRAD-3",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-apex-2026-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-apex-2026-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "title": "Animal Farm",
@@ -142583,7 +143041,98 @@
       "adultInsight": "Elio is worth watching as a case study in what happens when a studio lets focus groups and culture war anxiety override a filmmaker's vision. The finished product is pleasant but hollow - a beautiful shell with the soul scooped out. Conservative parents should know: the final film is completely clean. No same-sex content, no environmental preaching, no gender nonconformity. It is a story about a lonely kid, his military aunt, and an alien friend. Your children will enjoy the colorful aliens and the adventure. You will enjoy the father-son redemption arc and the 'home is where you belong' ending. Nobody will remember it in five years.",
       "parentalGuidance": "Ages 6+ - PG. Mild sci-fi peril, brief bullying scenes (black eye), emotionally heavy orphan backstory, an alien character in hypothermia danger. Clone sacrifice may confuse very young viewers. Zero sexual or romantic content in the theatrical cut. Zero political messaging. One of the safest Pixar releases in years for families who simply want to take their kids to a movie without worrying about hidden agendas. The irony is that the film's aggressive safety is part of why it feels so forgettable."
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-elio-2025-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-elio-2025-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-elio-2025-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-elio-2025-04",
+        "name": "PLACEHOLDER-WOKE-4",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-elio-2025-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-elio-2025-06",
+        "name": "PLACEHOLDER-TRAD-6",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-elio-2025-07",
+        "name": "PLACEHOLDER-TRAD-7",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-elio-2025-08",
+        "name": "PLACEHOLDER-TRAD-8",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-elio-2025-09",
+        "name": "PLACEHOLDER-TRAD-9",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ],
     "seo": {
       "titleTag": "Is Elio (2025) Woke? Pixar's Culture War Casualty | VirtueVigil",
       "metaDescription": "VirtueVigil review of Pixar's Elio (2025). Woke Score 18, Traditional Score 24. LGBTQ themes were cut before release. Verdict: MIXED - the film that pleased nobody.",
@@ -158369,7 +158918,59 @@
       "metaDescription": "VirtueVigil's full VVWS review of Scream 7 (2026). We score every trope and break down the message. Trope scores, verdict: TRADITIONAL LEAN (+0.00). Parental guidance included.",
       "keywords": "is Scream 7 woke, Scream 7 2026 review, Scream 7 VirtueVigil, Scream 7 parents guide"
     },
-    "parentalGuidance": "R for strong bloody violence, language throughout, and brief sexual content. Ghostface kills are inventive and bloody; multiple characters die. Language is strong and constant. Recommended for ages 17+. The film brings back Neve Campbell and Kevin Williamson in a course correction. Standard R-rated slasher horror."
+    "parentalGuidance": "R for strong bloody violence, language throughout, and brief sexual content. Ghostface kills are inventive and bloody; multiple characters die. Language is strong and constant. Recommended for ages 17+. The film brings back Neve Campbell and Kevin Williamson in a course correction. Standard R-rated slasher horror.",
+    "tropeAudit": [
+      {
+        "id": "WOKE-scream-7-2026-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-scream-7-2026-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-scream-7-2026-03",
+        "name": "PLACEHOLDER-TRAD-3",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-scream-7-2026-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-scream-7-2026-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "presence-2025",
@@ -162259,7 +162860,68 @@
       "adultInsight": "Michael Keaton is the reason to see this film, and he's a very good reason. At 73, he delivers Beetlejuice with the same unhinged energy he brought at 37. Willem Dafoe and Catherine O'Hara are equally excellent. The problem is everything around Beetlejuice: a predictable con-man subplot, an underdeveloped romance, and the elimination of Charles Deetz leaving a father-shaped hole in the family dynamic. Conservative viewers should calibrate expectations. This is nostalgia wrapped in a 2024 family structure where three generations of women figure things out alone. Enjoy the Beetlejuice scenes (they're excellent) and tolerate the framing.",
       "parentalGuidance": "Ages 10+ -- PG-13:\n- Macabre humor throughout (consistent with the original): shrunken heads, afterlife bureaucracy, soul consumption\n- A character is eaten by a shark (played for absurd comedy, not graphic)\n- Mild language\n- No sexual content beyond a brief kiss\n- The afterlife is presented as a real place with rules, not as a religious concept. Parents who want to discuss spiritual themes will find entry points but the film doesn't invite that conversation itself\n- Jump scares are mild and comedic rather than genuinely frightening\n\nAppropriate for the same age range as the original. Children who loved the 1988 film will enjoy this. The afterlife sequences are the highlight. The family drama is more for adults. A perfectly fine Halloween-season family watch, though it lacks the original's strange magic.\n\nVirtueVigil Editorial Team\nReview Date: February 2026"
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-beetlejuice-beetleju-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-beetlejuice-beetleju-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-beetlejuice-beetleju-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-beetlejuice-beetleju-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-beetlejuice-beetleju-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-beetlejuice-beetleju-06",
+        "name": "PLACEHOLDER-TRAD-6",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ],
     "seo": {
       "titleTag": "Is Beetlejuice Beetlejuice (2024) Woke? | VirtueVigil",
       "metaDescription": "VirtueVigil review of Beetlejuice Beetlejuice (2024). Woke Score 16, Traditional Score 12. Verdict: MILD WOKE. Tim Burton's long-awaited sequel delivers Beetlejuice nostalgia wrapped in a 2024 family dynamic.",
@@ -162349,7 +163011,68 @@
       "adultInsight": "Timothee Chalamet disappears into Dylan more completely than expected, earning a deserved Oscar nomination. Edward Norton's Pete Seeger is the film's secret weapon: a man who champions artistic freedom until that freedom threatens his control. Conservative viewers should find the central thesis deeply relatable. A genius is embraced by a movement, celebrated when he produces what they want, and attacked when he follows his own vision. Replace 'folk music' with any contemporary cultural institution and the dynamics are identical. One of the most quietly anti-groupthink films in recent memory.",
       "parentalGuidance": "Ages 13+ -- R (brief language, smoking, some sensuality):\n- Moderate language throughout, consistent with the era and setting\n- Romantic and sexual situations handled with restraint. Dylan's relationships with Sylvie and Joan overlap; the film doesn't glorify infidelity but doesn't condemn it either\n- Heavy smoking and drinking, period-accurate\n- Brief drug references\n- No violence\n\nBest suited for teenagers with an interest in music history or American culture. The film is an excellent conversation starter about artistic integrity, the cost of genius, and whether political movements have the right to claim individual artists. Dylan's story is a useful parable for any young person feeling pressure to conform.\n\nVirtueVigil Editorial Team\nReview Date: February 2026"
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-a-complete-unknown-2-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-a-complete-unknown-2-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-a-complete-unknown-2-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-a-complete-unknown-2-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-a-complete-unknown-2-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-a-complete-unknown-2-06",
+        "name": "PLACEHOLDER-TRAD-6",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ],
     "seo": {
       "titleTag": "Is A Complete Unknown (2024) Woke? | VirtueVigil",
       "metaDescription": "VirtueVigil review of A Complete Unknown (2024). Woke Score 14, Traditional Score 16. Verdict: MIXED. James Mangold's Dylan biopic is secretly a film about the dangers of ideological conformity.",
@@ -163745,7 +164468,128 @@
       "adultInsight": "Wuthering Heights is genuinely worth seeing if you know what you're walking into. Robbie gives one of the performances of her career. Elordi grows into Heathcliff in ways that earn the film's final act. Linus Sandgren's cinematography is stunning. The tragedy, when Fennell stops intervening in it, is powerful. The practical question for conservative adults: the film is not anti-conservative in a political sense - no lectures, no diversity speeches. The politics are embedded in aesthetic choices - what Fennell adds to Brontë's story and what those additions communicate about female sexuality. A viewer who doesn't engage with those layers can watch the surface film (doomed love, beautiful photography, tragic ending) and find it worthwhile. A viewer paying closer attention will see the machine running underneath it.",
       "parentalGuidance": "Ages 17+ - Hard R:\n- Sexual Content: HIGH - masturbation sequence; BDSM barn scene; explicit Isabella/Heathcliff degradation relationship (consensual, graphically framed); opening scene depicts a hanged man with visible sexual response\n- Violence: Moderate - public hanging; whipping scene (Heathcliff as a child, scarring shown); Cathy's final illness depicted with physical deterioration\n- Language: Mild - period insults, no modern profanity\n- Substance Use: Moderate - Mr. Earnshaw's alcoholism is a key plot driver\n- Scary/Intense: Moderate - Gothic atmosphere; child abuse; death of a main character\n\nThe Brontë name and period setting will give parents false confidence. This is not the 1939 Olivier version. This is not the 1992 Fiennes version. This is Emerald Fennell's Wuthering Heights, which is a substantially different product. Read content warnings above carefully.\n\nNot appropriate for children, young teenagers, or anyone expecting a traditional literary adaptation appropriate for school reading.\n\nVirtueVigil Editorial Team\nReview Date: February 2026"
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-wuthering-heights-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-wuthering-heights-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-wuthering-heights-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-wuthering-heights-04",
+        "name": "PLACEHOLDER-WOKE-4",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-wuthering-heights-05",
+        "name": "PLACEHOLDER-WOKE-5",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-wuthering-heights-06",
+        "name": "PLACEHOLDER-WOKE-6",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-wuthering-heights-07",
+        "name": "PLACEHOLDER-WOKE-7",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-wuthering-heights-08",
+        "name": "PLACEHOLDER-TRAD-8",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-wuthering-heights-09",
+        "name": "PLACEHOLDER-TRAD-9",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-wuthering-heights-10",
+        "name": "PLACEHOLDER-TRAD-10",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-wuthering-heights-11",
+        "name": "PLACEHOLDER-TRAD-11",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-wuthering-heights-12",
+        "name": "PLACEHOLDER-TRAD-12",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ],
     "seo": {
       "titleTag": "Is Wuthering Heights (2026) Woke? | VirtueVigil Review",
       "metaDescription": "VirtueVigil review of Wuthering Heights (2026) directed by Emerald Fennell. Woke Score 36, Traditional Score 26. WOKE TRAP - explicit content not in Brontë's source.",
@@ -167127,7 +167971,78 @@
       "adultInsight": "Moana 2 crossed one billion dollars worldwide. The film works as family entertainment. It is gorgeous to look at and Dwayne Johnson remains enormously charming as Maui. Conservative parents will find the community-and-duty themes genuinely resonant. The film is not about Moana's personal liberation or self-actualization. It is about fulfilling responsibility to her people because that is what leaders do.",
       "parentalGuidance": "Ages 5+ -- PG:\n- Mild peril in ocean sequences; some intense storm and monster scenes\n- No sexual content, minimal language concerns\n- Maui's imprisonment and Nalo's threat may be intense for very young viewers\n- Environmentalist themes are organic to the mythology, not preachy\n- Death of ancestors referenced but handled with cultural reverence\n\nOne of the safest major theatrical releases for young children in recent memory. Take the family.\n\nVirtueVigil Editorial Team\nReview Date: February 2026"
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-moana-2-2024-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-moana-2-2024-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-moana-2-2024-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-moana-2-2024-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-moana-2-2024-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-moana-2-2024-06",
+        "name": "PLACEHOLDER-TRAD-6",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-moana-2-2024-07",
+        "name": "PLACEHOLDER-TRAD-7",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ],
     "seo": {
       "titleTag": "Is Moana 2 (2024) Woke? | VirtueVigil",
       "metaDescription": "VirtueVigil review of Moana 2 (2024). Woke Score 13, Traditional Score 17. Verdict: MIXED -- safe for families.",
@@ -173333,7 +174248,178 @@
       "adultInsight": "If you're a hockey fan drawn in by the sport, know what you're paying for. Youngblood is not a simple crowd-pleasing underdog story in the mold of Miracle or Mystery, Alaska. It is a politically intentional reimagining designed to insert racial identity into a sport's cultural mythology. That doesn't make it unwatchable - the father-son dynamic, Blair Underwood's evident gravitas, and Ashton James's praised performance may well produce genuine emotional moments. But the film was conceived as a corrective, not a celebration.\n\nThe original Youngblood (1986) was a straightforward teenage sports romance. This version shares a title and a character name, but it wears a different mission. Watch accordingly.",
       "parentalGuidance": "- Rating: PG (British Columbia Film Classification)\n- Content: Sports violence (hockey fights), emotional conflict, family tension, likely themes of racial prejudice\n- Appropriate for: Families with older children (10+) likely appropriate for the sports content; parents should be aware of racial themes\n- Language: Likely mild per PG rating\n\n- VirtueVigil Editorial Team\n\n<!-- Mercedes-corrected: 2026-02-18 -->"
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-youngblood-2026-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-youngblood-2026-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-youngblood-2026-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-youngblood-2026-04",
+        "name": "PLACEHOLDER-WOKE-4",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-youngblood-2026-05",
+        "name": "PLACEHOLDER-WOKE-5",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-youngblood-2026-06",
+        "name": "PLACEHOLDER-WOKE-6",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-youngblood-2026-07",
+        "name": "PLACEHOLDER-WOKE-7",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-youngblood-2026-08",
+        "name": "PLACEHOLDER-WOKE-8",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-09",
+        "name": "PLACEHOLDER-TRAD-9",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-10",
+        "name": "PLACEHOLDER-TRAD-10",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-11",
+        "name": "PLACEHOLDER-TRAD-11",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-12",
+        "name": "PLACEHOLDER-TRAD-12",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-13",
+        "name": "PLACEHOLDER-TRAD-13",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-14",
+        "name": "PLACEHOLDER-TRAD-14",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-15",
+        "name": "PLACEHOLDER-TRAD-15",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-16",
+        "name": "PLACEHOLDER-TRAD-16",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-youngblood-2026-17",
+        "name": "PLACEHOLDER-TRAD-17",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ],
     "seo": {
       "titleTag": "Is Youngblood (2026) Woke? Pre-Release Preview | VirtueVigil",
       "metaDescription": "VirtueVigil pre-release preview of Youngblood (2026). Woke Score 48, Traditional Score 52.",
@@ -176213,7 +177299,58 @@
       "adultInsight": "The film is deeply enjoyable - Powell delivers one of his most controlled, layered performances, shedding the golden-boy charm just enough to let menace breathe underneath. Margaret Qualley is used too sparingly but lands every scene she's given. Ed Harris as the patriarch is brief and magnetic. The film's class politics will read to some viewers as sharp satire and to others as wishful thinking for economic grievance. Either way, it's not preaching. The film trusts you to draw your own moral conclusions - a rarer quality than it should be.\n\nThe body count is high. The comedy is dark. The ending earns its ambiguity.",
       "parentalGuidance": "Ages 17+ - Hard R:\n- Multiple murders played for dark comedy; some violence onscreen\n- Adult language throughout\n- Sexual content: moderate (non-explicit romantic scenes)\n- Sustained anti-institutional and anti-wealth messaging that older teens may absorb uncritically\n- Strong performances may glamorize criminal behavior - Ford deliberately makes Becket sympathetic\n\nNot appropriate for children or young teens. Adults with conservative economic views should brace for the premise while recognizing the film doesn't moralize about it.\n\nVirtueVigil Editorial Team  \nReview Date: February 2026"
     },
-    "tropeAudit": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-how-to-make-a-killin-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-how-to-make-a-killin-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-how-to-make-a-killin-03",
+        "name": "PLACEHOLDER-TRAD-3",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-how-to-make-a-killin-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-how-to-make-a-killin-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ],
     "seo": {
       "titleTag": "Is How to Make a Killing (2026) Woke? | VirtueVigil",
       "metaDescription": "VirtueVigil review of How to Make a Killing (2026). Woke Score 9, Traditional Score 14.",
@@ -185594,7 +186731,59 @@
         "description": "The Bueller parents are present, loving, and functional. They are not the problem - they are just easily deceived by a charming son. Ferris is not rebelling against his family; he is taking a day off from school, not from his life. His closing line about his sister Jeanie shows genuine sibling affection. The family unit is treated as normal and healthy, which is notable for an 80s teen film."
       }
     ],
-    "spoiler_alert": false
+    "spoiler_alert": false,
+    "tropeAudit": [
+      {
+        "id": "TRAD-ferris-buellers-day--01",
+        "name": "PLACEHOLDER-TRAD-1",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-ferris-buellers-day--02",
+        "name": "PLACEHOLDER-TRAD-2",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-ferris-buellers-day--03",
+        "name": "PLACEHOLDER-TRAD-3",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-ferris-buellers-day--04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-ferris-buellers-day--05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "the-last-of-us-2023",
@@ -187071,7 +188260,59 @@
         "description": "Teddy and Natalie both exploit Leonard's condition for their own ends. Natalie in particular weaponizes his disability to get him to do her bidding. A generous progressive reading might frame this as a commentary on how systems exploit the vulnerable, but the film is not that interested in systemic analysis. The exploitation is personal, not structural."
       }
     ],
-    "tags": []
+    "tags": [],
+    "tropeAudit": [
+      {
+        "id": "WOKE-memento-2000-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.8,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-memento-2000-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-memento-2000-03",
+        "name": "PLACEHOLDER-TRAD-3",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-memento-2000-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-memento-2000-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "mayday-2026",
@@ -187441,61 +188682,58 @@
       "adultInsight": "American Psycho rewards rewatching more than most films. The first viewing is a visceral experience: Bale's performance is so committed, so physically precise, that you spend most of the runtime trying to figure out if you are allowed to laugh. On subsequent viewings, with the shock absorbed, the film reveals itself as a meticulous character study and a genuinely funny dark comedy. Bale's Bateman is a man who has studied human behavior without ever understanding it. His conversations are recitations of magazine articles and restaurant reviews. His relationships are transactions. His violence is the only thing that makes him feel anything, and even that is becoming routine.\n\nBale plays this with a physical commitment that borders on method-actor insanity: the way his jaw tightens when someone has a better business card, the way his eyes go dead during sex, the way he runs, naked and sweaty and screaming, through his apartment building. It is one of the great American film performances, and it is hard to imagine anyone else in the role. Willem Dafoe, as the detective Kimball investigating Paul Allen's disappearance, plays his scenes with Harron's cleverest directorial choice: she told Dafoe to play some takes as if Kimball knows Bateman is guilty, some as if he suspects nothing, and some as if he is not sure. The editor then cut between takes, making Kimball's intentions genuinely unknowable. The result is a character who feels like a threat even when he is asking polite questions.\n\nChloe Sevigny, as Bateman's secretary Jean, gives the film's most human performance. Jean is the only person in Bateman's orbit who seems to see him as a person rather than a status symbol, and Sevigny plays her with a vulnerability that makes the film's darkest scene -- Bateman nearly killing her, then stopping -- genuinely moving. Reese Witherspoon, in a small role as Bateman's fiancee Evelyn, plays vapid perfection with comic precision. Her scene planning a wedding while Bateman stares through her like she is made of glass is a miniature masterpiece of obliviousness.\n\nThe film's use of music is legendary for good reason. Bateman's monologues about Huey Lewis, Phil Collins, and Whitney Houston are simultaneously accurate music criticism and chilling preludes to violence. John Cale's score, all droning strings and ambient dread, provides the psychological undercurrent that Bale's performance rides. The production design -- all white apartments and gleaming surfaces -- creates a world where nothing feels real because nothing is real. That is the film's thesis, and every formal choice reinforces it. Is American Psycho a conservative film? No. Is it a woke film? Also no. It is a film made by talented people who had something to say about the culture they lived in, and who said it through character and craft rather than through lecture.",
       "parentalGuidance": "Rated R for strong violence, sexuality, drug use, and language. This is a hard R. The violence includes multiple murders with weapons (axe, chainsaw, knife, gun), some depicted with graphic detail. A chainsaw chase through an apartment building is particularly intense. Sexual content includes multiple scenes of sex and nudity, some intertwined with violence. Drug use (cocaine) is frequent and depicted casually. Language is extremely strong throughout. The film's subject matter -- a serial killer who targets women -- is inherently disturbing. Not suitable for anyone under 17. Even for adults, the film should be understood as a satire, not a thriller to be enjoyed uncritically. Parents considering watching with older teens (17+) should be prepared for a conversation about the difference between depicting evil and endorsing it. The film does not endorse Bateman's violence; it condemns it through every formal and narrative choice. But the condemnation is artistic, not explicit, and younger viewers may need help articulating what they are seeing."
     },
-    "tropeAudit": {
-      "woke": [
-        {
-          "trope": "The Toxic Masculinity Critique",
-          "id": "WOKE-011",
-          "category": "WOKE",
-          "location": "Throughout. The film critiques male vanity, violence, and emotional repression. However, Harron's critique is specific rather than universal: she diagnoses a cultural pathology, not masculinity per se. The film distinguishes between Bateman's monstrousness and ordinary male characters like Kimball.",
-          "authenticity": "Natural"
-        },
-        {
-          "trope": "The Evil Capitalist",
-          "id": "WOKE-014",
-          "category": "WOKE",
-          "location": "Throughout. Wall Street is portrayed as a vacuum of meaning where wealth, status, and appearance are the only values. But the critique is of consumerism and emptiness, not capitalism as an economic system. Bateman is not evil because he is a capitalist; he is evil because he is empty.",
-          "authenticity": "Natural"
-        }
-      ],
-      "traditional": [
-        {
-          "trope": "Objective Good vs. Evil",
-          "id": "TRADITIONAL-039",
-          "category": "TRAD",
-          "location": "Throughout. Bateman is unambiguously evil. The film never wavers, never complicates his villainy, never suggests his actions might be justified by systemic forces. He kills because he wants to. This clarity is rare in contemporary cinema.",
-          "authenticity": "Natural"
-        },
-        {
-          "trope": "The Redemptive Arcs (Personal)",
-          "id": "TRADITIONAL-027",
-          "category": "TRAD",
-          "location": "The Jean scene (third act). Bateman's secretary Jean represents genuine goodness, and when he has the opportunity to kill her, he stops himself. He does not understand why, but the film suggests Jean's authentic humanity touches something in him that his superficial world cannot reach.",
-          "authenticity": "Natural"
-        },
-        {
-          "trope": "The Principled Patriarch",
-          "id": "TRADITIONAL-029",
-          "category": "TRAD",
-          "location": "Absent in Bateman but present by inversion. The film shows what happens when male authority is stripped of all principle. Bateman is a patriarch without principles, and the result is monstrosity. The film's horror depends on the audience understanding what a principled patriarch would look like by showing the absence of one.",
-          "authenticity": "Natural"
-        },
-        {
-          "trope": "Biblical Morality",
-          "id": "TRADITIONAL-030",
-          "category": "TRAD",
-          "location": "The film's moral universe is Judeo-Christian in structure. Murder is a sin. Vanity is a sin. Greed is a sin. Bateman commits all of them and is damned by the narrative. The film judges him. The audience is meant to judge him.",
-          "authenticity": "Natural"
-        },
-        {
-          "trope": "Justice Restored",
-          "id": "TRADITIONAL-047",
-          "category": "TRAD",
-          "location": "The ending is legally ambiguous but morally clear: Bateman is trapped in a hell of his own making. His confession goes unheard. His crimes go unpunished. But he is not free -- he is condemned to continue being himself, which the film frames as a fate worse than prison.",
-          "authenticity": "Natural"
-        }
-      ]
-    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-american-psycho-2000-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-american-psycho-2000-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-american-psycho-2000-03",
+        "name": "PLACEHOLDER-TRAD-3",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-american-psycho-2000-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-american-psycho-2000-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ],
     "trope_analysis": {}
   },
   {
@@ -188771,7 +190009,79 @@
       "wokeElements": "The class-warfare framing is impossible to ignore. The film draws a bright line between virtuous peasants and villainous nobles in a way that maps cleanly onto modern progressive rhetoric about economic inequality. The state is portrayed as irredeemably predatory, with the genital-inspection scene serving as a blunt instrument to establish the regime's cruelty. The Church's complicity in oppression could be read as an anti-religious argument, though the film complicates this by making the rebel priest a figure of genuine moral authority. The Robin Hood pivot at the end frames wealth redistribution as heroic, which will please progressive audiences and annoy anyone who prefers their folk heroes apolitical. But these elements are embedded in a narrative structure that is fundamentally traditional: individual agency, reluctant violence, faith as a genuine moral force, and a deep suspicion of concentrated power regardless of its ideological justification.",
       "parentalGuidance": "Rated R for medieval battlefield violence including sword fighting, beheadings, and mass slaughter. The genital inspection scene is disturbing but not graphic. Brief nudity. Strong language is minimal given the period setting. The film's violence is brutal and matter-of-fact in the Greengrass style, not stylized or glorified. Not appropriate for children under 15. Parents should know the film takes a sympathetic view of violent rebellion against unjust authority, which may prompt conversations about when resistance is justified. The historical content is educational but grim.",
       "adultInsight": "The Uprising poses a question that will make everyone uncomfortable: when the state becomes predatory, is violence justified? The film's answer is a qualified yes, and it earns that qualification by showing exactly what state predation looks like: taxing the dead, humiliating young women, crushing families who have already lost everything. The film does not endorse revolution as a political program. It endorses resistance as a human response to inhumanity. The Robin Hood ending is the film's most subversive move: it suggests that the hero is not the one who wins the battle but the one who refuses to stop fighting after losing it. Greengrass has made a film that will be claimed by both the populist right and the progressive left, and the fact that it resists easy categorization is probably the point."
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-the-uprising-2026-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 4.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-the-uprising-2026-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-the-uprising-2026-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-the-uprising-2026-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-the-uprising-2026-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-the-uprising-2026-06",
+        "name": "PLACEHOLDER-TRAD-6",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-the-uprising-2026-07",
+        "name": "PLACEHOLDER-TRAD-7",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "dead-poets-society-1989",
@@ -189022,7 +190332,79 @@
       "wokeElements": "The film's anti-institutional stance is its most visible political feature. Welton Academy is a monument to conformity, and the film systematically dismantles its pretensions. Keating's 'carpe diem' philosophy maps onto modern progressive individualism more comfortably than it maps onto any traditional framework. The film sides with the individual against the institution in every conflict, and while it shows the costs of this stance, it never repudiates it. Neil's suicide, read through a progressive lens, is an indictment of patriarchal parenting and the suppression of artistic identity. The film's elevation of self-expression over duty, passion over discipline, and poetry over pragmatism aligns with a worldview that prioritizes personal fulfillment over social obligation. But the film complicates every one of these readings by showing what happens when they are pursued without restraint, and its refusal to supply a clean moral makes it more honest than most films on either side of the culture war.",
       "parentalGuidance": "Rated PG but heavier than the rating suggests. Neil's suicide is depicted off-screen but is emotionally devastating and may be difficult for younger viewers. The film deals frankly with parental conflict, academic pressure, and the consequences of defiance. Brief language and mild romantic content. The thematic content is sophisticated and will resonate most with teenagers who have experienced academic pressure or conflict with parents. Parents should be prepared to discuss suicide, particularly given the film's nuanced treatment that does not offer easy answers about blame. The film could be valuable viewing for families willing to have those conversations, but it should not be treated as light entertainment.",
       "adultInsight": "The most adult thing about Dead Poets Society is what it refuses to resolve. The film has been argued over for decades because it does not tell you whose fault Neil's death is. Mr. Perry's authoritarian parenting? Neil's inability to confront his father? Keating's philosophy, which gave Neil the courage to defy his father but no tools to survive the consequences? The school's rigid institutional culture? All of them. The film distributes blame across every character and institution, and its wisdom is that there is no single answer. Keating is right that poetry matters, but he is also wrong that passion is enough to survive on. Mr. Perry is wrong to crush his son's dreams, but he is also right that dreams do not pay bills. The film is not about choosing between tradition and individuality. It is about the impossibility of choosing, and the tragedy that results when the choice is forced."
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-dead-poets-society-1-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-dead-poets-society-1-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-dead-poets-society-1-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 3.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-dead-poets-society-1-04",
+        "name": "PLACEHOLDER-TRAD-4",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-dead-poets-society-1-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-dead-poets-society-1-06",
+        "name": "PLACEHOLDER-TRAD-6",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-dead-poets-society-1-07",
+        "name": "PLACEHOLDER-TRAD-7",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Low",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "brokeback-mountain-2005",
@@ -189273,7 +190655,89 @@
       "wokeElements": "The film's progressive content is impossible to ignore because it is the film's entire premise. Brokeback Mountain takes a same-sex relationship and gives it the full Hollywood prestige treatment: sweeping western landscapes, an Oscar-winning score, and a tragic love story that asks the audience to weep for two men who cannot be together because society will not let them. The normalization project is aesthetic, not didactic: the film argues by showing that gay love is as beautiful and as tragic as straight love. Ennis's masculinity is deconstructed not through mockery but through expansion, showing that a cowboy can contain tenderness, longing, and love for another man without ceasing to be a cowboy. The heterosexual marriages are portrayed as hollow performances that trap the characters in lives they did not choose. The film extends profound sympathy to its leads and frames their suffering as the product of social intolerance. These are progressive arguments, executed with the full force of classical Hollywood cinema. They are also inseparable from the film's artistic achievement, which is why assigning Brokeback Mountain a simple ideological label feels inadequate.",
       "parentalGuidance": "Rated R for sexual content including a brief but explicit sex scene, nudity, and strong thematic material. The sexual content is not pornographic but is frank. Language is period-appropriate and includes homophobic slurs. The film deals with adult themes including infidelity, divorce, and homophobic violence including an implied hate crime murder. The emotional content is heavy and the ending is devastating. Not appropriate for children or young teens. Older teenagers (16+) may find value in the film's treatment of love, loss, and the cost of living inauthentically, but parents should be aware that the film treats a same-sex relationship with full dramatic legitimacy. Parents who object to that framing on moral grounds should know that the film's emotional power makes it unusually persuasive. The film is likely to prompt conversations about sexuality, marriage, and social tolerance that parents may or may not want to have with their teenagers.",
       "adultInsight": "Brokeback Mountain is a film about what happens when you cannot say what you mean. Ennis Del Mar's entire life is a failure of communication. He cannot tell Jack he loves him. He cannot tell Alma the truth. He cannot even tell himself what he is. The film's great insight is not about homosexuality but about inarticulacy: the tragedy of a man who feels everything and can express nothing. Heath Ledger's performance is built on this insight. Every mumbled line, every averted glance, every explosive burst of violence is the language of a man who was never taught to speak. The film is devastating because it shows what that costs: a life half-lived, a love never fully claimed, and a future that could have been different if either man had possessed the words to make it so. Brokeback Mountain endures not because it is a political film but because it is a human one, and the boundary between those two categories is the space where the best art lives."
-    }
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-brokeback-mountain-2-01",
+        "name": "PLACEHOLDER-WOKE-1",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-brokeback-mountain-2-02",
+        "name": "PLACEHOLDER-WOKE-2",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-brokeback-mountain-2-03",
+        "name": "PLACEHOLDER-WOKE-3",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "WOKE-brokeback-mountain-2-04",
+        "name": "PLACEHOLDER-WOKE-4",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's woke trope]"
+      },
+      {
+        "id": "TRAD-brokeback-mountain-2-05",
+        "name": "PLACEHOLDER-TRAD-5",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-brokeback-mountain-2-06",
+        "name": "PLACEHOLDER-TRAD-6",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-brokeback-mountain-2-07",
+        "name": "PLACEHOLDER-TRAD-7",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 3.6,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      },
+      {
+        "id": "TRAD-brokeback-mountain-2-08",
+        "name": "PLACEHOLDER-TRAD-8",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 2.5,
+        "explanation": "[PLACEHOLDER — fill with 2-4 sentence explanation for this film's traditional trope]"
+      }
+    ]
   },
   {
     "id": "fall-2-deadpoint-2026",
