@@ -2422,6 +2422,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/hulu-originals-woke-ranking-2026/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-movies-of-2026/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2025/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/highest-woke-scores-all-time/`, changefreq: 'monthly', priority: '0.8' },
@@ -3564,6 +3565,7 @@ function buildListsHubPage() {
         'most-woke-movies-2025',
         'most-woke-movies-2026',
         'most-woke-movies-2026-parents-should-know',
+        'most-woke-movies-of-2026',
         'most-woke-movies-decade',
         'disappointing-woke-movies-2025'
       ]
@@ -3669,6 +3671,7 @@ function buildListsHubPage() {
         'most-woke-drama-movies-all-time',
         'most-woke-horror-movies-parents-should-know',
         'most-woke-movies-2026-parents-should-know',
+        'most-woke-movies-of-2026',
         'best-traditional-horror-movies-ranked',
         'best-traditional-thriller-movies-ranked-all-time',
         'best-traditional-comedy-movies-all-time',
@@ -3814,6 +3817,7 @@ function buildListsHubPage() {
       'most-woke-movies-2026-midyear': '15 Most Woke Movies of 2026 (Mid-Year Update)',
       'most-woke-movies-2026-parents-should-know': 'The 20 Most Woke Movies of 2026 Parents Should Know About',
       'most-woke-movies-of-2026-so-far': 'The 20 Most Woke Movies of 2026 (So Far)',
+      'most-woke-movies-of-2026': 'Most Woke Movies of 2026: The 22 Films Parents Need to Know',
       'most-woke-movies-of-the-2020s': 'The 25 Most Woke Movies of the 2020s, Ranked by VirtueVigil',
       'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About',
       'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
@@ -9571,6 +9575,15 @@ function build() {
     canonicalPath: 'lists/most-woke-movies-2026-parents-should-know',
     publishDate: '2026-08-22',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-2026-parents-should-know/content.html'), 'utf-8'),
+  }));
+
+  writePage('lists/most-woke-movies-of-2026/index.html', buildListiclePage({
+    slug: 'most-woke-movies-of-2026',
+    title: 'Most Woke Movies of 2026: The 22 Films Parents Need to Know',
+    description: 'We ranked the 22 most woke films of 2026 with full scores, verdicts, and context so parents know what is in theaters and on streaming before the kids watch.',
+    canonicalPath: 'lists/most-woke-movies-of-2026',
+    publishDate: '2026-09-11',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-of-2026/content.html'), 'utf-8'),
   }));
 
   writePage('lists/best-traditional-movies-2026/index.html', buildListiclePage({
