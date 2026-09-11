@@ -1,0 +1,122 @@
+{
+  "id": "runner-2026",
+  "slug": "runner-2026",
+  "title": "Is Runner (2026) Woke? | VirtueVigil Review",
+  "year": 2026,
+  "type": "movie",
+  "platform": "Theaters",
+  "genre": "Action, Thriller",
+  "date": "2026-09-11",
+  "datePublished": "2026-09-11",
+  "author": "VirtueVigil Editorial Team",
+  "readTime": "5 min read",
+  "poster": "/images/posters/runner-2026.jpg",
+  "releaseDate": "2026-09-11",
+  "rating": "R",
+  "runtime": "97 min",
+  "director": "Scott Waugh",
+  "writers": ["Miles Hubley", "Tommy White"],
+  "cast": ["Alan Ritchson", "Owen Wilson", "Leila George", "Rodrigo Santoro"],
+  "studio": "N/A",
+  "distributor": "N/A",
+  "verdict": "TRADITIONAL LEAN",
+  "wokeScore": 2.5,
+  "tradScore": 7.5,
+  "authIndex": "Low",
+  "scoreMargin": "+5 TRAD",
+  "preRelease": false,
+  "wokeTrap": false,
+  "woke_trap_assessment": {
+    "is_trap": false,
+    "pct_runtime": 0,
+    "explanation": "Runner is not a woke trap. The film's premise is established immediately: a high-end courier has three hours to transport a liver. There is no hidden ideological content, no bait-and-switch reveal. The stakes are survival and completion of a task, not social commentary. Nothing in the film's structure conceals a progressive agenda."
+  },
+  "seo": {
+    "titleTag": "Is Runner (2026) Woke? Alan Ritchson & Owen Wilson Action Thriller Scored | VirtueVigil",
+    "metaDescription": "VirtueVigil's full VVWS review of Runner (2026). Alan Ritchson and Owen Wilson star as unlikely partners racing a cartel to deliver a transplant. Trope scores, verdict: TRADITIONAL LEAN (+5 TRAD). Parental guidance included.",
+    "keywords": "is runner woke, runner 2026 review, runner alan ritchson owen wilson, runner virtuevigil, runner traditional or woke, runner parents guide, runner scott waugh"
+  },
+  "externalScores": {
+    "imdb": "N/A",
+    "rottenTomatoes": "N/A",
+    "metacritic": "N/A"
+  },
+  "creative_team": {
+    "director": "Scott Waugh",
+    "writer": "Miles Hubley, Tommy White",
+    "top_cast": [
+      "Alan Ritchson as the courier",
+      "Owen Wilson as his unlikely partner",
+      "Leila George",
+      "Rodrigo Santoro"
+    ],
+    "full_cast": ["Alan Ritchson", "Owen Wilson", "Leila George", "Rodrigo Santoro"],
+    "producers": [],
+    "composer": ""
+  },
+  "parentalGuidance": {
+    "violence": "Moderate to strong. Action violence throughout including car chases, gunfire, and hand-to-hand combat. Cartel-related violence is depicted but not gratuitous.",
+    "language": "Moderate. Expected profanity for an R-rated action thriller.",
+    "sexualContent": "Minimal to none. The film focuses on the kinetic task of the delivery.",
+    "drugsAlcohol": "Cartel-adjacent drug references in context.",
+    "intenseScenes": "Sustained tension throughout the three-hour countdown framework. Life-or-death stakes involving a child patient create emotional urgency.",
+    "ageRecommendation": "14+. The R rating likely reflects action violence rather than extreme content. Parents should preview for younger teens, but the core mission (saving a child's life) is wholesome in framing."
+  },
+  "spoiler_alert": false,
+  "summary": {
+    "overall": "Runner is a lean, unpretentious action thriller that sets a timer and goes. Alan Ritchson plays a former soldier turned high-end courier, and Owen Wilson is his unlikely partner. They have three hours to transport a liver from Brisbane to the Gold Coast for a little girl who needs it. Standing in their way: a ruthless cartel that wants them dead. That is the movie. Director Scott Waugh (Need for Speed, Act of Valor) does not pretend it is anything else. The film earns its appeal through clean action choreography and a genuinely likeable odd-couple dynamic between Ritchson's stoic competence and Wilson's offbeat charm. There is no ideological messaging, no deconstruction of masculinity, no race-swapped legacy characters, and no finger-wagging about carbon footprints. The mission is what it says on the tin: save the kid. The traditional values here are quiet but clear: competence is admirable, sacrifice for a child is noble, and men who put their bodies on the line to protect the innocent are not the problem. Runner knows what it is and does not apologize for it. That alone makes it a TRADITIONAL LEAN in an industry that pathologizes exactly this kind of film.",
+    "adultInsight": "The most interesting ideological signal in Runner is what it does not do. A version of this film made by a different creative team would have given the female character a speech about how the men are emotionally stunted, or added a subplot about the cartel being a metaphor for American foreign policy, or made the liver recipient a diversity-statistic composite. Runner does none of that. The little girl who needs the liver is just a little girl who needs a liver. The cartel is just a cartel. The clock is just a clock. This refusal to burden a 97-minute chase movie with social messaging is not a political statement. It is a return to craft. And in 2026, that feels almost radical."
+  },
+  "tropeAudit": [
+    {
+      "id": "TRAD-RUNNER-001",
+      "name": "Male competence as narrative engine",
+      "category": "Traditional",
+      "severity": 3,
+      "authenticity": "Moderate",
+      "centrality": "High",
+      "weightedScore": 3.0,
+      "explanation": "Both male leads are defined by competence under pressure. Ritchson's soldier-turned-courier background is treated as an asset, not a pathology. There is no ironic undercutting of his skills, no lecture about toxic masculinity. The film trusts that watching capable men solve problems is entertaining enough."
+    },
+    {
+      "id": "TRAD-RUNNER-002",
+      "name": "Child's life as highest stake",
+      "category": "Traditional",
+      "severity": 4,
+      "authenticity": "Moderate",
+      "centrality": "High",
+      "weightedScore": 4.0,
+      "explanation": "The entire film is propelled by the need to save a little girl. This is the most traditional story engine there is: the strong protect the weak, the adult sacrifices for the child. The film does not deconstruct this dynamic or frame it as patriarchal. It simply assumes that saving a child's life justifies extraordinary risk."
+    },
+    {
+      "id": "TRAD-RUNNER-003",
+      "name": "Odd-couple partnership without identity politics",
+      "category": "Traditional",
+      "severity": 2,
+      "authenticity": "Moderate",
+      "centrality": "Moderate",
+      "weightedScore": 1.0,
+      "explanation": "Ritchson and Wilson's characters are paired by circumstance, not by committee diversity mandate. Their friction is personality-based, not identity-based. The film does not ask us to think about their demographic differences. It just asks us to enjoy watching them bicker and cooperate."
+    },
+    {
+      "id": "WOKE-RUNNER-001",
+      "name": "Cartel as one-dimensional villain",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "Low",
+      "centrality": "Low",
+      "weightedScore": 0.25,
+      "explanation": "The cartel antagonists are functional obstacles rather than textured characters. This is a structural requirement of the genre rather than ideological laziness. The film spends zero time humanizing criminals, which some critics might call a missed opportunity. We call it knowing what kind of movie you are making."
+    },
+    {
+      "id": "WOKE-RUNNER-002",
+      "name": "Minimal female agency outside the victim role",
+      "category": "Woke",
+      "severity": 1,
+      "authenticity": "Low",
+      "centrality": "Low",
+      "weightedScore": 0.25,
+      "explanation": "The rescued child is female and passive by necessity of the premise. The female characters exist primarily as stakes rather than agents. This is a function of the film's laser focus on its two male leads, not an ideological choice. A longer runtime or a different genre might flag this differently."
+    }
+  ]
+}

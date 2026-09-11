@@ -1,5 +1,41 @@
 [
   {
+    "slug": "runner-2026",
+    "title": "Is Runner (2026) Woke? | VirtueVigil Review",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theaters",
+    "genre": "Action, Thriller",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 2.5,
+    "tradScore": 7.5,
+    "poster": "/images/posters/runner-2026.jpg"
+  },
+  {
+    "slug": "star-trek-2009",
+    "title": "Is Star Trek (2009) Woke? | VirtueVigil Review",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Paramount+ / Digital Rental",
+    "genre": "Sci-Fi, Action, Adventure",
+    "year": 2009,
+    "type": "movie",
+    "wokeScore": 7.2,
+    "tradScore": 14.4,
+    "poster": "/images/posters/star-trek-2009.jpg"
+  },
+  {
+    "slug": "she-hulk-2022",
+    "title": "Is She-Hulk: Attorney at Law (2022) Woke? | VirtueVigil Review",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Disney+",
+    "genre": "Superhero, Legal Comedy, Sci-Fi",
+    "year": 2022,
+    "type": "series",
+    "wokeScore": 21,
+    "tradScore": 4.2,
+    "poster": "/images/posters/she-hulk-2022.jpg"
+  },
+  {
     "slug": "idiots-2026",
     "title": "Is Idiots (2026) Woke? | VirtueVigil Review",
     "verdict": "MIXED",
