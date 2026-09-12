@@ -193261,7 +193261,7 @@
     ],
     "studio": "Alcon Entertainment, Di Novi Pictures, Fortis Films, Blossom Films",
     "distributor": "Warner Bros. Pictures",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "BALANCED TRADITIONAL",
     "wokeScore": 4.48,
     "tradScore": 12.18,
     "authIndex": "High",
@@ -193401,7 +193401,11 @@
         "weightedScore": 0.7,
         "description": "The Owens family curse -- any man who loves an Owens woman dies -- functions structurally as punishment for romantic attachment. However, the film treats the curse as a tragedy to be overcome, not a liberation from male oppression. The sisters actively want and pursue love; the curse is the antagonist, not domesticity."
       }
-    ]
+    ],
+    "verdict_headline": "",
+    "summary_overall": "",
+    "review_summary": "",
+    "meta_description": ""
   },
   {
     "id": "VV-AMERICAN-BEAUTY-1999",
@@ -193435,7 +193439,7 @@
     ],
     "studio": "DreamWorks Pictures, Jinks/Cohen Company",
     "distributor": "DreamWorks Distribution",
-    "verdict": "WOKE",
+    "verdict": "BALANCED WOKE",
     "wokeScore": 21.12,
     "tradScore": 9.8,
     "authIndex": "Moderate",
@@ -193598,7 +193602,11 @@
         "weightedScore": 1.4,
         "description": "In his final moments, Lester sees his life with clarity and grace rather than bitterness. His narration forgives Carolyn, understands Jane, and finds compassion even for his killer. This is a genuine expression of Christian forgiveness, arriving at the story's climax."
       }
-    ]
+    ],
+    "verdict_headline": "",
+    "summary_overall": "",
+    "review_summary": "",
+    "meta_description": ""
   },
   {
     "id": "VV-TWILIGHT-ZONE-1959",
