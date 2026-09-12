@@ -12,6 +12,30 @@
     "poster": "/images/posters/practical-magic-2-2026.jpg"
   },
   {
+    "slug": "american-beauty-1999",
+    "title": "American Beauty",
+    "verdict": "WOKE",
+    "platform": "Streaming",
+    "genre": "Drama, Dark Comedy",
+    "year": 1999,
+    "type": "film",
+    "wokeScore": 21.12,
+    "tradScore": 9.8,
+    "poster": "/images/posters/american-beauty-1999.jpg"
+  },
+  {
+    "slug": "the-twilight-zone-1959",
+    "title": "The Twilight Zone",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Streaming",
+    "genre": "Anthology, Sci-Fi, Horror, Fantasy",
+    "year": 1959,
+    "type": "series",
+    "wokeScore": 2.87,
+    "tradScore": 23.94,
+    "poster": "/images/posters/the-twilight-zone-1959.jpg"
+  },
+  {
     "slug": "runner-2026",
     "title": "Is Runner (2026) Woke? | VirtueVigil Review",
     "verdict": "TRADITIONAL LEAN",
