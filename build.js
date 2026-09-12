@@ -2399,6 +2399,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/clint-eastwood-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/woke-animated-kids-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-woke-animated-movies-parents/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-animated-movies-of-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/patriotic-war-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/anti-woke-action-movies/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-action-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
@@ -3664,6 +3665,7 @@ function buildListsHubPage() {
         'adventure-movies-2026-woke-ranking',
         'woke-animated-kids-movies',
         'most-woke-animated-movies-parents',
+        'most-woke-animated-movies-of-all-time',
         'most-woke-sci-fi-movies-parents',
         'most-woke-thriller-movies-parents-2025',
         'most-woke-comedy-movies-parents',
@@ -3820,6 +3822,7 @@ function buildListsHubPage() {
       'most-woke-movies-of-2026': 'Most Woke Movies of 2026: The 22 Films Parents Need to Know',
       'most-woke-movies-of-the-2020s': 'The 25 Most Woke Movies of the 2020s, Ranked by VirtueVigil',
       'most-woke-animated-movies-parents': 'The Most Woke Animated Movies Parents Should Know About',
+      'most-woke-animated-movies-of-all-time': 'Most Woke Animated Movies of All Time — 25 Films Ranked by Ideological Content',
       'most-woke-sci-fi-movies-parents': 'Most Woke Sci-Fi Movies Parents Should Know About',
       'most-woke-thriller-movies-parents-2025': 'Most Woke Thriller Movies Parents Should Know About (2025 Edition)',
       'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)',
@@ -33504,6 +33507,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-animated-movies-parents',
     publishDate: '2026-07-01',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-animated-movies-parents/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-animated-movies-of-all-time/index.html');
+  writePage('lists/most-woke-animated-movies-of-all-time/index.html', buildListiclePage({
+    slug: 'most-woke-animated-movies-of-all-time',
+    title: 'Most Woke Animated Movies of All Time — 25 Films Ranked by Ideological Content',
+    description: 'From Zootopia 2 to Toy Story 5, we ranked every animated film in the VirtueVigil database by woke content using the VVWS dual-metric system. Essential reading for parents before the next family movie night.',
+    canonicalPath: 'lists/most-woke-animated-movies-of-all-time',
+    publishDate: '2026-09-12',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-animated-movies-of-all-time/content.html'), 'utf-8')
   }));
 
   console.log('  lists/best-traditional-war-movies/index.html');
