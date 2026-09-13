@@ -2421,6 +2421,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/conservative-sci-fi-movies-2024-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/paramount-plus-woke-ranking/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/hulu-originals-woke-ranking-2026/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/most-woke-tv-series-all-time/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-2026-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-of-2026/`, changefreq: 'monthly', priority: '0.9' },
@@ -3549,6 +3550,7 @@ function buildListsHubPage() {
         'netflix-woke-movies-ranked',
         'paramount-plus-woke-ranking',
         'hulu-originals-woke-ranking-2026',
+        'most-woke-tv-series-all-time',
         'pixar-movies-woke-ranking',
         'wokest-streaming-movies-2025-2026'
       ]
@@ -3725,6 +3727,7 @@ function buildListsHubPage() {
       'apple-tv-originals-ranked-woke-score': 'Apple TV+ Originals Ranked by Woke Score (2026)',
       'amazon-prime-video-originals-ranked-woke-score': 'Every Amazon Prime Video Original Ranked by Woke Score (2026)',
       'hulu-originals-woke-ranking-2026': 'Every Hulu Original Ranked by Woke Score (2026)',
+      'most-woke-tv-series-all-time': 'The 25 Most Woke TV Series of All Time',
       'mcu-movies-ranked-woke-score': 'MCU Movies Ranked by Woke Score',
       'dc-movies-woke-ranking': 'DC Movies Woke Ranking',
       'every-dc-movie-ranked-woke-score': 'Every DC Movie Ranked by Woke Score (2026 Edition)',
@@ -33733,6 +33736,15 @@ The short answer is no.</p>
     canonicalPath: 'lists/hulu-originals-woke-ranking-2026',
     publishDate: '2026-09-09',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/hulu-originals-woke-ranking-2026/content.html'), 'utf-8')
+  }));
+
+  writePage('lists/most-woke-tv-series-all-time/index.html', buildListiclePage({
+    slug: 'most-woke-tv-series-all-time',
+    title: 'The 25 Most Woke TV Series of All Time - Ranked by VVWS Score',
+    description: 'From The Acolyte to Andor, we ranked the 25 most ideologically aggressive TV series. Every score backed by the VVWS dual-metric methodology. Parents, know what your kids are streaming.',
+    canonicalPath: 'lists/most-woke-tv-series-all-time',
+    publishDate: '2026-09-13',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-tv-series-all-time/content.html'), 'utf-8')
   }));
 
 } // close buildSite async wrapper
