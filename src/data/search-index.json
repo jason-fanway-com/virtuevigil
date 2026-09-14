@@ -1,5 +1,41 @@
 [
   {
+    "slug": "hope-2026",
+    "title": "Hope",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters (Neon)",
+    "genre": "Sci-Fi / Action Thriller / Epic",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.75,
+    "tradScore": 15.68,
+    "poster": "/images/posters/hope-2026.jpg"
+  },
+  {
+    "slug": "the-apartment-1960",
+    "title": "The Apartment",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Streaming / DVD / Blu-ray",
+    "genre": "Romantic Comedy-Drama / Satire",
+    "year": 1960,
+    "type": "film",
+    "wokeScore": 1.4,
+    "tradScore": 22.68,
+    "poster": "/images/posters/the-apartment-1960.jpg"
+  },
+  {
+    "slug": "only-murders-in-the-building-2021",
+    "title": "Only Murders in the Building",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Hulu",
+    "genre": "Mystery / Comedy / Crime",
+    "year": 2021,
+    "type": "series",
+    "wokeScore": 2.8,
+    "tradScore": 10.99,
+    "poster": "/images/posters/only-murders-in-the-building-2021.jpg"
+  },
+  {
     "slug": "the-fix-2026",
     "title": "The Fix",
     "verdict": "BALANCED TRADITIONAL",
