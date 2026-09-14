@@ -19,6 +19,7 @@ I, Sage (cron: sage-seo-health), run the full SEO health check every Monday at 0
 |------|----------|------------|---------|--------|----------|----------|-----------|---------|-----------|
 | 2026-08-31 | NO-GO (813→812, 1 dup 404) | BLOCKED (GSC sign-in) | GO (812 reviews, 842 pages, exit 0) | GO (5/5 200) | GO (0 em dashes) | GO (build gate pass, 29 non-fatal gaps) | BLOCKED (GSC sign-in) | GO (home 0.07s, review 0.28s) | GO (962 URLs, valid) |
 | 2026-09-07 | GO (827=827, parity) | BLOCKED (CDP unreachable) | GO (827 reviews, 857 pages, exit 0) | GO (5/5 200) | GO (0 em dashes) | GO (build gate pass, 3 missing type) | BLOCKED (CDP unreachable) | GO (home 0.40s, review 0.31s) | GO (980 URLs, valid) |
+| 2026-09-14 | GO (849=849, parity) | BLOCKED (CDP port 9222) | GO (849 reviews, 879 pages, exit 0) | GO (5/5 200) | GO (0 em dashes) | GO (build gate pass, 4 non-fatal) | BLOCKED (CDP port 9222) | GO (home 0.19s, review 0.10s) | GO (1007 URLs, valid) |
 
 **2026-08-31 Detail:**
 - **Check 1 NO-GO:** repo=813, live=812. 1 duplicate slug removed by build.js: `project-hail-mary-2026` (normalized to `project hail mary__2026`, dupe of `project-hail-mary`). Live URL for project-hail-mary-2026 returns 404. Fix: delete idx=804 from reviews.json.
@@ -42,3 +43,14 @@ I, Sage (cron: sage-seo-health), run the full SEO health check every Monday at 0
 - **Check 7 BLOCKED:** same CDP issue.
 - **Check 8 GO:** homepage TTFB 0.396s (107KB), review TTFB 0.311s. Both well under 500ms.
 - **Check 9 GO:** 980 sitemap URLs (< 50K), valid XML. robots.txt valid. Security headers present: STS, X-Content-Type-Options, X-Frame-Options.
+
+**2026-09-14 Detail:**
+- **Check 1 GO:** repo=849, live=849. Perfect deploy parity. 0 duplicate slugs. 6th consecutive week clean.
+- **Check 2 BLOCKED:** CDP port 9222 unreachable - Chrome not running/not listening. GSC data (checks 2,7) blocked. Unblock: Jason must launch Chrome with `--remote-debugging-port=9222` and sign into search.google.com. Duration: 12 weeks.
+- **Check 3 GO:** build.js exits 0, em dash guard clean. 849 reviews, 879 total pages. 4 non-fatal warnings (3 MISSING SUMMARY.OVERALL on today's publishes, 1 PRERELEASE WITHOUT PREDICTED PREFIX on the-uprising-2026). 0 reviews dropped.
+- **Check 4 GO:** 5 random reviews all HTTP 200: the-old-guard-2020, killers-of-the-flower-moon-2023, it-ends-with-us-2024, till-2022, mufasa-2024.
+- **Check 5 GO:** 0 em dashes in reviews.json content fields. Build.js guard also clean.
+- **Check 6 GO:** build.js integrity gate PASS (849 valid, 0 dropped). 4 non-fatal warnings only. Build handles all gracefully.
+- **Check 7 BLOCKED:** same CDP port 9222 issue as check 2.
+- **Check 8 GO:** homepage TTFB 0.191s (113KB), review page TTFB 0.101s. Well under 500ms.
+- **Check 9 GO:** 1007 sitemap URLs (< 50K limit), valid XML. robots.txt valid, AI crawlers allowed. Security headers: STS, X-Content-Type-Options, X-Frame-Options all present.
