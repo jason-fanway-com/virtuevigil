@@ -2488,6 +2488,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/most-woke-movies-2026-midyear/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-of-2026-so-far/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-movies-of-the-2020s/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/western-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/vigilante-movies-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2016-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/movies-2025-woke-ranking/`, changefreq: 'monthly', priority: '0.9' },
@@ -3618,6 +3619,7 @@ function buildListsHubPage() {
         'best-patriotic-war-movies',
         'best-movies-for-teenagers-non-woke-2026',
         'best-true-story-movies-conservatives',
+        'western-movies-woke-ranking',
         'best-western-movies-conservatives',
         'best-traditional-action-movies',
         'best-traditional-sports-movies',
@@ -3775,6 +3777,7 @@ function buildListsHubPage() {
       'best-movies-to-watch-april-2026': 'Best Movies to Watch in April 2026 (Ranked by Values)',
       'best-movies-about-education-teaching': 'Best Movies About Education and Teaching (Ranked by Values)',
       'best-true-story-movies-conservatives': 'Best Conservative Movies Based on True Stories',
+      'western-movies-woke-ranking': 'Every Western Movie and Show Ranked by Woke Score (2026)',
       'best-western-movies-conservatives': 'Best Western Movies for Conservatives',
       'best-traditional-action-movies': 'Best Traditional Action Movies: 25 Films Built on Honor, Courage, and Sacrifice',
       'best-traditional-sports-movies': 'Best Traditional Sports Movies: 20 Films Built on Discipline, Sacrifice, and Mentorship',
@@ -33460,6 +33463,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/vigilante-movies-woke-ranking',
     publishDate: '2026-06-24',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/vigilante-movies-woke-ranking/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/western-movies-woke-ranking/index.html');
+  writePage('lists/western-movies-woke-ranking/index.html', buildListiclePage({
+    slug: 'western-movies-woke-ranking',
+    title: 'Every Western Movie and Show Ranked by Woke Score (2026)',
+    description: 'All 19 Western films and TV shows in our database ranked from most woke to most traditional. Westworld, Yellowstone, Breaking Bad, Tombstone, Unforgiven, and more scored and compared. Parents, see which Westerns tell honest frontier stories.',
+    canonicalPath: 'lists/western-movies-woke-ranking',
+    publishDate: '2026-09-14',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/western-movies-woke-ranking/content.html'), 'utf-8')
   }));
 
   console.log('  lists/horror-movies-woke-ranking-all-time/index.html');
