@@ -1,5 +1,41 @@
 [
   {
+    "slug": "daniel-and-the-fiery-furnace-2026",
+    "title": "Daniel and the Fiery Furnace (2026)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Faith, Drama, Historical",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 0.25,
+    "tradScore": 18.9,
+    "poster": "/images/posters/daniel-and-the-fiery-furnace-2026.jpg"
+  },
+  {
+    "slug": "ben-hur-1959",
+    "title": "Ben-Hur (1959)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (MGM)",
+    "genre": "Epic, Historical Drama, Biblical",
+    "year": 1959,
+    "type": "movie",
+    "wokeScore": 0.7,
+    "tradScore": 25.2,
+    "poster": "/images/posters/ben-hur-1959.jpg"
+  },
+  {
+    "slug": "colin-from-accounts-2022",
+    "title": "Colin from Accounts (2022)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Binge / Paramount+ / BBC Two",
+    "genre": "Romantic Comedy, Dramedy",
+    "year": 2022,
+    "type": "series",
+    "wokeScore": 1.4,
+    "tradScore": 6.3,
+    "poster": "/images/posters/colin-from-accounts-2022.jpg"
+  },
+  {
     "slug": "hope-2026",
     "title": "Hope",
     "verdict": "BALANCED TRADITIONAL",
