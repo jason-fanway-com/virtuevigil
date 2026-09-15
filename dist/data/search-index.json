@@ -2,7 +2,7 @@
   {
     "slug": "hope-2026",
     "title": "Hope",
-    "verdict": "TRADITIONAL",
+    "verdict": "BALANCED TRADITIONAL",
     "platform": "Theaters (Neon)",
     "genre": "Sci-Fi / Action Thriller / Epic",
     "year": 2026,
@@ -14,7 +14,7 @@
   {
     "slug": "the-apartment-1960",
     "title": "The Apartment",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "platform": "Streaming / DVD / Blu-ray",
     "genre": "Romantic Comedy-Drama / Satire",
     "year": 1960,
@@ -4494,7 +4494,7 @@
   {
     "slug": "pressure-2026",
     "title": "Pressure",
-    "verdict": "BALANCED TRADITIONAL",
+    "verdict": "BALANCED",
     "platform": "Theatrical",
     "genre": "Drama / History / Thriller",
     "year": 2026,
