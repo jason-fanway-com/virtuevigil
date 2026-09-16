@@ -1,5 +1,41 @@
 [
   {
+    "slug": "dont-look-back-in-anger-2026",
+    "title": "Don't Look Back in Anger (2026)",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theaters",
+    "genre": "Documentary, Music",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 0.1,
+    "tradScore": 7.7,
+    "poster": "/images/posters/dont-look-back-in-anger-2026.jpg"
+  },
+  {
+    "slug": "raging-bull-1980",
+    "title": "Raging Bull (1980)",
+    "verdict": "BALANCED",
+    "platform": "Various (MGM/United Artists)",
+    "genre": "Biographical Drama, Sports",
+    "year": 1980,
+    "type": "movie",
+    "wokeScore": 6.44,
+    "tradScore": 4.78,
+    "poster": "/images/posters/raging-bull-1980.jpg"
+  },
+  {
+    "slug": "1883-2021",
+    "title": "1883 (2021)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Paramount+",
+    "genre": "Western, Drama, Historical",
+    "year": 2021,
+    "type": "series",
+    "wokeScore": 0.2,
+    "tradScore": 21.98,
+    "poster": "/images/posters/1883-2021.jpg"
+  },
+  {
     "slug": "daniel-and-the-fiery-furnace-2026",
     "title": "Daniel and the Fiery Furnace (2026)",
     "verdict": "STRONGLY TRADITIONAL",
