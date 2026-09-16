@@ -2509,6 +2509,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/biopics-ranked-by-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-crime-movie-ranked-woke-score/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/every-2022-movie-ranked-by-woke-score/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/every-2023-movie-ranked-by-woke-score/`, changefreq: 'monthly', priority: '0.9' },
   ];
 
   // Review pages — highest priority after homepage
@@ -3687,6 +3688,7 @@ function buildListsHubPage() {
         'biopics-ranked-by-woke-score',
         'every-crime-movie-ranked-woke-score',
         'every-2022-movie-ranked-by-woke-score',
+        'every-2023-movie-ranked-by-woke-score',
         'animated-family-movies-2025-woke-ranking',
         'adventure-fantasy-movies-2025-woke-ranking',
         'biographical-movies-woke-ranking',
@@ -3839,7 +3841,8 @@ function buildListsHubPage() {
       'most-woke-horror-movies-parents-should-know': 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
       'biopics-ranked-by-woke-score': 'Every Biopic Ranked by Woke Score: Which True Stories Hollywood Changed',
       'every-crime-movie-ranked-woke-score': 'Every Crime Movie & Series Ranked by Woke Score: 76 Films Tested',
-      'every-2022-movie-ranked-by-woke-score': 'Every 2022 Movie Ranked by Woke Score: 33 Films Tested'
+      'every-2022-movie-ranked-by-woke-score': 'Every 2022 Movie Ranked by Woke Score: 33 Films Tested',
+      'every-2023-movie-ranked-by-woke-score': 'Every 2023 Movie Ranked by Woke Score: 61 Films Tested'
     };
     if (special[slug]) return special[slug];
     return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
@@ -33684,6 +33687,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/every-2022-movie-ranked-by-woke-score',
     publishDate: '2026-09-15',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-2022-movie-ranked-by-woke-score/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/every-2023-movie-ranked-by-woke-score/index.html');
+  writePage('lists/every-2023-movie-ranked-by-woke-score/index.html', buildListiclePage({
+    slug: 'every-2023-movie-ranked-by-woke-score',
+    title: 'Every 2023 Movie Ranked by Woke Score: 61 Films Tested',
+    description: 'From Poor Things to Society of the Snow, we scored every 2023 film in our database. See where all 61 movies land on the VVWS scale. Rankings from most woke to most traditional.',
+    canonicalPath: 'lists/every-2023-movie-ranked-by-woke-score',
+    publishDate: '2026-09-16',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/every-2023-movie-ranked-by-woke-score/content.html'), 'utf-8')
   }));
 
   console.log('  lists/most-woke-movies-of-the-2020s/index.html');
