@@ -1,5 +1,41 @@
 [
   {
+    "slug": "resident-evil-2026",
+    "title": "Resident Evil (2026)",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theaters",
+    "genre": "Survival Horror, Action",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 2.2,
+    "tradScore": 7.98,
+    "poster": "/images/posters/resident-evil-2026.jpg"
+  },
+  {
+    "slug": "paths-of-glory-1957",
+    "title": "Paths of Glory (1957)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Streaming / Physical Media",
+    "genre": "War, Drama, Anti-War",
+    "year": 1957,
+    "type": "movie",
+    "wokeScore": 3.6,
+    "tradScore": 17.2,
+    "poster": "/images/posters/paths-of-glory-1957.jpg"
+  },
+  {
+    "slug": "neagley-2026",
+    "title": "Neagley (2026)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Amazon Prime Video",
+    "genre": "Action, Crime, Thriller",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 0.45,
+    "tradScore": 12.08,
+    "poster": "/images/posters/neagley-2026.jpg"
+  },
+  {
     "slug": "dont-look-back-in-anger-2026",
     "title": "Don't Look Back in Anger (2026)",
     "verdict": "TRADITIONAL LEAN",
