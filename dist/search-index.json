@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-french-connection-1971",
+    "title": "The French Connection (1971)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical (20th Century Fox)",
+    "genre": "Crime, Thriller, Action",
+    "year": 1971,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 23.52,
+    "poster": "/images/posters/the-french-connection-1971.jpg"
+  },
+  {
     "slug": "resident-evil-2026",
     "title": "Resident Evil (2026)",
     "verdict": "TRADITIONAL LEAN",
