@@ -24,6 +24,18 @@
     "poster": "/images/posters/monster-the-lizzie-borden-story-2026.jpg"
   },
   {
+    "slug": "the-love-hypothesis-2026",
+    "title": "The Love Hypothesis (2026)",
+    "verdict": "TRADITIONAL",
+    "platform": "Amazon Prime Video",
+    "genre": "Romantic Comedy",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 4.4,
+    "tradScore": 13.08,
+    "poster": "/images/posters/the-love-hypothesis-2026.jpg"
+  },
+  {
     "slug": "resident-evil-2026",
     "title": "Resident Evil (2026)",
     "verdict": "TRADITIONAL LEAN",
