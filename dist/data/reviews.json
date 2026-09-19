@@ -197051,7 +197051,7 @@
     ],
     "studio": "20th Century Fox / D'Antoni Productions",
     "distributor": "20th Century Fox",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "wokeScore": 0,
     "tradScore": 23.52,
     "authIndex": "High",
@@ -197574,7 +197574,7 @@
     ],
     "studio": "Aardman Animations",
     "distributor": "StudioCanal / Sky UK / GKIDS (US)",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "BALANCED TRADITIONAL",
     "wokeScore": 0,
     "tradScore": 5.6,
     "authIndex": 95,
@@ -197666,5 +197666,335 @@
       }
     ],
     "parentalGuidance": "Shaun the Sheep: The Beast of Mossy Bottom is rated G and is appropriate for all ages. The mild horror elements are purely comedic and not frightening. No violence, language, or mature content of any kind. An excellent choice for families with children of any age, especially during the Halloween season."
+  },
+  {
+    "id": "the-graduate-1967",
+    "slug": "the-graduate-1967",
+    "title": "The Graduate",
+    "year": 1967,
+    "type": "film",
+    "platform": "Streaming / Home Video",
+    "genre": "Drama / Comedy / Coming-of-Age",
+    "date": "2026-09-19",
+    "datePublished": "2026-09-19",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "9 min",
+    "poster": "/images/posters/the-graduate-1967.jpg",
+    "releaseDate": "1967-12-22",
+    "rating": "PG (Mature Themes, Sexual Situations)",
+    "runtime": "106 min",
+    "director": "Mike Nichols",
+    "writers": [
+      "Calder Willingham",
+      "Buck Henry"
+    ],
+    "cast": [
+      {
+        "name": "Dustin Hoffman",
+        "role": "Benjamin Braddock"
+      },
+      {
+        "name": "Anne Bancroft",
+        "role": "Mrs. Robinson"
+      },
+      {
+        "name": "Katharine Ross",
+        "role": "Elaine Robinson"
+      },
+      {
+        "name": "William Daniels",
+        "role": "Mr. Braddock"
+      },
+      {
+        "name": "Murray Hamilton",
+        "role": "Mr. Robinson"
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "role": "Mrs. Braddock"
+      }
+    ],
+    "studio": "Embassy Pictures",
+    "distributor": "Embassy Pictures",
+    "verdict": "BALANCED",
+    "wokeScore": 4.98,
+    "tradScore": 4.2,
+    "authIndex": 90,
+    "scoreMargin": "-1 WOKE",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "pct_runtime": 0,
+      "explanation": "The Graduate wears its countercultural critique on its sleeve from the opening shot. Benjamin's alienation from his parents' plastic suburban world is established in the first scene and sustained throughout. The film is not a trap; it is openly ambivalent about nearly everything it depicts, including its protagonist's rebellion. The famous final shot on the bus, where Ben and Elaine's exhilaration fades into uncertainty, undercuts any triumphalist reading of either the traditional or the countercultural side."
+    },
+    "seo": {
+      "titleTag": "Is The Graduate (1967) Woke? Mike Nichols' Classic Reviewed | VirtueVigil",
+      "metaDescription": "VirtueVigil VVWS review of The Graduate (1967), Mike Nichols' iconic coming-of-age film starring Dustin Hoffman and Anne Bancroft. Verdict: MIXED (0). Parental guidance included.",
+      "keywords": [
+        "is the graduate woke",
+        "the graduate 1967 review",
+        "the graduate virtuevigil",
+        "the graduate traditional or woke",
+        "mike nichols the graduate review",
+        "the graduate parents guide",
+        "dustin hoffman the graduate conservative review",
+        "the graduate mrs robinson"
+      ]
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": 88,
+      "rottenTomatoesAudience": 87,
+      "imdb": 8.0,
+      "metacritic": 83,
+      "budget": "$3,000,000",
+      "globalBoxOffice": "$104,900,000"
+    },
+    "summary": {
+      "overview": "The Graduate arrived in December 1967 as a cultural earthquake. Mike Nichols' second film, adapted from Charles Webb's novel, captured something about the generation gap that no American film had managed before. Benjamin Braddock (Dustin Hoffman, in his breakout role) drifts home from college to his parents' affluent Los Angeles suburb with no idea what comes next. The famous career advice, delivered poolside by a family friend: 'Plastics.' What follows is one of the most analyzed coming-of-age narratives in American cinema: a summer affair with the married, alcoholic Mrs. Robinson (Anne Bancroft, icy and magnificent), then an authentic but ill-fated romance with her daughter Elaine (Katharine Ross). The film won Nichols the Academy Award for Best Director and launched Hoffman as a star. Nearly 60 years later, it remains essential, contested, and impossible to reduce to a simple ideological verdict.",
+      "adultInsight": "The temptation when reviewing The Graduate for VirtueVigil is to label it a straightforward anti-tradition film: it mocks suburban conformity, depicts an extramarital affair without overt moral condemnation, and ends with its young lovers literally fleeing a wedding. That reading is not wrong, but it is incomplete in ways that matter. What separates Nichols' film from the simpler countercultural polemics of its era is its refusal to celebrate what it depicts. Mrs. Robinson is not a liberated woman; she is a broken alcoholic who weaponizes sex as vengeance against a life she hates. Benjamin is not a hero; he is a passive, inarticulate drifter who stumbles into every decision. And the famous final shot on the bus shows Ben and Elaine's triumphant grins slowly fading into blank uncertainty. They have no plan, no money, and no idea what they have done. Nichols never tells us whether this is liberation or disaster, because he is not sure himself. The film critiques the plastic emptiness of upper-middle-class life, a valid target in any era, but it also refuses to affirm the alternative. That ambivalence is what makes The Graduate art rather than agitprop. It holds the tension that much of the 1960s counterculture refused to hold: you can see the rot in the system without knowing what to build in its place.",
+      "parentalGuidance": "The Graduate is rated PG but contains significant adult themes including an extended extramarital affair, implied nudity (brief, silhouetted), alcohol abuse, and profanity. Mrs. Robinson's predatory sexual behavior toward the much younger Benjamin is treated with complexity rather than condemnation, which may require conversation with teen viewers. The film also depicts an adult man stalking and harassing a young woman (Ben following Elaine to Berkeley), behavior the film frames as romantic pursuit. Recommended for mature teens and up with parental discussion.",
+      "overall": "The Graduate is a great film that resists the ideological scorekeeping it invites. It earns its MIXED verdict not because it is a muddled work but because it is an honest one. The woke elements are real: suburban domesticity is portrayed as a suffocating tomb (Oppressive Domesticity), the parents are clueless at best and predatory at worst (The Bumbling Patriarch), and sexual awakening is presented as the path out of conformity (a qualified Sexual Liberation as Empowerment). But each of these critiques comes with a counterweight that the film's simpler admirers often miss. The domesticity being rejected is not the warmth of a functional family; it is the hollow performance of affluence without meaning. Benjamin's parents are not villains; they are limited people who genuinely love their son and have no vocabulary for his crisis. And the sexual liberation on offer from Mrs. Robinson is not liberation at all; it is another kind of prison, a transaction that substitutes one emptiness for another. The traditional elements are quieter but present: Benjamin ultimately pursues genuine love over cynical pleasure, and the film's moral seriousness about the stakes of his choices (Will he become Mr. Robinson? Will he trap Elaine in the same cycle?) is itself a traditional concern. The film does not mock the institution of marriage; it fears for young people entering it without self-knowledge. What tips The Graduate into MIXED territory is its refusal to resolve. Nichols offers no answer to the question the film poses: what do you do when the world your parents built feels like a lie? He only shows you the cost of every possible answer. That is not ideological evasion; it is artistic integrity."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-015",
+        "name": "Oppressive Domesticity",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "description": "Suburban domestic life is depicted as a suffocating trap of plastic materialism, cocktail parties, and meaningless ritual. Ben's rejection of his parents' world is the film's central conflict. However, this is organic to 1960s cultural critique and is complicated by the film's refusal to endorse the alternative."
+      },
+      {
+        "id": "WOKE-002",
+        "name": "The Bumbling Patriarch",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "Mr. Braddock is well-meaning but utterly incapable of guiding his son. Mr. Robinson is oblivious to his wife's infidelity and his own role in her unhappiness. Both fathers are portrayed as failures of masculine authority. This is thematically organic to a story about generational disconnect."
+      },
+      {
+        "id": "WOKE-022",
+        "name": "Sexual Liberation as Empowerment",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.5,
+        "description": "Ben's sexual awakening via his affair with Mrs. Robinson is framed as his escape from puritanical suburban conformity. The film treats this as morally serious rather than celebrated, and the actual mechanics of the affair are portrayed as hollow and damaging. The film critiques the emptiness of pleasure without meaning even as it depicts the affair. Severity is low because the film itself undermines the libertine reading at every turn."
+      },
+      {
+        "id": "TRADITIONAL-039",
+        "name": "Objective Good vs. Evil",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "The film operates within a clear moral framework where the affair is wrong, Mrs. Robinson's manipulation is destructive, and Ben's eventual pursuit of genuine love is right. The moral universe is not ambiguous even when the ending is."
+      },
+      {
+        "id": "TRADITIONAL-034",
+        "name": "Sanctity of Marriage",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "The Robinsons' marriage is portrayed as a tragedy of neglect and bitterness, which implicitly affirms what a good marriage should be. Ben's horror at the thought of Elaine ending up like her mother, and his determination to save her from that fate, reinforces the value of authentic marital commitment."
+      },
+      {
+        "id": "TRADITIONAL-027",
+        "name": "The Redemptive Arcs (Personal)",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "Ben's arc moves from passive drift to active pursuit of love. He rejects the hollow pleasure of the affair and commits to something real. The ending's ambiguity does not erase the moral seriousness of his decision to pursue commitment over cynicism."
+      },
+      {
+        "id": "TRADITIONAL-042",
+        "name": "The Forgiving Heart",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "Elaine ultimately chooses to go with Ben despite learning of his affair with her mother, an act of forgiveness that enables the film's resolution. This grace, however impulsive and uncertain, is the film's most traditional gesture."
+      }
+    ],
+    "parentalGuidance": "The Graduate contains an extended depiction of an extramarital affair between a young college graduate and an older married woman, implied nudity (silhouetted), alcohol abuse, and profanity. Mrs. Robinson's predatory behavior toward Benjamin is portrayed with complexity. Ben's stalking of Elaine (following her to Berkeley, cornering her repeatedly) is framed as romantic pursuit but models concerning behavior. Recommended for mature teens (16+) with parental discussion about the themes of adultery, aimlessness, and the search for meaning."
+  },
+  {
+    "id": "american-hostage-2026",
+    "slug": "american-hostage-2026",
+    "title": "American Hostage",
+    "year": 2026,
+    "type": "series",
+    "platform": "MGM+",
+    "genre": "Crime Thriller / Anthology Drama",
+    "date": "2026-09-19",
+    "datePublished": "2026-09-19",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "8 min",
+    "poster": "/images/posters/american-hostage-2026.jpg",
+    "releaseDate": "2026-09-20 (MGM+)",
+    "rating": "TV-MA (Violence, Language, Mature Themes)",
+    "runtime": "5 episodes",
+    "director": "Adam Arkin, Nina Lopez Corrado",
+    "writers": [
+      "Shawn Ryan",
+      "Eileen Myers"
+    ],
+    "cast": [
+      {
+        "name": "Jon Hamm",
+        "role": "Fred Heckman"
+      },
+      {
+        "name": "Mireille Enos",
+        "role": "Barbara"
+      },
+      {
+        "name": "William Jackson Harper",
+        "role": "Ben Hairston"
+      },
+      {
+        "name": "Giovanni Ribisi",
+        "role": "Tony Kiritsis"
+      },
+      {
+        "name": "Kristoffer Polaha",
+        "role": "Dick Hall"
+      },
+      {
+        "name": "Jonathan Tucker",
+        "role": "Cormac McNally"
+      },
+      {
+        "name": "Kat Cunning",
+        "role": "Ibby Hall"
+      }
+    ],
+    "studio": "MiddKid Productions / Criminal Content / Sony Pictures Television",
+    "distributor": "MGM+",
+    "verdict": "TRADITIONAL LEAN",
+    "wokeScore": 0.7,
+    "tradScore": 7.0,
+    "authIndex": 88,
+    "scoreMargin": "+6 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "pct_runtime": 0,
+      "explanation": "American Hostage is a straightforward crime thriller based on the 1977 kidnapping of mortgage broker Richard Hall by Tony Kiritsis. The source material is a true crime story from a pre-woke era, and the series appears to adapt it without imposing contemporary ideological frameworks. Jon Hamm's Fred Heckman is the classic journalist-as-public-servant: a radio reporter thrust into a life-or-death crisis who must use his professional skills to keep a hostage alive. No woke bait-and-switch is present."
+    },
+    "seo": {
+      "titleTag": "Is American Hostage (2026) Woke? Jon Hamm's MGM+ Crime Anthology Reviewed | VirtueVigil",
+      "metaDescription": "VirtueVigil VVWS review of American Hostage (2026), Shawn Ryan's MGM+ crime thriller anthology starring Jon Hamm and Giovanni Ribisi. Verdict: TRADITIONAL LEAN (+6). Parental guidance included.",
+      "keywords": [
+        "is american hostage woke",
+        "american hostage 2026 review",
+        "american hostage mgm+ virtuevigil",
+        "american hostage traditional or woke",
+        "jon hamm american hostage review",
+        "shawn ryan american hostage",
+        "american hostage parents guide",
+        "american hostage true story tony kiritsis"
+      ]
+    },
+    "externalScores": {
+      "rottenTomatoesCritic": null,
+      "rottenTomatoesAudience": null,
+      "imdb": null,
+      "metacritic": null,
+      "budget": null,
+      "globalBoxOffice": null
+    },
+    "summary": {
+      "overview": "American Hostage is an MGM+ crime thriller anthology created by Shawn Ryan (The Shield, SWAT) and Eileen Myers, premiering September 20, 2026. The first season adapts the true story of Tony Kiritsis, an Indianapolis man who in February 1977 took his mortgage broker Richard Hall hostage at gunpoint and forced local radio reporter Fred Heckman to broadcast his grievances live on the air. The incident became a national media sensation, captured in a Pulitzer Prize-winning photograph of Kiritsis holding a sawed-off shotgun wired to Hall's neck. Jon Hamm stars as Heckman, the journalist thrust into the middle of a hostage crisis. Giovanni Ribisi plays Kiritsis, the volatile small-time developer who felt cheated by the system. The five-episode limited series represents Shawn Ryan's return to the crime genre that made his reputation.",
+      "adultInsight": "Shawn Ryan has always been interested in what happens when institutional systems fail the people they are supposed to serve. The Shield was about a corrupt police unit. SWAT was about the tension between enforcement and community. Here, Ryan turns his attention to the banking system and the mortgage industry, telling a story that, remarkably, contains no obvious contemporary political interpolation. The source material helps: 1977 is safely pre-woke, and the real Tony Kiritsis was no progressive hero. He was a hot-tempered Greek-American small businessman who felt he had been cheated by a mortgage company, and his response was terrifying and criminal. Fred Heckman, the journalist at the center of the story, represents an older model of journalism that has largely vanished: the radio newsman as a sober, committed public servant who reports facts rather than advancing a narrative. Jon Hamm's casting suggests the series will treat this role with respect rather than deconstruction. The series has the capacity to tell a story about class and financial predation without defaulting to the 'evil capitalist' framing that hollows out so much modern crime drama. The bank's behavior, if depicted faithfully, was predatory; Kiritsis's response was criminal and unhinged. Holding both truths at once without moral grandstanding is the mark of serious storytelling.",
+      "parentalGuidance": "American Hostage is rated TV-MA for intense hostage-situation violence, gun violence, and adult themes. The subject matter involves kidnapping, psychological terror, and the realistic depiction of a life-threatening crisis. Language is strong. Not appropriate for children or young teens. Recommended for mature audiences only.",
+      "overall": "American Hostage is the kind of project that would have been easy to ruin. Take a true story from 1977 about a small businessman driven to violence by predatory lending, cast Jon Hamm as the square-jawed journalist who saves the day, and it would take about five minutes in a contemporary writers' room to turn it into a lecture about white male toxic rage, capitalist exploitation, and the failure of heartland values. The fact that Shawn Ryan appears to have resisted that temptation is worth noting. The source material does not easily support a woke reading. The real Fred Heckman was not an activist; he was a working journalist who happened to be the person Kiritsis demanded to speak with, and he handled the situation with professionalism and courage. The real Tony Kiritsis was not a social justice crusader; he was a troubled, volatile man who snapped under financial pressure. The real Dick Hall was not a cartoon villain; he was a mortgage broker caught in a nightmare. These are complicated people, and a series that trusts its audience to sit with that complexity rather than demanding a verdict is doing something increasingly rare. The series scores +6 TRAD because its moral framework is built on bedrock journalism values (truth-telling, public service), personal accountability for criminal acts, and the dignity of the individual over the system. The small woke score is noise: a diverse ensemble cast reflecting the reality of a modern production, not a political statement. For parents: this is not family fare. The hostage situation is intense, the psychological terror is real, and the subject matter is adult. But for mature viewers looking for a crime drama that takes its story seriously rather than using it as a soapbox, American Hostage is worth the watch."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-004",
+        "name": "Institutional Evil",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.35,
+        "description": "The mortgage company's predatory lending practices are a factual element of the true story, not a contemporary political insertion. The series may explore institutional failures without framing them through a modern ideological lens."
+      },
+      {
+        "id": "WOKE-014",
+        "name": "The Evil Capitalist",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.35,
+        "description": "Richard Hall and the mortgage company's behavior is unsympathetic, but the story's villain is Kiritsis, not the bank. The crime is kidnapping and terror, not lending. This balances the anti-capitalist potential of the premise."
+      },
+      {
+        "id": "TRADITIONAL-027",
+        "name": "The Redemptive Arcs (Personal)",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "description": "Fred Heckman's arc as a journalist who rises to an extraordinary moment of public service is fundamentally redemptive. He is an ordinary man who becomes extraordinary through duty."
+      },
+      {
+        "id": "TRADITIONAL-035",
+        "name": "The Just Lawman",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "description": "Law enforcement's handling of the hostage crisis, while tense and fraught, represents the rule of law under extreme pressure. The story affirms the necessity of authority in protecting the innocent."
+      },
+      {
+        "id": "TRADITIONAL-039",
+        "name": "Objective Good vs. Evil",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "description": "Kiritsis's kidnapping of Hall at gunpoint is unambiguously wrong. The series does not romanticize or excuse his crime, presenting a clear moral binary around the central act of violence."
+      },
+      {
+        "id": "TRADITIONAL-047",
+        "name": "Justice Restored",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.4,
+        "description": "The resolution of the hostage crisis, without loss of life and with Kiritsis ultimately facing legal consequences, represents the restoration of order. The system, however strained, holds."
+      },
+      {
+        "id": "TRADITIONAL-044",
+        "name": "The Honest Worker",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Low",
+        "weightedScore": 0.7,
+        "description": "Fred Heckman is portrayed as a working journalist doing his job, not an activist or celebrity. The dignity of competent professional work is an undercurrent throughout the story."
+      }
+    ],
+    "parentalGuidance": "American Hostage is rated TV-MA. It depicts a real-life hostage crisis with sustained psychological terror, gun violence, and intense threat. The story involves kidnapping at gunpoint with a sawed-off shotgun wired to the victim's neck. Language is strong. Not appropriate for children or young teens. Recommended for mature audiences (17+) only."
   }
 ]

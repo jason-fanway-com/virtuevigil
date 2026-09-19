@@ -2,7 +2,7 @@
   {
     "slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "BALANCED TRADITIONAL",
     "platform": "Theaters (GKIDS)",
     "genre": "Animation / Family / Comedy Horror",
     "year": 2026,
@@ -12,9 +12,33 @@
     "poster": "/images/posters/shaun-the-sheep-the-beast-of-mossy-bottom-2026.jpg"
   },
   {
+    "slug": "the-graduate-1967",
+    "title": "The Graduate",
+    "verdict": "BALANCED",
+    "platform": "Streaming / Home Video",
+    "genre": "Drama / Comedy / Coming-of-Age",
+    "year": 1967,
+    "type": "film",
+    "wokeScore": 4.98,
+    "tradScore": 4.2,
+    "poster": "/images/posters/the-graduate-1967.jpg"
+  },
+  {
+    "slug": "american-hostage-2026",
+    "title": "American Hostage",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "MGM+",
+    "genre": "Crime Thriller / Anthology Drama",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 0.7,
+    "tradScore": 7,
+    "poster": "/images/posters/american-hostage-2026.jpg"
+  },
+  {
     "slug": "the-french-connection-1971",
     "title": "The French Connection (1971)",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical (20th Century Fox)",
     "genre": "Crime, Thriller, Action",
     "year": 1971,
