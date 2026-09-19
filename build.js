@@ -2450,6 +2450,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-traditional-comedy-movies-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-adventure-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/most-woke-sci-fi-movies-parents-should-know/`, changefreq: 'monthly', priority: '0.9' },
+    { loc: `${SITE_URL}/lists/most-woke-thriller-movies-of-all-time/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-anti-communist-movies/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-movies-about-perseverance/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-4th-of-july-movies/`, changefreq: 'monthly', priority: '0.9' },
@@ -33525,6 +33526,16 @@ The short answer is no.</p>
     canonicalPath: 'lists/most-woke-action-movies-of-all-time',
     publishDate: '2026-08-02',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-action-movies-of-all-time/content.html'), 'utf-8')
+  }));
+
+  console.log('  lists/most-woke-thriller-movies-of-all-time/index.html');
+  writePage('lists/most-woke-thriller-movies-of-all-time/index.html', buildListiclePage({
+    slug: 'most-woke-thriller-movies-of-all-time',
+    title: 'The 20 Most Woke Thriller Movies of All Time, Ranked by VirtueVigil',
+    description: 'From Disclosure Day and Saltburn to Get Out and Don\'t Worry Darling, 20 most ideologically aggressive thriller films ranked by woke score margin. Parents, know what Hollywood hides in the suspense.',
+    canonicalPath: 'lists/most-woke-thriller-movies-of-all-time',
+    publishDate: '2026-09-19',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-thriller-movies-of-all-time/content.html'), 'utf-8')
   }));
 
   console.log('  lists/most-woke-animated-movies-parents/index.html');
