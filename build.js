@@ -2412,6 +2412,7 @@ function buildSitemap(catMap) {
     { loc: `${SITE_URL}/lists/best-faith-movies-2024/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-christian-movies-all-time/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2023/`, changefreq: 'monthly', priority: '0.8' },
+    { loc: `${SITE_URL}/lists/best-traditional-movies-of-the-2020s/`, changefreq: 'monthly', priority: '0.9' },
     { loc: `${SITE_URL}/lists/best-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-2025/`, changefreq: 'monthly', priority: '0.8' },
     { loc: `${SITE_URL}/lists/most-traditional-movies-2026/`, changefreq: 'weekly', priority: '0.9' },
@@ -3606,6 +3607,7 @@ function buildListsHubPage() {
         'most-traditional-movies-2025',
         'most-traditional-movies-2026',
         'best-traditional-movies-2026',
+        'best-traditional-movies-of-the-2020s',
         'best-war-movies-patriots',
         'best-kids-movies-2025-2026-no-agenda',
         'clean-movies-for-kids-2024',
@@ -9606,6 +9608,15 @@ function build() {
     canonicalPath: 'lists/most-woke-movies-of-2026',
     publishDate: '2026-09-11',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-movies-of-2026/content.html'), 'utf-8'),
+  }));
+
+  writePage('lists/best-traditional-movies-of-the-2020s/index.html', buildListiclePage({
+    slug: 'best-traditional-movies-of-the-2020s',
+    title: 'The 20 Best Traditional Movies of the 2020s, Ranked by VirtueVigil',
+    description: 'From Reagan to I Swear, we ranked the 20 most traditional films of the decade so far. Every score backed by VirtueVigil\'s dual-metric methodology. Ranked most traditional to least.',
+    canonicalPath: 'lists/best-traditional-movies-of-the-2020s',
+    publishDate: '2026-09-20',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-movies-of-the-2020s/content.html'), 'utf-8'),
   }));
 
   writePage('lists/best-traditional-movies-2026/index.html', buildListiclePage({
