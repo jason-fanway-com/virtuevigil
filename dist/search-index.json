@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-weight-2026",
+    "title": "The Weight",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theaters (Vertical)",
+    "genre": "Historical Drama / Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.19,
+    "tradScore": 10.28,
+    "poster": "/images/posters/the-weight-2026.jpg"
+  },
+  {
+    "slug": "gangs-of-new-york-2002",
+    "title": "Gangs of New York",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Streaming / Home Video",
+    "genre": "Epic Historical Drama / Crime",
+    "year": 2002,
+    "type": "film",
+    "wokeScore": 1.84,
+    "tradScore": 6.72,
+    "poster": "/images/posters/gangs-of-new-york-2002.jpg"
+  },
+  {
+    "slug": "arcane-2021",
+    "title": "Arcane",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Animation / Action-Adventure / Science Fantasy / Steampunk",
+    "year": 2021,
+    "type": "series",
+    "wokeScore": 4.02,
+    "tradScore": 9.2,
+    "poster": "/images/posters/arcane-2021.jpg"
+  },
+  {
     "slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "verdict": "BALANCED TRADITIONAL",
