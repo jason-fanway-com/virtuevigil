@@ -197051,7 +197051,7 @@
     ],
     "studio": "20th Century Fox / D'Antoni Productions",
     "distributor": "20th Century Fox",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "wokeScore": 0,
     "tradScore": 23.52,
     "authIndex": "High",
@@ -197745,7 +197745,7 @@
     "externalScores": {
       "rottenTomatoesCritic": 88,
       "rottenTomatoesAudience": 87,
-      "imdb": 8.0,
+      "imdb": 8,
       "metacritic": 83,
       "budget": "$3,000,000",
       "globalBoxOffice": "$104,900,000"
@@ -197885,7 +197885,7 @@
     "distributor": "MGM+",
     "verdict": "TRADITIONAL LEAN",
     "wokeScore": 0.7,
-    "tradScore": 7.0,
+    "tradScore": 7,
     "authIndex": 88,
     "scoreMargin": "+6 TRAD",
     "preRelease": false,
@@ -198062,7 +198062,7 @@
     ],
     "studio": "Fields Entertainment / Under The Influence / Augenschein Filmproduktion",
     "distributor": "Vertical",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "BALANCED TRADITIONAL",
     "wokeScore": 1.19,
     "tradScore": 10.28,
     "authIndex": 92,
@@ -198109,7 +198109,7 @@
         "severity": 3,
         "authenticity": "High",
         "centrality": "High",
-        "weightedScore": 3.0,
+        "weightedScore": 3,
         "description": "Murphy's entire motivation is returning to his daughter Penny. Fatherhood is the film's moral North Star; every decision Murphy makes is filtered through his obligation to his child."
       },
       {
@@ -198243,7 +198243,7 @@
     ],
     "studio": "Touchstone Pictures / Alberto Grimaldi Productions",
     "distributor": "Miramax Films",
-    "verdict": "TRADITIONAL LEAN",
+    "verdict": "BALANCED TRADITIONAL",
     "wokeScore": 1.84,
     "tradScore": 6.72,
     "authIndex": 90,
@@ -198300,7 +198300,7 @@
         "severity": 2,
         "authenticity": "High",
         "centrality": "High",
-        "weightedScore": 2.0,
+        "weightedScore": 2,
         "description": "Amsterdam's journey from a boy consumed by revenge to a man who buries the knife is a genuine redemptive arc. He learns that vengeance does not heal and that building is harder than destroying."
       },
       {
@@ -198478,7 +198478,7 @@
     "externalScores": {
       "rottenTomatoesCritic": 100,
       "rottenTomatoesAudience": 96,
-      "imdb": 9.0,
+      "imdb": 9,
       "metacritic": null,
       "budget": "$250 million",
       "globalBoxOffice": null
