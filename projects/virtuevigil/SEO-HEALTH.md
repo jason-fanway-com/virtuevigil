@@ -20,6 +20,7 @@ I, Sage (cron: sage-seo-health), run the full SEO health check every Monday at 0
 | 2026-08-31 | NO-GO (813→812, 1 dup 404) | BLOCKED (GSC sign-in) | GO (812 reviews, 842 pages, exit 0) | GO (5/5 200) | GO (0 em dashes) | GO (build gate pass, 29 non-fatal gaps) | BLOCKED (GSC sign-in) | GO (home 0.07s, review 0.28s) | GO (962 URLs, valid) |
 | 2026-09-07 | GO (827=827, parity) | BLOCKED (CDP unreachable) | GO (827 reviews, 857 pages, exit 0) | GO (5/5 200) | GO (0 em dashes) | GO (build gate pass, 3 missing type) | BLOCKED (CDP unreachable) | GO (home 0.40s, review 0.31s) | GO (980 URLs, valid) |
 | 2026-09-14 | GO (849=849, parity) | BLOCKED (CDP port 9222) | GO (849 reviews, 879 pages, exit 0) | GO (5/5 200) | GO (0 em dashes) | GO (build gate pass, 4 non-fatal) | BLOCKED (CDP port 9222) | GO (home 0.19s, review 0.10s) | GO (1007 URLs, valid) |
+| 2026-09-21 | GO (870=870, parity) | BLOCKED (CDP port 9222) | GO (870 reviews, 900 pages, exit 0) | GO (5/5 200) | GO (0 em dashes) | GO (build gate pass, 0 dropped) | BLOCKED (CDP port 9222) | GO (home 0.08s, review 0.20s) | GO (1035 URLs, valid) |
 
 **2026-08-31 Detail:**
 - **Check 1 NO-GO:** repo=813, live=812. 1 duplicate slug removed by build.js: `project-hail-mary-2026` (normalized to `project hail mary__2026`, dupe of `project-hail-mary`). Live URL for project-hail-mary-2026 returns 404. Fix: delete idx=804 from reviews.json.
@@ -54,3 +55,14 @@ I, Sage (cron: sage-seo-health), run the full SEO health check every Monday at 0
 - **Check 7 BLOCKED:** same CDP port 9222 issue as check 2.
 - **Check 8 GO:** homepage TTFB 0.191s (113KB), review page TTFB 0.101s. Well under 500ms.
 - **Check 9 GO:** 1007 sitemap URLs (< 50K limit), valid XML. robots.txt valid, AI crawlers allowed. Security headers: STS, X-Content-Type-Options, X-Frame-Options all present.
+
+**2026-09-21 Detail:**
+- **Check 1 GO:** repo=870, live=870. Perfect deploy parity. 0 duplicate slugs. 7th consecutive week clean.
+- **Check 2 BLOCKED:** CDP port 9222 unreachable (curl exit 7). Chrome not running/not listening. GSC checks (2,7) blocked. Unblock: Jason must launch Chrome with `--remote-debugging-port=9222` and sign into search.google.com. Duration: 13 weeks.
+- **Check 3 GO:** build.js exits 0, em dash guard clean. 870 reviews, 900 total pages. 0 reviews dropped. All integrity gates pass.
+- **Check 4 GO:** 5 random reviews all HTTP 200: wake-up-dead-man-2025, the-lord-of-the-rings-the-two-towers-2002, a-star-is-born-2018, apocalypse-now-1979, the-apartment-1960.
+- **Check 5 GO:** 0 em dashes in reviews.json content fields. Build.js guard also clean.
+- **Check 6 GO:** build.js integrity gate PASS (870 valid, 0 dropped). Schema scan notes most records have `score` and `tmdb` as nested objects (not missing), and `type` uses `film`/`series` (valid). Build handles all gracefully.
+- **Check 7 BLOCKED:** same CDP port 9222 issue as check 2.
+- **Check 8 GO:** homepage TTFB 0.080s (115KB), review page TTFB 0.205s (141KB). Both well under 500ms.
+- **Check 9 GO:** 1035 sitemap URLs (< 50K limit), valid XML. robots.txt valid, AI crawlers allowed. Security headers: STS, X-Content-Type-Options, X-Frame-Options all present.
