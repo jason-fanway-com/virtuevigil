@@ -1,5 +1,41 @@
 [
   {
+    "slug": "take-me-home-2026",
+    "title": "Take Me Home (2026)",
+    "verdict": "PREDICTED: TRADITIONAL",
+    "platform": "Theaters (Willa)",
+    "genre": "Drama / Family",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.35,
+    "tradScore": 12.46,
+    "poster": "/images/posters/take-me-home-2026.jpg"
+  },
+  {
+    "slug": "the-ten-commandments-1956",
+    "title": "The Ten Commandments (1956)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Multiple (Theatrical Re-release / Streaming / Broadcast)",
+    "genre": "Biblical Epic / Drama / Historical",
+    "year": 1956,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 33.88,
+    "poster": "/images/posters/the-ten-commandments-1956.jpg"
+  },
+  {
+    "slug": "the-untouchables-1987",
+    "title": "The Untouchables (1987)",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Multiple (Streaming / Digital Rental)",
+    "genre": "Crime / Drama / Thriller",
+    "year": 1987,
+    "type": "film",
+    "wokeScore": 0,
+    "tradScore": 24.12,
+    "poster": "/images/posters/the-untouchables-1987.jpg"
+  },
+  {
     "slug": "the-weight-2026",
     "title": "The Weight",
     "verdict": "BALANCED TRADITIONAL",
