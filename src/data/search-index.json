@@ -2,7 +2,7 @@
   {
     "slug": "take-me-home-2026",
     "title": "Take Me Home (2026)",
-    "verdict": "PREDICTED: TRADITIONAL",
+    "verdict": "PREDICTED: BALANCED TRADITIONAL",
     "platform": "Theaters (Willa)",
     "genre": "Drama / Family",
     "year": 2026,
@@ -14,7 +14,7 @@
   {
     "slug": "the-ten-commandments-1956",
     "title": "The Ten Commandments (1956)",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "platform": "Multiple (Theatrical Re-release / Streaming / Broadcast)",
     "genre": "Biblical Epic / Drama / Historical",
     "year": 1956,
@@ -26,7 +26,7 @@
   {
     "slug": "the-untouchables-1987",
     "title": "The Untouchables (1987)",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "platform": "Multiple (Streaming / Digital Rental)",
     "genre": "Crime / Drama / Thriller",
     "year": 1987,
@@ -110,7 +110,7 @@
   {
     "slug": "the-french-connection-1971",
     "title": "The French Connection (1971)",
-    "verdict": "STRONGLY TRADITIONAL",
+    "verdict": "TRADITIONAL",
     "platform": "Theatrical (20th Century Fox)",
     "genre": "Crime, Thriller, Action",
     "year": 1971,
