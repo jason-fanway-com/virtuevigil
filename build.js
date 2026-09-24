@@ -24,7 +24,7 @@ const DIST = path.join(__dirname, 'dist');
 // build read stale Supabase and shipped 519 reviews while 693 sat committed in JSON.
 // That deploy gap is the root cause this guard exists to prevent.
 async function fetchReviews() {
-  const url = process.env.VV_SUPABASE_URL || 'https://exqqyryeaktochnfxgyh.supabase.co';
+  const url = process.env.VV_SUPABASE_URL || 'https://fdxvflryvctvstxdbdtm.supabase.co';
   const key = process.env.VV_SUPABASE_SERVICE_ROLE_KEY;
 
   // ALWAYS load the local JSON. This is the authoritative source.
