@@ -36,6 +36,42 @@
     "poster": "/images/posters/the-untouchables-1987.jpg"
   },
   {
+    "slug": "primetime-2026",
+    "title": "Primetime (2026)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Psychological Thriller / Crime / Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 4.2,
+    "tradScore": 13.44,
+    "poster": "/images/posters/primetime-2026.jpg"
+  },
+  {
+    "slug": "christine-1983",
+    "title": "Christine (1983)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Multiple (Streaming / Digital Rental)",
+    "genre": "Horror / Supernatural / Thriller",
+    "year": 1983,
+    "type": "film",
+    "wokeScore": 0.25,
+    "tradScore": 10.64,
+    "poster": "/images/posters/christine-1983.jpg"
+  },
+  {
+    "slug": "youth-2026",
+    "title": "Youth (2026)",
+    "verdict": "BALANCED",
+    "platform": "HBO",
+    "genre": "Romantic Comedy / Drama",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 8.14,
+    "tradScore": 5.88,
+    "poster": "/images/posters/youth-2026.jpg"
+  },
+  {
     "slug": "the-weight-2026",
     "title": "The Weight",
     "verdict": "BALANCED TRADITIONAL",
