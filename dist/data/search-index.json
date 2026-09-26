@@ -1,5 +1,41 @@
 [
   {
+    "slug": "friday-the-13th-1980",
+    "title": "Friday the 13th (1980)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters / Streaming",
+    "genre": "Horror / Slasher",
+    "year": 1980,
+    "type": "film",
+    "wokeScore": 0.3,
+    "tradScore": 12.8,
+    "poster": "/images/posters/friday-the-13th-1980.jpg"
+  },
+  {
+    "slug": "south-park-1997",
+    "title": "South Park (1997)",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Comedy Central / Paramount+",
+    "genre": "Animated Sitcom / Black Comedy / Satire",
+    "year": 1997,
+    "type": "series",
+    "wokeScore": 0,
+    "tradScore": 9.7,
+    "poster": "/images/posters/south-park-1997.jpg"
+  },
+  {
+    "slug": "the-gentlemen-2024",
+    "title": "The Gentlemen (2024)",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Crime Drama / Action Comedy",
+    "year": 2024,
+    "type": "series",
+    "wokeScore": 0,
+    "tradScore": 6.9,
+    "poster": "/images/posters/the-gentlemen-2024.jpg"
+  },
+  {
     "slug": "take-me-home-2026",
     "title": "Take Me Home (2026)",
     "verdict": "PREDICTED: BALANCED TRADITIONAL",
