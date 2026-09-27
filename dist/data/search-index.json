@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-trial-of-alec-baldwin-2026",
+    "title": "The Trial of Alec Baldwin (2026)",
+    "verdict": "PREDICTED: WOKE LEAN",
+    "platform": "Theatrical",
+    "genre": "Documentary",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 10.92,
+    "tradScore": 7.52,
+    "poster": "/images/posters/the-trial-of-alec-baldwin-2026.jpg"
+  },
+  {
+    "slug": "children-of-men-2006",
+    "title": "Children of Men (2006)",
+    "verdict": "TRADITIONAL",
+    "platform": "Theatrical / Streaming",
+    "genre": "Science Fiction / Drama / Thriller",
+    "year": 2006,
+    "type": "film",
+    "wokeScore": 12.74,
+    "tradScore": 23.52,
+    "poster": "/imaes/posters/children-of-men-2006.jpg"
+  },
+  {
+    "slug": "the-witcher-2019",
+    "title": "The Witcher (2019)",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Fantasy / Drama / Action",
+    "year": 2019,
+    "type": "series",
+    "wokeScore": 8.58,
+    "tradScore": 20.66,
+    "poster": "/images/posters/the-witcher-2019.jpg"
+  },
+  {
     "slug": "friday-the-13th-1980",
     "title": "Friday the 13th (1980)",
     "verdict": "TRADITIONAL",
