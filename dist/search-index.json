@@ -1,5 +1,41 @@
 [
   {
+    "slug": "apartment-7a-2024",
+    "title": "Apartment 7A (2024)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Paramount+",
+    "genre": "Psychological Horror",
+    "year": 2024,
+    "type": "film",
+    "wokeScore": 11.6,
+    "tradScore": 20.44,
+    "poster": "/images/posters/apartment-7a-2024.jpg"
+  },
+  {
+    "slug": "severance-2022",
+    "title": "Severance (2022)",
+    "verdict": "BALANCED",
+    "platform": "Apple TV+",
+    "genre": "Sci-Fi Psychological Thriller",
+    "year": 2022,
+    "type": "series",
+    "wokeScore": 11.34,
+    "tradScore": 10.29,
+    "poster": "/images/posters/severance-2022.jpg"
+  },
+  {
+    "slug": "nightcrawler-2014",
+    "title": "Nightcrawler (2014)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Theatrical / Streaming",
+    "genre": "Neo-Noir Thriller",
+    "year": 2014,
+    "type": "film",
+    "wokeScore": 11.2,
+    "tradScore": 16.44,
+    "poster": "/images/posters/nightcrawler-2014.jpg"
+  },
+  {
     "slug": "the-trial-of-alec-baldwin-2026",
     "title": "The Trial of Alec Baldwin (2026)",
     "verdict": "PREDICTED: WOKE LEAN",
