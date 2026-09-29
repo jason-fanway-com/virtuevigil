@@ -202005,151 +202005,6 @@
     }
   },
   {
-    "id": "the-wolf-of-wall-street-2013",
-    "slug": "the-wolf-of-wall-street-2013",
-    "title": "The Wolf of Wall Street (2013)",
-    "year": 2013,
-    "type": "film",
-    "platform": "Streaming / Theatrical",
-    "genre": "Biographical Dark Comedy Crime",
-    "date": "2026-09-29",
-    "datePublised": "2026-09-29",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "9 min read",
-    "poster": "/images/posters/the-wolf-of-wall-street-2013.jpg",
-    "releaseDate": "2013-12-25",
-    "rating": "R",
-    "runtime": "180 min",
-    "director": "Martin Scorsese",
-    "writers": [
-      "Terence Winter"
-    ],
-    "showrunner": null,
-    "cast": [
-      "Leonardo DiCaprio",
-      "Jonah Hill",
-      "Margot Robbie",
-      "Matthew McConaughey",
-      "Kyle Chandler",
-      "Jon Bernthal",
-      "Jon Favreau"
-    ],
-    "studio": "Red Granite Pictures / Appian Way Productions",
-    "distributor": "Paramount Pictures",
-    "verdict": "BALANCED TRADITIONAL",
-    "wokeScore": 13.44,
-    "tradScore": 20.58,
-    "authIndex": 92,
-    "scoreMargin": "+7.14 TRAD",
-    "preRelease": false,
-    "wokeTrap": false,
-    "woke_trap_assessment": {
-      "is_trap": false,
-      "pct_runtime": 0,
-      "explanation": "All of the woke-leaning content in The Wolf of Wall Street is visible from the opening frames. Jordan Belfort's corruption, the exploitation of women, and the systemic rot of Wall Street are the film's subject from scene one. There is no hidden pivot: what begins as a depiction of excess ends as a morality play about its consequences."
-    },
-    "tropeAudit": [
-      {
-        "id": "WOKE-WOWS-001",
-        "name": "The Evil Capitalist",
-        "category": "Woke",
-        "severity": 5,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 6.3,
-        "explanation": "Jordan Belfort is the embodiment of predatory capitalism: he defrauds investors, launders money, lives in obscene excess, and feels no remorse for the victims of his crimes. DiCaprio plays him as charismatic but hollow \u2014 a monster in a bespoke suit. The film depicts Wall Street as a machine that rewards sociopathy."
-      },
-      {
-        "id": "WOKE-WOWS-002",
-        "name": "Systemic Corruption",
-        "category": "Woke",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "explanation": "The SEC, the FBI, and the legal system are shown as overwhelmed and outgunned. Belfort's firm operates in plain sight for years. When he is finally caught, his prison sentence is comically light, and he reinvents himself as a motivational speaker. The system is portrayed as too sluggish to stop predators."
-      },
-      {
-        "id": "WOKE-WOWS-003",
-        "name": "Toxic Masculinity",
-        "category": "Woke",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "explanation": "The culture of Stratton Oakmont is built on domination, degradation, and male aggression. Women are treated as props, employees are ritually humiliated, and violence (throwing dwarves, abusing assistants) is played for laughs. The male characters compete in cruelty and excess as a measure of status."
-      },
-      {
-        "id": "TRAD-WOWS-001",
-        "name": "Consequences of Vice",
-        "category": "Traditional",
-        "severity": 5,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 6.3,
-        "explanation": "Despite the film's reputation, Scorsese structures The Wolf of Wall Street as a classic morality play. Belfort's excess destroys his marriages, his relationships, his business, and ultimately his freedom. He goes to prison and loses everything. The third act is a systematic dismantling of every pleasure the first two acts celebrated."
-      },
-      {
-        "id": "TRAD-WOWS-002",
-        "name": "Objective Good vs Evil",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "explanation": "FBI Agent Patrick Denham (Kyle Chandler) represents conscience and justice. His scenes with Belfort set up an unambiguous moral contrast: the public servant who rides the subway versus the criminal who rides a yacht. Denham is not complicated or morally gray. He is the good man in a world of wolves, and the film never undermines him."
-      },
-      {
-        "id": "TRAD-WOWS-003",
-        "name": "The Self-Destructive Sinner",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "explanation": "Belfort is a figure of medieval morality: the sinner who cannot stop sinning even as it destroys him. His Quaalude addiction, his serial infidelity, his compulsive greed \u2014 none of it brings happiness. The film is a three-hour demonstration that unchecked appetite leads to ruin. This is a deeply conservative idea dressed in profane clothing."
-      },
-      {
-        "id": "TRAD-WOWS-004",
-        "name": "The Rugged Individualist",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "explanation": "Belfort's entrepreneurial drive is genuinely impressive even when it is criminal. He builds a brokerage from a garage, trains unskilled recruits into a sales army, and outmaneuvers competitors through intelligence and persistence. The film critiques what he does with his talent, not the talent itself."
-      },
-      {
-        "id": "TRAD-WOWS-005",
-        "name": "Marriage and Fidelity",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "Moderate",
-        "weightedScore": 2.1,
-        "explanation": "The destruction of Belfort's marriages is presented as tragedy, not liberation. His first wife leaves because of his infidelity and criminality. His second marriage to Naomi collapses in violence and custody battles. The film treats the dissolution of family as one of the central costs of his lifestyle."
-      }
-    ],
-    "summary": {
-      "overall": "The Wolf of Wall Street is Martin Scorsese's loudest, longest, and most misunderstood film \u2014 a three-hour bacchanal that some critics accused of glorifying the very behavior it depicts. But read carefully, the movie is a medieval morality play in a modern costume. Leonardo DiCaprio plays Jordan Belfort, the real-life stockbroker who built a boiler-room empire of fraud, drugs, and debauchery on Long Island before the FBI brought him down. Terence Winter's script, based on Belfort's memoir, oscillates between comedy and horror, often in the same scene. The film is exhausting by design: excess as accusation.",
-      "wokeContent": "The woke case against The Wolf of Wall Street is substantial but ultimately superficial. The film's depiction of predatory capitalism, systemic corruption, and toxic male culture is vivid and unsparing. Belfort and his cohorts treat women as disposable objects, employees as marks, and the law as an inconvenience. The film is drenched in the visual language of woke critique: rich white men destroying everything they touch while the system shrugs. But recognizing that something is wrong is not the same as endorsing a political program. The film identifies evil clearly; it just does not propose a political solution, which is why it frustrates ideologues on both sides.",
-      "traditionalContent": "The traditional case is embedded in the film's structure. Scorsese does not simply show Belfort's rise; he forces the audience to watch the fall in excruciating detail. Every pleasure in the first two acts is repaid with misery in the third: the marriage that looked glamorous collapses into domestic violence, the money vanishes, the freedom ends in a prison cell. FBI Agent Denham emerges as the film's moral center: a decent man doing his job without fanfare or corruption. The film's deepest argument is Augustinian: sin is its own punishment. That is a conservative insight dressed in the most profane package Hollywood has ever produced."
-    },
-    "parentalGuidance": "The Wolf of Wall Street is one of the hardest R ratings in mainstream cinema. It contains pervasive drug use (cocaine, Quaaludes, crack), graphic sexual content including full frontal nudity, hundreds of F-words (a record for a non-documentary at the time of release), and sustained depictions of criminal fraud and moral degradation. There is domestic violence, a scene involving an endangered animal, and extended sequences of debauchery. This is absolutely not appropriate for children or young teens. Even for adults, the film is deliberately overwhelming. Parents should understand this is not a typical Scorsese crime drama: it is closer to a three-hour panic attack about the wages of sin.",
-    "seo": {
-      "titleTag": "Is The Wolf of Wall Street (2013) Woke? Scorsese's Morality Play Reviewed | VirtueVigil",
-      "metaDescription": "VirtueVigil VVWS review of The Wolf of Wall Street (2013). Scorsese's epic of excess with DiCaprio, scored against 50 tropes. Verdict: BALANCED TRADITIONAL (+7). Parental guidance included.",
-      "keywords": [
-        "is the wolf of wall street woke",
-        "wolf of wall street 2013 review",
-        "wolf of wall street virtuevigil",
-        "scorsese wolf of wall street morality",
-        "wolf of wall street parents guide",
-        "is wolf of wall street traditional"
-      ]
-    }
-  },
-  {
     "id": "kill-jackie-2026",
     "slug": "kill-jackie-2026",
     "title": "Kill Jackie (2026)",
@@ -202272,6 +202127,151 @@
         "kill jackie parents guide",
         "kill jackie amazon prime",
         "kill jackie woke or traditional"
+      ]
+    }
+  },
+  {
+    "id": "district-9-2009",
+    "slug": "district-9-2009",
+    "title": "District 9 (2009)",
+    "year": 2009,
+    "type": "film",
+    "platform": "Streaming",
+    "genre": "Science Fiction Action",
+    "date": "2026-09-29",
+    "datePublised": "2026-09-29",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "8 min read",
+    "poster": "/images/posters/district-9-2009.jpg",
+    "releaseDate": "2009-08-14",
+    "rating": "R",
+    "runtime": "112 min",
+    "director": "Neill Blomkamp",
+    "writers": [
+      "Neill Blomkamp",
+      "Terri Tatchell"
+    ],
+    "showrunner": null,
+    "cast": [
+      "Sharlto Copley",
+      "Jason Cope",
+      "David James",
+      "Vanessa Haywood",
+      "Mandla Gaduka"
+    ],
+    "studio": "QED International / WingNut Films",
+    "distributor": "TriStar Pictures",
+    "verdict": "BALANCED TRADITIONAL",
+    "wokeScore": 6.36,
+    "tradScore": 12.43,
+    "authIndex": 88,
+    "scoreMargin": "+6.07 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "pct_runtime": 0,
+      "explanation": "District 9 is dystopian political allegory from its opening frame. The apartheid metaphor, refugee-camp imagery, and corporate villainy are the film's explicit subject matter, not a hidden pivot. There is no bait-and-switch."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-D9-001",
+        "name": "Systemic Oppression as Plot Engine",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 4.2,
+        "explanation": "The entire premise is an alien apartheid. A non-human species is confined to a militarized slum, denied rights, exploited by corporations, and treated as subhuman. The film's setting is Johannesburg, making the historical parallel explicit and inescapable."
+      },
+      {
+        "id": "WOKE-D9-002",
+        "name": "Corporations as Evil",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.8,
+        "explanation": "MNU is depicted as a mercenary corporation that experiments on aliens, lies to the public, and pursues weapons technology with zero ethical constraint. The corporation has more power than the government and operates with impunity."
+      },
+      {
+        "id": "WOKE-D9-003",
+        "name": "Government as Complicit",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.36,
+        "explanation": "The government delegates alien management to MNU, treating the crisis as a PR problem rather than a moral one. Bureaucratic indifference enables systematic abuse."
+      },
+      {
+        "id": "TRAD-D9-001",
+        "name": "Objective Good vs Evil",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 4.2,
+        "explanation": "MNU and its mercenary leader Koobus Venter are unambiguously evil. Christopher Johnson and his son are unambiguously good. The moral geometry is classical: the strong oppress the weak, and the weak deserve protection."
+      },
+      {
+        "id": "TRAD-D9-002",
+        "name": "Redemption Through Sacrifice",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 4.2,
+        "explanation": "Wikus begins as a bureaucratic functionary -- cowardly, self-interested, casually cruel. His physical transformation forces him to experience the oppression he once administered, and he sacrifices his humanity to help Christopher escape. This is a redemption arc with real costs."
+      },
+      {
+        "id": "TRAD-D9-003",
+        "name": "Family Loyalty",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.8,
+        "explanation": "Christopher Johnson's motivation is to get his son home. He is not a revolutionary; he is a father. The film grounds its most noble impulses in the universal, pre-political bond of parent and child."
+      },
+      {
+        "id": "TRAD-D9-004",
+        "name": "Duty and Protection",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.8,
+        "explanation": "Wikus's moral awakening is not a conversion to an ideology but a discovery of duty. He protects Christopher because it is right, not because it advances a political program. The film locates morality in individual action, not structural reform."
+      },
+      {
+        "id": "TRAD-D9-005",
+        "name": "Merit and Competence",
+        "category": "Traditional",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.43,
+        "explanation": "Christopher Johnson is an engineer and scientist. His competence is his value, and the film respects his technical expertise without framing it as identity. Intelligence and skill earn the audience's admiration on their own terms."
+      }
+    ],
+    "summary": {
+      "overall": "District 9 is Neill Blomkamp's debut feature, expanded from his short film Alive in Joburg, and it remains one of the most distinctive science fiction films of the 21st century. Produced by Peter Jackson on a modest $30 million budget, it earned over $210 million and four Oscar nominations including Best Picture -- an astonishing trajectory for a film shot in a Soweto landfill with a first-time lead actor. Sharlto Copley plays Wikus van de Merwe, a mid-level bureaucrat at MNU assigned to serve eviction notices to the alien 'prawns' confined to District 9, a militarized slum outside Johannesburg. When Wikus is accidentally exposed to an alien substance, he begins a grotesque physical transformation that forces him to experience the oppression he once administered. The film operates simultaneously as a body-horror thriller, a blistering political allegory, and a story of reluctant heroism.",
+      "wokeContent": "The woke case for District 9 is strong on the surface: the film is explicitly about apartheid, forced relocation, corporate exploitation, and state-sanctioned dehumanization. The aliens are confined to a slum, denied legal standing, subjected to medical experimentation, and referred to with a racial slur. MNU is a private military corporation that operates as a de facto government. Blomkamp's visual language -- documentary-style handheld cameras, the Johannesburg location, the Soweto shacks -- insists on the South African parallel. But political filmmaking is not inherently woke, and the question is what the politics actually argue. District 9 identifies oppression clearly but proposes no political solution. Its heroes are individuals, not movements.",
+      "traditionalContent": "The traditional case is the film's moral architecture. District 9 does not argue that systems are irredeemable or that resistance is inherently justified. It argues that individuals make moral choices within flawed systems, and those choices matter. Wikus does not become a revolutionary; he becomes a protector. He does not tear down MNU; he helps one father and son escape. The film's climax is not a political victory but a personal one. Christopher Johnson is driven by paternal love. Wikus finds redemption not in ideology but in action. The film draws its clearest moral line between the strong who prey on the weak and the individuals who choose to protect them -- a distinction that does not require a political program, only a conscience."
+    },
+    "parentalGuidance": "District 9 is rated R for bloody violence and pervasive language. The violence is graphic and visceral: bodies explode, limbs are severed, human and alien characters are torn apart by weapons fire. The body-horror elements of Wikus's transformation -- fingernails falling out, teeth falling out, skin sloughing -- are genuinely disturbing. The film uses the F-word extensively. There are scenes of implied torture and medical experimentation. This is not appropriate for children or young teens. Older teens who can handle the violence will encounter a morally serious film that rewards discussion. Parents should know that the film's apartheid allegory is explicit and central, and may prompt questions about historical injustice.",
+    "seo": {
+      "titleTag": "Is District 9 (2009) Woke? Neill Blomkamp's Apartheid Allegory Reviewed | VirtueVigil",
+      "metaDescription": "VirtueVigil VVWS review of District 9 (2009). Sharlto Copley stars in Blomkamp's sci-fi apartheid allegory. Verdict: BALANCED TRADITIONAL (+6). Parental guidance included.",
+      "keywords": [
+        "is district 9 woke",
+        "district 9 2009 review",
+        "district 9 virtuevigil",
+        "district 9 woke or traditional",
+        "district 9 parents guide",
+        "neill blomkamp district 9",
+        "district 9 political allegory"
       ]
     }
   }

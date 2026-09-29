@@ -24,6 +24,18 @@
     "poster": "/images/posters/kill-jackie-2026.jpg"
   },
   {
+    "slug": "district-9-2009",
+    "title": "District 9 (2009)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Streaming",
+    "genre": "Science Fiction Action",
+    "year": 2009,
+    "type": "film",
+    "wokeScore": 6.36,
+    "tradScore": 12.43,
+    "poster": "/images/posters/district-9-2009.jpg"
+  },
+  {
     "slug": "apartment-7a-2024",
     "title": "Apartment 7A (2024)",
     "verdict": "BALANCED TRADITIONAL",
