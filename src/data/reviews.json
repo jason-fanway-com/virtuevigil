@@ -201881,5 +201881,398 @@
     "fidelityCasting": {
       "overall": "Original screenplay, not an adaptation. Gyllenhaal was deeply involved in pre-production and casting. The film draws loosely from the real profession of stringers but Lou Bloom is a fictional creation."
     }
+  },
+  {
+    "id": "charlie-harper-2026",
+    "slug": "charlie-harper-2026",
+    "title": "Charlie Harper (2026)",
+    "year": 2026,
+    "type": "film",
+    "platform": "Theatrical",
+    "genre": "Romance Drama",
+    "date": "2026-09-29",
+    "datePublised": "2026-09-29",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "7 min read",
+    "poster": "/images/posters/charlie-harper-2026.jpg",
+    "releaseDate": "2026-09-25",
+    "rating": "R",
+    "runtime": "102 min",
+    "director": "Mac Eldridge & Tom Dean",
+    "writers": [
+      "Tom Dean"
+    ],
+    "showrunner": null,
+    "cast": [
+      "Emilia Jones",
+      "Nick Robinson",
+      "Nicholas Cirillo",
+      "Virginia Tucker"
+    ],
+    "studio": "Picture Perfect Federation / Temple Hill Entertainment",
+    "distributor": "Row K Entertainment",
+    "verdict": "BALANCED TRADITIONAL",
+    "wokeScore": 1.36,
+    "tradScore": 8.48,
+    "authIndex": 85,
+    "scoreMargin": "+7.12 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "pct_runtime": 0,
+      "explanation": "Charlie Harper is a straightforward relationship drama from opening to closing credits. No ideological pivot occurs. The film centers on two people building a life together with no hidden political messaging."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-CH-001",
+        "name": "Ambition vs. Domesticity",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.0,
+        "explanation": "Harper pursues a career as a chef while Charlie struggles to find his footing. The film presents her ambition positively, but frames it within the context of a committed relationship rather than as a rejection of domestic life. This is less a political statement and more a modern relationship dynamic."
+      },
+      {
+        "id": "WOKE-CH-002",
+        "name": "The Failing Man",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.36,
+        "explanation": "Charlie's struggle to get on track while Harper succeeds professionally could be read as a subtle subversion of the traditional male-provider role. However, the film treats Charlie's difficulties with empathy rather than contempt, and his arc is about growth, not humiliation."
+      },
+      {
+        "id": "TRAD-CH-001",
+        "name": "Commitment and Sacrifice",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "The central premise is two people leaving everything behind to build a life together in a new city. This is a fundamentally traditional romantic ideal: commitment as the foundation of a meaningful life. The film takes this seriously, not ironically."
+      },
+      {
+        "id": "TRAD-CH-002",
+        "name": "Sanctity of Relationship",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "The film's dramatic tension comes from whether their relationship can survive external pressures. The relationship itself is treated as something worth fighting for, not as a disposable arrangement. Fidelity and commitment are the emotional stakes."
+      },
+      {
+        "id": "TRAD-CH-003",
+        "name": "Industry and Perseverance",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.0,
+        "explanation": "Harper's journey to build a career as a chef is presented as admirable. She works hard, develops skills, and earns her place. The film values professional dedication and craft."
+      },
+      {
+        "id": "TRAD-CH-004",
+        "name": "Self-Improvement",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.0,
+        "explanation": "Charlie's arc involves getting himself on track: finding direction, building competence, becoming someone worthy of the relationship. Personal growth through effort is a traditional value the film endorses without irony."
+      }
+    ],
+    "summary": {
+      "overall": "Charlie Harper is a sincere, modestly scaled romance that earns its emotional beats through committed performances rather than ideological posturing. Mac Eldridge and Tom Dean's film premiered at TIFF in 2025 and finally reached U.S. theaters in late September 2026. It tells the story of Harper (Emilia Jones) and Charlie (Nick Robinson), two young people who meet, fall for each other, and decide to leave their old lives behind to start fresh in a new city. What follows is a relationship drama built around the ordinary pressures of ambition, insecurity, and the difficulty of building a shared life.",
+      "wokeContent": "Woke content in Charlie Harper is minimal and largely incidental. Harper's professional ambition as a chef and Charlie's initial inability to match her success could be read through a gendered lens, but the film has no interest in making ideological arguments. It treats both characters with dignity and empathy. There is no social-justice messaging, no systemic critique, and no identity-politics subtext. This is a relationship story told straight.",
+      "traditionalContent": "The traditional values in Charlie Harper are embedded in its very structure. Two people commit to each other and to building a life together. The relationship is treated as sacred: something worth sacrifice, worth effort, worth the pain of growth. Harper's work ethic and professional dedication are presented as genuinely admirable. Charlie's journey toward competence and self-respect is the film's emotional backbone. The story operates from the assumption that commitment, hard work, and personal responsibility are good things, and it never apologizes for this."
+    },
+    "parentalGuidance": "Charlie Harper is rated R, primarily for language and some sexual content. The film depicts a romantic relationship between adults, including implied intimacy. There is no violence. Parents should know this is an adult relationship drama with mature themes, not a teen romance. The central conflict is emotional rather than physical. Language includes profanity consistent with an R rating. The film's values are fundamentally traditional, but its treatment of adult relationships means it is best suited for viewers 17 and older.",
+    "seo": {
+      "titleTag": "Is Charlie Harper (2026) Woke? Emilia Jones Romance Reviewed | VirtueVigil",
+      "metaDescription": "VirtueVigil VVWS review of Charlie Harper (2026). Emilia Jones and Nick Robinson star in a romance about commitment and second chances. Verdict: BALANCED TRADITIONAL (+7). Parental guidance included.",
+      "keywords": [
+        "is charlie harper woke",
+        "charlie harper 2026 review",
+        "charlie harper virtuevigil",
+        "emilia jones charlie harper",
+        "charlie harper parents guide",
+        "charlie harper woke or traditional"
+      ]
+    }
+  },
+  {
+    "id": "the-wolf-of-wall-street-2013",
+    "slug": "the-wolf-of-wall-street-2013",
+    "title": "The Wolf of Wall Street (2013)",
+    "year": 2013,
+    "type": "film",
+    "platform": "Streaming / Theatrical",
+    "genre": "Biographical Dark Comedy Crime",
+    "date": "2026-09-29",
+    "datePublised": "2026-09-29",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "9 min read",
+    "poster": "/images/posters/the-wolf-of-wall-street-2013.jpg",
+    "releaseDate": "2013-12-25",
+    "rating": "R",
+    "runtime": "180 min",
+    "director": "Martin Scorsese",
+    "writers": [
+      "Terence Winter"
+    ],
+    "showrunner": null,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey",
+      "Kyle Chandler",
+      "Jon Bernthal",
+      "Jon Favreau"
+    ],
+    "studio": "Red Granite Pictures / Appian Way Productions",
+    "distributor": "Paramount Pictures",
+    "verdict": "BALANCED TRADITIONAL",
+    "wokeScore": 13.44,
+    "tradScore": 20.58,
+    "authIndex": 92,
+    "scoreMargin": "+7.14 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "pct_runtime": 0,
+      "explanation": "All of the woke-leaning content in The Wolf of Wall Street is visible from the opening frames. Jordan Belfort's corruption, the exploitation of women, and the systemic rot of Wall Street are the film's subject from scene one. There is no hidden pivot: what begins as a depiction of excess ends as a morality play about its consequences."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-WOWS-001",
+        "name": "The Evil Capitalist",
+        "category": "Woke",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "Jordan Belfort is the embodiment of predatory capitalism: he defrauds investors, launders money, lives in obscene excess, and feels no remorse for the victims of his crimes. DiCaprio plays him as charismatic but hollow \u2014 a monster in a bespoke suit. The film depicts Wall Street as a machine that rewards sociopathy."
+      },
+      {
+        "id": "WOKE-WOWS-002",
+        "name": "Systemic Corruption",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The SEC, the FBI, and the legal system are shown as overwhelmed and outgunned. Belfort's firm operates in plain sight for years. When he is finally caught, his prison sentence is comically light, and he reinvents himself as a motivational speaker. The system is portrayed as too sluggish to stop predators."
+      },
+      {
+        "id": "WOKE-WOWS-003",
+        "name": "Toxic Masculinity",
+        "category": "Woke",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "The culture of Stratton Oakmont is built on domination, degradation, and male aggression. Women are treated as props, employees are ritually humiliated, and violence (throwing dwarves, abusing assistants) is played for laughs. The male characters compete in cruelty and excess as a measure of status."
+      },
+      {
+        "id": "TRAD-WOWS-001",
+        "name": "Consequences of Vice",
+        "category": "Traditional",
+        "severity": 5,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 6.3,
+        "explanation": "Despite the film's reputation, Scorsese structures The Wolf of Wall Street as a classic morality play. Belfort's excess destroys his marriages, his relationships, his business, and ultimately his freedom. He goes to prison and loses everything. The third act is a systematic dismantling of every pleasure the first two acts celebrated."
+      },
+      {
+        "id": "TRAD-WOWS-002",
+        "name": "Objective Good vs Evil",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "FBI Agent Patrick Denham (Kyle Chandler) represents conscience and justice. His scenes with Belfort set up an unambiguous moral contrast: the public servant who rides the subway versus the criminal who rides a yacht. Denham is not complicated or morally gray. He is the good man in a world of wolves, and the film never undermines him."
+      },
+      {
+        "id": "TRAD-WOWS-003",
+        "name": "The Self-Destructive Sinner",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "Belfort is a figure of medieval morality: the sinner who cannot stop sinning even as it destroys him. His Quaalude addiction, his serial infidelity, his compulsive greed \u2014 none of it brings happiness. The film is a three-hour demonstration that unchecked appetite leads to ruin. This is a deeply conservative idea dressed in profane clothing."
+      },
+      {
+        "id": "TRAD-WOWS-004",
+        "name": "The Rugged Individualist",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "Belfort's entrepreneurial drive is genuinely impressive even when it is criminal. He builds a brokerage from a garage, trains unskilled recruits into a sales army, and outmaneuvers competitors through intelligence and persistence. The film critiques what he does with his talent, not the talent itself."
+      },
+      {
+        "id": "TRAD-WOWS-005",
+        "name": "Marriage and Fidelity",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 2.1,
+        "explanation": "The destruction of Belfort's marriages is presented as tragedy, not liberation. His first wife leaves because of his infidelity and criminality. His second marriage to Naomi collapses in violence and custody battles. The film treats the dissolution of family as one of the central costs of his lifestyle."
+      }
+    ],
+    "summary": {
+      "overall": "The Wolf of Wall Street is Martin Scorsese's loudest, longest, and most misunderstood film \u2014 a three-hour bacchanal that some critics accused of glorifying the very behavior it depicts. But read carefully, the movie is a medieval morality play in a modern costume. Leonardo DiCaprio plays Jordan Belfort, the real-life stockbroker who built a boiler-room empire of fraud, drugs, and debauchery on Long Island before the FBI brought him down. Terence Winter's script, based on Belfort's memoir, oscillates between comedy and horror, often in the same scene. The film is exhausting by design: excess as accusation.",
+      "wokeContent": "The woke case against The Wolf of Wall Street is substantial but ultimately superficial. The film's depiction of predatory capitalism, systemic corruption, and toxic male culture is vivid and unsparing. Belfort and his cohorts treat women as disposable objects, employees as marks, and the law as an inconvenience. The film is drenched in the visual language of woke critique: rich white men destroying everything they touch while the system shrugs. But recognizing that something is wrong is not the same as endorsing a political program. The film identifies evil clearly; it just does not propose a political solution, which is why it frustrates ideologues on both sides.",
+      "traditionalContent": "The traditional case is embedded in the film's structure. Scorsese does not simply show Belfort's rise; he forces the audience to watch the fall in excruciating detail. Every pleasure in the first two acts is repaid with misery in the third: the marriage that looked glamorous collapses into domestic violence, the money vanishes, the freedom ends in a prison cell. FBI Agent Denham emerges as the film's moral center: a decent man doing his job without fanfare or corruption. The film's deepest argument is Augustinian: sin is its own punishment. That is a conservative insight dressed in the most profane package Hollywood has ever produced."
+    },
+    "parentalGuidance": "The Wolf of Wall Street is one of the hardest R ratings in mainstream cinema. It contains pervasive drug use (cocaine, Quaaludes, crack), graphic sexual content including full frontal nudity, hundreds of F-words (a record for a non-documentary at the time of release), and sustained depictions of criminal fraud and moral degradation. There is domestic violence, a scene involving an endangered animal, and extended sequences of debauchery. This is absolutely not appropriate for children or young teens. Even for adults, the film is deliberately overwhelming. Parents should understand this is not a typical Scorsese crime drama: it is closer to a three-hour panic attack about the wages of sin.",
+    "seo": {
+      "titleTag": "Is The Wolf of Wall Street (2013) Woke? Scorsese's Morality Play Reviewed | VirtueVigil",
+      "metaDescription": "VirtueVigil VVWS review of The Wolf of Wall Street (2013). Scorsese's epic of excess with DiCaprio, scored against 50 tropes. Verdict: BALANCED TRADITIONAL (+7). Parental guidance included.",
+      "keywords": [
+        "is the wolf of wall street woke",
+        "wolf of wall street 2013 review",
+        "wolf of wall street virtuevigil",
+        "scorsese wolf of wall street morality",
+        "wolf of wall street parents guide",
+        "is wolf of wall street traditional"
+      ]
+    }
+  },
+  {
+    "id": "kill-jackie-2026",
+    "slug": "kill-jackie-2026",
+    "title": "Kill Jackie (2026)",
+    "year": 2026,
+    "type": "series",
+    "platform": "Amazon Prime Video",
+    "genre": "Thriller",
+    "date": "2026-09-29",
+    "datePublised": "2026-09-29",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "7 min read",
+    "poster": "/images/posters/kill-jackie-2026.jpg",
+    "releaseDate": "2026-10-02",
+    "rating": "TV-MA",
+    "runtime": "8 episodes (~47 min each)",
+    "director": "Damon Thomas",
+    "writers": [
+      "Tom Butterworth",
+      "Conor Keane"
+    ],
+    "showrunner": "Tom Butterworth",
+    "cast": [
+      "Catherine Zeta-Jones",
+      "Daniel Ings",
+      "Darci Shaw",
+      "Raff Law",
+      "Sidse Babett Knudsen",
+      "Oscar Jaenada"
+    ],
+    "studio": "Fremantle / Steel Springs Pictures / Amazon MGM Studios",
+    "distributor": "Amazon Prime Video",
+    "verdict": "PREDICTED: BALANCED TRADITIONAL",
+    "wokeScore": 3.88,
+    "tradScore": 9.82,
+    "authIndex": 80,
+    "scoreMargin": "+5.94 TRAD",
+    "preRelease": true,
+    "wokeTrap": false,
+    "woke_trap_assessment": {
+      "is_trap": false,
+      "pct_runtime": 0,
+      "explanation": "Pre-release assessment based on source material and premise. Nick Harkaway's novel establishes Jackie's violent competence from the opening chapters. If the adaptation follows the book, the action-thriller framing is consistent throughout with no hidden ideological pivot."
+    },
+    "tropeAudit": [
+      {
+        "id": "WOKE-KJ-001",
+        "name": "Female Revenge Fantasy",
+        "category": "Woke",
+        "severity": 3,
+        "authenticity": "Moderate",
+        "centrality": "High",
+        "weightedScore": 2.7,
+        "explanation": "A woman targeted by hitmen uses lethal skills to hunt her hunters. The premise could easily slide into feminist empowerment territory, with Jackie as a symbol of female resistance against male violence. Catherine Zeta-Jones brings gravity that may counterbalance this reading, but the basic setup is a female revenge thriller."
+      },
+      {
+        "id": "WOKE-KJ-002",
+        "name": "Vigilante Justice as Feminist Statement",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.0,
+        "explanation": "Jackie uses dark-web connections and 'brutal ingenuity' rather than law enforcement. If the series frames this as a political statement about women needing to take justice into their own hands because institutions fail them, it becomes woke material. Based on the source novel, this framing is unlikely to dominate."
+      },
+      {
+        "id": "WOKE-KJ-003",
+        "name": "The Amoral Antiheroine",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.18,
+        "explanation": "If Jackie's dark past is presented as morally neutral or celebrated rather than examined as a cost, this could read as an endorsement of lawlessness. The casting of Zeta-Jones suggests complexity rather than glorification."
+      },
+      {
+        "id": "TRAD-KJ-001",
+        "name": "Self-Defense as Natural Right",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.78,
+        "explanation": "The core premise is fundamentally about self-preservation. Jackie is targeted for death. She fights back. Defending one's life against aggressors is not woke. It is the oldest moral right in the book. The series frames the hitmen as unambiguous threats."
+      },
+      {
+        "id": "TRAD-KJ-002",
+        "name": "Objective Good vs Evil",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 5.04,
+        "explanation": "The Seven Demons are professional killers. There is no moral ambiguity about what they do or why they must be stopped. Jackie may have a dark past, but her present actions are defensive. The series establishes clear moral stakes: killers hunting an innocent target."
+      },
+      {
+        "id": "TRAD-KJ-003",
+        "name": "The Resourceful Individual",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 1.0,
+        "explanation": "Jackie's survival depends on her own skills, intelligence, and preparation. She does not wait for rescue or rely on institutions. Individual competence as the basis for survival is a traditional value, and the series appears to endorse it without apology."
+      }
+    ],
+    "summary": {
+      "overall": "Kill Jackie is Amazon's latest thriller series, starring Catherine Zeta-Jones as Jackie Price, a wealthy art dealer with a secret past who discovers she is the target of a squad of elite hitmen known as The Seven Demons. Rather than flee, Jackie taps her dark-web connections and lethal skills to hunt the hunters one by one. Based on Nick Harkaway's novel The Price You Pay, the eight-episode series arrives October 2, 2026. This is a pre-release assessment based on the source material, trailers, and creative team. The full review will follow once all episodes are available.",
+      "wokeContent": "The premise raises flags: a female-led revenge thriller about a woman who takes justice into her own hands could easily become a feminist empowerment vehicle. Jackie is framed as hyper-competent in a world of male killers, and her dark-web connections suggest a rejection of institutional law enforcement. However, the source material by Nick Harkaway (writing as Aidan Truhen) is a pulpy, morally grounded thriller rather than a political tract. Catherine Zeta-Jones brings a mature, unglamorous intensity that suggests character depth over ideological messaging. The woke risk here is moderate but appears contained by the creative choices.",
+      "traditionalContent": "At its core, Kill Jackie is about self-defense. A woman is targeted for death by professional killers, and she fights to survive. This is the most traditional premise imaginable: the individual's right to protect her own life against unjust aggression. The Seven Demons are presented as unambiguous villains. Jackie may operate outside the law, but the law is not depicted as corrupt or useless \u2014 it is simply not present in the immediate crisis. Individual competence, strategic thinking, and personal resolve are the values the series rewards. If the adaptation stays faithful to Harkaway's novel, this will land firmly in traditional thriller territory."
+    },
+    "parentalGuidance": "Kill Jackie is rated TV-MA for violence, language, and adult themes. The premise involves professional assassination and features extended sequences of lethal confrontation. Expect bloody violence, though likely stylized rather than sadistic given the thriller genre. Language will include profanity consistent with an adult-targeted streaming series. The series deals with themes of mortality, vengeance, and moral compromise. Not suitable for viewers under 17. Parents should preview before allowing older teens.",
+    "seo": {
+      "titleTag": "Is Kill Jackie (2026) Woke? Amazon's Catherine Zeta-Jones Thriller Reviewed | VirtueVigil",
+      "metaDescription": "VirtueVigil pre-release VVWS review of Kill Jackie (2026). Catherine Zeta-Jones stars as a woman hunted by hitmen who fights back. Predicted Verdict: BALANCED TRADITIONAL (+6). Parental guidance included.",
+      "keywords": [
+        "is kill jackie woke",
+        "kill jackie 2026 review",
+        "kill jackie virtuevigil",
+        "catherine zeta-jones kill jackie",
+        "kill jackie parents guide",
+        "kill jackie amazon prime",
+        "kill jackie woke or traditional"
+      ]
+    }
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "slug": "charlie-harper-2026",
+    "title": "Charlie Harper (2026)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Romance Drama",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.36,
+    "tradScore": 8.48,
+    "poster": "/images/posters/charlie-harper-2026.jpg"
+  },
+  {
+    "slug": "kill-jackie-2026",
+    "title": "Kill Jackie (2026)",
+    "verdict": "PREDICTED: BALANCED TRADITIONAL",
+    "platform": "Amazon Prime Video",
+    "genre": "Thriller",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 3.88,
+    "tradScore": 9.82,
+    "poster": "/images/posters/kill-jackie-2026.jpg"
+  },
+  {
     "slug": "apartment-7a-2024",
     "title": "Apartment 7A (2024)",
     "verdict": "BALANCED TRADITIONAL",
