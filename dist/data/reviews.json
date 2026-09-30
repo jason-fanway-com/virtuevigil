@@ -202408,5 +202408,125 @@
         "stephen sommers the mummy"
       ]
     }
+  },
+  {
+    "id": "yellow-eyes-2026",
+    "slug": "yellow-eyes-2026",
+    "title": "Yellow Eyes (2026)",
+    "year": 2026,
+    "type": "film",
+    "platform": "Streaming",
+    "genre": "Supernatural Horror",
+    "date": "2026-09-30",
+    "datePublised": "2026-09-30",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "7 min read",
+    "poster": "/images/posters/yellow-eyes-2026.jpg",
+    "releaseDate": "2026-08-18",
+    "rating": "Not Rated",
+    "runtime": "86 min",
+    "director": "Jesse Korman",
+    "writers": [
+      "Mickey Solis"
+    ],
+    "showrunner": null,
+    "cast": [
+      "Nena Martins",
+      "Michael Kunicki",
+      "Margo O'Connell",
+      "Jimmy Chung",
+      "Brian Rooney"
+    ],
+    "studio": "Terror Town / Great Escape / Yale Productions",
+    "distributor": "Inaugural Entertainment",
+    "verdict": "BALANCED TRADITIONAL",
+    "wokeScore": 0.06,
+    "tradScore": 7.41,
+    "authIndex": 99,
+    "scoreMargin": "+7.35 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": "No hidden ideological content. The film is a straightforward supernatural horror that stays within genre conventions from opening to closing credits.",
+    "tropeAudit": [
+      {
+        "id": "YE-TRAD-001",
+        "name": "Objective Good vs. Evil",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.15,
+        "explanation": "The ancient cursed artifact represents unambiguous supernatural evil threatening the young couple. The film operates on a clear moral axis: the artifact is dangerous and must be contained or destroyed, and the protagonists are innocent people caught in its wake."
+      },
+      {
+        "id": "YE-TRAD-002",
+        "name": "Defense of the Innocent",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.8,
+        "explanation": "Julia and Brad are ordinary people thrust into supernatural danger. Their primary motivation throughout is protecting each other -- not ideological grievance, not systemic complaint, but the primal human imperative to defend the person you love."
+      },
+      {
+        "id": "YE-TRAD-003",
+        "name": "Heterosexual Romance as Organizing Principle",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 2.1,
+        "explanation": "The film centers on a young heterosexual couple whose relationship is tested by supernatural horror. Their bond is the emotional stakes of the story -- if they survive together, the audience wins. No deconstruction, no ironic distance."
+      },
+      {
+        "id": "YE-TRAD-004",
+        "name": "Respect for rural working-class life",
+        "category": "Traditional",
+        "severity": 1,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.12,
+        "explanation": "The rural New England setting is treated with atmospheric seriousness rather than condescension -- it is isolated and dangerous, but never mocked. The inherited property carries weight and history."
+      },
+      {
+        "id": "YE-TRAD-005",
+        "name": "Family Loyalty",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.24,
+        "explanation": "The inheritance of the rural property anchors the narrative in family legacy, however cursed. The couple's commitment to building a life together on this inherited land is treated as a meaningful, not ironic, aspiration."
+      },
+      {
+        "id": "YE-WOKE-001",
+        "name": "General Woke Element (Diverse Ensemble Casting)",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.06,
+        "explanation": "The cast includes actors of diverse backgrounds (Nena Martins, Jimmy Chung, DeVaughn Loman) in an indie horror production. This appears to be organic casting rather than a diversity mandate -- no character's race is made into a plot point."
+      }
+    ],
+    "summary": {
+      "overall": "Yellow Eyes is a 2026 independent supernatural horror film from director Jesse Korman that arrived on Screambox in August 2026 with little fanfare but a clear sense of what kind of movie it wants to be: an old-fashioned possession-and-curse story shot through with the gritty, DIY texture of the modern indie horror scene. Produced by mumblecore veteran Joe Swanberg and written by Mickey Solis, it stars Nena Martins and Michael Kunicki as Julia and Brad, a young couple whose lives unravel after they inherit a remote New England property that turns out to be home to an ancient, cursed artifact. At 86 minutes, the film moves briskly and wears its influences on its sleeve without descending into pastiche. The score, featuring contributions from Korman's own mathcore band The Number Twelve Looks Like You, gives the film a jagged, contemporary energy that distinguishes it from the orchestral grandiosity of studio horror. Critics noted the film's willingness to avoid standard exorcism cliches -- no Latin chanting, no victims tied to bedposts -- in favor of a darker, character-driven approach.",
+      "traditionalContent": "Yellow Eyes anchors itself in one of the oldest and most reliable moral frameworks in horror: ordinary people confronting extraordinary evil and discovering what they are made of in the process. Julia and Brad are not activists, not grievance-bearers, and not characters whose identities are defined by group membership. They are a couple who inherit a cursed property and must survive it. The film's moral engine is defense of the innocent -- Brad protecting Julia, Julia refusing to abandon Brad, both of them fighting to preserve the life they planned together. There is no systemic critique, no political allegory, no institutional villain behind the supernatural threat. The evil is ancient, pre-political, and indifferent to human social arrangements. This is horror as moral testing ground: the characters are measured by their courage, their loyalty, and their refusal to give up on each other. The rural New England setting is treated as genuinely threatening and genuinely beautiful -- not as a symbol of backwardness to be escaped. The film respects the isolation and history of the land in a way that feels grounded rather than performative.",
+      "wokeContent": "Yellow Eyes is about as ideologically inert as a horror film can be in 2026. It has no political message, no social commentary, and no identity-politics framework. The diverse casting of the ensemble -- Nena Martins, Jimmy Chung, DeVaughn Loman -- appears to be the result of normal casting decisions rather than a diversity mandate, and no character's race or background is made into a narrative point. The one element that could be read through a woke lens is the film's reported desire to subvert horror cliches, but this is a creative ambition, not a political one: avoiding tired exorcism tropes is a craft decision, not an ideological statement. The film's female lead, Julia, is neither a girl-boss nor a passive victim -- she is simply a person in danger, fighting to survive, which is what horror protagonists have been for decades. The absence of woke content is not an oversight. It is the natural result of a film whose ambition is to scare you, not lecture you."
+    },
+    "parentalGuidance": "Yellow Eyes is an unrated independent horror film with supernatural horror content typical of the possession subgenre. Expect jump scares, disturbing imagery involving the cursed artifact, and sustained tension. The film reportedly avoids the more graphic extremes of the genre -- no extended torture, no sexual violence -- but the psychological horror of a couple trapped with an ancient evil will be intense for younger viewers. There may be some strong language and brief violence. Best suited for horror fans 15 and up. Parents should know the film draws on traditional supernatural horror tropes (cursed objects, rural isolation, ancient evil) without the nihilistic cruelty that marks some modern horror.",
+    "seo": {
+      "titleTag": "Is Yellow Eyes (2026) Woke? Screambox Horror Review | VirtueVigil",
+      "metaDescription": "VirtueVigil VVWS review of Yellow Eyes (2026), the indie supernatural horror from director Jesse Korman. Verdict: BALANCED TRADITIONAL (+7.35 TRAD). Parental guidance included.",
+      "keywords": [
+        "is yellow eyes woke",
+        "yellow eyes 2026 review",
+        "yellow eyes virtuevigil",
+        "yellow eyes horror movie",
+        "yellow eyes parents guide",
+        "jesse korman yellow eyes",
+        "screambox yellow eyes"
+      ]
+    }
   }
 ]
