@@ -202311,7 +202311,7 @@
     "distributor": "Universal Pictures",
     "verdict": "BALANCED TRADITIONAL",
     "wokeScore": 0.06,
-    "tradScore": 12.870000000000001,
+    "tradScore": 12.87,
     "authIndex": 100,
     "scoreMargin": "+12.81 TRAD",
     "preRelease": false,
@@ -202526,6 +202526,138 @@
         "yellow eyes parents guide",
         "jesse korman yellow eyes",
         "screambox yellow eyes"
+      ]
+    }
+  },
+  {
+    "id": "the-day-of-the-jackal-2024",
+    "slug": "the-day-of-the-jackal-2024",
+    "title": "The Day of the Jackal (2024)",
+    "year": 2024,
+    "type": "series",
+    "platform": "Peacock / Sky Atlantic",
+    "genre": "Spy Thriller Action Drama",
+    "date": "2026-09-30",
+    "datePublised": "2026-09-30",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "8 min read",
+    "poster": "/images/posters/the-day-of-the-jackal-2024.jpg",
+    "releaseDate": "2024-11-07",
+    "rating": "TV-MA",
+    "runtime": "10 episodes (46-61 min each)",
+    "director": "Brian Kirk",
+    "writers": [
+      "Ronan Bennett"
+    ],
+    "showrunner": "Ronan Bennett",
+    "cast": [
+      "Eddie Redmayne",
+      "Lashana Lynch",
+      "Ursula Corbero",
+      "Chukwudi Iwuji",
+      "Khalid Abdalla",
+      "Lia Williams",
+      "Charles Dance"
+    ],
+    "studio": "Sky Studios / Universal International Studios / Carnival Film and Television",
+    "distributor": "Sky Atlantic / Peacock",
+    "verdict": "BALANCED TRADITIONAL",
+    "wokeScore": 1.14,
+    "tradScore": 8.31,
+    "authIndex": 88,
+    "scoreMargin": "+7.17 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": "No hidden ideological content. The gender-swapped MI6 lead is visible from episode one and never used as a Trojan horse for progressive messaging. The show's politics are institutional cynicism, not identity politics.",
+    "tropeAudit": [
+      {
+        "id": "JACKAL-TRAD-001",
+        "name": "Competence as Virtue",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 4.2,
+        "explanation": "Both the Jackal and Bianca are defined entirely by professional excellence. The Jackal's precision as an assassin is treated with genuine admiration, and Bianca's detective work as an MI6 agent is shown as demanding and impressive. The show's central rivalry is a contest of skill, not ideology."
+      },
+      {
+        "id": "JACKAL-TRAD-002",
+        "name": "Male competence as narrative engine",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.15,
+        "explanation": "Eddie Redmayne's Jackal drives the plot through his extraordinary abilities -- disguise, marksmanship, tradecraft. The show does not apologize for making a male assassin the most compelling character on screen. His skill is the show's gravitational center."
+      },
+      {
+        "id": "JACKAL-TRAD-003",
+        "name": "Duty and Protection",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 0.72,
+        "explanation": "Bianca's pursuit of the Jackal is framed as professional duty -- she takes the assignment seriously and is willing to sacrifice for it. The Jackal's motivations, partially rooted in protecting his family, echo a traditional framework even when the actions are monstrous."
+      },
+      {
+        "id": "JACKAL-TRAD-004",
+        "name": "Loyalty to teammates",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Low",
+        "weightedScore": 0.24,
+        "explanation": "Bianca's loyalty to her MI6 team and the reciprocal loyalty among the Jackal's contacts create a professional-honor framework that operates independently of ideology."
+      },
+      {
+        "id": "JACKAL-WOKE-001",
+        "name": "Gender Role Inversion",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 0.72,
+        "explanation": "The series reimagines the MI6 hunter as a Black woman (Lashana Lynch), a deliberate gender-and-race swap from the traditionally male role. The character is written as competent rather than grievance-driven, but the casting choice is unmistakably contemporary."
+      },
+      {
+        "id": "JACKAL-WOKE-002",
+        "name": "Female Power Structure",
+        "category": "Woke",
+        "severity": 2,
+        "authenticity": "Low",
+        "centrality": "Moderate",
+        "weightedScore": 0.36,
+        "explanation": "Bianca occupies a position of institutional authority within MI6, and the agency's power structure includes women in leadership. This is presented as unremarkable within the show's world -- it is not a plot point but a production choice."
+      },
+      {
+        "id": "JACKAL-WOKE-003",
+        "name": "General Woke Element (Diverse Ensemble Casting)",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.06,
+        "explanation": "The ensemble cast is visibly diverse, consistent with 2024 UK/US co-production standards. This does not drive the narrative and is not remarked upon within the show."
+      }
+    ],
+    "summary": {
+      "overall": "The Day of the Jackal is Sky Atlantic and Peacock's 10-episode reimagining of Frederick Forsyth's 1971 novel and the 1973 film adaptation, transplanted into a contemporary political landscape with a reported budget of 100 million pounds -- making it one of the most expensive British television productions ever mounted. Eddie Redmayne stars as the Jackal, a ruthlessly precise international assassin whose identity is as fluid as his moral boundaries, while Lashana Lynch plays Bianca, the MI6 firearms officer who makes it her mission to track him down. Created and written by Ronan Bennett (Top Boy) and directed by Brian Kirk, the series strips the story of its Cold War architecture and rebuilds it as a cat-and-mouse thriller about two professionals who are mirror images of each other: both obsessive, both willing to sacrifice anyone, both utterly convinced of their own necessity. The series earned two Golden Globe nominations -- Best Drama Series and Best Actor for Redmayne -- and was renewed for a second season within weeks of its premiere. It is a sleek, expensive, and morally unsettled piece of television that raises questions about what it means to be good at something terrible.",
+      "traditionalContent": "The Day of the Jackal's traditional strengths lie in its commitment to competence as the organizing value of its world. Both the Jackal and Bianca are extraordinarily good at their jobs, and the show treats this excellence with genuine admiration. Redmayne's Jackal is not a traumatized victim of the system or an ideologue with a grievance -- he is a professional who chose his trade and pursues it with the precision of a surgeon. His craftsmanship is the show's most reliable pleasure. Bianca is similarly defined by her ability: she is a gifted investigator whose doggedness makes her the only person capable of connecting the dots. The show refuses to make her a symbol of female empowerment in a man's world -- it simply shows her being competent and lets the audience draw conclusions. The Jackal's family life -- a wife and child who know nothing of his work -- introduces a traditional domestic stake that makes his danger real. The series respects professional hierarchy, institutional procedure, and the weight of duty in a way that more ideologically freighted spy dramas (Homeland, Tehran) often subordinate to political messaging. The moral framework is not about which side is righteous; it is about whether excellence can coexist with evil, and whether duty demands you become a little monstrous yourself.",
+      "wokeContent": "The Day of the Jackal's primary woke element is the casting of Lashana Lynch as Bianca, a role that in any previous adaptation would have gone to a white man. This is a deliberate choice, and the show knows it. But the execution is notably restrained: Bianca is given no speeches about representation, no backstory of overcoming systemic barriers, and no moments where her identity is invoked as a source of authority or grievance. She is a professional who happens to be a Black woman, and the show treats this as unremarkable. Whether this restraint is principled or merely commercial -- an acknowledgment that spy-thriller audiences do not want a lecture -- is open to debate. The diverse ensemble casting across the MI6 team and the international locales reflects 2024 production norms, but none of it is foregrounded as political commentary. The show's actual politics are institutional cynicism: MI6 is bureaucratic, the government is self-interested, and the Jackal's clients are the global rich whose ideology is money. This is not a woke critique of Western power -- it is a noir suspicion of all power, which is a much older tradition."
+    },
+    "parentalGuidance": "The Day of the Jackal is rated TV-MA for strong violence, language, and adult themes. The violence is professional and cold rather than gratuitous, but it is frequent and lethal -- the Jackal is an assassin and the show does not sanitize his work. There are several intense shooting sequences, close-quarters killings, and moments of sustained tension. Sexual content is minimal but present. Strong language throughout. The series also deals with moral corruption, institutional betrayal, and the psychological cost of living a double life. Not appropriate for children or young teens. Older teens and adults who enjoy spy thrillers will find a sophisticated, morally complex drama. Parents should know the show does not glamorize the Jackal's violence -- it makes it look professional, which is in some ways more disturbing.",
+    "seo": {
+      "titleTag": "Is The Day of the Jackal (2024) Woke? Eddie Redmayne Spy Thriller Reviewed | VirtueVigil",
+      "metaDescription": "VirtueVigil VVWS review of The Day of the Jackal (2024), Sky/Peacock's spy thriller starring Eddie Redmayne and Lashana Lynch. Verdict: BALANCED TRADITIONAL (+7.17 TRAD). Parental guidance included.",
+      "keywords": [
+        "is the day of the jackal woke",
+        "the day of the jackal 2024 review",
+        "day of the jackal virtuevigil",
+        "day of the jackal woke or traditional",
+        "day of the jackal parents guide",
+        "eddie redmayne jackal",
+        "lashana lynch jackal"
       ]
     }
   }
