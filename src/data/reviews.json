@@ -202274,5 +202274,139 @@
         "district 9 political allegory"
       ]
     }
+  },
+  {
+    "id": "the-mummy-1999",
+    "slug": "the-mummy-1999",
+    "title": "The Mummy (1999)",
+    "year": 1999,
+    "type": "film",
+    "platform": "Streaming",
+    "genre": "Action Adventure Horror",
+    "date": "2026-09-30",
+    "datePublised": "2026-09-30",
+    "author": "VirtueVigil Editorial Team",
+    "readTime": "8 min read",
+    "poster": "/images/posters/the-mummy-1999.jpg",
+    "releaseDate": "1999-05-07",
+    "rating": "PG-13",
+    "runtime": "125 min",
+    "director": "Stephen Sommers",
+    "writers": [
+      "Stephen Sommers",
+      "Lloyd Fonvielle",
+      "Kevin Jarre"
+    ],
+    "showrunner": null,
+    "cast": [
+      "Brendan Fraser",
+      "Rachel Weisz",
+      "John Hannah",
+      "Arnold Vosloo",
+      "Oded Fehr",
+      "Jonathan Hyde",
+      "Kevin J. O'Connor"
+    ],
+    "studio": "Universal Pictures / Alphaville Films",
+    "distributor": "Universal Pictures",
+    "verdict": "BALANCED TRADITIONAL",
+    "wokeScore": 0.06,
+    "tradScore": 12.870000000000001,
+    "authIndex": 100,
+    "scoreMargin": "+12.81 TRAD",
+    "preRelease": false,
+    "wokeTrap": false,
+    "woke_trap_assessment": "No hidden woke content. The film is a straightforward adventure from start to finish with no late-act ideological pivot.",
+    "tropeAudit": [
+      {
+        "id": "MUMMY-TRAD-001",
+        "name": "The Rugged Individualist",
+        "category": "Traditional",
+        "severity": 4,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 4.2,
+        "explanation": "Rick O'Connell is the classic American adventure hero -- a former Legionnaire who survives by his wits and courage, leads by instinct, and never waits for permission. His individual competence is the engine that saves everyone."
+      },
+      {
+        "id": "MUMMY-TRAD-002",
+        "name": "Heterosexual Romance as Organizing Principle",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "High",
+        "weightedScore": 3.15,
+        "explanation": "The Rick-Evelyn romance is the emotional core of the film -- it motivates Rick's heroism, grounds Evelyn's arc, and resolves at the climax with a kiss in the treasure chamber. The romance is treated as aspirational, not ironic."
+      },
+      {
+        "id": "MUMMY-TRAD-003",
+        "name": "Objective Good vs. Evil",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.8,
+        "explanation": "Imhotep is unambiguous evil -- he wants to unleash the plagues of Egypt upon the world. The heroes fight him not because the system made him, but because he is a threat to the innocent that must be stopped."
+      },
+      {
+        "id": "MUMMY-TRAD-004",
+        "name": "Defense of the Innocent",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.2,
+        "explanation": "Rick repeatedly risks his life to protect Evelyn, Jonathan, and ultimately the world from Imhotep. His motivation is not ideology but the simple imperative to defend those who cannot defend themselves."
+      },
+      {
+        "id": "MUMMY-TRAD-005",
+        "name": "Traditional Femininity",
+        "category": "Traditional",
+        "severity": 2,
+        "authenticity": "Moderate",
+        "centrality": "Moderate",
+        "weightedScore": 0.72,
+        "explanation": "Evelyn is brilliant and bookish -- an Egyptologist -- but she is also feminine, romantic, and never masculinized. She screams, she needs rescue, she wears a dress, and none of this undercuts her intelligence."
+      },
+      {
+        "id": "MUMMY-TRAD-006",
+        "name": "Masculine Courage",
+        "category": "Traditional",
+        "severity": 3,
+        "authenticity": "High",
+        "centrality": "Moderate",
+        "weightedScore": 1.8,
+        "explanation": "Rick's physical courage is the film's action backbone -- gunfights, fistfights, and facing the undead without flinching. His bravery is treated as admirable, not toxic, and it inspires everyone around him."
+      },
+      {
+        "id": "MUMMY-WOKE-001",
+        "name": "Colonial/Imperial Guilt",
+        "category": "Woke",
+        "severity": 1,
+        "authenticity": "Low",
+        "centrality": "Low",
+        "weightedScore": 0.06,
+        "explanation": "The British and American characters are treasure hunters in colonial-era Egypt (1926). The film does not critique this -- the colonial presence is background setting, played for comedy (the foppish Brits) rather than moral reckoning."
+      }
+    ],
+    "summary": {
+      "overall": "The Mummy is Stephen Sommers's 1999 reimagining of Universal's 1932 horror classic, and it arrived at exactly the right cultural moment -- the last gasp of the pre-9/11 action-adventure blockbuster, when a movie could be scary, funny, romantic, and swashbuckling all at once without apologizing for any of it. Brendan Fraser stars as Rick O'Connell, an American adventurer and former Legionnaire who leads a pair of British siblings -- librarian Egyptologist Evelyn Carnahan (Rachel Weisz) and her cowardly-charming brother Jonathan (John Hannah) -- to the lost city of Hamunaptra. There they accidentally resurrect Imhotep (Arnold Vosloo), an ancient high priest cursed for murdering the pharaoh, who now seeks to restore his lost love by sacrificing Evelyn and unleashing the plagues of Egypt. What follows is one of the most purely enjoyable blockbusters of the 1990s: a film that knows exactly what it is and never pretends otherwise. The $80 million budget returned $422 million worldwide and launched a franchise that defined adventure cinema for a generation.",
+      "traditionalContent": "The Mummy is built entirely on a traditional moral chassis. Rick O'Connell is the rugged individualist par excellence -- he does not wait for orders, he does not seek approval, and he does not justify his courage with ideology. He fights because people need protecting. Evelyn is brilliant and bookish, the intellectual engine of the expedition, but her femininity is never sanded off in the name of empowerment. She screams, she needs rescue, she wears a dress to the climax -- and none of this diminishes her. The film treats her competence as natural rather than a political statement. The romance between Rick and Evelyn is the film's emotional spine: it is played straight, treated as aspirational, and resolved with a kiss in the treasure chamber. Imhotep is unambiguous evil -- a high priest who murdered his pharaoh and now seeks to sacrifice an innocent woman to resurrect his lost love. There is no moral ambiguity about stopping him. The Medjai, led by Ardeth Bay (Oded Fehr), are guardians of sacred duty, not victims of colonialism -- they are warriors who have protected the world for millennia. The film's values are courage, loyalty, romance, and the defense of the innocent. It asks nothing more complicated of its audience than to root for the good guys.",
+      "wokeContent": "The woke case against The Mummy is thin to the point of transparency. The film is set in 1926 colonial Egypt, and the heroes are British and American treasure hunters who treat Egyptian antiquities as loot. But the film does not treat this as a moral crime to be prosecuted -- it treats it as the premise for an adventure story. The British comic-relief characters (including Jonathan) are feckless and greedy, and the one genuinely greedy American (Beni, played by Kevin J. O'Connor) dies horribly as a direct consequence of his betrayal. The Medjai are the most honorable characters in the film. If there is a colonial critique embedded, it is so submerged and inconsistent as to be invisible. Some viewers might flag Evelyn as a proto-girl-boss because she is intelligent and drives the intellectual half of the expedition, but the film never frames her competence as a challenge to male authority -- it frames it as charming and essential to the mission. She is respected because she is good at her job, not because the film is making a political point about women in academia."
+    },
+    "parentalGuidance": "The Mummy is rated PG-13 for pervasive adventure violence and some partial nudity. The violence is mostly swashbuckling in tone -- gunfights, fistfights, sword fights -- with little gore. The scarab beetles burrowing under skin is the most disturbing image and may frighten younger viewers. Imhotep's partially decomposed form is grotesque but not nightmare-inducing for most kids. There is mild sexual innuendo and one scene of implied nudity (Evelyn in translucent nightwear). The film uses mild profanity. Suitable for ages 10 and up. Parents should know the film treats ancient Egyptian religion respectfully and the Medjai as honorable guardians -- it is not dismissive of Middle Eastern culture.",
+    "seo": {
+      "titleTag": "Is The Mummy (1999) Woke? Brendan Fraser's Action Classic Reviewed | VirtueVigil",
+      "metaDescription": "VirtueVigil VVWS review of The Mummy (1999). Brendan Fraser and Rachel Weisz star in Stephen Sommers's adventure classic. Verdict: BALANCED TRADITIONAL (+12.81 TRAD). Parental guidance included.",
+      "keywords": [
+        "is the mummy woke",
+        "the mummy 1999 review",
+        "the mummy virtuevigil",
+        "the mummy traditional or woke",
+        "the mummy parents guide",
+        "brendan fraser the mummy",
+        "stephen sommers the mummy"
+      ]
+    }
   }
 ]

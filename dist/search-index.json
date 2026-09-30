@@ -1,5 +1,17 @@
 [
   {
+    "slug": "the-mummy-1999",
+    "title": "The Mummy (1999)",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Streaming",
+    "genre": "Action Adventure Horror",
+    "year": 1999,
+    "type": "film",
+    "wokeScore": 0.06,
+    "tradScore": 12.870000000000001,
+    "poster": "/images/posters/the-mummy-1999.jpg"
+  },
+  {
     "slug": "charlie-harper-2026",
     "title": "Charlie Harper (2026)",
     "verdict": "BALANCED TRADITIONAL",
