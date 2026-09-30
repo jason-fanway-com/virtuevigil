@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Append 3 reviews to reviews.json for 2026-09-30 -- one per commit."""
 
-import json, subprocess, sys, os
+import json, subprocess, sys, os, time
 from datetime import date
 
 REVIEWS_PATH = "src/data/reviews.json"
