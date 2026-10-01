@@ -1,5 +1,41 @@
 [
   {
+    "slug": "heart-of-the-beast-2026",
+    "title": "Heart of the Beast",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Survival Thriller Adventure Drama",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 0.06,
+    "tradScore": 8.55,
+    "poster": "/images/posters/heart-of-the-beast-2026.jpg"
+  },
+  {
+    "slug": "city-of-god-2002",
+    "title": "City of God",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Multiple Streaming",
+    "genre": "Crime Drama Epic",
+    "year": 2002,
+    "type": "movie",
+    "wokeScore": 0.3,
+    "tradScore": 6.12,
+    "poster": "/images/posters/city-of-god-2002.jpg"
+  },
+  {
+    "slug": "east-of-eden-2026",
+    "title": "East of Eden",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Drama Literary Adaptation",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 0.3,
+    "tradScore": 10.59,
+    "poster": "/images/posters/east-of-eden-2026.jpg"
+  },
+  {
     "slug": "the-mummy-1999",
     "title": "The Mummy (1999)",
     "verdict": "BALANCED TRADITIONAL",
@@ -8,7 +44,7 @@
     "year": 1999,
     "type": "film",
     "wokeScore": 0.06,
-    "tradScore": 12.870000000000001,
+    "tradScore": 12.87,
     "poster": "/images/posters/the-mummy-1999.jpg"
   },
   {
