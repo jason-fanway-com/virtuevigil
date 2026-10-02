@@ -1,5 +1,39 @@
 [
   {
+    "slug": "verity-2026",
+    "title": "Verity",
+    "verdict": "BALANCED",
+    "genre": "Psychological Thriller, Erotic Thriller",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 0.45,
+    "tradScore": 2.16,
+    "poster": "/images/posters/verity-2026.jpg"
+  },
+  {
+    "slug": "master-and-commander-2003",
+    "title": "Master and Commander: The Far Side of the World",
+    "verdict": "TRADITIONAL LEAN",
+    "genre": "Historical Epic, War, Action-Adventure",
+    "year": 2003,
+    "type": "movie",
+    "wokeScore": 0.09,
+    "tradScore": 19.4,
+    "poster": "/images/posters/master-and-comander-2003.jpg"
+  },
+  {
+    "slug": "succession-2018",
+    "title": "Succession",
+    "verdict": "BALANCED",
+    "platform": "HBO",
+    "genre": "Satire, Drama, Dark Comedy",
+    "year": 2018,
+    "type": "series",
+    "wokeScore": 1.53,
+    "tradScore": 2.61,
+    "poster": "/images/posters/succession-2018.jpg"
+  },
+  {
     "slug": "heart-of-the-beast-2026",
     "title": "Heart of the Beast",
     "verdict": "BALANCED TRADITIONAL",
