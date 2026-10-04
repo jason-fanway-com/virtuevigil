@@ -1,5 +1,28 @@
 [
   {
+    "slug": "your-mother-your-mother-your-mother-2026",
+    "title": "Your Mother Your Mother Your Mother",
+    "verdict": "WOKE LEAN",
+    "genre": "Crime, Drama, Thriller",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 7.2,
+    "tradScore": 4.49,
+    "poster": "/images/posters/your-mother-your-mother-your-mother-2026.jpg"
+  },
+  {
+    "slug": "small-prophets-2026",
+    "title": "Small Prophets",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "BBC Two / BBC iPlayer",
+    "genre": "Comedy Drama, Fantasy",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 0.18,
+    "tradScore": 16.38,
+    "poster": "/images/posters/small-prophets-2026.jpg"
+  },
+  {
     "slug": "digger-2026",
     "title": "Digger",
     "verdict": "BALANCED",
@@ -20,6 +43,14 @@
     "wokeScore": 1.53,
     "tradScore": 10.71,
     "poster": "/images/posters/carrie-2026.jpg"
+  },
+  {
+    "slug": "trainspotting-1996",
+    "title": "Trainspotting",
+    "verdict": "BALANCED TRADITIONAL",
+    "year": 1996,
+    "type": "movie",
+    "poster": "/images/posters/trainspotting-1996.jpg"
   },
   {
     "slug": "verity-2026",
@@ -10717,13 +10748,5 @@
     "wokeScore": 3.6,
     "tradScore": 10.2,
     "poster": "/images/posters/love-hurts-2025.jpg"
-  },
-  {
-    "slug": "trainspotting-1996",
-    "title": "Trainspotting",
-    "verdict": "BALANCED TRADITIONAL",
-    "year": 1996,
-    "type": "movie",
-    "poster": "/images/posters/trainspotting-1996.jpg"
   }
 ]
