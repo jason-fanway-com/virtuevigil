@@ -1,5 +1,41 @@
 [
   {
+    "slug": "forgotten-island-2026",
+    "title": "Forgotten Island",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Animated, Fantasy Comedy, Adventure",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 0.7,
+    "tradScore": 12.32,
+    "poster": "/images/posters/forgotten-island-2026.jpg"
+  },
+  {
+    "slug": "the-big-lebowski-1998",
+    "title": "The Big Lebowski",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Streaming / Home Video",
+    "genre": "Comedy, Crime, Noir",
+    "year": 1998,
+    "type": "movie",
+    "wokeScore": 0.5,
+    "tradScore": 3.5,
+    "poster": "/images/posters/the-big-lebowski-1998.jpg"
+  },
+  {
+    "slug": "network-1976",
+    "title": "Network",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Streaming / Home Video",
+    "genre": "Satire, Black Comedy, Drama",
+    "year": 1976,
+    "type": "movie",
+    "wokeScore": 4.6,
+    "tradScore": 8.89,
+    "poster": "/images/posters/network-1976.jpg"
+  },
+  {
     "slug": "your-mother-your-mother-your-mother-2026",
     "title": "Your Mother Your Mother Your Mother",
     "verdict": "WOKE LEAN",
