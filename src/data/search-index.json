@@ -1,5 +1,41 @@
 [
   {
+    "slug": "musk-2026",
+    "title": "Musk",
+    "verdict": "PREDICTED: BALANCED",
+    "platform": "Theaters (Oct 9, 2026)",
+    "genre": "Documentary, Biography",
+    "year": 2026,
+    "type": "movie",
+    "wokeScore": 10.14,
+    "tradScore": 11.34,
+    "poster": "/images/posters/musk-2026.jpg"
+  },
+  {
+    "slug": "lawrence-of-arabia-1962",
+    "title": "Lawrence of Arabia",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Streaming / Home Video",
+    "genre": "Epic, Biography, Adventure, Drama, War",
+    "year": 1962,
+    "type": "movie",
+    "wokeScore": 5,
+    "tradScore": 17.22,
+    "poster": "/images/posters/lawrence-of-arabia-1962.jpg"
+  },
+  {
+    "slug": "get-jiro-2026",
+    "title": "Get Jiro!",
+    "verdict": "BALANCED",
+    "platform": "Adult Swim / HBO Max",
+    "genre": "Action, Thriller, Black Comedy, Post-Apocalyptic, Adult Animation",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 3.7,
+    "tradScore": 6.88,
+    "poster": "/images/posters/get-jiro-2026.jpg"
+  },
+  {
     "slug": "forgotten-island-2026",
     "title": "Forgotten Island",
     "verdict": "BALANCED TRADITIONAL",
