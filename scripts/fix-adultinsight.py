@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+"""Add adultInsight to last 3 reviews."""
+import json
+r = json.load(open('src/data/reviews.json'))
+
+# Clayface adultInsight
+r[-3]['summary']['adultInsight'] = """Clayface is the first DCU entry to operate fully outside the superhero template, chasing something closer to Cronenberg than cape fights. What makes it significant for our audience is the complete absence of the ideological scaffolding that has defined DC's recent output under Gunn and Safran. A disfigured actor who trades his humanity for monstrous transformation is a premise that resists political instrumentalization because its horror is existential, not social. Parents and viewers evaluating this film should understand that Flanagan's script treats identity as a personal terror rather than a metaphor for group membership. The question the film poses is not "what does society owe the marginalized?" but "what would you do to reclaim the face the world took from you?" That distinction is the entire ballgame."""
+
+# Bonnie and Clyde adultInsight
+r[-2]['summary']['adultInsight'] = """Bonnie and Clyde remains the most instructive film in Hollywood history for understanding how the moral landscape of cinema shifted in the late 1960s. It was denounced as immoral in its own time, but on a present-day viewing, what stands out is how conservative its moral framework actually is: the criminals are charismatic, they have their fun, and then they are obliterated in one of the most brutal death sequences ever filmed. The consequence is the point. Parents considering this for older teenagers should know that the film is doing precisely what VirtueVigil parent reviews look for -- presenting transgression as thrilling, then showing exactly what it costs. The violence is shocking by design, not exploitative, and the film's greatness lies in how it refuses to let the audience off the hook for enjoying the ride."""
+
+# Cupertino adultInsight
+r[-1]['summary']['adultInsight'] = """Cupertino arrives from Robert and Michelle King, the creative team behind The Good Wife and Evil, both shows that navigated the line between prestige television and political subtext with varying degrees of success. Our preliminary assessment flags this as a BALANCED WOKE title because the Kings' instinct is to frame corporate malfeasance in systemic terms -- the villain is not a single bad actor but "the system." The show's premise pairs a wronged Silicon Valley attorney with another ousted lawyer to take on the tech industry, which sets up a classic David-versus-Goliath narrative. Parents should be aware that the show's sympathies are explicitly aligned with individuals against institutions, and while that instinct is often justified in real cases of corporate abuse, the Kings' worldview tends to locate morality in collective action rather than individual virtue. The show airs on CBS, which imposes its own constraints -- expect broadcast-safe content with subtext that rewards close attention."""
+
+json.dump(r, open('src/data/reviews.json','w'), indent=2)
+print('Added adultInsight to last 3 reviews')
