@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "slug": "friday-the-13th-1980",
+    "type": "verdict",
+    "current": "TRADITIONAL",
+    "expected": "BALANCED TRADITIONAL",
+    "margin": 13
+  },
+  {
+    "slug": "the-trial-of-alec-baldwin-2026",
+    "type": "scoreMargin",
+    "current": "-4 WOKE",
+    "expected": "-3 WOKE",
+    "trad": 7.52,
+    "woke": 10.92,
+    "margin": -3
+  },
+  {
+    "slug": "the-trial-of-alec-baldwin-2026",
+    "type": "verdict",
+    "current": "PREDICTED: WOKE LEAN",
+    "expected": "BALANCED",
+    "margin": -3
+  },
+  {
+    "slug": "children-of-men-2006",
+    "type": "verdict",
+    "current": "TRADITIONAL",
+    "expected": "BALANCED TRADITIONAL",
+    "margin": 11
+  },
+  {
+    "slug": "apartment-7a-2024",
+    "type": "scoreMargin",
+    "current": "+8.84 TRAD",
+    "expected": "+9 TRAD",
+    "trad": 20.44,
+    "woke": 11.6,
+    "margin": 9
+  },
+  {
+    "slug": "the-mummy-1999",
+    "type": "scoreMargin",
+    "current": "+12.81 TRAD",
+    "expected": "+13 TRAD",
+    "trad": 12.87,
+    "woke": 0.06,
+    "margin": 13
+  }
+]

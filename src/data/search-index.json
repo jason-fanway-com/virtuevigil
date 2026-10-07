@@ -1,5 +1,41 @@
 [
   {
+    "slug": "clayface-2026",
+    "title": "Clayface",
+    "verdict": "PREDICTED: BALANCED TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Psychological Horror, Body Horror, Superhero",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 1.5,
+    "tradScore": 14.18,
+    "poster": "/images/posters/clayface-2026.jpg"
+  },
+  {
+    "slug": "bonnie-and-clyde-1967",
+    "title": "Bonnie and Clyde",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Streaming/Rental",
+    "genre": "Crime, Drama, Biographical",
+    "year": 1967,
+    "type": "film",
+    "wokeScore": 1.6,
+    "tradScore": 16.52,
+    "poster": "/images/posters/bonnie-and-clyde-1967.jpg"
+  },
+  {
+    "slug": "cupertino-2026",
+    "title": "Cupertino",
+    "verdict": "PREDICTED: BALANCED WOKE",
+    "platform": "CBS",
+    "genre": "Legal Drama",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 11.94,
+    "tradScore": 6.18,
+    "poster": "/images/posters/cupertino-2026.jpg"
+  },
+  {
     "slug": "musk-2026",
     "title": "Musk",
     "verdict": "PREDICTED: BALANCED",
