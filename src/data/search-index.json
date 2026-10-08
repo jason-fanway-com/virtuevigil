@@ -365,7 +365,7 @@
   {
     "slug": "the-trial-of-alec-baldwin-2026",
     "title": "The Trial of Alec Baldwin (2026)",
-    "verdict": "PREDICTED: WOKE LEAN",
+    "verdict": "BALANCED",
     "platform": "Theatrical",
     "genre": "Documentary",
     "year": 2026,
@@ -377,7 +377,7 @@
   {
     "slug": "children-of-men-2006",
     "title": "Children of Men (2006)",
-    "verdict": "TRADITIONAL",
+    "verdict": "BALANCED TRADITIONAL",
     "platform": "Theatrical / Streaming",
     "genre": "Science Fiction / Drama / Thriller",
     "year": 2006,
@@ -401,7 +401,7 @@
   {
     "slug": "friday-the-13th-1980",
     "title": "Friday the 13th (1980)",
-    "verdict": "TRADITIONAL",
+    "verdict": "BALANCED TRADITIONAL",
     "platform": "Theaters / Streaming",
     "genre": "Horror / Slasher",
     "year": 1980,
