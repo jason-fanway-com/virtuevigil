@@ -205318,143 +205318,6 @@
     "datePublished": "2026-10-08"
   },
   {
-    "id": "the-wolf-of-wall-street-2013",
-    "slug": "the-wolf-of-wall-street-2013",
-    "title": "The Wolf of Wall Street",
-    "year": 2013,
-    "type": "film",
-    "platform": "Theaters (2013), Streaming",
-    "genre": "Biographical Black Comedy Crime",
-    "date": "2026-10-08",
-    "datePublised": "2026-10-08",
-    "author": "VirtueVigil Editorial Team",
-    "readTime": "8 min read",
-    "poster": "/images/posters/the-wolf-of-wall-street-2013.jpg",
-    "releaseDate": "2013-12-25",
-    "rating": "R",
-    "runtime": "179 minutes",
-    "director": "Martin Scorsese",
-    "writers": [
-      "Terence Winter"
-    ],
-    "showrunner": null,
-    "cast": [
-      "Leonardo DiCaprio",
-      "Jonah Hill",
-      "Margot Robbie",
-      "Matthew McConaughey",
-      "Kyle Chandler",
-      "Rob Reiner",
-      "Jon Favreau"
-    ],
-    "studio": "Red Granite Pictures, Sikelia Productions, Appian Way Productions, EMJAG Productions",
-    "distributor": "Paramount Pictures",
-    "verdict": "BALANCED TRADITIONAL",
-    "wokeScore": 5.7,
-    "tradScore": 11.32,
-    "authIndex": 67,
-    "scoreMargin": "+5.62",
-    "preRelease": false,
-    "wokeTrap": false,
-    "woke_trap_assessment": "The Wolf of Wall Street does not employ a woke trap. The film's excess is on display from the first frame: drugs, sex, money, and moral bankruptcy are the text, not the subtext. Scorsese tells you exactly what kind of movie this is within the first ten minutes. There is no hidden ideological payload because the film is not making a political argument; it is telling a story about one man's corruption and the system that enabled it. Whether you read that story as a critique of capitalism or a cautionary tale about individual moral failure depends on your priors, but Scorsese does not trick you into either reading.",
-    "tropeAudit": [
-      {
-        "id": "WOWS-TRAD-001",
-        "name": "Consequences of Vice",
-        "category": "Traditional",
-        "severity": 4,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 5.04,
-        "explanation": "The film's three-hour runtime is a morality play in slow motion: Jordan Belfort acquires everything the world tells him to want and loses it all because he is morally incapable of stopping. The third act is a systematic dismantling of everything the first two acts built. Scorsese has been telling this story his whole career, and the moral architecture is traditional: sin leads to suffering, hubris to downfall, excess to ruin. The film may revel in the sin, but it never pretends the reckoning does not come."
-      },
-      {
-        "id": "WOWS-TRAD-002",
-        "name": "Traditional Family as Anchor / Lost",
-        "category": "Traditional",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 3.78,
-        "explanation": "Belfort's first marriage to Teresa ends because of his infidelity. His second marriage to Naomi begins in passion and ends in mutual destruction. The film tracks his moral decay through the dissolution of his family life with clinical precision. When Naomi tells Jordan she is divorcing him and taking the kids, the scene plays not as liberation but as the final accounting of a life built on lies. The traditional framing is unmistakable: the destruction of the family is the most visible symptom of Belfort's spiritual bankruptcy."
-      },
-      {
-        "id": "WOWS-TRAD-003",
-        "name": "Law Enforcement as Moral Order",
-        "category": "Traditional",
-        "severity": 2,
-        "authenticity": "Moderate",
-        "centrality": "Moderate",
-        "weightedScore": 1.0,
-        "explanation": "Kyle Chandler's FBI agent Patrick Denham is the film's quiet moral center. He rides the subway home to a modest apartment while Belfort helicopters to a mansion. He does not grandstand or moralize. He just does his job, patiently and competently, and the system works: Belfort goes to prison. In a Scorsese filmography that often ends with the law failing, Denham's quiet competence is a meaningful traditional signal."
-      },
-      {
-        "id": "WOWS-TRAD-004",
-        "name": "The American Dream as Personal Failure",
-        "category": "Traditional",
-        "severity": 2,
-        "authenticity": "Moderate",
-        "centrality": "Low",
-        "weightedScore": 1.5,
-        "explanation": "Belfort's trajectory can be read as a conservative morality tale: the American Dream offers opportunity, but character determines outcome. Belfort had legitimate talent as a salesman. He could have built something real. His failure is not systemic but personal: he chose theft over work, excess over restraint, and the consequences were earned, not imposed. This reading coexists with the film's more cynical surface and is arguably the one Scorsese intends."
-      },
-      {
-        "id": "WOWS-WOKE-001",
-        "name": "Capitalism as Corruption Engine",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "Moderate",
-        "centrality": "Moderate",
-        "weightedScore": 1.4,
-        "explanation": "The film can be read as an indictment of Wall Street culture and, by extension, American capitalism itself. Belfort's crimes are enabled by a system that rewards predatory behavior and punishes only those who get caught. The SEC is depicted as toothless, and the FBI investigation takes years. This reading is available in the text, but Scorsese's Catholicism tends to locate evil in individual souls rather than systems, which limits the centrality."
-      },
-      {
-        "id": "WOWS-WOKE-002",
-        "name": "Objectification of Women",
-        "category": "Woke",
-        "severity": 3,
-        "authenticity": "High",
-        "centrality": "High",
-        "weightedScore": 2.7,
-        "explanation": "The film's treatment of women is, by design, a depiction of how Belfort sees them: as status symbols, sexual objects, and disposable accessories. Margot Robbie's Naomi is introduced in a frame that makes her a visual commodity. The office culture at Stratton Oakmont treats women as rewards. This is the world Belfort inhabits, and the film does not editorialize against it as loudly as modern sensibilities might prefer. Whether depicting misogyny constitutes endorsing it is the debate the film has generated since release. Our scoring treats the depiction as an authentic reflection of the protagonist's worldview rather than the filmmaker's, but the centrality and severity of the content register."
-      },
-      {
-        "id": "WOWS-WOKE-003",
-        "name": "Critique of Wealth Inequality",
-        "category": "Woke",
-        "severity": 1,
-        "authenticity": "Low",
-        "centrality": "Low",
-        "weightedScore": 0.6,
-        "explanation": "The contrast between Belfort's helicopter commute and Denham's subway ride is the film's most explicit class commentary. But Scorsese does not build an argument around it; he shows it and moves on. The film is more interested in Belfort's interior life than in structural economic critique. Low centrality and authenticity keep this trope's weight minimal."
-      },
-      {
-        "id": "WOWS-WOKE-004",
-        "name": "White Male Villainy",
-        "category": "Woke",
-        "severity": 2,
-        "authenticity": "Moderate",
-        "centrality": "Low",
-        "weightedScore": 1.0,
-        "explanation": "The film's villains are almost exclusively white men operating in a largely white, male-dominated industry. In 2026, this registers as a modest woke signal: the film documents a patriarchy in its most unvarnished form. But Scorsese is not making a point about whiteness or masculinity; he is telling a specific story about specific people. The fact that the financial industry was demographically homogeneous in the 1990s is description, not prescription."
-      }
-    ],
-    "seo": {
-      "titleTag": "Is The Wolf of Wall Street (2013) Woke? Scorsese's Controversial Classic Reviewed | VirtueVigil",
-      "metaDescription": "VirtueVigil's full VVWS review of The Wolf of Wall Street (2013), Martin Scorsese's biographical black comedy starring Leonardo DiCaprio as Jordan Belfort. Trope scores, verdict: BALANCED TRADITIONAL (+5.62). Parental guidance included.",
-      "keywords": "is the wolf of wall street woke, wolf of wall street 2013 review, wolf of wall street virtuevigil, scorsese wolf of wall street traditional or woke, leonardo dicaprio wolf of wall street, wolf of wall street parents guide"
-    },
-    "summary": {
-      "overall": "The Wolf of Wall Street is Martin Scorsese's most misunderstood film, a three-hour black comedy that so many viewers mistook for a celebration that its actual moral argument got buried under the cocaine and Quaaludes. Released in 2013 and starring Leonardo DiCaprio as real-life stockbroker Jordan Belfort, the film chronicles the rise and spectacular fall of a man who had every advantage and used none of them well. The confusion was understandable: Scorsese films the debauchery with such kinetic energy that you can be forgiven for thinking he is throwing the party rather than documenting the hangover. But the architecture of the film is unmistakably traditional, and it earns a BALANCED TRADITIONAL verdict with a +5.62 margin. Consequences of Vice leads with 5.04 weighted points: the entire third act is a systematic dismantling of everything the first two acts built, and Belfort ends the film exactly where moral logic demands he end up (disgraced, imprisoned, divorced, and reduced to selling his sales techniques to awestruck audience members who have learned nothing). Traditional Family as Anchor/Lost adds 3.78 points through the film's careful tracking of Belfort's domestic destruction as the most visible symptom of his spiritual decay. The woke column is led by depictions of misogyny (2.7) that are authentic to the character but uncomfortable to watch. Capitalism as Corruption Engine registers at 1.4 points, though Scorsese's Catholic moral framework locates evil in souls rather than systems. Parents should know this is one of the hardest R ratings in modern cinema: the film held a Guinness World Record for profanity, contains extensive drug use, graphic sexual content, and sustained moral squalor. It is not for anyone under 17, and even some adults will find it exhausting.",
-      "wokeSummary": "The Wolf of Wall Street's woke content is concentrated in its depiction of women and its Wall Street setting. Objectification of Women leads the woke column at 2.7 weighted points through a sustained, three-hour immersion in a world where women are treated as status symbols and sexual rewards. Margot Robbie's Naomi is introduced as a visual commodity, and the Stratton Oakmont office culture treats women as interchangeable accessories. Capitalism as Corruption Engine registers at 1.4 points as an available but not central reading; Scorsese's film is more interested in individual souls than economic systems. White Male Villainy (1.0) and Critique of Wealth Inequality (0.6) round out the column at modest levels. Notably, these tropes derive more from the subject matter than from the film's argument. Scorsese is not asserting a political thesis; he is documenting a world, and the documentation itself registers on the woke scoreboard because of what the world contains.",
-      "tradSummary": "The traditional scaffolding is Scorsese's moral signature. Consequences of Vice leads at 5.04 points: the film is a slow-motion morality play in which every pleasure exacts its price, and the bill comes due in the third act with devastating precision. Traditional Family as Anchor/Lost adds 3.78 points through the dissolution of both of Belfort's marriages as the most visible index of his moral decay. When the second wife tells him she is taking the kids, the scene plays as final accounting, not liberation. Law Enforcement as Moral Order (1.0) is embodied in Kyle Chandler's quiet FBI agent, who rides the subway home while Belfort helicopters to excess and ultimately represents a system that works, however slowly. The American Dream as Personal Failure (1.5) offers a reading in which Belfort's tragedy is not systemic but personal: he had talent, opportunity, and the freedom to choose differently, and he chose ruin.",
-      "verdictExplanation": "BALANCED TRADITIONAL (+5.62 margin) places The Wolf of Wall Street on the traditional side of the ledger at a solid but not overwhelming margin. The score reflects a film whose moral architecture is traditional (sin leads to suffering, excess leads to ruin, family destruction is the final measure of a life) but whose content (graphic sex, drug abuse, misogyny, profanity) generates woke scores that partially offset the traditional framework. Scorsese's genius, and the source of the film's controversy, is that he makes the sin look so appealing that viewers have to work to see the moral argument underneath. But the argument is there, and it has been there in every Scorsese film since Mean Streets: the wages of sin is death, and Belfort's spiritual death is rendered in painstaking detail. The BALANCED TRADITIONAL verdict acknowledges both the traditional skeleton and the visceral, uncomfortable flesh that covers it.",
-      "parentalGuidance": "The Wolf of Wall Street is one of the hardest R ratings in mainstream cinema. The film contains over 500 uses of the word 'fuck,' extensive graphic drug use (cocaine, Quaaludes, crack), explicit sexual content including full frontal nudity, and sustained depictions of moral corruption. There is also domestic violence and a scene involving a child endangered during a drug episode. This film is absolutely not for anyone under 17, and many adults will find the content challenging. Parents who choose to watch this with older teens should be prepared for extended conversations about the difference between depiction and endorsement, and about why Scorsese shows what he shows. The moral argument is present but it requires active engagement to extract.",
-      "adultInsight": "Scorsese has spent fifty years making films about men who destroy themselves, and The Wolf of Wall Street is that story played at maximum volume. The film's controversy at release was predictable: audiences accustomed to having moral lessons underlined for them were confronted with a film that forces you to do the work yourself. Parents considering this for older teens should understand that the film's content is not gratuitous in the usual sense (it serves a moral argument), but it is graphic in ways that can overwhelm the argument if the viewer is not prepared. The film is best understood as a companion piece to Goodfellas and Casino: another rise-and-fall story in which the American Dream reveals itself as a moral trap for those without the character to handle success. The difference is that by 2013, Scorsese had stopped making the moral explicit, trusting his audience to find it. Many did not, which is its own commentary on the culture."
-    },
-    "datePublished": "2026-10-08"
-  },
-  {
     "id": "below-2026",
     "slug": "below-2026",
     "title": "Below",
@@ -205573,5 +205436,96 @@
       "adultInsight": "Below is the kind of series that Netflix, at its best, can deliver: a contained, atmospheric genre piece with strong performances and a premise that does not need to be more than what it is. The traditional underpinnings are not a political choice. They are a consequence of telling a story about a fisherman protecting his community. That such a story registers as BALANCED TRADITIONAL rather than neutral tells you something about the media environment in which it arrives. Parents considering this for family viewing should know that the horror elements are real and sustained, but the values underneath them are solid. In a streaming landscape where even the monsters usually come with a lecture, Below lets the monster be a monster and the father be a father. That is worth noting, and worth appreciating."
     },
     "datePublished": "2026-10-08"
+  },
+  {
+    "id": "the-great-escape-1963",
+    "slug": "the-great-escape-1963",
+    "title": "The Great Escape",
+    "year": 1963,
+    "type": "movie",
+    "runtime": 172,
+    "genre": "War, Adventure, Drama",
+    "director": "John Sturges",
+    "cast": [
+      "Steve McQueen",
+      "James Garner",
+      "Richard Attenborough",
+      "Charles Bronson",
+      "James Coburn",
+      "Donald Pleasence"
+    ],
+    "rating": "PG",
+    "imdbRating": 8.2,
+    "metacriticRating": 86,
+    "tropes": {
+      "traditional": [
+        {
+          "id": "TGE-TRAD-001",
+          "name": "Masculine Heroism Without Apology",
+          "description": "The film celebrates male courage, ingenuity, and quiet stoicism without irony or deconstruction. Steve McQueen's Cooler King and Charles Bronson's Tunnel King embody competence as virtue. Every man in the camp contributes according to his talent, and no one apologizes for being capable.",
+          "severity": 0.9,
+          "authenticity": 0.95
+        },
+        {
+          "id": "TGE-TRAD-002",
+          "name": "Patriotic Sacrifice and National Unity",
+          "description": "British, American, Australian, and Polish prisoners unite against a common enemy. The film treats national identity as a source of pride, not shame. When fifty escapees are executed, it is framed as martyrdom for freedom -- unironically heroic and unapologetically patriotic.",
+          "severity": 0.85,
+          "authenticity": 0.95
+        },
+        {
+          "id": "TGE-TRAD-003",
+          "name": "Meritocracy Under Pressure",
+          "description": "Every prisoner is valued for his specific contribution -- the forger, the scrounger, the tunnel expert, the tailor. The escape organization is a pure meritocracy where skill and character determine rank. No diversity quota, no identity-based selection. Competence is the only currency.",
+          "severity": 0.8,
+          "authenticity": 0.95
+        }
+      ],
+      "woke": [
+        {
+          "id": "TGE-WOKE-001",
+          "name": "Absent Female Perspective",
+          "description": "The film has virtually no female characters. The entire world of the story is male. A modern critic might call this erasure, but the film is set in an all-male POW camp and makes no pretense otherwise. This is historical fidelity, not ideology.",
+          "severity": 0.1,
+          "authenticity": 0.8
+        }
+      ]
+    },
+    "traditionalScore": 87.5,
+    "wokeScore": 5.0,
+    "scoreMargin": 82.5,
+    "consensus": "TRADITIONAL",
+    "summary": {
+      "overall": "John Sturges's 1963 masterpiece is the definitive prisoner-of-war film and one of the last great expressions of unapologetic masculine heroism in American cinema. Based on Paul Brickhill's nonfiction account of the real mass escape from Stalag Luft III, the film assembles an extraordinary ensemble -- Steve McQueen, James Garner, Richard Attenborough, Charles Bronson, James Coburn -- and gives each man a job to do and a moment to shine. The result is nearly three hours of tension, ingenuity, and sacrifice that never drags. It is a tribute to courage under impossible conditions and a reminder that the virtues Hollywood now deconstructs -- stoicism, patriotism, self-reliance, the willingness to die for freedom -- were once considered the highest expression of character. For parents, it is an essential film: a story about men who refused to surrender their dignity, told with the conviction that their fight mattered.",
+      "adultInsight": "The Great Escape is a film about the nobility of resistance. It treats the Allied cause as unquestionably righteous and the escapees as heroes, not complicated antiheroes. The execution of fifty recaptured prisoners is handled with devastating restraint -- a quick cut, a burst of gunfire, and the unbearable silence that follows. It trusts the audience to understand the weight of sacrifice without needing it explained. The famous motorcycle chase is not just a set piece; it is the film's thesis in motion: one man, alone, using everything he has to taste freedom, even if only for a moment. Modern films rarely allow heroism to be this pure or this confident. If you want your children to understand what courage looked like before irony colonized everything, start here.",
+      "parentalGuidance": "Rated PG but this is 1963 PG -- expect mild wartime violence, including the shooting of prisoners (off-screen but audible), some fistfights, and the constant tension of captivity. No sexual content, no profanity beyond period-appropriate mild language. The film deals honestly with death and the consequences of defiance. Younger children may find the ending upsetting; the escape largely fails and many characters they have come to love are killed. For ages 10 and up, it is an excellent conversation starter about courage, sacrifice, and what people will risk for freedom. The film treats every nationality with respect -- the Germans are adversaries, not caricatures."
+    },
+    "seo": {
+      "metaDescription": "VirtueVigil reviews The Great Escape (1963): our traditional/woke score breakdown of the classic WWII POW film, plus parent guidance.",
+      "keywords": [
+        "The Great Escape review",
+        "The Great Escape woke score",
+        "The Great Escape traditional",
+        "is The Great Escape woke",
+        "The Great Escape parent review",
+        "WWII movies for families",
+        "classic war films",
+        "John Sturges films"
+      ],
+      "faq": [
+        {
+          "question": "Is The Great Escape a woke movie?",
+          "answer": "No. The Great Escape (1963) is one of the least woke films in the American canon. It celebrates masculine courage, patriotic sacrifice, and individual merit without irony or deconstruction. VirtueVigil scores it TRADITIONAL with an 82.5-point margin."
+        },
+        {
+          "question": "Is The Great Escape appropriate for children?",
+          "answer": "It is appropriate for ages 10 and up. The film contains mild wartime violence -- fistfights and off-screen executions -- but no sexual content, gore, or strong language. Parents should know the ending is somber: many beloved characters die. The film provides an excellent opportunity to discuss courage, sacrifice, and the costs of freedom."
+        }
+      ]
+    },
+    "dateAdded": "2026-10-08T10:16:48.820375+00:00",
+    "updatedAt": "2026-10-08T10:16:48.820679+00:00",
+    "poster": "/images/posters/the-great-escape-1963.jpg",
+    "verdict": "TRADITIONAL"
   }
 ]

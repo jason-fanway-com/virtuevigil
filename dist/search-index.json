@@ -10880,5 +10880,15 @@
     "wokeScore": 3.6,
     "tradScore": 10.2,
     "poster": "/images/posters/love-hurts-2025.jpg"
+  },
+  {
+    "slug": "the-great-escape-1963",
+    "title": "The Great Escape",
+    "verdict": "TRADITIONAL",
+    "genre": "War, Adventure, Drama",
+    "year": 1963,
+    "type": "movie",
+    "wokeScore": 5,
+    "poster": "/images/posters/the-great-escape-1963.jpg"
   }
 ]
