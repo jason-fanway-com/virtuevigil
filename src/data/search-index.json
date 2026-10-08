@@ -1,5 +1,29 @@
 [
   {
+    "slug": "the-social-reckoning-2026",
+    "title": "The Social Reckoning",
+    "verdict": "BALANCED WOKE",
+    "platform": "Theaters",
+    "genre": "Biographical Legal Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 14.04,
+    "tradScore": 7.28,
+    "poster": "/images/posters/the-social-reckoning-2026.jpg"
+  },
+  {
+    "slug": "below-2026",
+    "title": "Below",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Drama, Horror, Mystery, Thriller",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 2.08,
+    "tradScore": 8.14,
+    "poster": "/images/posters/below-2026.jpg"
+  },
+  {
     "slug": "clayface-2026",
     "title": "Clayface",
     "verdict": "PREDICTED: BALANCED TRADITIONAL",
@@ -10856,5 +10880,15 @@
     "wokeScore": 3.6,
     "tradScore": 10.2,
     "poster": "/images/posters/love-hurts-2025.jpg"
+  },
+  {
+    "slug": "the-great-escape-1963",
+    "title": "The Great Escape",
+    "verdict": "TRADITIONAL",
+    "genre": "War, Adventure, Drama",
+    "year": 1963,
+    "type": "movie",
+    "wokeScore": 5,
+    "poster": "/images/posters/the-great-escape-1963.jpg"
   }
 ]
