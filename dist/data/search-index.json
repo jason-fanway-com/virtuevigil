@@ -1,5 +1,40 @@
 [
   {
+    "slug": "x-men-2000",
+    "title": "X-Men",
+    "verdict": "BALANCED TRADITIONAL",
+    "genre": "Action, Adventure, Sci-Fi, Superhero",
+    "year": 2000,
+    "type": "movie",
+    "wokeScore": 5.7,
+    "tradScore": 14.28,
+    "poster": "/images/posters/x-men-2000.jpg"
+  },
+  {
+    "slug": "loki-2021",
+    "title": "Loki",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Disney+",
+    "genre": "Action-Adventure, Crime Thriller, Fantasy, Sci-Fi, Superhero",
+    "year": 2021,
+    "type": "series",
+    "wokeScore": 5.76,
+    "tradScore": 9.48,
+    "poster": "/images/posters/loki-2021.jpg"
+  },
+  {
+    "slug": "blood-sacrifice-2026",
+    "title": "Blood Sacrifice",
+    "verdict": "PREDICTED: BALANCED TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Crime, Thriller, Drama",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": 1.5,
+    "tradScore": 10.32,
+    "poster": "/images/posters/blood-sacrifice-2026.jpg"
+  },
+  {
     "slug": "the-social-reckoning-2026",
     "title": "The Social Reckoning",
     "verdict": "BALANCED WOKE",
