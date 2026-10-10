@@ -1,5 +1,41 @@
 [
   {
+    "slug": "once-upon-a-time-in-the-middle-east-2026",
+    "title": "Once Upon a Time in the Middle East",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Theaters (China); International TBD",
+    "genre": "Comedy, Drama, War",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": 0.36,
+    "tradScore": 18.22,
+    "poster": "/images/posters/once-upon-a-time-in-the-middle-east-2026.jpg"
+  },
+  {
+    "slug": "spirited-away-2001",
+    "title": "Spirited Away",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Streaming / Home Video",
+    "genre": "Animation, Fantasy, Adventure",
+    "year": 2001,
+    "type": "film",
+    "wokeScore": 0.36,
+    "tradScore": 19.04,
+    "poster": "/images/posters/spirited-away-2001.jpg"
+  },
+  {
+    "slug": "nobody-wants-this-2024",
+    "title": "Nobody Wants This",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Romantic Comedy, Comedy Drama",
+    "year": 2024,
+    "type": "series",
+    "wokeScore": 3.46,
+    "tradScore": 11.32,
+    "poster": "/images/posters/nobody-wants-this-2024.jpg"
+  },
+  {
     "slug": "x-men-2000",
     "title": "X-Men",
     "verdict": "BALANCED TRADITIONAL",
