@@ -3849,7 +3849,7 @@ function buildListsHubPage() {
       'most-woke-comedy-movies-parents': 'Most Woke Comedy Movies Parents Should Know About (2026 Edition)',
       'woke-trap-movies-hiding-progressive-agendas': 'Woke Trap Alert: 25 Movies Hiding Progressive Agendas',
       'most-woke-drama-movies-all-time': 'The 20 Most Woke Drama Movies of All Time — VirtueVigil Rankings 2026',
-      'most-woke-horror-movies-parents-should-know': 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
+      'most-woke-horror-movies-parents-should-know': 'The 25 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
       'biopics-ranked-by-woke-score': 'Every Biopic Ranked by Woke Score: Which True Stories Hollywood Changed',
       'every-crime-movie-ranked-woke-score': 'Every Crime Movie & Series Ranked by Woke Score: 76 Films Tested',
       'every-2022-movie-ranked-by-woke-score': 'Every 2022 Movie Ranked by Woke Score: 33 Films Tested',
@@ -33668,10 +33668,10 @@ The short answer is no.</p>
   console.log('  lists/most-woke-horror-movies-parents-should-know/index.html');
   writePage('lists/most-woke-horror-movies-parents-should-know/index.html', buildListiclePage({
     slug: 'most-woke-horror-movies-parents-should-know',
-    title: 'The 20 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
-    description: 'From Heretic to Doctor Strange, we ranked the 20 most ideologically aggressive horror films in our database. Every score backed by VirtueVigil\'s dual-metric methodology. Parents, know what your kids are watching before the lights go out.',
+    title: 'The 25 Most Woke Horror Movies Parents Should Know About, Ranked by VirtueVigil',
+    description: 'From Heretic to Scream VI, we ranked the 25 most ideologically aggressive horror films in our database. Every score backed by VirtueVigil\'s dual-metric methodology. Parents, know what your kids are watching before the lights go out this Halloween.',
     canonicalPath: 'lists/most-woke-horror-movies-parents-should-know',
-    publishDate: '2026-08-09',
+    publishDate: '2026-10-10',
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-horror-movies-parents-should-know/content.html'), 'utf-8')
   }));
 
