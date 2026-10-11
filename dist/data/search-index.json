@@ -1,5 +1,29 @@
 [
   {
+    "slug": "double-indemnity-1944",
+    "title": "Double Indemnity",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Paramount+ / Digital Rental",
+    "genre": "Film Noir, Crime, Thriller",
+    "year": 1944,
+    "type": "movie",
+    "wokeScore": 0.3,
+    "tradScore": 17.22,
+    "poster": "/images/posters/double-indemnity-1944.jpg"
+  },
+  {
+    "slug": "1923-2022",
+    "title": "1923",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Paramount+",
+    "genre": "Neo-Western, Period Drama",
+    "year": 2022,
+    "type": "series",
+    "wokeScore": 2.6,
+    "tradScore": 15.54,
+    "poster": "/images/posters/1923-2022.jpg"
+  },
+  {
     "slug": "once-upon-a-time-in-the-middle-east-2026",
     "title": "Once Upon a Time in the Middle East",
     "verdict": "TRADITIONAL LEAN",
