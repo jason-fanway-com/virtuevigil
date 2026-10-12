@@ -1,5 +1,29 @@
 [
   {
+    "slug": "princess-mononoke-1997",
+    "title": "Princess Mononoke",
+    "verdict": "BALANCED TRADITIONAL",
+    "platform": "Max / Digital",
+    "genre": "Animated, Fantasy, Adventure, Historical Epic",
+    "year": "1997",
+    "type": "film",
+    "wokeScore": "4.90",
+    "tradScore": "19.04",
+    "poster": "/images/posters/princess-mononoke-1997.jpg"
+  },
+  {
+    "slug": "ted-lasso-2020",
+    "title": "Ted Lasso",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Apple TV+",
+    "genre": "Sports Comedy-Drama",
+    "year": "2020",
+    "type": "series",
+    "wokeScore": "8.38",
+    "tradScore": "21.56",
+    "poster": "/images/posters/ted-lasso-2020.jpg"
+  },
+  {
     "slug": "double-indemnity-1944",
     "title": "Double Indemnity",
     "verdict": "TRADITIONAL LEAN",
