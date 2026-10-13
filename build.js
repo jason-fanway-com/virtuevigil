@@ -33856,6 +33856,16 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-horror-movies-parents-should-know/content.html'), 'utf-8')
   }));
 
+  console.log('  lists/most-woke-horror-movies-all-time/index.html');
+  writePage('lists/most-woke-horror-movies-all-time/index.html', buildListiclePage({
+    slug: 'most-woke-horror-movies-all-time',
+    title: 'The 20 Most Woke Horror Movies of All Time -- Ranked by Ideological Content',
+    description: 'From Heretic and The Bride! to Midsommar and Get Out, we ranked the 20 most ideologically aggressive horror films in our database using the VirtueVigil dual-metric system. Essential reading before Halloween -- know what Hollywood encoded in the horror genre.',
+    canonicalPath: 'lists/most-woke-horror-movies-all-time',
+    publishDate: '2026-10-13',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-horror-movies-all-time/content.html'), 'utf-8')
+  }));
+
   console.log('  lists/biopics-ranked-by-woke-score/index.html');
   writePage('lists/biopics-ranked-by-woke-score/index.html', buildListiclePage({
     slug: 'biopics-ranked-by-woke-score',
