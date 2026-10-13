@@ -1,5 +1,41 @@
 [
   {
+    "slug": "animals-2026",
+    "title": "Animals",
+    "verdict": "TRADITIONAL",
+    "platform": "Netflix",
+    "genre": "Crime Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": "6.84",
+    "tradScore": "29.52",
+    "poster": "/images/posters/animals-2026.jpg"
+  },
+  {
+    "slug": "the-godfather-part-iii-1990",
+    "title": "The Godfather Part III",
+    "verdict": "TRADITIONAL",
+    "platform": "Various",
+    "genre": "Crime Drama, Epic",
+    "year": 1990,
+    "type": "film",
+    "wokeScore": "4.74",
+    "tradScore": "37.24",
+    "poster": "/images/posters/the-godfather-part-iii-1990.jpg"
+  },
+  {
+    "slug": "inside-the-circle-2026",
+    "title": "Inside the Circle",
+    "verdict": "TRADITIONAL LEAN",
+    "platform": "Netflix",
+    "genre": "Mystery, Thriller, Crime",
+    "year": 2026,
+    "type": "series",
+    "wokeScore": "2.80",
+    "tradScore": "19.14",
+    "poster": "/images/posters/inside-the-circle-2026.jpg"
+  },
+  {
     "slug": "princess-mononoke-1997",
     "title": "Princess Mononoke",
     "verdict": "BALANCED TRADITIONAL",
