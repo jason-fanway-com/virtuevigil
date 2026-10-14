@@ -9,7 +9,7 @@
     "type": "film",
     "wokeScore": "17.85",
     "tradScore": "7.84",
-    "poster": "/images/posters/the-shape-of-water.jpg"
+    "poster": "/images/posters/the-shape-of-water-2017.jpg"
   },
   {
     "slug": "gone-with-the-wind-1939",
@@ -21,7 +21,7 @@
     "type": "film",
     "wokeScore": "2.50",
     "tradScore": "31.92",
-    "poster": "/images/posters/gone-with-the-wind.jpg"
+    "poster": "/images/posters/gone-with-the-wind-1939.jpg"
   },
   {
     "slug": "she-hulk-attorney-at-law-2022",
@@ -33,7 +33,43 @@
     "type": "series",
     "wokeScore": "20.10",
     "tradScore": "1.00",
-    "poster": "/images/posters/she-hulk-attorney-at-law.jpg"
+    "poster": "/images/posters/she-hulk-attorney-at-law-2022.jpg"
+  },
+  {
+    "slug": "other-mommy-2026",
+    "title": "Other Mommy",
+    "verdict": "TRADITIONAL",
+    "platform": "Theaters",
+    "genre": "Supernatural Horror, Psychological Thriller",
+    "year": 2026,
+    "type": "film",
+    "wokeScore": "0.7",
+    "tradScore": "23.22",
+    "poster": "/images/posters/other-mommy-2026.jpg"
+  },
+  {
+    "slug": "singin-in-the-rain-1952",
+    "title": "Singin' in the Rain",
+    "verdict": "TRADITIONAL",
+    "platform": "Various",
+    "genre": "Musical, Romantic Comedy",
+    "year": 1952,
+    "type": "film",
+    "wokeScore": "1.4",
+    "tradScore": "21.7",
+    "poster": "/images/posters/singin-in-the-rain-1952.jpg"
+  },
+  {
+    "slug": "the-boys-complete-2019",
+    "title": "The Boys - Complete Series",
+    "verdict": "WOKE",
+    "platform": "Amazon Prime Video",
+    "genre": "Superhero Satire, Black Comedy, Political Drama",
+    "year": 2019,
+    "type": "series",
+    "wokeScore": "35.08",
+    "tradScore": "11.0",
+    "poster": "/images/posters/the-boys-complete-2019.jpg"
   },
   {
     "slug": "animals-2026",
