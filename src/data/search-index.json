@@ -1,5 +1,41 @@
 [
   {
+    "slug": "the-shape-of-water-2017",
+    "title": "The Shape of Water",
+    "verdict": "WOKE",
+    "platform": "Theatrical",
+    "genre": "Fantasy, Romance, Drama",
+    "year": 2017,
+    "type": "film",
+    "wokeScore": "17.85",
+    "tradScore": "7.84",
+    "poster": "/images/posters/the-shape-of-water.jpg"
+  },
+  {
+    "slug": "gone-with-the-wind-1939",
+    "title": "Gone with the Wind",
+    "verdict": "STRONGLY TRADITIONAL",
+    "platform": "Theatrical",
+    "genre": "Drama, Romance, Historical Epic",
+    "year": 1939,
+    "type": "film",
+    "wokeScore": "2.50",
+    "tradScore": "31.92",
+    "poster": "/images/posters/gone-with-the-wind.jpg"
+  },
+  {
+    "slug": "she-hulk-attorney-at-law-2022",
+    "title": "She-Hulk: Attorney at Law",
+    "verdict": "STRONGLY WOKE",
+    "platform": "Disney+",
+    "genre": "Superhero, Comedy, Legal",
+    "year": 2022,
+    "type": "series",
+    "wokeScore": "20.10",
+    "tradScore": "1.00",
+    "poster": "/images/posters/she-hulk-attorney-at-law.jpg"
+  },
+  {
     "slug": "animals-2026",
     "title": "Animals",
     "verdict": "TRADITIONAL",
