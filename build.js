@@ -34061,6 +34061,15 @@ The short answer is no.</p>
     htmlContent: fs.readFileSync(path.join(__dirname, 'lists/most-woke-tv-series-all-time/content.html'), 'utf-8')
   }));
 
+  writePage('lists/best-traditional-movies-of-the-2010s/index.html', buildListiclePage({
+    slug: 'best-traditional-movies-of-the-2010s',
+    title: 'The 20 Best Traditional Movies of the 2010s, Ranked by VirtueVigil',
+    description: 'From American Sniper to A Quiet Place, these 20 films defined the decade with courage, sacrifice, and family honor. Every score backed by VirtueVigil\'s dual-metric methodology. Ranked most traditional to least.',
+    canonicalPath: 'lists/best-traditional-movies-of-the-2010s',
+    publishDate: '2026-10-14',
+    htmlContent: fs.readFileSync(path.join(__dirname, 'lists/best-traditional-movies-of-the-2010s/content.html'), 'utf-8')
+  }));
+
 } // close buildSite async wrapper
 
 // Run the build
